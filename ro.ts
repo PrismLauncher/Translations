@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation type="vanished">Chei API</translation>
+        <translation>Chei API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,16 +88,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="vanished">(Implicit)</translation>
+        <translation>(Implicit)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="vanished">Introduceți aici un ID de client personalizat pentru autentificarea Microsoft.</translation>
+        <translation>Introduceți aici un ID de client personalizat pentru autentificarea Microsoft.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation type="vanished">&amp;API Modrinth</translation>
+        <translation>&amp;API Modrinth</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,15 +106,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="vanished">Introdu un token API custom pentru Modrinth aici.</translation>
+        <translation>Introdu un token API custom pentru Modrinth aici.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="vanished">(Niciuna)</translation>
+        <translation>(Niciuna)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="vanished">ID Client Technic</translation>
+        <translation>ID Client Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="vanished">Introduce un client personalizat ID GUID pentru Technic aici.</translation>
+        <translation>Introduce un client personalizat ID GUID pentru Technic aici.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Diverse</translation>
+        <translation>Diverse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="vanished">Introduceți un URL personalizat pentru metadate aici.</translation>
+        <translation>Introduceți un URL personalizat pentru metadate aici.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation type="vanished">API-ul de Bază &amp;CurseForge</translation>
+        <translation>API-ul de Bază &amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="vanished">Introduceți o cheie API pentru CurseForge aici.</translation>
+        <translation>Introduceți o cheie API pentru CurseForge aici.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation type="vanished">API-uri</translation>
+        <translation>API-uri</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation type="vanished">Nu s-a putut deschide configurația pachetului %1!</translation>
+        <translation>Nu s-a putut deschide configurația pachetului %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -417,12 +417,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="vanished">Nebifat</translation>
+        <translation>Nebifat</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="vanished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -450,37 +450,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="vanished">Gata</translation>
+        <translation>Gata</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="vanished">Funcționează</translation>
+        <translation>Funcționează</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="vanished">A dat eroare</translation>
+        <translation>A dat eroare</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="vanished">Expirat</translation>
+        <translation>Expirat</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="vanished">Dezactivat</translation>
+        <translation>Dezactivat</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="vanished">Dispărut</translation>
+        <translation>Dispărut</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="vanished">Necunoscut</translation>
+        <translation>Necunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1100,7 +1100,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="vanished">Se preiau fișierele de active de la Mojang...</translation>
+        <translation>Se preiau fișierele de active de la Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1492,11 +1492,11 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folderele globale de moduri și implicite pentru descărcări sunt verificate automat pentru modurile descărcate și ele vor fi copiate în instanță dacă sunt găsite.&lt;/p&gt;&lt;p&gt;Opțional, puteți da &quot;drag and drop&quot; modurilor descărcate în acest dialog sau adăuga un folder pentru a-l urmări dacă nu ați descărcat modurile într-o locație prestabilită.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folderele globale de moduri și implicite pentru descărcări sunt verificate automat pentru modurile descărcate și ele vor fi copiate în instanță dacă sunt găsite.&lt;/p&gt;&lt;p&gt;Opțional, puteți da &quot;drag and drop&quot; modurilor descărcate în acest dialog sau adăuga un folder pentru a-l urmări dacă nu ați descărcat modurile într-o locație prestabilită.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation type="vanished">Foldere urmărite:</translation>
+        <translation>Foldere urmărite:</translation>
     </message>
 </context>
 <context>
@@ -1640,7 +1640,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation type="vanished">Una sau mai multe sarcini au eșuat</translation>
+        <translation>Una sau mai multe sarcini au eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1883,7 +1883,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation type="vanished">Moduri de bază</translation>
+        <translation>Moduri de bază</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2023,22 +2023,22 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="vanished">&amp;Comenzi personalizate</translation>
+        <translation>&amp;Comenzi personalizate</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="vanished">Comandă p&amp;ost-ieșire:</translation>
+        <translation>Comandă p&amp;ost-ieșire:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="vanished">Comandă &amp;pre-lansare:</translation>
+        <translation>Comandă &amp;pre-lansare:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="vanished">Comandă &amp;wrapper:</translation>
+        <translation>Comandă &amp;wrapper:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2071,7 +2071,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation type="vanished">Comenzi personalizate</translation>
+        <translation>Comenzi personalizate</translation>
     </message>
 </context>
 <context>
@@ -2439,7 +2439,7 @@ Sigur doriți să continuați?</translation>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Se verifica dacă modurile au metadate atașate...</translation>
+        <translation>Se verifica dacă modurile au metadate atașate...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2491,7 +2491,7 @@ Sigur doriți să continuați?</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation type="vanished">&amp;Variabile de Mediu</translation>
+        <translation>&amp;Variabile de Mediu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2528,7 +2528,7 @@ Sigur doriți să continuați?</translation>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation type="vanished">Variabile de Mediu</translation>
+        <translation>Variabile de Mediu</translation>
     </message>
 </context>
 <context>
@@ -2667,11 +2667,11 @@ Sigur doriți să continuați?</translation>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="vanished">&amp;Nume</translation>
+        <translation>&amp;Nume</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation type="vanished">&amp;Versiune</translation>
+        <translation>&amp;Versiune</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2723,7 +2723,7 @@ Sigur doriți să continuați?</translation>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation type="vanished">&amp;Autor</translation>
+        <translation>&amp;Autor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2908,7 +2908,7 @@ Sigur doriți să continuați?</translation>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Filtru:</translation>
+        <translation>Filtru:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2917,11 +2917,11 @@ Sigur doriți să continuați?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Adauga</translation>
+        <translation>&amp;Adauga</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Adauga</translation>
+        <translation>Adauga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2930,7 +2930,7 @@ Sigur doriți să continuați?</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Elimină elementul selectat</translation>
+        <translation>Elimină elementul selectat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2939,7 +2939,7 @@ Sigur doriți să continuați?</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Activează elementul selectat</translation>
+        <translation>Activează elementul selectat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3054,7 +3054,7 @@ Sigur doriți să continuați?</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Descarcă o resursă nouă</translation>
+        <translation>Descarcă o resursă nouă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3064,27 +3064,27 @@ Sigur doriți să continuați?</translation>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Încearcă să verifici sau să actualizezi toate resursele selectate (toate resursele dacă nimic nu a fost selectat)</translation>
+        <translation>Încearcă să verifici sau să actualizezi toate resursele selectate (toate resursele dacă nimic nu a fost selectat)</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Vizitați pagina modului</translation>
+        <translation>Vizitați pagina modului</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="vanished">Dezactivați elementul selectat</translation>
+        <translation>Dezactivați elementul selectat</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Accesați pagina principală de moduri</translation>
+        <translation>Accesați pagina principală de moduri</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Exportați lista de mod-uri</translation>
+        <translation>Exportați lista de mod-uri</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">Exportați metadatele mod-ului în text</translation>
+        <translation>Exportați metadatele mod-ului în text</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -3146,12 +3146,12 @@ Sunteți sigur că vreți face asta?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation type="vanished">Confirmați dezactivare</translation>
+        <translation>Confirmați dezactivare</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="vanished">Dacă dezactivați această resursă cât timp se execută jocul, s-ar putea să eșueze.
+        <translation>Dacă dezactivați această resursă cât timp se execută jocul, s-ar putea să eșueze.
 Sunteți sigur că vreți face asta?</translation>
     </message>
     <message>
@@ -3224,16 +3224,16 @@ Sunteți sigur că vreți face asta?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="vanished">Editori externi (lăsați gol pentru ce este implicit sistemului)</translation>
+        <translation>Editori externi (lăsați gol pentru ce este implicit sistemului)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="vanished">&amp;Editor de text:</translation>
+        <translation>&amp;Editor de text:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation type="vanished">Unelte Externe</translation>
+        <translation>Unelte Externe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3295,17 +3295,17 @@ Sunteți sigur că vreți face asta?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation type="vanished">Executabila JVisualVM</translation>
+        <translation>Executabila JVisualVM</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="vanished">Eroare la verificarea instalării JVisualVM
+        <translation>Eroare la verificarea instalării JVisualVM
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="vanished">Configurarea JsualVM pare să fie OK</translation>
+        <translation>Configurarea JsualVM pare să fie OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3332,7 +3332,7 @@ Sunteți sigur că vreți face asta?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation type="vanished">Editor JSON</translation>
+        <translation>Editor JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3505,7 +3505,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="vanished">Primind un răspund API de la CurseForge de la &apos;%1&apos;...</translation>
+        <translation>Primind un răspund API de la CurseForge de la &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3544,16 +3544,16 @@ Vă rugăm să încercați din nou.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="vanished">Se pregătesc mod-urile pentru CurseForge...</translation>
+        <translation>Se pregătesc mod-urile pentru CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de mod.</translation>
+        <translation>Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de mod.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Modul are o versiune nouă disponibilă, dar nu poate fi descărcată folosind CurseForge.</translation>
+        <translation>Modul are o versiune nouă disponibilă, dar nu poate fi descărcată folosind CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3953,11 +3953,11 @@ Vă rugăm să încercați din nou.</translation>
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation type="vanished">Tastă</translation>
+        <translation>Tastă</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="vanished">Valoare</translation>
+        <translation>Valoare</translation>
     </message>
 </context>
 <context>
@@ -4362,11 +4362,11 @@ Vă rugăm să încercați din nou.</translation>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation type="vanished">&amp;Nume:</translation>
+        <translation>&amp;Nume:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation type="vanished">&amp;Grup:</translation>
+        <translation>&amp;Grup:</translation>
     </message>
 </context>
 <context>
@@ -4598,19 +4598,19 @@ Continuați cu prudență!</translation>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation type="vanished">Deschide setările globale</translation>
+        <translation>Deschide setările globale</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="vanished">Setarile de aici sunt suprapuneri pentru setarile globale.</translation>
+        <translation>Setarile de aici sunt suprapuneri pentru setarile globale.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation type="vanished">Insta&amp;lare Java</translation>
+        <translation>Insta&amp;lare Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation type="vanished">Auto-detectează...</translation>
+        <translation>Auto-detectează...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4618,72 +4618,72 @@ Continuați cu prudență!</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="vanished">Test</translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">Dacă este activat, launcherul nu va verifica dacă o instanță este compatibilă cu versiunea de Java selectată.</translation>
+        <translation>Dacă este activat, launcherul nu va verifica dacă o instanță este compatibilă cu versiunea de Java selectată.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="vanished">Săriți peste verificările de compatibilitate Java</translation>
+        <translation>Săriți peste verificările de compatibilitate Java</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="vanished">Memor&amp;ie</translation>
+        <translation>Memor&amp;ie</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">Memoria minim alocată:</translation>
+        <translation>Memoria minim alocată:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">Cantitatea maximă de memorie pe care o poate folosi Minecraftul.</translation>
+        <translation>Cantitatea maximă de memorie pe care o poate folosi Minecraftul.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">Cantitatea de memorie cu care porneste Minecraftul.</translation>
+        <translation>Cantitatea de memorie cu care porneste Minecraftul.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">Cantitatea de memorie valabila pentru a stoca clasele Java incarcate.</translation>
+        <translation>Cantitatea de memorie valabila pentru a stoca clasele Java incarcate.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Memoria maxim alocată:</translation>
+        <translation>Memoria maxim alocată:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Răsfoiește</translation>
+        <translation>Răsfoiește</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">Descărcați Java</translation>
+        <translation>Descărcați Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation type="vanished">PermGen:</translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="vanished">Notă: Permgen este setat automat de Java 8 şi ulterior</translation>
+        <translation>Notă: Permgen este setat automat de Java 8 şi ulterior</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation type="vanished">Argumen&amp;te Java</translation>
+        <translation>Argumen&amp;te Java</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation type="vanished">Ferestrele jocului</translation>
+        <translation>Ferestrele jocului</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation type="vanished">Fereastra jocului</translation>
+        <translation>Fereastra jocului</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="vanished">Pornește Minecraft maximizat</translation>
+        <translation>Pornește Minecraft maximizat</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4695,156 +4695,156 @@ Continuați cu prudență!</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation type="vanished">Înălţimea ferestrei:</translation>
+        <translation>Înălţimea ferestrei:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation type="vanished">Lățimea ferestrei:</translation>
+        <translation>Lățimea ferestrei:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation type="vanished">Setări Conso&amp;lă</translation>
+        <translation>Setări Conso&amp;lă</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="vanished">Arată consola în timp ce jocul rulează</translation>
+        <translation>Arată consola în timp ce jocul rulează</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">Închide automat consola atunci când jocul se inchide</translation>
+        <translation>Închide automat consola atunci când jocul se inchide</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="vanished">Arată consola când dă crash jocul</translation>
+        <translation>Arată consola când dă crash jocul</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="vanished">Închideți launcherul după deschiderea ferestrei de joc</translation>
+        <translation>Închideți launcherul după deschiderea ferestrei de joc</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="vanished">Închideți launcherul după ce fereastra jocului se închide</translation>
+        <translation>Închideți launcherul după ce fereastra jocului se închide</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation type="vanished">Comenzi Custom</translation>
+        <translation>Comenzi Custom</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="vanished">Variabile de mediu</translation>
+        <translation>Variabile de mediu</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation type="vanished">Soluții</translation>
+        <translation>Soluții</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation type="vanished">Biblioteci native</translation>
+        <translation>Biblioteci native</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="vanished">locația bibliotecii &amp;GLFW</translation>
+        <translation>locația bibliotecii &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="vanished">Utilizați instalarea implicita de GLFW</translation>
+        <translation>Utilizați instalarea implicita de GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="vanished">Utilizați instalarea implicita de OpenAL</translation>
+        <translation>Utilizați instalarea implicita de OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="vanished">Lume cu un jucător</translation>
+        <translation>Lume cu un jucător</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="vanished">Suprascrie cont prestabilit</translation>
+        <translation>Suprascrie cont prestabilit</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">Cont:</translation>
+        <translation>Cont:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Adițional</translation>
+        <translation>Adițional</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="vanished">locația bibliotecii &amp;OpenAL</translation>
+        <translation>locația bibliotecii &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">Performanță</translation>
+        <translation>Performanță</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pornește GameMode de la Feral Interactive, pentru a îmbunătăți potențial performanța în timpului jocului.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pornește GameMode de la Feral Interactive, pentru a îmbunătăți potențial performanța în timpului jocului.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">Pornește Feral GameMode</translation>
+        <translation>Pornește Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pornește suprapunerea conținând informații de performanță MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pornește suprapunerea conținând informații de performanță MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">Pornește MangoHud</translation>
+        <translation>Pornește MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folosește placa grafică dedicată în locul plăcii primare GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folosește placa grafică dedicată în locul plăcii primare GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">Folosește placa grafică dedicată</translation>
+        <translation>Folosește placa grafică dedicată</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="vanished">Folosiți Zink, un driver pentru Mesa OpenGL care implementează OpenGL pe deasupra lui Vulkan. Performața poate varia în funcție de situație. Notă: Dacă nu este nici-un driver Vulkan valabil, video va fi procesat în software (video rendering).</translation>
+        <translation>Folosiți Zink, un driver pentru Mesa OpenGL care implementează OpenGL pe deasupra lui Vulkan. Performața poate varia în funcție de situație. Notă: Dacă nu este nici-un driver Vulkan valabil, video va fi procesat în software (video rendering).</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="vanished">Folosiți Zink</translation>
+        <translation>Folosiți Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="vanished">Setări vechi</translation>
+        <translation>Setări vechi</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulează utilizările vechilor servicii online care nu mai funcționează.&lt;/p&gt;&lt;p&gt;Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulează utilizările vechilor servicii online care nu mai funcționează.&lt;/p&gt;&lt;p&gt;Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="vanished">Activează remedieri online (experimental)</translation>
+        <translation>Activează remedieri online (experimental)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation type="vanished">Suprascrie setările globale ale jocului</translation>
+        <translation>Suprascrie setările globale ale jocului</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="vanished">Arată timpul petrecut în această instanță</translation>
+        <translation>Arată timpul petrecut în această instanță</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation type="vanished">Arată timpul petrecut în această instanță</translation>
+        <translation>Arată timpul petrecut în această instanță</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="vanished">Setează un server pentru a intra la deschidere</translation>
+        <translation>Setează un server pentru a intra la deschidere</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="vanished">Adresă server:</translation>
+        <translation>Adresă server:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4853,39 +4853,39 @@ Continuați cu prudență!</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="vanished">Calea către fișierul bibliotecă %1</translation>
+        <translation>Calea către fișierul bibliotecă %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">GameMode de la Feral Interactive nu a putut fi găsit în sistemul dumneavoastră.</translation>
+        <translation>GameMode de la Feral Interactive nu a putut fi găsit în sistemul dumneavoastră.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">MangoHud nu a putut fi găsit în sistemul dumneavoastră.</translation>
+        <translation>MangoHud nu a putut fi găsit în sistemul dumneavoastră.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Selectați o versiune Java</translation>
+        <translation>Selectați o versiune Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">Confirmați selecția</translation>
+        <translation>Confirmați selecția</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">Ați selectat o versiune 32-bit de Java.
+        <translation>Ați selectat o versiune 32-bit de Java.
 Versiunea această nu poate rula cu mai mult de 2048MiB de RAM.
 Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Găsește executabilul Java</translation>
+        <translation>Găsește executabilul Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Memoria maximă alocată este mai mică decât valoarea minimă</translation>
+        <translation>Memoria maximă alocată este mai mică decât valoarea minimă</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4893,11 +4893,11 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">Memoria dumneavoastră maximă este mai mare decât memoria maximă disponibilă în sistem.</translation>
+        <translation>Memoria dumneavoastră maximă este mai mare decât memoria maximă disponibilă în sistem.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Memoria dumneavoastră maximă se apropie de memoria maximă disponibilă în sistem.</translation>
+        <translation>Memoria dumneavoastră maximă se apropie de memoria maximă disponibilă în sistem.</translation>
     </message>
 </context>
 <context>
@@ -5002,7 +5002,7 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation type="vanished">JVisualVM a pornit</translation>
+        <translation>JVisualVM a pornit</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -5029,15 +5029,15 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="vanished">Se extrage Java (progresul nu este raportat arhivelor tar)</translation>
+        <translation>Se extrage Java (progresul nu este raportat arhivelor tar)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation type="vanished">Nu s-a putut deschide fișierul tar aprovizionat.</translation>
+        <translation>Nu s-a putut deschide fișierul tar aprovizionat.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="vanished">Nu s-a putut extracta fișierul tar dat.</translation>
+        <translation>Nu s-a putut extracta fișierul tar dat.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5051,7 +5051,7 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation type="vanished">Nu s-a putut determina tipul arhivei!</translation>
+        <translation>Nu s-a putut determina tipul arhivei!</translation>
     </message>
 </context>
 <context>
@@ -5157,70 +5157,70 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Memorie</translation>
+        <translation>Memorie</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">Cantitatea maximă de memorie pe care o poate folosi Minecraftul.</translation>
+        <translation>Cantitatea maximă de memorie pe care o poate folosi Minecraftul.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="vanished">&amp;Memorie alocată minim:</translation>
+        <translation>&amp;Memorie alocată minim:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="vanished">&amp;Memoria alocată maxim:</translation>
+        <translation>&amp;Memoria alocată maxim:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation type="vanished">&amp;PermisiuneGenerator:</translation>
+        <translation>&amp;PermisiuneGenerator:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">Cantitatea de memorie cu care pornește Minecraft-ul.</translation>
+        <translation>Cantitatea de memorie cu care pornește Minecraft-ul.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">Cantitatea de memorie valabila pentru a stoca clasele Java încărcate.</translation>
+        <translation>Cantitatea de memorie valabila pentru a stoca clasele Java încărcate.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation type="vanished">Runtime Java</translation>
+        <translation>Runtime Java</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation type="vanished">Argumente JVM:</translation>
+        <translation>Argumente JVM:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="vanished">Selectează automat versiunea de Java compatibilă cu instanța curentă de Minecraft, în funcție de versiunea majoră necesară.</translation>
+        <translation>Selectează automat versiunea de Java compatibilă cu instanța curentă de Minecraft, în funcție de versiunea majoră necesară.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">Detectează automat versiunea de Java</translation>
+        <translation>Detectează automat versiunea de Java</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="vanished">Cale &amp;Java:</translation>
+        <translation>Cale &amp;Java:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="vanished">Descarcă și selectează automat versiunea de Java recomandată de Mojang.</translation>
+        <translation>Descarcă și selectează automat versiunea de Java recomandată de Mojang.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">Descarcă automat Java de la Mojang</translation>
+        <translation>Descarcă automat Java de la Mojang</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation type="vanished">Gestionare</translation>
+        <translation>Gestionare</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation type="vanished">Versiuni de Java descărcate</translation>
+        <translation>Versiuni de Java descărcate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5250,33 +5250,33 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="vanished">&amp;Auto-detecție...</translation>
+        <translation>&amp;Auto-detecție...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="vanished">&amp;Test</translation>
+        <translation>&amp;Test</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Răsfoiește</translation>
+        <translation>Răsfoiește</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="vanished">Dacă este activat, lansatorul nu vă va solicita să alegeți o versiune Java dacă nicio versiune nu este găsită.</translation>
+        <translation>Dacă este activat, lansatorul nu vă va solicita să alegeți o versiune Java dacă nicio versiune nu este găsită.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="vanished">Săriți peste &amp;Vrăjitorul Java</translation>
+        <translation>Săriți peste &amp;Vrăjitorul Java</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">Dacă este activat, lansatorul nu va verifica dacă o instanță este compatibilă cu versiunea Java selectată.</translation>
+        <translation>Dacă este activat, lansatorul nu va verifica dacă o instanță este compatibilă cu versiunea Java selectată.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="vanished">&amp;Săriți verificările de compatibilitate Java</translation>
+        <translation>&amp;Săriți verificările de compatibilitate Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5297,35 +5297,35 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Selectați o versiune Java</translation>
+        <translation>Selectați o versiune Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">Confirmați selecția</translation>
+        <translation>Confirmați selecția</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">Ați selectat o versiune 32-bit de Java.
+        <translation>Ați selectat o versiune 32-bit de Java.
 Versiunea această nu poate rula cu mai mult de 2048MiB de RAM.
 Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Găsește executabilul Java</translation>
+        <translation>Găsește executabilul Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">Memoria dumneavoastră maximă este mai mare decât memoria maximă disponibilă în sistem.</translation>
+        <translation>Memoria dumneavoastră maximă este mai mare decât memoria maximă disponibilă în sistem.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Memoria dumneavoastră maximă se apropie de memoria maximă disponibilă în sistem.</translation>
+        <translation>Memoria dumneavoastră maximă se apropie de memoria maximă disponibilă în sistem.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Memoria maximă alocată este mai mică decât valoarea minimă</translation>
+        <translation>Memoria maximă alocată este mai mică decât valoarea minimă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5344,7 +5344,7 @@ Sigur doriți să continuați?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation type="vanished">Nu a fost selectată nicio versiune de Java</translation>
+        <translation>Nu a fost selectată nicio versiune de Java</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5362,11 +5362,11 @@ Puteți schimba versiunea Java mai târziu din setări.
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">Descărcați Java</translation>
+        <translation>Descărcați Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="vanished">Java pe 32 de biți detectat</translation>
+        <translation>Java pe 32 de biți detectat</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5375,7 +5375,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">Ați selectat o instalare Java pe 32 de biți, dar ați alocat mai mult de 2048MiB ca memorie maximă.
+        <translation>Ați selectat o instalare Java pe 32 de biți, dar ați alocat mai mult de 2048MiB ca memorie maximă.
 %1 nu va putea porni Minecraft.
 Doriți să continuați?
 
@@ -5389,7 +5389,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">Fie nu ați selectat nicio versiune de Java, fie ați selectat una care nu funcționează.
+        <translation>Fie nu ați selectat nicio versiune de Java, fie ați selectat una care nu funcționează.
 %1 nu va putea porni Minecraft.
 Doriți să continuați fără o versiune funcțională de Java?
 
@@ -5403,7 +5403,7 @@ Puteți schimba versiunea de Java din setări ulterior.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Memorie</translation>
+        <translation>Memorie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5412,7 +5412,7 @@ Puteți schimba versiunea de Java din setări ulterior.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">Memoria minimă alocată:</translation>
+        <translation>Memoria minimă alocată:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5514,7 +5514,7 @@ Puteți schimba versiunea de Java din setări ulterior.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Memoria maximă alocată:</translation>
+        <translation>Memoria maximă alocată:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5553,19 +5553,19 @@ Puteți schimba versiunea de Java din setări ulterior.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Răsfoiește</translation>
+        <translation>Răsfoiește</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">Descarcă automat Java de la Mojang</translation>
+        <translation>Descarcă automat Java de la Mojang</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">Detectează automat versiunea de Java</translation>
+        <translation>Detectează automat versiunea de Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="vanished">Detectare automată Java</translation>
+        <translation>Detectare automată Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5603,15 +5603,15 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Memoria dumneavoastră maximă se apropie de memoria maximă disponibilă în sistem.</translation>
+        <translation>Memoria dumneavoastră maximă se apropie de memoria maximă disponibilă în sistem.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Memoria maximă alocată este mai mică decât valoarea minimă</translation>
+        <translation>Memoria maximă alocată este mai mică decât valoarea minimă</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="vanished">Depășiți alocarea maximă acceptată de versiunile Java pe 32 de biți.</translation>
+        <translation>Depășiți alocarea maximă acceptată de versiunile Java pe 32 de biți.</translation>
     </message>
 </context>
 <context>
@@ -5908,11 +5908,11 @@ Doriți să jucați demo-ul?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation type="vanished">Joacă offline</translation>
+        <translation>Joacă offline</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Contul a expirat; trebuie să vă conectați manual din nou.</translation>
+        <translation>Contul a expirat; trebuie să vă conectați manual din nou.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -5921,7 +5921,7 @@ Doriți să jucați demo-ul?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="vanished">Identificatorul clientului folosit de launcher s-a schimbat. Vă rugăm să eliminați acest cont și să-l adăugați din nou.</translation>
+        <translation>Identificatorul clientului folosit de launcher s-a schimbat. Vă rugăm să eliminați acest cont și să-l adăugați din nou.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -5930,7 +5930,7 @@ Doriți să jucați demo-ul?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="vanished">Contul nu mai există pe server. În cazul în care a fost migrat, vă rugăm să-l adaugați din nou.</translation>
+        <translation>Contul nu mai există pe server. În cazul în care a fost migrat, vă rugăm să-l adaugați din nou.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6061,11 +6061,11 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation type="vanished">Caracteristici</translation>
+        <translation>Caracteristici</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation type="vanished">Actualizați Setările</translation>
+        <translation>Actualizați Setările</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6212,7 +6212,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation type="vanished">Modul de sortare a instanțelor</translation>
+        <translation>Modul de sortare a instanțelor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6227,7 +6227,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     </message>
     <message>
         <source>Theme</source>
-        <translation type="vanished">Temă</translation>
+        <translation>Temă</translation>
     </message>
     <message>
         <source>&amp;Icons</source>
@@ -6251,17 +6251,17 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     </message>
     <message>
         <source>Mods</source>
-        <translation type="vanished">Mod-uri</translation>
+        <translation>Mod-uri</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="vanished">Dezactivează folosirea metadatelor provenite de la furnizori de moduri (cum ar fi Modrinth sau Curseforge) pentru moduri.</translation>
+        <translation>Dezactivează folosirea metadatelor provenite de la furnizori de moduri (cum ar fi Modrinth sau Curseforge) pentru moduri.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="vanished">Dezactivează utilizarea metadatelor pentru moduri</translation>
+        <translation>Dezactivează utilizarea metadatelor pentru moduri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6280,12 +6280,12 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation type="vanished">Verificați folderul de descărcări în mod recursiv</translation>
+        <translation>Verificați folderul de descărcări în mod recursiv</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="vanished">Dezactivați verificarea, instalarea și actualizarea automată a dependențelor de mod.</translation>
+        <translation>Dezactivați verificarea, instalarea și actualizarea automată a dependențelor de mod.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -6293,15 +6293,15 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     </message>
     <message>
         <source>Update interval</source>
-        <translation type="vanished">Interval de actualizare</translation>
+        <translation>Interval de actualizare</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="vanished">Setați-l la 0 pentru a verifica doar la lansare</translation>
+        <translation>Setați-l la 0 pentru a verifica doar la lansare</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="obsolete">o</translation>
+        <translation type="unfinished">o</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
@@ -6310,27 +6310,27 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation type="vanished">Oprește gestionarea automată a dependențelor de mod</translation>
+        <translation>Oprește gestionarea automată a dependențelor de mod</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="vanished">La crearea unei noi instanțe de modpack, nu sugerați actualizarea instanțelor existente.</translation>
+        <translation>La crearea unei noi instanțe de modpack, nu sugerați actualizarea instanțelor existente.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation type="vanished">Sari peste solicitarea de actualizare a modpack-ului</translation>
+        <translation>Sari peste solicitarea de actualizare a modpack-ului</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Diverse</translation>
+        <translation>Diverse</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation type="vanished">Numărul de sarcini concurente</translation>
+        <translation>Numărul de sarcini concurente</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation type="vanished">numărul de descărcări simultane</translation>
+        <translation>numărul de descărcări simultane</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6339,7 +6339,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation type="vanished">Timp de expirare pentru cererile HTTP</translation>
+        <translation>Timp de expirare pentru cererile HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6348,7 +6348,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation type="vanished">Număr de reîncercări manuale</translation>
+        <translation>Număr de reîncercări manuale</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6362,23 +6362,23 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     </message>
     <message>
         <source>Cat</source>
-        <translation type="vanished">Pisică</translation>
+        <translation>Pisică</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="vanished">Setează opacitatea pisicii. 0% este transparent și 100% este opac.</translation>
+        <translation>Setează opacitatea pisicii. 0% este transparent și 100% este opac.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="vanished">Opacitate</translation>
+        <translation>Opacitate</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="vanished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="vanished">Unelte</translation>
+        <translation>Unelte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6443,27 +6443,27 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     </message>
     <message>
         <source>Console Settings</source>
-        <translation type="vanished">Setări Consolă</translation>
+        <translation>Setări Consolă</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="vanished">Arată consola în timp ce jocul &amp;rulează</translation>
+        <translation>Arată consola în timp ce jocul &amp;rulează</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">Închide &amp;automat consola atunci când jocul se închide</translation>
+        <translation>Închide &amp;automat consola atunci când jocul se închide</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="vanished">Arată consola când jocul dă &amp;crash</translation>
+        <translation>Arată consola când jocul dă &amp;crash</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="vanished">Limită &amp;istorie</translation>
+        <translation>Limită &amp;istorie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6479,7 +6479,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="vanished">&amp;Font consolă</translation>
+        <translation>&amp;Font consolă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6543,23 +6543,23 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="vanished">[Test/EROARE] OOoooOOOoooo! O eroare înfricoșătoare!</translation>
+        <translation>[Test/EROARE] OOoooOOOoooo! O eroare înfricoșătoare!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="vanished">[Test/EROARE] O eroare înfricoșătoare!</translation>
+        <translation>[Test/EROARE] O eroare înfricoșătoare!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="vanished">[Test/AVERTIZARE] O avertizare nu chiar așa de înfricoșătoare.</translation>
+        <translation>[Test/AVERTIZARE] O avertizare nu chiar așa de înfricoșătoare.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="vanished">[Test/DEBUG] Un mesaj secret de debug...</translation>
+        <translation>[Test/DEBUG] Un mesaj secret de debug...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="vanished">[Test/FATAL] O eroare fatală terifiantă!</translation>
+        <translation>[Test/FATAL] O eroare fatală terifiantă!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6567,7 +6567,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="vanished">[Test/INFO] Un mesaj inofensiv...</translation>
+        <translation>[Test/INFO] Un mesaj inofensiv...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6575,7 +6575,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation type="vanished">Lansator</translation>
+        <translation>Lansator</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6683,7 +6683,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation type="vanished">Nu s-a putut deschide fișierul modpack-ului %1!</translation>
+        <translation>Nu s-a putut deschide fișierul modpack-ului %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -6899,12 +6899,12 @@ Motiv:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Actualizare index pentru mod:
+        <translation>Actualizare index pentru mod:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Metadate nevalide</translation>
+        <translation>Metadate nevalide</translation>
     </message>
 </context>
 <context>
@@ -6977,7 +6977,7 @@ Motiv:
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Caută:</translation>
+        <translation>Caută:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7089,7 +7089,7 @@ Motiv:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation type="vanished">Nu s-a putut crea:</translation>
+        <translation>Nu s-a putut crea:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7106,7 +7106,11 @@ Motiv:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation type="obsolete">Nu s-a putut deschide fișierul zip dat.</translation>
+        <translation type="unfinished">Nu s-a putut deschide fișierul zip dat.</translation>
+    </message>
+    <message>
+        <source>Failed to seek to first file in zip</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7135,7 +7139,7 @@ Motiv:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="obsolete">Nu s-au putut repara permisiunile pentru %1</translation>
+        <translation type="unfinished">Nu s-au putut repara permisiunile pentru %1</translation>
     </message>
 </context>
 <context>
@@ -7244,11 +7248,11 @@ Motiv:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="vanished">Deschideți %1 sau scanați codul QR și introduceți codul de mai sus.</translation>
+        <translation>Deschideți %1 sau scanați codul QR și introduceți codul de mai sus.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation type="vanished">Deschideți %1 și introduceți codul de mai sus.</translation>
+        <translation>Deschideți %1 și introduceți codul de mai sus.</translation>
     </message>
 </context>
 <context>
@@ -7485,7 +7489,7 @@ Motiv:
     </message>
     <message>
         <source>More news...</source>
-        <translation type="vanished">Mai multe știri...</translation>
+        <translation>Mai multe știri...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7861,7 +7865,7 @@ Motiv:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="vanished">Creează o Comandă Rapidă pe Desktop pentru a Lansa Instanța Selectată.</translation>
+        <translation>Creează o Comandă Rapidă pe Desktop pentru a Lansa Instanța Selectată.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
@@ -7887,7 +7891,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="vanished">Sunteți pe cale să Ștergeți „%1”.
+        <translation>Sunteți pe cale să Ștergeți „%1”.
 Acest lucru poate fi Permanent și va Șterge Complet Instanța.
 
 Esti sigur?</translation>
@@ -8134,7 +8138,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="vanished">Există instanțe legate</translation>
+        <translation>Există instanțe legate</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8144,7 +8148,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="vanished">
+        <translation>
             <numerusform>Următoarea instanță poate face referire la fișiere în această instanță:
 
 %1
@@ -8170,39 +8174,43 @@ Doresti sa continui?</numerusform>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation type="vanished">Creați o comandă rapidă pentru instanță</translation>
+        <translation>Creați o comandă rapidă pentru instanță</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="vanished">Nu ați putut găsi desktop-ul?!</translation>
+        <translation>Nu ați putut găsi desktop-ul?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="vanished">Lansatorul se află în folderul din care a fost extras, prin urmare nu poate crea comenzi rapide.</translation>
+        <translation>Lansatorul se află în folderul din care a fost extras, prin urmare nu poate crea comenzi rapide.</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation type="vanished">Creați aplicație de instanță</translation>
+        <translation>Creați aplicație de instanță</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation type="vanished">Nu s-a putut crea o pictogramă pentru aplicație.</translation>
+        <translation>Nu s-a putut crea o pictogramă pentru aplicație.</translation>
+    </message>
+    <message>
+        <source>Desktop Entries</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="vanished">Am creat o comandă rapidă către această instanță pe desktop-ul dumneavoastră!</translation>
+        <translation>Am creat o comandă rapidă către această instanță pe desktop-ul dumneavoastră!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation type="vanished">Am creat o comandă rapidă către această instanță!</translation>
+        <translation>Am creat o comandă rapidă către această instanță!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation type="vanished">Nu s-a putut crea comanda rapidă pentru instanță!</translation>
+        <translation>Nu s-a putut crea comanda rapidă pentru instanță!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="vanished">Lansatorul rulează ca AppImage greșit? (variabila de mediu $APPIMAGE lipsește)</translation>
+        <translation>Lansatorul rulează ca AppImage greșit? (variabila de mediu $APPIMAGE lipsește)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8268,7 +8276,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="vanished">Nu s-a putut crea o pictogramă pentru scurtătură.</translation>
+        <translation>Nu s-a putut crea o pictogramă pentru scurtătură.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8276,7 +8284,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="vanished">Nu este suportat de platforma ta!</translation>
+        <translation>Nu este suportat de platforma ta!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -8332,11 +8340,11 @@ Are you sure?</source>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation type="vanished">Informații despre pachet</translation>
+        <translation>Informații despre pachet</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation type="vanished">Numele pachetului:</translation>
+        <translation>Numele pachetului:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8375,7 +8383,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Update from file</source>
-        <translation type="vanished">Actualizează de la fișier</translation>
+        <translation>Actualizează de la fișier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8438,7 +8446,7 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
     </message>
     <message>
         <source>Update pack</source>
-        <translation type="vanished">Actualizează pachet</translation>
+        <translation>Actualizează pachet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -8606,148 +8614,148 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation type="vanished">Mărime Fereastră</translation>
+        <translation>Mărime Fereastră</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="vanished">Pornește Minecraft &amp;maximizat</translation>
+        <translation>Pornește Minecraft &amp;maximizat</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="vanished">&amp;Înălțime Fereastră:</translation>
+        <translation>&amp;Înălțime Fereastră:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="vanished">&amp;Lățime Fereastră:</translation>
+        <translation>&amp;Lățime Fereastră:</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation type="vanished">Arată timpul jucat în ore</translation>
+        <translation>Arată timpul jucat în ore</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation type="vanished">Ajustări</translation>
+        <translation>Ajustări</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="vanished">Setări vechi</translation>
+        <translation>Setări vechi</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulează utilizările vechilor servicii online care nu mai funcționează.&lt;/p&gt;&lt;p&gt;Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulează utilizările vechilor servicii online care nu mai funcționează.&lt;/p&gt;&lt;p&gt;Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="vanished">Activează remedieri online (experimental)</translation>
+        <translation>Activează remedieri online (experimental)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation type="vanished">Soluții de rezolvare ale bibliotecii native</translation>
+        <translation>Soluții de rezolvare ale bibliotecii native</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="vanished">Utilizați instalarea implicita de &amp;GLFW</translation>
+        <translation>Utilizați instalarea implicita de &amp;GLFW</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="vanished">locația bibliotecii &amp;GLFW</translation>
+        <translation>locația bibliotecii &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="vanished">Utilizați instalarea implicită de &amp;OpenAL</translation>
+        <translation>Utilizați instalarea implicită de &amp;OpenAL</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="vanished">locația bibliotecii &amp;OpenAL</translation>
+        <translation>locația bibliotecii &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">Performanță</translation>
+        <translation>Performanță</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pornește GameMode de la Feral Interactive, pentru a îmbunătăți potențial performanța jocului.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pornește GameMode de la Feral Interactive, pentru a îmbunătăți potențial performanța jocului.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">Pornește Feral GameMode</translation>
+        <translation>Pornește Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pornește overlay-ul avansat de performanță MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pornește overlay-ul avansat de performanță MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">Pornește MangoHud</translation>
+        <translation>Pornește MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folosește placa grafică dedicată în locul plăcii primare GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folosește placa grafică dedicată în locul plăcii primare GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">Folosește placa grafică dedicată</translation>
+        <translation>Folosește placa grafică dedicată</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Folosiți Zink, un driver Mesa OpenGl care implementează OpenGl deasupra API-ului Vulkan. Performanța poate varia în funcție de situație. Notă: Dacă nu se descoperă niciun driver Vulkan adecvat, redarea software-ului va fi folosită.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Folosiți Zink, un driver Mesa OpenGl care implementează OpenGl deasupra API-ului Vulkan. Performanța poate varia în funcție de situație. Notă: Dacă nu se descoperă niciun driver Vulkan adecvat, redarea software-ului va fi folosită.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="obsolete">Folosiți Zink</translation>
+        <translation type="unfinished">Folosiți Zink</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation type="vanished">Timp de joc</translation>
+        <translation>Timp de joc</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">General</translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="vanished">Arată timpul petrecut &amp;jucând instanțele</translation>
+        <translation>Arată timpul petrecut &amp;jucând instanțele</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="vanished">Arată timpul petrecut jucând &amp;toate instanțele</translation>
+        <translation>Arată timpul petrecut jucând &amp;toate instanțele</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="vanished">&amp;Înregistrează timpul petrecut jucând instanțele</translation>
+        <translation>&amp;Înregistrează timpul petrecut jucând instanțele</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Adițional</translation>
+        <translation>Adițional</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher-ul se va redeschide automat când jocul se blochează sau iese.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher-ul se va redeschide automat când jocul se blochează sau iese.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="vanished">&amp;Închide launcher-ul după ce fereastra jocului se deschide</translation>
+        <translation>&amp;Închide launcher-ul după ce fereastra jocului se deschide</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher-ul va închide automat după ce jocul iese sau se blochează. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher-ul va închide automat după ce jocul iese sau se blochează. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="vanished">&amp;Ieși din launcher după ce fereastra jocului se închide</translation>
+        <translation>&amp;Ieși din launcher după ce fereastra jocului se închide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -8756,19 +8764,19 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="vanished">Calea către fișierul bibliotecă %1</translation>
+        <translation>Calea către fișierul bibliotecă %1</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation type="vanished">Cale auto-detectată: %1</translation>
+        <translation>Cale auto-detectată: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">GameMode de la Feral Interactive nu a putut fi găsit în sistemul dumneavoastră.</translation>
+        <translation>GameMode de la Feral Interactive nu a putut fi găsit în sistemul dumneavoastră.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">MangoHud nu a putut fi găsit în sistemul dumneavoastră.</translation>
+        <translation>MangoHud nu a putut fi găsit în sistemul dumneavoastră.</translation>
     </message>
 </context>
 <context>
@@ -9365,7 +9373,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Necunoscut</translation>
+        <translation>Necunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -9465,7 +9473,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">De unde a fost descărcat modul.</translation>
+        <translation>De unde a fost descărcat modul.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -9510,7 +9518,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Descarcă moduri</translation>
+        <translation>Descarcă moduri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -9523,11 +9531,11 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Adaugă fișier</translation>
+        <translation>Adaugă fișier</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Adaugă un fișier descărcat local</translation>
+        <translation>Adaugă un fișier descărcat local</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -9542,11 +9550,11 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Verificați dependențele</translation>
+        <translation>Verificați dependențele</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">Încercați sa actualizați și verificați dependențe lipsă pentru toate mod-urile selecate (toate mod-urile dacă niciun mod nu este selectat)</translation>
+        <translation>Încercați sa actualizați și verificați dependențe lipsă pentru toate mod-urile selecate (toate mod-urile dacă niciun mod nu este selectat)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
@@ -9556,27 +9564,35 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Mergi la pagina principală a modului</translation>
+        <translation>Mergi la pagina principală a modului</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">Elimină metadatele modului</translation>
+        <translation>Elimină metadatele modului</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">Schimbă Versiune</translation>
+        <translation type="unfinished">Schimbă Versiune</translation>
+    </message>
+    <message>
+        <source>Change mod version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Vizitați pagina modului</translation>
+        <translation>Vizitați pagina modului</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Vizitează paginile modului</translation>
+        <translation>Vizitează paginile modului</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Mergi la paginile modurilor selectate</translation>
+        <translation>Mergi la paginile modurilor selectate</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -9592,7 +9608,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation type="vanished">Te rog instalează un încărcător de moduri mai întâi!</translation>
+        <translation>Te rog instalează un încărcător de moduri mai întâi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -9784,92 +9800,92 @@ Sunteți sigur/ă ca vreți sa faceți asta?</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Confirmeaza modurile pentru actualizare</translation>
+        <translation>Confirmeaza modurile pentru actualizare</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">Ești pe cale să actualizezi următoarele moduri:</translation>
+        <translation>Ești pe cale să actualizezi următoarele moduri:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Doar modurile cu o bifă vor fi actualizate!</translation>
+        <translation>Doar modurile cu o bifă vor fi actualizate!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Numele modului: %1&lt;br&gt;Numele fișierului: %2&lt;br&gt;Motiv: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Numele modului: %1&lt;br&gt;Numele fișierului: %2&lt;br&gt;Motiv: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Generarea de metadata a eșuat</translation>
+        <translation>Generarea de metadata a eșuat</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Nu s-a putut genera metadata pentru următoarele moduri:&lt;br&gt;Dorești să continui fără acele moduri?</translation>
+        <translation>Nu s-a putut genera metadata pentru următoarele moduri:&lt;br&gt;Dorești să continui fără acele moduri?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Verificare pentru actualizări</translation>
+        <translation>Verificare pentru actualizări</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Avertizări</translation>
+        <translation>Avertizări</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Renunță</translation>
+        <translation>Renunță</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Verificare pentru actualizări...</translation>
+        <translation>Verificare pentru actualizări...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Numele modului: %1</translation>
+        <translation>Numele modului: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Motiv: %1</translation>
+        <translation>Motiv: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Soluție posibilă: Obținerea celei mai noi versiuni manual:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Soluție posibilă: Obținerea celei mai noi versiuni manual:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Verificare pentru dependențe...</translation>
+        <translation>Verificare pentru dependențe...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">Modul &apos;%1&apos; nu are încă metadata. Trebuie sa o generăm pentru a urmări informații relevante despre cum să actualizăm modul. Pentru a face asta, te rugăm selectează un furnizor de moduri pe care îl putem folosi pentru a verifica actualizări pentru acest mod.</translation>
+        <translation>Modul &apos;%1&apos; nu are încă metadata. Trebuie sa o generăm pentru a urmări informații relevante despre cum să actualizăm modul. Pentru a face asta, te rugăm selectează un furnizor de moduri pe care îl putem folosi pentru a verifica actualizări pentru acest mod.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Nu s-a putut găsi o versiune validă în furnizorul(ii) de moduri selectat(ți)</translation>
+        <translation>Nu s-a putut găsi o versiune validă în furnizorul(ii) de moduri selectat(ți)</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="obsolete">Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
+        <translation type="unfinished">Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Verificarea pentru actualizări a eșuat</translation>
+        <translation>Verificarea pentru actualizări a eșuat</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Nu s-au putut verifica actualizări pentru următoarele moduri:&lt;br&gt;Dorești să continui fără aceste moduri?</translation>
+        <translation>Nu s-au putut verifica actualizări pentru următoarele moduri:&lt;br&gt;Dorești să continui fără aceste moduri?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Se caută metadata</translation>
+        <translation>Se caută metadata</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Generare metadata...</translation>
+        <translation>Generare metadata...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -9877,35 +9893,35 @@ Sunteți sigur/ă ca vreți sa faceți asta?</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Furnizor: %1</translation>
+        <translation>Furnizor: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Versiune veche: %1</translation>
+        <translation>Versiune veche: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Nu este instalat</translation>
+        <translation>Nu este instalat</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Versiune nouă: %1</translation>
+        <translation>Versiune nouă: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Tip Versiune Nouă: %1</translation>
+        <translation>Tip Versiune Nouă: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Cerut de: %1</translation>
+        <translation>Cerut de: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Cerut de:</translation>
+        <translation>Cerut de:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Jurnalul de modificări al celei mai noi versiuni</translation>
+        <translation>Jurnalul de modificări al celei mai noi versiuni</translation>
     </message>
 </context>
 <context>
@@ -9970,7 +9986,7 @@ Te rugăm actualizează %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Pregătire moduri pentru Modrinth...</translation>
+        <translation>Pregătire moduri pentru Modrinth...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10008,7 +10024,7 @@ Te rugăm actualizează %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de moduri.</translation>
+        <translation>Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de moduri.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -10494,27 +10510,27 @@ Te rugăm actualizează %1!</translation>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation type="vanished">Adaugă cont</translation>
+        <translation>Adaugă cont</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="vanished">Nume Utilizator</translation>
+        <translation>Nume Utilizator</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="vanished">Numele utilizatorului mai lung de 16 caractere nu poate fi folosit pentru jocuri în LAN sau servere pe modul offline.</translation>
+        <translation>Numele utilizatorului mai lung de 16 caractere nu poate fi folosit pentru jocuri în LAN sau servere pe modul offline.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation type="vanished">Permite nume de utilizator lungi</translation>
+        <translation>Permite nume de utilizator lungi</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">Anulează</translation>
+        <translation type="unfinished">Anulează</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="obsolete">OK</translation>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -10565,7 +10581,7 @@ Te rugăm actualizează %1!</translation>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Găsește</translation>
+        <translation>Găsește</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -10654,32 +10670,32 @@ Te rugăm actualizează %1!</translation>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation type="vanished">Ștergeți jurnalul</translation>
+        <translation>Ștergeți jurnalul</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Ștergeți</translation>
+        <translation>Ștergeți</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="vanished">Încarcă jurnalul la un serviciu de lipiri configurat în preferințe.</translation>
+        <translation>Încarcă jurnalul la un serviciu de lipiri configurat în preferințe.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">Încărcaţi</translation>
+        <translation>Încărcaţi</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation type="vanished">Curăță</translation>
+        <translation>Curăță</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">Reîncărcați</translation>
+        <translation>Reîncărcați</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Caută:</translation>
+        <translation>Caută:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -10700,7 +10716,7 @@ Te rugăm actualizează %1!</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation type="vanished">Fișierul (%1) nu se poate citi.</translation>
+        <translation>Fișierul (%1) nu se poate citi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="379"/>
@@ -10765,7 +10781,7 @@ Ești sigur(ă)?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation type="vanished">Alte jurnale</translation>
+        <translation>Alte jurnale</translation>
     </message>
 </context>
 <context>
@@ -10803,33 +10819,37 @@ Ești sigur(ă)?</translation>
         <source>Help</source>
         <translation type="unfinished">Ajutor</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation type="vanished">Încărcare la %1</translation>
+        <translation>Încărcare la %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation type="vanished">Eroare de rețea: %1</translation>
+        <translation>Eroare de rețea: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="vanished">Eroare: %1 a returnat un cod de stare neașteptat %2 %3</translation>
+        <translation>Eroare: %1 a returnat un cod de stare neașteptat %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="vanished">Eroare: %1 a returnat un corp de răspuns malformat</translation>
+        <translation>Eroare: %1 a returnat un corp de răspuns malformat</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="vanished">Eroare: %1 a returnat o eroare: %2</translation>
+        <translation>Eroare: %1 a returnat o eroare: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="vanished">Eroare: %1 a returnat un cod de eroare: %2
+        <translation>Eroare: %1 a returnat un cod de eroare: %2
 Mesaj de eroare: %3</translation>
     </message>
 </context>
@@ -11507,7 +11527,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation type="vanished">Server-ul a returnat următoarea eroare:</translation>
+        <translation>Server-ul a returnat următoarea eroare:</translation>
     </message>
 </context>
 <context>
@@ -11560,7 +11580,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="vanished">%Implicit</translation>
+        <translation>%Implicit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -11678,18 +11698,18 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Website</source>
-        <translation type="vanished">Site web</translation>
+        <translation>Site web</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="vanished">%1 Dezvoltatori</translation>
+        <translation>%1 Dezvoltatori</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation type="vanished">Cu mulțumiri pentru</translation>
+        <translation>Cu mulțumiri pentru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -11745,7 +11765,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="vanished">Încărcarea a eșuat</translation>
+        <translation>Încărcarea a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -12004,7 +12024,7 @@ Acest mesaj va fi afișat până ștergi acest argument din argumentele JVM-ului
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="vanished">Binarul Java specificat nu a funcționat.&lt;br /&gt;Ar trebui să folosești auto-detectarea, sau seteaza calea către executabilul Java.&lt;br /&gt;</translation>
+        <translation>Binarul Java specificat nu a funcționat.&lt;br /&gt;Ar trebui să folosești auto-detectarea, sau seteaza calea către executabilul Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -12032,7 +12052,7 @@ Acest mesaj va fi afișat până ștergi acest argument din argumentele JVM-ului
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation type="vanished">Cale invalidă către JVisualVM</translation>
+        <translation>Cale invalidă către JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -12057,7 +12077,7 @@ Acest mesaj va fi afișat până ștergi acest argument din argumentele JVM-ului
     </message>
     <message>
         <source>No author(s)</source>
-        <translation type="vanished">Nu există autor(i)</translation>
+        <translation>Nu există autor(i)</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -12260,7 +12280,7 @@ NOTIȚĂ: Asigură-te că ai făcut o copie de rezervă a datelor instanțelor i
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="obsolete">Nu s-au putut repara permisiunile pentru %1</translation>
+        <translation type="unfinished">Nu s-au putut repara permisiunile pentru %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -12653,7 +12673,7 @@ Mesaj de eroare: %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">Schimbă versiune %1</translation>
+        <translation>Schimbă versiune %1</translation>
     </message>
 </context>
 <context>
@@ -13077,11 +13097,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Numele resursei.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Data și timpul la care această resursă a fost schimbată ultima dată (sau adăugată).</translation>
     </message>
     <message>
@@ -13187,7 +13209,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Pachetul de resurse este activat? (Valid doar pentru ZIP-uri)</translation>
+        <translation>Pachetul de resurse este activat? (Valid doar pentru ZIP-uri)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
@@ -13204,15 +13226,15 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation type="vanished">Pachete de resurse</translation>
+        <translation>Pachete de resurse</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Descarcă pachete</translation>
+        <translation>Descarcă pachete</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Descarcă pachete de resurse din resurse de pe internet</translation>
+        <translation>Descarcă pachete de resurse din resurse de pe internet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -13536,11 +13558,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation type="vanished">Această descărcare va fi pusă în: %1</translation>
+        <translation>Această descărcare va fi pusă în: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="vanished">Acest fișier va fi descărcat într-o locație de dosar diferită de cea implicită, posibil deoarece este solicitat de loader-ul lui.</translation>
+        <translation>Acest fișier va fi descărcat într-o locație de dosar diferită de cea implicită, posibil deoarece este solicitat de loader-ul lui.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -13839,7 +13861,7 @@ Versiunea instalată curent: %1</translation>
     </message>
     <message>
         <source>Latency</source>
-        <translation type="vanished">Latența</translation>
+        <translation>Latența</translation>
     </message>
 </context>
 <context>
@@ -13968,15 +13990,15 @@ Ești sigur(ă)?</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation type="vanished">Pachete de shader-e</translation>
+        <translation>Pachete de shader-e</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Descarcă shader-e</translation>
+        <translation>Descarcă shader-e</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Descarcă shader-e de pe platforme de pe internet</translation>
+        <translation>Descarcă shader-e de pe platforme de pe internet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -14513,7 +14535,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="vanished">Nu se poate deschide fișierul zip al modpackului furnizat.</translation>
+        <translation>Nu se poate deschide fișierul zip al modpackului furnizat.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -14706,16 +14728,19 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14753,11 +14778,11 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Descarcă pachete</translation>
+        <translation>Descarcă pachete</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Descarcă pachete de texturi de pe platforme de pe internet</translation>
+        <translation>Descarcă pachete de texturi de pe platforme de pe internet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -14876,7 +14901,7 @@ Are you sure?</source>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation type="vanished">&amp;Pictograme</translation>
+        <translation>&amp;Pictograme</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -14884,50 +14909,54 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="vanished">Vizualizează dosarul cu teme de pictograme.</translation>
+        <translation>Vizualizează dosarul cu teme de pictograme.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation type="vanished">&amp;Widgets</translation>
+        <translation>&amp;Widgets</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="vanished">Vizualizează dosarul cu teme de widget-uri.</translation>
+        <translation>Vizualizează dosarul cu teme de widget-uri.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="vanished">Pisica apare în spate și nu apare implicit. E făcută vizibilă doar când este apăsat butonul pentru Pisică din Bara de Unelte.</translation>
+        <translation>Pisica apare în spate și nu apare implicit. E făcută vizibilă doar când este apăsat butonul pentru Pisică din Bara de Unelte.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation type="vanished">P&amp;isică</translation>
+        <translation>P&amp;isică</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="vanished">Vizualizează dosarul cu pachete de pisici.</translation>
+        <translation>Vizualizează dosarul cu pachete de pisici.</translation>
+    </message>
+    <message>
+        <source>Refresh all</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="vanished">PaginaVrăjitorului</translation>
+        <translation>PaginaVrăjitorului</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation type="vanished">Selectează Tema pe care dorești să o folosești</translation>
+        <translation>Selectează Tema pe care dorești să o folosești</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="vanished">Indiciu: Pisica apare în spate și nu apare implicit. Este făcută vizibilă când se apasă butonul de Pisică din Bara de Unelte.</translation>
+        <translation>Indiciu: Pisica apare în spate și nu apare implicit. Este făcută vizibilă când se apasă butonul de Pisică din Bara de Unelte.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation type="vanished"> Previzualizare:</translation>
+        <translation> Previzualizare:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="vanished">Pisica apare în spate și nu are niciun rost, este pur vizuală.</translation>
+        <translation>Pisica apare în spate și nu are niciun rost, este pur vizuală.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -15131,7 +15160,7 @@ Te rog schimbă la una dintre următoarele versiuni Java pentru această instan�
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Filtru:</translation>
+        <translation>Filtru:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -15827,11 +15856,11 @@ Locația canonică: %1</translation>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation type="vanished">Pachete de date</translation>
+        <translation>Pachete de date</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation type="vanished">Gestionează pachete de date înăuntrul lumii.</translation>
+        <translation>Gestionează pachete de date înăuntrul lumii.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -15849,7 +15878,7 @@ Locația canonică: %1</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation type="vanished">Deschide Dosarul de Pachete de Date al Lumii</translation>
+        <translation>Deschide Dosarul de Pachete de Date al Lumii</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

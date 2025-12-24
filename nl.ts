@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation type="vanished">API-sleutels</translation>
+        <translation>API-sleutels</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -96,16 +96,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="vanished">(Standaard)</translation>
+        <translation>(Standaard)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="vanished">Voer hier een eigen Microsoft Authenticatie identiteit in.</translation>
+        <translation>Voer hier een eigen Microsoft Authenticatie identiteit in.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation type="vanished">&amp;Modrinth API</translation>
+        <translation>&amp;Modrinth API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -114,15 +114,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="vanished">Voer hier een eigen API-token voor Modrinth in.</translation>
+        <translation>Voer hier een eigen API-token voor Modrinth in.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="vanished">(Geen)</translation>
+        <translation>(Geen)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="vanished">Technic Gebruikers-ID</translation>
+        <translation>Technic Gebruikers-ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -131,11 +131,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="vanished">Voer hier een eigen Gebruikers-ID voor Technic in.</translation>
+        <translation>Voer hier een eigen Gebruikers-ID voor Technic in.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Overige</translation>
+        <translation>Overige</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="vanished">Voer hier zelf een URL voor meta in.</translation>
+        <translation>Voer hier zelf een URL voor meta in.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation type="vanished">&amp;CurseForge Kern-API</translation>
+        <translation>&amp;CurseForge Kern-API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -183,11 +183,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="vanished">Voer hier een API sleutel in voor CurseForge.</translation>
+        <translation>Voer hier een API sleutel in voor CurseForge.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation type="vanished">API&apos;s</translation>
+        <translation>API&apos;s</translation>
     </message>
 </context>
 <context>
@@ -256,7 +256,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation type="vanished">Kan pakketconfiguraties %1 niet openen!</translation>
+        <translation>Kan pakketconfiguraties %1 niet openen!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -425,12 +425,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="vanished">Niet aangevinkt</translation>
+        <translation>Niet aangevinkt</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="vanished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -458,37 +458,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="vanished">Gereed</translation>
+        <translation>Gereed</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="vanished">Bezig</translation>
+        <translation>Bezig</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="vanished">Mislukt</translation>
+        <translation>Mislukt</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="vanished">Verlopen</translation>
+        <translation>Verlopen</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="vanished">Uitgeschakeld</translation>
+        <translation>Uitgeschakeld</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="vanished">Verdwenen</translation>
+        <translation>Verdwenen</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="vanished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1104,7 +1104,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="vanished">Bezig met asset-bestanden bij Mojang ophalen...</translation>
+        <translation>Bezig met asset-bestanden bij Mojang ophalen...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1504,11 +1504,11 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Uw geconfigureerde mods map en standaard downloadmap worden automatisch gecontroleerd op de gedownloade mods en die worden gekopieerd naar de instantie wanneer gevonden.&lt;/p&gt;&lt;p&gt;Optioneel kunt u de gedownloade mods naar dit dialoogvenster slepen en neerzetten of een map toevoegen om te controleren als u de mods niet op de standaardlocatie hebt gedownload.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Uw geconfigureerde mods map en standaard downloadmap worden automatisch gecontroleerd op de gedownloade mods en die worden gekopieerd naar de instantie wanneer gevonden.&lt;/p&gt;&lt;p&gt;Optioneel kunt u de gedownloade mods naar dit dialoogvenster slepen en neerzetten of een map toevoegen om te controleren als u de mods niet op de standaardlocatie hebt gedownload.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation type="vanished">Bekeken mappen:</translation>
+        <translation>Bekeken mappen:</translation>
     </message>
 </context>
 <context>
@@ -1652,7 +1652,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation type="vanished">Een of meer subtaken zijn mislukt</translation>
+        <translation>Een of meer subtaken zijn mislukt</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1895,7 +1895,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation type="vanished">Kernmods</translation>
+        <translation>Kernmods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2035,22 +2035,22 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="vanished">Aangepas&amp;te opdrachten</translation>
+        <translation>Aangepas&amp;te opdrachten</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="vanished">P&amp;ost-exit opdracht:</translation>
+        <translation>P&amp;ost-exit opdracht:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="vanished">&amp;Pre-launch opdracht:</translation>
+        <translation>&amp;Pre-launch opdracht:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="vanished">Wrapper opdracht:</translation>
+        <translation>Wrapper opdracht:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2083,7 +2083,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation type="vanished">Aangepaste opdrachten</translation>
+        <translation>Aangepaste opdrachten</translation>
     </message>
 </context>
 <context>
@@ -2451,7 +2451,7 @@ Weet u dat zeker?</translation>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Controleren of mods metadata hebben...</translation>
+        <translation>Controleren of mods metadata hebben...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2503,7 +2503,7 @@ Weet u dat zeker?</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation type="vanished">&amp;Omgevingsvariabelen</translation>
+        <translation>&amp;Omgevingsvariabelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2540,7 +2540,7 @@ Weet u dat zeker?</translation>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation type="vanished">Omgevingsvariabelen</translation>
+        <translation>Omgevingsvariabelen</translation>
     </message>
 </context>
 <context>
@@ -2683,11 +2683,11 @@ Weet u dat zeker?</translation>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="vanished">&amp;Naam</translation>
+        <translation>&amp;Naam</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation type="vanished">&amp;Versie</translation>
+        <translation>&amp;Versie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2739,7 +2739,7 @@ Weet u dat zeker?</translation>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation type="vanished">&amp;Auteur</translation>
+        <translation>&amp;Auteur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2924,7 +2924,7 @@ Weet u dat zeker?</translation>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Filter:</translation>
+        <translation>Filter:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2933,11 +2933,11 @@ Weet u dat zeker?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Toevoegen</translation>
+        <translation>&amp;Toevoegen</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Toevoegen</translation>
+        <translation>Toevoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2946,7 +2946,7 @@ Weet u dat zeker?</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Haal geselecteerd onderdeel weg</translation>
+        <translation>Haal geselecteerd onderdeel weg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2955,7 +2955,7 @@ Weet u dat zeker?</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Zet geselecteerd onderdeel aan</translation>
+        <translation>Zet geselecteerd onderdeel aan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3070,7 +3070,7 @@ Weet u dat zeker?</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Download nieuwe gegevens</translation>
+        <translation>Download nieuwe gegevens</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3080,27 +3080,27 @@ Weet u dat zeker?</translation>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Probeer de geselecteerde hulpbronnen te controleren of te bijwerken (allemaal wanneer er geen geselecteerd zijn)</translation>
+        <translation>Probeer de geselecteerde hulpbronnen te controleren of te bijwerken (allemaal wanneer er geen geselecteerd zijn)</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Bezoek mod pagina</translation>
+        <translation>Bezoek mod pagina</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="vanished">Gelesecteerd item uitschakelen</translation>
+        <translation>Gelesecteerd item uitschakelen</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Ga naar de mod&apos;s thuispagina</translation>
+        <translation>Ga naar de mod&apos;s thuispagina</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Exporteer modlijst</translation>
+        <translation>Exporteer modlijst</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">Exporteer metadata van de mod naar text</translation>
+        <translation>Exporteer metadata van de mod naar text</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
@@ -3154,12 +3154,12 @@ Weet u zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation type="vanished">Uitschakeling bevestigen</translation>
+        <translation>Uitschakeling bevestigen</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="vanished">Als u deze bron uitschakelt terwijl het spel actief is, kan het spel crashen.
+        <translation>Als u deze bron uitschakelt terwijl het spel actief is, kan het spel crashen.
 Weet u zeker dat je dit wilt doen?</translation>
     </message>
     <message>
@@ -3232,16 +3232,16 @@ Weet u zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="vanished">Externe tekstbewerkers (leeg houden voor systeemstandaard)</translation>
+        <translation>Externe tekstbewerkers (leeg houden voor systeemstandaard)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="vanished">Tekstbewerker:</translation>
+        <translation>Tekstbewerker:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation type="vanished">Externe hulpmiddelen</translation>
+        <translation>Externe hulpmiddelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3303,17 +3303,17 @@ Weet u zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation type="vanished">Uitvoerbaar JVisualVM-bestand</translation>
+        <translation>Uitvoerbaar JVisualVM-bestand</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="vanished">Fout bij het controleren van de JVisualVM-installatie:
+        <translation>Fout bij het controleren van de JVisualVM-installatie:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="vanished">JVisualVM installatie lijkt in orde te zijn</translation>
+        <translation>JVisualVM installatie lijkt in orde te zijn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3340,7 +3340,7 @@ Weet u zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation type="vanished">JSON-bewerker</translation>
+        <translation>JSON-bewerker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3513,7 +3513,7 @@ Probeer het opnieuw.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="vanished">API antwoord voor &apos;%1&quot; ophalen van CurseForge...</translation>
+        <translation>API antwoord voor &apos;%1&quot; ophalen van CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3552,16 +3552,16 @@ Probeer het opnieuw.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="vanished">Voorbereiden van mods voor CurseForge...</translation>
+        <translation>Voorbereiden van mods voor CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel/modlader.</translation>
+        <translation>Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel/modlader.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Er is een update beschikbaar voor deze mod, maar deze kan niet gedownload worden via CurseForge.</translation>
+        <translation>Er is een update beschikbaar voor deze mod, maar deze kan niet gedownload worden via CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -4002,11 +4002,11 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation type="vanished">Sleutel</translation>
+        <translation>Sleutel</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="vanished">Waarde</translation>
+        <translation>Waarde</translation>
     </message>
 </context>
 <context>
@@ -4407,11 +4407,11 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation type="vanished">&amp;Naam:</translation>
+        <translation>&amp;Naam:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation type="vanished">&amp;Groep:</translation>
+        <translation>&amp;Groep:</translation>
     </message>
 </context>
 <context>
@@ -4629,19 +4629,19 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation type="vanished">Open de globale instellingen</translation>
+        <translation>Open de globale instellingen</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="vanished">De onderstaande instellingen krijgen voorrang op de globale instellingen.</translation>
+        <translation>De onderstaande instellingen krijgen voorrang op de globale instellingen.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation type="vanished">Java-insta&amp;llatie</translation>
+        <translation>Java-insta&amp;llatie</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation type="vanished">Auto-detectie....</translation>
+        <translation>Auto-detectie....</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4649,72 +4649,72 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <source>Test</source>
-        <translation type="vanished">&amp;Test</translation>
+        <translation>&amp;Test</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">Als dit is ingeschakeld zal de launcher niet controlleren of een instantie compatibel is met de geselecteerde Java-versie.</translation>
+        <translation>Als dit is ingeschakeld zal de launcher niet controlleren of een instantie compatibel is met de geselecteerde Java-versie.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="vanished">&amp;Java compatibiliteitscontrole overslaan</translation>
+        <translation>&amp;Java compatibiliteitscontrole overslaan</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="vanished">Geheuge&amp;n</translation>
+        <translation>Geheuge&amp;n</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">&amp;Minimale geheugentoewijzing:</translation>
+        <translation>&amp;Minimale geheugentoewijzing:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">De maximale hoeveelheid geheugen dat Minecraft mag gebruiken.</translation>
+        <translation>De maximale hoeveelheid geheugen dat Minecraft mag gebruiken.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">De hoeveelheid geheugen waar Minecraft mee wordt gestart.</translation>
+        <translation>De hoeveelheid geheugen waar Minecraft mee wordt gestart.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">De hoeveelheid beschikbaar geheugen voor het opslaan van geladen Java-klassen.</translation>
+        <translation>De hoeveelheid beschikbaar geheugen voor het opslaan van geladen Java-klassen.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Maximale geheugentoewijzing:</translation>
+        <translation>Maximale geheugentoewijzing:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Bladeren</translation>
+        <translation>Bladeren</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">Download Java</translation>
+        <translation>Download Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation type="vanished">PermGen:</translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="vanished">Opmerking: Permgen wordt door Java 8 en hoger automatisch ingesteld</translation>
+        <translation>Opmerking: Permgen wordt door Java 8 en hoger automatisch ingesteld</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation type="vanished">Java-argumen&amp;ten</translation>
+        <translation>Java-argumen&amp;ten</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation type="vanished">Gamevensters</translation>
+        <translation>Gamevensters</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation type="vanished">Gamevenster</translation>
+        <translation>Gamevenster</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="vanished">Minecraft gemaximaliseerd starten</translation>
+        <translation>Minecraft gemaximaliseerd starten</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4726,156 +4726,156 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <source>Window height:</source>
-        <translation type="vanished">Vensterhoogte:</translation>
+        <translation>Vensterhoogte:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation type="vanished">Vensterbreedte:</translation>
+        <translation>Vensterbreedte:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation type="vanished">Conso&amp;leinstellingen</translation>
+        <translation>Conso&amp;leinstellingen</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="vanished">Console weergeven terwijl het spel actief is</translation>
+        <translation>Console weergeven terwijl het spel actief is</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">Console automatisch sluiten als het spel wordt gestopt?</translation>
+        <translation>Console automatisch sluiten als het spel wordt gestopt?</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="vanished">Console weergeven wanneer het spel crasht?</translation>
+        <translation>Console weergeven wanneer het spel crasht?</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="vanished">Sluit de launcher nadat het venster van het spel opent</translation>
+        <translation>Sluit de launcher nadat het venster van het spel opent</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="vanished">Sluit de launcher nadat het venster van het spel sluit</translation>
+        <translation>Sluit de launcher nadat het venster van het spel sluit</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation type="vanished">Aangepaste opdrachten</translation>
+        <translation>Aangepaste opdrachten</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="vanished">Omgevingsvariabelen</translation>
+        <translation>Omgevingsvariabelen</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation type="vanished">Tijdelijke oplossingen</translation>
+        <translation>Tijdelijke oplossingen</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation type="vanished">Native bibliotheken</translation>
+        <translation>Native bibliotheken</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="vanished">&amp;GLFW bibliotheek pad</translation>
+        <translation>&amp;GLFW bibliotheek pad</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="vanished">Gebruik de systeeminstallatie van GLFW</translation>
+        <translation>Gebruik de systeeminstallatie van GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="vanished">Gebruik de systeeminstallatie van &amp;OpenAL</translation>
+        <translation>Gebruik de systeeminstallatie van &amp;OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="vanished">Singleplayer-wereld</translation>
+        <translation>Singleplayer-wereld</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="vanished">Standaardaccount vervangen</translation>
+        <translation>Standaardaccount vervangen</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">Account:</translation>
+        <translation>Account:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Overige</translation>
+        <translation>Overige</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="vanished">&amp;OpenAL bibliotheek pad</translation>
+        <translation>&amp;OpenAL bibliotheek pad</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">Prestaties</translation>
+        <translation>Prestaties</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zet Feral Interactive&apos;s GameMode aan om wellicht gaming prestatie te verbeteren.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zet Feral Interactive&apos;s GameMode aan om wellicht gaming prestatie te verbeteren.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">Zet Feral GameMode aan</translation>
+        <translation>Zet Feral GameMode aan</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zet MangoHud&apos;s geavanceerde prestatie-overlay aan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zet MangoHud&apos;s geavanceerde prestatie-overlay aan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">Zet MangoHud aan</translation>
+        <translation>Zet MangoHud aan</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gebruik de discrete GPU in plaats van de primaire GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gebruik de discrete GPU in plaats van de primaire GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">Gebruik discrete GPU</translation>
+        <translation>Gebruik discrete GPU</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="vanished">Gebruik Zink, een Mesa OpenGL stuurprogramma dat OpenGL boven op Vulkan implementeert. De prestatie is afhankelijk aan de situatie. Opmerking: Als er geen gepaste Vulkan stuurprogramma word gevonden, wordt software-rendering gebruikt.</translation>
+        <translation>Gebruik Zink, een Mesa OpenGL stuurprogramma dat OpenGL boven op Vulkan implementeert. De prestatie is afhankelijk aan de situatie. Opmerking: Als er geen gepaste Vulkan stuurprogramma word gevonden, wordt software-rendering gebruikt.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="vanished">Gebruik Zink</translation>
+        <translation>Gebruik Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="vanished">Historische instellingen</translation>
+        <translation>Historische instellingen</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuleert het gebruik van oude online diensten die niet meer opereren.&lt;/p&gt;&lt;p&gt;De huidige fixes bevatten: skin en online modus ondersteuning.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuleert het gebruik van oude online diensten die niet meer opereren.&lt;/p&gt;&lt;p&gt;De huidige fixes bevatten: skin en online modus ondersteuning.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="vanished">Online oplossingen aanzetten (experimenteel)</translation>
+        <translation>Online oplossingen aanzetten (experimenteel)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation type="vanished">Globale speeltijdinstellingen negeren</translation>
+        <translation>Globale speeltijdinstellingen negeren</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="vanished">Toon bestede tijd aan spelen van deze instantie</translation>
+        <translation>Toon bestede tijd aan spelen van deze instantie</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation type="vanished">Houd bestede tijd aan spelen van deze instantie bij</translation>
+        <translation>Houd bestede tijd aan spelen van deze instantie bij</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="vanished">Stel een server in om bij start aan deel te nemen</translation>
+        <translation>Stel een server in om bij start aan deel te nemen</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="vanished">Serveradres:</translation>
+        <translation>Serveradres:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4884,39 +4884,39 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="vanished">Pad naar %1 bibliotheek bestand</translation>
+        <translation>Pad naar %1 bibliotheek bestand</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">GameMode van Feral Interactive kon niet gevonden worden op uw systeem.</translation>
+        <translation>GameMode van Feral Interactive kon niet gevonden worden op uw systeem.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">MangoHud kon niet gevonden worden op uw systemm.</translation>
+        <translation>MangoHud kon niet gevonden worden op uw systemm.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Kies een Java-versie</translation>
+        <translation>Kies een Java-versie</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">Bevestig Selectie</translation>
+        <translation>Bevestig Selectie</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">Je hebt een 32-bits versie van Java.
+        <translation>Je hebt een 32-bits versie van Java.
 Deze versie ondersteunt niet meer dan 2048MiB RAM.
 Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Zoek uitvoerbaar Java-bestand</translation>
+        <translation>Zoek uitvoerbaar Java-bestand</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Uw maximale geheugen allocatie is kleiner dan uw minimale waarde</translation>
+        <translation>Uw maximale geheugen allocatie is kleiner dan uw minimale waarde</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4924,11 +4924,11 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">Uw maximale geheugentoewijzing is meer dan het systeemgeheugen.</translation>
+        <translation>Uw maximale geheugentoewijzing is meer dan het systeemgeheugen.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Uw maximale geheugentoewijzing komt dicht in de buurt van uw systeemsgeheugencapaciteit.</translation>
+        <translation>Uw maximale geheugentoewijzing komt dicht in de buurt van uw systeemsgeheugencapaciteit.</translation>
     </message>
 </context>
 <context>
@@ -5033,7 +5033,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation type="vanished">JVisualVM gestart</translation>
+        <translation>JVisualVM gestart</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -5060,15 +5060,15 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="vanished">Java Uitpakken (Voortgang is niet gerapporteerd voor tar-archieven)</translation>
+        <translation>Java Uitpakken (Voortgang is niet gerapporteerd voor tar-archieven)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation type="vanished">Kan het meegeleverde tar-bestand niet openen.</translation>
+        <translation>Kan het meegeleverde tar-bestand niet openen.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="vanished">Het geleverde tar-bestand kan niet worden uitgepakt.</translation>
+        <translation>Het geleverde tar-bestand kan niet worden uitgepakt.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5082,7 +5082,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation type="vanished">Kon het archieftype niet bepalen!</translation>
+        <translation>Kon het archieftype niet bepalen!</translation>
     </message>
 </context>
 <context>
@@ -5188,70 +5188,70 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Geheugen</translation>
+        <translation>Geheugen</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">De maximale hoeveelheid geheugen dat Minecraft mag gebruiken.</translation>
+        <translation>De maximale hoeveelheid geheugen dat Minecraft mag gebruiken.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="vanished">Minimale geheugentoewijzing:</translation>
+        <translation>Minimale geheugentoewijzing:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="vanished">Maximale geheugentoewijzing:</translation>
+        <translation>Maximale geheugentoewijzing:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation type="vanished">&amp;PermGen:</translation>
+        <translation>&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">De hoeveelheid geheugen waar Minecraft mee wordt gestart.</translation>
+        <translation>De hoeveelheid geheugen waar Minecraft mee wordt gestart.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">De hoeveelheid beschikbaar geheugen voor het opslaan van geladen Java-klassen.</translation>
+        <translation>De hoeveelheid beschikbaar geheugen voor het opslaan van geladen Java-klassen.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation type="vanished">Java-runtime</translation>
+        <translation>Java-runtime</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation type="vanished">JVM argumenten:</translation>
+        <translation>JVM argumenten:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="vanished">Selecteerd automatisch de Java-versie die compatibel is met het huidige Minecraft-exemplaar, gebaseerd op de vereiste hoofdversie.</translation>
+        <translation>Selecteerd automatisch de Java-versie die compatibel is met het huidige Minecraft-exemplaar, gebaseerd op de vereiste hoofdversie.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">Java-versie automatisch dedecteren</translation>
+        <translation>Java-versie automatisch dedecteren</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="vanished">&amp;Java-pad:</translation>
+        <translation>&amp;Java-pad:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="vanished">Download en selecteert automatisch de Java-versie aanbevolen door Mojang.</translation>
+        <translation>Download en selecteert automatisch de Java-versie aanbevolen door Mojang.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">Download automatisch Mojang Java</translation>
+        <translation>Download automatisch Mojang Java</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation type="vanished">Beheer</translation>
+        <translation>Beheer</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation type="vanished">Gedownloade Java-versies</translation>
+        <translation>Gedownloade Java-versies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5281,33 +5281,33 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="vanished">Automatische-detectie...</translation>
+        <translation>Automatische-detectie...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="vanished">Test</translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Bladeren</translation>
+        <translation>Bladeren</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="vanished">Wanneer ingeschakeld zal de launcher u niet vragen om een Java versie te kiezen als er geen gevonden is.</translation>
+        <translation>Wanneer ingeschakeld zal de launcher u niet vragen om een Java versie te kiezen als er geen gevonden is.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="vanished">Sla Java &amp;Wizard over</translation>
+        <translation>Sla Java &amp;Wizard over</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">Als dit is insgeschakeld zal de launcher niet controlleren of een instantie compatibel is met de geselecteerde Java-versie.</translation>
+        <translation>Als dit is insgeschakeld zal de launcher niet controlleren of een instantie compatibel is met de geselecteerde Java-versie.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="vanished">Java compatibiliteitscontrole overslaan</translation>
+        <translation>Java compatibiliteitscontrole overslaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5328,35 +5328,35 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Kies een Java-versie</translation>
+        <translation>Kies een Java-versie</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">Bevestig Selectie</translation>
+        <translation>Bevestig Selectie</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">Je hebt een 32-bits versie van Java geselecteerd.
+        <translation>Je hebt een 32-bits versie van Java geselecteerd.
 Deze versie ondersteunt niet meer dan 2048MiB RAM.
 Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Zoek uitvoerbaar Java-bestand</translation>
+        <translation>Zoek uitvoerbaar Java-bestand</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">Uw maximale geheugentoewijzing is meer dan uw systeemsgeheugencapaciteit.</translation>
+        <translation>Uw maximale geheugentoewijzing is meer dan uw systeemsgeheugencapaciteit.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Uw maximale geheugentoewijzing komt dicht in de buurt van de systeemsgeheugencapaciteit.</translation>
+        <translation>Uw maximale geheugentoewijzing komt dicht in de buurt van de systeemsgeheugencapaciteit.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Uw maximale geheugen allocatie is kleiner dan uw minimale waarde</translation>
+        <translation>Uw maximale geheugen allocatie is kleiner dan uw minimale waarde</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5375,7 +5375,7 @@ Weet je het zeker?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation type="vanished">Geen Java-versie geselecteerd</translation>
+        <translation>Geen Java-versie geselecteerd</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5393,11 +5393,11 @@ U kunt later de Java-versie wijzigen in de instellingen.
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">Java downloaden</translation>
+        <translation>Java downloaden</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="vanished">32-bit Java gededecteerd</translation>
+        <translation>32-bit Java gededecteerd</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5406,7 +5406,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">Je hebt een 32-bit installatie van Java geselecteerd, maar meer dan 2048MiB toegewezen als maximum RAM-geheugen.
+        <translation>Je hebt een 32-bit installatie van Java geselecteerd, maar meer dan 2048MiB toegewezen als maximum RAM-geheugen.
 %1 zal niet in staat zijn om Minecraft te starten.
 Wil je doorgaan?
 
@@ -5420,7 +5420,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">Je hebt geen Java-versie geselecteerd, of een versie die niet werkt.
+        <translation>Je hebt geen Java-versie geselecteerd, of een versie die niet werkt.
 %1 zal niet in staat zijn om Minecraft te starten.
 Wil je doorgaan zonder een functionele Java-versie?
 
@@ -5434,7 +5434,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Geheugen</translation>
+        <translation>Geheugen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5443,7 +5443,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">&amp;Minimale geheugentoewijzing:</translation>
+        <translation>&amp;Minimale geheugentoewijzing:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5545,7 +5545,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Maximale geheugentoewijzing:</translation>
+        <translation>Maximale geheugentoewijzing:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5584,19 +5584,19 @@ Je kan de Java-versie later in de instellingen wijzigen.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Bladeren</translation>
+        <translation>Bladeren</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">Download automatisch Mojang Java</translation>
+        <translation>Download automatisch Mojang Java</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">Java-versie automatisch dedecteren</translation>
+        <translation>Java-versie automatisch dedecteren</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="vanished">Java automatisch dedecteren</translation>
+        <translation>Java automatisch dedecteren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5634,15 +5634,15 @@ Zorg er a.u.b. voor dat de maximale geheugen waarde lager is.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Uw maximale geheugentoewijzing komt dicht in de buurt van de systeemsgeheugencapaciteit.</translation>
+        <translation>Uw maximale geheugentoewijzing komt dicht in de buurt van de systeemsgeheugencapaciteit.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Uw maximale geheugen allocatie is kleiner dan uw minimale waarde</translation>
+        <translation>Uw maximale geheugen allocatie is kleiner dan uw minimale waarde</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="vanished">Je overschrijdt de maximale geheugentoewijzing die wordt ondersteund door 32-bit Java-installaties.</translation>
+        <translation>Je overschrijdt de maximale geheugentoewijzing die wordt ondersteund door 32-bit Java-installaties.</translation>
     </message>
 </context>
 <context>
@@ -5939,11 +5939,11 @@ Wilt u de demo spelen?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation type="vanished">Speel offline</translation>
+        <translation>Speel offline</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Het account is verlopen en moet opnieuw handmatig op worden ingelogd.</translation>
+        <translation>Het account is verlopen en moet opnieuw handmatig op worden ingelogd.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -5952,7 +5952,7 @@ Wilt u de demo spelen?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="vanished">De client-identificatie van het startprogramma is veranderd. Gelieve dit account te verwijderen en opnieuw toe te voegen.</translation>
+        <translation>De client-identificatie van het startprogramma is veranderd. Gelieve dit account te verwijderen en opnieuw toe te voegen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -5961,7 +5961,7 @@ Wilt u de demo spelen?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="vanished">Het account bestaat niet meer op de servers. Het kan zijn gemigreerd, in dat geval dient U het nieuwe account waar U naartoe hebt gemigreerd toe te voegen.</translation>
+        <translation>Het account bestaat niet meer op de servers. Het kan zijn gemigreerd, in dat geval dient U het nieuwe account waar U naartoe hebt gemigreerd toe te voegen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6106,11 +6106,11 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation type="vanished">Functies</translation>
+        <translation>Functies</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation type="vanished">Instellingen voor updates</translation>
+        <translation>Instellingen voor updates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6260,7 +6260,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation type="vanished">Sorteermodus voor instantieweergave</translation>
+        <translation>Sorteermodus voor instantieweergave</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6275,7 +6275,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Theme</source>
-        <translation type="vanished">Thema</translation>
+        <translation>Thema</translation>
     </message>
     <message>
         <source>&amp;Icons</source>
@@ -6299,17 +6299,17 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Mods</source>
-        <translation type="vanished">Mods</translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="vanished">Zet metadata geleverd door mod providers (zoals Modrinth of Curseforge) uit voor mods.</translation>
+        <translation>Zet metadata geleverd door mod providers (zoals Modrinth of Curseforge) uit voor mods.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="vanished">Metadata gebruiken voor mods uitzetten?</translation>
+        <translation>Metadata gebruiken voor mods uitzetten?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6373,15 +6373,15 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Update interval</source>
-        <translation type="vanished">Update-interval</translation>
+        <translation>Update-interval</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="vanished">Zet op 0 om alleen te checken bij opstarten</translation>
+        <translation>Zet op 0 om alleen te checken bij opstarten</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="vanished">h</translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
@@ -6395,36 +6395,36 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation type="vanished">Controleer downloads folder recursievelijk</translation>
+        <translation>Controleer downloads folder recursievelijk</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="vanished">Deactiveer de automatische detectie, installatie en bijwerken van mod afhankelijkheden.</translation>
+        <translation>Deactiveer de automatische detectie, installatie en bijwerken van mod afhankelijkheden.</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation type="vanished">Deactiveer automatische mod afhankelijkheden beheer</translation>
+        <translation>Deactiveer automatische mod afhankelijkheden beheer</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="vanished">Stel bij het creëren van een nieuwe modpack-instantie niet voor om in plaats daarvan bestaande instanties te updaten.</translation>
+        <translation>Stel bij het creëren van een nieuwe modpack-instantie niet voor om in plaats daarvan bestaande instanties te updaten.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation type="vanished">Modpack-updateprompt overslaan</translation>
+        <translation>Modpack-updateprompt overslaan</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Overige</translation>
+        <translation>Overige</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation type="vanished">Aantal parallelle taken</translation>
+        <translation>Aantal parallelle taken</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation type="vanished">Aantal parallelle downloads</translation>
+        <translation>Aantal parallelle downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6433,7 +6433,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation type="vanished">Time-out voor HTTP-verzoeken</translation>
+        <translation>Time-out voor HTTP-verzoeken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6442,7 +6442,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation type="vanished">Aantal keren handmatig opnieuw proberen</translation>
+        <translation>Aantal keren handmatig opnieuw proberen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6460,23 +6460,23 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Cat</source>
-        <translation type="vanished">Kat</translation>
+        <translation>Kat</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="vanished">De dekking van de kat instellen. 0% is volledig transparant en 100% is volledig dekkend.</translation>
+        <translation>De dekking van de kat instellen. 0% is volledig transparant en 100% is volledig dekkend.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="vanished">Dekking</translation>
+        <translation>Dekking</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="vanished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="vanished">Gereedschappen</translation>
+        <translation>Gereedschappen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6541,27 +6541,27 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Console Settings</source>
-        <translation type="vanished">Console-instellingen</translation>
+        <translation>Console-instellingen</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="vanished">Console weergeven terwijl het spel actief is?</translation>
+        <translation>Console weergeven terwijl het spel actief is?</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">&amp;Console automatisch sluiten als het spel wordt gestopt</translation>
+        <translation>&amp;Console automatisch sluiten als het spel wordt gestopt</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="vanished">Console weergeven wanneer het spel &amp;crasht</translation>
+        <translation>Console weergeven wanneer het spel &amp;crasht</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="vanished">&amp;Geschiedenislimiet</translation>
+        <translation>&amp;Geschiedenislimiet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6577,7 +6577,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="vanished">Console &amp;lettertype</translation>
+        <translation>Console &amp;lettertype</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6641,23 +6641,23 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="vanished">[Test/FOUT] OOoooOOOoooo! Een spookachtige fout!</translation>
+        <translation>[Test/FOUT] OOoooOOOoooo! Een spookachtige fout!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="vanished">[Test/FOUT] Een spookachtige fout!</translation>
+        <translation>[Test/FOUT] Een spookachtige fout!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="vanished">[Test/WAARSCHUWING] Een niet zo spookachtige waarschuwing.</translation>
+        <translation>[Test/WAARSCHUWING] Een niet zo spookachtige waarschuwing.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="vanished">[Test/DEBUG] Een geheimzinnig debugbericht...</translation>
+        <translation>[Test/DEBUG] Een geheimzinnig debugbericht...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="vanished">[Test/FATAAL] Een angstaanjagende fatale fout!</translation>
+        <translation>[Test/FATAAL] Een angstaanjagende fatale fout!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6665,7 +6665,7 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="vanished">[Test/INFO] Een onschuldige melding...</translation>
+        <translation>[Test/INFO] Een onschuldige melding...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6681,7 +6681,7 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
     </message>
     <message>
         <source>Launcher</source>
-        <translation type="vanished">Launcher</translation>
+        <translation>Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6789,7 +6789,7 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation type="vanished">Kon modpack-bestand %1 niet openen!</translation>
+        <translation>Kon modpack-bestand %1 niet openen!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -7009,12 +7009,12 @@ Reden:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Index voor mod bijwerken:
+        <translation>Index voor mod bijwerken:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Ongeldige metadata</translation>
+        <translation>Ongeldige metadata</translation>
     </message>
 </context>
 <context>
@@ -7086,7 +7086,7 @@ Reden:
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Zoeken:</translation>
+        <translation>Zoeken:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7198,7 +7198,7 @@ Reden:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation type="vanished">Kon niet aanmaken:</translation>
+        <translation>Kon niet aanmaken:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7215,7 +7215,7 @@ Reden:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation type="vanished">Het geleverde zip-bestand kan niet worden geopend.</translation>
+        <translation>Het geleverde zip-bestand kan niet worden geopend.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7234,7 +7234,7 @@ Reden:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation type="vanished">Kon eerste bestand in zip-archief niet vinden</translation>
+        <translation>Kon eerste bestand in zip-archief niet vinden</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -7248,7 +7248,7 @@ Reden:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="vanished">Kon de rechten voor %1 niet herstellen</translation>
+        <translation>Kon de rechten voor %1 niet herstellen</translation>
     </message>
 </context>
 <context>
@@ -7361,11 +7361,11 @@ Reden:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="vanished">Open %1 of scan de QR en vul bovenstaande code in.</translation>
+        <translation>Open %1 of scan de QR en vul bovenstaande code in.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation type="vanished">Open %1 en vul bovenstaande code in.</translation>
+        <translation>Open %1 en vul bovenstaande code in.</translation>
     </message>
 </context>
 <context>
@@ -7688,7 +7688,7 @@ Reden:
     </message>
     <message>
         <source>More news...</source>
-        <translation type="vanished">Meer nieuws...</translation>
+        <translation>Meer nieuws...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7732,7 +7732,7 @@ Reden:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="vanished">Maakt een snelkoppeling op uw bureaublad om de geselecteerde instantie te openen.</translation>
+        <translation>Maakt een snelkoppeling op uw bureaublad om de geselecteerde instantie te openen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -8316,7 +8316,7 @@ Gelieve uw Mojang- of Microsoftaccount toe te voegen.</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="vanished">Er zijn verwezen instanties</translation>
+        <translation>Er zijn verwezen instanties</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8326,7 +8326,7 @@ Gelieve uw Mojang- of Microsoftaccount toe te voegen.</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="vanished">
+        <translation>
             <numerusform>De volgende instantie zou naar bestanden kunnen refereren in de volgende instantie:
 
 %1
@@ -8356,7 +8356,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="vanished">%1 wordt verwijderd.
+        <translation>%1 wordt verwijderd.
 Dit kan misschien niet ongedaan worden en zal de instantie volledig verwijderen.
 
 Weet u het zeker?</translation>
@@ -8373,31 +8373,31 @@ Weet u het zeker?</translation>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation type="vanished">Snelkoppeling voor deze instantie maken</translation>
+        <translation>Snelkoppeling voor deze instantie maken</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="vanished">Het bureaublad is niet gevonden?!</translation>
+        <translation>Het bureaublad is niet gevonden?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="vanished">De launcher staat in de map waaruit hij is uitgepakt, daarom kan hij geen snelkoppelingen maken.</translation>
+        <translation>De launcher staat in de map waaruit hij is uitgepakt, daarom kan hij geen snelkoppelingen maken.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="vanished">Bureaubladinvoer</translation>
+        <translation>Bureaubladinvoer</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="vanished">De snelkoppeling van deze instantie staat nu op uw bureaublad!</translation>
+        <translation>De snelkoppeling van deze instantie staat nu op uw bureaublad!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation type="vanished">Het maken van de instantiesnelkoppeling is mislukt!</translation>
+        <translation>Het maken van de instantiesnelkoppeling is mislukt!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="vanished">Wordt dit programma uitgevoerd als een niet juist ingestelde AppImage? ($APPIMAGE omgevingsvariabele is niet aanwezig)</translation>
+        <translation>Wordt dit programma uitgevoerd als een niet juist ingestelde AppImage? ($APPIMAGE omgevingsvariabele is niet aanwezig)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8498,15 +8498,15 @@ Weet je het zeker?</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation type="vanished">Instantie-applicatie aanmaken</translation>
+        <translation>Instantie-applicatie aanmaken</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation type="vanished">Aanmaken van pictogram voor applicatie is mislukt.</translation>
+        <translation>Aanmaken van pictogram voor applicatie is mislukt.</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="vanished">Aanmaken van pictogram voor snelkoppeling is mislukt.</translation>
+        <translation>Aanmaken van pictogram voor snelkoppeling is mislukt.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8514,11 +8514,11 @@ Weet je het zeker?</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="vanished">Niet ondersteund op uw platform!</translation>
+        <translation>Niet ondersteund op uw platform!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation type="vanished">Snelkoppeling naar deze instantie aangemaakt!</translation>
+        <translation>Snelkoppeling naar deze instantie aangemaakt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -8584,11 +8584,11 @@ Weet je het zeker?</translation>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation type="vanished">Pack-informatie</translation>
+        <translation>Pack-informatie</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation type="vanished">Pack-naam:</translation>
+        <translation>Pack-naam:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8627,7 +8627,7 @@ Weet je het zeker?</translation>
     </message>
     <message>
         <source>Update from file</source>
-        <translation type="vanished">Bijwerken van bestand</translation>
+        <translation>Bijwerken van bestand</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8690,7 +8690,7 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     </message>
     <message>
         <source>Update pack</source>
-        <translation type="vanished">Pack opwaarderen</translation>
+        <translation>Pack opwaarderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -8881,12 +8881,12 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation type="vanished">Venstergrootte</translation>
+        <translation>Venstergrootte</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="vanished">Minecraft gemaximaliseerd starten</translation>
+        <translation>Minecraft gemaximaliseerd starten</translation>
     </message>
     <message>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -8899,138 +8899,138 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="vanished">Vensterhoo&amp;gte:</translation>
+        <translation>Vensterhoo&amp;gte:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="vanished">V&amp;ensterbreedte:</translation>
+        <translation>V&amp;ensterbreedte:</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation type="vanished">Laat gespeelde tijd zien in uren</translation>
+        <translation>Laat gespeelde tijd zien in uren</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation type="vanished">Wijzigingen</translation>
+        <translation>Wijzigingen</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="vanished">Historische instellingen</translation>
+        <translation>Historische instellingen</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuleert het gebruik van oude online diensten die niet meer opereren.&lt;/p&gt;&lt;p&gt;De huidige fixes bevatten: skin en online modus ondersteuning.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuleert het gebruik van oude online diensten die niet meer opereren.&lt;/p&gt;&lt;p&gt;De huidige fixes bevatten: skin en online modus ondersteuning.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="vanished">Online oplossingen aanzetten (experimenteel)</translation>
+        <translation>Online oplossingen aanzetten (experimenteel)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation type="vanished">Workarounds voor native bibliotheken</translation>
+        <translation>Workarounds voor native bibliotheken</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="vanished">Gebruik de systeeminstallatie van GLFW</translation>
+        <translation>Gebruik de systeeminstallatie van GLFW</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="vanished">&amp;GLFW bibliotheek pad</translation>
+        <translation>&amp;GLFW bibliotheek pad</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="vanished">Gebruik de systeeminstallatie van OpenAL</translation>
+        <translation>Gebruik de systeeminstallatie van OpenAL</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="vanished">&amp;OpenAL bibliotheek pad</translation>
+        <translation>&amp;OpenAL bibliotheek pad</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">Prestaties</translation>
+        <translation>Prestaties</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zet Feral Interactive&apos;s GameMode aan om misschien spelprestaties te verbeteren.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zet Feral Interactive&apos;s GameMode aan om misschien spelprestaties te verbeteren.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">Zet Feral GameMode aan</translation>
+        <translation>Zet Feral GameMode aan</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zet MangoHud&apos;s geavanceerde prestatie-overlay aan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zet MangoHud&apos;s geavanceerde prestatie-overlay aan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">Zet MangoHud aan</translation>
+        <translation>Zet MangoHud aan</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gebruik de discrete GPU in plaats van de primaire GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gebruik de discrete GPU in plaats van de primaire GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">Gebruik de discrete GPU</translation>
+        <translation>Gebruik de discrete GPU</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gebruik Zink, een Mesa OpenGL stuurprogramma dat OpenGL boven op Vulkan implementeert. De prestatie is afhankelijk aan de situatie. Opmerking: Als er geen gepaste Vulkan stuurprogramma wordt gevonden, wordt software-rendering gebruikt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gebruik Zink, een Mesa OpenGL stuurprogramma dat OpenGL boven op Vulkan implementeert. De prestatie is afhankelijk aan de situatie. Opmerking: Als er geen gepaste Vulkan stuurprogramma wordt gevonden, wordt software-rendering gebruikt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="vanished">Gebruik Zink</translation>
+        <translation>Gebruik Zink</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation type="vanished">Speeltijd</translation>
+        <translation>Speeltijd</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">Algemeen</translation>
+        <translation>Algemeen</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="vanished">Toon bestede tijd aan spelen van instanties</translation>
+        <translation>Toon bestede tijd aan spelen van instanties</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="vanished">Toon bestede tijd aan spelen op alle instanties</translation>
+        <translation>Toon bestede tijd aan spelen op alle instanties</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="vanished">Houd bestede tijd aan spelen van instanties bij</translation>
+        <translation>Houd bestede tijd aan spelen van instanties bij</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Overige</translation>
+        <translation>Overige</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;De launcher zal automatisch opnieuw openen als het spel crasht of afsluit.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;De launcher zal automatisch opnieuw openen als het spel crasht of afsluit.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="vanished">Sluit de launcher nadat het spelvenster opent</translation>
+        <translation>Sluit de launcher nadat het spelvenster opent</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;De launcher zal automatisch afsluiten als het spel crasht of afsluit.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;De launcher zal automatisch afsluiten als het spel crasht of afsluit.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="vanished">Sluit de launcher als het spelvenster sluit</translation>
+        <translation>Sluit de launcher als het spelvenster sluit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -9039,19 +9039,19 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="vanished">Pad naar %1 bibliotheek bestand</translation>
+        <translation>Pad naar %1 bibliotheek bestand</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation type="vanished">Automatisch gedetecteerd pad: %1</translation>
+        <translation>Automatisch gedetecteerd pad: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">GameMode van Feral Interactive kon niet gevonden worden op uw systeem.</translation>
+        <translation>GameMode van Feral Interactive kon niet gevonden worden op uw systeem.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">MangoHud kon niet gevonden worden op uw systeem.</translation>
+        <translation>MangoHud kon niet gevonden worden op uw systeem.</translation>
     </message>
 </context>
 <context>
@@ -9709,7 +9709,7 @@ Je gaat hoogst waarschijnlijk het pad moeten veranderen - kijk hiervoor naar de 
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -9813,7 +9813,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Waar de mod vandaan gedownload is.</translation>
+        <translation>Waar de mod vandaan gedownload is.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -9897,7 +9897,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Mods downloaden</translation>
+        <translation>Mods downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -9923,11 +9923,11 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Bestand toevoegen</translation>
+        <translation>Bestand toevoegen</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Een lokaal bestand toevoegen</translation>
+        <translation>Een lokaal bestand toevoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -9942,11 +9942,11 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Afhankelijkheden controleren</translation>
+        <translation>Afhankelijkheden controleren</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">Probeer alle geselecteerde mods bij te werken en te controleren op ontbrekende afhankelijkheden (alle mods als er geen zijn geselecteerd)</translation>
+        <translation>Probeer alle geselecteerde mods bij te werken en te controleren op ontbrekende afhankelijkheden (alle mods als er geen zijn geselecteerd)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
@@ -9956,35 +9956,35 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Ga naar mod&apos;s homepagina</translation>
+        <translation>Ga naar mod&apos;s homepagina</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">verwijder mod&apos;s metadata</translation>
+        <translation>verwijder mod&apos;s metadata</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="vanished">Update metadata herstellen</translation>
+        <translation>Update metadata herstellen</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">Versie Wijzigen</translation>
+        <translation>Versie Wijzigen</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">Mod versie aanpassen</translation>
+        <translation>Mod versie aanpassen</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Bezoek mod pagina</translation>
+        <translation>Bezoek mod pagina</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Bezoek mods&apos; pagina&apos;s</translation>
+        <translation>Bezoek mods&apos; pagina&apos;s</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Ga naar de pagina&apos;s van de geselecteerde mods</translation>
+        <translation>Ga naar de pagina&apos;s van de geselecteerde mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
@@ -10008,7 +10008,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation type="vanished">Gelieve eerst een modlader te installeren!</translation>
+        <translation>Gelieve eerst een modlader te installeren!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -10240,92 +10240,92 @@ Gelieve %1 bij te werken!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Bevestig welke mods u wilt bijwerken</translation>
+        <translation>Bevestig welke mods u wilt bijwerken</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">U gaat zo de volgende mods bijwerken:</translation>
+        <translation>U gaat zo de volgende mods bijwerken:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Alleen mods met een vinkje zullen worden bijgewerkt!</translation>
+        <translation>Alleen mods met een vinkje zullen worden bijgewerkt!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Modnaam: %1&lt;br&gt;Bestandsnaam: %2&lt;br&gt;Reden: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Modnaam: %1&lt;br&gt;Bestandsnaam: %2&lt;br&gt;Reden: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Genereren van metadata is mislukt</translation>
+        <translation>Genereren van metadata is mislukt</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Kon geen metadata genereren voor de volgende mods:&lt;br&gt;Wilt u zonder deze mods doorgaan?</translation>
+        <translation>Kon geen metadata genereren voor de volgende mods:&lt;br&gt;Wilt u zonder deze mods doorgaan?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Controleren op updates</translation>
+        <translation>Controleren op updates</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Fout</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Waarschuwingen</translation>
+        <translation>Waarschuwingen</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Afbreken</translation>
+        <translation>Afbreken</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Controleren op updates...</translation>
+        <translation>Controleren op updates...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Modnaam: %1</translation>
+        <translation>Modnaam: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Reden: %1</translation>
+        <translation>Reden: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Mogelijke oplossing: De laatste versie handmatig downloaden:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Mogelijke oplossing: De laatste versie handmatig downloaden:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Controleren op afhankelijkheden...</translation>
+        <translation>Controleren op afhankelijkheden...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">De mod &apos;%1&apos; heeft nog geen metadata. We moeten dit genereren om relevante informatie bij te houden over hoe de mod bijgewerkt moet worden. Om dit te kunnen doen moet u een mod-dienst selecteren die we kunnen gebruiken om op updates voor deze mod te controleren.</translation>
+        <translation>De mod &apos;%1&apos; heeft nog geen metadata. We moeten dit genereren om relevante informatie bij te houden over hoe de mod bijgewerkt moet worden. Om dit te kunnen doen moet u een mod-dienst selecteren die we kunnen gebruiken om op updates voor deze mod te controleren.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Kon geen geldige versie vinden bij de geselecteerde mod-dienst(en)</translation>
+        <translation>Kon geen geldige versie vinden bij de geselecteerde mod-dienst(en)</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="vanished">Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
+        <translation>Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Kon niet op updates controleren</translation>
+        <translation>Kon niet op updates controleren</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Kon geen updates ophalen voor de volgende mods:&lt;br&gt;Wilt u verder gaan zonder deze mods?</translation>
+        <translation>Kon geen updates ophalen voor de volgende mods:&lt;br&gt;Wilt u verder gaan zonder deze mods?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Metadata aan het ophalen</translation>
+        <translation>Metadata aan het ophalen</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Metadata aan het genereren...</translation>
+        <translation>Metadata aan het genereren...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10333,35 +10333,35 @@ Gelieve %1 bij te werken!</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Aanbieder: %1</translation>
+        <translation>Aanbieder: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Oude versie: %1</translation>
+        <translation>Oude versie: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Niet geïnstalleerd</translation>
+        <translation>Niet geïnstalleerd</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Nieuwe versie: %1</translation>
+        <translation>Nieuwe versie: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Type nieuwe versie: %1</translation>
+        <translation>Type nieuwe versie: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Vereist door: %1</translation>
+        <translation>Vereist door: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Vereist door:</translation>
+        <translation>Vereist door:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Wijzigingslijst van de laatste versie</translation>
+        <translation>Wijzigingslijst van de laatste versie</translation>
     </message>
 </context>
 <context>
@@ -10466,7 +10466,7 @@ Gelieve %1 bij te werken!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Mods voor Modrinth voorbereiden...</translation>
+        <translation>Mods voor Modrinth voorbereiden...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10504,7 +10504,7 @@ Gelieve %1 bij te werken!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel/modlader.</translation>
+        <translation>Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel/modlader.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -11090,27 +11090,27 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation type="vanished">Account toevoegen</translation>
+        <translation>Account toevoegen</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="vanished">Gebruikersnaam</translation>
+        <translation>Gebruikersnaam</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="vanished">Gebruikersnamen langer dan 16 tekens kunnen niet gebruikt worden in LAN-spellen of offline-modus-servers.</translation>
+        <translation>Gebruikersnamen langer dan 16 tekens kunnen niet gebruikt worden in LAN-spellen of offline-modus-servers.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation type="vanished">Lange gebruikersnamen toestaan</translation>
+        <translation>Lange gebruikersnamen toestaan</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Annuleren</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">Ok</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -11161,7 +11161,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Zoeken</translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -11250,31 +11250,31 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <source>Clear the log</source>
-        <translation type="vanished">Log wissen</translation>
+        <translation>Log wissen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Verwijderen</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation type="vanished">Upload het logbestand naar de tekstupload service geconfigureerd in de instellingen.</translation>
+        <translation>Upload het logbestand naar de tekstupload service geconfigureerd in de instellingen.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">Uploaden</translation>
+        <translation>Uploaden</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation type="vanished">Wissen</translation>
+        <translation>Wissen</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">Herladen</translation>
+        <translation>Herladen</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Zoeken:</translation>
+        <translation>Zoeken:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -11301,7 +11301,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation type="vanished">Het bestand (%1) is niet leesbaar.</translation>
+        <translation>Het bestand (%1) is niet leesbaar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -11378,7 +11378,7 @@ Weet u het zeker?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation type="vanished">Andere logbestanden</translation>
+        <translation>Andere logbestanden</translation>
     </message>
 </context>
 <context>
@@ -11403,7 +11403,7 @@ Weet u het zeker?</translation>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">Sluiten</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -11432,28 +11432,28 @@ Weet u het zeker?</translation>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation type="vanished">Aan het uploaden naar %1</translation>
+        <translation>Aan het uploaden naar %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation type="vanished">Netwerkfout: %1</translation>
+        <translation>Netwerkfout: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="vanished">Fout: %1 geeft onverwachtte statuscode %2 %3</translation>
+        <translation>Fout: %1 geeft onverwachtte statuscode %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="vanished">Fout: %1 heeft een ongeldig antwoord gegeven</translation>
+        <translation>Fout: %1 heeft een ongeldig antwoord gegeven</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="vanished">Fout: %1 heeft de volgende fout terug gegeven: %2</translation>
+        <translation>Fout: %1 heeft de volgende fout terug gegeven: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="vanished">Fout: %1 heeft de volgende foutcode terug gegeven: %2
+        <translation>Fout: %1 heeft de volgende foutcode terug gegeven: %2
 Foutmelding: %3</translation>
     </message>
 </context>
@@ -12132,7 +12132,7 @@ HTTP Status: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation type="vanished">De server gaf de volgende foutmelding:</translation>
+        <translation>De server gaf de volgende foutmelding:</translation>
     </message>
 </context>
 <context>
@@ -12189,7 +12189,7 @@ HTTP Status: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="vanished">Stan&amp;daard</translation>
+        <translation>Stan&amp;daard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -12328,18 +12328,18 @@ HTTP Status: %2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation type="vanished">Website</translation>
+        <translation>Website</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="vanished">%1 Ontwikkelaars</translation>
+        <translation>%1 Ontwikkelaars</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation type="vanished">Met dank aan</translation>
+        <translation>Met dank aan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -12400,7 +12400,7 @@ Doorgaan met inkorten?</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="vanished">Upload mislukt</translation>
+        <translation>Upload mislukt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -12699,7 +12699,7 @@ Dit bericht zal worden weergegeven totdat u dit van de JVM-argumenten verwijdert
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="vanished">De opgegeven java-binary werkt niet.&lt;br /&gt;Gebruik de auto-detectie functie, of zet het pad naar het uitvoerbare javabestand. &lt;br /&gt;</translation>
+        <translation>De opgegeven java-binary werkt niet.&lt;br /&gt;Gebruik de auto-detectie functie, of zet het pad naar het uitvoerbare javabestand. &lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -12727,7 +12727,7 @@ Dit bericht zal worden weergegeven totdat u dit van de JVM-argumenten verwijdert
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation type="vanished">Ongeldig pad naar JVisualVM</translation>
+        <translation>Ongeldig pad naar JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -12752,7 +12752,7 @@ Dit bericht zal worden weergegeven totdat u dit van de JVM-argumenten verwijdert
     </message>
     <message>
         <source>No author(s)</source>
-        <translation type="vanished">Geen auteur(s)</translation>
+        <translation>Geen auteur(s)</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -12975,7 +12975,7 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="vanished">Kon de rechten van %1 niet herstellen</translation>
+        <translation>Kon de rechten van %1 niet herstellen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -13382,7 +13382,7 @@ Foutmelding: %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">Versie van %1 wijzigen</translation>
+        <translation>Versie van %1 wijzigen</translation>
     </message>
 </context>
 <context>
@@ -13816,11 +13816,13 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>De naam van het gegeven.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>De datum en tijd dat dit gegeven voor het laatst is aangepast (of toegevoegd).</translation>
     </message>
     <message>
@@ -13930,7 +13932,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Is het resourcepakket ingeschakeld? (Geld alleen voor zipbestanden)</translation>
+        <translation>Is het resourcepakket ingeschakeld? (Geld alleen voor zipbestanden)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
@@ -13951,15 +13953,15 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation type="vanished">Bronpakketten</translation>
+        <translation>Bronpakketten</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Pakketten downloaden</translation>
+        <translation>Pakketten downloaden</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Bronpaketten van online platformen downloaden</translation>
+        <translation>Bronpaketten van online platformen downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -14298,11 +14300,11 @@ Weet je het zeker?</translation>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation type="vanished">De download zal geplaatst worden in: %1</translation>
+        <translation>De download zal geplaatst worden in: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="vanished">Dit bestand zal in een andere map gedownload worden dan standaard is ingesteld, mogelijk omdat de lader dit vereist.</translation>
+        <translation>Dit bestand zal in een andere map gedownload worden dan standaard is ingesteld, mogelijk omdat de lader dit vereist.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -14621,7 +14623,7 @@ Momenteel geïnstalleerde versie: %1</translation>
     </message>
     <message>
         <source>Latency</source>
-        <translation type="vanished">Wachttijd</translation>
+        <translation>Wachttijd</translation>
     </message>
 </context>
 <context>
@@ -14750,15 +14752,15 @@ Weet u het zeker?</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation type="vanished">Shader pakketten</translation>
+        <translation>Shader pakketten</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Shaders downloaden</translation>
+        <translation>Shaders downloaden</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Download shaders van online platformen</translation>
+        <translation>Download shaders van online platformen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -15300,7 +15302,7 @@ Ben je zeker?</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="vanished">Het geleverde modpack-zipbestand kon niet worden geopend.</translation>
+        <translation>Het geleverde modpack-zipbestand kon niet worden geopend.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -15471,11 +15473,13 @@ inheritsFrom ontbreekt</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Is het texturepakket ingeschakeld?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>De naam van het texturepakket.</translation>
     </message>
     <message>
@@ -15485,6 +15489,7 @@ inheritsFrom ontbreekt</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>De datum en tijd waarop dit texturepakket voor het laatst is gewijzigd (of toegevoegd).</translation>
     </message>
     <message>
@@ -15568,11 +15573,11 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Pakketten downloaden</translation>
+        <translation>Pakketten downloaden</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Download textuurpakketten van online platforms</translation>
+        <translation>Download textuurpakketten van online platforms</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -15694,7 +15699,7 @@ Bent u zeker?</translation>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation type="vanished">P&amp;ictogrammen</translation>
+        <translation>P&amp;ictogrammen</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -15702,54 +15707,54 @@ Bent u zeker?</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="vanished">Map met pictogramthema&apos;s weergeven.</translation>
+        <translation>Map met pictogramthema&apos;s weergeven.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation type="vanished">&amp;Widgets</translation>
+        <translation>&amp;Widgets</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="vanished">Map met widgetthema&apos;s weergeven.</translation>
+        <translation>Map met widgetthema&apos;s weergeven.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="vanished">De kat verschijnt op de achtergrond en is standaard niet te zien. De kat is alleen zichtbaar wanneer de katknop is ingedrukt in de menubalk.</translation>
+        <translation>De kat verschijnt op de achtergrond en is standaard niet te zien. De kat is alleen zichtbaar wanneer de katknop is ingedrukt in de menubalk.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation type="vanished">Kat</translation>
+        <translation>Kat</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="vanished">Bekijk de map met kattenpakketten.</translation>
+        <translation>Bekijk de map met kattenpakketten.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation type="vanished">Alles vernieuwen</translation>
+        <translation>Alles vernieuwen</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="vanished">WizardPage</translation>
+        <translation>WizardPage</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation type="vanished">Selecteer het thema dat u wenst te gebruiken</translation>
+        <translation>Selecteer het thema dat u wenst te gebruiken</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="vanished">Tip: De kat verschijnt op de achtergrond en is standaard niet zichtbaar. De kat is alleen zichtbaar wanneer de katknop in de menubalk is ingedrukt.</translation>
+        <translation>Tip: De kat verschijnt op de achtergrond en is standaard niet zichtbaar. De kat is alleen zichtbaar wanneer de katknop in de menubalk is ingedrukt.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation type="vanished"> Voorbeeld:</translation>
+        <translation> Voorbeeld:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="vanished">De kat verschijnt op de achtergrond en heeft geen nut, het is enkel visueel.</translation>
+        <translation>De kat verschijnt op de achtergrond en heeft geen nut, het is enkel visueel.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -16032,7 +16037,7 @@ Wissel alstublieft naar een van de volgende Javaversies voor deze instantie:</tr
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Filter:</translation>
+        <translation>Filter:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -16866,11 +16871,11 @@ Canoniek Pad: %1</translation>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation type="vanished">Datapakketten</translation>
+        <translation>Datapakketten</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation type="vanished">Beheer datapacks binnen de wereld.</translation>
+        <translation>Beheer datapacks binnen de wereld.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -16898,7 +16903,7 @@ Wilt u doorgaan?</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation type="vanished">Open Wereld Datapakkettenmap</translation>
+        <translation>Open Wereld Datapakkettenmap</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

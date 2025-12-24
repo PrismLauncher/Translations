@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation type="vanished">Ключі API</translation>
+        <translation>Ключі API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,16 +88,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="vanished">(Усталено)</translation>
+        <translation>(Усталено)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="vanished">Введіть тут власний ідентифікатор клієнта для автентифікації Microsoft.</translation>
+        <translation>Введіть тут власний ідентифікатор клієнта для автентифікації Microsoft.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation type="vanished">API &amp;Modrinth</translation>
+        <translation>API &amp;Modrinth</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,15 +106,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="vanished">Введіть тут власний токен API для Modrinth.</translation>
+        <translation>Введіть тут власний токен API для Modrinth.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="vanished">(Не використовувати)</translation>
+        <translation>(Не використовувати)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="vanished">Ідентифікатор Клієнта Technic</translation>
+        <translation>Ідентифікатор Клієнта Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="vanished">Введіть тут власний GUID ідентифікатор клієнта для Technic.</translation>
+        <translation>Введіть тут власний GUID ідентифікатор клієнта для Technic.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Інші</translation>
+        <translation>Інші</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="vanished">Введіть тут власне посилання метаданих.</translation>
+        <translation>Введіть тут власне посилання метаданих.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation type="vanished">Базовий API &amp;CurseForge</translation>
+        <translation>Базовий API &amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="vanished">Введіть тут власний ключ API CurseForge.</translation>
+        <translation>Введіть тут власний ключ API CurseForge.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation type="vanished">API</translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation type="vanished">Не вдалося відкрити конфігурації збірки %1!</translation>
+        <translation>Не вдалося відкрити конфігурації збірки %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -417,12 +417,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="vanished">Не перевірений</translation>
+        <translation>Не перевірений</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="vanished">Автономний</translation>
+        <translation>Автономний</translation>
     </message>
     <message>
         <source>Online</source>
@@ -450,37 +450,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="vanished">Готовий</translation>
+        <translation>Готовий</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="vanished">Працює</translation>
+        <translation>Працює</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="vanished">Містить помилки</translation>
+        <translation>Містить помилки</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="vanished">Термін дії сплив</translation>
+        <translation>Термін дії сплив</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="vanished">Вимкнений</translation>
+        <translation>Вимкнений</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="vanished">Втрачений</translation>
+        <translation>Втрачений</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="vanished">Невідомий</translation>
+        <translation>Невідомий</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1137,7 +1137,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="vanished">Отримання файлів ресурсів від Mojang...</translation>
+        <translation>Отримання файлів ресурсів від Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1529,11 +1529,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;У вашій встановленій теці глобальних модів і теці для завантажень відбуваються автоматичні перевірки на нові завантаження. Якщо там буде знайдено моди, вони будуть скопійовані до збірки.&lt;/p&gt;&lt;p&gt;Також ви можете перетягнути завантажені моди до цього вікна, або ж додати теку для перевірки, якщо ви не завантажуєте моди до стандартного місця.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;У вашій встановленій теці глобальних модів і теці для завантажень відбуваються автоматичні перевірки на нові завантаження. Якщо там буде знайдено моди, вони будуть скопійовані до збірки.&lt;/p&gt;&lt;p&gt;Також ви можете перетягнути завантажені моди до цього вікна, або ж додати теку для перевірки, якщо ви не завантажуєте моди до стандартного місця.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation type="vanished">Теки, що перевіряються:</translation>
+        <translation>Теки, що перевіряються:</translation>
     </message>
 </context>
 <context>
@@ -1677,7 +1677,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation type="vanished">Не вдалося виконати одну чи більше підзадач</translation>
+        <translation>Не вдалося виконати одну чи більше підзадач</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1920,7 +1920,7 @@ Some versions of Minecraft may not launch.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation type="vanished">Основні моди</translation>
+        <translation>Основні моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2060,22 +2060,22 @@ Some versions of Minecraft may not launch.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="vanished">&amp;Користувацькі команди</translation>
+        <translation>&amp;Користувацькі команди</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="vanished">Команда після &amp;виходу:</translation>
+        <translation>Команда після &amp;виходу:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="vanished">Команда перед &amp;запуском:</translation>
+        <translation>Команда перед &amp;запуском:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="vanished">Команда &amp;обгортки:</translation>
+        <translation>Команда &amp;обгортки:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2108,7 +2108,7 @@ Some versions of Minecraft may not launch.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation type="vanished">Користувацькі команди</translation>
+        <translation>Користувацькі команди</translation>
     </message>
 </context>
 <context>
@@ -2476,7 +2476,7 @@ Are you sure?</source>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Перевірити чи в модах присутні метадані...</translation>
+        <translation>Перевірити чи в модах присутні метадані...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2528,7 +2528,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation type="vanished">&amp;Змінні середовища</translation>
+        <translation>&amp;Змінні середовища</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2565,7 +2565,7 @@ Are you sure?</source>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation type="vanished">Змінні оточення</translation>
+        <translation>Змінні оточення</translation>
     </message>
 </context>
 <context>
@@ -2708,11 +2708,11 @@ Are you sure?</source>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="vanished">&amp;Назва</translation>
+        <translation>&amp;Назва</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation type="vanished">&amp;Версія</translation>
+        <translation>&amp;Версія</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2764,7 +2764,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation type="vanished">&amp;Автор</translation>
+        <translation>&amp;Автор</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2949,7 +2949,7 @@ Are you sure?</source>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Фільтр:</translation>
+        <translation>Фільтр:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2958,11 +2958,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Додати</translation>
+        <translation>&amp;Додати</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Додати</translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2971,7 +2971,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Видалити вибраний елемент</translation>
+        <translation>Видалити вибраний елемент</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2980,7 +2980,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Увімкнути вибраний елемент</translation>
+        <translation>Увімкнути вибраний елемент</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3095,7 +3095,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Завантажте новий ресурс</translation>
+        <translation>Завантажте новий ресурс</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3105,27 +3105,27 @@ Are you sure?</source>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Спробувати знайти або оновити всі обрані ресурси (всі ресурси якщо жоден не обраний)</translation>
+        <translation>Спробувати знайти або оновити всі обрані ресурси (всі ресурси якщо жоден не обраний)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Експортувати список модів</translation>
+        <translation>Експортувати список модів</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">Експортувати метадані моду в текст</translation>
+        <translation>Експортувати метадані моду в текст</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Відвідати сторінку мода</translation>
+        <translation>Відвідати сторінку мода</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="vanished">Вимкнути вибраний елемент</translation>
+        <translation>Вимкнути вибраний елемент</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Перейти до головної сторінки модів</translation>
+        <translation>Перейти до головної сторінки модів</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -3187,12 +3187,12 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation type="vanished">Підтвердити вимкнення</translation>
+        <translation>Підтвердити вимкнення</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="vanished">Вимкнення ресурсів запущеної гри може призвести до її аварійного завершення.
+        <translation>Вимкнення ресурсів запущеної гри може призвести до її аварійного завершення.
 Продовжити?</translation>
     </message>
     <message>
@@ -3265,16 +3265,16 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="vanished">Зовнішній редактор (залиште пустим, щоби використовувати системний редактор)</translation>
+        <translation>Зовнішній редактор (залиште пустим, щоби використовувати системний редактор)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="vanished">&amp;Текстовий редактор:</translation>
+        <translation>&amp;Текстовий редактор:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation type="vanished">Зовнішні інструменти</translation>
+        <translation>Зовнішні інструменти</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3336,17 +3336,17 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation type="vanished">Виконуваний файл JVisualVM</translation>
+        <translation>Виконуваний файл JVisualVM</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="vanished">Помилка під час перевірки встановлення JVisualVM:
+        <translation>Помилка під час перевірки встановлення JVisualVM:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="vanished">Налаштування JVisualVM здається виконано успішно</translation>
+        <translation>Налаштування JVisualVM здається виконано успішно</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3373,7 +3373,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation type="vanished">Редактор JSON</translation>
+        <translation>Редактор JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3546,7 +3546,7 @@ Please try again.</source>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="vanished">Отримуємо відповідь від API CurseForge для &apos;%1&apos;...</translation>
+        <translation>Отримуємо відповідь від API CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3585,16 +3585,16 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="vanished">Підготовка модів для CurseForge...</translation>
+        <translation>Підготовка модів для CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Не знайдено допустимої версії цього моду. Ймовірно він не доступний для поточної версії гри/завантажувача модів.</translation>
+        <translation>Не знайдено допустимої версії цього моду. Ймовірно він не доступний для поточної версії гри/завантажувача модів.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Доступна нова версія моду, але його неможливо завантажити через CurseForge.</translation>
+        <translation>Доступна нова версія моду, але його неможливо завантажити через CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -4030,11 +4030,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation type="vanished">Ключ</translation>
+        <translation>Ключ</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="vanished">Значення</translation>
+        <translation>Значення</translation>
     </message>
 </context>
 <context>
@@ -4424,11 +4424,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation type="vanished">&amp;Назва:</translation>
+        <translation>&amp;Назва:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation type="vanished">&amp;Група:</translation>
+        <translation>&amp;Група:</translation>
     </message>
 </context>
 <context>
@@ -4642,19 +4642,19 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation type="vanished">Відкрити Загальні Налаштування</translation>
+        <translation>Відкрити Загальні Налаштування</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="vanished">Налаштування тут працюватимуть навіть усупереч загальним налаштуванням.</translation>
+        <translation>Налаштування тут працюватимуть навіть усупереч загальним налаштуванням.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation type="vanished">Встан&amp;овлення Java</translation>
+        <translation>Встан&amp;овлення Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation type="vanished">Автоматичне виявлення...</translation>
+        <translation>Автоматичне виявлення...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4662,72 +4662,72 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Test</source>
-        <translation type="vanished">Перевірка</translation>
+        <translation>Перевірка</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">Якщо ввімкнено, лаунчер не перевірятиме сумісність екземпляра з обраною версією Java.</translation>
+        <translation>Якщо ввімкнено, лаунчер не перевірятиме сумісність екземпляра з обраною версією Java.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="vanished">Пропустити перевірку сумісности з Java</translation>
+        <translation>Пропустити перевірку сумісности з Java</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="vanished">Налаштування пам&apos;яті</translation>
+        <translation>Налаштування пам&apos;яті</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">Мінімальний обсяг виділеної пам&apos;яті:</translation>
+        <translation>Мінімальний обсяг виділеної пам&apos;яті:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">Максимальний обсяг пам&apos;яті, дозволений для використання програмі Minecraft.</translation>
+        <translation>Максимальний обсяг пам&apos;яті, дозволений для використання програмі Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">Мінімальний обсяг пам&apos;яті, з яким запускається Minecraft.</translation>
+        <translation>Мінімальний обсяг пам&apos;яті, з яким запускається Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">Обсяг пам&apos;яті, доступний для зберігання завантажених класів Java.</translation>
+        <translation>Обсяг пам&apos;яті, доступний для зберігання завантажених класів Java.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Максимальний обсяг виділеної пам&apos;яті:</translation>
+        <translation>Максимальний обсяг виділеної пам&apos;яті:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Огляд</translation>
+        <translation>Огляд</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">Завантажити Java</translation>
+        <translation>Завантажити Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation type="vanished">PermGen:</translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="vanished">Примітка: Permgen встановлюється автоматично для Java 8 і для більш пізніх версій</translation>
+        <translation>Примітка: Permgen встановлюється автоматично для Java 8 і для більш пізніх версій</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation type="vanished">Аргументи Java</translation>
+        <translation>Аргументи Java</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation type="vanished">Ігрові вікна</translation>
+        <translation>Ігрові вікна</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation type="vanished">Налаштування вікна гри</translation>
+        <translation>Налаштування вікна гри</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="vanished">Запускати Minecraft в повноекранному режимі</translation>
+        <translation>Запускати Minecraft в повноекранному режимі</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4739,70 +4739,70 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Window height:</source>
-        <translation type="vanished">Висота вікна:</translation>
+        <translation>Висота вікна:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation type="vanished">Ширина вікна:</translation>
+        <translation>Ширина вікна:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation type="vanished">Налаштування &amp;консолі</translation>
+        <translation>Налаштування &amp;консолі</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="vanished">Показувати консоль під час гри</translation>
+        <translation>Показувати консоль під час гри</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">Автоматично закривати консоль при виході із гри</translation>
+        <translation>Автоматично закривати консоль при виході із гри</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="vanished">Показувати вікно консолі, якщо гра зазнає краху</translation>
+        <translation>Показувати вікно консолі, якщо гра зазнає краху</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="vanished">Закривати лаунчер по відкриттю вікна гри</translation>
+        <translation>Закривати лаунчер по відкриттю вікна гри</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="vanished">Виходити з лаунчера по закриттю вікна гри</translation>
+        <translation>Виходити з лаунчера по закриттю вікна гри</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation type="vanished">Користувацькі команди</translation>
+        <translation>Користувацькі команди</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="vanished">Змінні середовища</translation>
+        <translation>Змінні середовища</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation type="vanished">Обхідні шляхи</translation>
+        <translation>Обхідні шляхи</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation type="vanished">Нативні бібліотеки</translation>
+        <translation>Нативні бібліотеки</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="vanished">Шлях до бібліотеки &amp;GLFW</translation>
+        <translation>Шлях до бібліотеки &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="vanished">Використовувати системне встановлення GLFW</translation>
+        <translation>Використовувати системне встановлення GLFW</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="vanished">Однокористувацький світ</translation>
+        <translation>Однокористувацький світ</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="vanished">Використовувати системне встановлення OpenAL</translation>
+        <translation>Використовувати системне встановлення OpenAL</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -4818,89 +4818,89 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="vanished">Підпорядкувати усталений обліковий запис</translation>
+        <translation>Підпорядкувати усталений обліковий запис</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">Обліковий Запис:</translation>
+        <translation>Обліковий Запис:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Інше</translation>
+        <translation>Інше</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="vanished">Шлях до бібліотеки &amp;OpenAL</translation>
+        <translation>Шлях до бібліотеки &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">Продуктивність</translation>
+        <translation>Продуктивність</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкніть GameMode Feral Interactive, щоби потенційно покращити ігрову продуктивність.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкніть GameMode Feral Interactive, щоби потенційно покращити ігрову продуктивність.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">Увімнути Feral GameMode</translation>
+        <translation>Увімнути Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкнути розширений оверлей продуктивности MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкнути розширений оверлей продуктивности MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">Увімкнути MangoHud</translation>
+        <translation>Увімкнути MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Користуватися зовнішньою (дискретною) відеокартою замість головної.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Користуватися зовнішньою (дискретною) відеокартою замість головної.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">Використовувати зовнішню (дискретну) відеокарту</translation>
+        <translation>Використовувати зовнішню (дискретну) відеокарту</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="vanished">Використовувати Zink, драйвер Mesa OpenGL, який реалізує OpenGL поверх Vulkan. Продуктивність може змінюватися в залежності від ситуації. Примітка: якщо відповідний драйвер Vulkan не знайдено, використовуватиметься програмний рендеринг.</translation>
+        <translation>Використовувати Zink, драйвер Mesa OpenGL, який реалізує OpenGL поверх Vulkan. Продуктивність може змінюватися в залежності від ситуації. Примітка: якщо відповідний драйвер Vulkan не знайдено, використовуватиметься програмний рендеринг.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="vanished">Використовувати Zink</translation>
+        <translation>Використовувати Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="vanished">Застарілі налаштування</translation>
+        <translation>Застарілі налаштування</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулює використання старих онлайн-сервісів, котрі більше не працюють.&lt;/p&gt;&lt;p&gt;Поточні виправлення включають: підтримку скінів та онлайн-режиму.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулює використання старих онлайн-сервісів, котрі більше не працюють.&lt;/p&gt;&lt;p&gt;Поточні виправлення включають: підтримку скінів та онлайн-режиму.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="vanished">Увімкнути онлайн-виправлення (експериментально)</translation>
+        <translation>Увімкнути онлайн-виправлення (експериментально)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation type="vanished">Підпорядкувати загальні налаштування часу гри</translation>
+        <translation>Підпорядкувати загальні налаштування часу гри</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="vanished">Показати час, витрачений на гру в цій збірці</translation>
+        <translation>Показати час, витрачений на гру в цій збірці</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation type="vanished">Записувати час, витрачений на гру в цій збірці</translation>
+        <translation>Записувати час, витрачений на гру в цій збірці</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="vanished">Приєднатися до сервера після запуску</translation>
+        <translation>Приєднатися до сервера після запуску</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="vanished">Адреса сервера:</translation>
+        <translation>Адреса сервера:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4909,39 +4909,39 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="vanished">Шлях до файлу бібліотеки %1</translation>
+        <translation>Шлях до файлу бібліотеки %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">Feral Interactive&apos;s GameMode не було знайдено в системі.</translation>
+        <translation>Feral Interactive&apos;s GameMode не було знайдено в системі.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">MangoHud не було знайдено в системі.</translation>
+        <translation>MangoHud не було знайдено в системі.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Виберіть версію Java</translation>
+        <translation>Виберіть версію Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">Підтвердити Вибір</translation>
+        <translation>Підтвердити Вибір</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">Ви вибрали 32-розрядну версію Java. 
+        <translation>Ви вибрали 32-розрядну версію Java. 
 Ця інсталяція не підтримує понад 2048 МіБ оперативної пам&apos;яті. 
 Будь ласка, переконайтеся, що максимальне значення пам&apos;яті є меншим.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Знайти виконуваний файл Java</translation>
+        <translation>Знайти виконуваний файл Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Ваш максимальний обсяг виділеної пам&apos;яті менший за мінімальне значення</translation>
+        <translation>Ваш максимальний обсяг виділеної пам&apos;яті менший за мінімальне значення</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4949,11 +4949,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">Ваш максимальний обсяг виділеної пам&apos;яті перевищує загальну місткість системної пам&apos;яті.</translation>
+        <translation>Ваш максимальний обсяг виділеної пам&apos;яті перевищує загальну місткість системної пам&apos;яті.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Ваш максимальний обсяг виділеної пам&apos;яті наближається до місткості системної пам&apos;яті.</translation>
+        <translation>Ваш максимальний обсяг виділеної пам&apos;яті наближається до місткості системної пам&apos;яті.</translation>
     </message>
 </context>
 <context>
@@ -5058,7 +5058,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation type="vanished">JVisualVM запущений</translation>
+        <translation>JVisualVM запущений</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -5085,15 +5085,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="vanished">Розпакування Java (Прогрес не відображається для архівів tar)</translation>
+        <translation>Розпакування Java (Прогрес не відображається для архівів tar)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation type="vanished">Не вдалося відкрити наданий tar файл.</translation>
+        <translation>Не вдалося відкрити наданий tar файл.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="vanished">Не вдалося розпакувати наданий tar файл.</translation>
+        <translation>Не вдалося розпакувати наданий tar файл.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5107,7 +5107,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation type="vanished">Не вдалося визначити тип архіву!</translation>
+        <translation>Не вдалося визначити тип архіву!</translation>
     </message>
 </context>
 <context>
@@ -5213,70 +5213,70 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Пам&apos;ять</translation>
+        <translation>Пам&apos;ять</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">Максимальний обсяг пам&apos;яті, дозволений для використання Minecraft.</translation>
+        <translation>Максимальний обсяг пам&apos;яті, дозволений для використання Minecraft.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="vanished">&amp;Мінімальний обсяг виділеної пам&apos;яті:</translation>
+        <translation>&amp;Мінімальний обсяг виділеної пам&apos;яті:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="vanished">Ма&amp;ксимальний обсяг виділеної пам&apos;яті:</translation>
+        <translation>Ма&amp;ксимальний обсяг виділеної пам&apos;яті:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation type="vanished">&amp;PermGen:</translation>
+        <translation>&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">Обсяг пам&apos;яті, з яким запускається програма Minecraft.</translation>
+        <translation>Обсяг пам&apos;яті, з яким запускається програма Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">Обсяг пам&apos;яті, доступний для зберігання завантажених класів Java.</translation>
+        <translation>Обсяг пам&apos;яті, доступний для зберігання завантажених класів Java.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation type="vanished">Середовище виконання Java</translation>
+        <translation>Середовище виконання Java</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation type="vanished">Аргументи JVM:</translation>
+        <translation>Аргументи JVM:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="vanished">Автоматично вибирає версію Java, сумісну з поточним екземпляром Minecraft, на основі необхідної основної версії.</translation>
+        <translation>Автоматично вибирає версію Java, сумісну з поточним екземпляром Minecraft, на основі необхідної основної версії.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">Автоматичне визначення версії Java</translation>
+        <translation>Автоматичне визначення версії Java</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="vanished">&amp;Шлях до Java:</translation>
+        <translation>&amp;Шлях до Java:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="vanished">Автоматично завантажує та вибирає версію Java, котру радить Mojang.</translation>
+        <translation>Автоматично завантажує та вибирає версію Java, котру радить Mojang.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">Автоматичне завантаження Mojang Java</translation>
+        <translation>Автоматичне завантаження Mojang Java</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation type="vanished">Керування</translation>
+        <translation>Керування</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation type="vanished">Завантажені версії Java</translation>
+        <translation>Завантажені версії Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5306,33 +5306,33 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="vanished">&amp;Автоматичне виявлення...</translation>
+        <translation>&amp;Автоматичне виявлення...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="vanished">&amp;Перевірити</translation>
+        <translation>&amp;Перевірити</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Огляд</translation>
+        <translation>Огляд</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="vanished">Якщо ввімкнено, лаунчер не пропонуватиме вибрати версію Java, якщо її не знайдено.</translation>
+        <translation>Якщо ввімкнено, лаунчер не пропонуватиме вибрати версію Java, якщо її не знайдено.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="vanished">Пропустити &amp;майстер налаштування Java</translation>
+        <translation>Пропустити &amp;майстер налаштування Java</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">Якщо ввімкнено, лаунчер не перевірятиме сумісність екземпляра з обраною версією Java.</translation>
+        <translation>Якщо ввімкнено, лаунчер не перевірятиме сумісність екземпляра з обраною версією Java.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="vanished">Пропустити перевірку &amp;сумісности з Java</translation>
+        <translation>Пропустити перевірку &amp;сумісности з Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5353,35 +5353,35 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Виберіть версію Java</translation>
+        <translation>Виберіть версію Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">Підтвердити Вибір</translation>
+        <translation>Підтвердити Вибір</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">Ви вибрали 32-розрядну версію Java.
+        <translation>Ви вибрали 32-розрядну версію Java.
 Ця інсталяція не підтримує понад 2048 МіБ оперативної пам&apos;яті.
 Будь ласка, переконайтеся, що максимальне значення пам&apos;яті є меншим.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Знайти виконуваний файл Java</translation>
+        <translation>Знайти виконуваний файл Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">Ваш максимальний обсяг виділеної пам&apos;яті перевищує місткість системної пам&apos;яті.</translation>
+        <translation>Ваш максимальний обсяг виділеної пам&apos;яті перевищує місткість системної пам&apos;яті.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Ваш максимальний обсяг виділеної пам&apos;яті наближається до місткості системної пам&apos;яті.</translation>
+        <translation>Ваш максимальний обсяг виділеної пам&apos;яті наближається до місткості системної пам&apos;яті.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Ваш максимальний обсяг виділеної пам&apos;яті менший за мінімальне значення</translation>
+        <translation>Ваш максимальний обсяг виділеної пам&apos;яті менший за мінімальне значення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5400,7 +5400,7 @@ Are you sure?</source>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation type="vanished">Не вибрано версію Java</translation>
+        <translation>Не вибрано версію Java</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5418,7 +5418,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">Завантажити Java</translation>
+        <translation>Завантажити Java</translation>
     </message>
     <message>
         <source>Automatic Java Download</source>
@@ -5434,7 +5434,7 @@ Do you want to enable Java auto-download?
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="vanished">Виявлено 32-бітну версію Java</translation>
+        <translation>Виявлено 32-бітну версію Java</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5443,7 +5443,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">Ви вибрали 32-розрядну інсталяцію Java, але виділили понад 2048 МіБ як максимальний обсяг пам&apos;яті. 
+        <translation>Ви вибрали 32-розрядну інсталяцію Java, але виділили понад 2048 МіБ як максимальний обсяг пам&apos;яті. 
 %1 не зможе запустити Minecraft. 
 Продовжити? 
 
@@ -5457,7 +5457,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">Ви або не вибрали версію Java, або вибрали версію, яка не працює. 
+        <translation>Ви або не вибрали версію Java, або вибрали версію, яка не працює. 
 %1 не зможе запустити Minecraft. 
 Продовжити без працездатної версії Java? 
 
@@ -5471,7 +5471,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Пам&apos;ять</translation>
+        <translation>Пам&apos;ять</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5480,7 +5480,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">Мінімальний обсяг виділеної пам&apos;яті:</translation>
+        <translation>Мінімальний обсяг виділеної пам&apos;яті:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5586,7 +5586,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Максимальний обсяг виділеної пам&apos;яті:</translation>
+        <translation>Максимальний обсяг виділеної пам&apos;яті:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5625,19 +5625,19 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Огляд</translation>
+        <translation>Огляд</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">Автозавантаження Mojang Java</translation>
+        <translation>Автозавантаження Mojang Java</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">Автоматичне визначення версії Java</translation>
+        <translation>Автоматичне визначення версії Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="vanished">Автовиявлення Java</translation>
+        <translation>Автовиявлення Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5675,15 +5675,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Ваш максимальний обсяг виділеної пам&apos;яті наближається до місткості системної пам&apos;яті.</translation>
+        <translation>Ваш максимальний обсяг виділеної пам&apos;яті наближається до місткості системної пам&apos;яті.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Ваш максимальний обсяг виділеної пам&apos;яті менший за мінімальне значення</translation>
+        <translation>Ваш максимальний обсяг виділеної пам&apos;яті менший за мінімальне значення</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="vanished">Ви перевищуєте максимальний обсяг виділеної пам&apos;яті, що підтримується 32-розрядними інсталяціями Java.</translation>
+        <translation>Ви перевищуєте максимальний обсяг виділеної пам&apos;яті, що підтримується 32-розрядними інсталяціями Java.</translation>
     </message>
 </context>
 <context>
@@ -5980,11 +5980,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation type="vanished">Грати офлайн</translation>
+        <translation>Грати офлайн</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Термін дії облікового запису закінчився, і потрібно знову ввійти вручну.</translation>
+        <translation>Термін дії облікового запису закінчився, і потрібно знову ввійти вручну.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -5993,7 +5993,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="vanished">Змінено ідентифікатор клієнта лаунчера. Будь ласка, видаліть цей обліковий запис і додайте його знову.</translation>
+        <translation>Змінено ідентифікатор клієнта лаунчера. Будь ласка, видаліть цей обліковий запис і додайте його знову.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6002,7 +6002,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="vanished">Обліковий запис більше не існує на серверах. Можливо, він був перенесений, у такому випадку додайте новий обліковий запис на який ви перенесли поточний.</translation>
+        <translation>Обліковий запис більше не існує на серверах. Можливо, він був перенесений, у такому випадку додайте новий обліковий запис на який ви перенесли поточний.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6149,11 +6149,11 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation type="vanished">Можливості</translation>
+        <translation>Можливості</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation type="vanished">Оновити налаштування</translation>
+        <translation>Оновити налаштування</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6316,7 +6316,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation type="vanished">Режим упорядкування збірок</translation>
+        <translation>Режим упорядкування збірок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6331,7 +6331,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Theme</source>
-        <translation type="vanished">Тема</translation>
+        <translation>Тема</translation>
     </message>
     <message>
         <source>&amp;Icons</source>
@@ -6355,17 +6355,17 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Mods</source>
-        <translation type="vanished">Моди</translation>
+        <translation>Моди</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="vanished">Вимкнути використання метаданих, наданих постачальниками модів (як-от Modrinth або Curseforge) для модів.</translation>
+        <translation>Вимкнути використання метаданих, наданих постачальниками модів (як-от Modrinth або Curseforge) для модів.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="vanished">Вимкнути використання метаданих для модів</translation>
+        <translation>Вимкнути використання метаданих для модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6392,15 +6392,15 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Update interval</source>
-        <translation type="vanished">Інтервал оновлень</translation>
+        <translation>Інтервал оновлень</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="vanished">Поставте на 0 для перевірки лише при запуску</translation>
+        <translation>Поставте на 0 для перевірки лише при запуску</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="vanished">год</translation>
+        <translation>год</translation>
     </message>
     <message>
         <source>Rename instance folders</source>
@@ -6430,36 +6430,36 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation type="vanished">Рекурсивно перевіряти теку завантажень</translation>
+        <translation>Рекурсивно перевіряти теку завантажень</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="vanished">Вимкнути автоматичне видалення, встановлення і оновлення залежностей мода.</translation>
+        <translation>Вимкнути автоматичне видалення, встановлення і оновлення залежностей мода.</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation type="vanished">Вимкнути автоматичне керування залежностями модів</translation>
+        <translation>Вимкнути автоматичне керування залежностями модів</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="vanished">При створені нової збірки, не пропонувати оновити вже існуючі натомість.</translation>
+        <translation>При створені нової збірки, не пропонувати оновити вже існуючі натомість.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation type="vanished">Пропустити запит на оновлення збірки</translation>
+        <translation>Пропустити запит на оновлення збірки</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Ріжне</translation>
+        <translation>Ріжне</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation type="vanished">Кількість одночасних завдань</translation>
+        <translation>Кількість одночасних завдань</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation type="vanished">Кількість одночасних завантажень</translation>
+        <translation>Кількість одночасних завантажень</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6468,7 +6468,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation type="vanished">Вичерпаний час для HTTP запитів</translation>
+        <translation>Вичерпаний час для HTTP запитів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6477,7 +6477,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation type="vanished">Кількість ручних повторів</translation>
+        <translation>Кількість ручних повторів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6495,23 +6495,23 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Cat</source>
-        <translation type="vanished">Кіт</translation>
+        <translation>Кіт</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="vanished">Встановіть рівень прозорости котика. При 0% він буде повністю прозорим, 100% – буде повністю непрозорим.</translation>
+        <translation>Встановіть рівень прозорости котика. При 0% він буде повністю прозорим, 100% – буде повністю непрозорим.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="vanished">Прозорість</translation>
+        <translation>Прозорість</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="vanished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="vanished">Інструменти</translation>
+        <translation>Інструменти</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6576,27 +6576,27 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Console Settings</source>
-        <translation type="vanished">Налаштування консолі</translation>
+        <translation>Налаштування консолі</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="vanished">Показувати консоль &amp;під час гри</translation>
+        <translation>Показувати консоль &amp;під час гри</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">&amp;Автоматично закривати консоль по виходу з гри</translation>
+        <translation>&amp;Автоматично закривати консоль по виходу з гри</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="vanished">Показувати вікно консолі, коли гра зазнає краху</translation>
+        <translation>Показувати вікно консолі, коли гра зазнає краху</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="vanished">&amp;Ліміт звіту</translation>
+        <translation>&amp;Ліміт звіту</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6612,7 +6612,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="vanished">&amp;Шрифт консолі</translation>
+        <translation>&amp;Шрифт консолі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6676,23 +6676,23 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="vanished">[Тест/ПОМИЛКА] Ооооооооооооооо! Жахлива помилка!</translation>
+        <translation>[Тест/ПОМИЛКА] Ооооооооооооооо! Жахлива помилка!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="vanished">[Тест/ПОМИЛКА] Моторошна помилка!</translation>
+        <translation>[Тест/ПОМИЛКА] Моторошна помилка!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="vanished">[Тест/ПОПЕРЕДЖЕННЯ] Не таке страшне попередження.</translation>
+        <translation>[Тест/ПОПЕРЕДЖЕННЯ] Не таке страшне попередження.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="vanished">[Тест/НАЛАГОДЖЕННЯ] Таємне налагоджувальне повідомлення...</translation>
+        <translation>[Тест/НАЛАГОДЖЕННЯ] Таємне налагоджувальне повідомлення...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="vanished">[Тест/ФАТАЛЬНО] Жахлива фатальна помилка!</translation>
+        <translation>[Тест/ФАТАЛЬНО] Жахлива фатальна помилка!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6700,7 +6700,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="vanished">[Тест/INFO] Нешкідливе повідомлення...</translation>
+        <translation>[Тест/INFO] Нешкідливе повідомлення...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6708,7 +6708,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Launcher</source>
-        <translation type="vanished">Лаунчер</translation>
+        <translation>Лаунчер</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6816,7 +6816,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation type="vanished">Не вдалося відкрити файл збірки %1!</translation>
+        <translation>Не вдалося відкрити файл збірки %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -7041,12 +7041,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Оновлення індексу для мода:
+        <translation>Оновлення індексу для мода:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Неприпустимі метадані</translation>
+        <translation>Неприпустимі метадані</translation>
     </message>
 </context>
 <context>
@@ -7119,7 +7119,7 @@ Reason:
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Пошук:</translation>
+        <translation>Пошук:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7231,7 +7231,7 @@ Reason:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation type="vanished">Не вдалося створити:</translation>
+        <translation>Не вдалося створити:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7248,7 +7248,7 @@ Reason:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation type="vanished">Не вдалося відкрити наданий файл zip.</translation>
+        <translation>Не вдалося відкрити наданий файл zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7267,7 +7267,7 @@ Reason:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation type="vanished">Не вдалося знайти перший файл в ZIP</translation>
+        <translation>Не вдалося знайти перший файл в ZIP</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -7281,7 +7281,7 @@ Reason:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="vanished">Не вдалося виправити права доступу для %1</translation>
+        <translation>Не вдалося виправити права доступу для %1</translation>
     </message>
 </context>
 <context>
@@ -7394,11 +7394,11 @@ Reason:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="vanished">Відкрийте %1 або проскануйте QR код і введіть вищезазначений код.</translation>
+        <translation>Відкрийте %1 або проскануйте QR код і введіть вищезазначений код.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation type="vanished">Відкрийте %1 або введіть вищезазначений код.</translation>
+        <translation>Відкрийте %1 або введіть вищезазначений код.</translation>
     </message>
 </context>
 <context>
@@ -7601,7 +7601,7 @@ Reason:
     </message>
     <message>
         <source>More news...</source>
-        <translation type="vanished">Більше новин...</translation>
+        <translation>Більше новин...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7645,7 +7645,7 @@ Reason:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="vanished">Створює ярлик на стільниці для запуску обраної збірки.</translation>
+        <translation>Створює ярлик на стільниці для запуску обраної збірки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -8397,7 +8397,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="vanished">Є зв&apos;язані збірки</translation>
+        <translation>Є зв&apos;язані збірки</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8407,7 +8407,7 @@ Please add your Microsoft or Mojang account.</oldsource>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="vanished">
+        <translation>
             <numerusform>Наступна збірка може посилатись на файли в цій збірці:
 
 %1
@@ -8444,7 +8444,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="vanished">Ви намагаєтесь видалити &quot;%1&quot;.
+        <translation>Ви намагаєтесь видалити &quot;%1&quot;.
 Ця дія призведе до цілковитого і безповоротного видалення екземпляра.
 
 Продовжити?</translation>
@@ -8461,31 +8461,31 @@ Are you sure?</source>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation type="vanished">Створити ярлик екземпляра</translation>
+        <translation>Створити ярлик екземпляра</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="vanished">Не можете знайти стільницю?!</translation>
+        <translation>Не можете знайти стільницю?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="vanished">Лаунчер перебуває в теці, з якої він був видобутий, тому він не може створювати ярлики.</translation>
+        <translation>Лаунчер перебуває в теці, з якої він був видобутий, тому він не може створювати ярлики.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="vanished">Настільні записи</translation>
+        <translation>Настільні записи</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="vanished">Ярлик цієї збірки створено на стільниці!</translation>
+        <translation>Ярлик цієї збірки створено на стільниці!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation type="vanished">Не вдалось створити ярлик збірки!</translation>
+        <translation>Не вдалось створити ярлик збірки!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="vanished">Лаунчер діє як неправильно налаштований AppImage? (змінна оточення $APPIMAGE відсутня)</translation>
+        <translation>Лаунчер діє як неправильно налаштований AppImage? (змінна оточення $APPIMAGE відсутня)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8587,15 +8587,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation type="vanished">Зробити програму Збірки</translation>
+        <translation>Зробити програму Збірки</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation type="vanished">Не вдалося створити іконку для Застосунку.</translation>
+        <translation>Не вдалося створити іконку для Застосунку.</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="vanished">Не вдалося створити іконку для ярлика.</translation>
+        <translation>Не вдалося створити іконку для ярлика.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8603,11 +8603,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="vanished">Не підтримується на вашій платформі!</translation>
+        <translation>Не підтримується на вашій платформі!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation type="vanished">Ярлик збірки успішно створено!</translation>
+        <translation>Ярлик збірки успішно створено!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -8680,11 +8680,11 @@ Are you sure?</source>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation type="vanished">Інформація про збірку</translation>
+        <translation>Інформація про збірку</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation type="vanished">Назва збірки:</translation>
+        <translation>Назва збірки:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8723,7 +8723,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Update from file</source>
-        <translation type="vanished">Оновити з файлу</translation>
+        <translation>Оновити з файлу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8786,7 +8786,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Update pack</source>
-        <translation type="vanished">Оновити збірку</translation>
+        <translation>Оновити збірку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -8984,26 +8984,26 @@ This can be updated only using a file in %1 format
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation type="vanished">Розмір вікна</translation>
+        <translation>Розмір вікна</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="vanished">Запускати Minecraft в &amp;повноекранному режимі</translation>
+        <translation>Запускати Minecraft в &amp;повноекранному режимі</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="vanished">&amp;Висота вікна:</translation>
+        <translation>&amp;Висота вікна:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="vanished">&amp;Ширина вікна:</translation>
+        <translation>&amp;Ширина вікна:</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation type="vanished">Налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -9019,82 +9019,82 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="vanished">Застарілі налаштування</translation>
+        <translation>Застарілі налаштування</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулює використання старих онлайн-сервісів, котрі більше не працюють.&lt;/p&gt;&lt;p&gt;Поточні виправлення включають: підтримку скінів та онлайн-режиму.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулює використання старих онлайн-сервісів, котрі більше не працюють.&lt;/p&gt;&lt;p&gt;Поточні виправлення включають: підтримку скінів та онлайн-режиму.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="vanished">Увімкнути онлайн-виправлення (експериментально)</translation>
+        <translation>Увімкнути онлайн-виправлення (експериментально)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation type="vanished">Альтернативні рішення для рідних бібліотек</translation>
+        <translation>Альтернативні рішення для рідних бібліотек</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="vanished">Використовувати системне встановлення &amp;GLFW</translation>
+        <translation>Використовувати системне встановлення &amp;GLFW</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="vanished">Шлях до бібліотеки &amp;GLFW</translation>
+        <translation>Шлях до бібліотеки &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="vanished">Використовувати системне встановлення &amp;OpenAL</translation>
+        <translation>Використовувати системне встановлення &amp;OpenAL</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="vanished">Шлях до бібліотеки &amp;OpenAL</translation>
+        <translation>Шлях до бібліотеки &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">Продуктивність</translation>
+        <translation>Продуктивність</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Увімкніть Feral Interactive&apos;s GameMode, щоби потенційно покращити ігрову продуктивність. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Увімкніть Feral Interactive&apos;s GameMode, щоби потенційно покращити ігрову продуктивність. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">Увімкнути Feral GameMode</translation>
+        <translation>Увімкнути Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкнути розширений оверлей продуктивності MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкнути розширений оверлей продуктивності MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">Увімкнути MangoHud</translation>
+        <translation>Увімкнути MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Користуватися зовнішньою (дискретною) відеокартою замість головної.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Користуватися зовнішньою (дискретною) відеокартою замість головної.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">Використовувати зовнішню (дискретну) відеокарту</translation>
+        <translation>Використовувати зовнішню (дискретну) відеокарту</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Використовувати Zink, драйвер Mesa OpenGL, який дозволяє OpenGL працювати поверх Vulkan. Продуктивність може змінюватися залежно від ситуації. Примітка: Якщо відповідний драйвер Vulkan не знайдено, використовуватиметься програмний рендеринг.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Використовувати Zink, драйвер Mesa OpenGL, який дозволяє OpenGL працювати поверх Vulkan. Продуктивність може змінюватися залежно від ситуації. Примітка: Якщо відповідний драйвер Vulkan не знайдено, використовуватиметься програмний рендеринг.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="vanished">Використовати Zink</translation>
+        <translation>Використовати Zink</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation type="vanished">Час гри</translation>
+        <translation>Час гри</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">Загальне</translation>
+        <translation>Загальне</translation>
     </message>
     <message>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -9107,45 +9107,45 @@ This can be updated only using a file in %1 format
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="vanished">Показувати час, витрачений на &amp;гру в збірку</translation>
+        <translation>Показувати час, витрачений на &amp;гру в збірку</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="vanished">Показати час, витрачений на гру в &amp;усіх збірках</translation>
+        <translation>Показати час, витрачений на гру в &amp;усіх збірках</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="vanished">&amp;Записувати час, витрачений на гру в збірки</translation>
+        <translation>&amp;Записувати час, витрачений на гру в збірки</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation type="vanished">Показати час витрачений на гру в годинах</translation>
+        <translation>Показати час витрачений на гру в годинах</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Ріжне</translation>
+        <translation>Ріжне</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Лаунчер автоматично відкриватиметься в момент закриття чи краху гри.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Лаунчер автоматично відкриватиметься в момент закриття чи краху гри.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="vanished">За&amp;кривати лаунчер по відкриттю вікна гри</translation>
+        <translation>За&amp;кривати лаунчер по відкриттю вікна гри</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Лаунчер закриватиметься автоматично в момент закриття чи краху гри.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Лаунчер закриватиметься автоматично в момент закриття чи краху гри.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="vanished">&amp;Виходити з лаунчера по закриттю вікна гри</translation>
+        <translation>&amp;Виходити з лаунчера по закриттю вікна гри</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -9154,19 +9154,19 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="vanished">Шлях до файлу бібліотеки %1</translation>
+        <translation>Шлях до файлу бібліотеки %1</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation type="vanished">Автоматично виявлений шлях:%1</translation>
+        <translation>Автоматично виявлений шлях:%1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">Feral Interactive&apos;s GameMode не було знайдено в системі.</translation>
+        <translation>Feral Interactive&apos;s GameMode не було знайдено в системі.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">MangoHud не було знайдено в системі.</translation>
+        <translation>MangoHud не було знайдено в системі.</translation>
     </message>
 </context>
 <context>
@@ -9836,7 +9836,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Невідомий</translation>
+        <translation>Невідомий</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -9944,7 +9944,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Звідки мод був завантажений.</translation>
+        <translation>Звідки мод був завантажений.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -10029,7 +10029,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Завантажити моди</translation>
+        <translation>Завантажити моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -10047,11 +10047,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Додати файл</translation>
+        <translation>Додати файл</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Додати локально завантажений файл</translation>
+        <translation>Додати локально завантажений файл</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -10066,11 +10066,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Підтвердити Залежності</translation>
+        <translation>Підтвердити Залежності</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">Спробуйте перевірити наявність оновлень та залежності для всіх виділених модів(для всіх модів, якщо жоден не виділений)</translation>
+        <translation>Спробуйте перевірити наявність оновлень та залежності для всіх виділених модів(для всіх модів, якщо жоден не виділений)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
@@ -10080,35 +10080,35 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Перейти на головну сторінку моду</translation>
+        <translation>Перейти на головну сторінку моду</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">Видалити метадані моду</translation>
+        <translation>Видалити метадані моду</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="vanished">Скинути метадані оновлення</translation>
+        <translation>Скинути метадані оновлення</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">Змінити версію</translation>
+        <translation>Змінити версію</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">Змінити версію моду</translation>
+        <translation>Змінити версію моду</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Відвідати сторінку моду</translation>
+        <translation>Відвідати сторінку моду</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Відвідати сторінки модів</translation>
+        <translation>Відвідати сторінки модів</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Перейти на сторінки обраних модів</translation>
+        <translation>Перейти на сторінки обраних модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
@@ -10132,7 +10132,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation type="vanished">Будь ласка, спершу встановіть завантажувач модів!</translation>
+        <translation>Будь ласка, спершу встановіть завантажувач модів!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -10360,92 +10360,92 @@ Please update %1!</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Підтвердити моди для оновлення</translation>
+        <translation>Підтвердити моди для оновлення</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">Ви оновлятимете ці моди:</translation>
+        <translation>Ви оновлятимете ці моди:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Лише позначені моди будуть оновлені!</translation>
+        <translation>Лише позначені моди будуть оновлені!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Назва моду: %1&lt;br&gt;Назва файлу: %2&lt;br&gt;Причина: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Назва моду: %1&lt;br&gt;Назва файлу: %2&lt;br&gt;Причина: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Не вдалось згенерувати метадані</translation>
+        <translation>Не вдалось згенерувати метадані</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Не вдалося згенерувати метадані для наступних модів:&lt;br&gt;Бажаєте продовжити без цих модів?</translation>
+        <translation>Не вдалося згенерувати метадані для наступних модів:&lt;br&gt;Бажаєте продовжити без цих модів?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Перевірка оновлень</translation>
+        <translation>Перевірка оновлень</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Помилка</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Попередження</translation>
+        <translation>Попередження</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Перевірка оновлень...</translation>
+        <translation>Перевірка оновлень...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Назва моду: %1</translation>
+        <translation>Назва моду: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Причина: %1</translation>
+        <translation>Причина: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Можливе рішення: Встановлення останньої версії вручну:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Можливе рішення: Встановлення останньої версії вручну:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Перевірка залежностей....</translation>
+        <translation>Перевірка залежностей....</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">Мод &apos;%1&apos; ще не має метаданих. Нам потрібно їх згенерувати, щоб відстежувати відповідну інформацію про оновлення цього мода. Для цього, будь ласка, виберіть провайдера модів, якого ми зможемо використовувати для перевірки оновлень цього мода.</translation>
+        <translation>Мод &apos;%1&apos; ще не має метаданих. Нам потрібно їх згенерувати, щоб відстежувати відповідну інформацію про оновлення цього мода. Для цього, будь ласка, виберіть провайдера модів, якого ми зможемо використовувати для перевірки оновлень цього мода.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Не вдалося знайти необхідну версію в обраного надавача</translation>
+        <translation>Не вдалося знайти необхідну версію в обраного надавача</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="vanished">Мод є вимкненим, оскільки він вже може бути встановлений.</translation>
+        <translation>Мод є вимкненим, оскільки він вже може бути встановлений.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Не вдалося перевірити оновлення</translation>
+        <translation>Не вдалося перевірити оновлення</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Не вдалося перевірити або завантажити оновлення наступних модів:&lt;br&gt;Бажаєте продовжити без цих модів?</translation>
+        <translation>Не вдалося перевірити або завантажити оновлення наступних модів:&lt;br&gt;Бажаєте продовжити без цих модів?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Пошук метаданих</translation>
+        <translation>Пошук метаданих</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Генерація метаданих...</translation>
+        <translation>Генерація метаданих...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10453,35 +10453,35 @@ Please update %1!</source>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Надавач: %1</translation>
+        <translation>Надавач: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Стара версія: %1</translation>
+        <translation>Стара версія: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Не встановлено</translation>
+        <translation>Не встановлено</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Нова версія: %1</translation>
+        <translation>Нова версія: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Тип нової версії: %1</translation>
+        <translation>Тип нової версії: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Вимагають: %1</translation>
+        <translation>Вимагають: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Вимагають:</translation>
+        <translation>Вимагають:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Список змін останньої версії</translation>
+        <translation>Список змін останньої версії</translation>
     </message>
 </context>
 <context>
@@ -10582,7 +10582,7 @@ Please update %1!</source>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Підготовка модів для Modrinth...</translation>
+        <translation>Підготовка модів для Modrinth...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10620,7 +10620,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Не знайдено допустимої версії цього моду. Ймовірно, вона недоступна для поточної версії гри/завантажувача модів.</translation>
+        <translation>Не знайдено допустимої версії цього моду. Ймовірно, вона недоступна для поточної версії гри/завантажувача модів.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -11189,27 +11189,27 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation type="vanished">Додати обліковий запис</translation>
+        <translation>Додати обліковий запис</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="vanished">Ім&apos;я користувача</translation>
+        <translation>Ім&apos;я користувача</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="vanished">Імена користувачів, довші за 16 символів, не можна використовувати для гри через LAN або серверів в офлайн-режимі.</translation>
+        <translation>Імена користувачів, довші за 16 символів, не можна використовувати для гри через LAN або серверів в офлайн-режимі.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation type="vanished">Дозволити довгі імена користувачів</translation>
+        <translation>Дозволити довгі імена користувачів</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">ОК</translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
@@ -11260,7 +11260,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Пошук</translation>
+        <translation>Пошук</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -11349,32 +11349,32 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Clear the log</source>
-        <translation type="vanished">Очистити звіт</translation>
+        <translation>Очистити звіт</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="vanished">Завантажити звіт до служби зберігання звітів, заданої в налаштуваннях.</translation>
+        <translation>Завантажити звіт до служби зберігання звітів, заданої в налаштуваннях.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">Завантажити</translation>
+        <translation>Завантажити</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation type="vanished">Очистити</translation>
+        <translation>Очистити</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">Перезавантажити</translation>
+        <translation>Перезавантажити</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Пошук:</translation>
+        <translation>Пошук:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -11401,7 +11401,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation type="vanished">Файл (%1) не читається.</translation>
+        <translation>Файл (%1) не читається.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -11478,7 +11478,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Other logs</source>
-        <translation type="vanished">Інші звіти</translation>
+        <translation>Інші звіти</translation>
     </message>
 </context>
 <context>
@@ -11503,7 +11503,7 @@ Are you sure?</source>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">Закрити</translation>
+        <translation>Закрити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -11532,28 +11532,28 @@ Are you sure?</source>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation type="vanished">Завантаження в %1</translation>
+        <translation>Завантаження в %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation type="vanished">Помилка мережі: %1</translation>
+        <translation>Помилка мережі: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="vanished">Помилка: %1 повернув неочікуваний код стану %2 %3</translation>
+        <translation>Помилка: %1 повернув неочікуваний код стану %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="vanished">Помилка: %1 повернув пошкоджене тіло відповіді</translation>
+        <translation>Помилка: %1 повернув пошкоджене тіло відповіді</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="vanished">Помилка: %1 повернув помилку: %2</translation>
+        <translation>Помилка: %1 повернув помилку: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="vanished">Помилка: %1 повернув код помилки: %2
+        <translation>Помилка: %1 повернув код помилки: %2
 Повідомлення про помилку: %3</translation>
     </message>
 </context>
@@ -12232,7 +12232,7 @@ HTTP Статус: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation type="vanished">Сервер повернув наступну помилку:</translation>
+        <translation>Сервер повернув наступну помилку:</translation>
     </message>
 </context>
 <context>
@@ -12293,7 +12293,7 @@ HTTP Статус: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="vanished">&amp;Усталений</translation>
+        <translation>&amp;Усталений</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -12433,13 +12433,13 @@ HTTP Статус: %2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation type="vanished">Веб-сайт</translation>
+        <translation>Веб-сайт</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="vanished">%1 Розробники</translation>
+        <translation>%1 Розробники</translation>
     </message>
     <message>
         <source>%1 Contributors</source>
@@ -12450,7 +12450,7 @@ HTTP Статус: %2</translation>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation type="vanished">Дякуємо</translation>
+        <translation>Дякуємо</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -12511,7 +12511,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="vanished">Помилка вивантаження</translation>
+        <translation>Помилка вивантаження</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -12810,7 +12810,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="vanished">Вказаний двійковий файл Java не працює. &lt;br /&gt; Вам слід скористатися функцією автоматичного виявлення або встановити шлях до виконуваного файлу Java. &lt;br /&gt;</translation>
+        <translation>Вказаний двійковий файл Java не працює. &lt;br /&gt; Вам слід скористатися функцією автоматичного виявлення або встановити шлях до виконуваного файлу Java. &lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -12838,7 +12838,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation type="vanished">Неправильний шлях до JVisualVM</translation>
+        <translation>Неправильний шлях до JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -12863,7 +12863,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>No author(s)</source>
-        <translation type="vanished">Немає авторa(-ів)</translation>
+        <translation>Немає авторa(-ів)</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -13086,7 +13086,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="vanished">Не вдалося виправити права доступу для %1</translation>
+        <translation>Не вдалося виправити права доступу для %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -13500,7 +13500,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">Змінити версію %1</translation>
+        <translation>Змінити версію %1</translation>
     </message>
 </context>
 <context>
@@ -13926,11 +13926,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Назва ресурсу.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Дата і час останньої зміни (або додавання) цього ресурсу.</translation>
     </message>
     <message>
@@ -14040,7 +14042,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Чи ввімкнено пакет ресурсів? (Тільки для ZIP-архівів)</translation>
+        <translation>Чи ввімкнено пакет ресурсів? (Тільки для ZIP-архівів)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
@@ -14061,15 +14063,15 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation type="vanished">Пакети ресурсів</translation>
+        <translation>Пакети ресурсів</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Завантажити пакети</translation>
+        <translation>Завантажити пакети</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Завантажити пакети ресурсів з онлайн-платформ</translation>
+        <translation>Завантажити пакети ресурсів з онлайн-платформ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -14408,11 +14410,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation type="vanished">Це завантаження буде розміщено в: %1</translation>
+        <translation>Це завантаження буде розміщено в: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="vanished">Цей файл буде завантажено не в усталену теку, скорше за все, через те, що завантажувач цього вимагає.</translation>
+        <translation>Цей файл буде завантажено не в усталену теку, скорше за все, через те, що завантажувач цього вимагає.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -14731,7 +14733,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Latency</source>
-        <translation type="vanished">Затримка</translation>
+        <translation>Затримка</translation>
     </message>
 </context>
 <context>
@@ -14860,15 +14862,15 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation type="vanished">Пакети шейдерів</translation>
+        <translation>Пакети шейдерів</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Завантажити шейдери</translation>
+        <translation>Завантажити шейдери</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Завантажити шейдери з онлайн-платформ</translation>
+        <translation>Завантажити шейдери з онлайн-платформ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -15433,7 +15435,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="vanished">Не вдалося відкрити вибраний zip-файл збірки.</translation>
+        <translation>Не вдалося відкрити вибраний zip-файл збірки.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -15604,11 +15606,13 @@ inheritsFrom відсутній</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Чи увімкнений пакет текстур?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Назва пакета текстур.</translation>
     </message>
     <message>
@@ -15618,6 +15622,7 @@ inheritsFrom відсутній</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Дата й час останньої зміни (або додавання) цього пакета текстур.</translation>
     </message>
     <message>
@@ -15701,11 +15706,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Завантажити пакети</translation>
+        <translation>Завантажити пакети</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Завантажити пакети текстур з онлайн-платформ</translation>
+        <translation>Завантажити пакети текстур з онлайн-платформ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -15827,7 +15832,7 @@ Are you sure?</source>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation type="vanished">&amp;Іконки</translation>
+        <translation>&amp;Іконки</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -15835,54 +15840,54 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="vanished">Переглянути теку тем іконок.</translation>
+        <translation>Переглянути теку тем іконок.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation type="vanished">&amp;Віджети</translation>
+        <translation>&amp;Віджети</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="vanished">Переглянути теку тем віджетів.</translation>
+        <translation>Переглянути теку тем віджетів.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="vanished">Котик з&apos;являється на тлі, але зазвичай він невидимий. Він стає видимим лише при натисканні кнопки «Кіт» на панелі інструментів.</translation>
+        <translation>Котик з&apos;являється на тлі, але зазвичай він невидимий. Він стає видимим лише при натисканні кнопки «Кіт» на панелі інструментів.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation type="vanished">К&amp;іт</translation>
+        <translation>К&amp;іт</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="vanished">Переглянути теку з наборами кітиків.</translation>
+        <translation>Переглянути теку з наборами кітиків.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation type="vanished">Оновити все</translation>
+        <translation>Оновити все</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="vanished">WizardPage</translation>
+        <translation>WizardPage</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation type="vanished">Оберіть тему, яку ви бажаєте використовувати</translation>
+        <translation>Оберіть тему, яку ви бажаєте використовувати</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="vanished">Підказка: Котик з&apos;являється на тлі, але зазвичай він невидимий. Він стає видимим лише при натискані кнопки «Кіт» на панелі інструментів.</translation>
+        <translation>Підказка: Котик з&apos;являється на тлі, але зазвичай він невидимий. Він стає видимим лише при натискані кнопки «Кіт» на панелі інструментів.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation type="vanished"> Попередній перегляд:</translation>
+        <translation> Попередній перегляд:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="vanished">Кіт зʼявляється на тлі та не має жодних функцій, це суто для милування тваринкою.</translation>
+        <translation>Кіт зʼявляється на тлі та не має жодних функцій, це суто для милування тваринкою.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -16165,7 +16170,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Фільтр:</translation>
+        <translation>Фільтр:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -17001,11 +17006,11 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation type="vanished">Пакети даних</translation>
+        <translation>Пакети даних</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation type="vanished">Керування пакетами даних у світі.</translation>
+        <translation>Керування пакетами даних у світі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -17033,7 +17038,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation type="vanished">Відкрити теку з наборами даних світу</translation>
+        <translation>Відкрити теку з наборами даних світу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

@@ -91,7 +91,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation type="vanished">API 키</translation>
+        <translation>API 키</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -100,16 +100,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="vanished">(기본값)</translation>
+        <translation>(기본값)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="vanished">여기에 Microsoft 인증을 위한 사용자 지정 클라이언트 ID를 입력하십시오.</translation>
+        <translation>여기에 Microsoft 인증을 위한 사용자 지정 클라이언트 ID를 입력하십시오.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation type="vanished">Modrinth API(&amp;M)</translation>
+        <translation>Modrinth API(&amp;M)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -118,15 +118,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="vanished">여기에 Modrinth의 사용자 지정 API 토큰을 입력하십시오.</translation>
+        <translation>여기에 Modrinth의 사용자 지정 API 토큰을 입력하십시오.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="vanished">(없음)</translation>
+        <translation>(없음)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="vanished">Technic 클라이언트 ID</translation>
+        <translation>Technic 클라이언트 ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -135,11 +135,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="vanished">여기에 사용자 지정 GUID 클라이언트 ID를 입력하십시오.</translation>
+        <translation>여기에 사용자 지정 GUID 클라이언트 ID를 입력하십시오.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">기타</translation>
+        <translation>기타</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -168,7 +168,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="vanished">여기에 사용자 지정 메타 URL을 입력하십시오.</translation>
+        <translation>여기에 사용자 지정 메타 URL을 입력하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation type="vanished">CurseForge Core API(&amp;C)</translation>
+        <translation>CurseForge Core API(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -187,11 +187,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="vanished">여기에 사용자 지정 CurseForge API 키를 입력하십시오.</translation>
+        <translation>여기에 사용자 지정 CurseForge API 키를 입력하십시오.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation type="vanished">API</translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -260,7 +260,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation type="vanished">팩 설정 %1을(를) 열지 못하였습니다!</translation>
+        <translation>팩 설정 %1을(를) 열지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -429,12 +429,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="vanished">체크 해제</translation>
+        <translation>체크 해제</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="vanished">오프라인</translation>
+        <translation>오프라인</translation>
     </message>
     <message>
         <source>Online</source>
@@ -462,37 +462,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="vanished">준비</translation>
+        <translation>준비</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="vanished">작동됨</translation>
+        <translation>작동됨</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="vanished">오류</translation>
+        <translation>오류</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="vanished">만료됨</translation>
+        <translation>만료됨</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="vanished">비활성화</translation>
+        <translation>비활성화</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="vanished">사라짐</translation>
+        <translation>사라짐</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="vanished">기타</translation>
+        <translation>기타</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1149,7 +1149,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="vanished">Mojang에서 애셋 파일을 가져오는 중...</translation>
+        <translation>Mojang에서 애셋 파일을 가져오는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1545,11 +1545,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;구성한 전역 모드 폴더와 기본 다운로드 폴더에서 다운로드한 모드가 자동으로 확인되며, 발견되면 인스턴스에 복사됩니다.&lt;/p&gt;&lt;p&gt;선택적으로, 다운로드한 모드를 이 대화 상자에 끌어다 놓거나 기본 위치에 다운로드하지 않은 경우 확인할 폴더를 추가할 수 있습니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;구성한 전역 모드 폴더와 기본 다운로드 폴더에서 다운로드한 모드가 자동으로 확인되며, 발견되면 인스턴스에 복사됩니다.&lt;/p&gt;&lt;p&gt;선택적으로, 다운로드한 모드를 이 대화 상자에 끌어다 놓거나 기본 위치에 다운로드하지 않은 경우 확인할 폴더를 추가할 수 있습니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation type="vanished">확인할 폴더:</translation>
+        <translation>확인할 폴더:</translation>
     </message>
 </context>
 <context>
@@ -1693,7 +1693,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation type="vanished">하나 이상의 하위 작업 실패</translation>
+        <translation>하나 이상의 하위 작업 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1936,7 +1936,7 @@ Some versions of Minecraft may not launch.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation type="vanished">핵심 모드</translation>
+        <translation>핵심 모드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2076,22 +2076,22 @@ Some versions of Minecraft may not launch.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="vanished">사용자 지정 명령어(&amp;C)</translation>
+        <translation>사용자 지정 명령어(&amp;C)</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="vanished">종료 후 명령어(&amp;O):</translation>
+        <translation>종료 후 명령어(&amp;O):</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="vanished">실행 전 명령어(&amp;P):</translation>
+        <translation>실행 전 명령어(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="vanished">래퍼 명령어(&amp;W):</translation>
+        <translation>래퍼 명령어(&amp;W):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2124,7 +2124,7 @@ Some versions of Minecraft may not launch.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation type="vanished">사용자 지정 명령어</translation>
+        <translation>사용자 지정 명령어</translation>
     </message>
 </context>
 <context>
@@ -2492,7 +2492,7 @@ Are you sure?</source>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">모드에 메타데이터가 있는지 확인 중...</translation>
+        <translation>모드에 메타데이터가 있는지 확인 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2544,7 +2544,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation type="vanished">환경 변수(&amp;E)</translation>
+        <translation>환경 변수(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2581,7 +2581,7 @@ Are you sure?</source>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation type="vanished">환경 변수</translation>
+        <translation>환경 변수</translation>
     </message>
 </context>
 <context>
@@ -2724,11 +2724,11 @@ Are you sure?</source>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="vanished">이름(&amp;N)</translation>
+        <translation>이름(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation type="vanished">버전(&amp;V)</translation>
+        <translation>버전(&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2780,7 +2780,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation type="vanished">제작자(&amp;A)</translation>
+        <translation>제작자(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2965,7 +2965,7 @@ Are you sure?</source>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">필터:</translation>
+        <translation>필터:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2974,11 +2974,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">추가(&amp;A)</translation>
+        <translation>추가(&amp;A)</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">추가</translation>
+        <translation>추가</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2987,7 +2987,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">선택된 항목 제거</translation>
+        <translation>선택된 항목 제거</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2996,7 +2996,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">선택된 항목 활성화</translation>
+        <translation>선택된 항목 활성화</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3111,7 +3111,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">새 리소스 다운로드</translation>
+        <translation>새 리소스 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3121,27 +3121,27 @@ Are you sure?</source>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">선택한 모든 리소스(선택한 항목이 없는 경우 모든 리소스)의 업데이트를 확인하거나 설치</translation>
+        <translation>선택한 모든 리소스(선택한 항목이 없는 경우 모든 리소스)의 업데이트를 확인하거나 설치</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">모드 목록 내보내기</translation>
+        <translation>모드 목록 내보내기</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">모드 메타 데이터 텍스트로 내보내기</translation>
+        <translation>모드 메타 데이터 텍스트로 내보내기</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">모드 페이지 방문하기</translation>
+        <translation>모드 페이지 방문하기</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="vanished">선택한 항목 비활성화</translation>
+        <translation>선택한 항목 비활성화</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">모드 홈페이지로 이동</translation>
+        <translation>모드 홈페이지로 이동</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -3203,12 +3203,12 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation type="vanished">비활성화 확인</translation>
+        <translation>비활성화 확인</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="vanished">게임을 실행하는 중에 이 리소스를 비활성화하면 게임이 충돌할 수 있습니다.
+        <translation>게임을 실행하는 중에 이 리소스를 비활성화하면 게임이 충돌할 수 있습니다.
 정말로 비활성화하시겠습니까?</translation>
     </message>
     <message>
@@ -3281,16 +3281,16 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="vanished">외부 편집기(시스템 기본 편집기 사용 시 비워 두기)</translation>
+        <translation>외부 편집기(시스템 기본 편집기 사용 시 비워 두기)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="vanished">텍스트 편집기(&amp;T):</translation>
+        <translation>텍스트 편집기(&amp;T):</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation type="vanished">외부 도구</translation>
+        <translation>외부 도구</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3352,17 +3352,17 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation type="vanished">JVisualVM 실행 파일</translation>
+        <translation>JVisualVM 실행 파일</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="vanished">JVisualVM 설치 확인 중 오류 발생:
+        <translation>JVisualVM 설치 확인 중 오류 발생:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="vanished">JVisualVM 설치가 정상으로 보임</translation>
+        <translation>JVisualVM 설치가 정상으로 보임</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3389,7 +3389,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation type="vanished">JSON 편집기</translation>
+        <translation>JSON 편집기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3562,7 +3562,7 @@ Please try again.</source>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="vanished">CurseForge에서 &apos;%1&apos;에 대한 API 응답을 가져오는 중...</translation>
+        <translation>CurseForge에서 &apos;%1&apos;에 대한 API 응답을 가져오는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3601,16 +3601,16 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="vanished">CurseForge 모드를 준비하는 중...</translation>
+        <translation>CurseForge 모드를 준비하는 중...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">이 모드에 대한 유효한 버전을 찾을 수 없습니다. 현재 게임 버전 또는 모드 로더에서 사용할 수 없는 것일 수 있습니다.</translation>
+        <translation>이 모드에 대한 유효한 버전을 찾을 수 없습니다. 현재 게임 버전 또는 모드 로더에서 사용할 수 없는 것일 수 있습니다.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Mod에 새로운 업데이트가 있지만 CurseForge를 사용하여 다운로드할 수 없습니다.</translation>
+        <translation>Mod에 새로운 업데이트가 있지만 CurseForge를 사용하여 다운로드할 수 없습니다.</translation>
     </message>
 </context>
 <context>
@@ -4047,11 +4047,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation type="vanished">키</translation>
+        <translation>키</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="vanished">값</translation>
+        <translation>값</translation>
     </message>
 </context>
 <context>
@@ -4445,11 +4445,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation type="vanished">이름(&amp;N):</translation>
+        <translation>이름(&amp;N):</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation type="vanished">그룹(&amp;G):</translation>
+        <translation>그룹(&amp;G):</translation>
     </message>
 </context>
 <context>
@@ -4673,19 +4673,19 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation type="vanished">전역 설정 열기</translation>
+        <translation>전역 설정 열기</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="vanished">이곳의 설정은 전역 설정을 덮어씁니다.</translation>
+        <translation>이곳의 설정은 전역 설정을 덮어씁니다.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation type="vanished">Java 설치본(&amp;L)</translation>
+        <translation>Java 설치본(&amp;L)</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation type="vanished">자동 감지...</translation>
+        <translation>자동 감지...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4693,72 +4693,72 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Test</source>
-        <translation type="vanished">테스트</translation>
+        <translation>테스트</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">이 옵션을 선택하면 런처는 인스턴스가 선택한 Java 버전과 호환되는지 확인하지 않습니다.</translation>
+        <translation>이 옵션을 선택하면 런처는 인스턴스가 선택한 Java 버전과 호환되는지 확인하지 않습니다.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="vanished">Java 호환성 검사 무시</translation>
+        <translation>Java 호환성 검사 무시</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="vanished">메모리(&amp;Y)</translation>
+        <translation>메모리(&amp;Y)</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">최소 메모리 할당량:</translation>
+        <translation>최소 메모리 할당량:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">마인크래프트에 할당된 사용 가능한 최대 메모리입니다.</translation>
+        <translation>마인크래프트에 할당된 사용 가능한 최대 메모리입니다.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">마인크래프트는 이 용량의 메모리를 할당받고 실행됩니다.</translation>
+        <translation>마인크래프트는 이 용량의 메모리를 할당받고 실행됩니다.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">불러온 Java 클래스를 저장하는 데 사용할 수 있는 메모리입니다.</translation>
+        <translation>불러온 Java 클래스를 저장하는 데 사용할 수 있는 메모리입니다.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">최대 메모리 할당량:</translation>
+        <translation>최대 메모리 할당량:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">찾아보기</translation>
+        <translation>찾아보기</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">Java 다운로드</translation>
+        <translation>Java 다운로드</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation type="vanished">PermGen:</translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="vanished">참고: Permgen은 Java 8 이상에서 자동으로 설정됩니다</translation>
+        <translation>참고: Permgen은 Java 8 이상에서 자동으로 설정됩니다</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation type="vanished">Java 명령줄 인자(&amp;T)</translation>
+        <translation>Java 명령줄 인자(&amp;T)</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation type="vanished">게임 창</translation>
+        <translation>게임 창</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation type="vanished">게임 창</translation>
+        <translation>게임 창</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="vanished">마인크래프트를 최대화된 상태로 시작하기</translation>
+        <translation>마인크래프트를 최대화된 상태로 시작하기</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4770,70 +4770,70 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Window height:</source>
-        <translation type="vanished">창 높이:</translation>
+        <translation>창 높이:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation type="vanished">창 너비:</translation>
+        <translation>창 너비:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation type="vanished">콘솔 설정(&amp;L)</translation>
+        <translation>콘솔 설정(&amp;L)</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="vanished">게임이 실행 중일 때도 콘솔 표시</translation>
+        <translation>게임이 실행 중일 때도 콘솔 표시</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">게임 종료 시 콘솔을 자동으로 닫기</translation>
+        <translation>게임 종료 시 콘솔을 자동으로 닫기</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="vanished">게임이 충돌했을 때 콘솔 표시</translation>
+        <translation>게임이 충돌했을 때 콘솔 표시</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="vanished">게임 창이 열리면 런처 닫기</translation>
+        <translation>게임 창이 열리면 런처 닫기</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="vanished">게임 창이 닫히면 런처 종료</translation>
+        <translation>게임 창이 닫히면 런처 종료</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation type="vanished">사용자 정의 명령어</translation>
+        <translation>사용자 정의 명령어</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="vanished">환경 변수</translation>
+        <translation>환경 변수</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation type="vanished">문제 해결</translation>
+        <translation>문제 해결</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation type="vanished">네이티브 라이브러리</translation>
+        <translation>네이티브 라이브러리</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="vanished">GLFW 라이브러리 경로(&amp;G)</translation>
+        <translation>GLFW 라이브러리 경로(&amp;G)</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="vanished">시스템에 설치되어 있는 GLFW 사용하기</translation>
+        <translation>시스템에 설치되어 있는 GLFW 사용하기</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="vanished">싱글플레이 세계</translation>
+        <translation>싱글플레이 세계</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="vanished">시스템에 설치되어 있는 OpenAL 사용하기</translation>
+        <translation>시스템에 설치되어 있는 OpenAL 사용하기</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -4849,89 +4849,89 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="vanished">기본 계정 덮어쓰기</translation>
+        <translation>기본 계정 덮어쓰기</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">계정:</translation>
+        <translation>계정:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">기타</translation>
+        <translation>기타</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="vanished">OpenAL 라이브러리 경로(&amp;O)</translation>
+        <translation>OpenAL 라이브러리 경로(&amp;O)</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">성능</translation>
+        <translation>성능</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Feral Interactive의 GameMode를 활성화하여 게임 성능을 잠재적으로 향상시킵니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Feral Interactive의 GameMode를 활성화하여 게임 성능을 잠재적으로 향상시킵니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">Feral GameMode 활성화</translation>
+        <translation>Feral GameMode 활성화</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHud의 고급 성능 오버레이 사용.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHud의 고급 성능 오버레이 사용.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">MangoHud 활성화</translation>
+        <translation>MangoHud 활성화</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;기본 GPU 대신 개별 GPU 사용.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;기본 GPU 대신 개별 GPU 사용.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">개별 GPU 사용</translation>
+        <translation>개별 GPU 사용</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="vanished">Valkan 위에서 OpenGL을 구현하는 Mesa 드라이버인 Zink를 사용합니다. 상황에 따라 성능은 다를 수 있습니다. 참고: 적절한 Vulkan 드라이버를 찾을 수 없을 경우, 소프트웨어 렌더링이 사용될 것입니다.</translation>
+        <translation>Valkan 위에서 OpenGL을 구현하는 Mesa 드라이버인 Zink를 사용합니다. 상황에 따라 성능은 다를 수 있습니다. 참고: 적절한 Vulkan 드라이버를 찾을 수 없을 경우, 소프트웨어 렌더링이 사용될 것입니다.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="vanished">Zink 사용</translation>
+        <translation>Zink 사용</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="vanished">레거시 설정</translation>
+        <translation>레거시 설정</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;더 이상 작동하지 않는 이전 온라인 서비스의 작동을 에뮬레이트합니다.&lt;/p&gt;&lt;p&gt;현재 스킨과 온라인 모드 지원이 포함됩니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;더 이상 작동하지 않는 이전 온라인 서비스의 작동을 에뮬레이트합니다.&lt;/p&gt;&lt;p&gt;현재 스킨과 온라인 모드 지원이 포함됩니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="vanished">온라인 수정 활성화(실험적)</translation>
+        <translation>온라인 수정 활성화(실험적)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation type="vanished">전역 게임 시간 설정 덮어쓰기</translation>
+        <translation>전역 게임 시간 설정 덮어쓰기</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="vanished">인스턴스에서 플레이한 시간 표시</translation>
+        <translation>인스턴스에서 플레이한 시간 표시</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation type="vanished">인스턴스에서 플레이한 시간 기록</translation>
+        <translation>인스턴스에서 플레이한 시간 기록</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="vanished">실행 후 바로 접속할 서버 설정</translation>
+        <translation>실행 후 바로 접속할 서버 설정</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="vanished">서버 주소:</translation>
+        <translation>서버 주소:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4940,39 +4940,39 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="vanished">%1 라이브러리 파일의 경로</translation>
+        <translation>%1 라이브러리 파일의 경로</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">시스템에서 Feral Interactive&apos;s GameMode를 찾을 수 없습니다.</translation>
+        <translation>시스템에서 Feral Interactive&apos;s GameMode를 찾을 수 없습니다.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">시스템에서 MangoHud를 찾을 수 없습니다.</translation>
+        <translation>시스템에서 MangoHud를 찾을 수 없습니다.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Java 버전 선택</translation>
+        <translation>Java 버전 선택</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">선택 내용 확인</translation>
+        <translation>선택 내용 확인</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">32비트 버전의 Java를 선택하였습니다.
+        <translation>32비트 버전의 Java를 선택하였습니다.
 이 설치는 2048 MiB 이상의 RAM을 지원하지 않습니다.
 최대 메모리 값이 더 낮은지 확인하십시오.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Java 실행 파일 찾기</translation>
+        <translation>Java 실행 파일 찾기</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">최대 메모리 할당량이 최소 할당량보다 작음</translation>
+        <translation>최대 메모리 할당량이 최소 할당량보다 작음</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4980,11 +4980,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">최대 메모리 할당량이 시스템 메모리 용량을 초과합니다.</translation>
+        <translation>최대 메모리 할당량이 시스템 메모리 용량을 초과합니다.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">최대 메모리 할당량이 시스템 메모리 용량에 근접합니다.</translation>
+        <translation>최대 메모리 할당량이 시스템 메모리 용량에 근접합니다.</translation>
     </message>
 </context>
 <context>
@@ -5089,7 +5089,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation type="vanished">JVisualVM 시작됨</translation>
+        <translation>JVisualVM 시작됨</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -5116,15 +5116,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="vanished">Java를 추출하는 중(TAR 압축 파일은 진행률이 표시되지 않음)</translation>
+        <translation>Java를 추출하는 중(TAR 압축 파일은 진행률이 표시되지 않음)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation type="vanished">TAR 파일을 열 수 없습니다.</translation>
+        <translation>TAR 파일을 열 수 없습니다.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="vanished">TAR 파일을 추출할 수 없습니다.</translation>
+        <translation>TAR 파일을 추출할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5138,7 +5138,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation type="vanished">압축 파일 유형을 확인할 수 없습니다!</translation>
+        <translation>압축 파일 유형을 확인할 수 없습니다!</translation>
     </message>
 </context>
 <context>
@@ -5244,70 +5244,70 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation type="vanished">메모리</translation>
+        <translation>메모리</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">마인크래프트에 할당된 사용 가능한 최대 메모리입니다.</translation>
+        <translation>마인크래프트에 할당된 사용 가능한 최대 메모리입니다.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="vanished">최소 메모리 할당량(&amp;M):</translation>
+        <translation>최소 메모리 할당량(&amp;M):</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="vanished">최대 메모리 할당량(&amp;X):</translation>
+        <translation>최대 메모리 할당량(&amp;X):</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation type="vanished">PermGen(&amp;P):</translation>
+        <translation>PermGen(&amp;P):</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">마인크래프트는 이 용량의 메모리를 할당받고 실행됩니다.</translation>
+        <translation>마인크래프트는 이 용량의 메모리를 할당받고 실행됩니다.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">불러온 Java 클래스를 저장하는 데 사용할 수 있는 메모리입니다.</translation>
+        <translation>불러온 Java 클래스를 저장하는 데 사용할 수 있는 메모리입니다.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation type="vanished">Java 런타임</translation>
+        <translation>Java 런타임</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation type="vanished">JVM 인수:</translation>
+        <translation>JVM 인수:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="vanished">필요한 주요 버전에 따라 현재 마인크래프트 인스턴스와 호환되는 Java 버전을 자동으로 선택합니다.</translation>
+        <translation>필요한 주요 버전에 따라 현재 마인크래프트 인스턴스와 호환되는 Java 버전을 자동으로 선택합니다.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">Java 버전 자동 감지</translation>
+        <translation>Java 버전 자동 감지</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="vanished">Java 경로(&amp;J):</translation>
+        <translation>Java 경로(&amp;J):</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="vanished">Mojang에서 권장하는 Java 버전을 자동으로 다운로드하고 선택합니다.</translation>
+        <translation>Mojang에서 권장하는 Java 버전을 자동으로 다운로드하고 선택합니다.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">Mojang Java 자동 다운로드</translation>
+        <translation>Mojang Java 자동 다운로드</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation type="vanished">관리 도구</translation>
+        <translation>관리 도구</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation type="vanished">다운로드한 Java 버전</translation>
+        <translation>다운로드한 Java 버전</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5337,33 +5337,33 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="vanished">자동 감지(&amp;A)...</translation>
+        <translation>자동 감지(&amp;A)...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="vanished">테스트(&amp;T)</translation>
+        <translation>테스트(&amp;T)</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">찾아보기</translation>
+        <translation>찾아보기</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="vanished">이 옵션을 선택하면 런처가 Java 버전을 찾을 수 없는 경우 Java 버전을 선택하라는 대화 상자를 표시하지 않습니다.</translation>
+        <translation>이 옵션을 선택하면 런처가 Java 버전을 찾을 수 없는 경우 Java 버전을 선택하라는 대화 상자를 표시하지 않습니다.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="vanished">Java 설치 마법사 건너뛰기(&amp;W)</translation>
+        <translation>Java 설치 마법사 건너뛰기(&amp;W)</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">이 옵션을 선택하면 런처는 인스턴스가 선택한 Java 버전과 호환되는지 확인하지 않습니다.</translation>
+        <translation>이 옵션을 선택하면 런처는 인스턴스가 선택한 Java 버전과 호환되는지 확인하지 않습니다.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="vanished">Java 호환성 검사 무시(&amp;S)</translation>
+        <translation>Java 호환성 검사 무시(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5384,35 +5384,35 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Java 버전 선택</translation>
+        <translation>Java 버전 선택</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">선택 내용 확인</translation>
+        <translation>선택 내용 확인</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">32비트 버전의 Java를 선택하였습니다.
+        <translation>32비트 버전의 Java를 선택하였습니다.
 이 설치는 2048 MiB 이상의 RAM을 지원하지 않습니다.
 최대 메모리 값이 더 낮은지 확인하십시오.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Java 실행 파일 찾기</translation>
+        <translation>Java 실행 파일 찾기</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">최대 메모리 할당량이 시스템 메모리 용량을 초과합니다.</translation>
+        <translation>최대 메모리 할당량이 시스템 메모리 용량을 초과합니다.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">최대 메모리 할당량이 시스템 메모리 용량에 근접합니다.</translation>
+        <translation>최대 메모리 할당량이 시스템 메모리 용량에 근접합니다.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">최대 메모리 할당량이 최솟값보다 작음</translation>
+        <translation>최대 메모리 할당량이 최솟값보다 작음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5431,7 +5431,7 @@ Are you sure?</source>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation type="vanished">Java 버전이 선택되지 않음</translation>
+        <translation>Java 버전이 선택되지 않음</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5449,7 +5449,7 @@ Java 버전은 이후 설정에서 수정할 수 있습니다.
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">Java 다운로드</translation>
+        <translation>Java 다운로드</translation>
     </message>
     <message>
         <source>Automatic Java Download</source>
@@ -5465,7 +5465,7 @@ Java 자동 다운로드를 사용하시겠습니까?
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="vanished">32비트 Java 감지됨</translation>
+        <translation>32비트 Java 감지됨</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5474,7 +5474,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">32비트 Java 설치를 선택하였지만 최대 메모리로 2048 MiB 이상을 할당하였습니다.
+        <translation>32비트 Java 설치를 선택하였지만 최대 메모리로 2048 MiB 이상을 할당하였습니다.
 %1에서 마인크래프트를 시작할 수 없습니다.
 계속하시겠습니까?
 
@@ -5488,7 +5488,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">Java 버전을 선택하지 않았거나 작동하지 않는 버전을 선택하였습니다.
+        <translation>Java 버전을 선택하지 않았거나 작동하지 않는 버전을 선택하였습니다.
 %1에서 마인크래프트를 시작할 수 없습니다.
 작동하는 Java 버전 없이 계속 진행하시겠습니까?
 
@@ -5502,7 +5502,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="vanished">메모리</translation>
+        <translation>메모리</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5511,7 +5511,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">최소 메모리 할당량:</translation>
+        <translation>최소 메모리 할당량:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5617,7 +5617,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">최대 메모리 할당량:</translation>
+        <translation>최대 메모리 할당량:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5656,19 +5656,19 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">찾아보기</translation>
+        <translation>찾아보기</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">Mojang Java 자동 다운로드</translation>
+        <translation>Mojang Java 자동 다운로드</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">Java 버전 자동 감지</translation>
+        <translation>Java 버전 자동 감지</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="vanished">Java 자동 감지</translation>
+        <translation>Java 자동 감지</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5706,15 +5706,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">최대 메모리 할당량이 시스템 메모리 용량에 근접합니다.</translation>
+        <translation>최대 메모리 할당량이 시스템 메모리 용량에 근접합니다.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">최대 메모리 할당량이 최솟값보다 작음</translation>
+        <translation>최대 메모리 할당량이 최솟값보다 작음</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="vanished">32비트 Java 설치에서 지원되는 최대 할당량을 초과하고 있습니다.</translation>
+        <translation>32비트 Java 설치에서 지원되는 최대 할당량을 초과하고 있습니다.</translation>
     </message>
 </context>
 <context>
@@ -6011,11 +6011,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation type="vanished">오프라인으로 실행</translation>
+        <translation>오프라인으로 실행</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">계정이 만료되었으므로 수동으로 다시 로그인해야 합니다.</translation>
+        <translation>계정이 만료되었으므로 수동으로 다시 로그인해야 합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -6024,7 +6024,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="vanished">런처의 클라이언트 ID가 변경되었습니다. 이 계정을 제거하고 다시 추가하십시오.</translation>
+        <translation>런처의 클라이언트 ID가 변경되었습니다. 이 계정을 제거하고 다시 추가하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6033,7 +6033,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="vanished">계정이 서버에 더 이상 존재하지 않습니다. 마이그레이션되었을 수 있으므로 마이그레이션된 새 계정을 추가하십시오.</translation>
+        <translation>계정이 서버에 더 이상 존재하지 않습니다. 마이그레이션되었을 수 있으므로 마이그레이션된 새 계정을 추가하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6178,11 +6178,11 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation type="vanished">기능</translation>
+        <translation>기능</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation type="vanished">업데이트 설정</translation>
+        <translation>업데이트 설정</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6332,7 +6332,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation type="vanished">인스턴스 보기 정렬 모드</translation>
+        <translation>인스턴스 보기 정렬 모드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6347,7 +6347,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Theme</source>
-        <translation type="vanished">테마</translation>
+        <translation>테마</translation>
     </message>
     <message>
         <source>&amp;Icons</source>
@@ -6371,17 +6371,17 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Mods</source>
-        <translation type="vanished">모드</translation>
+        <translation>모드</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="vanished">모드 공급자(예: Modrinth 또는 Curseforge)가 제공하는 메타데이터 사용을 비활성화합니다.</translation>
+        <translation>모드 공급자(예: Modrinth 또는 Curseforge)가 제공하는 메타데이터 사용을 비활성화합니다.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="vanished">모드 메타데이터 사용 안 함</translation>
+        <translation>모드 메타데이터 사용 안 함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6430,12 +6430,12 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation type="vanished">다운로드 폴더를 재귀적으로 확인</translation>
+        <translation>다운로드 폴더를 재귀적으로 확인</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="vanished">모드 종속성의 자동 감지, 설치, 업데이트를 비활성화합니다.</translation>
+        <translation>모드 종속성의 자동 감지, 설치, 업데이트를 비활성화합니다.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -6443,15 +6443,15 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Update interval</source>
-        <translation type="vanished">업데이트 간격</translation>
+        <translation>업데이트 간격</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="vanished">실행 시에만 확인하려면 0으로 설정하십시오</translation>
+        <translation>실행 시에만 확인하려면 0으로 설정하십시오</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="vanished">시간</translation>
+        <translation>시간</translation>
     </message>
     <message>
         <source>Rename instance folders</source>
@@ -6476,27 +6476,27 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation type="vanished">자동 모드 종속성 관리 비활성화</translation>
+        <translation>자동 모드 종속성 관리 비활성화</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="vanished">새 모드 팩 인스턴스를 생성할 때, 기존 인스턴스를 업데이트하지 마십시오.</translation>
+        <translation>새 모드 팩 인스턴스를 생성할 때, 기존 인스턴스를 업데이트하지 마십시오.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation type="vanished">모드 팩 업데이트 프롬프트 건너뛰기</translation>
+        <translation>모드 팩 업데이트 프롬프트 건너뛰기</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">기타</translation>
+        <translation>기타</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation type="vanished">동시 작업 수</translation>
+        <translation>동시 작업 수</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation type="vanished">동시 다운로드 수</translation>
+        <translation>동시 다운로드 수</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6505,7 +6505,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation type="vanished">HTTP 요청 제한 시간</translation>
+        <translation>HTTP 요청 제한 시간</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6514,7 +6514,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation type="vanished">수동 재시도 횟수</translation>
+        <translation>수동 재시도 횟수</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6532,23 +6532,23 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Cat</source>
-        <translation type="vanished">고양이</translation>
+        <translation>고양이</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="vanished">고양이의 불투명도를 설정합니다. 0%는 완전히 투명하고 100%는 완전히 불투명합니다.</translation>
+        <translation>고양이의 불투명도를 설정합니다. 0%는 완전히 투명하고 100%는 완전히 불투명합니다.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="vanished">불투명도</translation>
+        <translation>불투명도</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="vanished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="vanished">도구</translation>
+        <translation>도구</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6613,27 +6613,27 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Console Settings</source>
-        <translation type="vanished">콘솔 설정</translation>
+        <translation>콘솔 설정</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="vanished">게임이 실행 중일 때 콘솔 표시(&amp;R)</translation>
+        <translation>게임이 실행 중일 때 콘솔 표시(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">게임 종료 시 콘솔 자동으로 닫기(&amp;A)</translation>
+        <translation>게임 종료 시 콘솔 자동으로 닫기(&amp;A)</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="vanished">게임이 충돌했을 때 콘솔 표시(&amp;C)</translation>
+        <translation>게임이 충돌했을 때 콘솔 표시(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="vanished">히스토리 길이 제한(&amp;H)</translation>
+        <translation>히스토리 길이 제한(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6649,7 +6649,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="vanished">콘솔 창 글꼴(&amp;F)</translation>
+        <translation>콘솔 창 글꼴(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6713,23 +6713,23 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="vanished">[Test/ERROR] 우우우! 으스스한 오류입니다!</translation>
+        <translation>[Test/ERROR] 우우우! 으스스한 오류입니다!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="vanished">[Test/ERROR] 으스스한 오류입니다!</translation>
+        <translation>[Test/ERROR] 으스스한 오류입니다!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="vanished">[Test/WARN] 그다지 으스스하지는 않은 경고입니다.</translation>
+        <translation>[Test/WARN] 그다지 으스스하지는 않은 경고입니다.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="vanished">[Test/DEBUG] 비밀 디버깅 메시지입니다...</translation>
+        <translation>[Test/DEBUG] 비밀 디버깅 메시지입니다...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="vanished">[Test/FATAL] 끔찍하기 짝이 없는 치명적인 오류입니다!</translation>
+        <translation>[Test/FATAL] 끔찍하기 짝이 없는 치명적인 오류입니다!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6737,7 +6737,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="vanished">[Test/INFO] 무해한 메시지입니다...</translation>
+        <translation>[Test/INFO] 무해한 메시지입니다...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6753,7 +6753,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     </message>
     <message>
         <source>Launcher</source>
-        <translation type="vanished">런처</translation>
+        <translation>런처</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6861,7 +6861,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation type="vanished">모드 팩 파일 %1을(를) 열지 못하였습니다!</translation>
+        <translation>모드 팩 파일 %1을(를) 열지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -7085,12 +7085,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">모드 인덱스 업데이트:
+        <translation>모드 인덱스 업데이트:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">잘못된 메타데이터</translation>
+        <translation>잘못된 메타데이터</translation>
     </message>
 </context>
 <context>
@@ -7162,7 +7162,7 @@ Reason:
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">검색:</translation>
+        <translation>검색:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7274,7 +7274,7 @@ Reason:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation type="vanished">생성할 수 없음:</translation>
+        <translation>생성할 수 없음:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7291,7 +7291,7 @@ Reason:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation type="vanished">ZIP 파일을 열 수 없습니다.</translation>
+        <translation>ZIP 파일을 열 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7310,7 +7310,7 @@ Reason:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation type="vanished">ZIP에서 첫 번째 파일을 찾지 못함</translation>
+        <translation>ZIP에서 첫 번째 파일을 찾지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -7324,7 +7324,7 @@ Reason:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="vanished">%1에 대한 권한 문제를 해결하지 못함</translation>
+        <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
 </context>
 <context>
@@ -7437,11 +7437,11 @@ Reason:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="vanished">%1을(를) 열거나 QR 코드를 스캔하여 위 코드를 입력하십시오.</translation>
+        <translation>%1을(를) 열거나 QR 코드를 스캔하여 위 코드를 입력하십시오.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation type="vanished">%1을(를) 연 다음 위 코드를 입력하십시오.</translation>
+        <translation>%1을(를) 연 다음 위 코드를 입력하십시오.</translation>
     </message>
 </context>
 <context>
@@ -7640,7 +7640,7 @@ Reason:
     </message>
     <message>
         <source>More news...</source>
-        <translation type="vanished">소식 더 보기...</translation>
+        <translation>소식 더 보기...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7684,7 +7684,7 @@ Reason:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="vanished">바탕 화면에 바로 가기를 생성하여 선택한 설치 설정을 시작합니다.</translation>
+        <translation>바탕 화면에 바로 가기를 생성하여 선택한 설치 설정을 시작합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -8460,7 +8460,7 @@ Microsoft 계정을 추가하세요.</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="vanished">여기에 연결된 인스턴스가 있습니다</translation>
+        <translation>여기에 연결된 인스턴스가 있습니다</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8470,7 +8470,7 @@ Microsoft 계정을 추가하세요.</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="vanished">
+        <translation>
             <numerusform>이 경우 다음 인스턴스에서 파일을 참조할 수 있습니다:
 
 %1
@@ -8493,7 +8493,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="vanished">&quot;%1&quot;을 삭제하려고 합니다.
+        <translation>&quot;%1&quot;을 삭제하려고 합니다.
 이는 영구적이며 인스턴스가 완전히 삭제됩니다.
 
 확실합니까?</translation>
@@ -8510,31 +8510,31 @@ Are you sure?</source>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation type="vanished">인스턴스 바로 가기 만들기</translation>
+        <translation>인스턴스 바로 가기 만들기</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="vanished">바탕 화면을 찾을 수 없습니다?!</translation>
+        <translation>바탕 화면을 찾을 수 없습니다?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="vanished">런처가 추출된 폴더에 있으므로, 바로 가기를 만들 수 없습니다.</translation>
+        <translation>런처가 추출된 폴더에 있으므로, 바로 가기를 만들 수 없습니다.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="vanished">바탕 화면 항목</translation>
+        <translation>바탕 화면 항목</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="vanished">바탕 화면의 해당 인스턴스의 바로 가기를 만들었습니다!</translation>
+        <translation>바탕 화면의 해당 인스턴스의 바로 가기를 만들었습니다!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation type="vanished">인스턴스의 바로 가기를 만들지 못하였습니다!</translation>
+        <translation>인스턴스의 바로 가기를 만들지 못하였습니다!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="vanished">런처가 잘못 구성된 AppImage로 실행되고 있습니까? ($APPIMAGE 환경 변수가 없습니다.)</translation>
+        <translation>런처가 잘못 구성된 AppImage로 실행되고 있습니까? ($APPIMAGE 환경 변수가 없습니다.)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8634,15 +8634,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation type="vanished">인스턴스 애플리케이션 생성</translation>
+        <translation>인스턴스 애플리케이션 생성</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation type="vanished">애플리케이션 아이콘을 만들지 못하였습니다.</translation>
+        <translation>애플리케이션 아이콘을 만들지 못하였습니다.</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="vanished">바로 가기 아이콘을 만들지 못하였습니다.</translation>
+        <translation>바로 가기 아이콘을 만들지 못하였습니다.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8650,11 +8650,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="vanished">사용 중인 플랫폼에서 지원되지 않습니다!</translation>
+        <translation>사용 중인 플랫폼에서 지원되지 않습니다!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation type="vanished">이 인스턴스의 바로 가기를 만들었습니다!</translation>
+        <translation>이 인스턴스의 바로 가기를 만들었습니다!</translation>
     </message>
     <message>
         <source>Couldn&apos;t find applications folder?!</source>
@@ -8743,11 +8743,11 @@ Are you sure?</source>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation type="vanished">팩 정보</translation>
+        <translation>팩 정보</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation type="vanished">팩 이름:</translation>
+        <translation>팩 이름:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8786,7 +8786,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Update from file</source>
-        <translation type="vanished">파일에서 업데이트</translation>
+        <translation>파일에서 업데이트</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8849,7 +8849,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Update pack</source>
-        <translation type="vanished">팩 업데이트</translation>
+        <translation>팩 업데이트</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -9047,26 +9047,26 @@ This can be updated only using a file in %1 format
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation type="vanished">창 크기</translation>
+        <translation>창 크기</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="vanished">마인크래프트를 최대화된 상태로 시작(&amp;M)</translation>
+        <translation>마인크래프트를 최대화된 상태로 시작(&amp;M)</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="vanished">창 높이(&amp;H):</translation>
+        <translation>창 높이(&amp;H):</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="vanished">창 너비(&amp;W):</translation>
+        <translation>창 너비(&amp;W):</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation type="vanished">트윅</translation>
+        <translation>트윅</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -9082,82 +9082,82 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="vanished">레거시 설정</translation>
+        <translation>레거시 설정</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;더 이상 작동하지 않는 이전 온라인 서비스의 작동을 에뮬레이트합니다.&lt;/p&gt;&lt;p&gt;현재 스킨과 온라인 모드 지원이 포함됩니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;더 이상 작동하지 않는 이전 온라인 서비스의 작동을 에뮬레이트합니다.&lt;/p&gt;&lt;p&gt;현재 스킨과 온라인 모드 지원이 포함됩니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="vanished">온라인 수정 활성화(실험적)</translation>
+        <translation>온라인 수정 활성화(실험적)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation type="vanished">네이티브 라이브러리 문제 해결</translation>
+        <translation>네이티브 라이브러리 문제 해결</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="vanished">시스템에 설치되어 있는 GLFW 사용하기(&amp;G)</translation>
+        <translation>시스템에 설치되어 있는 GLFW 사용하기(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="vanished">GLFW 라이브러리 경로(&amp;G)</translation>
+        <translation>GLFW 라이브러리 경로(&amp;G)</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="vanished">시스템에 설치되어 있는 OpenAL 사용하기(&amp;O)</translation>
+        <translation>시스템에 설치되어 있는 OpenAL 사용하기(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="vanished">OpenAL 라이브러리 경로(&amp;O)</translation>
+        <translation>OpenAL 라이브러리 경로(&amp;O)</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">성능</translation>
+        <translation>성능</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Feral Interactive의 GameMode를 활성화하여 게임 성능을 잠재적으로 향상시킵니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Feral Interactive의 GameMode를 활성화하여 게임 성능을 잠재적으로 향상시킵니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">Feral GameMode 활성화</translation>
+        <translation>Feral GameMode 활성화</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHud의 고급 성능 오버레이 사용.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHud의 고급 성능 오버레이 사용.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">MangoHud 활성화</translation>
+        <translation>MangoHud 활성화</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;기본 GPU 대신 개별 GPU 사용.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;기본 GPU 대신 개별 GPU 사용.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">개별 GPU 사용</translation>
+        <translation>개별 GPU 사용</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Valkan 위에서 OpenGL을 구현하는 Mesa 드라이버인 Zink를 사용합니다. 상황에 따라 성능은 다를 수 있습니다. 참고: 적절한 Vulkan 드라이버를 찾을 수 없을 경우, 소프트웨어 렌더링이 사용될 것입니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Valkan 위에서 OpenGL을 구현하는 Mesa 드라이버인 Zink를 사용합니다. 상황에 따라 성능은 다를 수 있습니다. 참고: 적절한 Vulkan 드라이버를 찾을 수 없을 경우, 소프트웨어 렌더링이 사용될 것입니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="vanished">Zink 사용</translation>
+        <translation>Zink 사용</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation type="vanished">게임 시간</translation>
+        <translation>게임 시간</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">일반</translation>
+        <translation>일반</translation>
     </message>
     <message>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -9170,45 +9170,45 @@ This can be updated only using a file in %1 format
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="vanished">인스턴스에서 플레이한 시간 표시(&amp;P)</translation>
+        <translation>인스턴스에서 플레이한 시간 표시(&amp;P)</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="vanished">모든 인스턴스에서 플레이한 시간 표시(&amp;A)</translation>
+        <translation>모든 인스턴스에서 플레이한 시간 표시(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="vanished">인스턴스에서 플레이한 시간 기록(&amp;R)</translation>
+        <translation>인스턴스에서 플레이한 시간 기록(&amp;R)</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation type="vanished">플레이 시간을 시간 단위로 표시하기</translation>
+        <translation>플레이 시간을 시간 단위로 표시하기</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">기타</translation>
+        <translation>기타</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;게임을 종료하거나 충돌이 나면 런처를 자동으로 다시 엽니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;게임을 종료하거나 충돌이 나면 런처를 자동으로 다시 엽니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="vanished">게임 창이 열리면 런처 닫기(&amp;C)</translation>
+        <translation>게임 창이 열리면 런처 닫기(&amp;C)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;게임을 종료하거나 충돌이 나면 런처를 자동으로 종료합니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;게임을 종료하거나 충돌이 나면 런처를 자동으로 종료합니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="vanished">게임 창이 닫히면 런처 종료(&amp;Q)</translation>
+        <translation>게임 창이 닫히면 런처 종료(&amp;Q)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -9217,19 +9217,19 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="vanished">%1 라이브러리 파일의 경로</translation>
+        <translation>%1 라이브러리 파일의 경로</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation type="vanished">경로 자동 감지됨: %1</translation>
+        <translation>경로 자동 감지됨: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">시스템에서 Feral Interactive&apos;s GameMode를 찾을 수 없습니다.</translation>
+        <translation>시스템에서 Feral Interactive&apos;s GameMode를 찾을 수 없습니다.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">시스템에서 MangoHud를 찾을 수 없습니다.</translation>
+        <translation>시스템에서 MangoHud를 찾을 수 없습니다.</translation>
     </message>
 </context>
 <context>
@@ -9895,7 +9895,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">기타</translation>
+        <translation>기타</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -9999,7 +9999,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">모드가 다운로드된 곳입니다.</translation>
+        <translation>모드가 다운로드된 곳입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -10083,7 +10083,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">모드 다운로드</translation>
+        <translation>모드 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -10109,11 +10109,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">파일 추가</translation>
+        <translation>파일 추가</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">로컬에서 다운로드한 파일 추가</translation>
+        <translation>로컬에서 다운로드한 파일 추가</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -10128,11 +10128,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">의존성 검증</translation>
+        <translation>의존성 검증</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">모든 선택된 모드의 업데이트를 확인하고 없는 의존성을 검사합니다(선택된 모드가 없으면 모든 모드)</translation>
+        <translation>모든 선택된 모드의 업데이트를 확인하고 없는 의존성을 검사합니다(선택된 모드가 없으면 모든 모드)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
@@ -10142,35 +10142,35 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">모드 홈페이지로 이동</translation>
+        <translation>모드 홈페이지로 이동</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">모드의 메타데이터 제거</translation>
+        <translation>모드의 메타데이터 제거</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="vanished">업데이트 메타데이터 초기화</translation>
+        <translation>업데이트 메타데이터 초기화</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">버전 변경</translation>
+        <translation>버전 변경</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">모드 버전 변경</translation>
+        <translation>모드 버전 변경</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">모드 페이지 방문하기</translation>
+        <translation>모드 페이지 방문하기</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">모드 페이지 방문하기</translation>
+        <translation>모드 페이지 방문하기</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">선택한 모드의 페이지로 이동</translation>
+        <translation>선택한 모드의 페이지로 이동</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -10186,7 +10186,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation type="vanished">먼저 모드 로더를 설치하여야 합니다!</translation>
+        <translation>먼저 모드 로더를 설치하여야 합니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -10430,92 +10430,92 @@ Please update %1!</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">업데이트할 모드 확인</translation>
+        <translation>업데이트할 모드 확인</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">다음 모드를 업데이트하려고 합니다:</translation>
+        <translation>다음 모드를 업데이트하려고 합니다:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">선택한 모드만 업데이트됩니다!</translation>
+        <translation>선택한 모드만 업데이트됩니다!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">모드 이름: %1&lt;br&gt;파일명: %2&lt;br&gt;원인: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>모드 이름: %1&lt;br&gt;파일명: %2&lt;br&gt;원인: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">메타데이터를 생성하지 못함</translation>
+        <translation>메타데이터를 생성하지 못함</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">다음 모드의 메타데이터를 생성할 수 없습니다:&lt;br&gt;계속하시겠습니까?</translation>
+        <translation>다음 모드의 메타데이터를 생성할 수 없습니다:&lt;br&gt;계속하시겠습니까?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">업데이트를 확인하는 중</translation>
+        <translation>업데이트를 확인하는 중</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">오류</translation>
+        <translation>오류</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">경고</translation>
+        <translation>경고</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">중지</translation>
+        <translation>중지</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">업데이트를 확인하는 중...</translation>
+        <translation>업데이트를 확인하는 중...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">모드 이름: %1</translation>
+        <translation>모드 이름: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">원인: %1</translation>
+        <translation>원인: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">가능한 해결법: 최신 버전을 직접 가져오기: &lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>가능한 해결법: 최신 버전을 직접 가져오기: &lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">의존성을 확인하는 중...</translation>
+        <translation>의존성을 확인하는 중...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">모드 &apos;%1&apos;에 메타데이터가 없습니다. 이 모드를 업데이트하는 방법에 대한 관련 정보를 추적하기 위해 메타데이터를 만들어야 합니다. 이 모드의 업데이트 확인을 위해 모드 제공자를 선택하십시오.</translation>
+        <translation>모드 &apos;%1&apos;에 메타데이터가 없습니다. 이 모드를 업데이트하는 방법에 대한 관련 정보를 추적하기 위해 메타데이터를 만들어야 합니다. 이 모드의 업데이트 확인을 위해 모드 제공자를 선택하십시오.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">선택한 모드 제공자에서 유효한 버전을 찾을 수 없음</translation>
+        <translation>선택한 모드 제공자에서 유효한 버전을 찾을 수 없음</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="vanished">이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
+        <translation>이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">업데이트를 확인하지 못함</translation>
+        <translation>업데이트를 확인하지 못함</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">다음 모드의 업데이트를 확인할 수 없습니다:&lt;br&gt;계속하시겠습니까?</translation>
+        <translation>다음 모드의 업데이트를 확인할 수 없습니다:&lt;br&gt;계속하시겠습니까?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">메타데이터를 찾는 중</translation>
+        <translation>메타데이터를 찾는 중</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">메타데이터를 생성하는 중...</translation>
+        <translation>메타데이터를 생성하는 중...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10523,35 +10523,35 @@ Please update %1!</source>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">제공자: %1</translation>
+        <translation>제공자: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">이전 버전: %1</translation>
+        <translation>이전 버전: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">설치되지 않음</translation>
+        <translation>설치되지 않음</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">새 버전: %1</translation>
+        <translation>새 버전: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">새로운 버전 유형: %1</translation>
+        <translation>새로운 버전 유형: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">다음에 의해 요구됨: %1</translation>
+        <translation>다음에 의해 요구됨: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">다음에 의해 요구됨:</translation>
+        <translation>다음에 의해 요구됨:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">최신 버전에 대한 변경사항</translation>
+        <translation>최신 버전에 대한 변경사항</translation>
     </message>
 </context>
 <context>
@@ -10660,7 +10660,7 @@ Please update %1!</source>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Modrinth용 모드 준비 중...</translation>
+        <translation>Modrinth용 모드 준비 중...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10698,7 +10698,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">이 모드에 대한 유효한 버전을 찾을 수 없습니다. 현재 게임 버전 또는 모드 로더에서 사용할 수 없는 것일 수 있습니다.</translation>
+        <translation>이 모드에 대한 유효한 버전을 찾을 수 없습니다. 현재 게임 버전 또는 모드 로더에서 사용할 수 없는 것일 수 있습니다.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -11284,27 +11284,27 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation type="vanished">계정 추가</translation>
+        <translation>계정 추가</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="vanished">사용자명</translation>
+        <translation>사용자명</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="vanished">16자를 초과하는 사용자명은 LAN 게임이나 오프라인 모드 서버에서 사용할 수 없습니다.</translation>
+        <translation>16자를 초과하는 사용자명은 LAN 게임이나 오프라인 모드 서버에서 사용할 수 없습니다.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation type="vanished">긴 사용자명 허용</translation>
+        <translation>긴 사용자명 허용</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">취소</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">확인</translation>
+        <translation>확인</translation>
     </message>
 </context>
 <context>
@@ -11355,7 +11355,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">찾기</translation>
+        <translation>찾기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -11444,31 +11444,31 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Clear the log</source>
-        <translation type="vanished">로그 지우기</translation>
+        <translation>로그 지우기</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">삭제</translation>
+        <translation>삭제</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation type="vanished">설정에서 선택한 로그 공유 서비스에 로그를 업로드합니다.</translation>
+        <translation>설정에서 선택한 로그 공유 서비스에 로그를 업로드합니다.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">업로드</translation>
+        <translation>업로드</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation type="vanished">지우기</translation>
+        <translation>지우기</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">새로고침</translation>
+        <translation>새로고침</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">검색:</translation>
+        <translation>검색:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -11495,7 +11495,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation type="vanished">파일 %1을(를) 읽을 수 없습니다.</translation>
+        <translation>파일 %1을(를) 읽을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -11572,7 +11572,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Other logs</source>
-        <translation type="vanished">다른 로그</translation>
+        <translation>다른 로그</translation>
     </message>
 </context>
 <context>
@@ -11597,7 +11597,7 @@ Are you sure?</source>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">닫기</translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -11626,28 +11626,28 @@ Are you sure?</source>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation type="vanished">%1에 업로드 중</translation>
+        <translation>%1에 업로드 중</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation type="vanished">네트워크 오류: %1</translation>
+        <translation>네트워크 오류: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="vanished">오류: %1이(가) 예기치 않은 상태 코드 %2 %3 을(를) 반환했습니다</translation>
+        <translation>오류: %1이(가) 예기치 않은 상태 코드 %2 %3 을(를) 반환했습니다</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="vanished">오류: %1이(가) 잘못된 응답 본문을 반환했습니다</translation>
+        <translation>오류: %1이(가) 잘못된 응답 본문을 반환했습니다</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="vanished">오류: %1이(가) 오류를 반환: %2</translation>
+        <translation>오류: %1이(가) 오류를 반환: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="vanished">오류: %1이(가) 오류를 반환: %2
+        <translation>오류: %1이(가) 오류를 반환: %2
 오류 메시지: %3</translation>
     </message>
 </context>
@@ -12326,7 +12326,7 @@ HTTP 상태: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation type="vanished">서버에서 다음 오류를 반환했습니다:</translation>
+        <translation>서버에서 다음 오류를 반환했습니다:</translation>
     </message>
 </context>
 <context>
@@ -12387,7 +12387,7 @@ HTTP 상태: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="vanished">기본값(&amp;D)</translation>
+        <translation>기본값(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -12526,13 +12526,13 @@ HTTP 상태: %2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation type="vanished">웹사이트</translation>
+        <translation>웹사이트</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="vanished">%1 개발자</translation>
+        <translation>%1 개발자</translation>
     </message>
     <message>
         <source>%1 Contributors</source>
@@ -12543,7 +12543,7 @@ HTTP 상태: %2</translation>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation type="vanished">다음 사람들에게 고마움을 표하며</translation>
+        <translation>다음 사람들에게 고마움을 표하며</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -12614,7 +12614,7 @@ Error message: %1</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="vanished">업로드 실패</translation>
+        <translation>업로드 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -12913,7 +12913,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="vanished">지정된 Java 바이너리는 작동하지 않습니다.&lt;br /&gt;자동 감지 기능을 사용하거나, path 환경 변수에 Java 실행 파일 경로를 추가하십시오.&lt;br /&gt;</translation>
+        <translation>지정된 Java 바이너리는 작동하지 않습니다.&lt;br /&gt;자동 감지 기능을 사용하거나, path 환경 변수에 Java 실행 파일 경로를 추가하십시오.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -12941,7 +12941,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation type="vanished">유효하지 않은 JVisualVM 경로</translation>
+        <translation>유효하지 않은 JVisualVM 경로</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -12966,7 +12966,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>No author(s)</source>
-        <translation type="vanished">제작자 없음</translation>
+        <translation>제작자 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -13189,7 +13189,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="vanished">%1에 대한 권한 문제를 해결하지 못함</translation>
+        <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -13593,7 +13593,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">%1 버전 변경</translation>
+        <translation>%1 버전 변경</translation>
     </message>
 </context>
 <context>
@@ -14027,11 +14027,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>리소스의 이름입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>리소스가 마지막으로 수정(또는 추가)된 날짜와 시간입니다.</translation>
     </message>
     <message>
@@ -14141,7 +14143,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">리소스 팩의 활성화 여부입니다(ZIP에만 유효).</translation>
+        <translation>리소스 팩의 활성화 여부입니다(ZIP에만 유효).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
@@ -14162,15 +14164,15 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation type="vanished">리소스 팩</translation>
+        <translation>리소스 팩</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">팩 다운로드</translation>
+        <translation>팩 다운로드</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">온라인 플랫폼에서 리소스 팩 다운로드</translation>
+        <translation>온라인 플랫폼에서 리소스 팩 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -14509,11 +14511,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation type="vanished">이 다운로드는 여기에 위치할 것입니다: %1</translation>
+        <translation>이 다운로드는 여기에 위치할 것입니다: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="vanished">로더가 요구함에 따라, 이 파일은 다른 폴더 위치에 기본적으로 다운로드됩니다.</translation>
+        <translation>로더가 요구함에 따라, 이 파일은 다른 폴더 위치에 기본적으로 다운로드됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -14832,7 +14834,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Latency</source>
-        <translation type="vanished">지연 시간</translation>
+        <translation>지연 시간</translation>
     </message>
 </context>
 <context>
@@ -14961,15 +14963,15 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation type="vanished">셰이더 팩</translation>
+        <translation>셰이더 팩</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">셰이더 다운로드</translation>
+        <translation>셰이더 다운로드</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">셰이더를 온라인 플랫폼에서 다운로드</translation>
+        <translation>셰이더를 온라인 플랫폼에서 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -15534,7 +15536,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="vanished">모드 팩 압축 파일을 열 수 없습니다.</translation>
+        <translation>모드 팩 압축 파일을 열 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -15705,11 +15707,13 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>텍스처 팩의 활성화 여부입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>텍스처 팩의 이름입니다.</translation>
     </message>
     <message>
@@ -15719,6 +15723,7 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>텍스처 팩이 마지막으로 수정(또는 추가)된 날짜와 시간입니다.</translation>
     </message>
     <message>
@@ -15802,11 +15807,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">팩 다운로드</translation>
+        <translation>팩 다운로드</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">텍스처 팩을 온라인 플랫폼에서 다운로드</translation>
+        <translation>텍스처 팩을 온라인 플랫폼에서 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -15928,7 +15933,7 @@ Are you sure?</source>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation type="vanished">아이콘(&amp;I)</translation>
+        <translation>아이콘(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -15936,54 +15941,54 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="vanished">아이콘 테마 폴더를 봅니다.</translation>
+        <translation>아이콘 테마 폴더를 봅니다.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation type="vanished">위젯(&amp;W)</translation>
+        <translation>위젯(&amp;W)</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="vanished">위젯 테마 폴더를 봅니다.</translation>
+        <translation>위젯 테마 폴더를 봅니다.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="vanished">배경에 있는 고양이는 기본적으로 표시되지 않습니다. 이는 도구 모음에 있는 고양이 버튼을 누를 때만 보입니다.</translation>
+        <translation>배경에 있는 고양이는 기본적으로 표시되지 않습니다. 이는 도구 모음에 있는 고양이 버튼을 누를 때만 보입니다.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation type="vanished">고양이(&amp;A)</translation>
+        <translation>고양이(&amp;A)</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="vanished">고양이 팩 폴더를 봅니다.</translation>
+        <translation>고양이 팩 폴더를 봅니다.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation type="vanished">모두 새로고침</translation>
+        <translation>모두 새로고침</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="vanished">마법사 페이지</translation>
+        <translation>마법사 페이지</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation type="vanished">사용할 테마 선택</translation>
+        <translation>사용할 테마 선택</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="vanished">참고: 배경에 있는 고양이는 기본적으로 표시되지 않습니다. 이는 도구 모음에 있는 고양이 버튼을 누를 때만 보입니다.</translation>
+        <translation>참고: 배경에 있는 고양이는 기본적으로 표시되지 않습니다. 이는 도구 모음에 있는 고양이 버튼을 누를 때만 보입니다.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation type="vanished"> 미리 보기:</translation>
+        <translation> 미리 보기:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="vanished">배경에 있는 고양이는 그냥 시각적인 요소입니다.</translation>
+        <translation>배경에 있는 고양이는 그냥 시각적인 요소입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -16266,7 +16271,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">필터:</translation>
+        <translation>필터:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -17100,11 +17105,11 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation type="vanished">데이터 팩</translation>
+        <translation>데이터 팩</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation type="vanished">세계 안의 데이터 팩을 관리합니다.</translation>
+        <translation>세계 안의 데이터 팩을 관리합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -17132,7 +17137,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation type="vanished">세계 데이터 팩 폴더 열기</translation>
+        <translation>세계 데이터 팩 폴더 열기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation type="vanished">API Atslēgas</translation>
+        <translation>API Atslēgas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,16 +88,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="vanished">(Noklusējums)</translation>
+        <translation>(Noklusējums)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="vanished">Ievadi pielāgotu klienta ID priekš Microsoft Autentifikācijas šeit.</translation>
+        <translation>Ievadi pielāgotu klienta ID priekš Microsoft Autentifikācijas šeit.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation type="vanished">&amp;Modrinth API</translation>
+        <translation>&amp;Modrinth API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,15 +106,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="vanished">Ievadi savu API atslēgu priekš Modrinth šeit.</translation>
+        <translation>Ievadi savu API atslēgu priekš Modrinth šeit.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="vanished">(Nav)</translation>
+        <translation>(Nav)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="vanished">Technic Klienta ID</translation>
+        <translation>Technic Klienta ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="vanished">Ievadi pielāgotu Technic GUID klienta ID šeit.</translation>
+        <translation>Ievadi pielāgotu Technic GUID klienta ID šeit.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Citi</translation>
+        <translation>Citi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="vanished">Ievadi pielāgotu URL priekš metas šeit.</translation>
+        <translation>Ievadi pielāgotu URL priekš metas šeit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation type="vanished">&amp;CurseForge Kodola API</translation>
+        <translation>&amp;CurseForge Kodola API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="vanished">Ievadiet pielāgotu CurseForge API atslēgu šeit.</translation>
+        <translation>Ievadiet pielāgotu CurseForge API atslēgu šeit.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation type="vanished">API</translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation type="vanished">Neizdevās atvērt pakas konfigurācijas %1!</translation>
+        <translation>Neizdevās atvērt pakas konfigurācijas %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -417,12 +417,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="vanished">Neatzīmēts</translation>
+        <translation>Neatzīmēts</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="vanished">Bezsaistē</translation>
+        <translation>Bezsaistē</translation>
     </message>
     <message>
         <source>Online</source>
@@ -450,37 +450,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="vanished">Gatavs</translation>
+        <translation>Gatavs</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="vanished">Strādā</translation>
+        <translation>Strādā</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="vanished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="vanished">Laiks beidzies</translation>
+        <translation>Laiks beidzies</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="vanished">Atspējots</translation>
+        <translation>Atspējots</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="vanished">Pazudis</translation>
+        <translation>Pazudis</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="vanished">Nezināms</translation>
+        <translation>Nezināms</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1117,7 +1117,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="vanished">Ņem līdzekļu datnes no Mojang...</translation>
+        <translation>Ņem līdzekļu datnes no Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1501,11 +1501,11 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Jūsu konfigurētā globālā modifikāciju mape un noklusējuma lejupielādes mape tiek automātiski pārbaudīta priekš lejupielādētām modifikācijām un tiks nokopēta uz instanci ja atrasta.&lt;/p&gt;&lt;p&gt;Pēc izvēles šajā dialoglodziņā varat vilkt un nomest lejupielādētos modus vai pievienot mapi, ko skatīties, ja modi nav lejupielādēti noklusējuma vietā.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Jūsu konfigurētā globālā modifikāciju mape un noklusējuma lejupielādes mape tiek automātiski pārbaudīta priekš lejupielādētām modifikācijām un tiks nokopēta uz instanci ja atrasta.&lt;/p&gt;&lt;p&gt;Pēc izvēles šajā dialoglodziņā varat vilkt un nomest lejupielādētos modus vai pievienot mapi, ko skatīties, ja modi nav lejupielādēti noklusējuma vietā.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation type="vanished">Skatītās mapes:</translation>
+        <translation>Skatītās mapes:</translation>
     </message>
 </context>
 <context>
@@ -1649,7 +1649,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation type="vanished">Viens vai vairāki apakšuzdevumi neizdevās</translation>
+        <translation>Viens vai vairāki apakšuzdevumi neizdevās</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1891,7 +1891,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation type="vanished">Galvenās Modifikācijas</translation>
+        <translation>Galvenās Modifikācijas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2031,22 +2031,22 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="vanished">&amp;Pielāgotas komandas</translation>
+        <translation>&amp;Pielāgotas komandas</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="vanished">Pēc-izejas komanda:</translation>
+        <translation>Pēc-izejas komanda:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="vanished">Pirms-darbināšanas komanda:</translation>
+        <translation>Pirms-darbināšanas komanda:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="vanished">Iesaiņojuma komanda:</translation>
+        <translation>Iesaiņojuma komanda:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2079,7 +2079,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation type="vanished">Pielāgotas komandas</translation>
+        <translation>Pielāgotas komandas</translation>
     </message>
 </context>
 <context>
@@ -2466,6 +2466,10 @@ Are you sure?</source>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Checking if mods have metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EntitlementsStep</name>
@@ -2517,12 +2521,16 @@ Are you sure?</source>
         <source>&amp;Clear</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Environment Variables</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation type="vanished">Vides Mainīgie</translation>
+        <translation>Vides Mainīgie</translation>
     </message>
 </context>
 <context>
@@ -2633,7 +2641,15 @@ Are you sure?</source>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="obsolete">Vārds</translation>
+        <translation type="unfinished">Vārds</translation>
+    </message>
+    <message>
+        <source>&amp;Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Author</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2861,7 +2877,7 @@ Are you sure?</source>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Filtrs:</translation>
+        <translation>Filtrs:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2870,19 +2886,47 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Pievienot</translation>
+        <translation type="unfinished">&amp;Pievienot</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Pievienot</translation>
+        <translation>Pievienot</translation>
+    </message>
+    <message>
+        <source>Remove selected item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable selected item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download a new resource</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Apmeklēt modifikācijas mājaslapu</translation>
+        <translation>Apmeklēt modifikācijas mājaslapu</translation>
+    </message>
+    <message>
+        <source>Go to mods home page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try to check or update all selected resources (all resources if none are selected)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Eksportēt modifikāciju sarakstu</translation>
+        <translation>Eksportēt modifikāciju sarakstu</translation>
+    </message>
+    <message>
+        <source>Export mod&apos;s metadata to text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -3063,6 +3107,15 @@ Are you sure you want to do this?</source>
         <source> (%1 installed)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Confirm disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you disable this resource while the game is running it may crash your game.
+Are you sure you want to do this?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ExternalToolsPage</name>
@@ -3123,16 +3176,16 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="vanished">Ārējie redaktori (atstājiet tukšu priekš sistēmas noklusējuma)</translation>
+        <translation>Ārējie redaktori (atstājiet tukšu priekš sistēmas noklusējuma)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="vanished">&amp;Teksta redaktors:</translation>
+        <translation>&amp;Teksta redaktors:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation type="vanished">Ārējie Rīki</translation>
+        <translation>Ārējie Rīki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3193,17 +3246,17 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation type="vanished">JVisualVM Izpildāmais</translation>
+        <translation>JVisualVM Izpildāmais</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="vanished">Kļūda pārbaudot JVisualVM instalāciju:
+        <translation>Kļūda pārbaudot JVisualVM instalāciju:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="vanished">JVisualVM sataisīšana sķiet ir OK</translation>
+        <translation>JVisualVM sataisīšana sķiet ir OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3230,7 +3283,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation type="vanished">JSON rediģētājs</translation>
+        <translation>JSON rediģētājs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3430,6 +3483,22 @@ Lūdzu, mēģiniet vēlreiz.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
         <source>Unknown</source>
         <translation type="unfinished">Nezināms</translation>
+    </message>
+    <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3813,11 +3882,11 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation type="vanished">Atslēga</translation>
+        <translation>Atslēga</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="vanished">Vērtība</translation>
+        <translation>Vērtība</translation>
     </message>
 </context>
 <context>
@@ -4207,11 +4276,11 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation type="vanished">&amp;Vārds:</translation>
+        <translation>&amp;Vārds:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation type="vanished">&amp;Grupa:</translation>
+        <translation>&amp;Grupa:</translation>
     </message>
 </context>
 <context>
@@ -4398,19 +4467,19 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation type="vanished">Atvērt Globālos Iestatījumus</translation>
+        <translation>Atvērt Globālos Iestatījumus</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="vanished">Iestatījumi šeit ir ignorējošie priekš globālajiem iestatījumiem.</translation>
+        <translation>Iestatījumi šeit ir ignorējošie priekš globālajiem iestatījumiem.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation type="vanished">Java insta&amp;lācija</translation>
+        <translation>Java insta&amp;lācija</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation type="vanished">Automātiskā noteikšana...</translation>
+        <translation>Automātiskā noteikšana...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4418,128 +4487,224 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="vanished">Test</translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="vanished">Atmiņa</translation>
+        <translation>Atmiņa</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">Minimālā atmiņas piešķiršana:</translation>
+        <translation>Minimālā atmiņas piešķiršana:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">Maksimālais daudzums atmiņas ko Minecraft var lietot.</translation>
+        <translation>Maksimālais daudzums atmiņas ko Minecraft var lietot.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">Atmiņas daudzums ar ko Minecraft var darboties sākumpunktā.</translation>
+        <translation>Atmiņas daudzums ar ko Minecraft var darboties sākumpunktā.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">Atmiņas daudzums pieejams lai krātu ielādetās Java klases.</translation>
+        <translation>Atmiņas daudzums pieejams lai krātu ielādetās Java klases.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Maksimālā atmiņas piešķiršana:</translation>
+        <translation>Maksimālā atmiņas piešķiršana:</translation>
+    </message>
+    <message>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip Java compatibility checks</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="obsolete">Pārlūkot</translation>
+        <translation type="unfinished">Pārlūkot</translation>
+    </message>
+    <message>
+        <source>Download Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PermGen:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="vanished">Pieraksts: Ar Java 8 un vēlāk, Pergem ir automātiski ieslēgts</translation>
+        <translation>Pieraksts: Ar Java 8 un vēlāk, Pergem ir automātiski ieslēgts</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation type="vanished">Java argumen&amp;ti</translation>
+        <translation>Java argumen&amp;ti</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation type="vanished">Spēles logi</translation>
+        <translation>Spēles logi</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation type="vanished">Spēles Logs</translation>
+        <translation>Spēles Logs</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="obsolete">Atvērt Minecraft maksimizētu?</translation>
+        <translation type="unfinished">Atvērt Minecraft maksimizētu?</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation type="vanished">Loga garums:</translation>
+        <translation>Loga garums:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation type="vanished">Loga platums:</translation>
+        <translation>Loga platums:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation type="vanished">Konso&amp;les Iestatijumi</translation>
+        <translation>Konso&amp;les Iestatijumi</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="obsolete">Rādīt konsoli kamēr spēle iet?</translation>
+        <translation type="unfinished">Rādīt konsoli kamēr spēle iet?</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="obsolete">Automātiski aizvērt konsoli kad spēle aizverās?</translation>
+        <translation type="unfinished">Automātiski aizvērt konsoli kad spēle aizverās?</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="obsolete">Rādīt konsoli kad spēle nobrūk?</translation>
+        <translation type="unfinished">Rādīt konsoli kad spēle nobrūk?</translation>
+    </message>
+    <message>
+        <source>Close the launcher after game window opens</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit the launcher after game window closes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation type="vanished">Pielāgotas komandas</translation>
+        <translation>Pielāgotas komandas</translation>
+    </message>
+    <message>
+        <source>Environment variables</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation type="vanished">Risinājumi</translation>
+        <translation>Risinājumi</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation type="vanished">Dzimtās bibliotēkas</translation>
+        <translation>Dzimtās bibliotēkas</translation>
+    </message>
+    <message>
+        <source>&amp;GLFW library path</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="vanished">Izmantot sistēmas GLFW instalāciju</translation>
+        <translation>Izmantot sistēmas GLFW instalāciju</translation>
+    </message>
+    <message>
+        <source>Singleplayer world</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Override default account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="vanished">Izmantot sistēmas OpenAL instalāciju</translation>
+        <translation>Izmantot sistēmas OpenAL instalāciju</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Citi</translation>
+        <translation>Citi</translation>
+    </message>
+    <message>
+        <source>&amp;OpenAL library path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Performance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Feral GameMode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable MangoHud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use discrete GPU</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Zink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legacy settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable online fixes (experimental)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation type="vanished">Ignorēt globālo spēļu laika iestatījumus</translation>
+        <translation>Ignorēt globālo spēļu laika iestatījumus</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="vanished">Rādīt laiku spēlējot šo instanci</translation>
+        <translation>Rādīt laiku spēlējot šo instanci</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation type="vanished">Ierakstīt laiku spēlējot šo instanci</translation>
+        <translation>Ierakstīt laiku spēlējot šo instanci</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="obsolete">Iestatīt serveri kuram pievienoties spēles palaišanā</translation>
+        <translation type="unfinished">Iestatīt serveri kuram pievienoties spēles palaišanā</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="vanished">Servera adrese:</translation>
+        <translation>Servera adrese:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4547,12 +4712,46 @@ Lūdzu, mēģiniet vēlreiz.</translation>
         <translation>Iestatījumi</translation>
     </message>
     <message>
+        <source>Path to %1 library file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MangoHud could not be found on your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Izvēlēties Java versiju</translation>
+        <translation>Izvēlēties Java versiju</translation>
+    </message>
+    <message>
+        <source>Confirm Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You selected a 32-bit version of Java.
+This installation does not support more than 2048MiB of RAM.
+Please make sure that the maximum memory value is lower.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Meklēt Java Izpildāmo</translation>
+        <translation>Meklēt Java Izpildāmo</translation>
+    </message>
+    <message>
+        <source>Your maximum memory allocation exceeds your system memory capacity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your maximum memory allocation approaches your system memory capacity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your maximum memory allocation is smaller than the minimum value</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4653,7 +4852,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation type="vanished">JVisualVM iedarbināts</translation>
+        <translation>JVisualVM iedarbināts</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -4680,15 +4879,15 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="obsolete">Java izvilkšana (par tar arhīvu progresu netiek ziņots)</translation>
+        <translation type="unfinished">Java izvilkšana (par tar arhīvu progresu netiek ziņots)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation type="obsolete">Nevar atvērt piegādāto tar failu.</translation>
+        <translation type="unfinished">Nevar atvērt piegādāto tar failu.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="obsolete">Nevar izvilkt piegādāto tar failu.</translation>
+        <translation type="unfinished">Nevar izvilkt piegādāto tar failu.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -4702,7 +4901,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation type="obsolete">Nevarēja noteikt arhīva veidu!</translation>
+        <translation type="unfinished">Nevarēja noteikt arhīva veidu!</translation>
     </message>
 </context>
 <context>
@@ -4808,38 +5007,86 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Atmiņa</translation>
+        <translation>Atmiņa</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">Maksimālais daudzums atmiņas ko Minecraft var lietot.</translation>
+        <translation>Maksimālais daudzums atmiņas ko Minecraft var lietot.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="obsolete">Minimālā atmiņas piešķiršana:</translation>
+        <translation type="unfinished">Minimālā atmiņas piešķiršana:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="obsolete">Maksimālā atmiņas piešķiršana:</translation>
+        <translation type="unfinished">Maksimālā atmiņas piešķiršana:</translation>
+    </message>
+    <message>
+        <source>&amp;PermGen:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">Atmiņas daudzums ar ko Minecraft var darboties sākumpunktā.</translation>
+        <translation>Atmiņas daudzums ar ko Minecraft var darboties sākumpunktā.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">Atmiņas daudzums pieejams lai krātu ielādetās Java klases.</translation>
+        <translation>Atmiņas daudzums pieejams lai krātu ielādetās Java klases.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation type="vanished">Java vide</translation>
+        <translation>Java vide</translation>
+    </message>
+    <message>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Skip Java compatibility checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JVM arguments:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip Java &amp;Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Autodetect Java version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="obsolete">Java taka:</translation>
+        <translation type="unfinished">Java taka:</translation>
+    </message>
+    <message>
+        <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-download Mojang Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloaded Java Versions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -4869,16 +5116,16 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="obsolete">Automātiskā noteikšana...</translation>
+        <translation type="unfinished">Automātiskā noteikšana...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="obsolete">Tests</translation>
+        <translation type="unfinished">Tests</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="obsolete">Pārlūkot</translation>
+        <translation type="unfinished">Pārlūkot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -4899,11 +5146,33 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Izvēlējieies Java versiju</translation>
+        <translation>Izvēlējieies Java versiju</translation>
+    </message>
+    <message>
+        <source>Confirm Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You selected a 32-bit version of Java.
+This installation does not support more than 2048MiB of RAM.
+Please make sure that the maximum memory value is lower.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Meklēt Java Izpildāmo</translation>
+        <translation>Meklēt Java Izpildāmo</translation>
+    </message>
+    <message>
+        <source>Your maximum memory allocation exceeds your system memory capacity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your maximum memory allocation approaches your system memory capacity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your maximum memory allocation is smaller than the minimum value</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -4920,8 +5189,58 @@ Are you sure?</source>
 <context>
     <name>JavaSettingsWidget</name>
     <message>
+        <source>Download Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>32-bit Java detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
+%1 will not be able to start Minecraft.
+Do you wish to proceed?
+
+You can change the Java version in the settings later.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No Java version selected</source>
-        <translation type="vanished">Nav izvēlētās Java versijas</translation>
+        <translation>Nav izvēlētās Java versijas</translation>
+    </message>
+    <message>
+        <source>You either didn&apos;t select a Java version or selected one that does not work.
+%1 will not be able to start Minecraft.
+Do you wish to proceed without a functional version of Java?
+
+You can change the Java version in the settings later.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-download Mojang Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Autodetect Java version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Autodetect Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your maximum memory allocation approaches your system memory capacity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your maximum memory allocation is smaller than the minimum value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -4944,7 +5263,7 @@ Java versiju var mainīt iestatījumos vēlāk.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Atmiņa</translation>
+        <translation>Atmiņa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -4953,7 +5272,7 @@ Java versiju var mainīt iestatījumos vēlāk.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">Minimālā atmiņas piešķiršana:</translation>
+        <translation>Minimālā atmiņas piešķiršana:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5055,7 +5374,7 @@ Java versiju var mainīt iestatījumos vēlāk.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Maksimālā atmiņas piešķiršana:</translation>
+        <translation>Maksimālā atmiņas piešķiršana:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5094,7 +5413,7 @@ Java versiju var mainīt iestatījumos vēlāk.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Pārlūkot</translation>
+        <translation>Pārlūkot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5410,11 +5729,15 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation type="vanished">Spēlēt bezsaistē</translation>
+        <translation>Spēlēt bezsaistē</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Konta sesija ir beigusies, un kontā autentifikācijās manuāli.</translation>
+        <translation>Konta sesija ir beigusies, un kontā autentifikācijās manuāli.</translation>
+    </message>
+    <message>
+        <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -5428,7 +5751,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="vanished">Šis konts vairs neatrodās serveros. Tas var būt migrēts, kurā gadijumā lūdzu pievienojiet jauno kontu jūs šito kontu migrējāt uz.</translation>
+        <translation>Šis konts vairs neatrodās serveros. Tas var būt migrēts, kurā gadijumā lūdzu pievienojiet jauno kontu jūs šito kontu migrējāt uz.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -5566,11 +5889,11 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation type="vanished">Funkcijas</translation>
+        <translation>Funkcijas</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation type="vanished">Mainīt iestatījumus</translation>
+        <translation>Mainīt iestatījumus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -5720,7 +6043,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation type="vanished">Instanču skata kārtošanas veids</translation>
+        <translation>Instanču skata kārtošanas veids</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -5735,11 +6058,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Theme</source>
-        <translation type="vanished">Tēma</translation>
+        <translation>Tēma</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="vanished">Modifikācijas</translation>
+        <translation>Modifikācijas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
@@ -5753,12 +6076,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="obsolete">Atspējojiet modu nodrošinātāju (piemēram, Modrinth vai Curseforge) sniegto metadatu izmantošanu modiem.</translation>
+        <translation type="unfinished">Atspējojiet modu nodrošinātāju (piemēram, Modrinth vai Curseforge) sniegto metadatu izmantošanu modiem.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="obsolete">Atspējot metadatu izmantošanu modifikācijām?</translation>
+        <translation type="unfinished">Atspējot metadatu izmantošanu modifikācijām?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -5782,7 +6105,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="obsolete">Citi</translation>
+        <translation type="unfinished">Citi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -5866,19 +6189,99 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Update interval</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set it to 0 to only check on launch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check downloads folder recursively</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable automatic mod dependency management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip modpack update prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of concurrent tasks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of concurrent downloads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of manual retries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timeout for HTTP requests</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opacity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Console Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="obsolete">Rādīt konsoli kamēr spēle iet?</translation>
+        <translation type="unfinished">Rādīt konsoli kamēr spēle iet?</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="obsolete">Automātiski aizvērt konsoli kad spēle aizverās?</translation>
+        <translation type="unfinished">Automātiski aizvērt konsoli kad spēle aizverās?</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="obsolete">Rādīt konsoli kad spēle nobrūk?</translation>
+        <translation type="unfinished">Rādīt konsoli kad spēle nobrūk?</translation>
+    </message>
+    <message>
+        <source>&amp;History limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Console &amp;font</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -5951,6 +6354,34 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
         <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Test/ERROR] A spooky error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Test/INFO] A harmless message...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Test/WARN] A not so spooky warning.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Test/DEBUG] A secret debugging message...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Test/FATAL] A terrifying fatal error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Launcher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6054,7 +6485,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation type="vanished">Neizdevās atvērt modpaka failus %1!</translation>
+        <translation>Neizdevās atvērt modpaka failus %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -6266,6 +6697,18 @@ Iemesls:
     </message>
 </context>
 <context>
+    <name>LocalModUpdateTask</name>
+    <message>
+        <source>Updating index for mod:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="44"/>
@@ -6334,7 +6777,7 @@ Iemesls:
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Meklēt:</translation>
+        <translation>Meklēt:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -6454,12 +6897,20 @@ Iemesls:
         <source>A zip error occurred</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Could not create:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation type="obsolete">Nevar atvērt piegādāto ZIP failu.</translation>
+        <translation type="unfinished">Nevar atvērt piegādāto ZIP failu.</translation>
+    </message>
+    <message>
+        <source>Failed to seek to first file in zip</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -6488,7 +6939,7 @@ Iemesls:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="obsolete">Nevarēja izlabot atļaujas priekš %1</translation>
+        <translation type="unfinished">Nevarēja izlabot atļaujas priekš %1</translation>
     </message>
 </context>
 <context>
@@ -6585,6 +7036,14 @@ Iemesls:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="204"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open %1 or scan the QR and enter the above code.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open %1 and enter the above code.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7554,6 +8013,87 @@ Are you sure?</source>
         <translation type="vanished">Nevarēja izveidot mapi priekš atjauninājuma lejupielādes:
 %1</translation>
     </message>
+    <message>
+        <source>More news...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creates a shortcut on your desktop to launch the selected instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to delete &quot;%1&quot;.
+This may be permanent and will completely delete the instance.
+
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are linked instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>The following instance(s) might reference files in this instance:
+
+%1
+
+Deleting it could break the other instance(s), 
+
+Do you wish to proceed?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Create instance shortcut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t find desktop?!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create instance Application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create icon for Application.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create icon for shortcut.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not supported on your platform!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created a shortcut to this instance on your desktop!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created a shortcut to this instance!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create instance shortcut!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ManagedPackPage</name>
@@ -7682,6 +8222,22 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="333"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pack information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pack name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update pack</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7834,59 +8390,163 @@ This can be updated only using a file in %1 format
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation type="vanished">Loga Izmērs</translation>
+        <translation>Loga Izmērs</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="obsolete">Atvērt Minecraft maksimizētu?</translation>
+        <translation type="unfinished">Atvērt Minecraft maksimizētu?</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="obsolete">Loga garums:</translation>
+        <translation type="unfinished">Loga garums:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="obsolete">Loga platums:</translation>
+        <translation type="unfinished">Loga platums:</translation>
+    </message>
+    <message>
+        <source>Show time spent playing across &amp;all instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show time spent playing in hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close the launcher after game window opens</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Quit the launcher after game window closes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tweaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legacy settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable online fixes (experimental)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation type="vanished">Vietējās bibliotēkas risinājumi</translation>
+        <translation>Vietējās bibliotēkas risinājumi</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="obsolete">Izmantot sistēmas GLFW instalāciju</translation>
+        <translation type="unfinished">Izmantot sistēmas GLFW instalāciju</translation>
+    </message>
+    <message>
+        <source>&amp;GLFW library path</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="obsolete">Izmantot sistēmas OpenAL instalāciju</translation>
+        <translation type="unfinished">Izmantot sistēmas OpenAL instalāciju</translation>
+    </message>
+    <message>
+        <source>&amp;OpenAL library path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Performance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Feral GameMode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable MangoHud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use discrete GPU</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Zink</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation type="vanished">Spēles laiks</translation>
+        <translation>Spēles laiks</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="obsolete">Rādīt laiku spēlējot instances</translation>
+        <translation type="unfinished">Rādīt laiku spēlējot instances</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="obsolete">Ierakstīt laiku spēlējot instances</translation>
+        <translation type="unfinished">Ierakstīt laiku spēlējot instances</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="obsolete">Citi</translation>
+        <translation type="unfinished">Citi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
+    </message>
+    <message>
+        <source>Path to %1 library file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto detected path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MangoHud could not be found on your system.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8432,7 +9092,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="obsolete">Nezināms</translation>
+        <translation type="unfinished">Nezināms</translation>
+    </message>
+    <message>
+        <source>Where the mod was downloaded from.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -8777,8 +9441,60 @@ Are you sure?</source>
         <translation type="unfinished">Modifikācijas</translation>
     </message>
     <message>
+        <source>Download mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add a locally downloaded file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verify Dependencies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove mod&apos;s metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to mod&apos;s home page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change mod version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="obsolete">Apmeklēt modifikācijas mājaslapu</translation>
+        <translation type="unfinished">Apmeklēt modifikācijas mājaslapu</translation>
+    </message>
+    <message>
+        <source>Visit mods&apos; pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to the pages of the selected mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please install a mod loader first!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8825,12 +9541,125 @@ Are you sure?</source>
 <context>
     <name>ModUpdateDialog</name>
     <message>
+        <source>Confirm mods to update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You&apos;re about to update the following mods:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only mods with a check will be updated!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata generation failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error</source>
-        <translation type="obsolete">Kļūda</translation>
+        <translation type="unfinished">Kļūda</translation>
+    </message>
+    <message>
+        <source>Warnings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="obsolete">Pārtraukt</translation>
+        <translation type="unfinished">Pārtraukt</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod name: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
+        <extracomment>%1 is the link to download it manually</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to check for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking for dependencies...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generating metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Provider: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Old version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Version Type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Required by: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Required by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changelog of the latest version</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8929,6 +9758,14 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Waiting for the API response from Modrinth...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing mods for Modrinth...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9390,19 +10227,27 @@ Please update %1!</source>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation type="obsolete">Pievienot kontu</translation>
+        <translation type="unfinished">Pievienot kontu</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="obsolete">Lietotājvārds</translation>
+        <translation type="unfinished">Lietotājvārds</translation>
+    </message>
+    <message>
+        <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow long usernames</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">Atcelt</translation>
+        <translation type="unfinished">Atcelt</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="obsolete">Labi</translation>
+        <translation type="unfinished">Labi</translation>
     </message>
 </context>
 <context>
@@ -9442,7 +10287,7 @@ Please update %1!</source>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Meklēt</translation>
+        <translation>Meklēt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -9531,32 +10376,32 @@ Please update %1!</source>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation type="vanished">Notīrīt logu</translation>
+        <translation>Notīrīt logu</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Dzēst</translation>
+        <translation>Dzēst</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="obsolete">Augšupielādējiet logu paste.ee - tas tur paliks uz mēnesi.</translation>
+        <translation type="unfinished">Augšupielādējiet logu paste.ee - tas tur paliks uz mēnesi.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">Augšupielādēt</translation>
+        <translation>Augšupielādēt</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation type="vanished">Iztīrīt</translation>
+        <translation>Iztīrīt</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">Pārlādēt</translation>
+        <translation>Pārlādēt</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Meklēt:</translation>
+        <translation>Meklēt:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -9583,7 +10428,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation type="vanished">Fails (%1) nav nolasāms.</translation>
+        <translation>Fails (%1) nav nolasāms.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -9656,7 +10501,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Other logs</source>
-        <translation type="vanished">Citi logi</translation>
+        <translation>Citi logi</translation>
     </message>
 </context>
 <context>
@@ -9681,7 +10526,7 @@ Are you sure?</source>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation type="obsolete">Aizvērt</translation>
+        <translation type="unfinished">Aizvērt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -9704,6 +10549,34 @@ Are you sure?</source>
     <message>
         <source>Log Upload</source>
         <translation type="obsolete">Logu Augšupielādēšana</translation>
+    </message>
+</context>
+<context>
+    <name>PasteUpload</name>
+    <message>
+        <source>Uploading to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: %1 returned unexpected status code %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: %1 returned a malformed response body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: %1 returned an error: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: %1 returned an error code: %2
+Error message: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10340,6 +11213,10 @@ HTTP Status: %2</source>
         <source>The server responded with the following error:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The server returned the following error:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProgressDialog</name>
@@ -10395,7 +11272,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="vanished">Noklusējums</translation>
+        <translation>Noklusējums</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -10562,7 +11439,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="vanished">Augšupielāde neizdevās</translation>
+        <translation>Augšupielāde neizdevās</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -11032,7 +11909,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="obsolete">Nevarēja izlabot atļaujas priekš %1</translation>
+        <translation type="unfinished">Nevarēja izlabot atļaujas priekš %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -11381,6 +12258,33 @@ Error message: %3</source>
         <source>With special thanks to</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No author(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid path to JVisualVM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Website</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Developers</source>
+        <comment>About Credits</comment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With thanks to</source>
+        <comment>About Credits</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Resource</name>
@@ -11420,6 +12324,10 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="107"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change %1 version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11826,11 +12734,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11943,6 +12853,10 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The date and time this resource pack was last changed (or added).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12058,6 +12972,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download resource packs from online platforms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resource packs</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12308,6 +13234,14 @@ Are you sure?</source>
         <source>Toggle Dependencies</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>This download will be placed in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ScreenshotsPage</name>
@@ -12541,6 +13475,10 @@ Currently installed version: %1</source>
         <source>Online</source>
         <translation type="unfinished">Tiešsaistē</translation>
     </message>
+    <message>
+        <source>Latency</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ServersPage</name>
@@ -12665,7 +13603,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation type="vanished">Shader pakas</translation>
+        <translation>Shader pakas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -12777,6 +13715,14 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download shaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download shaders from online platforms</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13162,7 +14108,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="obsolete">Nevar atvērt piegādātā modpaka zip failu.</translation>
+        <translation type="unfinished">Nevar atvērt piegādātā modpaka zip failu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -13302,11 +14248,13 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Vai tekstūras paka ir iespējota?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Tekstūras pakas nosaukums.</translation>
     </message>
     <message>
@@ -13359,6 +14307,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13491,20 +14440,48 @@ Are you sure you want to do this?</source>
 Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Download packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download texture packs from online platforms</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ThemeCustomizationWidget</name>
     <message>
+        <source>&amp;Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View icon themes folder.</source>
-        <translation type="obsolete">Skatīt ikona tēmas mapi.</translation>
+        <translation type="unfinished">Skatīt ikona tēmas mapi.</translation>
+    </message>
+    <message>
+        <source>&amp;Widgets</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="obsolete">Redzēt sīklietu tēmu mapi.</translation>
+        <translation type="unfinished">Redzēt sīklietu tēmu mapi.</translation>
+    </message>
+    <message>
+        <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;at</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="obsolete">Redzēt kaķu paku mapi.</translation>
+        <translation type="unfinished">Redzēt kaķu paku mapi.</translation>
+    </message>
+    <message>
+        <source>Refresh all</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13517,6 +14494,26 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WizardPage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the Theme you wish to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Preview:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13728,7 +14725,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Filtrs:</translation>
+        <translation>Filtrs:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -14528,6 +15525,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>Enter a new world name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Datapacks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage datapacks inside the world.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open World Datapacks Folder</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

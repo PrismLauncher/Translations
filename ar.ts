@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation type="vanished">مفاتيح واجهة التطبيق</translation>
+        <translation>مفاتيح واجهة التطبيق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,16 +88,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="vanished">(الإفتراضي)</translation>
+        <translation>(الإفتراضي)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="vanished">ادخل الرمز التعريفي الخاص بالعميل لمصادقة مايكروسوفت هنا.</translation>
+        <translation>ادخل الرمز التعريفي الخاص بالعميل لمصادقة مايكروسوفت هنا.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation type="vanished">&amp;واجهة التطبيق مودرينث</translation>
+        <translation>&amp;واجهة التطبيق مودرينث</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,15 +106,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="vanished">ادخل رمز واجهة تطبيق مميّز لمودرينث.</translation>
+        <translation>ادخل رمز واجهة تطبيق مميّز لمودرينث.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="vanished">(لا يوجد)</translation>
+        <translation>(لا يوجد)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="vanished">معرف عميل تيكنك</translation>
+        <translation>معرف عميل تيكنك</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="vanished">ادخل رمز التعريف المميز الخاص بخدمة تيكنك هنا.</translation>
+        <translation>ادخل رمز التعريف المميز الخاص بخدمة تيكنك هنا.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">آخرى</translation>
+        <translation>آخرى</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="vanished">ادخل رابط للمتحولات هنا.</translation>
+        <translation>ادخل رابط للمتحولات هنا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation type="vanished">واجهة التطبيق الأساسية لكورس فورج</translation>
+        <translation>واجهة التطبيق الأساسية لكورس فورج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="vanished">أدخل مفتاح واجهة التطبيق المخصصة كورس فورج هنا.</translation>
+        <translation>أدخل مفتاح واجهة التطبيق المخصصة كورس فورج هنا.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation type="vanished">واجهات التطبيق</translation>
+        <translation>واجهات التطبيق</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation type="vanished">فشل في فتح ملفات الإعدادات للحزمة %1!</translation>
+        <translation>فشل في فتح ملفات الإعدادات للحزمة %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -417,12 +417,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="vanished">غير مراقبة</translation>
+        <translation>غير مراقبة</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="vanished">غير متصل على الانترنت</translation>
+        <translation>غير متصل على الانترنت</translation>
     </message>
     <message>
         <source>Online</source>
@@ -450,37 +450,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="vanished">جاهز</translation>
+        <translation>جاهز</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="vanished">مفعّل</translation>
+        <translation>مفعّل</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="vanished">خطأ</translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="vanished">انتهت الصلاحية</translation>
+        <translation>انتهت الصلاحية</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="vanished">معطّل</translation>
+        <translation>معطّل</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="vanished">غادر</translation>
+        <translation>غادر</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="vanished">غير معروف</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1088,7 +1088,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="vanished">جار الحصول على ملفات الموارد من موجانغ...</translation>
+        <translation>جار الحصول على ملفات الموارد من موجانغ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1460,11 +1460,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;لقد قمت بتعيين مجلد الإضافات العام ومجلد التنزيلات الإفتراضي وسيتم فحصها بإستمرار بحثا عن الإضافات وسيتم نسخها للواجهة في حال تم العثور عليها .&lt;/p&gt;&lt;p&gt;و في حال تم تنزيل الإضافات في موقع غير الذي تم تعيينه تستطيع سحب وإفلات الإضافات في هذه المساحة أو تستطيع إضافة مجلد لمراقبة إذا لم تقد بتحميل الإضافات في الموقع الإفتراضي&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;لقد قمت بتعيين مجلد الإضافات العام ومجلد التنزيلات الإفتراضي وسيتم فحصها بإستمرار بحثا عن الإضافات وسيتم نسخها للواجهة في حال تم العثور عليها .&lt;/p&gt;&lt;p&gt;و في حال تم تنزيل الإضافات في موقع غير الذي تم تعيينه تستطيع سحب وإفلات الإضافات في هذه المساحة أو تستطيع إضافة مجلد لمراقبة إذا لم تقد بتحميل الإضافات في الموقع الإفتراضي&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation type="vanished">المجلد الموراقب:</translation>
+        <translation>المجلد الموراقب:</translation>
     </message>
 </context>
 <context>
@@ -1608,7 +1608,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation type="vanished">فشل واحد أو أكثر من المهمات الثانوية</translation>
+        <translation>فشل واحد أو أكثر من المهمات الثانوية</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1851,7 +1851,7 @@ Some versions of Minecraft may not launch.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation type="vanished">الإضافات الأساسية</translation>
+        <translation>الإضافات الأساسية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -1991,22 +1991,22 @@ Some versions of Minecraft may not launch.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="vanished">&amp;أوامر مخصصة</translation>
+        <translation>&amp;أوامر مخصصة</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="vanished">أمر بعد إغلاق البرنامج:</translation>
+        <translation>أمر بعد إغلاق البرنامج:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="vanished">أمر قبل البرنامج التشغيل:</translation>
+        <translation>أمر قبل البرنامج التشغيل:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="vanished">أمر المجمع:</translation>
+        <translation>أمر المجمع:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2039,7 +2039,7 @@ Some versions of Minecraft may not launch.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation type="vanished">أوامر مخصصة</translation>
+        <translation>أوامر مخصصة</translation>
     </message>
 </context>
 <context>
@@ -2407,7 +2407,7 @@ Are you sure?</source>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">التحقق إذا كان لدى الإضافات بيانات تعريف...</translation>
+        <translation>التحقق إذا كان لدى الإضافات بيانات تعريف...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2459,7 +2459,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation type="vanished">&amp;متغيرات بيئية</translation>
+        <translation>&amp;متغيرات بيئية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2496,7 +2496,7 @@ Are you sure?</source>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation type="vanished">متغيرات بيئية</translation>
+        <translation>متغيرات بيئية</translation>
     </message>
 </context>
 <context>
@@ -2599,11 +2599,11 @@ Are you sure?</source>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="vanished">&amp;الاسم</translation>
+        <translation>&amp;الاسم</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation type="vanished">%الإصدار</translation>
+        <translation>%الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2651,7 +2651,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation type="vanished">&amp;المؤلف</translation>
+        <translation>&amp;المؤلف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2836,7 +2836,7 @@ Are you sure?</source>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">الفلتر:</translation>
+        <translation>الفلتر:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2845,47 +2845,47 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;إضافة</translation>
+        <translation>&amp;إضافة</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">إضافة</translation>
+        <translation>إضافة</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">إزالة العنصر المختار</translation>
+        <translation>إزالة العنصر المختار</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">تفعيل العنصر المحدد</translation>
+        <translation>تفعيل العنصر المحدد</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="vanished">إلغاء تفعيل العنصر المحدد</translation>
+        <translation>إلغاء تفعيل العنصر المحدد</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">تنزيل مصدر جديد</translation>
+        <translation>تنزيل مصدر جديد</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">زيارة صفحة الإضافة</translation>
+        <translation>زيارة صفحة الإضافة</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">الذهاب إلى الصفحة الرئيسية للإضافات</translation>
+        <translation>الذهاب إلى الصفحة الرئيسية للإضافات</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
-        <translation type="vanished">حاول التحقق أو تحديث جميع الموارد المحددة (كل الموارد إن لم يحدد شيء)</translation>
+        <translation>حاول التحقق أو تحديث جميع الموارد المحددة (كل الموارد إن لم يحدد شيء)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">تصدير قائمة الإضافات</translation>
+        <translation>تصدير قائمة الإضافات</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">تصدير معلومات الاضافة لنص</translation>
+        <translation>تصدير معلومات الاضافة لنص</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -3065,12 +3065,12 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation type="vanished">تأكيد التعطيل</translation>
+        <translation>تأكيد التعطيل</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="vanished">إذا عطلت هذا المورد أثناء عمل اللعبة من الممكن أن تتعطل لعبتك.
+        <translation>إذا عطلت هذا المورد أثناء عمل اللعبة من الممكن أن تتعطل لعبتك.
 هل أنت متأكد أنك تريد فعل هذا؟</translation>
     </message>
     <message>
@@ -3143,16 +3143,16 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="vanished">محررات خارجية (اتركه فارغًا لاستخدام إفتراضيات النظام)‫</translation>
+        <translation>محررات خارجية (اتركه فارغًا لاستخدام إفتراضيات النظام)‫</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="vanished">&amp;محرر النصوص:</translation>
+        <translation>&amp;محرر النصوص:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation type="vanished">أدوات خارجية</translation>
+        <translation>أدوات خارجية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3214,17 +3214,17 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation type="vanished">ملف‫ JVisualVM التنفيذي</translation>
+        <translation>ملف‫ JVisualVM التنفيذي</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="vanished">حدث خطأ أثناء التحقق من تثبيت JVisualVM:
+        <translation>حدث خطأ أثناء التحقق من تثبيت JVisualVM:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="vanished">JVisualVM مثبت بشكل سليم</translation>
+        <translation>JVisualVM مثبت بشكل سليم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3251,7 +3251,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation type="vanished">محرر‫ JSON</translation>
+        <translation>محرر‫ JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3424,7 +3424,7 @@ Please try again.</source>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="vanished">جار استدعاء رد واجهة التطبيق من كورس فورج ل&apos;%1&apos;...</translation>
+        <translation>جار استدعاء رد واجهة التطبيق من كورس فورج ل&apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3463,15 +3463,15 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="vanished">جار تجهيز الإضافات ل كورس فورج...</translation>
+        <translation>جار تجهيز الإضافات ل كورس فورج...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">لا يوجد إصدار صالح لهذه الإضافة. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل الإضافات الحالي.</translation>
+        <translation>لا يوجد إصدار صالح لهذه الإضافة. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل الإضافات الحالي.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="vanished">يوجد تحديث جديد للإضافة, ولكن لا يمكن تحميله باستخدام كورس فورج.</translation>
+        <translation>يوجد تحديث جديد للإضافة, ولكن لا يمكن تحميله باستخدام كورس فورج.</translation>
     </message>
 </context>
 <context>
@@ -3843,11 +3843,11 @@ Please try again.</source>
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation type="vanished">المفتاح</translation>
+        <translation>المفتاح</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="vanished">القيمة</translation>
+        <translation>القيمة</translation>
     </message>
 </context>
 <context>
@@ -4237,11 +4237,11 @@ Please try again.</source>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation type="vanished">الاسم &amp;:</translation>
+        <translation>الاسم &amp;:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation type="vanished">المجموعة &amp;:</translation>
+        <translation>المجموعة &amp;:</translation>
     </message>
 </context>
 <context>
@@ -4429,19 +4429,19 @@ Please try again.</source>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation type="vanished">فتح الإعدادات العامة</translation>
+        <translation>فتح الإعدادات العامة</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="vanished">الإعدادات التي هنا ستتجاوز الإعدادات العامة.</translation>
+        <translation>الإعدادات التي هنا ستتجاوز الإعدادات العامة.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation type="vanished">تث&amp;بيت الجافا</translation>
+        <translation>تث&amp;بيت الجافا</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation type="vanished">الكشف‫ التلقائي...</translation>
+        <translation>الكشف‫ التلقائي...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4449,225 +4449,225 @@ Please try again.</source>
     </message>
     <message>
         <source>Test</source>
-        <translation type="vanished">اختبار</translation>
+        <translation>اختبار</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">عند تفعيله, لن يختبر المشغل توافق النموذج مع نسخة الجافا المختارة.</translation>
+        <translation>عند تفعيله, لن يختبر المشغل توافق النموذج مع نسخة الجافا المختارة.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="vanished">تخطي اختبارات توافق الجافا</translation>
+        <translation>تخطي اختبارات توافق الجافا</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="vanished">الذاكر&amp;ة</translation>
+        <translation>الذاكر&amp;ة</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">الحد الأدنى لاستخدام الذاكرة:</translation>
+        <translation>الحد الأدنى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">الحد الأقصى للذاكرة يُسمح لماين كرافت باستخدامه.</translation>
+        <translation>الحد الأقصى للذاكرة يُسمح لماين كرافت باستخدامه.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">حجم الذاكرة التي ستستخدمها ماين كرافت عند البدء.</translation>
+        <translation>حجم الذاكرة التي ستستخدمها ماين كرافت عند البدء.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">الذاكرة المتوفرة لتخزين كائنات الجافا المحمّلة.</translation>
+        <translation>الذاكرة المتوفرة لتخزين كائنات الجافا المحمّلة.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">الحد الأقصى لاستخدام الذاكرة:</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">تصفح</translation>
+        <translation>تصفح</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">حمل الجافا</translation>
+        <translation>حمل الجافا</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation type="vanished">بيرم جين:</translation>
+        <translation>بيرم جين:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="vanished">ملاحظة: يتم تعيين بيرم جين تلقائيًا بواسطة جافا 8 والنسخ الأحدث</translation>
+        <translation>ملاحظة: يتم تعيين بيرم جين تلقائيًا بواسطة جافا 8 والنسخ الأحدث</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation type="vanished">مدخلا&amp;ت‫ الجافا</translation>
+        <translation>مدخلا&amp;ت‫ الجافا</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation type="vanished">نوافذ اللعبة</translation>
+        <translation>نوافذ اللعبة</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation type="vanished">نافذة اللعبة</translation>
+        <translation>نافذة اللعبة</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="vanished">تشغيل ماين كرافت بإطار كبير</translation>
+        <translation>تشغيل ماين كرافت بإطار كبير</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation type="vanished">طول النافذة:</translation>
+        <translation>طول النافذة:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation type="vanished">عرض النافذة:</translation>
+        <translation>عرض النافذة:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation type="vanished">إعدادات لوحة &amp;التحكم</translation>
+        <translation>إعدادات لوحة &amp;التحكم</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="vanished">إظهار لوحة التحكم (الطرفية) أثناء تشغيل اللعبة</translation>
+        <translation>إظهار لوحة التحكم (الطرفية) أثناء تشغيل اللعبة</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">إغلاق لوحة التحكم تلقائياً عند الخروج من اللعبة</translation>
+        <translation>إغلاق لوحة التحكم تلقائياً عند الخروج من اللعبة</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="vanished">إظهار لوحة التحكم عند تعطل اللعبة</translation>
+        <translation>إظهار لوحة التحكم عند تعطل اللعبة</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="vanished">إغلاق المشغل بعد تشغيل نافذة اللعبة</translation>
+        <translation>إغلاق المشغل بعد تشغيل نافذة اللعبة</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="vanished">إغلاق المشغل بعد إيقاف نافذة اللعبة</translation>
+        <translation>إغلاق المشغل بعد إيقاف نافذة اللعبة</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation type="vanished">الأوامر المخصصة</translation>
+        <translation>الأوامر المخصصة</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="vanished">متغيرات البيئة</translation>
+        <translation>متغيرات البيئة</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation type="vanished">حلول جانبية</translation>
+        <translation>حلول جانبية</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation type="vanished">مكتبات الأصيلة</translation>
+        <translation>مكتبات الأصيلة</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="vanished">&amp;مسار مكتبة جي إل إف دابليو</translation>
+        <translation>&amp;مسار مكتبة جي إل إف دابليو</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="vanished">استخدم نسخة النظام جي إل إف دابليو</translation>
+        <translation>استخدم نسخة النظام جي إل إف دابليو</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="vanished">استخدم نسخة النظام من أوبن إي إل</translation>
+        <translation>استخدم نسخة النظام من أوبن إي إل</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="vanished">عوالم اللاعب الفردي</translation>
+        <translation>عوالم اللاعب الفردي</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="vanished">تجاوز الحساب الإفتراضي</translation>
+        <translation>تجاوز الحساب الإفتراضي</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">الحساب:</translation>
+        <translation>الحساب:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">متنوعات</translation>
+        <translation>متنوعات</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="vanished">&amp;مسار مكتبة أوبن إي إل</translation>
+        <translation>&amp;مسار مكتبة أوبن إي إل</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">الأداء</translation>
+        <translation>الأداء</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل الجيم مود ل&quot;فيرال إنتيراكتيف&quot;,قد يزيد أداء اللعب.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل الجيم مود ل&quot;فيرال إنتيراكتيف&quot;,قد يزيد أداء اللعب.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">تفعيل الجيم مود ل&quot;فيرال&quot;</translation>
+        <translation>تفعيل الجيم مود ل&quot;فيرال&quot;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل واجهة الأداء المتقدمة لمانغو هود. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل واجهة الأداء المتقدمة لمانغو هود. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">تفعيل مانغو هود</translation>
+        <translation>تفعيل مانغو هود</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;استخدم وحدة معالجة الرسومات المنفصلة بدل الأساسية.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;استخدم وحدة معالجة الرسومات المنفصلة بدل الأساسية.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">استخدم وحدة معالجة الرسومات المنفصلة</translation>
+        <translation>استخدم وحدة معالجة الرسومات المنفصلة</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="vanished">استخدم زينك, زينك هو برنامج تشغيل ميسا أوبن جي إل , يطبّق اوبن جي إل على فولكان. من الممكن أن تعتمد الجودة على الوضع. ملاحظة: إذا لم يتم العثور على برنامج تشغيل فولكان, سيتم استخدام التصيير البرمجي.</translation>
+        <translation>استخدم زينك, زينك هو برنامج تشغيل ميسا أوبن جي إل , يطبّق اوبن جي إل على فولكان. من الممكن أن تعتمد الجودة على الوضع. ملاحظة: إذا لم يتم العثور على برنامج تشغيل فولكان, سيتم استخدام التصيير البرمجي.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="vanished">استخدم زينك</translation>
+        <translation>استخدم زينك</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="vanished">إعدادات القديمة</translation>
+        <translation>إعدادات القديمة</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;.يحاكي استخدام الخدمات القديمة التي توقفت عن العمل &lt;/p&gt;&lt;p&gt;تتضمن الإصلاحات الحالية: دعم المظاهر و الوضع المتصل بالشبكة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;.يحاكي استخدام الخدمات القديمة التي توقفت عن العمل &lt;/p&gt;&lt;p&gt;تتضمن الإصلاحات الحالية: دعم المظاهر و الوضع المتصل بالشبكة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="vanished">تفعيل إصلاحات المتصلة بالشبكة (تجريبي)</translation>
+        <translation>تفعيل إصلاحات المتصلة بالشبكة (تجريبي)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation type="vanished">تجاوز إعدادات وقت اللعبة العامة</translation>
+        <translation>تجاوز إعدادات وقت اللعبة العامة</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="vanished">اظهر الوقت المبذول في لعب النموذج</translation>
+        <translation>اظهر الوقت المبذول في لعب النموذج</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation type="vanished">سجّل الوقت المبذول في لعب النموذج</translation>
+        <translation>سجّل الوقت المبذول في لعب النموذج</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="vanished">اختر وجهة للانضمام إليها عند التشغيل</translation>
+        <translation>اختر وجهة للانضمام إليها عند التشغيل</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="vanished">رابط الخادم:</translation>
+        <translation>رابط الخادم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4676,47 +4676,47 @@ Please try again.</source>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="vanished">المسار إلى ملف المكتبة %1</translation>
+        <translation>المسار إلى ملف المكتبة %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">لم يتم العثور علي الجيم مود لفيرال انتيراكتيف في جهازك.</translation>
+        <translation>لم يتم العثور علي الجيم مود لفيرال انتيراكتيف في جهازك.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">لم يتم العثور على مانجو هود في جهازك.</translation>
+        <translation>لم يتم العثور على مانجو هود في جهازك.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">اختر إصدار الجافا</translation>
+        <translation>اختر إصدار الجافا</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">تأكيد الاختيار</translation>
+        <translation>تأكيد الاختيار</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">إنك اخترت نسخة ال32 بت من الجافا
+        <translation>إنك اخترت نسخة ال32 بت من الجافا
 لا تدعم هذه النسخة اكثر من 2048 ميبي بايت للذاكرة المؤقتة
 تأكد من أن احد الأقصى لاستخدام الذاكرة أقل من الحد المطلوب.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">اعثر على ملف جافا التنفيذي</translation>
+        <translation>اعثر على ملف جافا التنفيذي</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">الحد الأقصى لاستخدام الذاكرة يتجاوز ذاكرة النظام.</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة يتجاوز ذاكرة النظام.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
     </message>
 </context>
 <context>
@@ -4817,7 +4817,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation type="vanished">تم تشغيل JVisualVM</translation>
+        <translation>تم تشغيل JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -4844,15 +4844,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="vanished">جار استخراج الجافا (العملية غير معلنة لأرشيفات تار)</translation>
+        <translation>جار استخراج الجافا (العملية غير معلنة لأرشيفات تار)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation type="vanished">فشلت محاولة فتح أرشيف تار الموفر.</translation>
+        <translation>فشلت محاولة فتح أرشيف تار الموفر.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="vanished">فشلت محاولة استخراج أرشيف تار الموفر.</translation>
+        <translation>فشلت محاولة استخراج أرشيف تار الموفر.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -4866,7 +4866,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation type="vanished">لم يتم تحديد نوع الأرشيف!</translation>
+        <translation>لم يتم تحديد نوع الأرشيف!</translation>
     </message>
 </context>
 <context>
@@ -4972,70 +4972,70 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation type="vanished">الذاكرة</translation>
+        <translation>الذاكرة</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">الحد الأقصى للذاكرة يسمح لماين كرافت باستخدامه.</translation>
+        <translation>الحد الأقصى للذاكرة يسمح لماين كرافت باستخدامه.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="vanished">&amp;الحد الأدنى لاستخدام الذاكرة:</translation>
+        <translation>&amp;الحد الأدنى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="vanished">&amp;الحد الأقصى لاستخدام الذاكرة:</translation>
+        <translation>&amp;الحد الأقصى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation type="vanished">&amp;بيرم جن:</translation>
+        <translation>&amp;بيرم جن:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">الذاكرة التي تستخدمها ماين كرافت عند البدء.</translation>
+        <translation>الذاكرة التي تستخدمها ماين كرافت عند البدء.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">الذاكرة المتوفرة لتخزين كائنات الجافا المحمّلة.</translation>
+        <translation>الذاكرة المتوفرة لتخزين كائنات الجافا المحمّلة.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation type="vanished">نظام تنفيذ الجافا</translation>
+        <translation>نظام تنفيذ الجافا</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation type="vanished">وسائط آلة جافا الافتراضية:</translation>
+        <translation>وسائط آلة جافا الافتراضية:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="vanished">يختار نسخة الجافا المتوافقة مع نموذج ماين كرافت الحالي تلقائيا, بناء على الإصدار الرئيسي المطلوب.</translation>
+        <translation>يختار نسخة الجافا المتوافقة مع نموذج ماين كرافت الحالي تلقائيا, بناء على الإصدار الرئيسي المطلوب.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">اختر نسخة الجافا تلقائيا</translation>
+        <translation>اختر نسخة الجافا تلقائيا</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="vanished">مسار الجافا:</translation>
+        <translation>مسار الجافا:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="vanished">يحمل ويختار نسخة الجافا المستحسنة من موجانغ تلقائيا.</translation>
+        <translation>يحمل ويختار نسخة الجافا المستحسنة من موجانغ تلقائيا.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">تحميل الجافا لموجانغ تلقائيا</translation>
+        <translation>تحميل الجافا لموجانغ تلقائيا</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation type="vanished">الإدارة</translation>
+        <translation>الإدارة</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation type="vanished">نسخ الجافا المحملة</translation>
+        <translation>نسخ الجافا المحملة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5065,33 +5065,33 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="vanished">&amp;الكشف‫ التلقائي...</translation>
+        <translation>&amp;الكشف‫ التلقائي...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="vanished">&amp;اختبار</translation>
+        <translation>&amp;اختبار</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">تصفح</translation>
+        <translation>تصفح</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="vanished">عند التفعيل, لن يطالب المشغل اختيار نسخة جافا في حال عدم العثور عليها.</translation>
+        <translation>عند التفعيل, لن يطالب المشغل اختيار نسخة جافا في حال عدم العثور عليها.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="vanished">تخطى &amp;ساحر الجافا</translation>
+        <translation>تخطى &amp;ساحر الجافا</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">عند التفعيل, لن يختبر المشغل توافق النموذج مع نسخة الجافا المختارة.</translation>
+        <translation>عند التفعيل, لن يختبر المشغل توافق النموذج مع نسخة الجافا المختارة.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="vanished">&amp;تخطى اختبارات توافق الجافا</translation>
+        <translation>&amp;تخطى اختبارات توافق الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5112,35 +5112,35 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">اختر إصدار الجافا</translation>
+        <translation>اختر إصدار الجافا</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">تأكيد الاختيار</translation>
+        <translation>تأكيد الاختيار</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">إنك اخترت نسخة ال32 بت من الجافا
+        <translation>إنك اخترت نسخة ال32 بت من الجافا
 لا تدعم هذه النسخة اكثر من 2048 ميبي بايت للذاكرة المؤقتة
 تأكد من أن احد الأقصى لاستخدام الذاكرة أقل من الحد المطلوب.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">اعثر‫ على ملف جافا التنفيذي</translation>
+        <translation>اعثر‫ على ملف جافا التنفيذي</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">الحد الأقصى لاستخدام الذاكرة يتجاوز ذاكرة النظام.</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة يتجاوز ذاكرة النظام.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5159,15 +5159,15 @@ Are you sure?</source>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation type="vanished">لم يتم تحديد نسخة الجافا</translation>
+        <translation>لم يتم تحديد نسخة الجافا</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">حمل الجافا</translation>
+        <translation>حمل الجافا</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="vanished">عثر على نسخة جافا 32 بت</translation>
+        <translation>عثر على نسخة جافا 32 بت</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5176,7 +5176,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">إنك اخترت نسخة ال32 بت من الجافا, ولكنك خصصت اكثر من 2048 ميبي بايت من الذاكرة كحد أقصى.
+        <translation>إنك اخترت نسخة ال32 بت من الجافا, ولكنك خصصت اكثر من 2048 ميبي بايت من الذاكرة كحد أقصى.
 لن يتمكن %1 من بدء ماين كرافت.
 هل تريد الاستمرار؟
 
@@ -5190,7 +5190,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">إنك اخترت نسخة جافا غير عملية أو أنك لم تختر أي نسخة.
+        <translation>إنك اخترت نسخة جافا غير عملية أو أنك لم تختر أي نسخة.
 لن يتمكن %1 من بدء ماين كرافت.
 هل تريد الاستمرار بدون نسخة عملية لجافا؟
 
@@ -5204,7 +5204,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="vanished">الذاكرة</translation>
+        <translation>الذاكرة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5213,7 +5213,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">الحد الأدنى لاستخدام الذاكرة:</translation>
+        <translation>الحد الأدنى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5315,7 +5315,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">الحد الأقصى لاستخدام الذاكرة:</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5354,19 +5354,19 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">تصفح</translation>
+        <translation>تصفح</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">تحميل الجافا لموجانغ تلقائيا</translation>
+        <translation>تحميل الجافا لموجانغ تلقائيا</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">اختر نسخة الجافا تلقائيا</translation>
+        <translation>اختر نسخة الجافا تلقائيا</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="vanished">كشف التلقائي للجافا</translation>
+        <translation>كشف التلقائي للجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5404,15 +5404,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="vanished">إنك تتخطى الحد الأقصى المدعوم من قبل نسخ ال32 بت للجافا.</translation>
+        <translation>إنك تتخطى الحد الأقصى المدعوم من قبل نسخ ال32 بت للجافا.</translation>
     </message>
 </context>
 <context>
@@ -5694,7 +5694,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation type="vanished">العب من دون اتصال</translation>
+        <translation>العب من دون اتصال</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
@@ -5718,7 +5718,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="vanished">تم تغيير تعريف العميل للمشغل. يرجى إزالة هذا الحساب وإعادة المحاولة.</translation>
+        <translation>تم تغيير تعريف العميل للمشغل. يرجى إزالة هذا الحساب وإعادة المحاولة.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -5727,7 +5727,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="vanished">هذا الحساب لم يعد موجودا على الخوادم. يحتمل أن تم نقله, في هذا الحال يجب عليك إضافة حساب جديد الذي نقلت هذا إليه.</translation>
+        <translation>هذا الحساب لم يعد موجودا على الخوادم. يحتمل أن تم نقله, في هذا الحال يجب عليك إضافة حساب جديد الذي نقلت هذا إليه.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -5821,7 +5821,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">انتهت صلاحية الحساب ويجب تسجيل الدخول يدويا مرة أخرى.</translation>
+        <translation>انتهت صلاحية الحساب ويجب تسجيل الدخول يدويا مرة أخرى.</translation>
     </message>
 </context>
 <context>
@@ -5870,11 +5870,11 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation type="vanished">الميّزات</translation>
+        <translation>الميّزات</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation type="vanished">إعدادات التحديث</translation>
+        <translation>إعدادات التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6004,15 +6004,15 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Update interval</source>
-        <translation type="vanished">فترة التحديث</translation>
+        <translation>فترة التحديث</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="vanished">اجعله 0 لكي يتم التأكيد فقط عند التشغيل</translation>
+        <translation>اجعله 0 لكي يتم التأكيد فقط عند التشغيل</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="vanished">س</translation>
+        <translation>س</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
@@ -6022,19 +6022,19 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="vanished">تعطيل الاكتشاف التلقائي وتثبيت وتحديث تبعيات الإضافات.</translation>
+        <translation>تعطيل الاكتشاف التلقائي وتثبيت وتحديث تبعيات الإضافات.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">متنوعات</translation>
+        <translation>متنوعات</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation type="vanished">عدد المهام المتزامنة</translation>
+        <translation>عدد المهام المتزامنة</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation type="vanished">عدد التحميلات المتزامنة</translation>
+        <translation>عدد التحميلات المتزامنة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
@@ -6043,7 +6043,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation type="vanished">وضع ترتيب عرض النموذج</translation>
+        <translation>وضع ترتيب عرض النموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6058,11 +6058,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Theme</source>
-        <translation type="vanished">النسق</translation>
+        <translation>النسق</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="vanished">الإضافات</translation>
+        <translation>الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
@@ -6071,17 +6071,17 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation type="vanished">ابحث في مجلد التنزيلات بشكل مكرر</translation>
+        <translation>ابحث في مجلد التنزيلات بشكل مكرر</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="vanished">تعطيل استخدام بيانات التعريف المزودة من قبل موفري الإضافات(مثل مودرينث و كورس فورج) للإضافات.</translation>
+        <translation>تعطيل استخدام بيانات التعريف المزودة من قبل موفري الإضافات(مثل مودرينث و كورس فورج) للإضافات.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="vanished">تعطيل استخدام بيانات التعريف للإضافات</translation>
+        <translation>تعطيل استخدام بيانات التعريف للإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6095,15 +6095,15 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation type="vanished">تعطيل إدارة التلقائية لتبعيات الإضافات</translation>
+        <translation>تعطيل إدارة التلقائية لتبعيات الإضافات</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="vanished">عند إنشاء نموذج حزمة إضافات جديد, لا تقترح تحديث النماذج الحالية.</translation>
+        <translation>عند إنشاء نموذج حزمة إضافات جديد, لا تقترح تحديث النماذج الحالية.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation type="vanished">تخطى أوامر تحديث حزمة الإضافات</translation>
+        <translation>تخطى أوامر تحديث حزمة الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6112,7 +6112,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation type="vanished">مدة مهلة طلبات الHTTP</translation>
+        <translation>مدة مهلة طلبات الHTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6121,7 +6121,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation type="vanished">عدد التكرارات اليدوية</translation>
+        <translation>عدد التكرارات اليدوية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6135,23 +6135,23 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Cat</source>
-        <translation type="vanished">قط</translation>
+        <translation>قط</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="vanished">تعيين شفافية القط. 0% شفاف تماما و 100% كامد تماما.</translation>
+        <translation>تعيين شفافية القط. 0% شفاف تماما و 100% كامد تماما.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="vanished">الشفافية</translation>
+        <translation>الشفافية</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="vanished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="vanished">الأدوات</translation>
+        <translation>الأدوات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6216,27 +6216,27 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Console Settings</source>
-        <translation type="vanished">إعدادات الطرفية</translation>
+        <translation>إعدادات الطرفية</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="vanished">إظهار الطرفية عند عمل اللعبة</translation>
+        <translation>إظهار الطرفية عند عمل اللعبة</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">إغلاق الطرفية تلقائياً عند الخروج من اللعبة</translation>
+        <translation>إغلاق الطرفية تلقائياً عند الخروج من اللعبة</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="vanished">إظهار الطرفية عند تعطل اللعبة</translation>
+        <translation>إظهار الطرفية عند تعطل اللعبة</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="vanished">حد التاريخ</translation>
+        <translation>حد التاريخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6252,7 +6252,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="vanished">خط الطرفية</translation>
+        <translation>خط الطرفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6316,31 +6316,31 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="vanished">[اختبار\خطأ] أووووووووووو! خطأ مخيف!</translation>
+        <translation>[اختبار\خطأ] أووووووووووو! خطأ مخيف!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="vanished">[اختبار\خطأ] خطأ مخيف!</translation>
+        <translation>[اختبار\خطأ] خطأ مخيف!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="vanished">[اختبار\تحذير] تحذير غير مخيف للغاية.</translation>
+        <translation>[اختبار\تحذير] تحذير غير مخيف للغاية.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="vanished">[اختبار\تصحيح الأخطاء] رسالة تصحيح أخطاء سرية...</translation>
+        <translation>[اختبار\تصحيح الأخطاء] رسالة تصحيح أخطاء سرية...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="vanished">[اختبار\قاتل] خطأ قاتل مرعب!</translation>
+        <translation>[اختبار\قاتل] خطأ قاتل مرعب!</translation>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="vanished">[اختبار\معلومات] رسالة غير ضارة...</translation>
+        <translation>[اختبار\معلومات] رسالة غير ضارة...</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation type="vanished">المشغل</translation>
+        <translation>المشغل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6448,7 +6448,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation type="vanished">فشل في فتح حزمة الإضافات %1!</translation>
+        <translation>فشل في فتح حزمة الإضافات %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -6664,12 +6664,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">جار تحديث الفهرس للإضافة:
+        <translation>جار تحديث الفهرس للإضافة:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">بيانات تعريف غير صالحة</translation>
+        <translation>بيانات تعريف غير صالحة</translation>
     </message>
 </context>
 <context>
@@ -6742,7 +6742,7 @@ Reason:
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">البحث:</translation>
+        <translation>البحث:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -6854,7 +6854,7 @@ Reason:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation type="vanished">تعذر الإنشاء:</translation>
+        <translation>تعذر الإنشاء:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -6871,7 +6871,11 @@ Reason:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation type="vanished">فشلت محاولة فتح أرشيف زيب الموفر.</translation>
+        <translation>فشلت محاولة فتح أرشيف زيب الموفر.</translation>
+    </message>
+    <message>
+        <source>Failed to seek to first file in zip</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -6900,7 +6904,7 @@ Reason:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="obsolete">تعذر إصلاح الأذونات لـ %1</translation>
+        <translation type="unfinished">تعذر إصلاح الأذونات لـ %1</translation>
     </message>
 </context>
 <context>
@@ -6994,6 +6998,14 @@ Reason:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="204"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>افتح %1 أو افحص رمز المربّع وادخل الرمز في الأعلى إذا طلب.</translation>
+    </message>
+    <message>
+        <source>Open %1 or scan the QR and enter the above code.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open %1 and enter the above code.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7968,6 +7980,90 @@ Are you sure?</source>
         <translation type="vanished">تعذر إنشاء مجلد لتنزيلات التحديث:
 %1</translation>
     </message>
+    <message>
+        <source>More news...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creates a shortcut on your desktop to launch the selected instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to delete &quot;%1&quot;.
+This may be permanent and will completely delete the instance.
+
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are linked instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>The following instance(s) might reference files in this instance:
+
+%1
+
+Deleting it could break the other instance(s), 
+
+Do you wish to proceed?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Create instance shortcut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t find desktop?!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create instance Application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create icon for Application.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create icon for shortcut.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not supported on your platform!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created a shortcut to this instance on your desktop!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created a shortcut to this instance!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create instance shortcut!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ManagedPackPage</name>
@@ -8099,6 +8195,22 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="333"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>فشل تحديث الحزمة إلى الإصدار %1. تحقق من السجل لمزيد من المعلومات.</translation>
+    </message>
+    <message>
+        <source>Pack information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pack name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update pack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8239,97 +8351,141 @@ This can be updated only using a file in %1 format
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation type="vanished">حجم النافذة</translation>
+        <translation>حجم النافذة</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="obsolete">تشغيل ماينكرافت بوضع الإطار الكبير؟</translation>
+        <translation type="unfinished">تشغيل ماينكرافت بوضع الإطار الكبير؟</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="obsolete">طو&amp;ل النافذة:</translation>
+        <translation type="unfinished">طو&amp;ل النافذة:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="obsolete">عر&amp;ض النافذة:</translation>
+        <translation type="unfinished">عر&amp;ض النافذة:</translation>
+    </message>
+    <message>
+        <source>Game time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show time spent &amp;playing instances</source>
+        <translation type="unfinished">عرض الوقت المبذول في لعب النموذج</translation>
+    </message>
+    <message>
+        <source>Show time spent playing across &amp;all instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record time spent playing instances</source>
+        <translation type="unfinished">سجّل الوقت المبذول في لعب النموذج</translation>
+    </message>
+    <message>
+        <source>Show time spent playing in hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close the launcher after game window opens</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Quit the launcher after game window closes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tweaks</source>
+        <translation type="unfinished">التعديلات</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="obsolete">إعدادات القديمة</translation>
+        <translation type="unfinished">إعدادات القديمة</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;.يحاكي استخدام الخدمات القديمة التي توقفت عن العمل &lt;/p&gt;&lt;p&gt;تتضمن الإصلاحات الحالية: دعم المظاهر و الوضع المتصل بالشبكة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;.يحاكي استخدام الخدمات القديمة التي توقفت عن العمل &lt;/p&gt;&lt;p&gt;تتضمن الإصلاحات الحالية: دعم المظاهر و الوضع المتصل بالشبكة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="obsolete">تفعيل إصلاحات المتصلة بالشبكة (تجريبي)</translation>
+        <translation type="unfinished">تفعيل إصلاحات المتصلة بالشبكة (تجريبي)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation type="vanished">حلول المكتبات الأصيلة</translation>
+        <translation>حلول المكتبات الأصيلة</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="obsolete">استخدم نسخة النظام من GLFW</translation>
+        <translation type="unfinished">استخدم نسخة النظام من GLFW</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="obsolete">&amp;مسار مكتبة جي إل إف دابليو</translation>
+        <translation type="unfinished">&amp;مسار مكتبة جي إل إف دابليو</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="obsolete">استخدم نسخة النظام من OpenAL</translation>
+        <translation type="unfinished">استخدم نسخة النظام من OpenAL</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="obsolete">&amp;مسار مكتبة أوبن إي إل</translation>
+        <translation type="unfinished">&amp;مسار مكتبة أوبن إي إل</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="obsolete">الأداء</translation>
+        <translation type="unfinished">الأداء</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل الجيم مود ل&quot;فيرال إنتيراكتيف&quot;,قد يزيد أداء اللعب.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل الجيم مود ل&quot;فيرال إنتيراكتيف&quot;,قد يزيد أداء اللعب.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">تفعيل الجيم مود ل&quot;فيرال&quot;</translation>
+        <translation>تفعيل الجيم مود ل&quot;فيرال&quot;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل واجهة الأداء المتقدمة لمانغو هود. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل واجهة الأداء المتقدمة لمانغو هود. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="obsolete">تفعيل مانغو هود</translation>
+        <translation type="unfinished">تفعيل مانغو هود</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;استخدم وحدة معالجة الرسومات المنفصلة بدل الأساسية.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;استخدم وحدة معالجة الرسومات المنفصلة بدل الأساسية.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="obsolete">استخدم وحدة معالجة الرسومات المنفصلة</translation>
+        <translation type="unfinished">استخدم وحدة معالجة الرسومات المنفصلة</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="obsolete">استخدم زينك</translation>
+        <translation type="unfinished">استخدم زينك</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="obsolete">عام</translation>
+        <translation type="unfinished">عام</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="obsolete">متنوعة</translation>
+        <translation type="unfinished">متنوعة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -8338,15 +8494,19 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="obsolete">المسار إلى ملف المكتبة %1</translation>
+        <translation type="unfinished">المسار إلى ملف المكتبة %1</translation>
+    </message>
+    <message>
+        <source>Auto detected path: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="obsolete">لم يتم العثور علي الجيم مود لفيرال انتيراكتيف في جهازك.</translation>
+        <translation type="unfinished">لم يتم العثور علي الجيم مود لفيرال انتيراكتيف في جهازك.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="obsolete">لم يتم العثور على مانجو هود في جهازك.</translation>
+        <translation type="unfinished">لم يتم العثور على مانجو هود في جهازك.</translation>
     </message>
 </context>
 <context>
@@ -8893,7 +9053,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="obsolete">غير معروف</translation>
+        <translation type="unfinished">غير معروف</translation>
+    </message>
+    <message>
+        <source>Where the mod was downloaded from.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -9245,16 +9409,60 @@ Are you sure?</source>
         <translation>الإضافات</translation>
     </message>
     <message>
+        <source>Download mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add a locally downloaded file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Verify Dependencies</source>
-        <translation type="obsolete">التحقق من التبعيات</translation>
+        <translation type="unfinished">التحقق من التبعيات</translation>
+    </message>
+    <message>
+        <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove mod&apos;s metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to mod&apos;s home page</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">تغيير الإصدار</translation>
+        <translation type="unfinished">تغيير الإصدار</translation>
+    </message>
+    <message>
+        <source>Change mod version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">زيارة صفحة الإضافة</translation>
+        <translation>زيارة صفحة الإضافة</translation>
+    </message>
+    <message>
+        <source>Visit mods&apos; pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to the pages of the selected mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please install a mod loader first!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9305,20 +9513,125 @@ Are you sure?</source>
 <context>
     <name>ModUpdateDialog</name>
     <message>
+        <source>Confirm mods to update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You&apos;re about to update the following mods:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only mods with a check will be updated!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata generation failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error</source>
-        <translation type="obsolete">خطأ</translation>
+        <translation type="unfinished">خطأ</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="obsolete">تحذيرات</translation>
+        <translation type="unfinished">تحذيرات</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="obsolete">إنهاء</translation>
+        <translation type="unfinished">إنهاء</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod name: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
+        <extracomment>%1 is the link to download it manually</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to check for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking for dependencies...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generating metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Provider: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="obsolete">ليس مثبت</translation>
+        <translation type="unfinished">ليس مثبت</translation>
+    </message>
+    <message>
+        <source>Old version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Version Type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Required by: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Required by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changelog of the latest version</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9413,8 +9726,12 @@ Please update %1!</source>
         <translation>جار انتظار رد واجهة التطبيق من مودرينث...</translation>
     </message>
     <message>
+        <source>Preparing mods for Modrinth...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">لا يوجد إصدار صالح لهذه الإضافة. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل الإضافات الحالي.</translation>
+        <translation>لا يوجد إصدار صالح لهذه الإضافة. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل الإضافات الحالي.</translation>
     </message>
 </context>
 <context>
@@ -9871,27 +10188,27 @@ Please update %1!</source>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation type="obsolete">إضافة حساب</translation>
+        <translation type="unfinished">إضافة حساب</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="vanished">اسم المستخدم</translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="vanished">اسماء اطول من 16 حرف لا يمكن استعماله عند العاب الشبكة المحلية وا سيرفير عير متصل</translation>
+        <translation>اسماء اطول من 16 حرف لا يمكن استعماله عند العاب الشبكة المحلية وا سيرفير عير متصل</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation type="vanished">سماح بأسماء طويلة</translation>
+        <translation>سماح بأسماء طويلة</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">إلغاء</translation>
+        <translation type="unfinished">إلغاء</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="obsolete">موافق</translation>
+        <translation type="unfinished">موافق</translation>
     </message>
 </context>
 <context>
@@ -9931,7 +10248,7 @@ Please update %1!</source>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">اعثر</translation>
+        <translation>اعثر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -10020,32 +10337,32 @@ Please update %1!</source>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation type="vanished">امسح التقرير</translation>
+        <translation>امسح التقرير</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">حذف</translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="obsolete">رفع التقرير على خدمة paste.ee - ستبقى متوفرة لمدة شهر.</translation>
+        <translation type="unfinished">رفع التقرير على خدمة paste.ee - ستبقى متوفرة لمدة شهر.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">رفع</translation>
+        <translation>رفع</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation type="vanished">تنظيف</translation>
+        <translation>تنظيف</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">إعادة التحميل</translation>
+        <translation>إعادة التحميل</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">البحث:</translation>
+        <translation>البحث:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -10072,7 +10389,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation type="vanished">لا يمكن قراءة الملف (%1).</translation>
+        <translation>لا يمكن قراءة الملف (%1).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -10149,7 +10466,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Other logs</source>
-        <translation type="vanished">تقارير أخرى</translation>
+        <translation>تقارير أخرى</translation>
     </message>
 </context>
 <context>
@@ -10174,7 +10491,7 @@ Are you sure?</source>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation type="obsolete">إغلاق</translation>
+        <translation type="unfinished">إغلاق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -10197,6 +10514,34 @@ Are you sure?</source>
     <message>
         <source>Log Upload</source>
         <translation type="obsolete">رفع التقارير</translation>
+    </message>
+</context>
+<context>
+    <name>PasteUpload</name>
+    <message>
+        <source>Uploading to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: %1 returned unexpected status code %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: %1 returned a malformed response body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: %1 returned an error: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: %1 returned an error code: %2
+Error message: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10833,6 +11178,10 @@ HTTP Status: %2</source>
         <source>The server responded with the following error:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The server returned the following error:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProgressDialog</name>
@@ -10888,7 +11237,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="vanished">الافتر&amp;اضي</translation>
+        <translation>الافتر&amp;اضي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -11021,9 +11370,19 @@ HTTP Status: %2</source>
         <translation type="vanished">&lt;p&gt;تستطيع &lt;a href=&quot;%1&quot;&gt;إلقاء نظرة على التغييرات من خلال جيتهب &lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
+        <source>Website</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Developers</source>
+        <comment>About Credits</comment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation type="vanished">مع الشكر إلى</translation>
+        <translation>مع الشكر إلى</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -11076,7 +11435,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="vanished">الرفع باء بالفشل</translation>
+        <translation>الرفع باء بالفشل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -11354,7 +11713,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="obsolete">ثنائية جافا المحددة لم تعمل.&lt;br /&gt;عليك باستخدام ميزة الكشف-التلقائي، أو ضبط المسار لملف جافا التنفيذي.&lt;br /&gt;</translation>
+        <translation type="unfinished">ثنائية جافا المحددة لم تعمل.&lt;br /&gt;عليك باستخدام ميزة الكشف-التلقائي، أو ضبط المسار لملف جافا التنفيذي.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -11382,7 +11741,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation type="vanished">مسار غير صالح لـ JVisualVM</translation>
+        <translation>مسار غير صالح لـ JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -11577,7 +11936,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="obsolete">تعذر إصلاح الأذونات لـ %1</translation>
+        <translation type="unfinished">تعذر إصلاح الأذونات لـ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -11929,6 +12288,10 @@ Error message: %3</source>
         <source>With special thanks to</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>No author(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Resource</name>
@@ -11972,7 +12335,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="obsolete">تغيير الإصدار %1</translation>
+        <translation type="unfinished">تغيير الإصدار %1</translation>
     </message>
 </context>
 <context>
@@ -12382,11 +12745,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12504,12 +12869,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation type="vanished">حزم الموارد</translation>
+        <translation>حزم الموارد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -12621,6 +12990,14 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download resource packs from online platforms</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12871,6 +13248,14 @@ Are you sure?</source>
         <source>Toggle Dependencies</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>This download will be placed in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ScreenshotsPage</name>
@@ -13110,7 +13495,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Latency</source>
-        <translation type="vanished">زمن الوصول</translation>
+        <translation>زمن الوصول</translation>
     </message>
 </context>
 <context>
@@ -13344,6 +13729,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download shaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download shaders from online platforms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shader packs</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13757,7 +14154,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="vanished">لا يمكن فتح الملف المحدد لحزمة الإضافات المضغوطة.</translation>
+        <translation>لا يمكن فتح الملف المحدد لحزمة الإضافات المضغوطة.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -13973,16 +14370,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14115,20 +14515,48 @@ Are you sure you want to do this?</source>
 Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Download packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download texture packs from online platforms</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ThemeCustomizationWidget</name>
     <message>
+        <source>&amp;Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View icon themes folder.</source>
-        <translation type="obsolete">عرض مجلد اشكال الأيقونات.</translation>
+        <translation type="unfinished">عرض مجلد اشكال الأيقونات.</translation>
+    </message>
+    <message>
+        <source>&amp;Widgets</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="obsolete">عرض مجلد سمات القطعة</translation>
+        <translation type="unfinished">عرض مجلد سمات القطعة</translation>
+    </message>
+    <message>
+        <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;at</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="obsolete">عرض مجلد مجموعات القطط</translation>
+        <translation type="unfinished">عرض مجلد مجموعات القطط</translation>
+    </message>
+    <message>
+        <source>Refresh all</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14141,6 +14569,26 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WizardPage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the Theme you wish to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Preview:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14367,7 +14815,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="obsolete">المرشِّح:</translation>
+        <translation type="unfinished">المرشِّح:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -15171,11 +15619,11 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation type="vanished">حزم البيانات</translation>
+        <translation>حزم البيانات</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation type="vanished">إدارة حزم البيانات للعالم.</translation>
+        <translation>إدارة حزم البيانات للعالم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -15203,7 +15651,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation type="vanished">افتح مجلد حزم بيانات العالم</translation>
+        <translation>افتح مجلد حزم بيانات العالم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

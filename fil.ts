@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation type="vanished">Susi sa API</translation>
+        <translation>Susi sa API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,16 +88,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="vanished">(Default)</translation>
+        <translation>(Default)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="vanished">Ilagay ang custom client ID para sa Awtentikasyon sa Microsoft rito.</translation>
+        <translation>Ilagay ang custom client ID para sa Awtentikasyon sa Microsoft rito.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation type="vanished">API ng &amp;Modrinth</translation>
+        <translation>API ng &amp;Modrinth</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,15 +106,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="vanished">Ilagay ang custom API token para sa Modrinth rito.</translation>
+        <translation>Ilagay ang custom API token para sa Modrinth rito.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="vanished">(Wala)</translation>
+        <translation>(Wala)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="vanished">Technic Client ID</translation>
+        <translation>Technic Client ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="vanished">Maglagay ng custom GUID client ID para sa Technic dito.</translation>
+        <translation>Maglagay ng custom GUID client ID para sa Technic dito.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Mga iba pa</translation>
+        <translation>Mga iba pa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="vanished">Ilagay rito ang URL para sa custom metadata.</translation>
+        <translation>Ilagay rito ang URL para sa custom metadata.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation type="vanished">Core API ng &amp;CurseForge</translation>
+        <translation>Core API ng &amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="vanished">Ilagay ang custom API Key para sa CurseForge rito.</translation>
+        <translation>Ilagay ang custom API Key para sa CurseForge rito.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation type="vanished">Mga API</translation>
+        <translation>Mga API</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation type="vanished">Nagkaproblema sa pagbukas ng config ng pack %1!</translation>
+        <translation>Nagkaproblema sa pagbukas ng config ng pack %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -423,37 +423,37 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="vanished">Hindi naka-tsek</translation>
+        <translation>Hindi naka-tsek</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="vanished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="vanished">Handa</translation>
+        <translation>Handa</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="vanished">Gumagana</translation>
+        <translation>Gumagana</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="vanished">May nakuhang mali</translation>
+        <translation>May nakuhang mali</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="vanished">Lumipas na</translation>
+        <translation>Lumipas na</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="vanished">Wala na</translation>
+        <translation>Wala na</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -473,7 +473,7 @@
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="vanished">Hindi kilala</translation>
+        <translation>Hindi kilala</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -541,7 +541,7 @@
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="vanished">Hindi bukas</translation>
+        <translation>Hindi bukas</translation>
     </message>
 </context>
 <context>
@@ -1107,7 +1107,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="vanished">Kinukuha ang mga asset file mula sa Mojang...</translation>
+        <translation>Kinukuha ang mga asset file mula sa Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1475,11 +1475,11 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt;Ang iyong naka-configure na global mods folder at default na pang-download na folder ay awtomatikong itsine-tsek para sa na-download na mga mod at makokopya sila sa instance kung saan natatagpuan.&lt;/p&gt;&lt;p&gt;Opsyonal na i-drag at i-drop ang na-download na mga mod papunta sa dialog na ito o magdagdag ng isang folder upang panoorin kung hindi mo na-download ang mga mod sa isang default na lokasyon.&lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt;Ang iyong naka-configure na global mods folder at default na pang-download na folder ay awtomatikong itsine-tsek para sa na-download na mga mod at makokopya sila sa instance kung saan natatagpuan.&lt;/p&gt;&lt;p&gt;Opsyonal na i-drag at i-drop ang na-download na mga mod papunta sa dialog na ito o magdagdag ng isang folder upang panoorin kung hindi mo na-download ang mga mod sa isang default na lokasyon.&lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation type="vanished">Mga Napanood na Folder:</translation>
+        <translation>Mga Napanood na Folder:</translation>
     </message>
 </context>
 <context>
@@ -1623,7 +1623,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation type="vanished">Nabigo ang isa o nakakarami pa na sub-task</translation>
+        <translation>Nabigo ang isa o nakakarami pa na sub-task</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1865,7 +1865,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation type="vanished">Mga core mods</translation>
+        <translation>Mga core mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2005,22 +2005,22 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="vanished">&amp;Mga Custom Command</translation>
+        <translation>&amp;Mga Custom Command</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="vanished">M&amp;ga command na para sa pagtapos ng pag-sara:</translation>
+        <translation>M&amp;ga command na para sa pagtapos ng pag-sara:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="vanished">&amp;Mga command na uuna bago bumukas:</translation>
+        <translation>&amp;Mga command na uuna bago bumukas:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="vanished">&amp;Mga Wrapper Command:</translation>
+        <translation>&amp;Mga Wrapper Command:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2053,7 +2053,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation type="vanished">Mga Custom Command</translation>
+        <translation>Mga Custom Command</translation>
     </message>
 </context>
 <context>
@@ -2394,7 +2394,7 @@ Are you sure?</source>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Sinusuri kung may metadata ang mga mods…</translation>
+        <translation>Sinusuri kung may metadata ang mga mods…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2446,7 +2446,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation type="vanished">&amp;Mga Pinagbago sa Environment</translation>
+        <translation>&amp;Mga Pinagbago sa Environment</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2483,7 +2483,7 @@ Are you sure?</source>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation type="vanished">Mga Pinagbago sa Environment</translation>
+        <translation>Mga Pinagbago sa Environment</translation>
     </message>
 </context>
 <context>
@@ -2562,11 +2562,11 @@ Are you sure?</source>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="vanished">&amp;Pangalan</translation>
+        <translation>&amp;Pangalan</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation type="vanished">&amp;Bersyon</translation>
+        <translation>&amp;Bersyon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2610,7 +2610,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation type="vanished">&amp;Awtor</translation>
+        <translation>&amp;Awtor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2790,7 +2790,7 @@ Are you sure?</source>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Pan-sala:</translation>
+        <translation>Pan-sala:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2799,11 +2799,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;I-dagdag</translation>
+        <translation>&amp;I-dagdag</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">I-dagdag</translation>
+        <translation>I-dagdag</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2812,7 +2812,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Tanggalin ang pinili na item</translation>
+        <translation>Tanggalin ang pinili na item</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2821,7 +2821,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Buksan ang pinili na item</translation>
+        <translation>Buksan ang pinili na item</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -2936,7 +2936,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Mag-download ng bagong resource</translation>
+        <translation>Mag-download ng bagong resource</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -2946,23 +2946,27 @@ Are you sure?</source>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">I-suri o i-bago ang lahat ng nakaselektong mga resources (lahat kung walang nai-select)</translation>
+        <translation>I-suri o i-bago ang lahat ng nakaselektong mga resources (lahat kung walang nai-select)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">i-export ang modlist</translation>
+        <translation>i-export ang modlist</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">I-export ang metadata ng mod sa text</translation>
+        <translation>I-export ang metadata ng mod sa text</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Bisitahin ang pahina ng mod</translation>
+        <translation>Bisitahin ang pahina ng mod</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Puntahan ang pahina ng mod</translation>
+        <translation>Puntahan ang pahina ng mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
@@ -3016,12 +3020,12 @@ Sigurado ka ba sa gagawin mo?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation type="vanished">I-kumpirma ang pag-disable</translation>
+        <translation>I-kumpirma ang pag-disable</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="vanished">Kung pinatay mo ang resource na ito habang bukas ang game mo, baka mag-crash ang iyong game.
+        <translation>Kung pinatay mo ang resource na ito habang bukas ang game mo, baka mag-crash ang iyong game.
 Sigurado ka ba sa gagawin mo?</translation>
     </message>
     <message>
@@ -3094,16 +3098,16 @@ Sigurado ka ba sa gagawin mo?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="vanished">External Editors (iwanan na blanko para sa default ng system)</translation>
+        <translation>External Editors (iwanan na blanko para sa default ng system)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="vanished">&amp;Text Editor:</translation>
+        <translation>&amp;Text Editor:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation type="vanished">Kagamitang Panlabas</translation>
+        <translation>Kagamitang Panlabas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3164,17 +3168,17 @@ Sigurado ka ba sa gagawin mo?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation type="vanished">Executable ng JVisualVM</translation>
+        <translation>Executable ng JVisualVM</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="vanished">Error habang ini-check ang JVisualVM install:
+        <translation>Error habang ini-check ang JVisualVM install:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="vanished">Ang setup ng JVisualVM ay tila maayos</translation>
+        <translation>Ang setup ng JVisualVM ay tila maayos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3201,7 +3205,7 @@ Sigurado ka ba sa gagawin mo?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation type="vanished">Pang-edit ng JSON</translation>
+        <translation>Pang-edit ng JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3370,7 +3374,7 @@ Subukan muli.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="vanished">Nakakakuha ng API response mula sa CurseForge para sa &apos;%1&apos;...</translation>
+        <translation>Nakakakuha ng API response mula sa CurseForge para sa &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3408,13 +3412,17 @@ Subukan muli.</translation>
         <translation type="unfinished">Hindi kilala</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Walang wastong bersyon na natagpuan para sa mod na ito. Malamang na hindi ito available para sa kasalukuyang bersyon ng laro o mod loader.</translation>
+        <translation>Walang wastong bersyon na natagpuan para sa mod na ito. Malamang na hindi ito available para sa kasalukuyang bersyon ng laro o mod loader.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">May bagong update ang mod na ito, ngunit hindi ma-download gamit ang CurseForge.</translation>
+        <translation>May bagong update ang mod na ito, ngunit hindi ma-download gamit ang CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3720,11 +3728,11 @@ Subukan muli.</translation>
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation type="vanished">Key</translation>
+        <translation>Key</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="vanished">Katangian</translation>
+        <translation>Katangian</translation>
     </message>
 </context>
 <context>
@@ -4064,11 +4072,11 @@ Subukan muli.</translation>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation type="vanished">&amp;Pangalan:</translation>
+        <translation>&amp;Pangalan:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation type="vanished">&amp;Grupo:</translation>
+        <translation>&amp;Grupo:</translation>
     </message>
 </context>
 <context>
@@ -4181,19 +4189,19 @@ Subukan muli.</translation>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation type="vanished">Buksan ang Pangkalahatang Pagsasaayos</translation>
+        <translation>Buksan ang Pangkalahatang Pagsasaayos</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="vanished">Ang mga setting dito ay mga override para sa global settings.</translation>
+        <translation>Ang mga setting dito ay mga override para sa global settings.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation type="vanished">Installation ng Java</translation>
+        <translation>Installation ng Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation type="vanished">Auto-detect...</translation>
+        <translation>Auto-detect...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4201,261 +4209,261 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="vanished">I-test</translation>
+        <translation>I-test</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">Kung naka-enable ito, hindi na i-checheck ng launcher kung natutugma ang bersyon ng Java sa instance na ito.</translation>
+        <translation>Kung naka-enable ito, hindi na i-checheck ng launcher kung natutugma ang bersyon ng Java sa instance na ito.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="vanished">Laktawan ang pagsusuri ng Java sa kompatibilidad</translation>
+        <translation>Laktawan ang pagsusuri ng Java sa kompatibilidad</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="vanished">Memor&amp;y</translation>
+        <translation>Memor&amp;y</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">Minimum na allokasyon ng memory:</translation>
+        <translation>Minimum na allokasyon ng memory:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">Yung pinaka-malaking amount ng memory na pwedeng gamitin ng Minecraft.</translation>
+        <translation>Yung pinaka-malaking amount ng memory na pwedeng gamitin ng Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">Yung amount ng memory na nasa pag-start ng Minecraft.</translation>
+        <translation>Yung amount ng memory na nasa pag-start ng Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">Yung amount ng memory na available para i-store ang mga loaded Java classes.</translation>
+        <translation>Yung amount ng memory na available para i-store ang mga loaded Java classes.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Pinakamalaking memory allocation:</translation>
+        <translation>Pinakamalaking memory allocation:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Tingnan</translation>
+        <translation>Tingnan</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">I-download ang Java</translation>
+        <translation>I-download ang Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation type="vanished">PermGen:</translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="vanished">Note: Yung Permgen ay awtomatikong nakaset sa Java 8 at pataas</translation>
+        <translation>Note: Yung Permgen ay awtomatikong nakaset sa Java 8 at pataas</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation type="vanished">Mga Java argumen&amp;ts</translation>
+        <translation>Mga Java argumen&amp;ts</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation type="vanished">Mga Game window</translation>
+        <translation>Mga Game window</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation type="vanished">Window ng Laro</translation>
+        <translation>Window ng Laro</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="vanished">Simulan ang Minecraft na naka-maximized</translation>
+        <translation>Simulan ang Minecraft na naka-maximized</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation type="vanished">Haba ng window:</translation>
+        <translation>Haba ng window:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation type="vanished">Lapad ng window:</translation>
+        <translation>Lapad ng window:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation type="vanished">Conso&amp;le Settings</translation>
+        <translation>Conso&amp;le Settings</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="vanished">Ipakita ang console habang tumatakbo ang laro</translation>
+        <translation>Ipakita ang console habang tumatakbo ang laro</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">Kusang isara ang console kung sumara ang laro</translation>
+        <translation>Kusang isara ang console kung sumara ang laro</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="vanished">Ipakita ang console kung gumiba ang laro</translation>
+        <translation>Ipakita ang console kung gumiba ang laro</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="vanished">Isara ang launcher pagkatapos bumukas ang window ng laro</translation>
+        <translation>Isara ang launcher pagkatapos bumukas ang window ng laro</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="vanished">I-sara ang launcher pagkatapos saraduhin ang game window</translation>
+        <translation>I-sara ang launcher pagkatapos saraduhin ang game window</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation type="vanished">Custom na commands</translation>
+        <translation>Custom na commands</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="vanished">Variables ng Environment</translation>
+        <translation>Variables ng Environment</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation type="vanished">Workarounds</translation>
+        <translation>Workarounds</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation type="vanished">Mga native libraries</translation>
+        <translation>Mga native libraries</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="vanished">&amp;Path ng GLFW library</translation>
+        <translation>&amp;Path ng GLFW library</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="vanished">Gamitin ang system installation ng GLFW</translation>
+        <translation>Gamitin ang system installation ng GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="vanished">Gamitin ang system installation kaysa sa OpenAL</translation>
+        <translation>Gamitin ang system installation kaysa sa OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="vanished">World na singleplayer</translation>
+        <translation>World na singleplayer</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="vanished">I-override ang default na account</translation>
+        <translation>I-override ang default na account</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">Account:</translation>
+        <translation>Account:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Mga iba pa</translation>
+        <translation>Mga iba pa</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="vanished">&amp;Path ng OpenAL library</translation>
+        <translation>&amp;Path ng OpenAL library</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">Performance</translation>
+        <translation>Performance</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;I-enable ang GameMode ng Feral Interactive, para ma-improve ang gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;I-enable ang GameMode ng Feral Interactive, para ma-improve ang gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">I-enable ang Feral GameMode</translation>
+        <translation>I-enable ang Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;I-enable ang advanced performance overlay ng MangoHud&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;I-enable ang advanced performance overlay ng MangoHud&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">I-enable ang MangoHud</translation>
+        <translation>I-enable ang MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gamitin ang discrete GPU kaysa sa primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gamitin ang discrete GPU kaysa sa primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">Gamitin ang discrete GPU</translation>
+        <translation>Gamitin ang discrete GPU</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="vanished">Gamitin ang Zink, isang Mesa OpenGL driver na nag-iimplement ng OpenGL sa loob ng Vulkan. Performance ay pwedeng mag-bago depende sa sitwasyon. Note: Kung walang mahanap na Vulkan driver, gagamitin ang software rendering.</translation>
+        <translation>Gamitin ang Zink, isang Mesa OpenGL driver na nag-iimplement ng OpenGL sa loob ng Vulkan. Performance ay pwedeng mag-bago depende sa sitwasyon. Note: Kung walang mahanap na Vulkan driver, gagamitin ang software rendering.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="vanished">Gamitin ang Zink</translation>
+        <translation>Gamitin ang Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="vanished">Mga Legacy settings</translation>
+        <translation>Mga Legacy settings</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ine-emulate ang paggamit ng lumang online services na hindi na gumagana.&lt;/p&gt;&lt;p&gt;Naka-include dito ang skin at online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ine-emulate ang paggamit ng lumang online services na hindi na gumagana.&lt;/p&gt;&lt;p&gt;Naka-include dito ang skin at online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="vanished">I-enable ang online fixes (experimental)</translation>
+        <translation>I-enable ang online fixes (experimental)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation type="vanished">I-override ang global na game time settings</translation>
+        <translation>I-override ang global na game time settings</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="vanished">I-pakita ang oras na lumipas habang naglalaro sa instance na ito</translation>
+        <translation>I-pakita ang oras na lumipas habang naglalaro sa instance na ito</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation type="vanished">Itala ang oras na ginugol sa paglalaro ng instance na ito</translation>
+        <translation>Itala ang oras na ginugol sa paglalaro ng instance na ito</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="vanished">Magtakda ng server na sasalihin sa pagbukas ng laro</translation>
+        <translation>Magtakda ng server na sasalihin sa pagbukas ng laro</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="vanished">Direksyon (address) ng server:</translation>
+        <translation>Direksyon (address) ng server:</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="vanished">Path na patungo sa %1 library file</translation>
+        <translation>Path na patungo sa %1 library file</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">Hindi mahanap ang Feral Interactive GameMode sa sistema mo.</translation>
+        <translation>Hindi mahanap ang Feral Interactive GameMode sa sistema mo.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">Hindi mahanap ang MangoHud sa sistema mo.</translation>
+        <translation>Hindi mahanap ang MangoHud sa sistema mo.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Pumili ng bersyon ng Java</translation>
+        <translation>Pumili ng bersyon ng Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">Kumpirmahin ang seleksyon</translation>
+        <translation>Kumpirmahin ang seleksyon</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">Nakapili ka ng 32-bit na bersyon ng Java.
+        <translation>Nakapili ka ng 32-bit na bersyon ng Java.
 Ang installation na ito ay hindi nagsusuporta ng higit sa 2048MiB ng RAM.
 Suriin na mas mababa ang pinakamalaking memory value.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Hanapin ang Java executable</translation>
+        <translation>Hanapin ang Java executable</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Yung maximum memory allocation mo ay mas maliit sa minimum value</translation>
+        <translation>Yung maximum memory allocation mo ay mas maliit sa minimum value</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4463,11 +4471,11 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">Yung maximum memory allocation mo ay lumalampas sa capacity ng system memory mo.</translation>
+        <translation>Yung maximum memory allocation mo ay lumalampas sa capacity ng system memory mo.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Yung maximum memory allocation mo ay lumalapit sa capacity ng system memory mo.</translation>
+        <translation>Yung maximum memory allocation mo ay lumalapit sa capacity ng system memory mo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4577,7 +4585,7 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation type="vanished">Inistart ang JVisualVM</translation>
+        <translation>Inistart ang JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -4604,15 +4612,15 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="obsolete">Ine-extract ang Java (Hindi na inuulat ang progreso para sa tar archive)</translation>
+        <translation type="unfinished">Ine-extract ang Java (Hindi na inuulat ang progreso para sa tar archive)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation type="obsolete">Hindi mabuksan ang tar file.</translation>
+        <translation type="unfinished">Hindi mabuksan ang tar file.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="obsolete">Hindi mabuksan ang nabigay na tar file.</translation>
+        <translation type="unfinished">Hindi mabuksan ang nabigay na tar file.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -4626,7 +4634,7 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation type="obsolete">Hindi matukoy ang uri ng archive!</translation>
+        <translation type="unfinished">Hindi matukoy ang uri ng archive!</translation>
     </message>
 </context>
 <context>
@@ -4732,70 +4740,70 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Memorya</translation>
+        <translation>Memorya</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">Yung pinaka-malaking amount ng memory na pwedeng gamitin ng Minecraft.</translation>
+        <translation>Yung pinaka-malaking amount ng memory na pwedeng gamitin ng Minecraft.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="vanished">&amp;Pinakamaliit na allocation ng memory:</translation>
+        <translation>&amp;Pinakamaliit na allocation ng memory:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="vanished">Ma&amp;ximum na allocation ng memory:</translation>
+        <translation>Ma&amp;ximum na allocation ng memory:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation type="vanished">&amp;PermGen:</translation>
+        <translation>&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">Yung amount ng memory na nasa pag-start ng Minecraft.</translation>
+        <translation>Yung amount ng memory na nasa pag-start ng Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">Yung amount ng memory na available para i-store ang mga loaded Java classes.</translation>
+        <translation>Yung amount ng memory na available para i-store ang mga loaded Java classes.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation type="vanished">Java Runtime</translation>
+        <translation>Java Runtime</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation type="vanished">Mga JVM arguments:</translation>
+        <translation>Mga JVM arguments:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="vanished">Sineselect ang Java bersyon na nagtutugma sa kasulukuyang Minecraft instance, base sa kinakailangang major bersyon.</translation>
+        <translation>Sineselect ang Java bersyon na nagtutugma sa kasulukuyang Minecraft instance, base sa kinakailangang major bersyon.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">I-autodetect ang bersyon ng Java</translation>
+        <translation>I-autodetect ang bersyon ng Java</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="vanished">&amp;Path ng Java:</translation>
+        <translation>&amp;Path ng Java:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="vanished">Dino-download ang recommended na bersyon ng Java na galing kay Mojang.</translation>
+        <translation>Dino-download ang recommended na bersyon ng Java na galing kay Mojang.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">I-download ng automatic ang Mojang Java</translation>
+        <translation>I-download ng automatic ang Mojang Java</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation type="vanished">Management</translation>
+        <translation>Management</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation type="vanished">Mga Downloaded na Bersyon ng Java</translation>
+        <translation>Mga Downloaded na Bersyon ng Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -4820,33 +4828,33 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="vanished">&amp;I-autodetect…</translation>
+        <translation>&amp;I-autodetect…</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="vanished">&amp;I-test</translation>
+        <translation>&amp;I-test</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Tingnan</translation>
+        <translation>Tingnan</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="vanished">Kung naka-enable, hindi na tatanungin ng launcher na mag-pili ng bersyon ng Java kung walang mahanap.</translation>
+        <translation>Kung naka-enable, hindi na tatanungin ng launcher na mag-pili ng bersyon ng Java kung walang mahanap.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="vanished">I-skip ang Java &amp;Wizard</translation>
+        <translation>I-skip ang Java &amp;Wizard</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">Kung naka-enable ito, hindi na i-checheck ng launcher kung natutugma ang bersyon ng Java sa instance na ito.</translation>
+        <translation>Kung naka-enable ito, hindi na i-checheck ng launcher kung natutugma ang bersyon ng Java sa instance na ito.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="vanished">&amp;I-skip ang Java compatibility checks</translation>
+        <translation>&amp;I-skip ang Java compatibility checks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
@@ -4862,35 +4870,35 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Pumili ng bersyon ng Java</translation>
+        <translation>Pumili ng bersyon ng Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">Kumpirmahin ang seleksyon</translation>
+        <translation>Kumpirmahin ang seleksyon</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">Nakapili ka ng 32-bit na bersyon ng Java.
+        <translation>Nakapili ka ng 32-bit na bersyon ng Java.
 Ang installation na ito ay hindi nagsusuporta ng higit sa 2048MiB ng RAM.
 Suriin na mas mababa ang pinakamalaking memory value.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Hanapin ang Java executable</translation>
+        <translation>Hanapin ang Java executable</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">Yung maximum memory allocation mo ay lumalampas sa capacity ng system memory mo.</translation>
+        <translation>Yung maximum memory allocation mo ay lumalampas sa capacity ng system memory mo.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Yung maximum memory allocation mo ay lumalapit sa capacity ng system memory mo.</translation>
+        <translation>Yung maximum memory allocation mo ay lumalapit sa capacity ng system memory mo.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Yung maximum memory allocation mo ay mas maliit sa minimum value</translation>
+        <translation>Yung maximum memory allocation mo ay mas maliit sa minimum value</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -4914,11 +4922,11 @@ Sigurado ka ba dito?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation type="vanished">Walang naka-select na bersyon ng Java</translation>
+        <translation>Walang naka-select na bersyon ng Java</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">I-download ang Java</translation>
+        <translation>I-download ang Java</translation>
     </message>
     <message>
         <source>Automatic Java Download</source>
@@ -4934,7 +4942,7 @@ Gusto mo ba gamitin ang Java auto-download?
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="vanished">Na-detect ang 32-bit na Java</translation>
+        <translation>Na-detect ang 32-bit na Java</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -4943,7 +4951,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">Nakapili ka ng 32-bit na bersyon ng Java, pero nag-allocate ka ng higit sa 2048MiB bilang maximum memory.
+        <translation>Nakapili ka ng 32-bit na bersyon ng Java, pero nag-allocate ka ng higit sa 2048MiB bilang maximum memory.
 Hindi maiistart ng %1 ang Minecraft
 Gusto mo pa ba i-tuloy?
 
@@ -4957,7 +4965,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">Maaaring hindi ka pumili ng bersyon ng Java o pumili ng bersyon na hindi gumagana.
+        <translation>Maaaring hindi ka pumili ng bersyon ng Java o pumili ng bersyon na hindi gumagana.
 Hindi maiistart ng %1 ang Minecraft
 Gusto mo pa ba i-tuloy?
 
@@ -4971,7 +4979,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Memorya</translation>
+        <translation>Memorya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -4980,7 +4988,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">Minimum na allokasyon ng memory:</translation>
+        <translation>Minimum na allokasyon ng memory:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5082,7 +5090,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Pinakamalaking memory allocation:</translation>
+        <translation>Pinakamalaking memory allocation:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5121,19 +5129,19 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Tingnan</translation>
+        <translation>Tingnan</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">I-download ng automatic ang Mojang Java</translation>
+        <translation>I-download ng automatic ang Mojang Java</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">I-autodetect ang bersyon ng Java</translation>
+        <translation>I-autodetect ang bersyon ng Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="vanished">I-autodetect ang Java</translation>
+        <translation>I-autodetect ang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5171,15 +5179,15 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Yung maximum memory allocation mo ay lumalapit sa capacity ng system memory mo.</translation>
+        <translation>Yung maximum memory allocation mo ay lumalapit sa capacity ng system memory mo.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Yung maximum memory allocation mo ay mas maliit sa minimum value</translation>
+        <translation>Yung maximum memory allocation mo ay mas maliit sa minimum value</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="vanished">Ine-exceed mo ang maximum na allocation na suportado ng 32-bit na installation ng Java.</translation>
+        <translation>Ine-exceed mo ang maximum na allocation na suportado ng 32-bit na installation ng Java.</translation>
     </message>
 </context>
 <context>
@@ -5441,11 +5449,11 @@ Gusto mo ba laruin ang demo?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation type="vanished">Maglaro Offline</translation>
+        <translation>Maglaro Offline</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Nag expire na yung account at kailangan itong i-login ulit.</translation>
+        <translation>Nag expire na yung account at kailangan itong i-login ulit.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -5454,7 +5462,7 @@ Gusto mo ba laruin ang demo?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="vanished">Hindi na nakikita ang account na ito sa servers. Baka ito ay namigrate, kung saan kailangan mo i-add yung bagong account kung saan mo ni-migrate yung account na ito.</translation>
+        <translation>Hindi na nakikita ang account na ito sa servers. Baka ito ay namigrate, kung saan kailangan mo i-add yung bagong account kung saan mo ni-migrate yung account na ito.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -5554,7 +5562,7 @@ Gusto mo ba laruin ang demo?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="vanished">Napaltan ang client identification ng launcher. Paki-tanggal ng account na ito at i-add ulit.</translation>
+        <translation>Napaltan ang client identification ng launcher. Paki-tanggal ng account na ito at i-add ulit.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
@@ -5621,11 +5629,11 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation type="vanished">Mga Katangian</translation>
+        <translation>Mga Katangian</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation type="vanished">Sariwain ang Pagsasaayos</translation>
+        <translation>Sariwain ang Pagsasaayos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -5670,11 +5678,11 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation type="vanished">Suriin ang downloads folder nang paulit-ulit</translation>
+        <translation>Suriin ang downloads folder nang paulit-ulit</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation type="vanished">I-disable ang awtomatikong dependency management</translation>
+        <translation>I-disable ang awtomatikong dependency management</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
@@ -5683,7 +5691,7 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation type="vanished">Instance view sorting mode</translation>
+        <translation>Instance view sorting mode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -5698,23 +5706,23 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <source>Theme</source>
-        <translation type="vanished">Tema</translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="vanished">Mga Mod</translation>
+        <translation>Mga Mod</translation>
     </message>
     <message>
         <source>Update interval</source>
-        <translation type="vanished">Interval ng pag-update</translation>
+        <translation>Interval ng pag-update</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="vanished">I-set ito sa 0 para i-check lang ng launch</translation>
+        <translation>I-set ito sa 0 para i-check lang ng launch</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="vanished">h</translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
@@ -5834,12 +5842,12 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="vanished">I-disable ang pag-gamit ng metadata na binibigay ng mod providers (hal. Modrinth o CurseForge) para sa mga mods.</translation>
+        <translation>I-disable ang pag-gamit ng metadata na binibigay ng mod providers (hal. Modrinth o CurseForge) para sa mga mods.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="vanished">I-disable ang paggamit ng metadata para sa mods</translation>
+        <translation>I-disable ang paggamit ng metadata para sa mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -5850,27 +5858,27 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="vanished">I-disable ang awtomatikong detection, installation, at pag-update ng mod dependencies.</translation>
+        <translation>I-disable ang awtomatikong detection, installation, at pag-update ng mod dependencies.</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="vanished">Pag gagawa ng bagong modpack instance, wag mag suggest na mag update ng mga existing instances.</translation>
+        <translation>Pag gagawa ng bagong modpack instance, wag mag suggest na mag update ng mga existing instances.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation type="vanished">I-skip ang modpack update prompt</translation>
+        <translation>I-skip ang modpack update prompt</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Mga iba pa</translation>
+        <translation>Mga iba pa</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation type="vanished">Numero ng tasks na sabay-sabay</translation>
+        <translation>Numero ng tasks na sabay-sabay</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation type="vanished">Numero ng downloads na sabay-sabay</translation>
+        <translation>Numero ng downloads na sabay-sabay</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -5879,7 +5887,7 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation type="vanished">Timeout para sa HTTP requests</translation>
+        <translation>Timeout para sa HTTP requests</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -5888,27 +5896,27 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation type="vanished">Numero ng manual na retry</translation>
+        <translation>Numero ng manual na retry</translation>
     </message>
     <message>
         <source>Cat</source>
-        <translation type="vanished">Pusa</translation>
+        <translation>Pusa</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="vanished">I-set ang opacity ng pusa. 0% ay lubos ang transparency at 100% ay hindi transparent.</translation>
+        <translation>I-set ang opacity ng pusa. 0% ay lubos ang transparency at 100% ay hindi transparent.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="vanished">Opacity</translation>
+        <translation>Opacity</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="vanished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="vanished">Mga Kagamitan</translation>
+        <translation>Mga Kagamitan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -5963,27 +5971,27 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <source>Console Settings</source>
-        <translation type="vanished">Pagsasaayos ng Console</translation>
+        <translation>Pagsasaayos ng Console</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="vanished">Ipakita ang console habang naglalaro</translation>
+        <translation>Ipakita ang console habang naglalaro</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">&amp;Kusang isara ang console kung sumara ang laro</translation>
+        <translation>&amp;Kusang isara ang console kung sumara ang laro</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="vanished">Ipakita ang console pag nag-crash ang &amp;laro</translation>
+        <translation>Ipakita ang console pag nag-crash ang &amp;laro</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="vanished">&amp;History limit</translation>
+        <translation>&amp;History limit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -5999,7 +6007,7 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="vanished">&amp;Font ng Console</translation>
+        <translation>&amp;Font ng Console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6063,31 +6071,31 @@ Inirerekomenda ang pagbibigay ng %1 ng access dito gamit ng Flatseal.</translati
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="vanished">[Test/ERROR] HaLaaaAaaaaaa!! May nangyari!</translation>
+        <translation>[Test/ERROR] HaLaaaAaaaaaa!! May nangyari!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="vanished">[Test/ERROR] Hala! May nangyari!</translation>
+        <translation>[Test/ERROR] Hala! May nangyari!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="vanished">[Test/WARN] Sana di naman magbago ang pagtingin~</translation>
+        <translation>[Test/WARN] Sana di naman magbago ang pagtingin~</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="vanished">[Test/DEBUG] Sikretong malupit, pwede pabulong? Mapapadebug ka nang napaka-lutong...</translation>
+        <translation>[Test/DEBUG] Sikretong malupit, pwede pabulong? Mapapadebug ka nang napaka-lutong...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="vanished">[Test/FATAL] Ay! May fatal error!!!</translation>
+        <translation>[Test/FATAL] Ay! May fatal error!!!</translation>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="vanished">[Test/INFO] Mensahe lang po maamsir...</translation>
+        <translation>[Test/INFO] Mensahe lang po maamsir...</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation type="vanished">Launcher</translation>
+        <translation>Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6191,7 +6199,7 @@ Inirerekomenda ang pagbibigay ng %1 ng access dito gamit ng Flatseal.</translati
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation type="vanished">Hindi mabuksan ang modpack file na %1!</translation>
+        <translation>Hindi mabuksan ang modpack file na %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -6350,12 +6358,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Inu-update ang index para sa mod na:
+        <translation>Inu-update ang index para sa mod na:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Invalid na metadata</translation>
+        <translation>Invalid na metadata</translation>
     </message>
 </context>
 <context>
@@ -6426,7 +6434,7 @@ Reason:
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Hanapin:</translation>
+        <translation>Hanapin:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -6530,7 +6538,7 @@ Reason:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation type="vanished">Hindi magawa:</translation>
+        <translation>Hindi magawa:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -6547,7 +6555,7 @@ Reason:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation type="vanished">Hindi mabuksan ang zip file.</translation>
+        <translation>Hindi mabuksan ang zip file.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -6566,7 +6574,7 @@ Reason:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation type="vanished">Hindi ma-seek ang unang file sa loob ng zip</translation>
+        <translation>Hindi ma-seek ang unang file sa loob ng zip</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -6580,7 +6588,7 @@ Reason:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="vanished">Hindi ma-ayos ang permissions para sa %1</translation>
+        <translation>Hindi ma-ayos ang permissions para sa %1</translation>
     </message>
 </context>
 <context>
@@ -6677,11 +6685,11 @@ Reason:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="vanished">I-open ang %1 o i-scan ang QR at i-enter ang code na nasa taas.</translation>
+        <translation>I-open ang %1 o i-scan ang QR at i-enter ang code na nasa taas.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation type="vanished">I-open ang %1 at i-enter ang code na nasa taas.</translation>
+        <translation>I-open ang %1 at i-enter ang code na nasa taas.</translation>
     </message>
 </context>
 <context>
@@ -7232,7 +7240,7 @@ Reason:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="vanished">Gumagawa ng shortcut sa desktop para buksan ang instance na ito.</translation>
+        <translation>Gumagawa ng shortcut sa desktop para buksan ang instance na ito.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
@@ -7434,14 +7442,14 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="vanished">I-dedelete mo ang &quot;%1&quot;.
+        <translation>I-dedelete mo ang &quot;%1&quot;.
 Ito ay maaring maging permanent at madedelete nito ang instance.
 
 Sigurado ka ba dito?</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="vanished">May naka-link na instances</translation>
+        <translation>May naka-link na instances</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -7451,7 +7459,7 @@ Sigurado ka ba dito?</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="vanished">
+        <translation>
             <numerusform>Ang susunod na instance ay maaring nagrereference ng files sa loob ng instance na ito:
 
 %1
@@ -7470,43 +7478,43 @@ Sigurado ka ba dito?</numerusform>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation type="vanished">Gumawa ng instance shortcut</translation>
+        <translation>Gumawa ng instance shortcut</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="vanished">Hindi mahanap ang desktop?!</translation>
+        <translation>Hindi mahanap ang desktop?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="vanished">Ang launcher ay nasa folder kung saan siya inextract, kaya hindi siya makakagawa ng shortcuts.</translation>
+        <translation>Ang launcher ay nasa folder kung saan siya inextract, kaya hindi siya makakagawa ng shortcuts.</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation type="vanished">Gumawa ng instance Application</translation>
+        <translation>Gumawa ng instance Application</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation type="vanished">Hindi makagawa ng icon para sa Application.</translation>
+        <translation>Hindi makagawa ng icon para sa Application.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="vanished">Mga Desktop Entry</translation>
+        <translation>Mga Desktop Entry</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="vanished">Gumawa ng shortcut sa instance na ito sa desktop mo!</translation>
+        <translation>Gumawa ng shortcut sa instance na ito sa desktop mo!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation type="vanished">Gumawa ng shortcut sa instance na ito!</translation>
+        <translation>Gumawa ng shortcut sa instance na ito!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation type="vanished">Hindi makagawa ng instance shortcut!</translation>
+        <translation>Hindi makagawa ng instance shortcut!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="vanished">Yung launcher ay nag-rurun bilang misconfigured AppImage? (Nawawala ang $APPIMAGE environment variable)</translation>
+        <translation>Yung launcher ay nag-rurun bilang misconfigured AppImage? (Nawawala ang $APPIMAGE environment variable)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -7553,11 +7561,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="vanished">Hindi magawa ang icon para sa shortcut.</translation>
+        <translation>Hindi magawa ang icon para sa shortcut.</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="vanished">Hindi sinusuporta ng plataporma mo!</translation>
+        <translation>Hindi sinusuporta ng plataporma mo!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -7601,7 +7609,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>More news...</source>
-        <translation type="vanished">Iba pang balita...</translation>
+        <translation>Iba pang balita...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7628,11 +7636,11 @@ Are you sure?</source>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation type="vanished">Impormasyon ng Pack</translation>
+        <translation>Impormasyon ng Pack</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation type="vanished">Pangalan ng Pack:</translation>
+        <translation>Pangalan ng Pack:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -7671,7 +7679,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Update from file</source>
-        <translation type="vanished">I-update gamit ng file</translation>
+        <translation>I-update gamit ng file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -7734,7 +7742,7 @@ Ma-uupdate lang ito gamit ng file sa format ng %1
     </message>
     <message>
         <source>Update pack</source>
-        <translation type="vanished">I-update ang pack</translation>
+        <translation>I-update ang pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -7908,67 +7916,135 @@ Ma-uupdate lang ito gamit ng file sa format ng %1
 <context>
     <name>MinecraftPage</name>
     <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Minecraft &amp;maximized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="vanished">&amp;Haba ng window:</translation>
+        <translation>&amp;Haba ng window:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="vanished">&amp;Lapad ng window:</translation>
+        <translation>&amp;Lapad ng window:</translation>
+    </message>
+    <message>
+        <source>Game time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show time spent &amp;playing instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show time spent playing across &amp;all instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record time spent playing instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show time spent playing in hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close the launcher after game window opens</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Quit the launcher after game window closes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tweaks</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="vanished">Mga Legacy settings</translation>
+        <translation>Mga Legacy settings</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ine-emulate ang paggamit ng lumang online services na hindi na gumagana.&lt;/p&gt;&lt;p&gt;Naka-include dito ang skin at online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ine-emulate ang paggamit ng lumang online services na hindi na gumagana.&lt;/p&gt;&lt;p&gt;Naka-include dito ang skin at online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="vanished">I-enable ang online fixes (experimental)</translation>
+        <translation>I-enable ang online fixes (experimental)</translation>
+    </message>
+    <message>
+        <source>Native library workarounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use system installation of &amp;GLFW</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="vanished">&amp;Path ng GLFW library</translation>
+        <translation>&amp;Path ng GLFW library</translation>
+    </message>
+    <message>
+        <source>Use system installation of &amp;OpenAL</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="vanished">&amp;Path ng OpenAL library</translation>
+        <translation>&amp;Path ng OpenAL library</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">Performance</translation>
+        <translation>Performance</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;I-enable ang GameMode ng Feral Interactive, para ma-improve ang gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;I-enable ang GameMode ng Feral Interactive, para ma-improve ang gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">I-enable ang Feral GameMode</translation>
+        <translation>I-enable ang Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;I-enable ang advanced performance overlay ng MangoHud&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;I-enable ang advanced performance overlay ng MangoHud&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">I-enable ang MangoHud</translation>
+        <translation>I-enable ang MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gamitin ang discrete GPU kaysa sa primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gamitin ang discrete GPU kaysa sa primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">Gamitin ang discrete GPU</translation>
+        <translation>Gamitin ang discrete GPU</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="vanished">Gamitin ang Zink</translation>
+        <translation>Gamitin ang Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -7977,19 +8053,23 @@ Ma-uupdate lang ito gamit ng file sa format ng %1
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Mga iba pa</translation>
+        <translation>Mga iba pa</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="vanished">Path na patungo sa %1 library file</translation>
+        <translation>Path na patungo sa %1 library file</translation>
+    </message>
+    <message>
+        <source>Auto detected path: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">Hindi mahanap ang Feral Interactive GameMode sa sistema mo.</translation>
+        <translation>Hindi mahanap ang Feral Interactive GameMode sa sistema mo.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">Hindi mahanap ang MangoHud sa sistema mo.</translation>
+        <translation>Hindi mahanap ang MangoHud sa sistema mo.</translation>
     </message>
 </context>
 <context>
@@ -8548,7 +8628,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Hindi kilala</translation>
+        <translation>Hindi kilala</translation>
+    </message>
+    <message>
+        <source>Where the mod was downloaded from.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -8689,12 +8773,60 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Download mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add a locally downloaded file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verify Dependencies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove mod&apos;s metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to mod&apos;s home page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
-        <translation type="obsolete">Baguhin ang Bersyon</translation>
+        <translation type="unfinished">Baguhin ang Bersyon</translation>
+    </message>
+    <message>
+        <source>Change mod version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Bisitahin ang pahina ng mod</translation>
+        <translation>Bisitahin ang pahina ng mod</translation>
+    </message>
+    <message>
+        <source>Visit mods&apos; pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to the pages of the selected mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please install a mod loader first!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
@@ -8856,24 +8988,125 @@ Are you sure?</source>
 <context>
     <name>ModUpdateDialog</name>
     <message>
+        <source>Confirm mods to update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You&apos;re about to update the following mods:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only mods with a check will be updated!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata generation failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error</source>
-        <translation type="vanished">Mali</translation>
+        <translation>Mali</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Mga Babala</translation>
+        <translation>Mga Babala</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">I-pigil</translation>
+        <translation>I-pigil</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Nag-checheck ng mga update…</translation>
+        <translation>Nag-checheck ng mga update…</translation>
+    </message>
+    <message>
+        <source>Mod name: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
+        <extracomment>%1 is the link to download it manually</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to check for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking for dependencies...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generating metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Provider: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="obsolete">Hindi naka-install</translation>
+        <translation type="unfinished">Hindi naka-install</translation>
+    </message>
+    <message>
+        <source>Old version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Version Type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Required by: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Required by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changelog of the latest version</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8941,8 +9174,12 @@ Please update %1!</source>
         <translation type="unfinished">Walang nakitang wastong bersyon para sa mapagkukunang ito. Malamang na hindi ito magagamit para sa kasalukuyang bersyon ng laro.</translation>
     </message>
     <message>
+        <source>Preparing mods for Modrinth...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Walang wastong bersyon na natagpuan para sa mod na ito. Malamang na hindi ito available para sa kasalukuyang bersyon ng laro o mod loader.</translation>
+        <translation>Walang wastong bersyon na natagpuan para sa mod na ito. Malamang na hindi ito available para sa kasalukuyang bersyon ng laro o mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
@@ -9378,12 +9615,28 @@ Please update %1!</source>
 <context>
     <name>OfflineLoginDialog</name>
     <message>
+        <source>Add Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Username</source>
-        <translation type="vanished">Ngalan ng user</translation>
+        <translation>Ngalan ng user</translation>
+    </message>
+    <message>
+        <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow long usernames</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="obsolete">OK</translation>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -9423,7 +9676,7 @@ Please update %1!</source>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Hanapin</translation>
+        <translation>Hanapin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -9512,19 +9765,31 @@ Please update %1!</source>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation type="vanished">Burahin ang log</translation>
+        <translation>Burahin ang log</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Tanggalin</translation>
+        <translation>Tanggalin</translation>
+    </message>
+    <message>
+        <source>Upload the log to the paste service configured in preferences.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">I-upload</translation>
+        <translation>I-upload</translation>
+    </message>
+    <message>
+        <source>Clean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Hanapin:</translation>
+        <translation>Hanapin:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -9606,7 +9871,11 @@ Sigurado ka ba dito?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation type="vanished">Mga ibang logs</translation>
+        <translation>Mga ibang logs</translation>
+    </message>
+    <message>
+        <source>The file (%1) is not readable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9644,33 +9913,37 @@ Sigurado ka ba dito?</translation>
         <source>Help</source>
         <translation type="unfinished">Tulong</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation type="vanished">Inuupload sa %1</translation>
+        <translation>Inuupload sa %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation type="vanished">Network error: %1</translation>
+        <translation>Network error: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="vanished">Error: %1 ay nag-balik ng unexpected status code na %2 %3</translation>
+        <translation>Error: %1 ay nag-balik ng unexpected status code na %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="vanished">Error: %1 ay nag-balik ng magulong response body</translation>
+        <translation>Error: %1 ay nag-balik ng magulong response body</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="vanished">Error: %1 ay nag-bigay ng error: %2</translation>
+        <translation>Error: %1 ay nag-bigay ng error: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="vanished">Error: %1 ay nagbigay ng error code: %2
+        <translation>Error: %1 ay nagbigay ng error code: %2
 Mensahe ng Error: %3</translation>
     </message>
 </context>
@@ -10319,6 +10592,10 @@ HTTP Status: %2</source>
         <source>The server responded with the following error:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The server returned the following error:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProgressDialog</name>
@@ -10370,7 +10647,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="vanished">&amp;Karaniwan</translation>
+        <translation>&amp;Karaniwan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -10622,15 +10899,19 @@ HTTP Status: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Website</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="vanished">Mga Developer ng %1</translation>
+        <translation>Mga Developer ng %1</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation type="vanished">Na may pasasalamat sa</translation>
+        <translation>Na may pasasalamat sa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -11002,7 +11283,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="vanished">Hindi ma-ayos ang permissions para sa %1</translation>
+        <translation>Hindi ma-ayos ang permissions para sa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -11351,6 +11632,22 @@ Mensahe ng Error: %3</translation>
         <source>With special thanks to</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No author(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid path to JVisualVM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload failed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Resource</name>
@@ -11390,6 +11687,10 @@ Mensahe ng Error: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="107"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change %1 version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11796,11 +12097,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11909,6 +12212,10 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The date and time this resource pack was last changed (or added).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12024,6 +12331,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download resource packs from online platforms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resource packs</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12274,6 +12593,14 @@ Are you sure?</source>
         <source>Toggle Dependencies</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>This download will be placed in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ScreenshotsPage</name>
@@ -12501,6 +12828,10 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Latency</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12735,6 +13066,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download shaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download shaders from online platforms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shader packs</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13146,7 +13489,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="vanished">Hindi mabuksan ang nabigay na modpack zip file.</translation>
+        <translation>Hindi mabuksan ang nabigay na modpack zip file.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -13330,16 +13673,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13472,12 +13818,20 @@ Are you sure you want to do this?</source>
 Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Download packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download texture packs from online platforms</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation type="vanished">Mga &amp;Icon</translation>
+        <translation>Mga &amp;Icon</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -13485,19 +13839,31 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="obsolete">Tignan ang folder ng mga tema ng icon.</translation>
+        <translation type="unfinished">Tignan ang folder ng mga tema ng icon.</translation>
+    </message>
+    <message>
+        <source>&amp;Widgets</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="obsolete">Tignan ang folder ng mga tema ng widget.</translation>
+        <translation type="unfinished">Tignan ang folder ng mga tema ng widget.</translation>
+    </message>
+    <message>
+        <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation type="vanished">Pus&amp;a</translation>
+        <translation>Pus&amp;a</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="obsolete">Tignan ang folder ng mga cat pack.</translation>
+        <translation type="unfinished">Tignan ang folder ng mga cat pack.</translation>
+    </message>
+    <message>
+        <source>Refresh all</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13510,6 +13876,26 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WizardPage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the Theme you wish to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Preview:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13651,7 +14037,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Filter:</translation>
+        <translation>Filter:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -14338,7 +14724,7 @@ Kanonikal na Path: %1</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation type="vanished">Buksan ang World Datapacks Folder</translation>
+        <translation>Buksan ang World Datapacks Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>
@@ -14436,6 +14822,14 @@ Sigurado ka ba sa gagawin mo?</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>Enter a new world name.</source>
         <translation>Mag-lagay ng bagong world name.</translation>
+    </message>
+    <message>
+        <source>Datapacks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage datapacks inside the world.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

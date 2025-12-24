@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation type="vanished">API raktai</translation>
+        <translation>API raktai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,16 +88,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="vanished">(Numatytasis)</translation>
+        <translation>(Numatytasis)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="vanished">Čia įveskite pasirinktinį kliento ID, skirtą Microsoft Autentifikavimui.</translation>
+        <translation>Čia įveskite pasirinktinį kliento ID, skirtą Microsoft Autentifikavimui.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation type="vanished">Modrinth API</translation>
+        <translation>Modrinth API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,15 +106,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="vanished">Čia įveskite tinkintą Modrinth API prieigos raktą.</translation>
+        <translation>Čia įveskite tinkintą Modrinth API prieigos raktą.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="vanished">(Nieko)</translation>
+        <translation>(Nieko)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="vanished">Technic Kliento ID</translation>
+        <translation>Technic Kliento ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="vanished">Čia įveskite tinkintą Technic GUID kliento ID.</translation>
+        <translation>Čia įveskite tinkintą Technic GUID kliento ID.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Ivairūs</translation>
+        <translation>Ivairūs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="vanished">Įveskite pasirinktą URL meta duomenims.</translation>
+        <translation>Įveskite pasirinktą URL meta duomenims.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation type="vanished">&amp;CurseForge Branduolio API</translation>
+        <translation>&amp;CurseForge Branduolio API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="vanished">Įveskite pasirinktą CurseForge API raktą.</translation>
+        <translation>Įveskite pasirinktą CurseForge API raktą.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation type="vanished">API</translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation type="vanished">Nepavyko atidaryti paketo konfigūracijos %1!</translation>
+        <translation>Nepavyko atidaryti paketo konfigūracijos %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -417,12 +417,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="vanished">Nepažymėta</translation>
+        <translation>Nepažymėta</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="vanished">Neprisijungta</translation>
+        <translation>Neprisijungta</translation>
     </message>
     <message>
         <source>Online</source>
@@ -450,37 +450,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="vanished">Paruošta</translation>
+        <translation>Paruošta</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="vanished">Dirbantis</translation>
+        <translation>Dirbantis</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="vanished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="vanished">Nebegalioja</translation>
+        <translation>Nebegalioja</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="vanished">Išjungtas</translation>
+        <translation>Išjungtas</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="vanished">Pradingęs</translation>
+        <translation>Pradingęs</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="vanished">Nežinoma</translation>
+        <translation>Nežinoma</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1092,7 +1092,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="vanished">Gaunami išteklių failai iš Mojang...</translation>
+        <translation>Gaunami išteklių failai iš Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1464,11 +1464,11 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Jūsų globaliai sukonfiguruotas modų aplankas ir numatytas aplankas yra automatiškai peržiūrėtas atsisiųtų modų ir bus nukopijuoti jeigų bus rasta versija&lt;/p&gt;&lt;p&gt;Pasirinktinai, galima nuvilkti ir numesti atsisiųstus modus ant šio pranešimo ar pridėti aplanką peržiūrai, jeigu atsiųsti modai nėra numatytoje vietoje.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Jūsų globaliai sukonfiguruotas modų aplankas ir numatytas aplankas yra automatiškai peržiūrėtas atsisiųtų modų ir bus nukopijuoti jeigų bus rasta versija&lt;/p&gt;&lt;p&gt;Pasirinktinai, galima nuvilkti ir numesti atsisiųstus modus ant šio pranešimo ar pridėti aplanką peržiūrai, jeigu atsiųsti modai nėra numatytoje vietoje.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation type="vanished">Peržiūrėti aplankai:</translation>
+        <translation>Peržiūrėti aplankai:</translation>
     </message>
 </context>
 <context>
@@ -1612,7 +1612,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation type="vanished">Viena ar daugiau papildomų užduočių nepavyko</translation>
+        <translation>Viena ar daugiau papildomų užduočių nepavyko</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1855,7 +1855,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation type="vanished">Esminės modifikacijos</translation>
+        <translation>Esminės modifikacijos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -1995,22 +1995,22 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="vanished">&amp;Custom Komandos</translation>
+        <translation>&amp;Custom Komandos</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="vanished">Komanda po išėjimo:</translation>
+        <translation>Komanda po išėjimo:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="vanished">Išankstinio paleidimo komandą:</translation>
+        <translation>Išankstinio paleidimo komandą:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="vanished">Įvyniojimo komanda:</translation>
+        <translation>Įvyniojimo komanda:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2043,7 +2043,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation type="vanished">Įvairios komandos</translation>
+        <translation>Įvairios komandos</translation>
     </message>
 </context>
 <context>
@@ -2411,7 +2411,7 @@ Ar tikrai norite tai padaryti?</translation>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Tikrinama ar modifikacijos turi metadata...</translation>
+        <translation>Tikrinama ar modifikacijos turi metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2463,7 +2463,7 @@ Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation type="vanished">&amp;Aplinkos kintamieji</translation>
+        <translation>&amp;Aplinkos kintamieji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2500,7 +2500,7 @@ Ar tikrai norite tai padaryti?</translation>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation type="vanished">Aplinkos kintamieji</translation>
+        <translation>Aplinkos kintamieji</translation>
     </message>
 </context>
 <context>
@@ -2643,11 +2643,11 @@ Ar tikrai norite tai padaryti?</translation>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="vanished">&amp;Pavadinimas</translation>
+        <translation>&amp;Pavadinimas</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation type="vanished">&amp;Versija</translation>
+        <translation>&amp;Versija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2699,7 +2699,7 @@ Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation type="vanished">&amp;Autorius</translation>
+        <translation>&amp;Autorius</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2884,7 +2884,7 @@ Ar tikrai norite tai padaryti?</translation>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Filtras:</translation>
+        <translation>Filtras:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2893,11 +2893,11 @@ Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Papildyti</translation>
+        <translation>&amp;Papildyti</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Pridėti</translation>
+        <translation>Pridėti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2906,7 +2906,7 @@ Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Pašalinti pasirinktą elementą</translation>
+        <translation>Pašalinti pasirinktą elementą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2915,7 +2915,7 @@ Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Aktyvuoti pasirinktą elementą</translation>
+        <translation>Aktyvuoti pasirinktą elementą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3030,7 +3030,7 @@ Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Atsisiųsti naują resursą</translation>
+        <translation>Atsisiųsti naują resursą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3040,27 +3040,27 @@ Ar tikrai norite tai padaryti?</translation>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Bandyti patikrinti arba atnaujinti visus pasirinktus resursus (visus jei niekas nepasirinkta)</translation>
+        <translation>Bandyti patikrinti arba atnaujinti visus pasirinktus resursus (visus jei niekas nepasirinkta)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Eksportuoti modifikaciju sąrašą</translation>
+        <translation>Eksportuoti modifikaciju sąrašą</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">Eksportuoti modifikacijos metadata į tekstą</translation>
+        <translation>Eksportuoti modifikacijos metadata į tekstą</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Apsilankykite mod puslapyje</translation>
+        <translation>Apsilankykite mod puslapyje</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="vanished">Išjungti pasirinktą elementą</translation>
+        <translation>Išjungti pasirinktą elementą</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Eikite į pagrindinį modų puslapį</translation>
+        <translation>Eikite į pagrindinį modų puslapį</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
@@ -3114,12 +3114,12 @@ Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation type="vanished">Patvirtinti įsijungimą</translation>
+        <translation>Patvirtinti įsijungimą</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="vanished">Jei išjungsite šį šaltinį žaidimui veikiant, žaidimas gali nutrūkti.
+        <translation>Jei išjungsite šį šaltinį žaidimui veikiant, žaidimas gali nutrūkti.
 Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
@@ -3192,16 +3192,16 @@ Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="vanished">Išoriniai redaktoriai (palikti tuščią, kad naudoti sistemos numatytąjį)</translation>
+        <translation>Išoriniai redaktoriai (palikti tuščią, kad naudoti sistemos numatytąjį)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="vanished">&amp;Teksto redaktorius:</translation>
+        <translation>&amp;Teksto redaktorius:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation type="vanished">Išoriniai įrankiai</translation>
+        <translation>Išoriniai įrankiai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3262,17 +3262,17 @@ Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation type="vanished">JVisualVM Vykdomasis failas</translation>
+        <translation>JVisualVM Vykdomasis failas</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="vanished">Klaida tikrinant JVisualVM įdiegimą:
+        <translation>Klaida tikrinant JVisualVM įdiegimą:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="vanished">JVisualVM sąranka atrodo tvarkingai</translation>
+        <translation>JVisualVM sąranka atrodo tvarkingai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3299,7 +3299,7 @@ Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation type="vanished">JSON redaktorius</translation>
+        <translation>JSON redaktorius</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3468,7 +3468,7 @@ Bandykite dar kartą.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="vanished">Gaunamas API atsakymas iš CurseForge, skirtas &apos;% 1&apos;...</translation>
+        <translation>Gaunamas API atsakymas iš CurseForge, skirtas &apos;% 1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3507,16 +3507,16 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="vanished">Paruošiamos CurseForge modifikacijos...</translation>
+        <translation>Paruošiamos CurseForge modifikacijos...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Nerasta šios tinkamos modifikacijos versijos. Tikriausiai jis nepasiekiamas dabartinei žaidimo versijai / modifikacijų įkrovikliui.</translation>
+        <translation>Nerasta šios tinkamos modifikacijos versijos. Tikriausiai jis nepasiekiamas dabartinei žaidimo versijai / modifikacijų įkrovikliui.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Modifikacija turi prieinamą atnaujinimą, tačiau nėra galimybės atsisiusti naudojantis CurseForge.</translation>
+        <translation>Modifikacija turi prieinamą atnaujinimą, tačiau nėra galimybės atsisiusti naudojantis CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3870,11 +3870,11 @@ Bandykite dar kartą.</translation>
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation type="vanished">Raktas</translation>
+        <translation>Raktas</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="vanished">Reikšmė</translation>
+        <translation>Reikšmė</translation>
     </message>
 </context>
 <context>
@@ -4244,11 +4244,11 @@ Bandykite dar kartą.</translation>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation type="vanished">&amp;Pavadinimas:</translation>
+        <translation>&amp;Pavadinimas:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation type="vanished">&amp;Grupė:</translation>
+        <translation>&amp;Grupė:</translation>
     </message>
 </context>
 <context>
@@ -4379,19 +4379,19 @@ Bandykite dar kartą.</translation>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation type="vanished">Atidarykite visuotinius nustatymus</translation>
+        <translation>Atidarykite visuotinius nustatymus</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="vanished">Šie parametrai nepaiso pagrindinių nustatymų.</translation>
+        <translation>Šie parametrai nepaiso pagrindinių nustatymų.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation type="vanished">Java įdiegimas</translation>
+        <translation>Java įdiegimas</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation type="vanished">Automatinis aptikimas...</translation>
+        <translation>Automatinis aptikimas...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4399,225 +4399,225 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="vanished">Testas</translation>
+        <translation>Testas</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">Jei įjungta, paleidimo priemonė netikrins, ar egzempliorius suderinamas su pasirinkta Java versija.</translation>
+        <translation>Jei įjungta, paleidimo priemonė netikrins, ar egzempliorius suderinamas su pasirinkta Java versija.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="vanished">Praleisti Java derėjimo patikras</translation>
+        <translation>Praleisti Java derėjimo patikras</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="vanished">Atmintis</translation>
+        <translation>Atmintis</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">Minimalus atminties paskyrimas:</translation>
+        <translation>Minimalus atminties paskyrimas:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">Leidžiama naudoti didžiausią „Minecraft“ atminties kiekį.</translation>
+        <translation>Leidžiama naudoti didžiausią „Minecraft“ atminties kiekį.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">Laikinos atminties kiekis su kuriuo Minecraft įjungiamas.</translation>
+        <translation>Laikinos atminties kiekis su kuriuo Minecraft įjungiamas.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">Galimas laikinos atminties kiekis laikyti užkrautoms Java klasėms.</translation>
+        <translation>Galimas laikinos atminties kiekis laikyti užkrautoms Java klasėms.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Didžiausias skiriamas laikinos atminties kiekis:</translation>
+        <translation>Didžiausias skiriamas laikinos atminties kiekis:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="vanished">Naršyti</translation>
+        <translation>Naršyti</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="vanished">Parsisiųsti Java</translation>
+        <translation>Parsisiųsti Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation type="vanished">PermGen:</translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="vanished">Pastaba: nuo Java 8 ir vėlesnių versijų, Permgen nustatomas automatiškai</translation>
+        <translation>Pastaba: nuo Java 8 ir vėlesnių versijų, Permgen nustatomas automatiškai</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation type="vanished">Java argumentai</translation>
+        <translation>Java argumentai</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation type="vanished">Žaidimo langai</translation>
+        <translation>Žaidimo langai</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation type="vanished">Žaidimo langas</translation>
+        <translation>Žaidimo langas</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="vanished">Įjungti Minecraft pilname lange</translation>
+        <translation>Įjungti Minecraft pilname lange</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation type="vanished">Lango aukštis:</translation>
+        <translation>Lango aukštis:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation type="vanished">Lango plotis:</translation>
+        <translation>Lango plotis:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation type="vanished">Konsol&amp;ės nustatymai</translation>
+        <translation>Konsol&amp;ės nustatymai</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="vanished">Rodyti konsolę žaidimui veikiant</translation>
+        <translation>Rodyti konsolę žaidimui veikiant</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">Automatiškai uždaryti komandinę eilutę, kai žaidimas išjungiamas</translation>
+        <translation>Automatiškai uždaryti komandinę eilutę, kai žaidimas išjungiamas</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="vanished">Rodyti komandinę eilutę, kai žaidimas užstringa</translation>
+        <translation>Rodyti komandinę eilutę, kai žaidimas užstringa</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="vanished">Uždaryti paleidėją, kai atsidaro žaidimo langas</translation>
+        <translation>Uždaryti paleidėją, kai atsidaro žaidimo langas</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="vanished">Uždaryti paleidėją, kai uždaromas žaidimo langas</translation>
+        <translation>Uždaryti paleidėją, kai uždaromas žaidimo langas</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation type="vanished">Įvairios komandos</translation>
+        <translation>Įvairios komandos</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="vanished">Programos kintamieji</translation>
+        <translation>Programos kintamieji</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation type="vanished">Apėjimo būdai</translation>
+        <translation>Apėjimo būdai</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation type="vanished">Vietinės bibliotekos</translation>
+        <translation>Vietinės bibliotekos</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="vanished">&amp;GLFW bibliotekos kelias</translation>
+        <translation>&amp;GLFW bibliotekos kelias</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="vanished">Naudoti GLFW sistemos instaliaciją</translation>
+        <translation>Naudoti GLFW sistemos instaliaciją</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="vanished">Naudoti OpenAL sistemos instaliaciją</translation>
+        <translation>Naudoti OpenAL sistemos instaliaciją</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="vanished">Vieno žaidėjo pasaulis</translation>
+        <translation>Vieno žaidėjo pasaulis</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="obsolete">Perrašyti pagrindinę paskyrą</translation>
+        <translation type="unfinished">Perrašyti pagrindinę paskyrą</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">Paskyra:</translation>
+        <translation>Paskyra:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Įvairūs</translation>
+        <translation>Įvairūs</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="vanished">&amp;OpenAL bibliotekos kelias</translation>
+        <translation>&amp;OpenAL bibliotekos kelias</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">Našumas</translation>
+        <translation>Našumas</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti Feral Interactive&apos;s GameMode, kad potencialiai pagerinti žaidimų našumą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti Feral Interactive&apos;s GameMode, kad potencialiai pagerinti žaidimų našumą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">Įjungti Feral GameMode</translation>
+        <translation>Įjungti Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti MangoHud modifikacijos išplėstinę našumo perdangą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti MangoHud modifikacijos išplėstinę našumo perdangą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">Įjungti MangoHud</translation>
+        <translation>Įjungti MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Naudoti pasirinktiną GPU vietoje pagrindinės GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Naudoti pasirinktiną GPU vietoje pagrindinės GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">Naudoti pagrindinį grafinį procesorių</translation>
+        <translation>Naudoti pagrindinį grafinį procesorių</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="vanished">Naudoti Zink - Mesa OpenGL tvarkyklę, kuri įdiegia OpenGL į Vulkan. Našumas gali skirtis priklausomai nuo situacijos. Pastaba: Jeigu nebus rasta Vulkan tvarkyklė, bus naudojamas programinės įrangos vaizdavimas.</translation>
+        <translation>Naudoti Zink - Mesa OpenGL tvarkyklę, kuri įdiegia OpenGL į Vulkan. Našumas gali skirtis priklausomai nuo situacijos. Pastaba: Jeigu nebus rasta Vulkan tvarkyklė, bus naudojamas programinės įrangos vaizdavimas.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="vanished">Naudoti Zink</translation>
+        <translation>Naudoti Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="vanished">Senieji nustatymai</translation>
+        <translation>Senieji nustatymai</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuliuoja senųjų internetinių paslaugų, kurios jau nebeveikia, veikimą.&lt;/p&gt;&lt;p&gt;Dabartiniai pataisymai: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuliuoja senųjų internetinių paslaugų, kurios jau nebeveikia, veikimą.&lt;/p&gt;&lt;p&gt;Dabartiniai pataisymai: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="vanished">Įjungti online pataisymus (bandomasis)</translation>
+        <translation>Įjungti online pataisymus (bandomasis)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation type="vanished">Nepaisyti visuotinių žaidimo laiko nustatymų</translation>
+        <translation>Nepaisyti visuotinių žaidimo laiko nustatymų</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="vanished">Rodyti laiką, praleistą žaidžiant šį instance</translation>
+        <translation>Rodyti laiką, praleistą žaidžiant šį instance</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation type="vanished">Rekordinis laikas pražaistas šiame instance</translation>
+        <translation>Rekordinis laikas pražaistas šiame instance</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="vanished">Nustatyti kur prisijungti kuomet paleidžiama</translation>
+        <translation>Nustatyti kur prisijungti kuomet paleidžiama</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="vanished">Serverio adresas:</translation>
+        <translation>Serverio adresas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4626,47 +4626,47 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="vanished">Kelias į %1 bibliotekos failą</translation>
+        <translation>Kelias į %1 bibliotekos failą</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">Feral Interactive&apos;s GameMode nebuvo rastas jūsų sistemoje</translation>
+        <translation>Feral Interactive&apos;s GameMode nebuvo rastas jūsų sistemoje</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">MangoHud nebuvo rastas jūsų sistemoje.</translation>
+        <translation>MangoHud nebuvo rastas jūsų sistemoje.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Pasirinkite Java versiją</translation>
+        <translation>Pasirinkite Java versiją</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">Patvirtinti pasirinkimą</translation>
+        <translation>Patvirtinti pasirinkimą</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="vanished">Jūs pasirinkote 32-bit Java versija.
+        <translation>Jūs pasirinkote 32-bit Java versija.
 Šis įdiegimas nepalaiko daugiau nei 2048MiB RAM.
 Įsitikinkite kad maksimalus RAM yra mažiau.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Surasti Java .exe</translation>
+        <translation>Surasti Java .exe</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">Maksimalus atminties kiekis viršija sistemos atminties talpą.</translation>
+        <translation>Maksimalus atminties kiekis viršija sistemos atminties talpą.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Maksimalus atminties paskirstymas artėja prie sistemos atminties talpos.</translation>
+        <translation>Maksimalus atminties paskirstymas artėja prie sistemos atminties talpos.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="vanished">Maksimalus atminties paskirstymas yra mažesnis nei minimali vertė</translation>
+        <translation>Maksimalus atminties paskirstymas yra mažesnis nei minimali vertė</translation>
     </message>
 </context>
 <context>
@@ -4767,7 +4767,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation type="vanished">JVisualVM pradėtas</translation>
+        <translation>JVisualVM pradėtas</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -4794,15 +4794,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="vanished">Išskleidžiama „Java“ (Progresas nepranešamas „tar“ archyvams)</translation>
+        <translation>Išskleidžiama „Java“ (Progresas nepranešamas „tar“ archyvams)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation type="vanished">Nepavyko atidaryti pateikto tar failo.</translation>
+        <translation>Nepavyko atidaryti pateikto tar failo.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="vanished">Nepavyko atidaryti pateikto tar failo.</translation>
+        <translation>Nepavyko atidaryti pateikto tar failo.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -4816,7 +4816,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation type="obsolete">Nenustatytas archyvo tipas!</translation>
+        <translation type="unfinished">Nenustatytas archyvo tipas!</translation>
     </message>
 </context>
 <context>
@@ -4922,70 +4922,70 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Atmintis</translation>
+        <translation>Atmintis</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="obsolete">Leidžiama naudoti didžiausią „Minecraft“ atminties kiekį.</translation>
+        <translation type="unfinished">Leidžiama naudoti didžiausią „Minecraft“ atminties kiekį.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="vanished">&amp;Minimalus atminties paskyrimas:</translation>
+        <translation>&amp;Minimalus atminties paskyrimas:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="vanished">Mak&amp;simalus atminties paskyrimas:</translation>
+        <translation>Mak&amp;simalus atminties paskyrimas:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation type="vanished">&amp;PermGen:</translation>
+        <translation>&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="obsolete">Laikinos atminties kiekis su kuriuo Minecraft įjungiamas.</translation>
+        <translation type="unfinished">Laikinos atminties kiekis su kuriuo Minecraft įjungiamas.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="obsolete">Galimas laikinos atminties kiekis laikyti užkrautoms Java klasėms.</translation>
+        <translation type="unfinished">Galimas laikinos atminties kiekis laikyti užkrautoms Java klasėms.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation type="vanished">Java Runtime</translation>
+        <translation>Java Runtime</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation type="vanished">JVM argumentai:</translation>
+        <translation>JVM argumentai:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="vanished">Automatiškai parenka „Java“ versiją, kuri suderinama su dabartiniu „Minecraft“ instance, remiantis reikiama pagrindine versija.</translation>
+        <translation>Automatiškai parenka „Java“ versiją, kuri suderinama su dabartiniu „Minecraft“ instance, remiantis reikiama pagrindine versija.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="vanished">Automatiškai aptikti Java versiją</translation>
+        <translation>Automatiškai aptikti Java versiją</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="vanished">&amp;Java kelias:</translation>
+        <translation>&amp;Java kelias:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="vanished">Automatiškai atsisiunčia ir parenka Mojang rekomenduojamą Java versiją.</translation>
+        <translation>Automatiškai atsisiunčia ir parenka Mojang rekomenduojamą Java versiją.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="vanished">Auto-atsisiųsti Mojang Java</translation>
+        <translation>Auto-atsisiųsti Mojang Java</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation type="vanished">Valdymas</translation>
+        <translation>Valdymas</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation type="vanished">Atsisiųstos Java versijos</translation>
+        <translation>Atsisiųstos Java versijos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5010,33 +5010,33 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="obsolete">Automatinis aptikimas...</translation>
+        <translation type="unfinished">Automatinis aptikimas...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="obsolete">Testas</translation>
+        <translation type="unfinished">Testas</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="obsolete">Parinkti</translation>
+        <translation type="unfinished">Parinkti</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="vanished">Jeigu įjungta, neprašys pasirinkti „Java“ versijos, jei jos nerasta.</translation>
+        <translation>Jeigu įjungta, neprašys pasirinkti „Java“ versijos, jei jos nerasta.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="vanished">Praleisti Java &amp;Wizard</translation>
+        <translation>Praleisti Java &amp;Wizard</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">Jei įjungta, paleidimo priemonė netikrins, ar instance suderinamas su pasirinkta Java versija.</translation>
+        <translation>Jei įjungta, paleidimo priemonė netikrins, ar instance suderinamas su pasirinkta Java versija.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="vanished">&amp;Praleisti Java suderinimo patikrinimus</translation>
+        <translation>&amp;Praleisti Java suderinimo patikrinimus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5057,35 +5057,35 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Pasirinkite Java versiją</translation>
+        <translation>Pasirinkite Java versiją</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="vanished">Patvirtinti pasirinkimą</translation>
+        <translation>Patvirtinti pasirinkimą</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="obsolete">Jūs pasirinkote 32-bit Java versija.
+        <translation type="unfinished">Jūs pasirinkote 32-bit Java versija.
 Šis įdiegimas nepalaiko daugiau nei 2048MiB RAM.
 Įsitikinkite kad maksimalus RAM yra mažiau.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="obsolete">Surasti Java .exe</translation>
+        <translation type="unfinished">Surasti Java .exe</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="obsolete">Maksimalus atminties kiekis viršija sistemos atminties talpą.</translation>
+        <translation type="unfinished">Maksimalus atminties kiekis viršija sistemos atminties talpą.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="obsolete">Maksimalus atminties paskirstymas artėja prie sistemos atminties talpos.</translation>
+        <translation type="unfinished">Maksimalus atminties paskirstymas artėja prie sistemos atminties talpos.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="obsolete">Maksimalus atminties paskirstymas yra mažesnis nei minimali vertė</translation>
+        <translation type="unfinished">Maksimalus atminties paskirstymas yra mažesnis nei minimali vertė</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5104,7 +5104,7 @@ Ar tikrai?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation type="vanished">Nepasirinkta Java versija</translation>
+        <translation>Nepasirinkta Java versija</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5122,11 +5122,11 @@ Ar norite tęsti be „Java“?
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="obsolete">Parsisiųsti Java</translation>
+        <translation type="unfinished">Parsisiųsti Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="vanished">Aptikta 32-bit Java</translation>
+        <translation>Aptikta 32-bit Java</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5135,7 +5135,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">Jūs pasirinkote 32-bit Java versiją, bet paskyrėte daugiau nei 2048MiB atminties.
+        <translation>Jūs pasirinkote 32-bit Java versiją, bet paskyrėte daugiau nei 2048MiB atminties.
 %1 negalės įjungti Minecraft.
 
 Java versiją galite pakeisti vėliau nustatymuose.
@@ -5148,7 +5148,7 @@ Java versiją galite pakeisti vėliau nustatymuose.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Atmintis</translation>
+        <translation>Atmintis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5157,7 +5157,7 @@ Java versiją galite pakeisti vėliau nustatymuose.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="obsolete">Minimalus atminties paskyrimas:</translation>
+        <translation type="unfinished">Minimalus atminties paskyrimas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5263,7 +5263,7 @@ Java versiją galite pakeisti vėliau nustatymuose.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="obsolete">Didžiausias skiriamas laikinos atminties kiekis:</translation>
+        <translation type="unfinished">Didžiausias skiriamas laikinos atminties kiekis:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5301,20 +5301,29 @@ Java versiją galite pakeisti vėliau nustatymuose.
         <translation type="unfinished">Galimas laikinos atminties kiekis laikyti užkrautoms Java klasėms.</translation>
     </message>
     <message>
+        <source>You either didn&apos;t select a Java version or selected one that does not work.
+%1 will not be able to start Minecraft.
+Do you wish to proceed without a functional version of Java?
+
+You can change the Java version in the settings later.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Browse</source>
-        <translation type="obsolete">Parinkti</translation>
+        <translation type="unfinished">Parinkti</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="obsolete">Auto-atsisiųsti Mojang Java</translation>
+        <translation type="unfinished">Auto-atsisiųsti Mojang Java</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="obsolete">Automatiškai aptikti Java versiją</translation>
+        <translation type="unfinished">Automatiškai aptikti Java versiją</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="vanished">Auto aptikti Java</translation>
+        <translation>Auto aptikti Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5352,15 +5361,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="obsolete">Maksimalus atminties paskirstymas artėja prie sistemos atminties talpos.</translation>
+        <translation type="unfinished">Maksimalus atminties paskirstymas artėja prie sistemos atminties talpos.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="obsolete">Maksimalus atminties paskirstymas yra mažesnis nei minimali vertė</translation>
+        <translation type="unfinished">Maksimalus atminties paskirstymas yra mažesnis nei minimali vertė</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="vanished">Jūs naudojate daugiau paskirstimo, negu palaiko 32-bit Java.</translation>
+        <translation>Jūs naudojate daugiau paskirstimo, negu palaiko 32-bit Java.</translation>
     </message>
 </context>
 <context>
@@ -5624,7 +5633,19 @@ Ar norite žaisti demo?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation type="vanished">Žaisti neprisijungus</translation>
+        <translation>Žaisti neprisijungus</translation>
+    </message>
+    <message>
+        <source>The account has expired and needs to be logged into manually again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
@@ -5774,7 +5795,7 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     <name>LauncherPage</name>
     <message>
         <source>Update Settings</source>
-        <translation type="vanished">Atnaujinimo nustatymai</translation>
+        <translation>Atnaujinimo nustatymai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -5784,15 +5805,15 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     </message>
     <message>
         <source>Update interval</source>
-        <translation type="vanished">Atnaujinimo intervalas</translation>
+        <translation>Atnaujinimo intervalas</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="vanished">Nustatykite 0, kad ieškoti ant starto.</translation>
+        <translation>Nustatykite 0, kad ieškoti ant starto.</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="vanished">h</translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
@@ -5952,7 +5973,7 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="obsolete">Ivairūs</translation>
+        <translation type="unfinished">Ivairūs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -5982,7 +6003,7 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     </message>
     <message>
         <source>Mods</source>
-        <translation type="vanished">Modifikacijos</translation>
+        <translation>Modifikacijos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
@@ -6001,15 +6022,15 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     </message>
     <message>
         <source>Cat</source>
-        <translation type="vanished">Katė</translation>
+        <translation>Katė</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="vanished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="vanished">Įrankiai</translation>
+        <translation>Įrankiai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6068,28 +6089,92 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
         <translation>Konsolė</translation>
     </message>
     <message>
+        <source>Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check downloads folder recursively</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable using metadata for mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable automatic mod dependency management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip modpack update prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of concurrent tasks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of concurrent downloads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of manual retries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timeout for HTTP requests</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Instance view sorting mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opacity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Console Settings</source>
-        <translation type="vanished">Konsolės nustatymai</translation>
+        <translation>Konsolės nustatymai</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="vanished">Rodyti konsolę, kol žaidimas veikia</translation>
+        <translation>Rodyti konsolę, kol žaidimas veikia</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">&amp;Automatiškai uždaryti konsolę kuomet žaidimas išjungiamas</translation>
+        <translation>&amp;Automatiškai uždaryti konsolę kuomet žaidimas išjungiamas</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="vanished">Rodyti konsolę, kai žaidimas užstringa</translation>
+        <translation>Rodyti konsolę, kai žaidimas užstringa</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="vanished">%Istorijos limitas</translation>
+        <translation>%Istorijos limitas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6105,7 +6190,7 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="vanished">Konsolės &amp;šriftas</translation>
+        <translation>Konsolės &amp;šriftas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6169,19 +6254,31 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="vanished">[Testas/Klaida] OOoooOOOoooo! Baisi Klaida!</translation>
+        <translation>[Testas/Klaida] OOoooOOOoooo! Baisi Klaida!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="vanished">[Tesast/KLAIDA] Baisi klaida!</translation>
+        <translation>[Tesast/KLAIDA] Baisi klaida!</translation>
+    </message>
+    <message>
+        <source>[Test/INFO] A harmless message...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="vanished">[Testas/KLAIDA] Klaida.</translation>
+        <translation>[Testas/KLAIDA] Klaida.</translation>
+    </message>
+    <message>
+        <source>[Test/DEBUG] A secret debugging message...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Test/FATAL] A terrifying fatal error!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation type="vanished">Launcheris</translation>
+        <translation>Launcheris</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6285,7 +6382,7 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation type="vanished">Nepavyko atidaryti Modpack failo %1!</translation>
+        <translation>Nepavyko atidaryti Modpack failo %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -6451,8 +6548,13 @@ Reason:
 <context>
     <name>LocalModUpdateTask</name>
     <message>
+        <source>Updating index for mod:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Neteisinga metadata</translation>
+        <translation>Neteisinga metadata</translation>
     </message>
 </context>
 <context>
@@ -6524,7 +6626,7 @@ Reason:
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Ieškoti:</translation>
+        <translation>Ieškoti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -6644,12 +6746,20 @@ Reason:
         <source>A zip error occurred</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Could not create:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation type="obsolete">Nepavyko atidaryti pateikto zip failo.</translation>
+        <translation type="unfinished">Nepavyko atidaryti pateikto zip failo.</translation>
+    </message>
+    <message>
+        <source>Failed to seek to first file in zip</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -6678,7 +6788,7 @@ Reason:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="obsolete">Nepavyko pakeisti leidimų %1</translation>
+        <translation type="unfinished">Nepavyko pakeisti leidimų %1</translation>
     </message>
 </context>
 <context>
@@ -6775,11 +6885,11 @@ Reason:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="vanished">Atidarykite %1 arba skenuokite QR arba įrašykite kodą viršuje.</translation>
+        <translation>Atidarykite %1 arba skenuokite QR arba įrašykite kodą viršuje.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation type="vanished">Atidarykite %1 ir įrašykite kodą viršuje.</translation>
+        <translation>Atidarykite %1 ir įrašykite kodą viršuje.</translation>
     </message>
 </context>
 <context>
@@ -6968,7 +7078,7 @@ Reason:
     </message>
     <message>
         <source>More news...</source>
-        <translation type="vanished">Daugiau naujienų...</translation>
+        <translation>Daugiau naujienų...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7312,7 +7422,7 @@ Reason:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="vanished">Sukuria pasirinktos instance nurodą ant darbalaukio.</translation>
+        <translation>Sukuria pasirinktos instance nurodą ant darbalaukio.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
@@ -7542,6 +7652,17 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You are about to delete &quot;%1&quot;.
+This may be permanent and will completely delete the instance.
+
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are linked instances</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
 
@@ -7550,7 +7671,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="vanished">
+        <translation>
             <numerusform>Sekantis egzempliorius gali nurodyti failus šiame egzemplioriuje:
 
 %1
@@ -7573,6 +7694,54 @@ Ištrynus jį gali sutrikti kiti egzemplioriai,
 
 Ar jūs norite tęsti?</numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Create instance shortcut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t find desktop?!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create instance Application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create icon for Application.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create icon for shortcut.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not supported on your platform!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created a shortcut to this instance on your desktop!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created a shortcut to this instance!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create instance shortcut!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -7815,6 +7984,22 @@ This can be updated only using a file in %1 format
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pack information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pack name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update pack</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
@@ -7945,61 +8130,137 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftPage</name>
     <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Minecraft &amp;maximized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window &amp;height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window &amp;width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Game time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show time spent &amp;playing instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show time spent playing across &amp;all instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record time spent playing instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show time spent playing in hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close the launcher after game window opens</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Quit the launcher after game window closes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tweaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Legacy settings</source>
-        <translation type="obsolete">Senieji nustatymai</translation>
+        <translation type="unfinished">Senieji nustatymai</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuliuoja senųjų internetinių paslaugų, kurios jau nebeveikia, veikimą.&lt;/p&gt;&lt;p&gt;Dabartiniai pataisymai: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuliuoja senųjų internetinių paslaugų, kurios jau nebeveikia, veikimą.&lt;/p&gt;&lt;p&gt;Dabartiniai pataisymai: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="obsolete">Įjungti online pataisymus (bandomasis)</translation>
+        <translation type="unfinished">Įjungti online pataisymus (bandomasis)</translation>
+    </message>
+    <message>
+        <source>Native library workarounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use system installation of &amp;GLFW</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="obsolete">&amp;GLFW bibliotekos path</translation>
+        <translation type="unfinished">&amp;GLFW bibliotekos path</translation>
+    </message>
+    <message>
+        <source>Use system installation of &amp;OpenAL</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="obsolete">&amp;OpenAL bibliotekos kelias</translation>
+        <translation type="unfinished">&amp;OpenAL bibliotekos kelias</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="obsolete">Našumas</translation>
+        <translation type="unfinished">Našumas</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti Feral Interactive&apos;s GameMode, kad potencialiai pagerinti žaidimų našumą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti Feral Interactive&apos;s GameMode, kad potencialiai pagerinti žaidimų našumą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="obsolete">Įjungti Feral GameMode</translation>
+        <translation type="unfinished">Įjungti Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti MangoHud modifikacijos išplėstinę našumo perdangą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti MangoHud modifikacijos išplėstinę našumo perdangą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="obsolete">Įjungti MangoHud</translation>
+        <translation type="unfinished">Įjungti MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Naudoti pasirinktiną GPU vietoje pagrindinės GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Naudoti pasirinktiną GPU vietoje pagrindinės GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="obsolete">Naudoti pagrindinį grafinį procesorių</translation>
+        <translation type="unfinished">Naudoti pagrindinį grafinį procesorių</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="obsolete">Naudoti Zink</translation>
+        <translation type="unfinished">Naudoti Zink</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="obsolete">Ivairūs</translation>
+        <translation type="unfinished">Ivairūs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -8008,15 +8269,19 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="obsolete">Kelias į %1 bibliotekos failą</translation>
+        <translation type="unfinished">Kelias į %1 bibliotekos failą</translation>
+    </message>
+    <message>
+        <source>Auto detected path: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="obsolete">Feral Interactive&apos;s GameMode nebuvo rastas jūsų sistemoje</translation>
+        <translation type="unfinished">Feral Interactive&apos;s GameMode nebuvo rastas jūsų sistemoje</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="obsolete">MangoHud nebuvo rastas jūsų sistemoje.</translation>
+        <translation type="unfinished">MangoHud nebuvo rastas jūsų sistemoje.</translation>
     </message>
 </context>
 <context>
@@ -8582,11 +8847,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="obsolete">Nežinoma</translation>
+        <translation type="unfinished">Nežinoma</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Iš kur mod&apos;as buvo atsisiųstas.</translation>
+        <translation>Iš kur mod&apos;as buvo atsisiųstas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -8760,24 +9025,60 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Download mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Add file</source>
-        <translation type="vanished">Pridėti failą</translation>
+        <translation>Pridėti failą</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Pridėti lokaliai atsisiųstą failą</translation>
+        <translation>Pridėti lokaliai atsisiųstą failą</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="obsolete">Patikrinti Priklausomybes</translation>
+        <translation type="unfinished">Patikrinti Priklausomybes</translation>
+    </message>
+    <message>
+        <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove mod&apos;s metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to mod&apos;s home page</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">Pakeisti Versiją</translation>
+        <translation>Pakeisti Versiją</translation>
+    </message>
+    <message>
+        <source>Change mod version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="obsolete">Apsilankykite mod puslapyje</translation>
+        <translation type="unfinished">Apsilankykite mod puslapyje</translation>
+    </message>
+    <message>
+        <source>Visit mods&apos; pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to the pages of the selected mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please install a mod loader first!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
@@ -8953,28 +9254,125 @@ Are you sure?</source>
 <context>
     <name>ModUpdateDialog</name>
     <message>
+        <source>Confirm mods to update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You&apos;re about to update the following mods:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only mods with a check will be updated!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata generation failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error</source>
-        <translation type="obsolete">Klaida</translation>
+        <translation type="unfinished">Klaida</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="obsolete">Įspėjimai</translation>
+        <translation type="unfinished">Įspėjimai</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="obsolete">Nutraukti</translation>
+        <translation type="unfinished">Nutraukti</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod name: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
+        <extracomment>%1 is the link to download it manually</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to check for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking for dependencies...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">Modifikacija &apos;%1&apos; dar neturi metaduomenų. Turime juos sugeneruoti, kad galėtume sekti atitinkamą informaciją, kaip atnaujinti šią modifikaciją. Norėdami tai padaryti, pasirinkite modifikacijų tiekėją, kurį galime naudoti norėdami patikrinti, ar nėra šios modifikacijos atnaujinimų.</translation>
+        <translation>Modifikacija &apos;%1&apos; dar neturi metaduomenų. Turime juos sugeneruoti, kad galėtume sekti atitinkamą informaciją, kaip atnaujinti šią modifikaciją. Norėdami tai padaryti, pasirinkite modifikacijų tiekėją, kurį galime naudoti norėdami patikrinti, ar nėra šios modifikacijos atnaujinimų.</translation>
+    </message>
+    <message>
+        <source>Generating metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="obsolete">Modifikacija buvo išjunkta, nes gali būti, kad jau buvo instaliuotą.</translation>
+        <translation type="unfinished">Modifikacija buvo išjunkta, nes gali būti, kad jau buvo instaliuotą.</translation>
+    </message>
+    <message>
+        <source>Provider: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="obsolete">Neinstaliuota</translation>
+        <translation type="unfinished">Neinstaliuota</translation>
+    </message>
+    <message>
+        <source>Old version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Version Type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Required by: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Required by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changelog of the latest version</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9063,8 +9461,12 @@ Please update %1!</source>
         <translation type="unfinished">Nėra tinkamos versijos šiam resursui. Galbūt tokios versijos net nėra šiai žaidimo versijai.</translation>
     </message>
     <message>
+        <source>Preparing mods for Modrinth...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="obsolete">Nerasta šios tinkamos modifikacijos versijos. Tikriausiai jis nepasiekiamas dabartinei žaidimo versijai / modifikacijų įkrovikliui.</translation>
+        <translation type="unfinished">Nerasta šios tinkamos modifikacijos versijos. Tikriausiai jis nepasiekiamas dabartinei žaidimo versijai / modifikacijų įkrovikliui.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
@@ -9513,19 +9915,27 @@ Please update %1!</source>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation type="obsolete">Pridėti paskyrą</translation>
+        <translation type="unfinished">Pridėti paskyrą</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="obsolete">Slapyvardis</translation>
+        <translation type="unfinished">Slapyvardis</translation>
+    </message>
+    <message>
+        <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow long usernames</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">Atšaukti</translation>
+        <translation type="unfinished">Atšaukti</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="obsolete">Gerai</translation>
+        <translation type="unfinished">Gerai</translation>
     </message>
 </context>
 <context>
@@ -9565,7 +9975,7 @@ Please update %1!</source>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Rasti</translation>
+        <translation>Rasti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -9653,20 +10063,32 @@ Please update %1!</source>
         <translation type="unfinished">Paieška</translation>
     </message>
     <message>
+        <source>Clear the log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete</source>
-        <translation type="vanished">Ištrinti</translation>
+        <translation>Ištrinti</translation>
+    </message>
+    <message>
+        <source>Upload the log to the paste service configured in preferences.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">Įkelti</translation>
+        <translation>Įkelti</translation>
+    </message>
+    <message>
+        <source>Clean</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">Perkrauti</translation>
+        <translation>Perkrauti</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="obsolete">Ieškoti:</translation>
+        <translation type="unfinished">Ieškoti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -9741,6 +10163,14 @@ Are you sure?</source>
 %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The file (%1) is not readable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other logs</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PackProfile</name>
@@ -9764,7 +10194,7 @@ Are you sure?</source>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation type="obsolete">Uždaryti</translation>
+        <translation type="unfinished">Uždaryti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -9780,6 +10210,34 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
         <source>Help</source>
         <translation type="unfinished">Pagalba</translation>
+    </message>
+</context>
+<context>
+    <name>PasteUpload</name>
+    <message>
+        <source>Uploading to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: %1 returned unexpected status code %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: %1 returned a malformed response body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: %1 returned an error: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: %1 returned an error code: %2
+Error message: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10408,6 +10866,10 @@ HTTP Status: %2</source>
         <source>The server responded with the following error:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The server returned the following error:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProgressDialog</name>
@@ -10511,6 +10973,10 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
         <source>Proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Default</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11088,7 +11554,7 @@ PASTABA: Prieš atnaujindami įsitikinkite, kad padarėte svarbių egzempliorių
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="obsolete">Nepavyko pakeisti leidimų %1</translation>
+        <translation type="unfinished">Nepavyko pakeisti leidimų %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -11437,6 +11903,37 @@ Error message: %3</source>
         <source>With special thanks to</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No author(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid path to JVisualVM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Website</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Developers</source>
+        <comment>About Credits</comment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With thanks to</source>
+        <comment>About Credits</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload failed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Resource</name>
@@ -11476,6 +11973,10 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="107"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change %1 version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11885,11 +12386,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12007,6 +12510,10 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourcePackPage</name>
@@ -12120,6 +12627,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download resource packs from online platforms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resource packs</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12332,7 +12851,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation type="vanished">Šis atsisiųntimas bus nukeltas į: %1</translation>
+        <translation>Šis atsisiųntimas bus nukeltas į: %1</translation>
+    </message>
+    <message>
+        <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -12609,6 +13132,10 @@ Dabar įdiegta versija: %1</translation>
         <source>Online</source>
         <translation type="unfinished">Prisijungęs</translation>
     </message>
+    <message>
+        <source>Latency</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ServersPage</name>
@@ -12841,6 +13368,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download shaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download shaders from online platforms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shader packs</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13220,7 +13759,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="obsolete">Nepavyko atidaryti parinkto modpack zip failo.</translation>
+        <translation type="unfinished">Nepavyko atidaryti parinkto modpack zip failo.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -13407,16 +13946,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13549,20 +14091,48 @@ Are you sure you want to do this?</source>
 Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Download packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download texture packs from online platforms</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ThemeCustomizationWidget</name>
     <message>
+        <source>&amp;Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View icon themes folder.</source>
-        <translation type="obsolete">Peržiūrėti piktogramų temų aplanką.</translation>
+        <translation type="unfinished">Peržiūrėti piktogramų temų aplanką.</translation>
+    </message>
+    <message>
+        <source>&amp;Widgets</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="obsolete">Peržiūrėti valdiklių temų aplanką.</translation>
+        <translation type="unfinished">Peržiūrėti valdiklių temų aplanką.</translation>
+    </message>
+    <message>
+        <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;at</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="obsolete">„Peržiūrėti &quot;cat packs&quot; aplanką.</translation>
+        <translation type="unfinished">„Peržiūrėti &quot;cat packs&quot; aplanką.</translation>
+    </message>
+    <message>
+        <source>Refresh all</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13575,6 +14145,26 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WizardPage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the Theme you wish to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Preview:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13746,7 +14336,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="obsolete">Filtras:</translation>
+        <translation type="unfinished">Filtras:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -14514,6 +15104,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>Enter a new world name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Datapacks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage datapacks inside the world.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open World Datapacks Folder</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
