@@ -7046,7 +7046,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"/>
         <source>Microsoft user authentication failed.</source>
-        <translation>Fallou a autenticación de usuario de Microsoft</translation>
+        <translation>Fallou a autenticación de usuario de Microsoft.</translation>
     </message>
 </context>
 <context>
