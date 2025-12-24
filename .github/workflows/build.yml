@@ -20,11 +20,12 @@ jobs:
 
       - name: Build translations
         run: |
-          nix develop . -c ./release.sh
+          nix build .#release
 
       - name: Move directory
         run: |
-          mv build _site
+          mkdir -p _site
+          cp -Tr result/ _site
           cp .github/CNAME _site/CNAME
 
       - name: Deploy
