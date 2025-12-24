@@ -2961,18 +2961,18 @@ Jeste li sigurni?</translation>
         <translation type="vanished">Izvezi listu modova</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
         <source>Context menu</source>
         <translation>Sadržaj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="214"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Izaberi %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="244"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -2983,7 +2983,7 @@ Ovo možda bude trajno i nestaće iz direktorije.
 Da li ste sigurni?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -2994,17 +2994,17 @@ Ovo možda bude trajno i nestaće iz roditeljske direktorije.
 Da li ste sigurni?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="256"/>
         <source>Confirm Removal</source>
         <translation>Potvrdi uklanjanje</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
         <source>Confirm Delete</source>
         <translation>Potvrdi brisanje</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Ako uklonite ovaj resurs dok je igra pokrenuta, možda izazove pad sistema igre.
@@ -3021,12 +3021,12 @@ Are you sure you want to do this?</source>
 Da li ste sigurni da želite ovo da uradite?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="347"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> .(%1 instaliranih, %2 izabranih)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="348"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="349"/>
         <source> (%1 installed)</source>
         <translation> . (%1 instaliranih)</translation>
     </message>
