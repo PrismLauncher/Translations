@@ -11,12 +11,12 @@
             "untranslated" : 2070
         },
         "ar" : {
-            "file" : "5db85b1a16af6a7e9e0b2f5d54e67d60df5bf57d.class",
-            "sha1" : "5db85b1a16af6a7e9e0b2f5d54e67d60df5bf57d",
-            "size" : 224479,
+            "file" : "964baf3e4b8b07ae6ddafdf650346fb66e70039d.class",
+            "sha1" : "964baf3e4b8b07ae6ddafdf650346fb66e70039d",
+            "size" : 224913,
             "translated" : 1608,
-            "fuzzy" : 150,
-            "untranslated" : 495
+            "fuzzy" : 155,
+            "untranslated" : 490
         },
         "az" : {
             "file" : "b38b262196d870ae28d6599ed039e457bc696c42.class",
@@ -299,12 +299,12 @@
             "untranslated" : 756
         },
         "gl" : {
-            "file" : "57f3737c2460bc1a788a7e1afaea0671823bfb78.class",
-            "sha1" : "57f3737c2460bc1a788a7e1afaea0671823bfb78",
-            "size" : 178957,
-            "translated" : 1075,
+            "file" : "88aca1e06cc33f9424b42adb2652d9419182ffd5.class",
+            "sha1" : "88aca1e06cc33f9424b42adb2652d9419182ffd5",
+            "size" : 180780,
+            "translated" : 1096,
             "fuzzy" : 330,
-            "untranslated" : 848
+            "untranslated" : 827
         },
         "grc" : {
             "file" : "da72a6347f5e56d8a284f36b8d18c557cb941aa1.class",
@@ -491,12 +491,12 @@
             "untranslated" : 1912
         },
         "mn" : {
-            "file" : "788b26dad72e44657a63e86786d4f13a7842f38e.class",
-            "sha1" : "788b26dad72e44657a63e86786d4f13a7842f38e",
-            "size" : 46128,
+            "file" : "eb705a0f25366bb4b4898c06ad9d159f76a367bf.class",
+            "sha1" : "eb705a0f25366bb4b4898c06ad9d159f76a367bf",
+            "size" : 49230,
             "translated" : 365,
-            "fuzzy" : 172,
-            "untranslated" : 1716
+            "fuzzy" : 207,
+            "untranslated" : 1681
         },
         "ms" : {
             "file" : "5e33a457aedfb28d3f0d4b2d1b45b4a058f60a52.class",
