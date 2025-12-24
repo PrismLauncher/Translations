@@ -7,13 +7,13 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Ⲡⲓⲙⲟⲕⲓ ⲛⲛⲓⲕⲟⲗⲗⲁ</translation>
+        <translation>&amp;Pastebin ⲛϫⲓⲛⲫⲱϣⲛ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>&amp;Ⲧⲩⲡⲟⲥ ⲛⲧⲉ Ⲡⲓϣⲉⲙϣⲓ ⲛⲚⲓⲕⲟⲗⲗⲁ</translation>
+        <translation>&amp;Ⲡⲧⲩⲡⲟⲥ ⲛⲧⲉ Ⲡⲓϫⲓⲛⲫⲱϣⲛ ⲛⲕⲟⲗⲗⲁ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ⲟⲩⲥϧⲓ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
