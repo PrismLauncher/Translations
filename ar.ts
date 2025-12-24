@@ -795,7 +795,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>عرض مجلد مجموعات القطط</translation>
+        <translation>عرض مجلد مجموعات القطط.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
@@ -1673,7 +1673,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation>إختيار الكل</translation>
+        <translation>اختيار الكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
@@ -2527,7 +2527,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="92"/>
         <source>OK</source>
-        <translation>نعم</translation>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
@@ -6697,7 +6697,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="57"/>
         <source>Wrap lines</source>
-        <translation>افصل الأسطر</translation>
+        <translation>لف الأسطر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
@@ -6707,7 +6707,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>انسخ التقرير كاملًا إلى الحافظة</translation>
+        <translation>انسخ السجل كاملًا إلى الحافظة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
@@ -6718,7 +6718,7 @@ Reason:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="100"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>حمل السجل إلى خدمة اللصق المعدلة في التفضيلات</translation>
+        <translation>ارفع السجل إلى خدمة اللصق المعدلة في التفضيلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -9785,7 +9785,8 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsChecker.cpp" line="113"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر تحميل موجز الأخبار أر إس إس:
+%1</translation>
     </message>
 </context>
 <context>
@@ -9793,23 +9794,23 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation>اخبار</translation>
+        <translation>الأخبار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished">إغلاق</translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
         <source>Hide article list</source>
-        <translation>اخفاء قائمة المقالات</translation>
+        <translation>إخفاء قائمة المقالات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
         <source>Show article list</source>
-        <translation>اظهار قائمة المقالات</translation>
+        <translation>إظهار قائمة المقالات</translation>
     </message>
 </context>
 <context>
@@ -9824,7 +9825,7 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="52"/>
         <source>No content.</source>
-        <translation>لا يوجد محتوى</translation>
+        <translation>لا يوجد محتوى.</translation>
     </message>
 </context>
 <context>
@@ -9832,7 +9833,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="101"/>
         <source>Nilmods</source>
-        <translation type="unfinished"></translation>
+        <translation>نيل مود</translation>
     </message>
 </context>
 <context>
@@ -9908,7 +9909,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
         <source>Deselect All</source>
-        <translation>الغاء اختيار الكل</translation>
+        <translation>إلغاء اختيار الكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
@@ -9918,12 +9919,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <source>OK</source>
-        <translation type="unfinished">موافق</translation>
+        <translation>موافق</translation>
     </message>
 </context>
 <context>
@@ -9935,57 +9936,57 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
         <source>&amp;Find</source>
-        <translation type="unfinished"></translation>
+        <translation>اعثر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">انتقل إلى نهاية التقرير</translation>
+        <translation>انتقل إلى نهاية السجل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
         <source>&amp;Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>أسفل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="101"/>
         <source>Delete the selected log</source>
-        <translation>حذف ‫السجل المختار</translation>
+        <translation>احذف ‫السجل المختار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>&amp;Delete Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>احذف المختار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="111"/>
         <source>Delete all the logs</source>
-        <translation>حذف جميع السجلات</translation>
+        <translation>احذف جميع السجلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="114"/>
         <source>Delete &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>احذف الكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <source>Keep updating</source>
-        <translation type="unfinished">استمر بالتحديث</translation>
+        <translation>استمر بالتحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation type="unfinished">افصل الأسطر</translation>
+        <translation>لف الأسطر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
         <source>Color lines</source>
-        <translation type="unfinished">لوّن الأسطر</translation>
+        <translation>لوّن الأسطر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>انسخ التقرير كاملًا إلى الحافظة</translation>
+        <translation>انسخ السجل كاملًا إلى الحافظة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
@@ -9995,27 +9996,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">رفع التقرير على خدمة paste.ee - ستبقى متوفرة لمدة شهر</translation>
+        <translation>ارفع السجل إلى خدمة اللصق المعدلة في التفضيلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
         <source>&amp;Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>رفع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation type="unfinished"></translation>
+        <translation>أعد تحميل محتويات السجل من القرص</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
         <source>&amp;Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة التحميل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished">البحث</translation>
+        <translation>البحث</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -10050,7 +10051,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">لا يمكن عرض هذا السجل لأن طول السجل تعدى %1 سطر.</translation>
+        <translation>لا يمكن عرض هذا السجل لأن طول السجل تعدى %1 سطر.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -10076,12 +10077,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ في الملف (%1) عند القراءة: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="379"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">تأكيد الحذف</translation>
+        <translation>تأكيد الحذف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="380"/>
@@ -10089,23 +10090,27 @@ Please update %1!</source>
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>إنك على وشك حذف &quot;%1&quot;:
+من الممكن أن يكون هذا مؤبدا وسيختفي من مجلد السجلات.
+
+هل أنت متأكد؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="405"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد المسح</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل أنت متأكد من حذف كل ملفات السجل؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>هل أنت متأكد من حذف كل من هذه الملفات؟
+%1</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -10152,7 +10157,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>أُلغيت</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
@@ -10174,17 +10179,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
         <source>Help</source>
-        <translation type="unfinished">المساعدة</translation>
+        <translation>المساعدة</translation>
     </message>
 </context>
 <context>
@@ -10204,17 +10209,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيرت خدمة اللصق الافتراضية إلى mclo.gs, يرجى اختيار ما يريد فعله من الإعدادات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم الخدمة الافتراضية الجديدة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation type="unfinished"></translation>
+        <translation>احفظ الإعدادات السابقة</translation>
     </message>
 </context>
 <context>
