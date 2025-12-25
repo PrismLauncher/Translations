@@ -4637,7 +4637,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>إعدادات القديمة</translation>
+        <translation>إعدادات تراثية</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -8410,16 +8410,16 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="unfinished">إعدادات القديمة</translation>
+        <translation>إعدادات تراثية</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;.يحاكي استخدام الخدمات القديمة التي توقفت عن العمل &lt;/p&gt;&lt;p&gt;تتضمن الإصلاحات الحالية: دعم المظاهر و الوضع المتصل بالشبكة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;.يحاكي استخدام الخدمات القديمة التي توقفت عن العمل &lt;/p&gt;&lt;p&gt;تتضمن الإصلاحات الحالية: دعم المظاهر و الوضع المتصل بالشبكة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">تفعيل إصلاحات المتصلة بالشبكة (تجريبي)</translation>
+        <translation>تفعيل إصلاحات المتصلة بالشبكة (تجريبي)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
@@ -8428,28 +8428,28 @@ This can be updated only using a file in %1 format
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="unfinished">استخدم نسخة النظام من GLFW</translation>
+        <translation>استخدم نسخة النظام من جي إل إف دابليو</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished">&amp;مسار مكتبة جي إل إف دابليو</translation>
+        <translation>&amp;مسار مكتبة جي إل إف دابليو</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="unfinished">استخدم نسخة النظام من OpenAL</translation>
+        <translation>استخدم نسخة النظام من أوبن إي إل</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished">&amp;مسار مكتبة أوبن إي إل</translation>
+        <translation>&amp;مسار مكتبة أوبن إي إل</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="unfinished">الأداء</translation>
+        <translation>الأداء</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل الجيم مود ل&quot;فيرال إنتيراكتيف&quot;,قد يزيد أداء اللعب.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل الجيم مود ل&quot;فيرال إنتيراكتيف&quot;,قد يزيد أداء اللعب.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
@@ -8457,35 +8457,35 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل واجهة الأداء المتقدمة لمانغو هود. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل واجهة الأداء المتقدمة لمانغو هود. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">تفعيل مانغو هود</translation>
+        <translation>تفعيل مانغو هود</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;استخدم وحدة معالجة الرسومات المنفصلة بدل الأساسية.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;استخدم وحدة معالجة الرسومات المنفصلة بدل الأساسية.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">استخدم وحدة معالجة الرسومات المنفصلة</translation>
+        <translation>استخدم وحدة معالجة الرسومات المنفصلة</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;استخدم زينك, زينك هو برنامج تشغيل ميسا أوبن جي إل , يطبّق اوبن جي إل على فولكان. من الممكن أن تعتمد الجودة على الوضع. ملاحظة: إذا لم يتم العثور على برنامج تشغيل فولكان, سيتم استخدام التصيير البرمجي.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished">استخدم زينك</translation>
+        <translation>استخدم زينك</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">عام</translation>
+        <translation>عام</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished">متنوعة</translation>
+        <translation>متنوعات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -8494,19 +8494,19 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">المسار إلى ملف المكتبة %1</translation>
+        <translation>المسار إلى ملف المكتبة %1</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار مكشوف تلقائيا: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">لم يتم العثور علي الجيم مود لفيرال انتيراكتيف في جهازك.</translation>
+        <translation>لم يتم العثور علي الجيم مود لفيرال انتيراكتيف في جهازك.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">لم يتم العثور على مانجو هود في جهازك.</translation>
+        <translation>لم يتم العثور على مانجو هود في جهازك.</translation>
     </message>
 </context>
 <context>
@@ -8668,7 +8668,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation>عند انفتاح نافذة اللعبة, اخف المشغل</translation>
+        <translation>عند ظهور نافذة اللعبة, اخف المشغل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
@@ -8960,7 +8960,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation>فابريك إرثي</translation>
+        <translation>فابريك تراثي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
@@ -9053,11 +9053,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished">غير معروف</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>حيث تم تنزيل هذه الإضافة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -9410,19 +9410,19 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>تنزيل إضافات</translation>
     </message>
     <message>
         <source>Add file</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة ملف</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة ملف منزل محليا</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="unfinished">التحقق من التبعيات</translation>
+        <translation>التحقق من التبعيات</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
@@ -15294,7 +15294,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="112"/>
         <source>Minecraft</source>
-        <translation>ماينكرافت</translation>
+        <translation>ماين كرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="114"/>
@@ -15319,7 +15319,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
