@@ -8356,57 +8356,57 @@ This can be updated only using a file in %1 format
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="unfinished">تشغيل ماينكرافت بوضع الإطار الكبير؟</translation>
+        <translation>تشغيل ماين كرافت بوضع الإطار الكبير</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished">طو&amp;ل النافذة:</translation>
+        <translation>طو&amp;ل النافذة:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished">عر&amp;ض النافذة:</translation>
+        <translation>عر&amp;ض النافذة:</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت اللعب</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">عرض الوقت المبذول في لعب النموذج</translation>
+        <translation>عرض الوقت المبذول في لعب النموذج</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الوقت المبذول في لعب كل النماذج</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">سجّل الوقت المبذول في لعب النموذج</translation>
+        <translation>سجّل الوقت المبذول في لعب النماذج</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الوقت المبذول بالساعات</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;سيتم تشغيل المشغل تلقائيا بعد الخروج أو تعطل اللعبة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>أغلق المشغل عند ظهور نافذة اللعبة</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;سيتم إغلاق المشغل تلقائيا بعد الخروج أو تعطل اللعبة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>خروج المشغل بعد إغلاق نافذة اللعبة</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation type="unfinished">التعديلات</translation>
+        <translation>التعديلات</translation>
     </message>
     <message>
         <source>Legacy settings</source>
@@ -10337,7 +10337,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>امسح التقرير</translation>
+        <translation>امسح السجل</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10572,7 +10572,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>تضييعات ذاكرة بيكس ماب صارب بشكل سريع جدا. لن نفعل شيئا عندما يوصل حجم الذاكرة إلى حده</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
@@ -11435,7 +11435,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>الرفع باء بالفشل</translation>
+        <translation>تعذر الرفع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -11445,7 +11445,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>تم نسخ &lt;a href=&quot;%1&quot;&gt;رابط التقرير المرفوع&lt;/a&gt; إلى الحافظة.</translation>
+        <translation>تم نسخ &lt;a href=&quot;%1&quot;&gt;رابط السجل المرفوع&lt;/a&gt; إلى الحافظة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
@@ -11456,7 +11456,7 @@ Proceed with truncation?</source>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="381"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">ثنائية جافا المحددة لم تعمل بشكل سليم.&lt;br /&gt;</translation>
+        <translation>ثنائية جافا المحددة لم تعمل بشكل سليم.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
@@ -11491,7 +11491,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
-        <translation>لم يتم تحميل الترقيع (Patch) بعد.</translation>
+        <translation>لم يتم تحميل الترقيع بعد.</translation>
     </message>
     <message>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
