@@ -14143,7 +14143,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>리소스 팩의 활성화 여부입니다(ZIP에만 유효).</translation>
+        <translation>리소스 팩의 활성화 여부입니다(ZIP 파일에만 해당).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
