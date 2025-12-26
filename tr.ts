@@ -13993,7 +13993,7 @@ Geliştirici muhtemelen üçüncü taraf başlatıcılarını engelledi.</transl
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader yapılandırması &apos;%1&apos; konumundan &apos;%2&apos; konumuna yeniden adlandırılamadı</translation>
     </message>
 </context>
 <context>
