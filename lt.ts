@@ -11473,7 +11473,7 @@ PASTABA: Prieš atnaujindami įsitikinkite, kad padarėte svarbių egzempliorių
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">modifikacija</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
@@ -11973,7 +11973,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="107"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modifikacijos</translation>
     </message>
     <message>
         <source>Change %1 version</source>
@@ -12231,7 +12231,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="541"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="547"/>
@@ -14939,7 +14939,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prisijungti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
