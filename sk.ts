@@ -8460,47 +8460,47 @@ Môže byť aktualizovaný iba pomocou súboru vo formáte %1
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="301"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="302"/>
         <source>&amp;Launch</source>
         <translation>&amp;Spustiť</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="303"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
         <source>Launch &amp;Offline</source>
         <translation>Spustiť @offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>Launch &amp;Demo</source>
         <translation>Spustiť &amp;demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <source>Profilers</source>
         <translation>Profilery</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="324"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="325"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Žiaden profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1011"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1014"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -8509,22 +8509,22 @@ Môže byť aktualizovaný iba pomocou súboru vo formáte %1
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1016"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1053"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
         <source>broken</source>
         <translation>poškodené</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>, last played on %1 for %2</source>
         <translation>, naposledy hrané %1 po dobu %2</translation>
     </message>
@@ -8537,12 +8537,12 @@ Môže byť aktualizovaný iba pomocou súboru vo formáte %1
         <translation type="vanished">, naposledy hrané %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1076"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>, total played for %1</source>
         <translation>, celkovo hrané %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1081"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>, has crashed.</source>
         <translation>, spadol.</translation>
     </message>

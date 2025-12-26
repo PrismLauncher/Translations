@@ -9013,47 +9013,47 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="301"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="302"/>
         <source>&amp;Launch</source>
         <translation>啟動 (&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="303"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
         <source>Launch &amp;Offline</source>
         <translation>離線啟動 (&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>Launch &amp;Demo</source>
         <translation>啟動試玩版 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <source>Profilers</source>
         <translation>分析器</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="324"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="325"/>
         <source>&amp;No Profiler</source>
         <translation>無分析器 (&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1011"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1014"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;存取權杖&gt;</translation>
     </message>
@@ -9062,22 +9062,22 @@ This can be updated only using a file in %1 format
         <translation type="vanished">&lt;用戶端權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1016"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;設定檔 ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1053"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
         <source>broken</source>
         <translation>損壞</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>, last played on %1 for %2</source>
         <translation>，最後遊玩時間為 %1，持續了 %2</translation>
     </message>
@@ -9090,12 +9090,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">，上次已遊玩 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1076"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>, total played for %1</source>
         <translation>，總共遊玩了 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1081"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>, has crashed.</source>
         <translation>，程式已崩潰。</translation>
     </message>
