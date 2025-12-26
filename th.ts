@@ -5777,7 +5777,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="466"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเริ่มโปรไฟล์เลอร์ได้:&#xa0;%1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="467"/>
@@ -5807,7 +5807,9 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="209"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดดูบันทึกเกมแล้ว เพราะความยาวของบันทึกเกิน %1 บรรทัด
+
+คุณอาจต้องแก้ไขม็อดของคุณ เพราะเกมยังคงบันทึกข้อมูลลงในไฟล์และอาจกำลังเปลืองพื้นที่ฮาร์ดไดรฟ์ในอัตราที่น่าตกใจ!</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
@@ -5820,13 +5822,13 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Accessing Mojang services.</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเข้าใช้งานบริการของ Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถรับโทเค็นการเข้าถึง Minecraft ได้: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
