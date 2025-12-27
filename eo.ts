@@ -3331,6 +3331,11 @@ Bonvolu reprovi.</translation>
         <translation type="unfinished">Importo de FTB App</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation type="unfinished">Serĉu kaj filtru...</translation>
@@ -3346,7 +3351,6 @@ Bonvolu reprovi.</translation>
         <translation>Selekti la dosierujon de petskriboj de FTBApp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation type="unfinished">Notu: Se viaj petskriboj de FTB ne estas en la defaŭlta loko, elektu ĝin uzante la butono apud serĉi.</translation>
     </message>

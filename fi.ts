@@ -3357,6 +3357,11 @@ Yritä uudelleen.</translation>
         <translation>Tuo FTB App:ista</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Etsi ja suodata...</translation>
@@ -3372,7 +3377,6 @@ Yritä uudelleen.</translation>
         <translation>Valitse FTBApp instanssien hakemisto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Huom: Jos sinun FTB-instanssit eivät ole oletussijainnissa, valitse ne käyttämällä hakupalkin vieressä olevaa painiketta.</translation>
     </message>

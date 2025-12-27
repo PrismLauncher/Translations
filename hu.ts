@@ -3478,6 +3478,11 @@ Kérlek, próbáld újra.</translation>
         <translation>FTB Alk. Import</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Keresés és szűrés...</translation>
@@ -3493,7 +3498,6 @@ Kérlek, próbáld újra.</translation>
         <translation>Válaszd ki az FTBApp példányok könyvtárát</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Megjegyzés: Ha az FTB példányok nem az alapértelmezett helyen vannak, válaszd ki őket a keresés melletti gombbal.</translation>
     </message>

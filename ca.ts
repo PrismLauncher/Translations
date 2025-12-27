@@ -3364,6 +3364,11 @@ Si us plau, intenta-ho una altra vegada.</translation>
         <translation>Importar l&apos;aplicació d&apos;FTB</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Cercar i filtrar...</translation>
@@ -3379,7 +3384,6 @@ Si us plau, intenta-ho una altra vegada.</translation>
         <translation>Seleccioneu la carpeta d&apos;instàncies d&apos;FTBApp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Nota: Si les teues instàncies de FTB no es troben a la ubicació predeterminada, seleccioneu-la utilitzant el botó al costat de la cerca.</translation>
     </message>

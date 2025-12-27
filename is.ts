@@ -3235,6 +3235,11 @@ Vinsamlegast reyndu aftur.</translation>
         <translation>Innflutningur FTB forrits</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Leita og sía ...</translation>
@@ -3250,7 +3255,6 @@ Vinsamlegast reyndu aftur.</translation>
         <translation>Veldu FTBApp tilvikamöppu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Athugið: Ef FTB tilvikin þín eru ekki á sjálfgefnum stað, veldu hann með því að nota hnappinn við hliðina á leit.</translation>
     </message>

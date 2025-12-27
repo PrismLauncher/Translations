@@ -3392,6 +3392,11 @@ Bandykite dar kartą.</translation>
         <translation>FTB programos importavimas</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Paieška ir filtravimas...</translation>
@@ -3407,7 +3412,6 @@ Bandykite dar kartą.</translation>
         <translation>Pasirinkite FTBApp egzempliorių katalogą</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Pastaba: jei jūsų FTB egzemplioriai nėra numatytoje vietoje, pasirinkite jį naudodami mygtuką šalia paieškos.</translation>
     </message>

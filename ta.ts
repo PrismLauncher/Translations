@@ -3101,6 +3101,11 @@ Please try again.</source>
         <translation>FTB பயன்பாட்டு இறக்குமதி</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>தேடல் மற்றும் வடிகட்டி ...</translation>
@@ -3112,7 +3117,6 @@ Please try again.</source>
         <translation>FTBAPP நிகழ்வுகள் கோப்பகத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>குறிப்பு: உங்கள் FTB நிகழ்வுகள் இயல்புநிலை இடத்தில் இல்லை என்றால், தேடலுக்கு அடுத்த பொத்தானைப் பயன்படுத்தி அதைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>

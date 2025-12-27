@@ -3067,6 +3067,11 @@ Par plasê, prove di gnûf.</translation>
         <translation>Importazion de aplicazion FTB</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Cîr e filtre...</translation>
@@ -3078,7 +3083,6 @@ Par plasê, prove di gnûf.</translation>
         <translation>Selezione la cartele des istancis FTBApp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Note: se lis tôs istancis FTB no son tal percors predefinît, selezionilis doprant il boton dongje de ricercje.</translation>
     </message>

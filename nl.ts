@@ -3433,6 +3433,11 @@ Probeer het opnieuw.</translation>
         <translation>FTB App Importeren</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Zoeken en filteren...</translation>
@@ -3448,7 +3453,6 @@ Probeer het opnieuw.</translation>
         <translation>Selecteer FTBApp-instanties map</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Opmerking: Als uw FTB instanties niet op de standaard locatie staan, selecteer deze dan met de knop naast zoeken.</translation>
     </message>

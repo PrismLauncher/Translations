@@ -3298,6 +3298,11 @@ Subukan muli.</translation>
         <translation>Import ng FTB App</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Hanapin at i-filter...</translation>
@@ -3313,7 +3318,6 @@ Subukan muli.</translation>
         <translation>Pumili ng FTBApp instances directory</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Note: Kung ang iyong FTB instances ay hindi nasa default na lokasyon, piliin ito gamit ang button sa tabi ng search.</translation>
     </message>

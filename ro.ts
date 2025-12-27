@@ -3425,6 +3425,11 @@ Vă rugăm să încercați din nou.</translation>
         <translation>Importare Aplicatie FTB</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Caută și filtrează...</translation>
@@ -3440,7 +3445,6 @@ Vă rugăm să încercați din nou.</translation>
         <translation>Selectați dosarul unde se află instanțele din FTBApp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Notă: Dacă instanțele FTB nu se află în locația implicită, selectați-o folosind butonul lânga căutare.</translation>
     </message>

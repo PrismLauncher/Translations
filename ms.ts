@@ -3323,6 +3323,11 @@ Sila cuba lagi.</translation>
         <translation>Import Aplikasi FTB</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Cari dan tapis...</translation>
@@ -3338,7 +3343,6 @@ Sila cuba lagi.</translation>
         <translation>Pilih direktori pemasangan FTP</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Nota: Jika pemasangan FTB anda tidak berada di lokasi lalai, pilihnya menggunakan butang di sebelah carian.</translation>
     </message>

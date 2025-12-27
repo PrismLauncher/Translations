@@ -3404,6 +3404,11 @@ Palun proovi uuesti.</translation>
         <translation>FTP App&apos;ist importimine</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Otsi ja filtreeri...</translation>
@@ -3419,7 +3424,6 @@ Palun proovi uuesti.</translation>
         <translation>Vali FTBApp eksemplaride kaust</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Märkus: Kui su FTB eksemplarid ei asu vaikimisi kohas, vali koht otsingu kõrval oleva nupu kaudu.</translation>
     </message>

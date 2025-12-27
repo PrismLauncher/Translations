@@ -3368,6 +3368,11 @@ Please try again.</source>
         <translation>وارد کردن برنامه FTB</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>جستجو و فیلترکردن...</translation>
@@ -3383,7 +3388,6 @@ Please try again.</source>
         <translation type="unfinished">دایرکتوری نمونه های FTBApp را انتخاب کنید</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>توجه: اگر نمونه‌های FTB شما در مکان پیشفرض نیستند، با دکمه کنار جستجو آن را انتخاب کنید.</translation>
     </message>

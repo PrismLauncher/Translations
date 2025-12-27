@@ -3381,6 +3381,11 @@ Please try again.</source>
         <translation>การนำเข้าแอป FTB</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>ค้นหาและกรอง...</translation>
@@ -3396,7 +3401,6 @@ Please try again.</source>
         <translation>เลือกไดเรกทอรีอินสแตนซ์ FTBApp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>หมายเหตุ: หากอินสแตนซ์ FTB ของคุณไม่ได้อยู่ในตำแหน่งเริ่มต้น ให้เลือกโดยใช้ปุ่มถัดจากการค้นหา</translation>
     </message>

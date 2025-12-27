@@ -3344,6 +3344,11 @@ Please try again.</source>
         <translation>استيراد من تطبيق إف تي بي</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>بحث وتصفية...</translation>
@@ -3359,7 +3364,6 @@ Please try again.</source>
         <translation>اختر مسار نماذج تطبيق إف تي بي</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>ملاحظة: إذا كانت نماذج إف تي بي الخاصة بك ليست في الموقع الافتراضي, حددها بالضغط على الزر جانب البحث.</translation>
     </message>

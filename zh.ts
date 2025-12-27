@@ -3493,6 +3493,11 @@ Please try again.</source>
         <translation>从 FTB 导入</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>搜索和过滤…</translation>
@@ -3508,7 +3513,6 @@ Please try again.</source>
         <translation>选择 FTBApp 实例目录</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>注意：如果你的 FTB 实例不在默认位置，请使用旁边的按钮搜索并选择它。</translation>
     </message>

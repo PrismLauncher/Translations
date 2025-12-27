@@ -3458,6 +3458,11 @@ Försök igen.</translation>
         <translation>FTP App-import</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Sök och filtrera...</translation>
@@ -3473,7 +3478,6 @@ Försök igen.</translation>
         <translation>Välj FTBApp instanser katalog</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Obs: Om dina FTB-instanser inte är på standardplatsen, välj plats med knappen bredvid sök.</translation>
     </message>

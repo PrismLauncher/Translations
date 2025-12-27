@@ -3494,6 +3494,11 @@ Por favor, tente de novo.</translation>
         <translation>Importar do FTB App</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Pesquisar e filtrar...</translation>
@@ -3509,7 +3514,6 @@ Por favor, tente de novo.</translation>
         <translation>Selecionar o diretório das instâncias FTBApp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Nota: Se suas instâncias FTB não estiverem no local padrão, selecione-as usando o botão ao lado de pesquisar.</translation>
     </message>

@@ -3398,6 +3398,11 @@ Prosím skúste to znova.</translation>
         <translation>Import z aplikácie FTB</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Vyhľadať a filtrovať...</translation>
@@ -3413,7 +3418,6 @@ Prosím skúste to znova.</translation>
         <translation>Vyberte adresár FTBApp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Poznámka: Ak vaše údaje FTB nie sú v predvolenom mieste, vyberte ho pomocou tlačidla vedľa vyhľadávania.</translation>
     </message>
