@@ -3440,7 +3440,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Catatan: Banyak modpack FTB kini yang juga tersedia dari CurseForge! Juga, jika instance FTB Anda tidak dalam lokasi default, pilihlah lokasinya dengan menekan tombol di samping pencarian.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
