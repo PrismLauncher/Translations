@@ -2175,7 +2175,7 @@ Avertissment : Cette ressource est liée fortement ailleurs. L&apos;éditer va a
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Télécharger des packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
@@ -3899,7 +3899,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
@@ -3934,7 +3934,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Installer un loader</translation>
     </message>
 </context>
 <context>
@@ -5155,7 +5155,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="52"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Langue</translation>
     </message>
 </context>
 <context>
@@ -5176,7 +5176,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="43"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Langue</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
@@ -5299,7 +5299,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="390"/>
         <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Échec du chargement du profil de l&apos;instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="397"/>
@@ -6463,7 +6463,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Info</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="76"/>
@@ -11437,7 +11437,7 @@ Message d&apos;erreur : %3</translation>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Packs de données</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
@@ -11502,7 +11502,7 @@ Message d&apos;erreur : %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changer %1 version</translation>
     </message>
 </context>
 <context>
@@ -11576,7 +11576,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="396"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changer %1 version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
@@ -12041,7 +12041,7 @@ Avertissment : Cette ressource est liée fortement ailleurs. L&apos;éditer va a
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Télécharger des packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -12152,7 +12152,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Télécharger des packs</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
