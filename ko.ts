@@ -3484,7 +3484,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>참고: 최근 출시된 많은 FTB 모드 팩도 CurseForge에서 이용할 수 있습니다! 또한, FTB 인스턴스가 기본 위치에 없는 경우, 검색 옆의 단추로 해당 위치를 선택하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -3503,7 +3503,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>참고: FTB 인스턴스가 기본 위치에 없는 경우, 검색 상자 옆의 단추로 해당 인스턴스를 선택하십시오.</translation>
+        <translation>참고: FTB 인스턴스가 기본 위치에 없는 경우, 검색 옆의 단추로 해당 위치를 선택하십시오.</translation>
     </message>
 </context>
 <context>
