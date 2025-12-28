@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>تستطيع تغير هذا السيرفر اذا كنت تواجه مشاكل مع تنزيل الممتلكات.</translation>
+        <translation>يمكنك تغير هذا الخادم إذا كنت تواجه مشاكل مع تنزيل الممتلكات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -1574,17 +1574,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>تم اكتشاف تضارب متطلبات أثناء التحقق من الاعتماديات!</translation>
+        <translation>تم اكتشاف تضارب متطلبات أثناء التحقق من التبعيات!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>النموذج يحتوي اعتماديات متضاربة.</translation>
+        <translation>النموذج يحتوي تبعيات متضاربة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>النموذج يحتوي اعتماديات لم يتم تسويتها أثناء التحميل/التحقق للتشغيل.</translation>
+        <translation>النموذج يحتوي تبعيات لم يتم تسويتها أثناء التحميل/التحقق للتشغيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
@@ -2971,7 +2971,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Reset Update Metadata</source>
-        <translation>إعادة معلومات التحديث الداخلية</translation>
+        <translation>إعادة تعيين بيانات التعريف للتحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
@@ -3346,7 +3346,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظة: الكثير من حزم إف تي بي الحديثة موجودة في كورس فورج أيضا! إذا لم تكن نماذج الإف تي بي في موقعها الافتراضي, يمكنك أن تختار الموقع باستخدام الزر على جانب زر البحث.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -9430,27 +9430,27 @@ Are you sure?</source>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>حاول أن تحدث وتتحقق من الاعتمادات المفقودة لكل الإضافات المختارة (كل الإضافات إذا لم يتم اختيار أحدهما)</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين بيانات التعريف للتحديثات</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة بيانات التعريف للإضافات</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
+        <translation>الذهاب إلى الصفحة الإضافة</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">تغيير الإصدار</translation>
+        <translation>تغيير الإصدار</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير إصدار الإضافة</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
@@ -9458,15 +9458,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="unfinished"></translation>
+        <translation>زيارة صفحات الإضافات</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="unfinished"></translation>
+        <translation>زيارة صفحة الإضافات المختارة</translation>
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation>ثبت محمل إضافات أولا!</translation>
     </message>
 </context>
 <context>
@@ -9518,84 +9518,84 @@ Are you sure?</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد الإضافات للتحديث</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>إنك على وشك تحديث الإضافات الآتية:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم تحديث الإضافات مع إشارة فقط!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم الإضافة: %1&lt;br&gt;اسم الملف: %2&lt;br&gt;السبب: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر توليد بيانات التعريف</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر توليد بيانات التعريف للإضافات الآتية:&lt;br&gt;هل تريد الاستمرار في تحديث بدون هذه الإضافات؟</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>جار التحقق من التحديثات</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">خطأ</translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">تحذيرات</translation>
+        <translation>تحذيرات</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">إنهاء</translation>
+        <translation>إنهاء</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>جار التحقق من التحديثات...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم الإضافة:%1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>السبب:%1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>حل محتمل: تنزيل الإصدار الأحدث يدويا: &lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>تعدر التحقق من التحديثات</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر التحقق أو جلب الإضافات الآتية للتحديث:&lt;br&gt;هل تريد الاستمرار بدون هذه الإضافات؟</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>جار التحقق من التبعيات...</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>جار البحث عن بيانات التعريف</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا تحتوي الإضافة ’%1’ على بيانات تعريف بعد. يجب علينا أن نولدها لتعقب المعلومات المهمة على كيفية تحديث هذه الإضافة. لفعل ذلك, يرجى اختيار موفر إضافات يمكننا استخدامه للتحقق من التحديثات لهذه الإضافة.</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>جار توليد بيانات التعريف...</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
