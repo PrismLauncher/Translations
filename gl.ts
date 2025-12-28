@@ -1147,19 +1147,19 @@ Algunhas versións de Minecraft pode que non se executen.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Ordear por Popularidade</translation>
+        <translation>Ordenar por popularidade</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Ordear por Nome</translation>
+        <translation>Ordenar por nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Ordear por Versión do Xogo</translation>
+        <translation>Ordenar por versión do xogo</translation>
     </message>
 </context>
 <context>
@@ -6678,7 +6678,7 @@ Motivo:
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadatos inválidos</translation>
     </message>
 </context>
 <context>
@@ -6692,7 +6692,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadatos non válidos</translation>
     </message>
 </context>
 <context>
@@ -6840,7 +6840,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished"></translation>
+        <translation>Engadir conta de Microsoft</translation>
     </message>
 </context>
 <context>
@@ -6848,7 +6848,7 @@ Motivo:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="37"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta non existe</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
@@ -8328,7 +8328,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, xogado por última vez o %1 por %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -8525,7 +8525,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="14"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtendo o perfil de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="42"/>
@@ -8664,7 +8664,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
         <source>&amp;Native Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliotecas &amp;nativas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
@@ -10784,7 +10784,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="303"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Non compatible con MacOS</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="303"/>
@@ -11878,7 +11878,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por popularidade</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
@@ -11889,7 +11889,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por nome</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
@@ -11935,7 +11935,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Non agrupado</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
@@ -12275,22 +12275,22 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
         <source> for %1</source>
-        <translation type="unfinished"></translation>
+        <translation> para %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>%1 Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Desenvolvedores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenvolvedores de MultiMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="59"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation>Con agradecementos especiais a</translation>
     </message>
     <message>
         <source>No author(s)</source>
@@ -13086,7 +13086,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="168"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do mod: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="170"/>
@@ -15756,7 +15756,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="450"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomear mundo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
