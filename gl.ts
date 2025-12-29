@@ -9558,7 +9558,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nome do mod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
@@ -11389,7 +11389,7 @@ Estado HTTP: %2</translation>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 Desenvolvedores</translation>
     </message>
     <message>
         <source>With thanks to</source>
