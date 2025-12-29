@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Юмсуудийг татахад алдаа байгаа бол та дараа энийг өөр сэрвэргүү холбож болно.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -169,7 +169,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Анхаруулга: магадгүй та энийг янзлах хэрэггүй CurseForge ажилж байгаа бол.</translation>
     </message>
     <message>
         <source>APIs</source>
@@ -197,7 +197,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="141"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Мэдэхгүй татах горим</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="182"/>
