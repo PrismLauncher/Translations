@@ -10532,11 +10532,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ: أعاد %1 رمز حالة غير متوقع %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ: أعاد %1 جسم رد مشوه</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
