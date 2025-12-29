@@ -520,7 +520,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
         <source>Username</source>
-        <translation>الاسم المستخدم</translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
@@ -9599,43 +9599,43 @@ Are you sure?</source>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم الحصول على إصدار صالح لموفر(ي) الإضافات</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>عطلت الإضافة لأنها مثبتة فعلا.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>الموفر: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">ليس مثبت</translation>
+        <translation>ليس مثبت</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>الإصدار القديم: %1</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>الإصدار الجديد: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع الإصدار الجديد: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>مطلوب من: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>مطلوب من:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>سجل التغييرات لآخر إصدار</translation>
     </message>
 </context>
 <context>
@@ -9731,7 +9731,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>جار تجهيز الإضافات لمودرينث...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -10192,7 +10192,7 @@ Please update %1!</source>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation type="unfinished">إضافة حساب</translation>
+        <translation>إضافة حساب</translation>
     </message>
     <message>
         <source>Username</source>
@@ -10200,19 +10200,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>اسماء اطول من 16 حرف لا يمكن استعماله عند العاب الشبكة المحلية وا سيرفير عير متصل</translation>
+        <translation>لا يمكن استعمال الأسماء التي تحتوي على أكثر من 16 رمزا في الشبكة المحلية وخوادم وضع الغير متصل.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>سماح بأسماء طويلة</translation>
+        <translation>سماح بالأسماء الطويلة</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">موافق</translation>
+        <translation>موافق</translation>
     </message>
 </context>
 <context>
@@ -10220,7 +10220,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation>اختر إضافات اختيارية</translation>
+        <translation>اختر الإضافات الاختيارية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
@@ -10350,7 +10350,7 @@ Please update %1!</source>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">رفع التقرير على خدمة paste.ee - ستبقى متوفرة لمدة شهر.</translation>
+        <translation>رفع السجل إلى خدمة اللصق المحددة في الإعدادات.</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -10495,7 +10495,7 @@ Are you sure?</source>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">إغلاق</translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -10524,11 +10524,11 @@ Are you sure?</source>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>جار الرفع إلى %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في الشبكة: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
