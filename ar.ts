@@ -10715,47 +10715,47 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم مسار مخصص كجزر التطبيق (استخدم ’.’ للدليل الحالي).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>الدليل</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم هذا الإصدار كإصدار المشعل المثبت. (أتيح لأن المخرج القياسي غير ملتقط بشكل جيد من قبل ويندوز)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="108"/>
         <source>installed launcher version</source>
-        <translation type="unfinished"></translation>
+        <translation>إصدار المشغل المثبت</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="109"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
         <source>Update from the specified repo.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث من مستودع مخصص.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
         <source>github repo url</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط مستودع جيت هب</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="112"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation type="unfinished"></translation>
+        <translation>تحقق فقط عند الحاجة إلى تحديث. حالة الخروج 100 إذا كانت صحيح, 0 إذا كانت خاطئ(أو غير ال0 إذا كان هناك خطأ).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="113"/>
         <source>Allow updating to pre-release releases</source>
-        <translation type="unfinished"></translation>
+        <translation>سماح بالتحديث إلى إصدارات قبل-الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="114"/>
