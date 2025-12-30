@@ -9747,7 +9747,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation>Fabric(Застарілий)</translation>
+        <translation>Fabric (Застарілий)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
@@ -10123,7 +10123,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="131"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Видалення модів запущеної гри може призвести до її аварійного завершення
+        <translation>Видалення модифікацій запущеної гри може призвести до її аварійного завершення.
 Ви дійсно хочете це зробити?</translation>
     </message>
     <message>
@@ -10167,7 +10167,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation>Оновлення модів не є доступним, якщо вимкнено метадані!</translation>
+        <translation>Оновлення модифікацій не є доступним, якщо вимкнено метадані!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="216"/>
