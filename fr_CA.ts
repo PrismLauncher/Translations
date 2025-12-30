@@ -913,10 +913,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished">Votre dossier /tmp est présentement monté avec la bannière &apos;noexec&apos; activée.
+        <translation>Votre dossier /tmp est présentement monté avec la bannière &apos;noexec&apos; activée.
 Quelques versions de Minecraft pourraient ne pas démarrer.
 
-Vous pouvez résoudre ce problème en remontant /tmp comme étant &apos;exec&apos; ou régler le java.io.tmpdir JVM argument comme un répertoire inscriptible dans un fichier système ou la bannière &apos;exec&apos; est réglée (e.g., /home/user/.local/tmp)
+Vous pouvez résoudre ce problème en remontant /tmp comme étant &apos;exec&apos; ou régler le java.io.tmpdir JVM argument comme un répertoire inscriptible dans un fichier système où la bannière &apos;exec&apos; est réglée (e.g., /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -1395,7 +1395,7 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Votre dossier de mods configuré général et le dossier de téléchargements par défaut sont automatiquement cochés pour les mods et ils seront copiés à l&apos;instance si trouvée.&lt;/p&gt;&lt;p&gt;Optionnellement, vous pouvez glisser-déposer les mods téléchargés dans ce dialogue ou ajouter une dossier pour regarder si vous n&apos;avez pas download les mods à leur location par défaut.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Votre dossier de mods configuré général et le dossier de téléchargements par défaut sont automatiquement vérifiés pour les mods et ils seront copiés à l&apos;instance si trouvés.&lt;/p&gt;&lt;p&gt;Optionnellement, vous pouvez glisser-déposer les mods téléchargés dans ce dialogue ou ajouter un dossier pour voir si vous n&apos;avez pas télécharger les mods à leur emplacement par défaut.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
@@ -1428,7 +1428,7 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir un nom hors ligne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
@@ -1443,12 +1443,12 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un nom d&apos;utilisateur n&apos;est valide seulement s&apos;il est composé de 3 à 16 caractères, utilise des lettres de l&apos;alphabet latin, des chiffres ou des tirets bas. Un nom d&apos;utilisateur invalide pourrait vous empêcher de vous rejoindre à des serveurs et des mondes solos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Permettre les nom d&apos;utilisateurs invalides</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
@@ -1458,7 +1458,7 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>O.K.</translation>
     </message>
 </context>
 <context>
@@ -1491,7 +1491,7 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Essayez d&apos;utiliser automatiquement d&apos;autres fournisseurs si celui sélectionné rate</translation>
+        <translation>Essayez d&apos;utiliser automatiquement d&apos;autres fournisseurs si celui sélectionné ne fonctionne pas</translation>
     </message>
 </context>
 <context>
@@ -1714,12 +1714,12 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un sosie au lieu de copier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre système de fichiers et/ou votre OS ne supporte pas Reflinks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -1729,22 +1729,22 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier les serveurs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiers les packs de ressources</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation type="unfinished"></translation>
+        <translation>Garder votre temps de jeu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier les captures écran</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
@@ -1754,12 +1754,12 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinks sont supportés sur %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinks ne sont pas supportés sur %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
@@ -1787,11 +1787,11 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods de base</translation>
     </message>
     <message>
         <source>Core mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods de base</translation>
     </message>
 </context>
 <context>
@@ -1807,17 +1807,17 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un raccourci d&apos;instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarder à:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
@@ -1827,63 +1827,63 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser un compte différent de celui spécifié par défaut.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplacer le compte par défaut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spécifier un monde ou un serveur pour y rejoindre automatiquement au démarrage.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner un cible à rejoindre au démarrage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation type="unfinished"></translation>
+        <translation>Monde:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse du Serveur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse du Serveur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notez: Si un raccourci est déplacé après la création, il ne sera pas supprimé en supprimant l&apos;instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous devrez les supprimer manuellement si c&apos;est le cas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="85"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="88"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applications</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="90"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Autre...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
