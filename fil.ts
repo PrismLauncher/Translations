@@ -84,7 +84,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Tandaan: hindi mo naman na siguro kailangang itakda ito kung gumagana naman na ang pag-log in gamit ang Awtentikasyon sa Microsoft.</translation>
+        <translation>Tandaan: hindi mo na kailangan i-set ito kung gumagana naman ang pag login sa Microsoft.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -93,7 +93,7 @@
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Ilagay ang custom client ID para sa Awtentikasyon sa Microsoft rito.</translation>
+        <translation>Mag-lagay ng custom client ID para sa Microsoft Authentication dito.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
@@ -1103,7 +1103,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Kinukuha ang mga asset file mula sa %1...</translation>
+        <translation>Kinukuha ang mga asset files sa %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1426,7 +1426,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="175"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
@@ -1528,7 +1528,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation type="unfinished">Payagan ang mga pangalan na hindi ayon sa tuntunin</translation>
+        <translation>Payagan ang mga pangalan na hindi wasto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
@@ -1604,7 +1604,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished">Hindi ma-download ang metadata ng %1 %2. Baguhin ang bersyon o subukan ulit mamaya.</translation>
+        <translation>Hindi ma-download ang metadata para sa %1 %2. Baguhin ang bersyon o subukan ulit mamaya.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
@@ -1886,32 +1886,32 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumawa ng shortcut para sa Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save sa:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished">Pangalan</translation>
+        <translation>Pangalan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumamit ng ibang account kaysa sa tinukoy na default.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>I-override ang default account</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
@@ -1921,83 +1921,83 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>I-select ang target na sasalihan sa pag launch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mundo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Address ng Server:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Address ng Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tandaan: If na-lipat ang shortcut pagkatapos ng pag-gawa, Hindi na ito matatangal kapag tinanggal ang instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan mong tangalin ang mga ito ng mano-mano kung ganoon ang sitwasyon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="85"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desktop</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="88"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Aplikasyon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="90"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Iba pa...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 [%2] - Huling Naglaro: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="112"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ginagamit)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="179"/>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 - %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="181"/>
         <source>%1 - Server %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 - Server %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="196"/>
         <source>instance</source>
-        <translation type="unfinished"></translation>
+        <translation>instansiya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="200"/>
         <source>world</source>
-        <translation type="unfinished"></translation>
+        <translation>mundo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="203"/>
         <source>server</source>
-        <translation type="unfinished"></translation>
+        <translation>server</translation>
     </message>
 </context>
 <context>
@@ -2188,17 +2188,17 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paganahin</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imahe</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Name</source>
-        <translation type="unfinished">Pangalan</translation>
+        <translation>Pangalan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
@@ -5352,7 +5352,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Hindi mo makita ang wika mo o hindi maganda ang pagsasalin?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Tulungan mo tayo sa pag-salin!&lt;/a&gt;</translation>
+        <translation>Hindi mo makita ang wika mo o hindi maganda ang pagsasalin?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Tulungan mo kami sa pag-salin!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
@@ -14411,7 +14411,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
         <source>Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkitektura</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="120"/>
