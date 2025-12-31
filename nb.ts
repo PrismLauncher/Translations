@@ -4049,7 +4049,7 @@ Prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation>Lokal fil eller link til en direkte nedlasting:</translation>
+        <translation>Lokal fil eller lenke til en direkte nedlasting:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
@@ -7514,7 +7514,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="686"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation>Installer en %1-symlink til /usr/local/bin</translation>
+        <translation>Installer en %1-symlenke til /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
