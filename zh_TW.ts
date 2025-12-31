@@ -3480,7 +3480,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>注：許多最新的FTB模組包亦可從CurseForge取得！此外，若您的FTB實例未存放於預設位置，請使用搜尋欄旁的按鈕選擇目標路徑。</translation>
+        <translation>注意：許多近期推出的 FTB 模組包也可以在 CurseForge 上取得！此外，如果您的 FTB 實例不在預設路徑，請使用搜尋欄旁邊的按鈕進行選擇。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
