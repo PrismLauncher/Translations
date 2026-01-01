@@ -3420,7 +3420,7 @@ Vui lòng thử lại.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ghi chú: Nhiều bản modpack FTB gần đây cũng khả dụng tại CurseForge! Thêm nữa, nếu các phiên bản FTB không ở vị trí mặc định, hãy chọn bằng cách bấm nút cạnh nút tìm kiếm.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
