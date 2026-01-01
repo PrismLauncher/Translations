@@ -3496,7 +3496,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga: Wiele najnowszych modpacków FTB jest również dostępnych na CurseForge! Jeżeli twoje instancje FTB nie są w domyślnej lokalizacji, wybierz je przy pomocy przycisku obok wyszukiwania.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -3545,7 +3545,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
         <source>Resolving mod IDs...</source>
-        <translation>Odczytywanie ID modyfikacji..</translation>
+        <translation>Odczytywanie ID modyfikacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
