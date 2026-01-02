@@ -93,7 +93,7 @@
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Унеси прилагођени ИД клиента за Мајкрософт аутентификацију овде.</translation>
+        <translation>Unesi prilagođeni ID klijenta za Microsoft autentifikaciju ovde.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Унеси прилагођени API токен за Modrinth овде.</translation>
+        <translation>Unesi prilagođeni API token za Modrinth ovde.</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -137,12 +137,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Унеси овде прилагођени агент користника. Специални стринг $LAUNCHER_VER че бити замењен за верзијом лаунчера.</translation>
+        <translation>Unesi ovde prilagođeni agent korisnika. Specijalni string $LAUNCHER_VER će biti zamenjen za verziju launcher-a.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>Meta&amp;data сервер</translation>
+        <translation>Meta&amp;data server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -152,11 +152,11 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Ово можете подесити на сервер метаподатака треће стране да бисте користили &quot;поправљене&quot; датотеке (библиотеке) и друге хакове.</translation>
+        <translation>Možete ovo podesiti na server metapodataka treće strane da biste koristili zakrpljene biblioteke ili druge hakove.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Унеси овде прилагођени УРЛ за мета.</translation>
+        <translation>Unesi ovde prilagođeni URL za meta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -175,7 +175,7 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Овде унесите специјални API кључ за CurseForge.</translation>
+        <translation>Ovde unesi prilagođeni API ključ za CurseForge.</translation>
     </message>
     <message>
         <source>APIs</source>
@@ -511,7 +511,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
         <source>Username</source>
-        <translation>Корисничко име</translation>
+        <translation>korisničko ime</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
@@ -774,14 +774,14 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>Pogledaj cat packs folder.</translation>
+        <translation>Pogledaj fasciklu sa paketima mačaka.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation>Otvori Folder</translation>
+        <translation>Otvori fasciklu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
@@ -1944,7 +1944,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation>%1 [%2] - Zadnje igrano: %3</translation>
+        <translation>%1 [%2] - Poslednje igrano: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="112"/>
@@ -1964,7 +1964,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="196"/>
         <source>instance</source>
-        <translation>primerak</translation>
+        <translation>instanca</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="200"/>
@@ -2165,7 +2165,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Enable</source>
-        <translation>Omogući</translation>
+        <translation>Omogućeno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
@@ -3099,7 +3099,7 @@ Da li ste sigurni da želite ovo da uradite?</translation>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>&amp;Tekst Editor:</translation>
+        <translation>&amp;Uređivač teksta:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3595,7 +3595,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="168"/>
         <source>Finding versions for hashes...</source>
-        <translation>Pronraženje verzija za heševe...</translation>
+        <translation>Pronalaženje verzija za heševe...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="219"/>
@@ -5271,7 +5271,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="52"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Jezik</translation>
     </message>
 </context>
 <context>
@@ -5279,7 +5279,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne vidite svoj jezik ili je kvalitet loš?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Pomozite nam sa prevodima!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
@@ -6655,7 +6655,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izmeni...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
@@ -6740,7 +6740,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
         <source>Change Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Promeni ikonu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
@@ -7020,7 +7020,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
         <source>Rename</source>
-        <translation type="unfinished">Преименуј</translation>
+        <translation>Preimenuj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="366"/>
@@ -7040,7 +7040,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Promeni grupu...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
@@ -7122,7 +7122,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Napravi prečicu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
@@ -7642,7 +7642,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Име</translation>
+        <translation>Naziv</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
@@ -8448,7 +8448,7 @@ Upozorenje: Ovaj resurs je hard-linked negde drugo. Izmena njega takođe menja o
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Name</source>
-        <translation type="unfinished">Име</translation>
+        <translation>Naziv</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -9118,7 +9118,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Pronraženje verzija za heševe...</translation>
+        <translation>Pronalaženje verzija za heševe...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="193"/>
@@ -9448,7 +9448,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Корисничко име</translation>
+        <translation>Korisničko ime</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
@@ -10502,7 +10502,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Proksi server</translation>
     </message>
     <message>
         <source>&amp;Default</source>
