@@ -213,7 +213,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="182"/>
         <source>Deleting existing files...</source>
-        <translation>Meglévő fájlok törlése...</translation>
+        <translation>Meglévő fájlok törlése…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="329"/>
@@ -238,7 +238,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
         <source>Downloading configs...</source>
-        <translation>Konfigurációk letöltése...</translation>
+        <translation>Konfigurációk letöltése…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="632"/>
@@ -248,7 +248,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="673"/>
         <source>Extracting configs...</source>
-        <translation>Konfigurációk kicsomagolása...</translation>
+        <translation>Konfigurációk kicsomagolása…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -257,12 +257,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
         <source>Selecting optional mods...</source>
-        <translation>Opcionális modok kiválasztása...</translation>
+        <translation>Opcionális modok kiválasztása…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Downloading mods...</source>
-        <translation>Modok letöltése...</translation>
+        <translation>Modok letöltése…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
@@ -297,12 +297,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="906"/>
         <source>Failed to extract mods...</source>
-        <translation>Nem sikerült kicsomagolni a modokat...</translation>
+        <translation>Nem sikerült kicsomagolni a modokat…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="916"/>
         <source>Extracting mods...</source>
-        <translation>Modok kicsomagolása...</translation>
+        <translation>Modok kicsomagolása…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="988"/>
@@ -908,7 +908,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
         <source>[INFO] A harmless message...</source>
-        <translation>[INFO] Egy ártalmatlan üzenet...</translation>
+        <translation>[INFO] Egy ártalmatlan üzenet…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
@@ -918,7 +918,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation>[DEBUG] Egy titkos hibakereső üzenet...</translation>
+        <translation>[DEBUG] Egy titkos hibakereső üzenet…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
@@ -1110,7 +1110,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>Erőforrásindex frissítése...</translation>
+        <translation>Erőforrásindex frissítése…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
@@ -1141,7 +1141,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Erőforrásfájlok beszerzése a Mojangtól...</translation>
+        <translation>Erőforrásfájlok beszerzése a Mojangtól…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1251,7 +1251,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Keresés és szűrés...</translation>
+        <translation>Keresés és szűrés…</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1316,12 +1316,12 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
         <source>Waiting...</source>
-        <translation>Várakozás...</translation>
+        <translation>Várakozás…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
-        <translation>Folyamatban...</translation>
+        <translation>Folyamatban…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
@@ -1356,7 +1356,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
@@ -1468,7 +1468,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
-        <translation>Kérlek, töltsd le a hiányzó modokat.</translation>
+        <translation>Töltsd le a hiányzó modokat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
@@ -1566,7 +1566,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Java ellenőrző könyvtár nem található. Kérlek, ellenőrizd a telepítést.</translation>
+        <translation>Java ellenőrző könyvtár nem található, ellenőrizd a telepítést.</translation>
     </message>
 </context>
 <context>
@@ -1716,12 +1716,12 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation>Kérlek várj...</translation>
+        <translation>Kis türelmet…</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
-        <translation>Várakozás a feladat megkezdésére...</translation>
+        <translation>Várakozás a feladat megkezdésére…</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
@@ -2029,7 +2029,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="90"/>
         <source>Other...</source>
-        <translation>Egyéb...</translation>
+        <translation>Egyéb…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
@@ -2226,7 +2226,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="23"/>
         <source>Scanning files...</source>
-        <translation>Fájlok beolvasása...</translation>
+        <translation>Fájlok beolvasása…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="41"/>
@@ -2488,34 +2488,34 @@ Biztos vagy ebben?</translation>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Modok metaadatainak ellenőrzése...</translation>
+        <translation>Modok metaadatainak ellenőrzése…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
         <source>Checking if resources have metadata...</source>
-        <translation>Erőforrások metaadatainak ellenőrzése...</translation>
+        <translation>Erőforrások metaadatainak ellenőrzése…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>Metaadat-információk kérése a következőtől: %1...</translation>
+        <translation>Metaadat-információk kérése a következőtől: %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>Metaadat-információk kérése (tőle: %1) a következőhöz: &quot;%2&quot;...</translation>
+        <translation>Metaadat-információk kérése (tőle: %1) a következőhöz: &quot;%2&quot;…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>API-válasz elemzése a Modrinth-tól a következőhöz: &quot;%1&quot;...</translation>
+        <translation>API-válasz elemzése a Modrinth-tól a következőhöz: &quot;%1&quot;…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
+        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;…</translation>
     </message>
 </context>
 <context>
@@ -3416,12 +3416,12 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation>Az FML könyvtárak ellenőrzése...</translation>
+        <translation>Az FML könyvtárak ellenőrzése…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>FML-könyvtárak letöltése...</translation>
+        <translation>FML-könyvtárak letöltése…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -3431,7 +3431,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>FML könyvtárak másolása a példányba...</translation>
+        <translation>FML könyvtárak másolása a példányba…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
@@ -3454,7 +3454,7 @@ Please try again.</source>
 %1
 
 Indok:%2
-Kérlek, próbáld újra.</translation>
+Próbáld újra.</translation>
     </message>
 </context>
 <context>
@@ -3485,7 +3485,7 @@ Kérlek, próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
-        <translation>Keresés és szűrés...</translation>
+        <translation>Keresés és szűrés…</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3516,12 +3516,12 @@ Kérlek, próbáld újra.</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation>Fájlok másolása...</translation>
+        <translation>Fájlok másolása…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation>Beállítások másolása...</translation>
+        <translation>Beállítások másolása…</translation>
     </message>
 </context>
 <context>
@@ -3529,7 +3529,7 @@ Kérlek, próbáld újra.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
         <source>Resolving mod IDs...</source>
-        <translation>Mod ID-k feloldása...</translation>
+        <translation>Mod ID-k feloldása…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
@@ -3540,7 +3540,7 @@ Kérlek, próbáld újra.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
+        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;…</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3553,7 +3553,7 @@ Kérlek, próbáld újra.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation>Modok előkészítése a CurseForge számára...</translation>
+        <translation>Modok előkészítése a CurseForge számára…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3562,12 +3562,12 @@ Kérlek, próbáld újra.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>API-válasz lekérése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
+        <translation>API-válasz lekérése a CurseForge-tól a következőhöz: &quot;%1&quot;…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
+        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="100"/>
@@ -3582,7 +3582,7 @@ Kérlek, próbáld újra.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="180"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
+        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="184"/>
@@ -3601,7 +3601,7 @@ Kérlek, próbáld újra.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Modok előkészítése a CurseForge számára...</translation>
+        <translation>Modok előkészítése a CurseForge számára…</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -3739,7 +3739,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Blokkolt modok másolása...</translation>
+        <translation>Blokkolt modok másolása…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="628"/>
@@ -3765,7 +3765,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="605"/>
         <source>Downloading mods...</source>
-        <translation>Modok letöltése...</translation>
+        <translation>Modok letöltése…</translation>
     </message>
 </context>
 <context>
@@ -3837,7 +3837,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation>Fájlok keresése...</translation>
+        <translation>Fájlok keresése…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="72"/>
@@ -3847,28 +3847,28 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
         <source>Finding file hashes...</source>
-        <translation>Fájl hashek keresése...</translation>
+        <translation>Fájl hashek keresése…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="168"/>
         <source>Finding versions for hashes...</source>
-        <translation>Verziók keresése a hashekhez...</translation>
+        <translation>Verziók keresése a hashekhez…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="219"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="282"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
+        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>Projektinformációk keresése a CurseForge-ból...</translation>
+        <translation>Projektinformációk keresése a CurseForge-ból…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="319"/>
         <source>Adding files...</source>
-        <translation>Fájlok hozzáadása...</translation>
+        <translation>Fájlok hozzáadása…</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -3913,7 +3913,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Keresés és szűrés...</translation>
+        <translation>Keresés és szűrés…</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -4171,7 +4171,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation>Keresés...</translation>
+        <translation>Keresés…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -4265,7 +4265,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>A(z) %1 modcsomag le van tiltva harmadik felek számára! Kérlek, töltsd le manuálisan.</translation>
+        <translation>A(z) %1 modcsomag le van tiltva harmadik felek számára! Töltsd le manuálisan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
@@ -4490,7 +4490,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
-        <translation>Régi ütköző fájlok eltávolítása...</translation>
+        <translation>Régi ütköző fájlok eltávolítása…</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
@@ -4684,7 +4684,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>Automatikus felismerés...</translation>
+        <translation>Automatikus felismerés…</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -5236,7 +5236,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation>Java telepítések észlelése...</translation>
+        <translation>Java telepítések észlelése…</translation>
     </message>
 </context>
 <context>
@@ -5336,7 +5336,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>&amp;Automatikus felismerés...</translation>
+        <translation>&amp;Automatikus felismerés…</translation>
     </message>
     <message>
         <source>&amp;Test</source>
@@ -5905,7 +5905,7 @@ A Java verziót később a beállítások között megváltoztathatod.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="76"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>Érvénytelen Java argumentumok megadva. Kérlek, először ezt javítsd ki.</translation>
+        <translation>Érvénytelen Java argumentumok megadva, először ezt javítsd ki.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="93"/>
@@ -6742,7 +6742,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/DEBUG] Egy titkos hibakeresési üzenet...</translation>
+        <translation>[Test/DEBUG] Egy titkos hibakeresési üzenet…</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
@@ -6754,7 +6754,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] Egy ártalmatlan üzenet...</translation>
+        <translation>[Test/INFO] Egy ártalmatlan üzenet…</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6775,12 +6775,12 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="76"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>A launcher könyvtára nem található. Kérlek, ellenőrizd a telepítést.</translation>
+        <translation>A launcher könyvtára nem található, ellenőrizd a telepítést.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>Nem található legacy launcher könyvtár. Kérlek, ellenőrizd a telepítést.</translation>
+        <translation>Nem található legacy launcher könyvtár, ellenőrizd a telepítést.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
@@ -6898,7 +6898,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation>Keresés és szűrés...</translation>
+        <translation>Keresés és szűrés…</translation>
     </message>
     <message>
         <source>Search</source>
@@ -7045,7 +7045,7 @@ El legyen most távolítva?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>Könyvtárfájlok beszerzése a Mojangtól...</translation>
+        <translation>Könyvtárfájlok beszerzése a Mojangtól…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -7307,7 +7307,7 @@ Indok:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="45"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation>Az üres archívumok kibontása furcsának tűnik...</translation>
+        <translation>Az üres archívumok kibontása furcsának tűnik…</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
@@ -7382,7 +7382,7 @@ Indok:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation>Kérlek várj...</translation>
+        <translation>Kis türelmet…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -7642,7 +7642,7 @@ Indok:
     </message>
     <message>
         <source>More news...</source>
-        <translation>További hírek...</translation>
+        <translation>További hírek…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7657,7 +7657,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>&amp;Edit...</source>
-        <translation>&amp;Szerkesztés...</translation>
+        <translation>&amp;Szerkesztés…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
@@ -7667,7 +7667,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
         <source>E&amp;xport...</source>
-        <translation>&amp;Exportálás...</translation>
+        <translation>&amp;Exportálás…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
@@ -7677,7 +7677,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
         <source>Cop&amp;y...</source>
-        <translation>&amp;Másolás...</translation>
+        <translation>&amp;Másolás…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
@@ -7711,7 +7711,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>Példány &amp;hozzáadása...</translation>
+        <translation>Példány &amp;hozzáadása…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
@@ -7722,7 +7722,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>&amp;Beállítások...</translation>
+        <translation>&amp;Beállítások…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
@@ -7773,7 +7773,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation>További hírek...</translation>
+        <translation>További hírek…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -7925,7 +7925,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
         <source>&amp;Update...</source>
-        <translation>&amp;Frissítés...</translation>
+        <translation>&amp;Frissítés…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
@@ -7935,7 +7935,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>&amp;Fiókok kezelése...</translation>
+        <translation>&amp;Fiókok kezelése…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
@@ -8124,7 +8124,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>&amp;Change Group...</source>
-        <translation>&amp;Csoportváltás...</translation>
+        <translation>&amp;Csoportváltás…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
@@ -8357,7 +8357,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="803"/>
         <source>Loading news...</source>
-        <translation>Hírek betöltése...</translation>
+        <translation>Hírek betöltése…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="813"/>
@@ -8397,7 +8397,7 @@ Adjon hozzá egy Microsoft-fiókot.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>A(z) %1 modcsomag, mod vagy erőforrás le van tiltva harmadik felek számára! Kérlek, töltsd le manuálisan.</translation>
+        <translation>A(z) %1 modcsomag, mod vagy erőforrás le van tiltva harmadik felek számára, töltsd le manuálisan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
@@ -8782,7 +8782,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation>Verziók lekérése...</translation>
+        <translation>Verziók lekérése…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
@@ -10480,7 +10480,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>Frissítések keresése...</translation>
+        <translation>Frissítések keresése…</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
@@ -10497,7 +10497,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>Függőségek keresése...</translation>
+        <translation>Függőségek keresése…</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
@@ -10525,7 +10525,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>Metaadatok generálása...</translation>
+        <translation>Metaadatok generálása…</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10674,7 +10674,7 @@ Frissítsd a következőt: %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Modok előkészítése a Modrinth számára...</translation>
+        <translation>Modok előkészítése a Modrinth számára…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10683,12 +10683,12 @@ Frissítsd a következőt: %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
         <source>Preparing resources for Modrinth...</source>
-        <translation>Források előkészítése Modrinth számára...</translation>
+        <translation>Források előkészítése Modrinth számára…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation>Modrinth API-válaszának elemzése...</translation>
+        <translation>Modrinth API-válaszának elemzése…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
@@ -10721,7 +10721,7 @@ Frissítsd a következőt: %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation>Várakozás a Modrinth API-válaszára...</translation>
+        <translation>Várakozás a Modrinth API-válaszára…</translation>
     </message>
 </context>
 <context>
@@ -10807,7 +10807,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="305"/>
         <source>Downloading mods...</source>
-        <translation>Modok letöltése...</translation>
+        <translation>Modok letöltése…</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -10844,7 +10844,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
         <source>Fetching changelogs...</source>
-        <translation>Változásnaplók lekérése...</translation>
+        <translation>Változásnaplók lekérése…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="372"/>
@@ -10885,7 +10885,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="59"/>
         <source>Searching for files...</source>
-        <translation>Fájlok keresése...</translation>
+        <translation>Fájlok keresése…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="80"/>
@@ -10895,12 +10895,12 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="96"/>
         <source>Finding file hashes...</source>
-        <translation>Fájl hashek keresése...</translation>
+        <translation>Fájl hashek keresése…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
         <source>Finding versions for hashes...</source>
-        <translation>Verziók keresése a hashekhez...</translation>
+        <translation>Verziók keresése a hashekhez…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="193"/>
@@ -10910,7 +10910,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="202"/>
         <source>Adding files...</source>
-        <translation>Fájlok hozzáadása...</translation>
+        <translation>Fájlok hozzáadása…</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -10940,7 +10940,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Keresés és szűrés...</translation>
+        <translation>Keresés és szűrés…</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -11763,7 +11763,7 @@ Hibaüzenet: %3</translation>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation>Frissítések keresése...</translation>
+        <translation>Frissítések keresése…</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
@@ -12353,17 +12353,17 @@ HTTP állapot: %2</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation>Kérlek várj...</translation>
+        <translation>Kis türelmet…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation>Globális feladatállapot...</translation>
+        <translation>Globális feladatállapot…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation>Globális állapot részletei...</translation>
+        <translation>Globális állapot részletei…</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -12933,7 +12933,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítod ezt a JVM-argumentumok
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation>Java ellenőrző könyvtár nem található. Kérlek, ellenőrizd a telepítést.</translation>
+        <translation>Java ellenőrző könyvtár nem található, ellenőrizd a telepítést.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="155"/>
@@ -13681,7 +13681,7 @@ Biztosan bezárod ezt a párbeszédpanelt?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="170"/>
         <source>Checking for dependencies...</source>
-        <translation>Függőségek keresése...</translation>
+        <translation>Függőségek keresése…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="396"/>
@@ -13777,7 +13777,7 @@ Frissítsd a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="112"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation>%1 keresése...</translation>
+        <translation>%1 keresése…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="113"/>
@@ -13854,7 +13854,7 @@ Frissítsd a következőt: %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="336"/>
         <source>Loading versions...</source>
-        <translation>Verziók betöltése...</translation>
+        <translation>Verziók betöltése…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
@@ -14379,7 +14379,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="122"/>
         <source>Checking for updates...</source>
-        <translation>Frissítések keresése...</translation>
+        <translation>Frissítések keresése…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="168"/>
@@ -14410,7 +14410,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="212"/>
         <source>Checking for dependencies...</source>
-        <translation>Függőségek keresése...</translation>
+        <translation>Függőségek keresése…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="232"/>
@@ -14430,7 +14430,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="372"/>
         <source>Generating metadata...</source>
-        <translation>Metaadatok generálása...</translation>
+        <translation>Metaadatok generálása…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="425"/>
@@ -15477,7 +15477,7 @@ mert: %2.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation>Alfeladat állapota...</translation>
+        <translation>Alfeladat állapota…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
@@ -15690,7 +15690,7 @@ inheritsFrom hiányzik</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Keresés és szűrés...</translation>
+        <translation>Keresés és szűrés…</translation>
     </message>
     <message>
         <source>Search</source>
