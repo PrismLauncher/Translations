@@ -3629,12 +3629,12 @@ Molimo pokušajte ponovo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Napomena: CurseForge omogućava kreatorima da blokiraju pristup alatima trećih strana (third-party tools) kao što je Prism Launcher. Zbog toga ćete možda morati ručno da preuzmete neke modove da biste mogli da instalirate paket modova.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcije filtera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -3650,7 +3650,7 @@ Molimo pokušajte ponovo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sortiraj po istaknuto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
@@ -3662,7 +3662,7 @@ Molimo pokušajte ponovo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sortiraj po poslednjem ažuriranju</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -3674,19 +3674,19 @@ Molimo pokušajte ponovo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sortiraj po autoru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sortiraj po broju preuzimanja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="220"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije dostupna nijedna verzija!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="203"/>
