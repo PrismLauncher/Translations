@@ -127,7 +127,7 @@
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Остало</translation>
+        <translation>Razno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -3094,7 +3094,7 @@ Da li ste sigurni da želite ovo da uradite?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Eksterni Urednik (ostavi prazno za podrazumevanu vrednost sistema)</translation>
+        <translation>Eksterni urednici (ostavi prazno za podrazumevanu vrednost sistema)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
@@ -3706,17 +3706,17 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="296"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Problemi: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="298"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Viki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="300"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvorni kod: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3725,7 +3725,7 @@ Molimo pokušajte ponovo.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nije uspelo kreiranje fascikle za Minecraft binarne datoteke.</translation>
     </message>
 </context>
 <context>
@@ -3752,7 +3752,7 @@ Molimo pokušajte ponovo.</translation>
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Ključ</translation>
     </message>
     <message>
         <source>Value</source>
@@ -3764,7 +3764,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="60"/>
         <source>Game Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcije igre</translation>
     </message>
 </context>
 <context>
@@ -3772,32 +3772,32 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="89"/>
         <source>Survival</source>
-        <translation type="unfinished"></translation>
+        <translation>Preživljavanje</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="91"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreativnost</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Adventure</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanturistički režim</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Spectator</source>
-        <translation type="unfinished"></translation>
+        <translation>Posmatrački režim</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="100"/>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepoznato (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="102"/>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedefinisano</translation>
     </message>
 </context>
 <context>
@@ -3805,7 +3805,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokrenut proces: %1</translation>
     </message>
 </context>
 <context>
@@ -3819,7 +3819,7 @@ Molimo pokušajte ponovo.</translation>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="187"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Došlo je do greške sa mrežom. Nije moguće učitati zavisnosti projekta:%1</translation>
     </message>
 </context>
 <context>
@@ -3827,12 +3827,12 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje izgleda.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzet izgled</translation>
     </message>
 </context>
 <context>
@@ -3840,48 +3840,48 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="14"/>
         <source>Pick icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi ikonu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretraži...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Add Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj ikonu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
         <source>Remove Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukloni ikonu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished">Otkaži</translation>
+        <translation>Otkaži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="87"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Otvori Folder</translation>
+        <translation>Otvori fasciklu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="118"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi ikone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="121"/>
         <source>Icons %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikone %1</translation>
     </message>
 </context>
 <context>
@@ -3889,39 +3889,39 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished">Pretraži</translation>
+        <translation>Pretraži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledeći tipovi datoteka su implementirani (i za lokalne datoteke i za URL-ove):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- CurseForge paketi modova (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modrinth paketi modova (ZIP and mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- Eksportovane instance Prism Launcher-a, PolyMC-a ili MultiMC-a (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Technic paketi modova (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalna datoteka ili link ka direktnom preuzimanju:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
@@ -3939,12 +3939,12 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paket modova %1 je blokiran za treće strane (third-parties)! Molimo preuzmete ga ručno.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>Ova URL adresa nije važeći paket modova !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
@@ -3965,7 +3965,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
         <source>Choose modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi paket modova</translation>
     </message>
 </context>
 <context>
@@ -3973,22 +3973,22 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi instancu za uvoz (import)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberite instancu u koju želite da uvezete (importujete) ovaj paket resursa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberite instancu u koju želite da uvezete (importujete) ovaj %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
@@ -4011,7 +4011,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="140"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Prijavi probleme: </translation>
     </message>
 </context>
 <context>
@@ -4020,7 +4020,7 @@ Molimo pokušajte ponovo.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Java trenutno nema dostupnih verzija u meti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
@@ -4081,7 +4081,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Instaliraj učitavač (loader) modova</translation>
     </message>
 </context>
 <context>
@@ -4100,7 +4100,7 @@ Molimo pokušajte ponovo.</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Grupa:</translation>
     </message>
 </context>
 <context>
@@ -4108,17 +4108,17 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Copying instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiranje instance %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
         <source>Instance folder copy failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiranje fascikle instance nije uspelo.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiranje fascikle instance je prekinuto.</translation>
     </message>
 </context>
 <context>
@@ -4127,22 +4127,23 @@ Molimo pokušajte ponovo.</translation>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="29"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška prilikom kreiranja nove instance:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="31"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška prilikom kreiranja nove instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uklanjanje starih konfliktnih datoteka...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije uspelo uklanjanje starih konfliktnih datoteka.</translation>
     </message>
 </context>
 <context>
@@ -4151,7 +4152,8 @@ Molimo pokušajte ponovo.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="85"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje paketa modova:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
@@ -4161,28 +4163,28 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokušava se odrediti tip instance</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Raspakivanje paketa modova</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće otvoriti priloženu zip datoteku paketa modova.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arhiva ne sadrži prepoznatljiv tip paketa modova.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće popraviti dozvole za %1</translation>
     </message>
 </context>
 <context>
@@ -4190,7 +4192,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="186"/>
         <source>%1 Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 instanca</translation>
     </message>
 </context>
 <context>
@@ -4199,12 +4201,12 @@ Molimo pokušajte ponovo.</translation>
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ostali logovi</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
         <source>Edit Instance (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredi instancu (%1)</translation>
     </message>
 </context>
 <context>
@@ -4215,71 +4217,71 @@ Molimo pokušajte ponovo.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Pretraži</translation>
+        <translation>Pretraži</translation>
     </message>
     <message>
         <source>Open Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori globalna podešavanja</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podešavanja ovde su zamena (overrides) za globalna podešavanja.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Java insta&amp;lacija</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukoliko omogućeno, launcher neće proveravati da li je instanca kompatibilna sa izabranom Java verzijom.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Preskoči provere Java kompatibilnosti</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi Javu</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatsko prepoznavanje…</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>Memorij&amp;a</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalna alokacija memorije:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalna alokacija memorije:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="unfinished"></translation>
+        <translation>Napomena: Permgen se automatski podešava u Javi 8 i novijim verzijama</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>Količina memorije sa kojom se Minecraft pokreće.</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalna količina memorije koja je dozvoljena Minecraft-u da koristi.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Količina memorije dostupna za čuvanje učitanih Java klasa.</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Java argumen&amp;ti</translation>
     </message>
     <message>
         <source>Game windows</source>
@@ -4291,31 +4293,31 @@ Molimo pokušajte ponovo.</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokreni Minecraft uvećan</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visina prozora:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Širina prozora:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Podešavanja konzo&amp;le</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži konzolu dok je igra pokrenuta</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski zatvori konzolu kada se izađe iz igre</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži konzolu pri padu (crash-u) igre</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -4323,11 +4325,11 @@ Molimo pokušajte ponovo.</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Pritvori launcher nakon što se otvori prozor igre</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatvori launcher nakon što se zatvori prozor igre</translation>
     </message>
     <message>
         <source>Custom commands</source>
@@ -5284,7 +5286,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi sistemske postavke jezika</translation>
     </message>
 </context>
 <context>
@@ -13680,7 +13682,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
         <source>Completeness</source>
-        <translation type="unfinished"></translation>
+        <translation>Potpunost</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
