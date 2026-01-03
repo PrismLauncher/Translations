@@ -5292,7 +5292,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="43"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jezik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
@@ -11271,7 +11271,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Napravi prečicu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
@@ -13675,7 +13675,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jezik</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
