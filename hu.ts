@@ -4265,7 +4265,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>A(z) %1 modcsomag le van tiltva harmadik felek számára! Töltsd le manuálisan.</translation>
+        <translation>A(z) %1 modcsomag le van tiltva harmadik felek számára, töltsd le manuálisan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
