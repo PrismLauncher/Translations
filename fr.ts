@@ -1979,7 +1979,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation>Nom:</translation>
+        <translation>Nom&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
@@ -2009,13 +2009,13 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation>Monde:</translation>
+        <translation>Monde&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation>Adresse du serveur:</translation>
+        <translation>Adresse du serveur&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
@@ -3496,7 +3496,7 @@ Veuillez réessayer.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished">Remarque&#xa0;: De nombreux modpacks FTB récents sont également disponibles sur CurseForge&#x202f;! De plus, si vos instances FTB ne se trouvent pas à l’emplacement par défaut, sélectionnez-le à l’aide du bouton situé à côté de la recherche.</translation>
+        <translation>Note&#xa0;: De nombreux modpacks FTB récents sont égalements disponibles sur CurseForge&#x202f;! Aussi, si vos instances FTB ne se trouvent pas à l’emplacement par défaut, sélectionnez-le à l’aide du bouton situé à côté de la zone de recherche.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -7327,7 +7327,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation>Ne peut pas ajouter:</translation>
+        <translation>Impossible d&apos;ajouter&#xa0;:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -9421,7 +9421,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Attention&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;&#xa0;: L&apos;option de maximisation pourrait ne pas être entièrement supportée sur toutes les versions de Minecraft.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Attention&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt; &#xa0;: L&apos;option de maximisation pourrait ne pas être entièrement supportée sur toutes les versions de Minecraft.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -15381,7 +15381,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="305"/>
         <source>Skin file does not exist!</source>
-        <translation>Le fichier du skin n&apos;existe pas!</translation>
+        <translation>Le fichier du skin n&apos;existe pas&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
