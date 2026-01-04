@@ -1702,7 +1702,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Kopiëer Instantie</translation>
+        <translation>Instantie kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1717,7 +1717,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation>Selecteer alles</translation>
+        <translation>Alles selecteren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
@@ -1727,118 +1727,118 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>Instantie Kopieer-opties</translation>
+        <translation>Opties voor kopiëren van instantie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation>Kopieer mods</translation>
+        <translation>Mods kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation>Kopieer in-game instellingen, zoals FOV, max. framerate, etc.</translation>
+        <translation>In-game instellingen zoals FOV, max. framerate, etc. kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation>Kopieer game-instellingen</translation>
+        <translation>Game-instellingen kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation>Kopieer saves</translation>
+        <translation>Saves kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation>Geavanceerde Kopieer-opties</translation>
+        <translation>Geavanceerde opties voor kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>Gebruik symbolische links of harde links i.p.v. bestanden te kopiëren.</translation>
+        <translation>Symbolische of harde koppelingen gebruiken in plaats van bestanden te kopiëren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation>Symbolische- en Harde link Opties</translation>
+        <translation>Opties voor symbolische en harde koppelingen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation>Links worden op de meeste bestandssystemen behalve FAT ondersteund</translation>
+        <translation>Koppelingen worden op de meeste bestandssystemen behalve FAT ondersteund</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation>Link elk bestand individueel i.p.v. hele mappen in een keer</translation>
+        <translation>Elke bron afzonderlijk koppelen in plaats van hele mappen in één keer te koppelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation>Link bestanden recursief</translation>
+        <translation>Bestanden recursief koppelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>Als &quot;Kopieer saves&quot; geselecteerd is worden werelden gekopieerd i.p.v. gelinkt, hierdoor worden ze niet gedeeld tussen instanties.</translation>
+        <translation>Als “saves kopiëren” is geselecteerd, worden wereldopslaggegevens gekopieerd in plaats van gekoppeld en dus niet gedeeld tussen instanties.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation>Link geen saves</translation>
+        <translation>Saves niet koppelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation>Gebruik harde links in plaats van dat u bestanden kopieert.</translation>
+        <translation>Harde koppelingen gebruiken in plaats van bestanden te kopiëren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation>Gebruik harde links</translation>
+        <translation>Harde koppelingen gebruiken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation>Gebruik symbolische links in plaats van dat u bestanden kopieert.</translation>
+        <translation>Symbolische koppelingen gebruiken in plaats van bestanden te kopiëren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
         <source>Use symbolic links</source>
-        <translation>Gebruik symbolische links</translation>
+        <translation>Symbolische koppelingen gebruiken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation>CoW (Kopiëren-bij-Schrijven) Instellingen</translation>
+        <translation>Opties voor CoW (kopiëren-bij-schrijven)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>Bestanden die gedupliceerd zijn met reflinks nemen niet extra ruimte in totdat deze worden veranderd.</translation>
+        <translation>Bestanden die met reflinks zijn gekloond, nemen geen extra ruimte in beslag totdat ze worden gewijzigd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation>Dupliceer in plaats van dat u kopieert</translation>
+        <translation>Klonen in plaats van kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>Uw bestandsysteem en/of besturingssysteem ondersteund geen reflinks</translation>
+        <translation>Uw bestandsysteem en/of besturingssysteem ondersteunt geen reflinks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>Kopieer shaderpakketten</translation>
+        <translation>Shaderpakketten kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation>Kopieer servers</translation>
+        <translation>Servers kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
@@ -1853,7 +1853,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation>Kopieer schermafbeeldingen</translation>
+        <translation>Schermafbeeldingen kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
@@ -2101,7 +2101,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation>Momentopnamen</translation>
+        <translation>Snapshots</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
@@ -4051,7 +4051,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="102"/>
         <source>Undefined</source>
-        <translation>Ongedefiniëerd</translation>
+        <translation>Ongedefinieerd</translation>
     </message>
 </context>
 <context>
@@ -6399,7 +6399,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>Controleer downloads folder recursievelijk</translation>
+        <translation>Map met downloads recursief controleren</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
@@ -7056,7 +7056,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>Kopieër het hele logboek naar het klembord</translation>
+        <translation>Het hele logboek naar het klembord kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
@@ -11220,7 +11220,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>Kopieër het hele logboek naar het klembord</translation>
+        <translation>Het hele logboek naar het klembord kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
@@ -16951,7 +16951,7 @@ Het kan nodig zijn om dit te herinstalleren.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="429"/>
         <source>Copy World</source>
-        <translation>Kopiëer wereld</translation>
+        <translation>Wereld kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
