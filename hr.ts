@@ -3385,7 +3385,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod ima novu verziju dostupni, ali ju nije moguće preuzeti preko CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3411,7 +3411,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="250"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nismo bili uspješni naći prikladnu index datoteku za stariju verziju. Ovo može prouzrokovati da se neke datoteke dupliciraju. Želite li nastaviti?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="274"/>
@@ -3437,7 +3437,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="353"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedostaje navedena overrides mapa (%1). Možda je paket modova već bio iskorišten prije?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="382"/>
@@ -3452,7 +3452,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation>Predložena memorija za paket modova premašuje 90% Vašeg sistemskog RAM-a—smanjujemo ga s %1 MiB na %2 MiB!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
