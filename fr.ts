@@ -7868,7 +7868,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation>Ouvrir le dossier des skins dans l&apos;explorateur de fichier.</translation>
+        <translation>Ouvrir le dossier des skins dans l&apos;explorateur de fichiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
@@ -9172,7 +9172,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emule les usages d&apos;anciens services en ligne qui ne fonctionnent plus.&lt;/p&gt;&lt;p&gt;Cela permet actuellement d&apos;utiliser des apparences modernes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Émule les usages d&apos;anciens services en ligne qui ne fonctionnent plus.&lt;/p&gt;&lt;p&gt;Cela permet actuellement d&apos;utiliser des apparences modernes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
@@ -15236,7 +15236,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="299"/>
         <source>Not a file.</source>
-        <translation>Pas un dossier.</translation>
+        <translation>Pas un fichier.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="301"/>
@@ -15246,7 +15246,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="303"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation>Le Skin doit être une image PNG de 64x64 ou 64x32 pixels.</translation>
+        <translation>Le skin doit être une image PNG de 64x64 ou 64x32 pixels.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="307"/>
@@ -15296,32 +15296,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
         <source>Reset Skin</source>
-        <translation>Réinitialiser le Skin</translation>
+        <translation>Réinitialiser le skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
         <source>Import URL</source>
-        <translation>Importer le Skin (Lien)</translation>
+        <translation>Importer le skin (URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"/>
         <source>Import user</source>
-        <translation>Importer le Skin (Nom)</translation>
+        <translation>Importer le skin (Nom)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="145"/>
         <source>Import File</source>
-        <translation>Importer le Fichier</translation>
+        <translation>Importer le fichier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>&amp;Delete Skin</source>
-        <translation>&amp;Supprimer le Skin</translation>
+        <translation>&amp;Supprimer le skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>Deletes selected skin</source>
-        <translation>Supprimer Le Skin sélectioné</translation>
+        <translation>Supprime le skin sélectionné</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
@@ -15331,12 +15331,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
         <source>&amp;Rename Skin</source>
-        <translation>%Renommer le Skin</translation>
+        <translation>%Renommer le skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
         <source>Rename selected skin</source>
-        <translation>Renommer le Skin sélectionnée</translation>
+        <translation>Renommer le skin sélectionné</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
@@ -15356,27 +15356,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="172"/>
         <source>Select Skin Texture</source>
-        <translation>Sélectionner une texture de Skin</translation>
+        <translation>Sélectionner une texture de skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="178"/>
         <source>Selected file is not a valid skin</source>
-        <translation>Le Fichier sélectionné n&apos;est pas un Skin valide</translation>
+        <translation>Le fichier sélectionné n&apos;est pas un skin valide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="206"/>
         <source>No Cape</source>
-        <translation>Pas de Cape</translation>
+        <translation>Pas de cape</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="213"/>
         <source>Download capes</source>
-        <translation>Télécharger Des capes</translation>
+        <translation>Télécharger des capes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="302"/>
         <source>Change skin</source>
-        <translation>Changer De Skin</translation>
+        <translation>Changer de skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="305"/>
@@ -15391,7 +15391,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="330"/>
         <source>Reset skin</source>
-        <translation>Réinitialiser le Skin</translation>
+        <translation>Réinitialiser le skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="334"/>
@@ -15411,12 +15411,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="383"/>
         <source>Delete error</source>
-        <translation>Erreure de Suppression</translation>
+        <translation>Erreur de suppression</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="383"/>
         <source>Can not delete skin that is in use.</source>
-        <translation>Un Skin équipé ne peut pas être supprimé.</translation>
+        <translation>Un skin équipé ne peut pas être supprimé.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="391"/>
@@ -15433,22 +15433,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="409"/>
         <source>Invalid url</source>
-        <translation>Url non valide</translation>
+        <translation>URL non valide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="413"/>
         <source>Download skin</source>
-        <translation>Télécharger le Skin</translation>
+        <translation>Télécharger le skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="422"/>
         <source>URL is not a valid skin</source>
-        <translation>Lien invalide</translation>
+        <translation>L&apos;URL ne correspond pas à un skin valide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="423"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation>Le Skin doit être une image PNG de 64x64 ou 64x32 pixels.</translation>
+        <translation>Le skin doit être une image PNG de 64x64 ou 64x32 pixels.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
@@ -15458,28 +15458,28 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="470"/>
         <source>Download user skin</source>
-        <translation>Télécharger le Skin utilisateur</translation>
+        <translation>Télécharger le skin utilisateur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="488"/>
         <source>failed to get user UUID</source>
-        <translation>L&apos;UUID de cet utilisateur est introuvable</translation>
+        <translation>Impossible d&apos;obtenir l&apos;UUID de l&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="495"/>
         <source>failed to get user profile</source>
-        <translation>Le profil de cet utilisateur est introuvable</translation>
+        <translation>Impossible de récupérer le profil utilisateur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="499"/>
         <source>failed to download skin</source>
-        <translation>Le Skin n&apos;a pas pu être téléchargé</translation>
+        <translation>Échec du téléchargement du skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="509"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="523"/>
         <source>failed to parse get user UUID response</source>
-        <translation>échec de l&apos;analyse de la réponse get user UUID</translation>
+        <translation>Échec de l&apos;analyse de la réponse get user UUID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="518"/>
@@ -15506,7 +15506,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="552"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
-        <translation>Incapable de trouver le skin pour &apos;%1 &apos;
+        <translation>Impossible de trouver le skin pour &apos;%1 &apos;
 %2.</translation>
     </message>
 </context>
