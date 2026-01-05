@@ -174,7 +174,7 @@
     </message>
     <message>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>APIanna</translation>
     </message>
 </context>
 <context>
@@ -832,7 +832,6 @@ Some versions of Minecraft may not launch.
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
         <translation>Tá do chomhadlann /tmp feistithe faoi láthair leis an mbratach &apos;noexec&apos; cumasaithe.
-
 B&apos;fhéidir nach seolfar roinnt leaganacha de Minecraft.
 
 Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exec&apos; nó an argóint JVM java.io.tmpdir a shocrú chuig eolaire inscríofa i gcóras comhad ina bhfuil an bhratach &apos;exec&apos; socraithe (m.sh., /home/user/.local/tmp)
@@ -1101,7 +1100,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Stádas tasc cuntais anaithnid: %1</translation>
     </message>
 </context>
 <context>
@@ -1129,7 +1128,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java comhoiriúnach aimsithe ag: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
@@ -1154,7 +1153,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor aimsíodh aon leagan comhoiriúnach de Java. Ag baint úsáide as an gceann réamhshocraithe.</translation>
     </message>
 </context>
 <context>
@@ -1167,13 +1166,13 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Foláireamh ar Ghné Nua!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Chuireamar gné leis chun an leagan ceart Java a íoslódáil go huathoibríoch do gach leagan de Minecraft (is féidir é seo a athrú i Socruithe Java). Ar mhaith leat an ghné seo a chumasú nó a dhíchumasú?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -1183,7 +1182,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasaigh Uath-Íoslódáil</translation>
     </message>
 </context>
 <context>
@@ -1209,7 +1208,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Fuarthas ag %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
@@ -1230,7 +1229,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Déantar seiceáil uathoibríoch ar do fhillteán mods domhanda cumraithe agus ar do fhillteán íoslódálacha réamhshocraithe le haghaidh na mods íoslódáilte agus déanfar iad a chóipeáil chuig an sampla má aimsítear iad.&lt;/p&gt;&lt;p&gt;Mar rogha, is féidir leat na mods íoslódáilte a tharraingt agus a scaoileadh isteach sa dialóg seo nó fillteán a chur leis le faire mura ndearna tú na mods a íoslódáil chuig suíomh réamhshocraithe.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight:600;&quot;&gt;Cliceáil &apos;Oscail Ar Iarraidh&apos; chun na naisc íoslódála go léir a oscailt sa bhrabhsálaí.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1240,7 +1239,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscailte Ar Iarraidh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
@@ -1250,7 +1249,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir Fillteán Íoslódála leis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
@@ -1260,20 +1259,20 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; *Ní bhfuarthas é&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="159"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hais: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Déantar seiceáil uathoibríoch ar do fhillteán mods domhanda cumraithe agus ar do fhillteán íoslódálacha réamhshocraithe le haghaidh na mods íoslódáilte agus déanfar iad a chóipeáil chuig an sampla má aimsítear iad.&lt;/p&gt;&lt;p&gt;Mar rogha, is féidir leat na mods íoslódáilte a tharraingt agus a scaoileadh isteach sa dialóg seo nó fillteán a chur leis le faire mura ndearna tú na mods a íoslódáil chuig suíomh réamhshocraithe.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fillteáin Faire:</translation>
     </message>
 </context>
 <context>
@@ -1281,7 +1280,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="55"/>
         <source>Equipping cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Cápa a threalmhú</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="52"/>
@@ -1317,7 +1316,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní bailí ainm úsáideora ach amháin má tá sé idir 3 agus 16 charachtar ar fhad, agus má úsáideann sé litreacha Béarla, uimhreacha agus fo-línte. D’fhéadfadh ainm úsáideora neamhbhailí cosc a chur ar dhul isteach i bhfreastalaithe agus i ndomhan aon-imreora.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -1345,12 +1344,12 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation type="unfinished"></translation>
+        <translation>Seachain an mod seo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished"></translation>
+        <translation>Léim thar gach rud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
@@ -1445,7 +1444,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag fanacht le tosú ar thasc...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
@@ -1455,11 +1454,11 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasc críochnaithe.</translation>
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar fhothasc amháin nó níos mó</translation>
     </message>
 </context>
 <context>
@@ -1482,7 +1481,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh gach rud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
@@ -1492,7 +1491,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghanna Cóipeála Cásanna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1507,7 +1506,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation>Cóipeáil roghanna cluiche</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
@@ -1522,7 +1521,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bain úsáid as naisc shiombalacha nó chrua in ionad comhaid a chóipeáil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
@@ -1603,7 +1602,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Cóipeáil freastalaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
@@ -1623,7 +1622,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation>Gan aon ghrúpa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
@@ -1701,7 +1700,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Úsáid cuntas difriúil ón gceann réamhshocraithe atá sonraithe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
@@ -1841,7 +1840,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ritheann an t-ordú réamhlainseála sula seoltar an sampla agus ritheann an t-ordú iar-scoir tar éis dó scoir.&lt;/p&gt;&lt;p&gt;Rithfear an dá cheann i bhfillteán oibre an lainseálaí le hathróga comhshaoil breise:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Ainm an sampla&lt;/li&gt;&lt;li&gt;$INST_ID - ID an sampla (ainm a fhillteáin)&lt;/li&gt;&lt;li&gt;$INST_DIR - cosán absalóideach an sampla&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - cosán absalóideach Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - dénártha Java a úsáidtear le haghaidh lainseála&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - paraiméadair líne ordaithe a úsáidtear le haghaidh lainseála (rabhadh: ní oibreoidh sé i gceart má tá spásanna sna hargóintí)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ceadaíonn an t-ordú fillteáin lainseáil ag baint úsáide as clár fillteáin breise (cosúil le &apos;optirun&apos; ar Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2026,7 +2025,8 @@ Cosán Canónach: %1</translation>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="115"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
@@ -2198,7 +2198,7 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag seiceáil an bhfuil meiteashonraí ag na mods...</translation>
     </message>
 </context>
 <context>
@@ -2722,7 +2722,10 @@ An bhfuil tú cinnte?</translation>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí an fillteán &quot;%1&quot; a bhaint.
+D’fhéadfadh sé seo a bheith buan agus imeoidh sé ón bhfillteán tuismitheora.
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="256"/>
@@ -2753,7 +2756,7 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Scagaire:</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -2761,52 +2764,53 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Cuir le</translation>
+        <translation>Cuir leis</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Bain an mhír roghnaithe</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumasaigh an mhír roghnaithe</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasaigh an mhír roghnaithe</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil acmhainn nua</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabhair cuairt ar leathanach an mhod</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Téigh go dtí leathanach baile na modhnóirí</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Déan iarracht na hacmhainní roghnaithe go léir a sheiceáil nó a nuashonrú (na hacmhainní go léir mura bhfuil aon cheann roghnaithe)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Easpórtáil liosta modúlach</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Easpórtáil meiteashonraí an mhod go téacs</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh an díchumasú</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Má dhíchumasaíonn tú an acmhainn seo agus an cluiche ag rith, d’fhéadfadh sé go dtitfeadh an cluiche.
+An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
 </context>
 <context>
@@ -2868,7 +2872,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eagarthóirí Seachtracha (fág folamh le haghaidh réamhshocraithe an chórais)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
@@ -2940,7 +2944,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Feidhmchlár MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"/>
@@ -2977,20 +2981,21 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Inrite JVisualVM</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid agus suiteáil JVisualVM á seiceáil:
+%1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Is cosúil go bhfuil socrú JVisualVM ceart go leor</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Eagarthóir JSON</translation>
     </message>
 </context>
 <context>
@@ -3021,7 +3026,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag cóipeáil leabharlanna FML isteach sa chás...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
@@ -3070,7 +3075,7 @@ Déan iarracht arís.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nóta: Tá go leor modpacks FTB le déanaí ar fáil ó CurseForge freisin! Chomh maith leis sin, mura bhfuil do chásanna FTB san áit réamhshocraithe, roghnaigh iad ag baint úsáide as an gcnaipe in aice le cuardach.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -3174,19 +3179,19 @@ Déan iarracht arís.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag ullmhú mods do CurseForge...</translation>
     </message>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag fáil freagra API ó CurseForge do &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor aimsíodh aon leagan bailí don mhod seo. Is dócha nach bhfuil sé ar fáil don leagan reatha den chluiche / don luchtóir mod.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá nuashonrú nua ar fáil don Mod, ach ní féidir é a íoslódáil ag baint úsáide as CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3272,7 +3277,7 @@ Déan iarracht arís.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Níl na comhaid seo a leanas ar fáil le híoslódáil i lainseálaithe tríú páirtí.&lt;br/&gt;Beidh ort iad a íoslódáil de láimh agus iad a chur leis an sampla.</translation>
+        <translation>Níl na comhaid seo a leanas ar fáil le híoslódáil i lainseálaithe tríú páirtí.&lt;br/&gt;Beidh ort iad a íoslódáil de láimh agus iad a chur leis an sampla.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
@@ -3420,7 +3425,7 @@ Déan iarracht arís.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir Iomlán na nÍoslódálacha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
@@ -3476,7 +3481,7 @@ Déan iarracht arís.</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">Luach</translation>
+        <translation>Luach</translation>
     </message>
 </context>
 <context>
@@ -3731,7 +3736,7 @@ Déan iarracht arís.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="140"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Tuairiscigh fadhbanna chuig: </translation>
     </message>
 </context>
 <context>
@@ -3899,7 +3904,7 @@ Déan iarracht arís.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl cineál modpack aitheanta sa chartlann.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
@@ -3957,47 +3962,47 @@ Déan iarracht arís.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">An méid cuimhne a bhí ar fáil do Mhinecraft ar an dtosach.</translation>
+        <translation>An méid cuimhne a úsáidtear le haghaidh Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">An méid cuihmne ar fáil chun aicmí Java lódáilte a stóráil.</translation>
+        <translation>An méid cuihmne ar fáil chun aicmí Java lódáilte a stóráil.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Leithdháileadh uasta cuimhne:</translation>
+        <translation>Leithdháileadh uasta cuimhne:</translation>
     </message>
     <message>
         <source>Open Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscail Socruithe Domhanda</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Is sáruithe ar shocruithe domhanda iad na socruithe anseo.</translation>
+        <translation>Is sáruithe ar shocruithe domhanda iad na socruithe anseo.</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Má tá sé cumasaithe, ní dhéanfaidh an lainseálaí seiceáil an bhfuil sampla comhoiriúnach leis an leagan Java roghnaithe.</translation>
+        <translation>Má tá sé cumasaithe, ní dhéanfaidh an lainseálaí seiceáil an bhfuil sampla comhoiriúnach leis an leagan Java roghnaithe.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiceáil comhoiriúnachta Java tharainn</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Brabhsáil</translation>
+        <translation>Brabhsáil</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished">Íoslódáil Java</translation>
+        <translation>Íoslódáil Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="unfinished"></translation>
+        <translation>Nóta: Socraítear Permgen go huathoibríoch le Java 8 agus níos déanaí</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
@@ -4013,15 +4018,15 @@ Déan iarracht arís.</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Tosaigh Minecraft uasmhéadaithe</translation>
+        <translation>Tosaigh Minecraft uasmhéadaithe</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Airde na fuinneoige:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Leithead na fuinneoige:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
@@ -4029,23 +4034,23 @@ Déan iarracht arís.</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
-        <translation type="unfinished"></translation>
+        <translation>Taispeáin an consól agus an cluiche ag rith</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
-        <translation type="unfinished"></translation>
+        <translation>Dún an consól go huathoibríoch nuair a scoireann an cluiche</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
-        <translation type="unfinished"></translation>
+        <translation>Taispeáin an consól nuair a thuairteann an cluiche</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Dún an lainseálaí tar éis oscailt fuinneog an chluiche</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Scoir an lainseálaí tar éis don fhuinneog cluiche dúnadh</translation>
     </message>
     <message>
         <source>Custom commands</source>
@@ -4057,7 +4062,7 @@ Déan iarracht arís.</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Réiteach Seachain</translation>
     </message>
     <message>
         <source>Native libraries</source>
@@ -4069,27 +4074,27 @@ Déan iarracht arís.</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Úsáid suiteáil córais GLFW</translation>
+        <translation>Bain úsáid as suiteáil chórais GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Úsáid suiteáil córais OpenAL</translation>
+        <translation>Úsáid suiteáil córais OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>Domhan aon-imreora</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Sáraigh an cuntas réamhshocraithe</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Cuntas:</translation>
+        <translation>Cuntas:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Ilghnéitheach</translation>
+        <translation>Ilghnéitheach</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -4101,111 +4106,111 @@ Déan iarracht arís.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh Mód Cluiche Feral Interactive, mar d&apos;fhéadfadh é feidhmíocht cluichíochta a fheabhsú.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh Mód Cluiche Feral Interactive, mar d&apos;fhéadfadh é feidhmíocht cluichíochta a fheabhsú.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Cumasaigh Mód Cluiche Feral</translation>
+        <translation>Cumasaigh Mód Cluiche Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh forleagan feidhmíochta ardleibhéil MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Cumasaigh MangoHud</translation>
+        <translation>Cumasaigh MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Úsáid an GPU ar leith in ionad an phríomh-GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Úsáid GPU ar leith</translation>
+        <translation>Úsáid GPU ar leith</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Bain úsáid as Zink, tiománaí OpenGL Mesa a chuireann OpenGL i bhfeidhm ar bharr Vulkan. D’fhéadfadh an fheidhmíocht a bheith éagsúil ag brath ar an gcás. Tabhair faoi deara: Mura bhfaightear tiománaí Vulkan oiriúnach, úsáidfear rindreáil bogearraí.</translation>
+        <translation>Bain úsáid as Zink, tiománaí OpenGL Mesa a chuireann OpenGL i bhfeidhm ar bharr Vulkan. D’fhéadfadh an fheidhmíocht a bheith éagsúil ag brath ar an gcás. Tabhair faoi deara: Mura bhfaightear tiománaí Vulkan oiriúnach, úsáidfear rindreáil bogearraí.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished">Úsáid sinc</translation>
+        <translation>Úsáid Zinc</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Socruithe oidhreachta</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Déanann sé aithris ar úsáidí seanseirbhísí ar líne nach bhfuil ag feidhmiú a thuilleadh.&lt;/p&gt;&lt;p&gt;I measc na socruithe reatha tá: tacaíocht don chraiceann agus don mhodh ar líne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumasaigh socruithe ar líne (turgnamhach)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sáraigh socruithe ama cluiche domhanda</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Taispeáin an t-am a chaitear ag imirt an tsamhail seo</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Taifead an t-am a chaitear ag imirt an tsamhail seo</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Socraigh sprioc le bheith páirteach ar an seoladh</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">Seoladh freastalaithe:</translation>
+        <translation>Seoladh freastalaithe:</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Cosán chuig comhad leabharlainne %1</translation>
+        <translation>Cosán chuig comhad leabharlainne %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">Ní raibh GameMode Feral Interactive le fáil ar do chóras.</translation>
+        <translation>Ní raibh GameMode Feral Interactive le fáil ar do chóras.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">Níorbh fhéidir MangoHud a aimsiú ar do chóras.</translation>
+        <translation>Níorbh fhéidir MangoHud a aimsiú ar do chóras.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Roghnaigh leagan Java</translation>
+        <translation>Roghnaigh leagan Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Deimhnigh Roghnú</translation>
+        <translation>Deimhnigh Roghnú</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Roghnaigh tú leagan 32-giotán de Java.
+        <translation>Roghnaigh tú leagan 32-giotán de Java.
 Ní thacaíonn an suiteáil seo le níos mó ná 2048MiB RAM.
 Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Aimsigh inrite Java</translation>
+        <translation>Aimsigh inrite Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Saraíonn do leithdháileadh uasta cuimhne cumas cuimhne do chórais.</translation>
+        <translation>Saraíonn do leithdháileadh uasta cuimhne cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">Druideann do leithdháileadh uasta cuimhne le cumas cuimhne do chórais.</translation>
+        <translation>Druideann do leithdháileadh uasta cuimhne le cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Tá do leithdháileadh uasta cuimhne níos lú ná an t-íosluach</translation>
+        <translation>Tá do leithdháileadh uasta cuimhne níos lú ná an t-íosluach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4236,7 +4241,7 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliceáil &quot;Cuir Eiseamláir Leis&quot; chun tús a chur leis.</translation>
     </message>
 </context>
 <context>
@@ -4244,7 +4249,7 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
-        <translation type="unfinished"></translation>
+        <translation>Fuinneog consóil le haghaidh </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
@@ -4309,7 +4314,7 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>JVisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh tús le JVisualVM</translation>
     </message>
 </context>
 <context>
@@ -4336,19 +4341,19 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag eastóscadh Java (Ní thuairiscítear dul chun cinn i gcás cartlanna tar)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an comhad tar a cuireadh ar fáil a oscailt.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an comhad tar a cuireadh ar fáil a bhaint amach.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir cineál cartlainne a chinneadh!</translation>
     </message>
 </context>
 <context>
@@ -4454,11 +4459,11 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Cuimhne</translation>
+        <translation>Cuimhne</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">An t-uasmhéid cuimhne atá cead ag Minecraft a úsáid.</translation>
+        <translation>An t-uasmhéid cuimhne atá cead ag Minecraft a úsáid.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
@@ -4476,43 +4481,43 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">An méid cuimhne a bhí ar fáil do Mhinecraft ar an dtosach.</translation>
+        <translation>An méid cuimhne a bhí ar fáil do Mhinecraft ar an dtosach.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">An méid cuihmne ar fáil chun aicmí Java lódáilte a stóráil.</translation>
+        <translation>An méid cuihmne ar fáil chun aicmí Java lódáilte a stóráil.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation type="unfinished"></translation>
+        <translation>Am Rith Java</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Má tá sé cumasaithe, ní dhéanfaidh an lainseálaí seiceáil an bhfuil sampla comhoiriúnach leis an leagan Java roghnaithe.</translation>
+        <translation>Má tá sé cumasaithe, ní dhéanfaidh an lainseálaí seiceáil an bhfuil sampla comhoiriúnach leis an leagan Java roghnaithe.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Seiceálacha comhoiriúnachta Java a scipeáil</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Argóintí JVM:</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Más cumasaithe é, ní iarrfaidh an lainseálaí ort leagan Java a roghnú mura bhfaightear ceann.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Seachain Java &amp; Wizard</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaíonn sé go huathoibríoch an leagan Java atá comhoiriúnach leis an gcás Minecraft reatha, bunaithe ar an bpríomhleagan atá ag teastáil.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Brath uathoibríoch ar leagan Java</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
@@ -4521,24 +4526,24 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódálann agus roghnaíonn sé go huathoibríoch an leagan Java atá molta ag Mojang.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Uath-íoslódáil Java Mojang</translation>
+        <translation>Uath-íoslódáil Java Mojang</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Bainistíocht</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Leaganacha Java Íoslódáilte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Suiteálacha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
@@ -4548,7 +4553,7 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Bain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
@@ -4567,7 +4572,7 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Brabhsáil</translation>
+        <translation>Brabhsáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
@@ -4583,35 +4588,35 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Roghnaigh leagan Java</translation>
+        <translation>Roghnaigh leagan Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Deimhnigh Roghnú</translation>
+        <translation>Deimhnigh Roghnú</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Roghnaigh tú leagan 32-giotán de Java.
+        <translation>Roghnaigh tú leagan 32-giotán de Java.
 Ní thacaíonn an suiteáil seo le níos mó ná 2048MiB RAM.
 Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Aimsigh inrite Java</translation>
+        <translation>Aimsigh inrite Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Saraíonn do leithdháileadh uasta cuimhne cumas cuimhne do chórais.</translation>
+        <translation>Saraíonn do leithdháileadh uasta cuimhne cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">Druideann do leithdháileadh uasta cuimhne le cumas cuimhne do chórais.</translation>
+        <translation>Druideann do leithdháileadh uasta cuimhne le cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Tá do leithdháileadh uasta cuimhne níos lú ná an t-íosluach</translation>
+        <translation>Tá do leithdháileadh uasta cuimhne níos lú ná an t-íosluach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -4635,15 +4640,15 @@ An bhfuil tú cinnte?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation type="unfinished">Níl aon leagan Java roghnaithe</translation>
+        <translation>Níl aon leagan Java roghnaithe</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished">Íoslódáil Java</translation>
+        <translation>Íoslódáil Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="unfinished">Java 32 giotán aimsithe</translation>
+        <translation>Java 32 giotán aimsithe</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -4652,7 +4657,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Roghnaigh tú suiteáil 32 giotán Java, ach leithdháil tú níos mó ná 2048MiB mar cuimhne uasta.
+        <translation>Roghnaigh tú suiteáil 32 giotán Java, ach leithdháil tú níos mó ná 2048MiB mar cuimhne uasta.
 Ní féidir le %1 Minecraft a thosú.
 Ar mhaith leat dul ar aghaidh?
 
@@ -4666,7 +4671,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Níor roghnaigh tú leagan Java nó roghnaigh tú ceann nach n-oibríonn.
+        <translation>Níor roghnaigh tú leagan Java nó roghnaigh tú ceann nach n-oibríonn.
 Ní bheidh %1 in ann Minecraft a thosú.
 Ar mhaith leat leanúint ar aghaidh gan leagan feidhmiúil de Java?
 
@@ -4680,7 +4685,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Cuimhne</translation>
+        <translation>Cuimhne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -4689,7 +4694,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Leithdháileadh íosta cuimhne:</translation>
+        <translation>Leithdháileadh íosta cuimhne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -4754,7 +4759,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiceáil comhoiriúnachta Java tharainn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
@@ -4783,7 +4788,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Leithdháileadh uasta cuimhne:</translation>
+        <translation>Leithdháileadh uasta cuimhne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -4822,19 +4827,19 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Brabhsáil</translation>
+        <translation>Brabhsáil</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Uath-íoslódáil Java Mojang</translation>
+        <translation>Uath-íoslódáil Java Mojang</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Brath uathoibríoch ar leagan Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="unfinished">Uathaimsigh Java</translation>
+        <translation>Uathaimsigh Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -4880,7 +4885,7 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished">Tá tú ag sárú an leithdháileadh uasta go tacaíonn suiteálacha Java 32 giotán.</translation>
+        <translation>Tá tú ag sárú an leithdháileadh uasta go tacaíonn suiteálacha Java 32 giotán.</translation>
     </message>
 </context>
 <context>
@@ -5182,7 +5187,7 @@ Ar mhaith leat an taispeántas a imirt?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar sheiceáil phróifílitheora le haghaidh %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="460"/>
@@ -5257,19 +5262,19 @@ Ar mhaith leat an taispeántas a imirt?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Imir As Líne</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an cuntas imithe in éag agus ní mór logáil isteach ann de láimh arís.</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá aitheantas cliant an lainseálaí athraithe. Bain an cuntas seo agus cuir leis arís é.</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl an cuntas ann ar na freastalaithe a thuilleadh. B’fhéidir gur aistríodh é, agus sa chás sin cuir an cuntas nua leis ar aistrigh tú an ceann seo chuige.</translation>
     </message>
 </context>
 <context>
@@ -5298,12 +5303,12 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar chomhartha rochtana Minecraft a fháil: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar fhreagra an chomhartha rochtana Minecraft a pharsáil.</translation>
     </message>
 </context>
 <context>
@@ -5318,83 +5323,83 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     </message>
     <message>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Eatramh nuashonraithe</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Socraigh é go 0 le seiceáil ar an seoladh amháin</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>u</translation>
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiceáil an fillteán íoslódálacha go hathchúrsach</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasaigh úsáid meiteashonraí arna soláthar ag soláthraithe mod (cosúil le Modrinth nó CurseForge) le haghaidh mods.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasaigh úsáid meiteashonraí le haghaidh mods</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasaigh braiteadh, suiteáil agus nuashonrú uathoibríoch spleáchais mod.</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasaigh bainistíocht uathoibríoch spleáchais mod</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agus cás nua modpack á chruthú, ná mol na cásanna atá ann cheana a nuashonrú ina ionad.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Seachain leid nuashonraithe modpack</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Líon na dtascanna comhuaineacha</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Líon na n-íoslódálacha comhuaineacha</translation>
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>Líon na n-athiarracht láimhe</translation>
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>Am críochnaithe le haghaidh iarratais HTTP</translation>
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mód sórtála radhairc sampla</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Téama</translation>
     </message>
     <message>
         <source>Console Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Socruithe Consóil</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
-        <translation type="unfinished"></translation>
+        <translation>Taispeáin an consól agus an cluiche ag &amp;rith</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dún an consól go huathoibríoch nuair a scoireann an cluiche</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
-        <translation type="unfinished"></translation>
+        <translation>Taispeáin an consól nuair a thuairteann an &amp;cluiche</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -5576,11 +5581,11 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Rabhadh&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: D’fhéadfadh sé go gcuirfí roinnt gnéithe QoL ar ceal freisin, amhail nuashonrú mod!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Ilghnéitheach</translation>
+        <translation>Ilghnéitheach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -5598,19 +5603,19 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>Socraigh teimhneacht an chait. Tá 0% go hiomlán trédhearcach agus tá 100% go hiomlán teimhneach.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Teimhneacht</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Uirlisí</translation>
+        <translation>Uirlisí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -5626,7 +5631,7 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation type="unfinished"></translation>
+        <translation>Bog modhanna blocáilte in ionad iad a chóipeáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
@@ -5800,7 +5805,7 @@ Moltar rochtain a thabhairt do %1 air trí Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir Minecraft a sheoladh!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -5886,11 +5891,11 @@ Moltar rochtain a thabhairt do %1 air trí Flatseal.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
         <source>No installation method found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor aimsíodh aon mhodh suiteála!</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar chomhad modpack %1 a oscailt!</translation>
     </message>
 </context>
 <context>
@@ -5903,27 +5908,27 @@ Moltar rochtain a thabhairt do %1 air trí Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
         <source>Public</source>
-        <translation type="unfinished"></translation>
+        <translation>Poiblí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="62"/>
         <source>3rd Party</source>
-        <translation type="unfinished"></translation>
+        <translation>Tríú Páirtí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="89"/>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Príobháideach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="108"/>
         <source>Add pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir pacáiste leis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="115"/>
         <source>Remove selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Bain an pacáiste roghnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"/>
@@ -5948,33 +5953,34 @@ Moltar rochtain a thabhairt do %1 air trí Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
         <source>FTB private packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacáistí príobháideacha FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar fhaisnéis an phacáiste a íoslódáil don chód %1.
+Ar cheart é a bhaint anois?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
         <source>Add FTB pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir pacáiste FTB leis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
         <source>Enter pack code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir isteach cód an phacáiste:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
         <source>Remove pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Bain an pacáiste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>An bhfuil tú cinnte gur mian leat pacáiste %1 a bhaint?</translation>
     </message>
 </context>
 <context>
@@ -5983,17 +5989,17 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ag íoslódáil na gcomhad leabharlainne riachtanacha...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Leabharlanna mar shampla %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an jar nialasach sonraithe sna meiteashonraí, ag cur as oifig.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -6018,7 +6024,9 @@ Beidh ort an fhadhb seo a cheartú de láimh.</translation>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar nuashonrú an chluiche: ní raibh sé indéanta na leabharlanna riachtanacha a fháil.
+Cúis:
+%1</translation>
     </message>
 </context>
 <context>
@@ -6026,11 +6034,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag nuashonrú innéacs don mhod:
+%1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Meiteashonraí neamhbhailí</translation>
     </message>
 </context>
 <context>
@@ -6045,7 +6054,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Meiteashonraí neamhbhailí</translation>
     </message>
 </context>
 <context>
@@ -6058,17 +6067,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="57"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Línte fillte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Línte datha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Cóipeáil an log iomlán isteach sa ghearrthaisce</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
@@ -6167,12 +6176,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Cuir cuntas Microsoft leis&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chun Minecraft a imirt, ní mór cuntas Microsoft amháin ar a laghad a bheith logáilte isteach agat. Ar mhaith leat logáil isteach anois?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
@@ -6195,7 +6204,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir a chur leis:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -6209,7 +6218,7 @@ Reason:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir a chruthú:</translation>
     </message>
 </context>
 <context>
@@ -6227,7 +6236,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar chomhad %1 a pharsáil</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -6237,19 +6246,19 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an gcomhad %1 a bhaint go %2</translation>
     </message>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Ní féidir an comhad zip a cuireadh ar fáil a oscailt.</translation>
+        <translation>Ní féidir an comhad zip a cuireadh ar fáil a oscailt.</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an gcéad chomhad sa chomhad zip a lorg</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Níorbh fhéidir ceadanna a shocrú do %1</translation>
+        <translation>Níorbh fhéidir ceadanna a shocrú do %1</translation>
     </message>
 </context>
 <context>
@@ -6346,11 +6355,11 @@ Reason:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscail %1 nó scan an QR agus cuir isteach an cód thuas.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscail %1 agus cuir isteach an cód thuas.</translation>
     </message>
 </context>
 <context>
@@ -6391,12 +6400,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="341"/>
         <source>Launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seoladh an sampla roghnaithe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Príomhbharra Uirlisí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
@@ -6406,7 +6415,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscail an fillteán mods lárnach i mbrabhsálaí comhad.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
@@ -6598,13 +6607,13 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Féach ar logaí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Féach ar logaí lainseálaí reatha agus roimhe seo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -6650,7 +6659,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="624"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Spás &amp;Maitrís</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
@@ -6705,7 +6714,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Easpórtáil an sampla roghnaithe chuig formáidí a dtacaítear leo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
@@ -6969,7 +6978,8 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1051"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation>Níl aon sampla ar fáil chun an acmhainn a chur leis. Cruthaigh sampla nua sula ndéanann tú iarracht an acmhainn seo a shuiteáil arís.</translation>
+        <translation>Níl aon sampla ar fáil chun an acmhainn a chur leis. 
+Cruthaigh sampla nua sula ndéanann tú iarracht an acmhainn seo a shuiteáil arís.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1165"/>
@@ -7041,20 +7051,20 @@ Chun an taisce meiteashonraí a ghlanadh de láimh, brúigh Fillteáin -&gt; Fé
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an cás atá ag rith a scriosadh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an sampla roghnaithe ag rith faoi láthair agus ní féidir é a scriosadh. Stop an sampla le do thoil sula ndéanann tú iarracht é a scriosadh.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source> and its %n registered shortcut(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> agus a aicearra cláraithe %n</numerusform>
+            <numerusform> agus a %n aicearraí cláraithe</numerusform>
+            <numerusform> agus a %n aicearraí cláraithe</numerusform>
         </translation>
     </message>
     <message>
@@ -7067,11 +7077,14 @@ Chun an taisce meiteashonraí a ghlanadh de láimh, brúigh Fillteáin -&gt; Fé
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí &quot;%1&quot; a scriosadh.
+D’fhéadfadh sé seo a bheith buan agus scriosfaidh sé an sampla go hiomlán.
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá cásanna nasctha ann</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -7081,23 +7094,41 @@ Are you sure?</source>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>D’fhéadfadh an sampla seo a leanas tagairt a dhéanamh do chomhaid sa sampla seo:
+
+%1
+
+D’fhéadfadh scriosadh an sampla eile a bhriseadh,
+
+Ar mhaith leat dul ar aghaidh?</numerusform>
+            <numerusform>D’fhéadfadh na samplaí seo a leanas tagairt a dhéanamh do chomhaid sa chás seo:
+
+%1
+
+D’fhéadfadh scriosadh a dhéanamh ar na samplaí eile,
+
+Ar mhaith leat dul ar aghaidh?</numerusform>
+            <numerusform>D’fhéadfadh na samplaí seo a leanas tagairt a dhéanamh do chomhaid sa chás seo:
+
+%1
+
+D’fhéadfadh scriosadh a dhéanamh ar na samplaí eile,
+
+Ar mhaith leat dul ar aghaidh?</numerusform>
         </translation>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Cruthaigh aicearra sampla</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní bhfuair mé an deasc?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an lainseálaí san fhillteán as ar baineadh é, dá bhrí sin ní féidir leis aicearraí a chruthú.</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
@@ -7105,27 +7136,27 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Cruthaigh Feidhmchlár samplach</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>An bhfuil an lainseálaí ag rith mar AppImage míchumraithe? (Tá an t-athróg timpeallachta $APPIMAGE ar iarraidh)</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Iontrálacha Deisce</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní thacaítear leis ar do ardán!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cruthaíodh aicearra chuig an sampla seo ar do dheasc!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cruthaíodh aicearra chuig an gcás seo!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
@@ -7194,12 +7225,12 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá dhá rogha agat anois: &lt;br/&gt; - athraigh an fillteán samplach sna socruithe &lt;br/&gt; - bog an suiteáil seo de %1 go fillteán difriúil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Is fadhb í seo: &lt;br/&gt; - Is dócha go scriosfaidh an córas oibriúcháin an lainseálaí gan rabhadh &lt;br/&gt; - dún an lainseálaí anois agus bain é chuig suíomh fíor, ní fillteán sealadach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
@@ -7227,7 +7258,7 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cruthaíonn sé aicearra ar do dheasc chun an sampla roghnaithe a sheoladh.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7275,12 +7306,12 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú ar an leagan:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag fáil leaganacha...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
@@ -7307,7 +7338,8 @@ An bhfuil tú cinnte?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Is modpack áitiúil é seo. Ní féidir é seo a nuashonrú ach amháin trí chomhad i bhformáid %1 a úsáid.
+        <translation>Is modpack áitiúil é seo. 
+Ní féidir é seo a nuashonrú ach amháin trí chomhad i bhformáid %1 a úsáid.
 </translation>
     </message>
     <message>
@@ -7382,19 +7414,19 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>Faisnéis faoin bpacáiste</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm an phacáiste:</translation>
     </message>
     <message>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú ón gcomhad</translation>
     </message>
     <message>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacáiste nuashonraithe</translation>
     </message>
 </context>
 <context>
@@ -7425,7 +7457,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Luchtaigh meiteashonraí do %1</translation>
     </message>
 </context>
 <context>
@@ -7527,15 +7559,15 @@ This can be updated only using a file in %1 format
     <name>MinecraftPage</name>
     <message>
         <source>General</source>
-        <translation type="unfinished">Ginearálta</translation>
+        <translation>Ginearálta</translation>
     </message>
     <message>
         <source>Window Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Méid na Fuinneoige</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
-        <translation type="unfinished"></translation>
+        <translation>Tosaigh Minecraft &amp;uasmhéadaigh</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
@@ -7549,55 +7581,55 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Game time</source>
-        <translation type="unfinished"></translation>
+        <translation>Am cluiche</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Taispeáin an t-am a caitheadh ag imirt cásanna</translation>
+        <translation>Taispeáin an t-am a caitheadh ag imirt cásanna</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Taispeáin an t-am a chaitear ag imirt i ngach cás</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">&amp;Taifead an t-am a chaitear ag imirt cásanna</translation>
+        <translation>&amp;Taifead an t-am a chaitear ag imirt cásanna</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Taispeáin an t-am a chaitear ag imirt in uaireanta an chloig</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Atosclóidh an lainseálaí go huathoibríoch nuair a thuairteálann nó a scoireann an cluiche.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dún an lainseálaí tar éis oscailt fuinneog an chluiche</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Scoirfidh an lainseálaí go huathoibríoch tar éis don chluiche críochnú nó tar éis dó tuairteáil.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Scoir an lainseálaí tar éis dhúnadh fuinneog an chluiche</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation type="unfinished">Coigeartuithe</translation>
+        <translation>Coigeartuithe</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Socruithe oidhreachta</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Déanann sé aithris ar úsáidí seanseirbhísí ar líne nach bhfuil ag feidhmiú a thuilleadh.&lt;/p&gt;&lt;p&gt;I measc na socruithe reatha tá: tacaíocht don chraiceann agus don mhodh ar líne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumasaigh socruithe ar líne (turgnamhach)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
@@ -7605,19 +7637,19 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
-        <translation type="unfinished"></translation>
+        <translation>Bain úsáid as suiteáil chórais &amp;GLFW</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished">Cosán leabharlainne &amp;GLFW</translation>
+        <translation>Cosán leabharlainne &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
-        <translation type="unfinished"></translation>
+        <translation>Bain úsáid as suiteáil chórais &amp;OpenAL</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished">Cosán leabharlainne &amp;OpenAL</translation>
+        <translation>Cosán leabharlainne &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
@@ -7625,35 +7657,35 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh Mód Cluiche Feral Interactive, mar d&apos;fhéadfadh é feidhmíocht cluichíochta a fheabhsú.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh Mód Cluiche Feral Interactive, mar d&apos;fhéadfadh é feidhmíocht cluichíochta a fheabhsú.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Cumasaigh Mód Cluiche Feral</translation>
+        <translation>Cumasaigh Mód Cluiche Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh forleagan feidhmíochta ardleibhéil MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Cumasaigh MangoHud</translation>
+        <translation>Cumasaigh MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Úsáid an GPU ar leith in ionad an phríomh-GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Úsáid GPU ar leith</translation>
+        <translation>Úsáid GPU ar leith</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Úsáid Zink, tiománaí OpenGL Mesa a chuireann OpenGL i bhfeidhm ar bharr Vulkan. D’fhéadfadh feidhmíocht a bheith éagsúil ag brath ar an gcás. Tabhair faoi deara: Mura bhfaightear tiománaí Vulkan oiriúnach, úsáidfear rindreáil bogearraí.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished">Úsáid sinc</translation>
+        <translation>Úsáid Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -7662,23 +7694,23 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Ilghnéitheach</translation>
+        <translation>Ilghnéitheach</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Cosán chuig comhad leabharlainne %1</translation>
+        <translation>Cosán chuig comhad leabharlainne %1</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosán braite go huathoibríoch: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">Ní raibh GameMode Feral Interactive le fáil ar do chóras.</translation>
+        <translation>Ní raibh GameMode Feral Interactive le fáil ar do chóras.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">Níorbh fhéidir MangoHud a aimsiú ar do chóras.</translation>
+        <translation>Níorbh fhéidir MangoHud a aimsiú ar do chóras.</translation>
     </message>
 </context>
 <context>
@@ -7750,7 +7782,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Rabhadh&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Seans nach dtacaítear go hiomlán leis an rogha uasmhéadaithe ar gach leagan de Minecraft.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
@@ -7795,12 +7827,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="600"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Déanann sé aithris ar úsáidí seanseirbhísí ar líne nach bhfuil ag feidhmiú a thuilleadh.&lt;/p&gt;&lt;p&gt;I measc na socruithe reatha tá: tacaíocht don chraiceann agus don mhodh ar líne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumasaigh socruithe ar líne (turgnamhach)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
@@ -7957,7 +7989,7 @@ Is dóichí go mbeidh ort an cosán a athrú - féach ar shuíomh Gréasáin an 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh forleagan feidhmíochta ardleibhéil MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="726"/>
@@ -7967,7 +7999,7 @@ Is dóichí go mbeidh ort an cosán a athrú - féach ar shuíomh Gréasáin an 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="733"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Úsáid an GPU ar leith in ionad an phríomh-GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
@@ -7977,7 +8009,7 @@ Is dóichí go mbeidh ort an cosán a athrú - féach ar shuíomh Gréasáin an 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Bain úsáid as Zink, tiománaí OpenGL Mesa a chuireann OpenGL i bhfeidhm ar bharr Vulkan. D’fhéadfadh an fheidhmíocht a bheith éagsúil ag brath ar an gcás. Tabhair faoi deara: Mura bhfaightear tiománaí Vulkan oiriúnach, úsáidfear rindreáil bogearraí.</translation>
+        <translation>Úsáid Zink, tiománaí OpenGL Mesa a chuireann OpenGL i bhfeidhm ar bharr Vulkan. D’fhéadfadh feidhmíocht a bheith éagsúil ag brath ar an gcás. Tabhair faoi deara: Mura bhfaightear tiománaí Vulkan oiriúnach, úsáidfear rindreáil bogearraí.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="746"/>
@@ -8017,7 +8049,7 @@ Is dóichí go mbeidh ort an cosán a athrú - féach ar shuíomh Gréasáin an 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="74"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Rabhadh&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Ní thacaítear go hiomlán leis an rogha uasmhéadaithe ar an leagan seo de Minecraft.&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="136"/>
@@ -8161,12 +8193,12 @@ Is dóichí go mbeidh ort an cosán a athrú - féach ar shuíomh Gréasáin an 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="284"/>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Béite</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="291"/>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
@@ -8184,19 +8216,19 @@ Is dóichí go mbeidh ort an cosán a athrú - féach ar shuíomh Gréasáin an 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="86"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Fillteán</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="88"/>
         <source>File</source>
-        <translation type="unfinished">Comhad</translation>
+        <translation>Comhad</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Rabhadh: Tá nasc siombalach idir an acmhainn seo agus áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.
 Cosán Canónach: %1</translation>
     </message>
@@ -8204,7 +8236,8 @@ Cosán Canónach: %1</translation>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -8224,7 +8257,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Enable</source>
-        <translation type="unfinished">Cumasaigh</translation>
+        <translation>Cumasaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -8254,71 +8287,71 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Cineál Scaoilte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Leaganacha Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="177"/>
         <source>Is the mod enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>An bhfuil an mod cumasaithe?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="179"/>
         <source>The name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm an mhod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="181"/>
         <source>The version of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>An leagan den mhod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>An dáta agus an t-am a athraíodh (nó a cuireadh) an mod seo go deireanach.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
         <source>The source provider of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soláthraí foinse an mhod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cén timpeallacht ina bhfuil an mod ag rith.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"/>
         <source>The mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>An luchtaire mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
         <source>The supported minecraft versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na leaganacha de minecraft a dtacaítear leo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation>An cineál scaoilte.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
         <source>The size of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Méid an mhod.</translation>
     </message>
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished">Anaithnid</translation>
+        <translation>Anaithnid</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cá as ar íoslódáil an mod.</translation>
     </message>
 </context>
 <context>
@@ -8326,19 +8359,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiceáil le haghaidh Nuashonruithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="79"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Déan iarracht na modanna roghnaithe go léir a sheiceáil nó a nuashonrú (gach mod mura bhfuil aon cheann roghnaithe)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Easpórtáil meiteashonraí an mhod go téacs.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
@@ -8349,7 +8382,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="131"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Má bhaineann tú mods agus an cluiche ar siúl, d’fhéadfadh sé go dtitfeadh an cluiche.
+An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
@@ -8370,7 +8404,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="260"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Stopadh an íoslódáil ag an úsáideoir.</translation>
+        <translation>Stopadh an íoslódáil ag an úsáideoir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="176"/>
@@ -8388,12 +8422,12 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl nuashonruithe mod ar fáil nuair a bhíonn meiteashonraí díchumasaithe!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="216"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Deimhnigh Nuashonrú</translation>
+        <translation>Deimhnigh Nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
@@ -8403,75 +8437,78 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>D’fhéadfadh dúbláil mod agus tuairteanna cluiche a bheith mar thoradh ar mhodhanna a nuashonrú agus an cluiche ar siúl.
+B’fhéidir nach scriosfar na seanchomhaid mar go bhfuil siad in úsáid.
+An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="237"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh deireadh leis an nuashonraitheoir mod!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="246"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá na modanna roghnaithe go léir cothrom le dáta! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="249"/>
         <source>Update checker</source>
-        <translation type="unfinished">Seiceálaí nuashonraithe</translation>
+        <translation>Seiceálaí nuashonraithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="290"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Deimhnigh Baint</translation>
+        <translation>Deimhnigh Baint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="291"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí na meiteashonraí a bhaint do %1 mod. 
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Luchtaire Mod ar Iarraidh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní mór duit luchtóir mod comhoiriúnach a shuiteáil sula suiteálann tú mods. Ar mhaith leat é sin a dhéanamh?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">Tá &apos;%1&apos; cothrom le dáta! :)</translation>
+        <translation>Tá &apos;%1&apos; cothrom le dáta! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="164"/>
         <source>Download Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh leagan mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
         <source>View the homepages of all selected mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Féach ar leathanaigh bhaile na modanna roghnaithe go léir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tá na modanna go léir cothrom le dáta! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil mods ó ardáin mod ar líne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="56"/>
@@ -8480,59 +8517,59 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil mods</translation>
     </message>
     <message>
         <source>Add file</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir comhad leis</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir comhad a íoslódáileadh go háitiúil leis</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="unfinished">Fíoraigh Spleáchais</translation>
+        <translation>Fíoraigh Spleáchais</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Déan iarracht na modanna roghnaithe go léir a nuashonrú agus a sheiceáil le haghaidh spleáchais ar iarraidh (gach mod mura bhfuil aon cheann roghnaithe)</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Athshocraigh meiteashonraí nuashonraithe</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Bain meiteashonraí an mhod</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Téigh go leathanach baile an mhod</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Athraigh Leagan</translation>
+        <translation>Athraigh Leagan</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh leagan an mhod</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabhair cuairt ar leathanach an mhod</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabhair cuairt ar leathanaigh na modhnóirí</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Téigh go leathanaigh na modhanna roghnaithe</translation>
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation>Suiteáil luchtóir mod ar dtús!</translation>
     </message>
 </context>
 <context>
@@ -8540,12 +8577,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir an fillteán bin a chruthú le haghaidh Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir comhad seanchaite jar a bhaint: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
@@ -8557,39 +8594,39 @@ Are you sure?</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh na mods le nuashonrú</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí na mods seo a leanas a nuashonrú:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní dhéanfar ach mods a bhfuil seic orthu a nuashonrú!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm an mhod: %1&lt;br&gt;Ainm comhaid: %2&lt;br&gt;Cúis: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar ghiniúint meiteashonraí</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir meiteashonraí a ghiniúint do na mods seo a leanas:&lt;br&gt;Ar mhaith leat leanúint ar aghaidh gan na mods sin?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag seiceáil le haghaidh nuashonruithe</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Earráid</translation>
+        <translation>Earráid</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Rabhaidh</translation>
+        <translation>Rabhaidh</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -8597,32 +8634,32 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag seiceáil le haghaidh nuashonruithe...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm an mhod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cúis: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réiteach féideartha: An leagan is déanaí a fháil de láimh:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar sheiceáil le haghaidh nuashonruithe</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir na mods seo a leanas a sheiceáil ná a fháil le haghaidh nuashonruithe:&lt;br&gt;Ar mhaith leat leanúint ar aghaidh gan na mods sin?</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag seiceáil le haghaidh spleáchais...</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -8630,51 +8667,51 @@ Are you sure?</source>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl meiteashonraí ag an mod &apos;%1&apos; go fóill. Ní mór dúinn iad a ghiniúint chun faisnéis ábhartha a rianú maidir le conas an mod seo a nuashonrú. Chun seo a dhéanamh, roghnaigh soláthraí mod ar féidir linn a úsáid chun seiceáil le haghaidh nuashonruithe don mod seo.</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag giniúint meiteashonraí...</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir leagan bailí a aimsiú ar an soláthraí(í) mod roghnaithe</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasaíodh an mod mar go bhféadfadh sé a bheith suiteáilte cheana féin.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Soláthraí: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Seanleagan: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Gan suiteáil</translation>
+        <translation>Gan suiteáil</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan nua: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cineál Leagan Nua: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Riachtanach ag: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Riachtanach ag:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Log athruithe an leagan is déanaí</translation>
     </message>
 </context>
 <context>
@@ -8688,14 +8725,15 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tharla earráid líonra. Níorbh fhéidir na modpacks a luchtú.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="331"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Leagan API róshean!
+Nuashonraigh %1 le do thoil!</translation>
     </message>
 </context>
 <context>
@@ -8703,17 +8741,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
         <source>Preparing resources for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag ullmhú acmhainní do Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag parsáil an fhreagra API ó Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
         <source>Not installed</source>
-        <translation type="unfinished">Gan suiteáil</translation>
+        <translation>Gan suiteáil</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
@@ -8723,25 +8761,25 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Níor aimsíodh aon leagan bailí don acmhainn seo. Is dócha nach bhfuil sé ar fáil don leagan reatha den chluiche / luchtóir mod.</translation>
+        <translation>Níor aimsíodh aon leagan bailí don acmhainn seo. Is dócha nach bhfuil sé ar fáil don leagan reatha den chluiche / luchtóir mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="220"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Níor aimsíodh aon leagan bailí don acmhainn seo. Is dócha nach bhfuil sé ar fáil don leagan reatha den chluiche.</translation>
+        <translation>Níor aimsíodh aon leagan bailí don acmhainn seo. Is dócha nach bhfuil sé ar fáil don leagan reatha den chluiche.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag fanacht le freagra API ó Modrinth...</translation>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag ullmhú mods do Modrinth...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor aimsíodh aon leagan bailí don mhod seo. Is dócha nach bhfuil sé ar fáil don leagan reatha den chluiche / don luchtóir mod.</translation>
     </message>
 </context>
 <context>
@@ -8749,7 +8787,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="67"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (leagan %1)</translation>
+        <translation> (leagan %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="151"/>
@@ -8759,35 +8797,36 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="152"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Ní bhfuaireamar comhad innéacs oiriúnach don leagan níos sine. D’fhéadfadh sé seo a bheith ina chúis le dúbláil ar chuid de na comhaid. Ar mhaith leat leanúint ar aghaidh?</translation>
+        <translation>Ní bhfuaireamar comhad innéacs oiriúnach don leagan níos sine. D’fhéadfadh sé seo a bheith ina chúis le dúbláil ar chuid de na comhaid. Ar mhaith leat leanúint ar aghaidh?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="196"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Níorbh fhéidir an fillteán forráidí a athainmniú:
+        <translation>Níorbh fhéidir an fillteán forráidí a athainmniú:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="209"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir an fillteán forráití cliant a athainmniú:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="246"/>
         <source>Mod Download Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil Mod Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="258"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá cosán ag ceann de na comhaid a threoraíonn chuig suíomh treallach (%1). Is riosca slándála é seo agus ní cheadaítear é.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="270"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá nasc íoslódála ar iarraidh sa chomhad &apos;%1&apos;. Tá sé seo neamhbhailí i bhformáid an phacáiste.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="300"/>
@@ -8803,13 +8842,14 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="413"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní URL formáidithe i gceart é URL íoslódála do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="473"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir innéacs an phacáiste a thuiscint:
+</translation>
     </message>
 </context>
 <context>
@@ -8822,7 +8862,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag fáil logaí athraithe...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="372"/>
@@ -8855,12 +8895,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Ag aimsiú leaganacha do haiseanna...</translation>
+        <translation>Ag aimsiú leaganacha do haiseanna...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="193"/>
         <source>Failed to parse versions response: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar fhreagra leaganacha a pharsáil: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="202"/>
@@ -8874,17 +8914,17 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir Ábharthachta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir Iomlán na nÍoslódálacha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="86"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir Leanúna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="88"/>
@@ -8906,7 +8946,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="264"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tá an tionscadal seo cartlannaithe. Ní bhfaighidh sé aon nuashonruithe eile mura gcinneann an t-údar an tionscadal a dhíchartlannú.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
@@ -8921,7 +8961,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="286"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Fadhbanna: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Fadhbanna: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
@@ -8936,18 +8976,18 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="292"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir is Déanaí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Roghanna scagaire</translation>
+        <translation>Roghanna scagaire</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -8962,7 +9002,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
         <source>Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth</translation>
     </message>
 </context>
 <context>
@@ -8970,12 +9010,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="49"/>
         <source>All attempts have failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar gach iarracht!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag iarraidh tasc %1 as %2</translation>
     </message>
 </context>
 <context>
@@ -8983,30 +9023,30 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
         <source>Requesting %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag iarraidh %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>anaithnid</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>0 B/s</translation>
     </message>
 </context>
 <context>
@@ -9014,12 +9054,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="119"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar gach tasc sa NetJob a chur ar ceal!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="145"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Ag cur %1 tasc(anna) i gcrích (tá %2 as %3 críochnaithe)</translation>
+        <translation>Ag cur %1 tasc(anna) i gcrích (tá %2 as %3 críochnaithe)</translation>
     </message>
 </context>
 <context>
@@ -9027,7 +9067,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="17"/>
         <source>Add Empty Component</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir Comhpháirt Folamh leis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
@@ -9071,7 +9111,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="91"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation>Gan aon ghrúpa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="113"/>
@@ -9095,7 +9135,8 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsChecker.cpp" line="113"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an bhfotha nuachta RSS a luchtú:
+%1</translation>
     </message>
 </context>
 <context>
@@ -9114,12 +9155,12 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
         <source>Hide article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Folaigh liosta alt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
         <source>Show article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Taispeáin liosta alt</translation>
     </message>
 </context>
 <context>
@@ -9134,7 +9175,7 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="52"/>
         <source>No content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gan aon ábhar.</translation>
     </message>
 </context>
 <context>
@@ -9142,7 +9183,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="101"/>
         <source>Nilmods</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilmods</translation>
     </message>
 </context>
 <context>
@@ -9158,26 +9199,26 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/NullInstance.h" line="52"/>
         <source>Unknown instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Cineál sampla anaithnid</translation>
     </message>
 </context>
 <context>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir Cuntas leis</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Ainm úsáideora</translation>
+        <translation>Ainm úsáideora</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir ainmneacha úsáideora atá níos faide ná 16 charachtar a úsáid le haghaidh cluichí LAN ná freastalaithe as líne.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceadaigh ainmneacha úsáideora fada</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9193,12 +9234,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh Móid Roghnacha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh Uile</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
@@ -9208,7 +9249,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasófar mods neamhthiceáilte.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
@@ -9235,27 +9276,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Scrollaigh an bealach ar fad go dtí an bun</translation>
+        <translation>Scrollaigh an bealach ar fad go dtí an bun</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
         <source>&amp;Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bun</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="101"/>
         <source>Delete the selected log</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrios an log roghnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>&amp;Delete Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Scrios Roghnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="111"/>
         <source>Delete all the logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrios na logaí go léir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="114"/>
@@ -9265,22 +9306,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <source>Keep updating</source>
-        <translation type="unfinished">Coinnigh ort ag nuashonrú</translation>
+        <translation>Coinnigh ort ag nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Línte fillte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Línte datha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Cóipeáil an log iomlán isteach sa ghearrthaisce</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
@@ -9290,7 +9331,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Uaslódáil an log chuig an tseirbhís greamaithe atá cumraithe sna roghanna</translation>
+        <translation>Uaslódáil an log chuig an tseirbhís greamaithe atá cumraithe sna roghanna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
@@ -9300,7 +9341,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Athlódáil ábhar an loga ón diosca</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
@@ -9314,7 +9355,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation type="unfinished">Glan an log</translation>
+        <translation>Glan an log</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9322,19 +9363,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uaslódáil an log chuig an tseirbhís greamaithe atá cumraithe sna roghanna.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished">Uaslódáil</translation>
+        <translation>Uaslódáil</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation type="unfinished"></translation>
+        <translation>Glan</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Athlódáil</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -9350,12 +9391,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
         <source>Unable to open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir %1 a oscailt le haghaidh léitheoireachta: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="269"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an comhad (%1) rómhór. B’fhéidir gur mhaith leat é a oscailt in amharcóir atá optamaithe do chomhaid mhóra.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="379"/>
@@ -9368,28 +9409,32 @@ Please update %1!</source>
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí &quot;%1&quot; a scriosadh.
+D’fhéadfadh sé seo a bheith buan agus imeoidh sé as an bhfillteán logaí.
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="405"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh Glanadh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>An bhfuil tú cinnte gur mian leat na comhaid loga go léir a scriosadh?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>An bhfuil tú cinnte gur mian leat na comhaid seo go léir a scriosadh?
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
         <source>Unable to delete %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir %1 a scriosadh: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -9400,12 +9445,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tharla earráid sa chomhad (%1) agus é á léamh: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="437"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir roinnt comhad a scriosadh!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
@@ -9420,7 +9465,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an comhad (%1) a léamh.</translation>
     </message>
 </context>
 <context>
@@ -9467,7 +9512,7 @@ Are you sure?</source>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag uaslódáil chuig %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
@@ -9475,20 +9520,21 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid: D’fhill %1 cód stádais gan choinne %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid: Thug %1 corp freagartha mífhoirmithe ar ais</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid: Thug %1 earráid ar ais: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid: Thug %1 cód earráide ar ais: %2
+Teachtaireacht earráide: %3</translation>
     </message>
 </context>
 <context>
@@ -9506,12 +9552,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation type="unfinished"></translation>
+        <translation>Úsáid an tseirbhís réamhshocraithe nua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Coinnigh na socruithe roimhe seo</translation>
     </message>
 </context>
 <context>
@@ -9519,12 +9565,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Tharla cailleadh taisce picteillín trí dhíbirt ró-thapa, gan aon rud a dhéanamh mar shroich méid an taisce a theorainn</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished"></translation>
+        <translation>Tharla cailleadh taisce picteilíní trí dhíbirt ró-thapa, ag méadú méid an taisce go</translation>
     </message>
 </context>
 <context>
@@ -9532,21 +9578,25 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="51"/>
         <source>Running Post-Launch command: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag rith an ordaithe Iar-Lainseála: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="60"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an ordú iar-lainseála leis an gcód %1.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="76"/>
         <source>Post-Launch command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Rith an t-ordú Iar-Launch go rathúil.
+
+</translation>
     </message>
 </context>
 <context>
@@ -9554,21 +9604,25 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="51"/>
         <source>Running Pre-Launch command: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag rith an ordaithe réamhlainseála: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="59"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an ordú réamhlainseála leis an gcód %1.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="75"/>
         <source>Pre-Launch command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Rith an t-ordú réamhlainseála go rathúil.
+
+</translation>
     </message>
 </context>
 <context>
@@ -9576,68 +9630,72 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag seiceáil le haghaidh nuashonruithe...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"/>
         <source>Update Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar Sheiceáil Nuashonraithe</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar thosú tar éis 5 soicind
+Cúis: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an nuashonraitheoir dúnadh tar éis 60 soicind
+Cúis: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl aon Nuashonrú ar Fáil</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an leagan is déanaí á rith agat.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
         <source>Update Check Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid Seiceála Nuashonraithe</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tharla earráid agus an seiceáil nuashonraithe á rith.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
         <source>Unknown Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid Nuashonraithe Anaithnid</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Scoir an nuashonraitheoir faoi riocht anaithnid.
+Cód Scoir: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>StdOut: %1
+StdErr: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>There are no new updates available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl aon nuashonruithe nua ar fáil.</translation>
     </message>
 </context>
 <context>
@@ -9645,77 +9703,77 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished"></translation>
+        <translation>Bain úsáid as cosán saincheaptha mar fhréamh an fheidhmchláir (bain úsáid as &apos;.&apos; don eolaire reatha).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>directory</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished"></translation>
+        <translation>Úsáid an leagan seo mar an leagan lainseálaí suiteáilte. (ar fáil mar ní féidir stdout a ghabháil go hiontaofa ar Windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="108"/>
         <source>installed launcher version</source>
-        <translation type="unfinished"></translation>
+        <translation>leagan lainseálaí suiteáilte</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="109"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>ainm an leagain</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
         <source>Update from the specified repo.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú ón stór sonraithe.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
         <source>github repo url</source>
-        <translation type="unfinished"></translation>
+        <translation>url stórais github</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="112"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ná seiceáil ach amháin má tá gá le nuashonrú. Stádas scoir 100 más fíor é, 0 más bréagach é (nó neamh-0 má bhí earráid ann).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="113"/>
         <source>Allow updating to pre-release releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceadaigh nuashonrú chuig eisiúintí réamh-eisiúna</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="114"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú a chur i bhfeidhm, fiú mura bhfuil gá leis.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="115"/>
         <source>List available releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liostaigh na heisiúintí atá ar fáil.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="116"/>
         <source>Log debug to console.</source>
-        <translation type="unfinished"></translation>
+        <translation>Logáil dífhabhtú chuig an consól.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="117"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh an leagan le suiteáil le comhéadan grafach úsáideora.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="118"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lig don nuashonraitheoir íosghrádú a dhéanamh chuig leaganacha roimhe seo.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="303"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní Thacaítear le MacOS</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="303"/>
@@ -9726,22 +9784,22 @@ StdErr: %2</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="310"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="323"/>
         <source>Unsupported Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Suiteáil Gan Tacaíocht</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="311"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>An bhfuil an Nuashonraitheoir ag rith mar AppImage míchumraithe? (Tá an t-athróg timpeallachta $APPIMAGE ar iarraidh)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="323"/>
         <source>The updater can not find the main executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir leis an nuashonraitheoir an príomh-chomhad inrite a aimsiú.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="202"/>
         <source>The launcher data folder is not writable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir scríobh ar fhillteán sonraí an lainseálaí!</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="203"/>
@@ -9751,34 +9809,40 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní raibh an nuashonraitheoir in ann comhad loga a chruthú - ní féidir scríobh san fhillteán sonraí.
+
+Déan cinnte go bhfuil ceadanna scríbhneoireachta agat chuig an bhfillteán sonraí.
+(%1)
+
+Ní féidir leis an nuashonraitheoir leanúint ar aghaidh go dtí go réitíonn tú an fhadhb seo.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="475"/>
         <source>Updating flatpack not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní thacaítear le flatpack a nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="475"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní thacaítear le gníomhartha seachas seiceáil an bhfuil nuashonrú ar fáil agus leagan flatpak de Prism Launcher á rith.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="532"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="985"/>
         <source>Reading manifest from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag léamh an manuscript ó %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="544"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Folamh an manuscript, ag déanamh an buille faoi thuairim is fearr ar ábhar an eolaire de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="550"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag suiteáil an méid seo a leanas chuig %1:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="554"/>
@@ -9789,81 +9853,82 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="566"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag suiteáil %1 ó %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="570"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar chóipeáil %1 go %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="585"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1060"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl an comhad ann, ag déanamh neamhaird ar: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="598"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tharla earráidí agus an nuashonrú á shuiteáil.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="602"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>D&apos;éirigh leis an nuashonrú.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="763"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>Gan Sócmhainní Scaoilte Bailí</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="764"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl aon sócmhainní bailí ag scaoileadh Github %1 don ardán seo: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 iniompartha: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="938"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>tá</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="938"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>níl</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="774"/>
         <source>No version selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gan aon leagan roghnaithe.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="774"/>
         <source>No version was selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor roghnaíodh aon leagan.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="781"/>
         <source>Failed to Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an Íoslódáil</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="781"/>
         <source>Failed to download the selected asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an tsócmhainn roghnaithe a íoslódáil.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="883"/>
         <source>Update already in progress
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú ar siúl cheana féin
+</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="885"/>
@@ -9879,138 +9944,151 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá comhad glasála nuashonraithe ag an suiteáil seo ag: %1
+
+Stampa ama: %2
+Ag nuashonrú ó leagan %3 go %4
+Cosán suiteála sprice: %5
+Cosán sonraí: %6
+Is dócha gur theip ar iarracht nuashonraithe roimhe seo. Cinntigh go bhfuil do shuiteáil ag obair go maith sula leanann tú ar aghaidh.
+Seiceáil log nuashonraithe Prism Launcher ag:
+%7
+le haghaidh sonraí faoin iarracht nuashonraithe dheireanach.
+
+Chun an glasáil seo a athscríobh agus leanúint ar aghaidh leis an nuashonrú seo ar aon nós, roghnaigh &quot;Neamhaird a dhéanamh&quot; thíos.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="915"/>
         <source>Update Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú Curtha Ar Ceal</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="915"/>
         <source>The update attempt was aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh deireadh leis an iarracht nuashonraithe</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="923"/>
         <source>Updating from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag nuashonrú ó %1 go %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="926"/>
         <source>Updating portable install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag nuashonrú suiteáil iniompartha ag %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="929"/>
         <source>Running installer file at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag rith an chomhaid suiteálaí ag %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="938"/>
         <source>Process start result: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Toradh tosaigh an phróisis: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="945"/>
         <source>Backing up install</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag déanamh cúltaca den suiteáil</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="966"/>
         <source>Starting new updater at &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonraitheoir nua á thosú ag &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="968"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar &apos;%1&apos; %2 a sheoladh</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1018"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag déanamh cúltaca:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1035"/>
         <source>Backing up install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag déanamh cúltaca den suiteáil ag %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1040"/>
         <source>Backing up and then removing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag déanamh cúltaca agus ansin ag baint %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1044"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar chúltaca %1 go %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1047"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar %1 a bhaint</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1082"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Baineadh an méid seo a leanas amach chuig &quot;%1&quot;:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1086"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar %1 a bhaint go %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1093"/>
         <source>Running: `%1 %2`</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag rith: `%1 %2`</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1097"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar phróiseas linbh &quot;%1 %2&quot; a sheoladh.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an gcartlann a bhaint amach</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1106"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar phróiseas linbh &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1108"/>
         <source>Failed to extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an gcartlann a bhaint amach</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1113"/>
         <source>Unknown archive format for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Formáid cartlainne anaithnid do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an Leagan a Sheiceáil</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar phróiseas linbh a sheoladh chun an leagan a léamh.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar phróiseas lainseála linbh.</translation>
     </message>
 </context>
 <context>
@@ -10023,17 +10101,17 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh próifíl.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
         <source>Use as default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Úsáid mar réamhshocrú?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation type="unfinished"></translation>
+        <translation>Úsáid mar réamhshocrú don chás seo amháin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="40"/>
@@ -10069,7 +10147,9 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní gá ach céim amháin eile a thógáil le bheith in ann Minecraft a imirt ar an gcuntas seo.
+
+Roghnaigh d&apos;ainm go cúramach:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
@@ -10084,33 +10164,34 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an t-ainm ró-ghearr - ní mór dó a bheith idir 3 agus 16 charachtar ar fhad.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="183"/>
         <source>Minecraft profile with name %1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá próifíl Minecraft leis an ainm %1 ann cheana féin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="185"/>
         <source>The name %1 is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní cheadaítear an t-ainm %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
         <source>Unhandled profile name status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Stádas ainm próifíle neamhláimhseáilte: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
         <source>Failed to check name availability.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar infhaighteacht ainm a sheiceáil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid Líonra: %1
+Stádas HTTP: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="280"/>
@@ -10119,7 +10200,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sheol an freastalaí an earráid seo a leanas:</translation>
     </message>
 </context>
 <context>
@@ -10132,17 +10213,17 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Stádas Domhanda na dTascanna...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonraí Stádais Dhomhanda...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
         <source>Skip</source>
-        <translation type="unfinished">Léim</translation>
+        <translation>Léim</translation>
     </message>
 </context>
 <context>
@@ -10150,7 +10231,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="92"/>
         <source>%1 [installed]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [suiteáilte]</translation>
     </message>
 </context>
 <context>
@@ -10158,7 +10239,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní bhaineann sé seo ach leis an lainseálaí. Ní ghlacann Minecraft le socruithe seachfhreastalaí.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
@@ -10168,58 +10249,58 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
         <source>Uses your system&apos;s default proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Úsáideann sé socruithe seachfhreastalaí réamhshocraithe do chórais.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Úsáid socruithe an chórais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Níl aon cheann</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="97"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Seoladh agus Port</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="154"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Fíordheimhniú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="160"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ainm úsáideora:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="173"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pasfhocal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nóta: Stóráiltear ainm úsáideora agus pasfhocal an seachfhreastalaí i ngnáththéacs taobh istigh de chomhad cumraíochta an lainseálaí!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
@@ -10228,7 +10309,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Réamhshocrú</translation>
     </message>
 </context>
 <context>
@@ -10236,173 +10317,173 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="155"/>
         <source>Download of meta file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil an chomhaid mheitea %1</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="133"/>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="145"/>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="157"/>
         <source>Unknown format version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan formáide anaithnid!</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="30"/>
         <source>Path is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an cosán folamh</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl an cosán ann</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="40"/>
         <source>Path does not seem to be a MCEdit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní cosúil gur cosán MCEdit é an cosán</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosán folamh</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="95"/>
         <source>Invalid JProfiler install</source>
-        <translation type="unfinished"></translation>
+        <translation>Suiteáil neamhbhailí JProfiler</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="78"/>
         <source>Invalid order file version, expected %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan neamhbhailí den chomhad ordaithe, bhíothas ag súil le %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="115"/>
         <source>Unable to open the version file %1: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an comhad leagan %1 a oscailt: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="133"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an comhad leagan %1 a phróiseáil: %2 ag líne %3 colún %4.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá carachtair neamhdhleathacha in &apos;uid&apos; an chomhpháirte! Is féidir go mbeadh fadhbanna slándála mar thoradh air seo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="191"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá &apos;+leabharlanna&apos; agus &apos;leabharlanna&apos; araon sa chomhad leagan. Ní thacaítear leis seo a thuilleadh.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir URL an phríomh-jar a chinneadh - bhain Mojang an freastalaí a d&apos;úsáideamar mar chúltaca.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá eilimint neamhthacaithe &apos;tweakers&apos; sa chomhad leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá eilimint neamhthacaithe &apos;-libraries&apos; sa chomhad leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá eilimint neamhthacaithe &apos;-tweakers&apos; sa chomhad leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá eilimint neamhthacaithe &apos;-minecraftArguments&apos; sa chomhad leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá eilimint neamhthacaithe &apos;+minecraftArguments&apos; sa chomhad leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
         <source>Assets for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sócmhainní do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl an paiste luchtaithe fós.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="361"/>
         <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gan phróifíl (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="371"/>
         <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;As Líne&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá luach &apos;minimumLauncherVersion&apos; an leagain seo (%1) níos airde ná mar a thacaíonn %3 (%2). B&apos;fhéidir nach n-oibreoidh sé i gceart!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá ainm na leabharlainne %1 briste agus ní féidir í a phróiseáil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl comhad comhpháirteanna %1 ann. Níor cheart go dtarlódh sé seo choíche.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir %1 a oscailt le haghaidh léitheoireachta: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir %1 a pharsáil mar json: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Invalid component file version, expected %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan neamhbhailí de chomhad comhpháirte, bhíothas ag súil le %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir %1 a pharsáil: formáid comhaid lochtach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl an comhad sonraithe ann nó ní comhad inrite ceart é.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="381"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Níor thosaigh an comhad dénártha Java sonraithe i gceart.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Thug an dénártha Java sonraithe torthaí gan choinne:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>D’éirigh leis an tástáil Java!&lt;br /&gt;Tuairiscíodh an t-ardán: %1&lt;br /&gt;Tuairiscíodh an leagan Java: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
@@ -10410,28 +10491,28 @@ HTTP Status: %2</source>
         <location filename="src/launcher/JavaCommon.cpp" line="107"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Teip tástála Java</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test success</source>
-        <translation type="unfinished"></translation>
+        <translation>Rath ar thástáil Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="65"/>
         <source>Minecraft Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Freastalaí Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (in úsáid)</translation>
+        <translation>%1 (in úsáid)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh Uaslódáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
@@ -10439,12 +10520,15 @@ HTTP Status: %2</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí &quot;%1&quot; a uaslódáil chuig %2.
+Ba chóir duit seiceáil faoi dhó le haghaidh faisnéise pearsanta.
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh Gearradh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
@@ -10454,131 +10538,136 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá %1 líne sa loga, ag sárú teorainn %2 mclo.gs.
+Is féidir leis an lainseálaí na chéad %3 agus na %4 líne dheireanacha a choinneáil, ag gearradh an lár.
+
+Mura roghnaíonn tú &apos;Níl&apos;, ní choinneoidh mclo.gs ach na chéad %2 líne, ag gearradh amach faisnéis úsáideach a d&apos;fhéadfadh a bheith cosúil le tuairteanna ag an deireadh.
+
+Lean ar aghaidh leis an ngearradh?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar logaí a uaslódáil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh deireadh le huaslódáil logaí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Tá an tasc curtha ar ceal ag an úsáideoir.</translation>
+        <translation>Tá an tasc curtha ar ceal ag an úsáideoir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Uaslódáil críochnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an &lt;a href=&quot;%1&quot;&gt;nasc chuig an log uaslódáilte&lt;/a&gt; curtha i do ghearrthaisce.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Geal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Córas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Stíl giuirléidí ag iarraidh cuma do théama win32 a bheith orthu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"/>
         <source>Windows 9x inspired widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stíl giuirléid spreagtha ag Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="100"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stíl giuirléid Qt spreagtha ag WinUI 3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="102"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>An stíl réamhshocraithe giuirléid Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Téama do chórais reatha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="47"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Dorcha</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="34"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1nóiméad %2s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1u %2nóim</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="39"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1l %2u %3nóim</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>laethanta</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>u</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>n</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="48"/>
@@ -10588,51 +10677,54 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Rinne tú iarracht rogha cuimhne JVM a shocrú de láimh (ag baint úsáide as &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; nó &quot;-Xms&quot;).
+Tá boscaí tiomnaithe dóibh seo sna socruithe (an cluaisín Java, sa ghrúpa Cuimhne ag an mbarr).
+Taispeánfar an teachtaireacht seo go dtí go mbainfidh tú iad as na hargóintí JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="53"/>
         <location filename="src/launcher/JavaCommon.cpp" line="62"/>
         <source>JVM arguments warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Rabhadh argóintí JVM</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rinne tú iarracht an argóint leagan Java riachtanach a chur chuig an JVM (ag baint úsáide as &quot;-version:xxx&quot;). Níl sé seo sábháilte agus ní cheadófar é.
+Taispeánfar an teachtaireacht seo go dtí go mbainfidh tú é seo as na hargóintí JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>D&apos;éirigh leis an tástáil Java!&lt;br /&gt;Tuairiscíodh an t-ardán: %1&lt;br /&gt;Tuairiscíodh an leagan Java: %2&lt;br /&gt;Tuairiscíodh an díoltóir Java: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;Rabhaidh:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Níor oibrigh an comhad dénártha Java sonraithe leis na hargóintí a sholáthair tú:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor oibrigh an comhad dénártha Java sonraithe.&lt;br /&gt;Ba chóir duit &apos;Braith&apos; a bhrú, nó an cosán chuig an gcomhad inrite Java a shocrú.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Níorbh fhéidir leabharlann seiceála Java a aimsiú. Seiceáil do shuiteáil le do thoil.</translation>
+        <translation>Níorbh fhéidir leabharlann seiceála Java a aimsiú. Seiceáil do shuiteáil le do thoil.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh ainm an sampla</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="13"/>
@@ -10640,89 +10732,94 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Is cosúil go bhfuil an seanleagan san áireamh in ainm an chóip. Ar mhaith leat é a nuashonrú?
+
+Seanainm: %1
+Ainm nua: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuarthas modpack cosúil leis!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá ceann amháin nó níos mó de do chásanna ón modpack céanna%1. Ar mhaith leat cás ar leith a chruthú, nó an ceann atá ann cheana a nuashonrú?
+
+NÓTA: Déan cinnte gur rinne tú cúltaca de do shonraí tábhachtacha cás sula ndéanann tú nuashonrú, mar is féidir domhain a thruailliú agus d&apos;fhéadfadh roinnt cumraíochta a bheith caillte (mar gheall ar sháruithe pacáiste).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonraigh an cás atá ann cheana</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Cruthaigh cás nua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="308"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cat Cúlra (ó MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="309"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (tarraingthe ag Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="310"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (eagrán cothrom, tarraingthe ag Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teawie (tarraingthe ag SympathyTea)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
         <source>resource pack</source>
-        <translation type="unfinished"></translation>
+        <translation>pacáiste acmhainní</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
         <source>texture pack</source>
-        <translation type="unfinished"></translation>
+        <translation>pacáiste uigeachta</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
         <source>data pack</source>
-        <translation type="unfinished"></translation>
+        <translation>pacáiste sonraí</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
         <source>shader pack</source>
-        <translation type="unfinished"></translation>
+        <translation>pacáiste scáthaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
         <source>world save</source>
-        <translation type="unfinished"></translation>
+        <translation>sábháil an domhain</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation>modh</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>anaithnid</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Sórtáil de réir Réadmhaoin</translation>
+        <translation>Sórtáil de réir Réadmhaoin</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
@@ -10764,77 +10861,77 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir Ábharthachta</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir Leanúna</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir is Déanaí</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="64"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>clár baisce MKLINK do Windows le húsáid le prismlauncher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Gan Ghrúpáil</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonraitheoir uathoibríoch do Prism Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
         <source>item</source>
-        <translation type="unfinished"></translation>
+        <translation>mír</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
-        <translation type="unfinished"></translation>
+        <translation>míreanna</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor aimsíodh aon leagan comhoiriúnach de %1 do %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl aon liosta leaganacha san innéacs meiteashonraí do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá riachtanas %2 %3 ar iarraidh i %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuairiscíodh fadhbanna ag %1, spleáchas ar an gcomhpháirt seo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní hé %1, spleáchas den chomhpháirt seo, an leagan riachtanach %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní hé %1, spleáchas den chomhpháirt seo, an leagan molta %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Is eol nach n-oibríonn %1 agus %2 le chéile. Moltar ceann acu a bhaint.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="267"/>
@@ -10894,22 +10991,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="97"/>
         <source>Cannot rename instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an sampla a athainmniú</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá fréamh nua an sampla (%1) ann cheana féin. &lt;br /&gt;Ní athainmneofar ach na meiteashonraí.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>&amp;Remember my choice</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuimhnigh ar mo rogha</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="73"/>
         <source>Rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Athainmnigh fillteán samplach</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="74"/>
@@ -10917,22 +11014,25 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar mhaith leat an fillteán samplach a athainmniú freisin?
+
+Seanainm: %1
+Ainm nua: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
         <source>Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Athainmniú</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tharla earráid agus an oibríocht athainmnithe seo a leanas á déanamh: &lt;br/&gt; - Seanfhréamh an tseanchás: %1&lt;br/&gt; - Fréamh an tseanchás nua: %2&lt;br/&gt;Ní athainmnítear ach na meiteashonraí.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá cásanna nasctha ann</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
@@ -10943,26 +11043,44 @@ New name: %2</source>
 %2 it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>D’fhéadfadh an sampla seo a leanas tagairt a dhéanamh do chomhaid sa sampla seo:
+
+%1
+
+%2 d’fhéadfadh sé an sampla eile a bhriseadh,
+
+Ar mhaith leat dul ar aghaidh?</numerusform>
+            <numerusform>D’fhéadfadh na samplaí seo a leanas tagairt a dhéanamh do chomhaid sa chás seo:
+
+%1
+
+%2 d’fhéadfadh sé na samplaí eile a bhriseadh,
+
+Ar mhaith leat dul ar aghaidh?</numerusform>
+            <numerusform>D’fhéadfadh na samplaí seo a leanas tagairt a dhéanamh do chomhaid sa chás seo:
+
+%1
+
+%2 d’fhéadfadh sé na samplaí eile a bhriseadh,
+
+Ar mhaith leat dul ar aghaidh?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="201"/>
         <source>error handling file</source>
-        <translation type="unfinished"></translation>
+        <translation>earráid láimhseála comhaid</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
         <source>invalid compression level</source>
-        <translation type="unfinished"></translation>
+        <translation>leibhéal comhbhrú neamhbhailí</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>sonraí díbhoilscithe neamhbhailí nó neamhiomlána</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
@@ -10972,7 +11090,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
         <source>zlib version mismatch!</source>
-        <translation type="unfinished"></translation>
+        <translation>mí-oiriúnacht leagan zlib!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="65"/>
@@ -10993,23 +11111,23 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Cruthaigh Aicearra</translation>
+        <translation>Cruthaigh Aicearra</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an lainseálaí san fhillteán as ar baineadh é, dá bhrí sin ní féidir leis aicearraí a chruthú.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
         <source>Failed to create icon for application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar dheilbhín a chruthú don fheidhmchlár.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>An bhfuil an lainseálaí ag rith mar AppImage míchumraithe? (Tá an t-athróg timpeallachta $APPIMAGE ar iarraidh)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -11022,47 +11140,47 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní thacaítear leis ar do ardán!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
         <source>Failed to create %1 shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar aicearra %1 a chruthú!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní bhfuair mé an deasc?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cruthaíodh aicearra chuig an %1 seo ar do dheasc!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir fillteán na bhfeidhmchlár a aimsiú?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar fhillteán samplaí a chruthú san fhillteán feidhmchlár!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cruthaíodh aicearra chuig an %1 seo i do fhillteán feidhmchlár!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Iontrálacha Deisce</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
         <source>Created a shortcut to this %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cruthaíodh aicearra chuig an %1 seo!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
@@ -11072,106 +11190,107 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid: D’fhill %1 cód stádais gan choinne %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an bhfreagra ón bhfreastalaí hastebin a pharsáil: bhíothas ag súil le JSON ach fuarthas freagra neamhbhailí. Earráid: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid: Thug %1 corp freagartha mífhoirmithe ar ais</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an bhfreagra ó fhreastalaí mclogs a pharsáil: bhíothas ag súil le JSON ach fuarthas freagra neamhbhailí. Earráid: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid: Thug %1 earráid ar ais: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an bhfreagra a pharsáil ón bhfreastalaí pasteGG: bhíothas ag súil le JSON ach fuarthas freagra neamhbhailí. Earráid: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid: Thug %1 cód earráide ar ais: %2
+Teachtaireacht earráide: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosán neamhbhailí chuig VisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pacáistí Sonraí</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
         <source> for %1</source>
-        <translation type="unfinished"></translation>
+        <translation> le haghaidh %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>%1 Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Forbróirí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Forbróirí MultiMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="59"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation>Le buíochas speisialta le</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor oibrigh an comhad dénártha Java sonraithe.&lt;br /&gt;Ba chóir duit an ghné uath-bhrath a úsáid, nó an cosán chuig an gcomhad inrite Java a shocrú.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Níorbh fhéidir ceadanna a shocrú do %1</translation>
+        <translation>Níorbh fhéidir ceadanna a shocrú do %1</translation>
     </message>
     <message>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gan údar(í)</translation>
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosán neamhbhailí chuig JVisualVM</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Suíomh Gréasáin</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Forbróirí</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation type="unfinished"></translation>
+        <translation>Le buíochas le</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an uaslódáil</translation>
     </message>
 </context>
 <context>
@@ -11188,7 +11307,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>pacáistí sonraí</translation>
     </message>
 </context>
 <context>
@@ -11197,13 +11316,13 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>pacáistí sonraí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>pacáiste sonraí</translation>
     </message>
 </context>
 <context>
@@ -11216,7 +11335,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh leagan %1</translation>
     </message>
 </context>
 <context>
@@ -11231,7 +11350,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>modh</translation>
     </message>
 </context>
 <context>
@@ -11239,33 +11358,34 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Athbhreithnigh agus deimhnigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="73"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
         <source>Confirmation Needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhniú Riachtanach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="99"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá %1 acmhainn roghnaithe agat.
+An bhfuil tú cinnte gur mian leat an dialóg seo a dhúnadh?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="135"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Osclaíonn sé fuinneog aníos nua chun athbhreithniú a dhéanamh ar an %1 a roghnaigh tú agus do rogha a dheimhniú. Aicearra: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="147"/>
         <source>Confirm %1 to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh %1 le híoslódáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="154"/>
@@ -11285,23 +11405,23 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="170"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag seiceáil le haghaidh spleáchais...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="396"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh leagan %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>acmhainní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="62"/>
         <source>Download %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil %1</translation>
     </message>
 </context>
 <context>
@@ -11317,29 +11437,30 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="215"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tharla earráid líonra. Níorbh fhéidir leaganacha tionscadail a luchtú: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="234"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tharla earráid líonra. Níorbh fhéidir eolas tionscadail a luchtú: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="239"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh deireadh leis an iarratas ar chúis anaithnid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="407"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tharla earráid líonra. Níorbh fhéidir na modanna a luchtú.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="412"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan API róshean!
+Nuashonraigh %1 le do thoil!</translation>
     </message>
 </context>
 <context>
@@ -11363,7 +11484,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="38"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>pacáiste acmhainní</translation>
     </message>
 </context>
 <context>
@@ -11378,7 +11499,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="113"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="274"/>
         <source>Select %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh %1 le híoslódáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"/>
@@ -11388,22 +11509,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tá an tionscadal seo cartlannaithe. Ní bhfaighidh sé aon nuashonruithe eile mura gcinneann an t-údar an tionscadal a dhíchartlannú.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
         <source>Donate information: </source>
-        <translation type="unfinished">Eolas faoi bhronntanais: </translation>
+        <translation>Eolas faoi bhronntanais: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="241"/>
         <source>External links:</source>
-        <translation type="unfinished">Naisc sheachtracha:</translation>
+        <translation>Naisc sheachtracha:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="245"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Fadhbanna: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Fadhbanna: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="247"/>
@@ -11418,17 +11539,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="251"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="272"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl aon leagan ar fáil don phacáiste roghnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"/>
         <source>Deselect %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Díroghnaigh %1 le híoslódáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="304"/>
@@ -11439,28 +11560,29 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="311"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor aimsíodh aon leagan bailí.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="312"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir leagan neamhbhailí a roghnú :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="336"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag lódáil leaganacha...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions available</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl aon leaganacha ar fáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl aon leaganacha ar fáil do &apos;%1&apos;.
+Is dócha gur chuir an t-údar bac ar lainseálaithe tríú páirtí.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
@@ -11470,7 +11592,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="541"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="547"/>
@@ -11480,19 +11602,19 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="566"/>
         <source>The resource was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor aimsíodh an acmhainn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>acmhainní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="49"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>acmhainn</translation>
     </message>
 </context>
 <context>
@@ -11516,7 +11638,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>pacáiste scáthaithe</translation>
     </message>
 </context>
 <context>
@@ -11525,7 +11647,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="146"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>pacáistí uigeachta</translation>
     </message>
 </context>
 <context>
@@ -11534,13 +11656,13 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="38"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>pacáistí uigeachta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="40"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>pacáiste uigeachta</translation>
     </message>
 </context>
 <context>
@@ -11548,18 +11670,19 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="45"/>
         <source>Resource download</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil acmhainní</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
         <source>Downloading resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag íoslódáil acmhainne:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar athainmniú chumraíochta an scáthóra ó &apos;%1&apos; go &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -11569,7 +11692,7 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Rabhadh: Tá nasc siombalach idir an acmhainn seo agus áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.
 Cosán Canónach: %1</translation>
     </message>
@@ -11577,7 +11700,8 @@ Cosán Canónach: %1</translation>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="517"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -11592,7 +11716,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Athraithe Deiridh</translation>
+        <translation>Athraithe Deiridh</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -11607,51 +11731,52 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="265"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh an lascán</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="266"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Má chuireann tú an acmhainn seo ar siúl/ar siúl, d’fhéadfadh sé go dtitfeadh an cluiche.
+An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="568"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>An bhfuil an acmhainn cumasaithe?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ainm an acmhainne.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>An dáta agus an t-am a athraíodh (nó a cuireadh) an acmhainn seo go deireanach.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="574"/>
         <source>The source provider of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soláthraí foinse na hacmhainne.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="576"/>
         <source>The size of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Méid an acmhainne.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="667"/>
         <source>Override Columns Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Sáraigh Infheictheacht na gColún</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="680"/>
         <source>Show / Hide Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Taispeáin / Folaigh Colúin</translation>
     </message>
 </context>
 <context>
@@ -11659,7 +11784,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Enable</source>
-        <translation type="unfinished">Cumasaigh</translation>
+        <translation>Cumasaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
@@ -11684,21 +11809,21 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="78"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Gan aitheantas</translation>
+        <translation>Gan aitheantas</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="107"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Formáid ID an phacáiste acmhainní, chomh maith leis na leaganacha Minecraft ar dearadh é dóibh.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="112"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Rabhadh: Tá nasc siombalach idir an acmhainn seo agus áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.
 Cosán Canónach: %1</translation>
     </message>
@@ -11706,22 +11831,23 @@ Cosán Canónach: %1</translation>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="119"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
         <source>Is the resource pack enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>An bhfuil an pacáiste acmhainní cumasaithe?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The source provider of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soláthraí foinse an phacáiste acmhainní.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
         <source>The size of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Méid an phacáiste acmhainní.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
@@ -11736,16 +11862,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
         <source>The name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm an phacáiste acmhainní.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>An dáta agus an t-am a athraíodh (nó a cuireadh) an pacáiste acmhainní seo go deireanach.</translation>
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>An bhfuil an pacáiste acmhainní cumasaithe? (Bailí do chomhaid ZIP amháin)</translation>
     </message>
 </context>
 <context>
@@ -11757,22 +11883,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Íoslódáil Pacáistí</translation>
+        <translation>Íoslódáil Pacáistí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil pacáistí acmhainní ó ardáin mod ar líne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Déan iarracht na pacáistí acmhainní roghnaithe go léir a sheiceáil nó a nuashonrú (na pacáistí acmhainní go léir mura bhfuil aon cheann roghnaithe)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh leagan mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
@@ -11793,7 +11919,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Stopadh an íoslódáil ag an úsáideoir.</translation>
+        <translation>Stopadh an íoslódáil ag an úsáideoir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="109"/>
@@ -11811,55 +11937,58 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl nuashonruithe ar phacáiste acmhainní ar fáil nuair a bhíonn meiteashonraí díchumasaithe!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Deimhnigh Nuashonrú</translation>
+        <translation>Deimhnigh Nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="145"/>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>D’fhéadfadh dúbláil agus tuairteanna cluiche a bheith mar thoradh ar phacáistí acmhainní a nuashonrú agus an cluiche á rith.
+B’fhéidir nach scriosfar na seanchomhaid mar go bhfuil siad in úsáid.
+An bhfuil tú cinnte gur mian leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
         <source>The resource pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh deireadh leis an nuashonraitheoir pacáiste acmhainní!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">Tá &apos;%1&apos; cothrom le dáta! :)</translation>
+        <translation>Tá &apos;%1&apos; cothrom le dáta! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá na pacáistí acmhainní go léir cothrom le dáta! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá na pacáistí acmhainní roghnaithe uile cothrom le dáta! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
         <source>Update checker</source>
-        <translation type="unfinished">Seiceálaí nuashonraithe</translation>
+        <translation>Seiceálaí nuashonraithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Deimhnigh Baint</translation>
+        <translation>Deimhnigh Baint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí na meiteashonraí a bhaint do na pacáistí acmhainní %1. 
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
@@ -11868,11 +11997,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil pacáistí</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil pacáistí acmhainní ó ardáin ar líne</translation>
     </message>
 </context>
 <context>
@@ -11885,7 +12014,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Roghanna scagaire</translation>
+        <translation>Roghanna scagaire</translation>
     </message>
 </context>
 <context>
@@ -11893,37 +12022,37 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="43"/>
         <source>Confirm resources to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh acmhainní le nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="54"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí na hacmhainní seo a leanas a nuashonrú:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="55"/>
         <source>Only resources with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní dhéanfar ach acmhainní a bhfuil seic orthu a nuashonrú!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="73"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm an mhod: %1&lt;br&gt;Ainm comhaid: %2&lt;br&gt;Cúis: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar ghiniúint meiteashonraí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="77"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir meiteashonraí a ghiniúint do na hacmhainní seo a leanas:&lt;br&gt;Ar mhaith leat leanúint ar aghaidh gan na hacmhainní sin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="90"/>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag seiceáil le haghaidh nuashonruithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="110"/>
@@ -11950,43 +12079,43 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="122"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag seiceáil le haghaidh nuashonruithe...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="168"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm an mhod: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="170"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cúis: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réiteach féideartha: An leagan is déanaí a fháil de láimh:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="178"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar sheiceáil le haghaidh nuashonruithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="179"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir na hacmhainní seo a leanas a sheiceáil ná a fháil le haghaidh nuashonruithe:&lt;br&gt;Ar mhaith leat leanúint ar aghaidh gan na hacmhainní sin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="212"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag seiceáil le haghaidh spleáchais...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="232"/>
         <source>Not installed</source>
-        <translation type="unfinished">Gan suiteáil</translation>
+        <translation>Gan suiteáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="268"/>
@@ -11996,58 +12125,58 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="313"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl meiteashonraí ag an acmhainn &apos;%1&apos; go fóill. Ní mór dúinn é a ghiniúint chun faisnéis ábhartha a rianú maidir le conas an mod seo a nuashonrú. Chun seo a dhéanamh, roghnaigh soláthraí mod ar féidir linn a úsáid chun seiceáil le haghaidh nuashonruithe don mod seo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="372"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag giniúint meiteashonraí...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="425"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir leagan bailí a aimsiú ar an soláthraí(í) mod roghnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="436"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasaíodh an mod mar go bhféadfadh sé a bheith suiteáilte cheana féin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="443"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Soláthraí: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="447"/>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Seanleagan: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan nua: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="456"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cineál Leagan Nua: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="463"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Riachtanach ag: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Riachtanach ag:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="478"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Log athruithe an leagan is déanaí</translation>
     </message>
 </context>
 <context>
@@ -12071,60 +12200,60 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="64"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasaíodh an mod mar go bhféadfadh sé a bheith suiteáilte cheana féin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm comhaid: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Soláthraí: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="78"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Riachtanach ag: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Riachtanach ag:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="93"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cineál Leagan: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh rogha %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="120"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí an %1 seo a leanas a íoslódáil:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="121"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní dhéanfar ach %1 le seiceáil a íoslódáil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Spleáchais a Athrú</translation>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuirfear an íoslódáil seo i: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódálfar an comhad seo chuig suíomh fillteáin atá difriúil ón suíomh réamhshocraithe, b&apos;fhéidir mar gheall ar an éileamh atá air ón luchtóir.</translation>
     </message>
 </context>
 <context>
@@ -12132,12 +12261,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="47"/>
         <source>Actions</source>
-        <translation type="unfinished">Gníomhartha</translation>
+        <translation>Gníomhartha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="67"/>
         <source>Upload</source>
-        <translation type="unfinished">Uaslódáil</translation>
+        <translation>Uaslódáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="72"/>
@@ -12152,7 +12281,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="82"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Féach ar an bhFillteán</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="311"/>
@@ -12165,7 +12294,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí %1 scáileáin a uaslódáil chuig %2.
+Ba chóir duit seiceáil faoi dhó le haghaidh faisnéise pearsanta.
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="377"/>
@@ -12173,25 +12305,28 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí an scáileán roghnaithe a uaslódáil chuig %1.
+Ba chóir duit seiceáil faoi dhó le haghaidh faisnéise pearsanta.
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="402"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="443"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
         <source>Failed to upload screenshots!</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar uaslódáil na ngrianghraif!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid anaithnid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Uaslódáil críochnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="393"/>
@@ -12202,23 +12337,23 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh deireadh le huaslódáil na ngrianghraf</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Tá an tasc curtha ar ceal ag an úsáideoir.</translation>
+        <translation>Tá an tasc curtha ar ceal ag an úsáideoir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="419"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an &lt;a href=&quot;%1&quot;&gt;nasc chuig an scáileán uaslódáilte&lt;/a&gt; curtha i do ghearrthaisce.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="462"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an &lt;a href=&quot;%1&quot;&gt;nasc chuig an albam uaslódáilte&lt;/a&gt; curtha i do ghearrthaisce.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="510"/>
@@ -12226,7 +12361,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí %1 scáileáin a scriosadh.
+D’fhéadfadh sé seo a bheith buan agus imeoidh siad as an bhfillteán.
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="515"/>
@@ -12234,7 +12372,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí an scáileán roghnaithe a scriosadh.
+D’fhéadfadh sé seo a bheith buan agus imeoidh sé as an bhfillteán.
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="521"/>
@@ -12244,19 +12385,19 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="68"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Seat Scáileáin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="87"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="90"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Cóipeáil Íomhá</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="95"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="98"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cóipeáil Comhad(anna)</translation>
     </message>
 </context>
 <context>
@@ -12287,7 +12428,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh leagan le suiteáil.</translation>
     </message>
 </context>
 <context>
@@ -12295,12 +12436,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh Scaoileadh le Suiteáil</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh an leagan is mian leat a nuashonrú chuige.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
@@ -12317,7 +12458,9 @@ Are you sure?</source>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh leagan le suiteáil.
+
+Leagan suiteáilte faoi láthair: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
@@ -12335,7 +12478,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag cur tasc %1 as %2 i gcrích</translation>
     </message>
 </context>
 <context>
@@ -12353,11 +12496,11 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar Líne</translation>
     </message>
     <message>
         <source>Latency</source>
-        <translation type="unfinished"></translation>
+        <translation>Moill</translation>
     </message>
 </context>
 <context>
@@ -12375,12 +12518,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation type="unfinished"></translation>
+        <translation>Acmhainní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
         <source>Ask to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Iarr íoslódáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="114"/>
@@ -12395,7 +12538,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="130"/>
         <source>Actions</source>
-        <translation type="unfinished">Gníomhartha</translation>
+        <translation>Gníomhartha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="157"/>
@@ -12405,17 +12548,17 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Bain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Bog Suas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="172"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Bog Síos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="177"/>
@@ -12430,7 +12573,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Freastalaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
@@ -12440,7 +12583,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Deimhnigh Baint</translation>
+        <translation>Deimhnigh Baint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="730"/>
@@ -12448,7 +12591,10 @@ Currently installed version: %1</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí &quot;%1&quot; a bhaint.
+Tá sé seo buan agus imeoidh an freastalaí as do liosta go deo (TRÉIMHSE FADA).
+
+An bhfuil tú cinnte?</translation>
     </message>
 </context>
 <context>
@@ -12456,7 +12602,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ar Aghaidh &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
@@ -12466,7 +12612,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Críochnaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
@@ -12524,7 +12670,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Stopadh an íoslódáil ag an úsáideoir.</translation>
+        <translation>Stopadh an íoslódáil ag an úsáideoir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="106"/>
@@ -12542,55 +12688,58 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl nuashonruithe ar phacáiste scáthaithe ar fáil nuair a bhíonn meiteashonraí díchumasaithe!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Deimhnigh Nuashonrú</translation>
+        <translation>Deimhnigh Nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"/>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>D’fhéadfadh dúbláil agus tuairteanna cluiche tarlú má nuashonraítear pacáistí scáthaithe agus an cluiche ar siúl.
+B’fhéidir nach scriosfar na seanchomhaid mar go bhfuil siad in úsáid.
+An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
         <source>The shader pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh deireadh leis an nuashonrú ar an bpacáiste scáthaithe!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">Tá &apos;%1&apos; cothrom le dáta! :)</translation>
+        <translation>Tá &apos;%1&apos; cothrom le dáta! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
         <source>All shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá na pacáistí scáthaithe go léir cothrom le dáta! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá na pacáistí scáthaithe roghnaithe go léir cothrom le dáta! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
         <source>Update checker</source>
-        <translation type="unfinished">Seiceálaí nuashonraithe</translation>
+        <translation>Seiceálaí nuashonraithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Deimhnigh Baint</translation>
+        <translation>Deimhnigh Baint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="216"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí na meiteashonraí a bhaint do %1 phacáiste scáthaithe.
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
@@ -12599,11 +12748,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil scáthóirí</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil scáthóirí ó ardáin ar líne</translation>
     </message>
 </context>
 <context>
@@ -12619,22 +12768,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="294"/>
         <source>Path is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an cosán folamh.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="297"/>
         <source>File doesn&apos;t exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl an comhad ann.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="299"/>
         <source>Not a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní comhad é.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="301"/>
         <source>File is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an comhad a léamh.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="303"/>
@@ -12644,7 +12793,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="307"/>
         <source>Unable to copy file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an comhad a chóipeáil</translation>
     </message>
 </context>
 <context>
@@ -12654,32 +12803,32 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="305"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
         <source>Skin Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Uaslódáil Craicinn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Samhail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="39"/>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Clasaiceach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
         <source>Slim</source>
-        <translation type="unfinished"></translation>
+        <translation>Caol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Rinn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished"></translation>
+        <translation>Réamhamharc ar Elytra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
@@ -12694,17 +12843,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
         <source>Import URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL Iompórtála</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"/>
         <source>Import user</source>
-        <translation type="unfinished"></translation>
+        <translation>Iompórtáil úsáideoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="145"/>
         <source>Import File</source>
-        <translation type="unfinished"></translation>
+        <translation>Iompórtáil Comhad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
@@ -12714,12 +12863,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>Deletes selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Scriosann sé an craiceann roghnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
@@ -12749,22 +12898,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="172"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh Uigeacht Craicinn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="178"/>
         <source>Selected file is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní craiceann bailí é an comhad roghnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="206"/>
         <source>No Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Gan Rinn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="213"/>
         <source>Download capes</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil clócaí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="302"/>
@@ -12789,7 +12938,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="334"/>
         <source>Skin Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Scriosadh Craicinn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="334"/>
@@ -12856,50 +13005,51 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="488"/>
         <source>failed to get user UUID</source>
-        <translation type="unfinished"></translation>
+        <translation>theip ar UUID an úsáideora a fháil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="495"/>
         <source>failed to get user profile</source>
-        <translation type="unfinished"></translation>
+        <translation>theip ar phróifíl úsáideora a fháil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="499"/>
         <source>failed to download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>theip ar an gcraiceann a íoslódáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="509"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="523"/>
         <source>failed to parse get user UUID response</source>
-        <translation type="unfinished"></translation>
+        <translation>theip ar pharsáil freagra UUID an úsáideora a fháil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="518"/>
         <source>user id is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an t-aitheantas úsáideora folamh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="532"/>
         <source>failed to parse get user profile response</source>
-        <translation type="unfinished"></translation>
+        <translation>theip ar pharsáil freagra phróifíl úsáideora a fháil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="549"/>
         <source>the skin is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>tá an craiceann neamhbhailí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ainm úsáideora gan aimsiú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="552"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir craiceann &apos;%1&apos; 
+ a aimsiú mar gheall ar: %2.</translation>
     </message>
 </context>
 <context>
@@ -12907,7 +13057,7 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinUpload.cpp" line="66"/>
         <source>Uploading skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag uaslódáil craicinn</translation>
     </message>
 </context>
 <context>
@@ -12925,7 +13075,7 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
         <source>Status Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonraí Stádais</translation>
     </message>
 </context>
 <context>
@@ -12940,7 +13090,9 @@ An bhfuil tú cinnte?</translation>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar nuashonrú an sampla mar gheall ar: %1
+
+</translation>
     </message>
 </context>
 <context>
@@ -12955,31 +13107,31 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Íoslódáil Modpack</translation>
+        <translation>Íoslódáil Modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Ag eastóscadh modpack</translation>
+        <translation>Ag eastóscadh modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an modpack a bhaint amach</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="116"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Níorbh fhéidir ceadanna a shocrú do %1</translation>
+        <translation>Níorbh fhéidir ceadanna a shocrú do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="131"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh deireadh le hallmhairiú an sampla.</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished">Ní féidir an comhad zip modpack a cuireadh ar fáil a oscailt.</translation>
+        <translation>Ní féidir an comhad zip modpack a cuireadh ar fáil a oscailt.</translation>
     </message>
 </context>
 <context>
@@ -12988,13 +13140,13 @@ An bhfuil tú cinnte?</translation>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation type="unfinished"></translation>
+        <translation>Réiteach comhaid modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
         <source>Downloading modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag íoslódáil modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
@@ -13006,22 +13158,22 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Ag eastóscadh modpack</translation>
+        <translation>Ag eastóscadh modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an modpack a bhaint amach</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Níorbh fhéidir ceadanna a shocrú do %1</translation>
+        <translation>Níorbh fhéidir ceadanna a shocrú do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="217"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh deireadh le hallmhairiú an sampla.</translation>
     </message>
 </context>
 <context>
@@ -13029,46 +13181,48 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an comhad &quot;bin/modpack.jar&quot; a oscailt!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir &quot;fmlversion.properties&quot; a oscailt!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir &quot;version.json&quot; a oscailt!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir &quot;version.json&quot; a aimsiú taobh istigh de &quot;bin/modpack.jar&quot;, ach tá leagan Minecraft anaithnid</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir &quot;forgeversion.properties&quot; a oscailt</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="106"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Forgeversion.properties&quot; neamhbhailí!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="139"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir &quot;version.json&quot; a thuiscint:
+tá inheritsFrom ar iarraidh</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="195"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir &quot;version.json&quot; a thuiscint:
+</translation>
     </message>
 </context>
 <context>
@@ -13101,7 +13255,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Enable</source>
-        <translation type="unfinished">Cumasaigh</translation>
+        <translation>Cumasaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
@@ -13116,7 +13270,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Athraithe Deiridh</translation>
+        <translation>Athraithe Deiridh</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
@@ -13133,7 +13287,7 @@ inheritsFrom is missing</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Rabhadh: Tá nasc siombalach idir an acmhainn seo agus áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.
 Cosán Canónach: %1</translation>
     </message>
@@ -13141,35 +13295,36 @@ Cosán Canónach: %1</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="90"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>An bhfuil an pacáiste uigeachta cumasaithe?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ainm an phacáiste uigeachta.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>An dáta agus an t-am a athraíodh (nó a cuireadh) an pacáiste uigeachta seo go deireanach.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The source provider of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soláthraí foinse an phacáiste uigeachta.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The size of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Méid an phacáiste uigeachta.</translation>
     </message>
 </context>
 <context>
@@ -13177,32 +13332,32 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="53"/>
         <source>Texture packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacáistí uigeachta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Íoslódáil Pacáistí</translation>
+        <translation>Íoslódáil Pacáistí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
         <source>Download texture packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil pacáistí uigeachtaí ó ardáin mod ar líne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Déan iarracht na pacáistí uigeachta roghnaithe go léir a sheiceáil nó a nuashonrú (na pacáistí uigeachta go léir mura bhfuil aon cheann roghnaithe)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>Change a texture pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh leagan pacáiste uigeachta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Féach ar leathanaigh bhaile na bpacáistí uigeachta roghnaithe go léir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="104"/>
@@ -13223,7 +13378,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Stopadh an íoslódáil ag an úsáideoir.</translation>
+        <translation>Stopadh an íoslódáil ag an úsáideoir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="114"/>
@@ -13241,63 +13396,66 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="243"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl nuashonruithe pacáiste uigeachta ar fáil nuair a bhíonn meiteashonraí díchumasaithe!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Deimhnigh Nuashonrú</translation>
+        <translation>Deimhnigh Nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="150"/>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>D’fhéadfadh dúbláil agus tuairteanna cluiche a bheith mar thoradh ar phacáistí uigeachta a nuashonrú agus an cluiche ar siúl.
+B’fhéidir nach scriosfar na seanchomhaid mar go bhfuil siad in úsáid.
+An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
         <source>The texture pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh deireadh leis an nuashonraitheoir pacáiste uigeachta!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="174"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">Tá &apos;%1&apos; cothrom le dáta! :)</translation>
+        <translation>Tá &apos;%1&apos; cothrom le dáta! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="177"/>
         <source>All texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá na pacáistí uigeachta go léir cothrom le dáta! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="179"/>
         <source>All selected texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá na pacáistí uigeachta roghnaithe go léir cothrom le dáta! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
         <source>Update checker</source>
-        <translation type="unfinished">Seiceálaí nuashonraithe</translation>
+        <translation>Seiceálaí nuashonraithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="223"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Deimhnigh Baint</translation>
+        <translation>Deimhnigh Baint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí na meiteashonraí a bhaint do phacáistí uigeachta %1. 
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil pacáistí</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil pacáistí uigeachtaí ó ardáin ar líne</translation>
     </message>
 </context>
 <context>
@@ -13308,19 +13466,19 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">Féach ar fhillteán téamaí deilbhíní.</translation>
+        <translation>Féach ar fhillteán téamaí deilbhíní.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Giuirléidí</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="unfinished">Féach ar an bhfillteán téamaí giuirléidí.</translation>
+        <translation>Féach ar an bhfillteán téamaí giuirléidí.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feictear an cat sa chúlra agus ní thaispeántar é de réir réamhshocraithe. Ní dhéantar é a fheiceáil ach amháin nuair a bhrúnn tú an cnaipe Cat sa Bharra Uirlisí.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
@@ -13328,7 +13486,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">Féach ar fhillteán na bpacáistí cat.</translation>
+        <translation>Féach ar fhillteán na bpacáistí cat.</translation>
     </message>
     <message>
         <source>Refresh all</source>
@@ -13345,27 +13503,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh téama agus deilbhíní le húsáid</translation>
     </message>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>LeathanachDraoi</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh an Téama is mian leat a úsáid</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leid: Feictear an cat sa chúlra agus ní thaispeántar é de réir réamhshocraithe. Ní dhéantar é a fheiceáil ach amháin nuair a bhrúnn tú an cnaipe Cat sa Bharra Uirlisí.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation> Réamhamharc:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feictear an cat sa chúlra agus níl aon chuspóir leis, is rud amhairc amháin atá ann.</translation>
     </message>
 </context>
 <context>
@@ -13376,7 +13534,10 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:
+%2 aistrithe
+%3 doiléir
+%4 san iomlán</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
@@ -13396,7 +13557,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Is é iomláine an céatadán de theaghráin atá aistrithe go hiomlán, gan na cinn a bhfuil buille faoi thuairim orthu go huathoibríoch a áireamh.</translation>
     </message>
 </context>
 <context>
@@ -13404,28 +13565,28 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú ar Fáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
         <source>A new version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá leagan nua ar fáil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá leagan %1 ar fáil anois - tá %2 agat. Ar mhaith leat é a íoslódáil anois?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nótaí Eisiúna:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Seachain an Leagan seo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
@@ -13435,12 +13596,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Suiteáil Nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá leagan nua de %1 ar fáil!</translation>
     </message>
 </context>
 <context>
@@ -13448,7 +13609,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="20"/>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag cruthú sampla ó leagan %1</translation>
     </message>
 </context>
 <context>
@@ -13458,28 +13619,31 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sáraíonn an leithdháileadh cuimhne uasta an luach tacaithe.
+Is suiteáil 32-giotán í an suiteáil Java atá roghnaithe agus ní thacaíonn sí le níos mó ná 2048MiB RAM.
+B’fhéidir nach dtosóidh an sampla mar gheall air seo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an príomhleagan de Java neamh-chomhoiriúnach. D’fhéadfadh rudaí briseadh.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl an sampla seo comhoiriúnach le leagan %1 de Java.
+Aistrigh go ceann de na leaganacha Java seo a leanas don sampla seo:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
         <source>Java version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan Java %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Téigh chuig socruithe Java an chláir chun do leagan Java a athrú nó chun an seiceáil comhoiriúnachta Java a dhíchumasú má tá a fhios agat cad atá á dhéanamh agat.</translation>
     </message>
 </context>
 <context>
@@ -13487,7 +13651,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
         <source>No versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl aon leaganacha ar fáil faoi láthair.</translation>
     </message>
 </context>
 <context>
@@ -13495,17 +13659,17 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
         <source>Actions</source>
-        <translation type="unfinished">Gníomhartha</translation>
+        <translation>Gníomhartha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="132"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Bain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="140"/>
         <source>Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Saincheap</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="148"/>
@@ -13515,47 +13679,47 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="156"/>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>Fill ar ais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="172"/>
         <source>Add to Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir le Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="175"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir mod isteach sa chomhad jar Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="180"/>
         <source>Replace Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir Minecraft.jar ina áit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir Gníomhairí leis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="188"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir gníomhairí Java leis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
         <source>Add Empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir Folamh leis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Athlódáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
         <source>Change Version</source>
-        <translation type="unfinished">Athraigh Leagan</translation>
+        <translation>Athraigh Leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
@@ -13565,47 +13729,47 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="111"/>
         <source>Change version of the selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh leagan an chomhpháirte roghnaithe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="116"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Bog Suas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="119"/>
         <source>Make the selected component apply sooner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir an chomhpháirt roghnaithe i bhfeidhm níos luaithe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="124"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Bog Síos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="127"/>
         <source>Make the selected component apply later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir an chomhpháirt roghnaithe i bhfeidhm níos déanaí.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="135"/>
         <source>Remove selected component from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bain an comhpháirt roghnaithe as an sampla.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="143"/>
         <source>Customize selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saincheap an comhpháirt roghnaithe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="151"/>
         <source>Edit selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir an comhpháirt roghnaithe in eagar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="159"/>
         <source>Revert the selected component to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir an chomhpháirt roghnaithe ar ais go dtí an réamhshocrú.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="164"/>
@@ -13615,57 +13779,57 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="167"/>
         <source>Install a mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Suiteáil luchtaire mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="196"/>
         <source>Add an empty custom component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir comhpháirt saincheaptha folamh leis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="204"/>
         <source>Reload all components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Athlódáil na comhpháirteanna go léir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
         <source>Download all</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil gach rud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="212"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Íoslódáil na comhaid atá riachtanach chun an sampla a sheoladh anois.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
         <source>Open .minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscail .minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="220"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscail fillteán .minecraft an chóip.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
         <source>Open libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Leabharlanna oscailte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="228"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscail fillteán na leabharlann áitiúil den chás.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="233"/>
         <source>Import Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Comhpháirteanna Iompórtála</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="236"/>
         <source>Import existing component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iompórtáil comhaid JSON comhpháirte atá ann cheana féin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="189"/>
@@ -13675,22 +13839,22 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="205"/>
         <source>%1 possibly has issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>B’fhéidir go bhfuil fadhbanna ag %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
         <source>%1 has issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá fadhbanna ag %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
         <source>Error: </source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="222"/>
         <source>Warning: </source>
-        <translation type="unfinished"></translation>
+        <translation>Rabhadh: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="254"/>
@@ -13706,12 +13870,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished">Níorbh fhéidir próifíl an sampla a lódáil.</translation>
+        <translation>Níorbh fhéidir próifíl an sampla a lódáil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Deimhnigh Baint</translation>
+        <translation>Deimhnigh Baint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="281"/>
@@ -13719,17 +13883,20 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí &quot;%1&quot; a bhaint.
+Tá sé seo buan agus bainfidh sé an chomhpháirt saincheaptha go hiomlán.
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
         <source>Couldn&apos;t remove file</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir an comhad a bhaint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Select jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh mods jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
@@ -13739,57 +13906,57 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Minecraft.jar replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Athsholáthar Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Java agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Gníomhairí Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Select jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh próca</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
         <source>Select components</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh comhpháirteanna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
         <source>Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Comhpháirteanna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Failed to import components</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar chomhpháirteanna a iompórtáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="328"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir roinnt comhpháirteanna a allmhairiú. Seiceáil na logaí le haghaidh sonraí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh gníomhairí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh leagan %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
         <source>No intermediary mappings versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl aon leaganacha mapála idirmheánacha ar fáil faoi láthair.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir liostaí leaganacha na mapálacha idirmheánacha a luchtú ná a íoslódáil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"/>
@@ -13797,17 +13964,18 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir Minecraft a íoslódáil ná cásanna a nuashonrú mura bhfuil cuntas amháin ar a laghad curtha leis agat.
+Cuir cuntas Microsoft leis, le do thoil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="507"/>
         <source>Error updating instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid ag nuashonrú an cháis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="567"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh Aisiompú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="568"/>
@@ -13815,7 +13983,10 @@ Please add your Microsoft or Mojang account.</oldsource>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí &quot;%1&quot; a aisiompú.
+Tá sé seo buan agus aisiompóidh sé do shaincheaptha go hiomlán.
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="60"/>
@@ -13824,7 +13995,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Scagaire:</translation>
     </message>
 </context>
 <context>
@@ -13957,7 +14128,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
         <source>Reloads the version list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Athlódálann sé an liosta leaganacha.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
@@ -13981,7 +14152,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>List update failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar nuashonrú an liosta:
+%1</translation>
     </message>
 </context>
 <context>
@@ -13994,7 +14166,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
         <source>View Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Féach ar Logaí an Lainseálaí</translation>
     </message>
 </context>
 <context>
@@ -14002,7 +14174,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Saincheap gníomhartha an bharra uirlisí</translation>
     </message>
 </context>
 <context>
@@ -14010,24 +14182,26 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an domhan seo nasctha go siombalach ó áit eile.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="206"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tá an domhan seo ceangailte go docht le háiteanna eile.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="221"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Rabhadh: Tá nasc siombalach idir an domhan seo agus áit eile. Athróidh eagarthóireacht air an bunleagan freisin.
+Cosán Canónach: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="226"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rabhadh: Tá an domhan seo nasctha go docht le háit eile. Má dhéantar é a chur in eagar, athrófar an bunleagan freisin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
@@ -14042,7 +14216,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Imríodh go deireanach</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="270"/>
@@ -14069,17 +14243,17 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
         <source>Date and time the world was last played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dáta agus am a imríodh an domhan go deireanach.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Méid an domhain ar dhiosca.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faisnéis agus rabhaidh faoin domhan.</translation>
     </message>
 </context>
 <context>
@@ -14087,7 +14261,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="65"/>
         <source>Actions</source>
-        <translation type="unfinished">Gníomhartha</translation>
+        <translation>Gníomhartha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="98"/>
@@ -14107,7 +14281,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="113"/>
         <source>Copy</source>
-        <translation type="unfinished">Cóipeáil</translation>
+        <translation>Cóipeáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="118"/>
@@ -14117,12 +14291,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="128"/>
         <source>Copy Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>Cóipeáil Síol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
@@ -14132,12 +14306,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="138"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Féach ar an bhFillteán</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
         <source>Reset Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Deilbhín Athshocraithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
@@ -14147,12 +14321,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacáistí Sonraí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage data packs inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bainistigh pacáistí sonraí laistigh den domhan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -14167,50 +14341,53 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Domhan Oscailte i MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="335"/>
         <source>No MCEdit found or set up!</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor aimsíodh ná níor socraíodh MCEdit!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="336"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl MCEdit socraithe agat nó aistríodh é.
+Is féidir leat é a shocrú sna socruithe domhanda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="342"/>
         <source>MCEdit failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar MCEdit tosú!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="343"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar MCEdit tosú. 
+B’fhéidir go mbeadh gá é a athshuiteáil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Select a Minecraft world zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh cód zip domhanda Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Minecraft World Zip File</source>
-        <translation type="unfinished"></translation>
+        <translation>Comhad Zip Domhanda Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="429"/>
         <source>Copy World</source>
-        <translation type="unfinished"></translation>
+        <translation>Cóipeáil an Domhain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>D’fhéadfadh sé a bheith contúirteach domhan a athrú agus Minecraft ag rith.
+Ar mhaith leat leanúint ar aghaidh?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="195"/>
@@ -14223,17 +14400,20 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí &quot;%1&quot; a scriosadh.
+B’fhéidir go mbeidh an domhan imithe go deo (Tréimhse fhada).
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"/>
         <source>Manage Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Bainistigh Pacáistí Sonraí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="231"/>
         <source>Data packs for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacáistí sonraí do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
@@ -14244,29 +14424,29 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
         <source>Enter a new name for the copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir isteach ainm nua don chóip.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="450"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Athainmnigh an Domhan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>Enter a new world name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir isteach ainm nua don domhan.</translation>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacáistí Sonraí</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bainistigh pacáistí sonraí laistigh den domhan.</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Fillteán Pacáistí Sonraí Domhanda Oscailte</translation>
     </message>
 </context>
 <context>
@@ -14274,48 +14454,48 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Údarú á fháil chun rochtain a fháil ar %1 seirbhís.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="66"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar údarú a fháil do %1 seirbhís. Earráid %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid STS anaithnid do sheirbhísí %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="73"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar údarú a fháil do sheirbhísí %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="81"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir freagra údaraithe a pharsáil le haghaidh rochtana ar sheirbhísí %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="87"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>D&apos;athraigh an freastalaí %1 hais úsáideora údaraithe sa fhreagra. Tá rud éigin cearr.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Údarú faighte chun rochtain a fháil ar %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="104"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir freagra earráide údaraithe %1 a pharsáil mar JSON: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="112"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá eilimint XErr ar iarraidh ó fhreagra earráide údaraithe %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
@@ -14325,46 +14505,50 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl Xbox Live ar fáil i do thír féin. Tá bac curtha ort.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an cuntas Microsoft seo faoi aois agus níl sé nasctha le teaghlach.
+
+Socraigh do chuntas de réir %1 le do thoil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>Éilíonn an cuntas Microsoft seo cruthúnas aoise le himirt. Logáil isteach i %1 le do thoil chun cruthúnas aoise a sholáthar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá teorainn ama súgartha an chuntais Microsoft seo sroichte. Tá bac curtha ar logáil isteach an chuntais Microsoft seo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="146"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chuir Xbox cosc ar an gcuntas Microsoft seo mar gheall ar shárú ar Chaighdeán Pobail amháin nó níos mó do Xbox agus ní féidir é a úsáid.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an cuntas Microsoft seo srianta faoi láthair agus níor thug do chaomhnóir cead duit imirt ar líne. Logáil isteach i %1 agus iarr ar do chaomhnóir do cheadanna a athrú.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor ghlac an cuntas Microsoft seo le Téarmaí Seirbhíse Xbox. Logáil isteach agus glac leo le do thoil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="164"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Chríochnaigh fíordheimhniú XSTS le hearráid(í) anaithnid:
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -14372,18 +14556,18 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="15"/>
         <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag fáil próifíl Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="56"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar phróifíl Xbox a aisghabháil: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
         <source>Got Xbox profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuair mé próifíl Xbox</translation>
     </message>
 </context>
 <context>
@@ -14397,12 +14581,12 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar fhíordheimhniú úsáideora Xbox: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir freagra fíordheimhnithe úsáideora Xbox a thuiscint.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
