@@ -3606,12 +3606,12 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pronalaženje informacija o projektu sa CurseForge-a...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="319"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodavanje datoteka...</translation>
     </message>
 </context>
 <context>
@@ -3701,7 +3701,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="292"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoljašnji linkovi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="296"/>
