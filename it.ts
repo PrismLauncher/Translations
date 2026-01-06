@@ -905,7 +905,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Preview</source>
-        <translation>Previsione</translation>
+        <translation>Anteprima</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
@@ -1578,7 +1578,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation>Scegli Nome Offline</translation>
+        <translation>Scegli il tuo nome Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
@@ -1588,22 +1588,22 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation>Nome utente</translation>
+        <translation>Nome Utente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation>Un nome utente è valido solo se è di lunghezza compresa tra 3 e 16 caratteri e utilizza lettere inglesi, numeri e trattini bassi. Un nome utente non valido potrebbe impedire l&apos;accesso ai server e ai mondi in giocatore singolo.</translation>
+        <translation>Un nome utente è valido solo se è lungo dai 3 ai 16 caratteri e utilizza lettere non accentate, numeri, e trattini bassi. Un nome utente non valido potrebbe impedire l&apos;accesso ai server e ai mondi in giocatore singolo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation>Consente nomi utenti non validi</translation>
+        <translation>Consenti nomi utenti non validi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation>Annullare</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
@@ -3484,7 +3484,7 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: molti modpack FTB più recenti sono anche disponibili su CurseForge! Inoltre, se le tue istanze FTB non sono nella posizione predefinita, selezionala usando il pulsante a fianco alla ricerca.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -5535,7 +5535,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation>Scarica automaticamente Mojang e Java</translation>
+        <translation>Scarica automaticamente il Java di &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
@@ -5565,7 +5565,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation>O&amp;pzioni test</translation>
+        <translation>Controlla im&amp;postazioni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
@@ -9268,7 +9268,7 @@ Può essere aggiornato solo tramite file in formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"/>
         <source>Open &amp;Global Settings</source>
-        <translation>Impostazioni Aperte &amp;Global</translation>
+        <translation>Apri Impostazioni &amp;Globali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
@@ -9316,7 +9316,7 @@ Può essere aggiornato solo tramite file in formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation>Gioco &amp;Time</translation>
+        <translation>&amp;Tempo di gioco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
@@ -9331,12 +9331,12 @@ Può essere aggiornato solo tramite file in formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation>Mostra il tempo &amp;total di gioco indifferentemente dalle diverse istanze</translation>
+        <translation>Mostra il tempo di gioco &amp;totale tra tutte le istanze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"/>
         <source>Always show durations in &amp;hours</source>
-        <translation>Mostra sempre le durate in &amp;hours</translation>
+        <translation>Mostra sempre il tempo in &amp;ore</translation>
     </message>
     <message>
         <source>&amp;Console</source>
@@ -10242,7 +10242,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation>Hai bisogno di installare un mod loader compatibile prima di installare mod. Vuoi farlo?</translation>
+        <translation>Devi installare un mod loader compatibile prima di installare delle mod. Vuoi farlo adesso?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
@@ -13908,7 +13908,7 @@ L&apos;autore potrebbe aver bloccato i launcher di terze parti.</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation>Impossibile rinominare shader config da &apos;%1&apos; a &apos;%2&apos;</translation>
+        <translation>Impossibile rinominare configurazione shader da &apos;%1&apos; a &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -16279,7 +16279,7 @@ Si prega di selezionare per questa istanza una versione fra le seguenti:</transl
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="156"/>
         <source>Revert</source>
-        <translation>Annulla</translation>
+        <translation>Ripristina</translation>
     </message>
     <message>
         <source>Revert the selected package to default.</source>
@@ -16646,8 +16646,8 @@ Per favore aggiungi un account Microsoft.</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation>Stai per invertire &quot;%1&quot;.
-Questo è permanente e invertirà tutta la tua personalizzazione.
+        <translation>Stai per ripristinare &quot;%1&quot;.
+Questo è permanente e ripristinerà tutta la tua personalizzazione.
 
 Sei sicuro?</translation>
     </message>
