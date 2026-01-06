@@ -1593,7 +1593,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation>Un nome utente è valido solo se è lungo dai 3 ai 16 caratteri e utilizza lettere non accentate, numeri, e trattini bassi. Un nome utente non valido potrebbe impedire l&apos;accesso ai server e ai mondi in giocatore singolo.</translation>
+        <translation>Un nome utente è valido solo se è lungo dai 3 ai 16 caratteri e utilizza lettere non accentate, numeri e trattini bassi. Un nome utente non valido potrebbe impedire l&apos;accesso ai server e ai mondi in giocatore singolo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -9283,7 +9283,7 @@ Può essere aggiornato solo tramite file in formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
         <source>Game &amp;Window</source>
-        <translation>Gioco &amp;Window</translation>
+        <translation>Finestra di &amp;Gioco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
