@@ -10653,48 +10653,48 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="115"/>
         <source>List available releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الإصدارات المتاحة.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="116"/>
         <source>Log debug to console.</source>
-        <translation type="unfinished"></translation>
+        <translation>سجّل تصحيح الإخطاء إلى الطرفية.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="117"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر الإصدار لتحميله بواجهة المستخدم.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="118"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>اسمح للمحدث للرجوع إلى الإصدارات السابقة.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="303"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>نظام ماك غير مدعوم</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="303"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يدعم المحدث التثبيت على أنظمة ماك</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="310"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="323"/>
         <source>Unsupported Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت غير مدعوم</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="311"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>أيعمل المحدث ك ’أب إيمج’ سيء التكوين؟(متغير البيئة $APPIMAGE غير موجود)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="323"/>
         <source>The updater can not find the main executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتمكن المحدث من إيجاد الملف التنفيذي الرئيسي.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="202"/>
