@@ -375,22 +375,22 @@
         <translation>Zavřít</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>About %1</source>
         <translation>O programu %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="99"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <source>Platform</source>
         <translation>Platforma</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
         <translation>Revize: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
         <translation>Datum sestavení: %1</translation>
     </message>
@@ -399,7 +399,7 @@
         <translation type="vanished">Číslo sestavení</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="114"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="113"/>
         <source>Channel</source>
         <translation>Kanál</translation>
     </message>
@@ -2248,44 +2248,44 @@ Některé verze Minecraftu se nemusí spustit.
 <context>
     <name>DataPackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Enable</source>
         <translation>Povolit</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Image</source>
         <translation>Obrázek</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Name</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
         <translation>Formát balíčku</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
         <translation>Naposledy upraveno</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="77"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="75"/>
         <source>Unrecognized</source>
         <translation>Nerozpoznaný</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="103"/>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>ID formátu datového balíčku, společně s verzemi Minecraftu, pro které byl vytvořen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -2294,24 +2294,24 @@ Varování: Tento zdroj je symbolicky propojen odjinud. Jeho úpravou se změní
 Opravdová cesta: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="115"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="113"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i originál.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="151"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
         <translation>Je datový balíček povolen? (Platné pouze pro soubory ZIP)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
         <source>The name of the data pack.</source>
         <translation>Název datového balíčku.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
         <source>The date and time this data pack was last changed (or added).</source>
         <translation>Datum a čas, kdy byl tento datový balíček naposledy změněn (nebo přidán).</translation>
     </message>
@@ -5039,27 +5039,27 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
 <context>
     <name>InstanceWindow</name>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="57"/>
         <source>Console window for </source>
         <translation>Konzole pro </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="81"/>
         <source>Help</source>
         <translation>Nápověda</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
         <translation>&amp;Spustit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
         <translation>&amp;Ukončit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
@@ -5072,7 +5072,7 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
         <translation type="vanished">Spustit demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
         <source>Close</source>
         <translation>Zavřít</translation>
     </message>
@@ -5081,7 +5081,7 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
         <translation type="vanished">Ukončit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>Kill the running instance</source>
         <translation>Ukončit spuštěnou instanci</translation>
     </message>
@@ -5090,7 +5090,7 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
         <translation type="vanished">Spustit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>Launch the instance</source>
         <translation>Spustit vybranou instanci</translation>
     </message>
@@ -11652,17 +11652,17 @@ Jste si jisti?</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="353"/>
         <source>Aborted</source>
         <translation>Přerušeno</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="577"/>
         <source>Name</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="579"/>
         <source>Version</source>
         <translation>Verze</translation>
     </message>
@@ -12751,27 +12751,27 @@ Pokračovat se zkrácením?</translation>
         <translation>Knihovna %1 name je poškozena a nelze ji zpracovat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="182"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation>Soubor komponent %1 neexistuje. To by se nikdy nemělo stát.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="187"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation>Nepodařilo se otevřít %1 ke čtení: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="197"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation>Nepodařilo se zpracovat %1 jako JSON: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Neplatný komponent verze souboru, očekáván %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation>Nepodařilo se zpracovat %1 : špatný formát souboru</translation>
     </message>
@@ -12886,45 +12886,45 @@ Budete muset opravit %1 manuálně.
 Dejte nám prosím vědět jak a proč se toto stalo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="34"/>
+        <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
         <translation>%1min %2s</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="37"/>
+        <location filename="src/launcher/MMCTime.cpp" line="36"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
         <translation>%1h %2min</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="39"/>
+        <location filename="src/launcher/MMCTime.cpp" line="38"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
         <translation>%1d %2h %3min</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="76"/>
+        <location filename="src/launcher/MMCTime.cpp" line="75"/>
         <source>days</source>
         <translation>dní</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="81"/>
+        <location filename="src/launcher/MMCTime.cpp" line="80"/>
         <source>h</source>
         <translation>h</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="86"/>
+        <location filename="src/launcher/MMCTime.cpp" line="85"/>
         <source>m</source>
         <translation>m</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="91"/>
+        <location filename="src/launcher/MMCTime.cpp" line="90"/>
         <source>s</source>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="96"/>
+        <location filename="src/launcher/MMCTime.cpp" line="95"/>
         <source>ms</source>
         <translation>ms</translation>
     </message>
@@ -13550,44 +13550,44 @@ Přejete si pokračovat?</numerusform>
         <translation>Vytvořen zástupce %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="111"/>
         <source>Network error: %1</source>
         <translation>Chyba sítě: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="116"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>Chyba: %1 vrátil neočekávaný kód stavu %2 %3</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Nepodařilo se zpracovat odpověď ze serveru hastebin: byl očekáván JSON, ale byla obdržena neplatná odpověď. Chyba: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="140"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="167"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned a malformed response body</source>
         <translation>Chyba: %1 vrátil nesprávně formulované tělo odpovědi</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Nepodařilo se zpracovat odpověď ze serveru mclogs: byl očekáván JSON, ale byla obdržena neplatná odpověď. Chyba: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned an error: %2</source>
         <translation>Chyba: %1 vrátil chybu: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Nepodařilo se zpracovat odpověď ze serveru pasteGG: byl očekáván JSON, ale byla obdržena neplatná odpověď. Chyba: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
         <translation>Chyba: %1 vrátil kód chyby: %2
@@ -13610,17 +13610,17 @@ Chybová hláška: %3</translation>
         <translation> pro %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
         <translation>Vývojáři %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>MultiMC Developers</source>
         <translation>Vývojáři MultiMC</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="59"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>With special thanks to</source>
         <translation>Zvláštní poděkování</translation>
     </message>
@@ -14132,49 +14132,49 @@ Opravdu to chcete udělat?</translation>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="156"/>
         <source>Is the resource pack enabled?</source>
         <translation>Je balíček zdrojů povolen?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Enable</source>
         <translation>Povolit</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Image</source>
         <translation>Obrázek</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
         <translation>Naposledy upraveno</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Size</source>
         <translation>Velikost</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Provider</source>
         <translation>Poskytovatel</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="76"/>
         <source>Unrecognized</source>
         <translation>Nerozpoznaný</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="107"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="105"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="161"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>ID formátu balíčku zdrojů a také verze Minecraftu, pro které byl navržen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="112"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="110"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -14183,29 +14183,29 @@ Varování: Tento zdroj je symbolicky propojen odjinud. Jeho úpravou se změní
 Opravdová cesta: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="117"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i originál.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The source provider of the resource pack.</source>
         <translation>Zdrojový poskytovatel tohoto balíčku modifikací.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The size of the resource pack.</source>
         <translation>Velikost balíčku zdrojů.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Name</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
         <translation>Formát balíčku</translation>
     </message>
@@ -14218,7 +14218,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
         <translation type="vanished">Je balíček zdrojů povolen? (Platí pouze pro soubory ZIP)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
         <source>The name of the resource pack.</source>
         <translation>Název balíčku zdrojů.</translation>
     </message>
@@ -14227,7 +14227,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
         <translation type="vanished">Verze balíčku zdrojů.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>Datum a čas, kdy byl tento balíček zdrojů naposledy změněn (nebo přidán).</translation>
     </message>
@@ -17016,78 +17016,78 @@ Prosím, přidejte svůj Mojang nebo Minecraft účet.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="202"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation>Tento svět je symbolicky propojen odjinud.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="206"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="205"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
 Tento svět je pevně propojen odjinud.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="221"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>Varování: Tento svět je symbolicky propojen odjinud. Jeho úpravou se změní i originál.
 Opravdová cesta: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="226"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>Varování: Tento svět je pevně propojen odjinud. Jeho úpravou se změní i originál.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
         <source>Name</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
         <source>Game Mode</source>
         <translation>Typ hry</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
         <source>Last Played</source>
         <translation>Naposledy hráno</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Velikost</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="272"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>Informace</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
         <source>The name of the world.</source>
         <translation>Název světa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
         <source>Game mode of the world.</source>
         <translation>Typ hry.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
         <source>Date and time the world was last played.</source>
         <translation>Den nebo čas kdy byl tento svět naposledy spuštěn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Size of the world on disk.</source>
         <translation>Velikost světa na disku.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Information and warnings about the world.</source>
         <translation>Informace a varování o světě.</translation>
     </message>

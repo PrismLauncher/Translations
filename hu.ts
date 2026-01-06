@@ -383,17 +383,17 @@
         <translation>Bezárás</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>About %1</source>
         <translation>%1 névjegye</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
         <translation>Commit: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
         <translation>Build dátuma: %1</translation>
     </message>
@@ -402,7 +402,7 @@
         <translation type="vanished">Verzió</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="99"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <source>Platform</source>
         <translation>Platform</translation>
     </message>
@@ -411,7 +411,7 @@
         <translation type="vanished">Build szám</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="114"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="113"/>
         <source>Channel</source>
         <translation>Csatorna</translation>
     </message>
@@ -2253,44 +2253,44 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
 <context>
     <name>DataPackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Enable</source>
         <translation>Engedélyezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Image</source>
         <translation>Kép</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Name</source>
         <translation>Név</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
         <translation>Csomag formátum</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
         <translation>Utoljára módosítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="77"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="75"/>
         <source>Unrecognized</source>
         <translation>Ismeretlen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="103"/>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>Az adatcsomag formátumának azonosítója, valamint a Minecraft-verziók, amelyekhez készült.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -2299,24 +2299,24 @@ Figyelmeztetés: Ez az erőforrás szimbolikusan máshonnan kapcsolódik. A szer
 Kanonikus elérési út: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="115"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="113"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az eredeti is megváltozik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="151"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
         <translation>Az adatcsomag engedélyezve van? (Csak ZIP-ek esetén érvényes)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
         <source>The name of the data pack.</source>
         <translation>Az adatcsomag neve.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
         <source>The date and time this data pack was last changed (or added).</source>
         <translation>Az adatcsomag utolsó módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
@@ -5015,27 +5015,27 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
 <context>
     <name>InstanceWindow</name>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="57"/>
         <source>Console window for </source>
         <translation>Konzol ablak: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="81"/>
         <source>Help</source>
         <translation>Súgó</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
         <translation>Indítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
         <translation>Megölés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
@@ -5048,7 +5048,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
         <translation type="vanished">Demo indítása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
         <source>Close</source>
         <translation>Bezárás</translation>
     </message>
@@ -5057,7 +5057,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
         <translation type="vanished">Megölés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>Kill the running instance</source>
         <translation>Futó példány megölése</translation>
     </message>
@@ -5066,7 +5066,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
         <translation type="vanished">Indítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>Launch the instance</source>
         <translation>Példány indítása</translation>
     </message>
@@ -11597,17 +11597,17 @@ Biztos vagy ebben?</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="353"/>
         <source>Aborted</source>
         <translation>Megszakítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="577"/>
         <source>Name</source>
         <translation>Név</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="579"/>
         <source>Version</source>
         <translation>Verzió</translation>
     </message>
@@ -12701,27 +12701,27 @@ Hibaüzenet: %1</translation>
         <translation>A(z) %1 könyvtár neve elromlott, és nem dolgozható fel.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="182"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation>A(z) %1 összetevőfájl nem létezik. Ennek soha nem szabadna megtörténnie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="187"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation>A(z) %1 nem nyitható meg olvasásra: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="197"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation>A(z) %1 nem elemezhető json-ként: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Érvénytelen összetevőfájl-verzió, várt %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation>Nem sikerült elemezni a(z) %1 : rossz fájlformátum</translation>
     </message>
@@ -12836,45 +12836,45 @@ A %1-et manuálisan kell javítania.
 Kérjük, tájékoztasson minket, hogy miért és hogyan történt ez.</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="34"/>
+        <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
         <translation>%1 perc %2 mp.</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="37"/>
+        <location filename="src/launcher/MMCTime.cpp" line="36"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
         <translation>%1 óra %2 perc</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="39"/>
+        <location filename="src/launcher/MMCTime.cpp" line="38"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
         <translation>%1 nap %2 óra %3 perc</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="76"/>
+        <location filename="src/launcher/MMCTime.cpp" line="75"/>
         <source>days</source>
         <translation>napok</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="81"/>
+        <location filename="src/launcher/MMCTime.cpp" line="80"/>
         <source>h</source>
         <translation>óra</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="86"/>
+        <location filename="src/launcher/MMCTime.cpp" line="85"/>
         <source>m</source>
         <translation>perc</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="91"/>
+        <location filename="src/launcher/MMCTime.cpp" line="90"/>
         <source>s</source>
         <translation>mp.</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="96"/>
+        <location filename="src/launcher/MMCTime.cpp" line="95"/>
         <source>ms</source>
         <translation>ms</translation>
     </message>
@@ -13486,44 +13486,44 @@ Szeretnéd folytatni?</numerusform>
         <translation>A(z) %1 parancsikon létrehozva!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="111"/>
         <source>Network error: %1</source>
         <translation>Hálózati hiba: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="116"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>Hiba: A(z) %1 váratlan állapotkódot adott vissza %2 %3</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Nem sikerült feldolgozni a hastebin szerver válaszát: JSON-t vártunk, de érvénytelen választ kaptunk. Hiba: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="140"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="167"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned a malformed response body</source>
         <translation>Hiba: A(z) %1 helytelenül formázott választörzset adott vissza</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Nem sikerült feldolgozni az mclogs szerver válaszát: JSON-t vártunk, de érvénytelen választ kaptunk. Hiba: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned an error: %2</source>
         <translation>Hiba: A(z) %1 hibát adott vissza: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Nem sikerült feldolgozni a pasteGG szerver válaszát: JSON-t vártunk, de érvénytelen választ kaptunk. Hiba: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
         <translation>Hiba: A(z) %1 hibakódot adott vissza: %2
@@ -13546,17 +13546,17 @@ Hibaüzenet: %3</translation>
         <translation> ehhez: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
         <translation>%1 fejlesztői</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>MultiMC Developers</source>
         <translation>MultiMC fejlesztői</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="59"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>With special thanks to</source>
         <translation>Külön köszönet</translation>
     </message>
@@ -14068,49 +14068,49 @@ Biztosan ezt akarod csinálni?</translation>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="156"/>
         <source>Is the resource pack enabled?</source>
         <translation>A forráscsomag engedélyezve van?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Enable</source>
         <translation>Engedélyezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Image</source>
         <translation>Kép</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
         <translation>Utoljára módosítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Size</source>
         <translation>Méret</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Provider</source>
         <translation>Szolgáltató</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="76"/>
         <source>Unrecognized</source>
         <translation>Ismeretlen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="107"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="105"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="161"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>A forráscsomag formátumazonosítója, valamint a Minecraft verziók, amelyekhez tervezték.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="112"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="110"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -14119,29 +14119,29 @@ Figyelmeztetés: Ez az erőforrás szimbolikusan máshonnan kapcsolódik. A szer
 Kanonikus elérési út: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="117"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az eredeti is megváltozik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The source provider of the resource pack.</source>
         <translation>A forráscsomag szolgáltatója.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The size of the resource pack.</source>
         <translation>A forráscsomag mérete.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Name</source>
         <translation>Név</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
         <translation>Csomag formátum</translation>
     </message>
@@ -14154,7 +14154,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
         <translation type="vanished">Az erőforráscsomag engedélyezve van? (Csak ZIP fájlokra érvényes)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
         <source>The name of the resource pack.</source>
         <translation>A forráscsomag neve.</translation>
     </message>
@@ -14163,7 +14163,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
         <translation type="vanished">Az erőforráscsomag verziója.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>A forráscsomag legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
@@ -16938,78 +16938,78 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="202"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation>Ez a világ szimbolikusan van összekapcsolva máshonnan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="206"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="205"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
 Ez a világ hard linkelve van máshova.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="221"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>Figyelmeztetés: Ez a világ szimbolikusan van összekapcsolva máshonnan. A szerkesztéssel az eredeti is megváltozik.
 Kanonikus elérési út: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="226"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>Figyelmeztetés: Ez a világ hard linkelve van máshova. A szerkesztéssel az eredeti is megváltozik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
         <source>Name</source>
         <translation>Név</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
         <source>Game Mode</source>
         <translation>Játékmód</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
         <source>Last Played</source>
         <translation>Utoljára játszva</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Méret</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="272"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>Információ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
         <source>The name of the world.</source>
         <translation>A világ neve.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
         <source>Game mode of the world.</source>
         <translation>A világ játékmódja.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
         <source>Date and time the world was last played.</source>
         <translation>A világ legutóbbi játszásának dátuma és ideje.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Size of the world on disk.</source>
         <translation>Világ mérete a lemezen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Information and warnings about the world.</source>
         <translation>Információk és figyelmeztetések a világról.</translation>
     </message>

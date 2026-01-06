@@ -371,27 +371,27 @@
         <translation>மூடு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>About %1</source>
         <translation>சுமார் %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="99"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <source>Platform</source>
         <translation>இயங்குதளம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
         <translation>கமிட்: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
         <translation>உருவாக்க தேதி: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="114"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="113"/>
         <source>Channel</source>
         <translation>வாய்க்கால்</translation>
     </message>
@@ -1981,44 +1981,44 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
 <context>
     <name>DataPackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Enable</source>
         <translation>இயக்கு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Image</source>
         <translation>படம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Name</source>
         <translation>பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
         <translation>பேக் வடிவம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
         <translation>கடைசியாக மாற்றப்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="77"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="75"/>
         <source>Unrecognized</source>
         <translation>அங்கீகரிக்கப்படாத</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="103"/>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>டேட்டா பேக் வடிவமைப்பு அடையாளம், அத்துடன் அது வடிவமைக்கப்பட்ட Minecraft பதிப்புகள்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -2027,24 +2027,24 @@ Canonical Path: %1</source>
 நியமன பாதை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="115"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="113"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 எச்சரிக்கை: இந்த சான்று வேறு இடங்களில் கடினமாக இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="151"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
         <translation>டேட்டா பேக் இயக்கப்பட்டதா? (சிப்சுக்கு மட்டுமே செல்லுபடியாகும்)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
         <source>The name of the data pack.</source>
         <translation>டேட்டா பேக்கின் பெயர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
         <source>The date and time this data pack was last changed (or added).</source>
         <translation>இந்த தரவு பேக் கடைசியாக மாற்றப்பட்டது (அல்லது சேர்க்கப்பட்டது).</translation>
     </message>
@@ -4290,42 +4290,42 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceWindow</name>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="57"/>
         <source>Console window for </source>
         <translation>கன்சோல் சாளரம் </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="81"/>
         <source>Help</source>
         <translation>உதவி</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
         <translation>&amp; ஏவுதல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
         <translation>&amp; கொலை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+k</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
         <source>Close</source>
         <translation>மூடு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>Kill the running instance</source>
         <translation>இயங்கும் நிகழ்வைக் கொல்லுங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>Launch the instance</source>
         <translation>உதாரணத்தைத் தொடங்கவும்</translation>
     </message>
@@ -9604,17 +9604,17 @@ Are you sure?</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="353"/>
         <source>Aborted</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="577"/>
         <source>Name</source>
         <translation>பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="579"/>
         <source>Version</source>
         <translation>பதிப்பு</translation>
     </message>
@@ -10576,27 +10576,27 @@ HTTP நிலை: %2</translation>
         <translation>நூலகம் %1 பெயர் உடைந்துவிட்டது மற்றும் செயலாக்க முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="182"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation>கூறுகள் கோப்பு %1 இல்லை. இது ஒருபோதும் நடக்கக்கூடாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="187"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation>வாசிப்புக்கு %1 ஐ திறக்க முடியவில்லை: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="197"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation>சாதொபொகு ஆக %1 ஐ அலச முடியவில்லை: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
         <source>Invalid component file version, expected %1</source>
         <translation>தவறான கூறு கோப்பு பதிப்பு, எதிர்பார்க்கப்படும் %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation>%1 ஐ பாகுபடுத்த முடியவில்லை: மோசமான கோப்பு வடிவம்</translation>
     </message>
@@ -10783,45 +10783,45 @@ Proceed with truncation?</source>
         <translation>இருண்ட</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="34"/>
+        <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
         <translation>%1min %2s</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="37"/>
+        <location filename="src/launcher/MMCTime.cpp" line="36"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
         <translation>%1H %2min</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="39"/>
+        <location filename="src/launcher/MMCTime.cpp" line="38"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
         <translation>1 %d % %</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="76"/>
+        <location filename="src/launcher/MMCTime.cpp" line="75"/>
         <source>days</source>
         <translation>நாட்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="81"/>
+        <location filename="src/launcher/MMCTime.cpp" line="80"/>
         <source>h</source>
         <translation>ம</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="86"/>
+        <location filename="src/launcher/MMCTime.cpp" line="85"/>
         <source>m</source>
         <translation>மீ</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="91"/>
+        <location filename="src/launcher/MMCTime.cpp" line="90"/>
         <source>s</source>
         <translation>கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="96"/>
+        <location filename="src/launcher/MMCTime.cpp" line="95"/>
         <source>ms</source>
         <translation>எம்.எச்</translation>
     </message>
@@ -11345,44 +11345,44 @@ Do you wish to proceed?</source>
         <translation>இந்த %1 க்கு குறுக்குவழியை உருவாக்கியது!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="111"/>
         <source>Network error: %1</source>
         <translation>பிணைய பிழை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="116"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>பிழை: %1 எதிர்பாராத நிலைக் குறியீடு %2 %3 திரும்பியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
         <translation>ஆச்டிபின் சேவையகத்திலிருந்து பதிலை அலசத் தவறிவிட்டது: சாதொபொகு ஐ எதிர்பார்க்கப்படுகிறது, ஆனால் தவறான பதிலைப் பெற்றது. பிழை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="140"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="167"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned a malformed response body</source>
         <translation>பிழை: %1 ஒரு தவறான மறுமொழி உடலை வழங்கியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
         <translation>MCLOGS சேவையகத்திலிருந்து பதிலை அலசத் தவறிவிட்டது: சாதொபொகு ஐ எதிர்பார்க்கப்படுகிறது, ஆனால் தவறான பதிலைப் பெற்றது. பிழை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned an error: %2</source>
         <translation>பிழை: %1 ஒரு பிழையை அளித்தது: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
         <translation>பேச்டெக் சேவையகத்திலிருந்து பதிலை அலசத் தவறிவிட்டது: எதிர்பார்க்கப்படும் சாதொபொகு ஆனால் தவறான பதிலைப் பெற்றது. பிழை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
         <translation>பிழை: %1 பிழைக் குறியீட்டைத் திருப்பியது: %2 
@@ -11405,17 +11405,17 @@ Error message: %3</source>
         <translation> %1 க்கு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
         <translation type="unfinished">%1 உருவாக்குபவர்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>MultiMC Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="59"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>With special thanks to</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11907,44 +11907,44 @@ Are you sure you want to do this?</source>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Enable</source>
         <translation>இயக்கு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Image</source>
         <translation>படம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
         <translation>கடைசியாக மாற்றப்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Size</source>
         <translation>அளவு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Provider</source>
         <translation>வழங்குநர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="76"/>
         <source>Unrecognized</source>
         <translation>அங்கீகரிக்கப்படாத</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="107"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="105"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="161"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>வள பேக் வடிவமைப்பு ஐடி, அத்துடன் அது வடிவமைக்கப்பட்ட Minecraft பதிப்புகள்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="112"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="110"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -11953,44 +11953,44 @@ Canonical Path: %1</source>
  நியமன பாதை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="117"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 எச்சரிக்கை: இந்த சான்று வேறு இடங்களில் கடினமாக இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="156"/>
         <source>Is the resource pack enabled?</source>
         <translation>வள பேக் இயக்கப்பட்டதா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The source provider of the resource pack.</source>
         <translation>வள பொதியின் மூல வழங்குநர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The size of the resource pack.</source>
         <translation>வள பொதியின் அளவு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Name</source>
         <translation>பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
         <translation>பேக் வடிவம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
         <source>The name of the resource pack.</source>
         <translation>வள பொதியின் பெயர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>இந்த வள பேக் கடைசியாக மாற்றப்பட்டது (அல்லது சேர்க்கப்பட்டது).</translation>
     </message>
@@ -14302,78 +14302,78 @@ Are you sure?</source>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="202"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation>இந்த உலகம் அடையாளமாக வேறு இடங்களிலிருந்து இணைக்கப்பட்டுள்ளது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="206"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="205"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
 இந்த உலகம் வேறு இடங்களில் கடினமாக இணைக்கப்பட்டுள்ளது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="221"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>எச்சரிக்கை: இந்த உலகம் அடையாளமாக வேறு இடங்களிலிருந்து இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.
  நியமன பாதை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="226"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>எச்சரிக்கை: இந்த உலகம் வேறு இடங்களில் கடினமாக இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
         <source>Name</source>
         <translation>பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
         <source>Game Mode</source>
         <translation>விளையாட்டு முறை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
         <source>Last Played</source>
         <translation>கடைசியாக விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>அளவு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="272"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>தகவல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
         <source>The name of the world.</source>
         <translation>உலகின் பெயர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
         <source>Game mode of the world.</source>
         <translation>உலகின் விளையாட்டு முறை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
         <source>Date and time the world was last played.</source>
         <translation>உலகம் கடைசியாக விளையாடிய தேதி மற்றும் நேரம்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Size of the world on disk.</source>
         <translation>வட்டில் உலகின் அளவு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Information and warnings about the world.</source>
         <translation>உலகத்தைப் பற்றிய தகவல்கள் மற்றும் எச்சரிக்கைகள்.</translation>
     </message>

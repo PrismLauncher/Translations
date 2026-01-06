@@ -383,22 +383,22 @@
         <translation>Sluiten</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>About %1</source>
         <translation>Over %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="99"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <source>Platform</source>
         <translation>Platform</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
         <translation>Commit: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
         <translation>Bouwdatum: %1</translation>
     </message>
@@ -407,7 +407,7 @@
         <translation type="vanished">Bouwnummer</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="114"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="113"/>
         <source>Channel</source>
         <translation>Kanaal</translation>
     </message>
@@ -2216,44 +2216,44 @@ Sommige versies van Minecraft starten mogelijk niet op.
 <context>
     <name>DataPackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Enable</source>
         <translation>Inschakelen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Image</source>
         <translation>Afbeelding</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Name</source>
         <translation>Naam</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
         <translation>Pakketformaat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
         <translation>Laatst gewijzigd</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="77"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="75"/>
         <source>Unrecognized</source>
         <translation>Niet herkend</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="103"/>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>Het datapakketformaat-ID en de minecraftversie waarvoor het gemaakt is.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -2262,24 +2262,24 @@ Waarschuwing: Deze bron is van ergens anders symbolisch gekoppeld. Aanpassen ver
 Canoniek Pad: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="115"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="113"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Waarschuwing: deze bron is ergens anders hard gekoppeld. Als u deze bewerkt, wordt ook het origineel gewijzigd.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="151"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
         <translation>Is de datapack ingeschakeld? (Allen geldig voor ZIPs)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
         <source>The name of the data pack.</source>
         <translation>De naam van de datapack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
         <source>The date and time this data pack was last changed (or added).</source>
         <translation>De datum en tijd wanneer deze data-pack het laatst was aangepast (of toegevoegd).</translation>
     </message>
@@ -4964,27 +4964,27 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
 <context>
     <name>InstanceWindow</name>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="57"/>
         <source>Console window for </source>
         <translation>Consolescherm van </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="81"/>
         <source>Help</source>
         <translation>Help</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
         <translation>&amp;Starten</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
         <translation>&amp;Afbreken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
@@ -4997,7 +4997,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
         <translation type="vanished">Demo starten</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
         <source>Close</source>
         <translation>Sluiten</translation>
     </message>
@@ -5006,7 +5006,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
         <translation type="vanished">Afbreken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>Kill the running instance</source>
         <translation>Breek het lopende proces af</translation>
     </message>
@@ -5015,7 +5015,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
         <translation type="vanished">Starten</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>Launch the instance</source>
         <translation>Start de instantie</translation>
     </message>
@@ -11388,17 +11388,17 @@ Weet u het zeker?</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="353"/>
         <source>Aborted</source>
         <translation>Geannuleerd</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="577"/>
         <source>Name</source>
         <translation>Naam</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="579"/>
         <source>Version</source>
         <translation>Versie</translation>
     </message>
@@ -12477,27 +12477,27 @@ Doorgaan met inkorten?</translation>
         <translation>Bibliotheeknaam %1 is ongeldig en kan niet worden verwerkt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="182"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation>Componenten bestand %1 bestaat niet. Dit zou nooit mogen voorkomen...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="187"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation>Kon %1 niet openen om te lezen: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="197"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation>Kon %1 niet doorgeven als json: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Ongeldige onderdeelbestands-versie, verwachtte %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation>Kon %1 niet doorgeven: fout bestandsformaat</translation>
     </message>
@@ -12612,45 +12612,45 @@ U zult %1 handmatig moeten repareren.
 Laat ons weten hoe en waarom dit is gebeurd.</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="34"/>
+        <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
         <translation>%1min %2s</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="37"/>
+        <location filename="src/launcher/MMCTime.cpp" line="36"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
         <translation>%1u %2min</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="39"/>
+        <location filename="src/launcher/MMCTime.cpp" line="38"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
         <translation>%1d %2u %3min</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="76"/>
+        <location filename="src/launcher/MMCTime.cpp" line="75"/>
         <source>days</source>
         <translation>dagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="81"/>
+        <location filename="src/launcher/MMCTime.cpp" line="80"/>
         <source>h</source>
         <translation>h</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="86"/>
+        <location filename="src/launcher/MMCTime.cpp" line="85"/>
         <source>m</source>
         <translation>m</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="91"/>
+        <location filename="src/launcher/MMCTime.cpp" line="90"/>
         <source>s</source>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="96"/>
+        <location filename="src/launcher/MMCTime.cpp" line="95"/>
         <source>ms</source>
         <translation>ms</translation>
     </message>
@@ -13269,44 +13269,44 @@ Wenst u door te gaan?</numerusform>
         <translation>Snelkoppeling naar deze %1 aangemaakt!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="111"/>
         <source>Network error: %1</source>
         <translation>Netwerkfout: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="116"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>Fout: %1 heeft onverwachte statuscode %2 %3 gegeven</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Antwoord verwerken van hastebin server is mislukt. Verwachtte JSON, maar kreeg een ongeldig antwoord. Fout: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="140"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="167"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned a malformed response body</source>
         <translation>Fout: %1 heeft een onjuist gevormde antwoordtekst teruggestuurd</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Antwoord verwerken van mclogs server is mislukt. Verwachtte JSON, maar kreeg een ongeldig antwoord. Fout: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned an error: %2</source>
         <translation>Fout: %1 heeft een fout gegeven: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Antwoord verwerken van pasteGG server is mislukt. Verwachtte JSON, maar kreeg een ongeldig antwoord. Fout: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
         <translation>Fout: %1 heeft de volgende foutcode terug gegeven: %2
@@ -13329,17 +13329,17 @@ Foutmelding: %3</translation>
         <translation> voor %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
         <translation>%1 ontwikkelaars</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>MultiMC Developers</source>
         <translation>MultiMC-ontwikkelaars</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="59"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>With special thanks to</source>
         <translation>Speciale dank aan</translation>
     </message>
@@ -13851,49 +13851,49 @@ Weet je zeker dat je dit wilt doen?</translation>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="156"/>
         <source>Is the resource pack enabled?</source>
         <translation>Is het bronpakket ingeschakeld?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Enable</source>
         <translation>Aanzetten</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Image</source>
         <translation>Afbeelding</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
         <translation>Laatst Gewijzigd</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Size</source>
         <translation>Grootte</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Provider</source>
         <translation>Dienst</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="76"/>
         <source>Unrecognized</source>
         <translation>Niet herkend</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="107"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="105"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="161"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>Het format-ID van het resourcepakket en de Minecraft versie waarvoor deze ontwikkeld is.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="112"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="110"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13902,29 +13902,29 @@ Waarschuwing: Deze bron is al ergens anders symbolisch gelinkt. Hem bijwerken za
 Canoniek Pad: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="117"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook de originele veranderen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The source provider of the resource pack.</source>
         <translation>De brondienst van de resourcepack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The size of the resource pack.</source>
         <translation>De grootte van een resourcepack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Name</source>
         <translation>Naam</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
         <translation>Pakket-format</translation>
     </message>
@@ -13937,7 +13937,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
         <translation type="vanished">Is het resourcepakket ingeschakeld? (Geld alleen voor zipbestanden)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
         <source>The name of the resource pack.</source>
         <translation>De naam van het bronpakket.</translation>
     </message>
@@ -13946,7 +13946,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
         <translation type="vanished">De versie van het bronpakket.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>De datum en tijd waarop dit bronpakket voor het laatst is gewijzigd (of toegevoegd).</translation>
     </message>
@@ -16716,78 +16716,78 @@ Voeg uw Mojang of Minecraft-account toe.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="202"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation>Deze wereld is al ergens anders symbolisch gelinkt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="206"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="205"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
 Deze wereld is al ergens anders hard gelinkt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="221"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>Waarschuwing: Deze wereld is al ergens anders symbolisch gelinkt. Hem bijwerken zal ook de originele veranderen.
 Canoniek Pad: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="226"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>Waarschuwing: Deze wereld is al ergens anders hard gelinkt. Hem bijwerken zal ook de originele veranderen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
         <source>Name</source>
         <translation>Naam</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
         <source>Game Mode</source>
         <translation>Spelmodus</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
         <source>Last Played</source>
         <translation>Laatst gespeeld</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Grootte</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="272"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>Informatie</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
         <source>The name of the world.</source>
         <translation>De naam van de wereld.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
         <source>Game mode of the world.</source>
         <translation>Spelmodus van de wereld.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
         <source>Date and time the world was last played.</source>
         <translation>Datum en tijd waarop de wereld voor het laatst werd gespeeld.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Size of the world on disk.</source>
         <translation>Grootte van wereld op schijf.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Information and warnings about the world.</source>
         <translation>Informatie en waarschuwing over de wereld.</translation>
     </message>

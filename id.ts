@@ -375,22 +375,22 @@
         <translation>Tutup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>About %1</source>
         <translation>Tentang %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="99"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <source>Platform</source>
         <translation>Platform</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
         <translation>Komit: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
         <translation>Tanggal bentukan: %1</translation>
     </message>
@@ -399,7 +399,7 @@
         <translation type="vanished">Nomor Bentukan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="114"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="113"/>
         <source>Channel</source>
         <translation>Saluran</translation>
     </message>
@@ -2237,44 +2237,44 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
 <context>
     <name>DataPackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Enable</source>
         <translation>Aktifkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Image</source>
         <translation>Gambar</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Name</source>
         <translation>Nama</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
         <translation>Format Pack</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
         <translation>Terakhir Dimodifikasi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="77"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="75"/>
         <source>Unrecognized</source>
         <translation>Tidak diketahui</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="103"/>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>ID format data pack, serta untuk versi Minecraft apa itu dibuat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -2283,24 +2283,24 @@ Peringatan: Sumber daya ini secara simbolis terkait dari tempat lain. Menyunting
 Canonical Path: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="115"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="113"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan mengubah yang asli.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="151"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
         <translation>Apakah data pack diaktifkan? (Hanya berlaku untuk ZIP)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
         <source>The name of the data pack.</source>
         <translation>Nama data pack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
         <source>The date and time this data pack was last changed (or added).</source>
         <translation>Tanggal dan waktu data pack ini terakhir diubah (atau ditambahkan).</translation>
     </message>
@@ -4887,27 +4887,27 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
 <context>
     <name>InstanceWindow</name>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="57"/>
         <source>Console window for </source>
         <translation>Jendela konsol untuk </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="81"/>
         <source>Help</source>
         <translation>Bantuan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
         <translation>Ja&amp;lankan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
         <translation>Matikan (&amp;K)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
@@ -4916,7 +4916,7 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
         <translation type="vanished">Jalankan secara Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
         <source>Close</source>
         <translation>Tutup</translation>
     </message>
@@ -4925,7 +4925,7 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
         <translation type="vanished">Matikan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>Kill the running instance</source>
         <translation>Matikan instansi yang sedang berjalan</translation>
     </message>
@@ -4934,7 +4934,7 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
         <translation type="vanished">Jalankan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>Launch the instance</source>
         <translation>Jalankan instansi</translation>
     </message>
@@ -11048,17 +11048,17 @@ Apakah Anda yakin?</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="353"/>
         <source>Aborted</source>
         <translation>Dibatalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="577"/>
         <source>Name</source>
         <translation>Nama</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="579"/>
         <source>Version</source>
         <translation>Versi</translation>
     </message>
@@ -12137,27 +12137,27 @@ Lanjutkan dengan pemotongan?</translation>
         <translation>Nama perpustakaan %1 rusak dan tidak bisa diproses.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="182"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation>Berkas komponen %1 tidak ada. Hal ini seharusnya tidak pernah terjadi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="187"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation>Tidak dapat membuka %1 untuk membaca: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="197"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation>Tidak dapat mengurai %1 sebagai json: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Versi file komponen tidak valid, diharapkan %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation>Tidak dapat mengurai %1: format file salah</translation>
     </message>
@@ -12252,45 +12252,45 @@ Roll back to previous version?</source>
 Kembalikan ke versi sebelumnya?</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="34"/>
+        <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
         <translation>%1 menit %2 detik</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="37"/>
+        <location filename="src/launcher/MMCTime.cpp" line="36"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
         <translation>%1 jam %2 menit</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="39"/>
+        <location filename="src/launcher/MMCTime.cpp" line="38"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
         <translation>%1 hari %2 jam %3 menit</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="76"/>
+        <location filename="src/launcher/MMCTime.cpp" line="75"/>
         <source>days</source>
         <translation>hari</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="81"/>
+        <location filename="src/launcher/MMCTime.cpp" line="80"/>
         <source>h</source>
         <translation>h</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="86"/>
+        <location filename="src/launcher/MMCTime.cpp" line="85"/>
         <source>m</source>
         <translation>m</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="91"/>
+        <location filename="src/launcher/MMCTime.cpp" line="90"/>
         <source>s</source>
         <translation>detik</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="96"/>
+        <location filename="src/launcher/MMCTime.cpp" line="95"/>
         <source>ms</source>
         <translation>ms</translation>
     </message>
@@ -12878,44 +12878,44 @@ Apakah kamu ingin lanjut?</numerusform>
         <translation>Berhasil membuat pintasan dari %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="111"/>
         <source>Network error: %1</source>
         <translation>Kesalahan jaringan: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="116"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>Kesalahan: %1 mengembalikan kode status tak terduga %2 %3</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Gagal untuk menulis respon dari server hastebin: harus JSON tapi mendapat respon invalid. Error: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="140"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="167"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned a malformed response body</source>
         <translation>Kesalahan: %1 mengembalikan tubuh respons cacat</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Gagal untuk menulis respon dari server mclogs: harus JSON tapi mendapat respon invalid. Error: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned an error: %2</source>
         <translation>Kesalahan: %1 mengembalikan sebuah kesalahan: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Gagal untuk menulis respon dari server pasteGG: harus JSON tapi mendapat respon invalid. Error: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
         <translation>Kesalahan: %1 mengembalikan sebuah kode kesalahan: %2
@@ -12938,17 +12938,17 @@ Pesan kesalahan: %3</translation>
         <translation> .untuk %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
         <translation>Pengembang-pengembang %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>MultiMC Developers</source>
         <translation>Pengembang MultiMC</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="59"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>With special thanks to</source>
         <translation>Dengan terima kasih spesial kepada</translation>
     </message>
@@ -13456,49 +13456,49 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="156"/>
         <source>Is the resource pack enabled?</source>
         <translation>Apakah pak sumber dipakai?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Enable</source>
         <translation>Aktifkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Image</source>
         <translation>Gambar</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
         <translation>Terakhir Diubah</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Size</source>
         <translation>Ukuran Berkas</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Provider</source>
         <translation>Penyedia</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="76"/>
         <source>Unrecognized</source>
         <translation>Tidak diketahui</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="107"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="105"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="161"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>ID format paket sumber daya, serta versi Minecraft yang diperuntukkan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="112"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="110"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13507,29 +13507,29 @@ Peringatan: Resource ini secara simbolis ditautkan dari tempat lain. Menyunting 
 Path kanonis: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="117"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan mengubah yang asli.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The source provider of the resource pack.</source>
         <translation>Penyedia sumber dari paket sumber daya.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The size of the resource pack.</source>
         <translation>Ukuran dari paket sumber daya.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Name</source>
         <translation>Nama</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
         <translation>Format Paket</translation>
     </message>
@@ -13542,12 +13542,12 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
         <translation type="vanished">Apakah paket sumber daya aktif? (Hanya berlaku untuk ZIP-ZIP)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
         <source>The name of the resource pack.</source>
         <translation>Nama paket sumber daya.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>Tanggal dan waktu paket sumber daya ini terakhir diubah (atau ditambahkan).</translation>
     </message>
@@ -16264,78 +16264,78 @@ Mohon tambahkan akun Mojang atau Minecraft anda.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="202"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation>Dunia ini secara simbolis ditautkan dari tempat lain.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="206"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="205"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
 Dunia ini telah disambungkeraskan di tempat lain.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="221"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>Peringatan: Dunia ini secara simbolis ditautkan dari tempat lain. Menyunting akan juga mengubah yang asli.
 Path kanonis: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="226"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>Perhatian: Dunia ini telah disambungkeraskan di tempat lain. Mengubah ini juga akan mengubah yang asli.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
         <source>Name</source>
         <translation>Nama</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
         <source>Game Mode</source>
         <translation>Mode Game</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
         <source>Last Played</source>
         <translation>Terakhir kali dimainkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Ukuran</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="272"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>Informasi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
         <source>The name of the world.</source>
         <translation>Nama dunia.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
         <source>Game mode of the world.</source>
         <translation>Mode Game dunia.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
         <source>Date and time the world was last played.</source>
         <translation>Tanggal dan waktu dunia terakhir dimainkan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Size of the world on disk.</source>
         <translation>Ukuran dunia di disk.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Information and warnings about the world.</source>
         <translation>Informasi dan peringatan mengenai dunia.</translation>
     </message>
