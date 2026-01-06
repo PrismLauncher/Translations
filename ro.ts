@@ -3427,7 +3427,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notă: Foarte multe modpackuri FTB sunt deasemenea disponibile pe CurseForge! Deasemenea, dacă instanțele tale FTB nu sunt în locația implicită, selectează-l folosind butonul de lângă cel de căutare.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
