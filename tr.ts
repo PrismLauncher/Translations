@@ -12198,57 +12198,51 @@ Bu kilidin üzerine yazmak ve yine de bu güncellemeye devam etmek için aşağ�
         <translation>%1 kaldırılamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1082"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>Aşağıdakiler &quot;%1 &quot;e çıkarıldı:
   %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1086"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1083"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1085"/>
         <source>Failed to extract %1 to %2</source>
         <translation>%1&apos;den %2&apos;ye çıkarma işlemi başarısız oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1093"/>
         <source>Running: `%1 %2`</source>
         <translation>Çalışıyor: `%1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1097"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
         <translation>&quot;%1 %2&quot; alt süreci başlatılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed extract archive</source>
         <translation>Arşiv ayıklama başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1106"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>Alt süreç &quot;%1 %2&quot; başarısız oldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1108"/>
         <source>Failed to extract archive</source>
         <translation>Arşiv ayıklama başarısız oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1113"/>
         <source>Unknown archive format for %1</source>
         <translation>Bilinmeyen arşiv biçimi %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Failed to Check Version</source>
         <translation>Sürüm Kontrolü Başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed to launch child process to read version.</source>
         <translation>Sürüm okumak için alt süreç başlatılamadı.</translation>
     </message>
@@ -12257,7 +12251,7 @@ Bu kilidin üzerine yazmak ve yine de bu güncellemeye devam etmek için aşağ�
         <translation type="vanished">Sürüm okumak için alt başlatıcı işlemi başlatılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Child launcher process failed.</source>
         <translation>Çocuk başlatıcı işlemi başarısız oldu.</translation>
     </message>

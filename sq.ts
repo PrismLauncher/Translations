@@ -1896,7 +1896,7 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Asnjë version nuk është i disponueshëm aktualisht për Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2893,7 +2893,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kerko dhe filtro...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
@@ -3163,7 +3163,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="94"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versioni i zgjedhur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
@@ -3180,7 +3180,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kerko dhe filtro...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
@@ -3594,7 +3594,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="44"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Asnjë version nuk është i disponueshëm aktualisht për Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4977,7 +4977,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kerko dhe filtro...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
@@ -5007,7 +5007,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versioni i zgjedhur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
@@ -7546,12 +7546,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kerko dhe filtro...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versioni i zgjedhur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
@@ -8459,61 +8459,55 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1082"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1086"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1083"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1085"/>
         <source>Failed to extract %1 to %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1093"/>
         <source>Running: `%1 %2`</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1097"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed extract archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1106"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1108"/>
         <source>Failed to extract archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1113"/>
         <source>Unknown archive format for %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Failed to Check Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed to launch child process to read version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Child launcher process failed.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10315,7 +10309,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="69"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versioni i zgjedhur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
@@ -11481,13 +11475,13 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versioni i zgjedhur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kerko dhe filtro...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="215"/>

@@ -12274,57 +12274,51 @@ Pour passer outre ce verrouillage et procéder quand même à cette mise à jour
         <translation>Échec de la suppression de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1082"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>Extraction des éléments suivants dans &quot;%1&quot; :
   %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1086"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1083"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1085"/>
         <source>Failed to extract %1 to %2</source>
         <translation>Échec de l&apos;extraction de %1 vers %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1093"/>
         <source>Running: `%1 %2`</source>
         <translation>En cours : `%1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1097"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
         <translation>Échec du lancement du processus enfant &quot;%1 %2&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed extract archive</source>
         <translation>Échec de l&apos;extraction de l&apos;archive</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1106"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>Le processus fils &quot;%1 %2&quot; a échoué.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1108"/>
         <source>Failed to extract archive</source>
         <translation>Échec de l&apos;extraction de l&apos;archive</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1113"/>
         <source>Unknown archive format for %1</source>
         <translation>Format d&apos;archive inconnu pour %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Failed to Check Version</source>
         <translation>Échec de la vérification de la version</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed to launch child process to read version.</source>
         <translation>Erreur au lancement du processus enfant pour lire la version.</translation>
     </message>
@@ -12333,7 +12327,7 @@ Pour passer outre ce verrouillage et procéder quand même à cette mise à jour
         <translation type="vanished">Échec du lancement du processus fils du lanceur pour lire la version.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Child launcher process failed.</source>
         <translation>Le processus fils de lancement a échoué.</translation>
     </message>

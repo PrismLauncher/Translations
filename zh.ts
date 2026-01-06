@@ -12278,57 +12278,51 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <translation>无法删除 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1082"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>已将以下内容解压到 %1：
   %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1086"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1083"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1085"/>
         <source>Failed to extract %1 to %2</source>
         <translation>无法将 %1 解压到 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1093"/>
         <source>Running: `%1 %2`</source>
         <translation>正在执行：`%1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1097"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
         <translation>无法启动启动器子进程“%1 %2”。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed extract archive</source>
         <translation>无法解压压缩文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1106"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>子进程“%1 %2”运行失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1108"/>
         <source>Failed to extract archive</source>
         <translation>无法解压压缩文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1113"/>
         <source>Unknown archive format for %1</source>
         <translation>%1 的压缩格式未知</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Failed to Check Version</source>
         <translation>无法检查版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed to launch child process to read version.</source>
         <translation>启动子进程读取版本失败。</translation>
     </message>
@@ -12337,7 +12331,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <translation type="vanished">无法启动子启动程序进程以读取版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Child launcher process failed.</source>
         <translation>子启动器进程失败。</translation>
     </message>

@@ -12329,57 +12329,51 @@ Um diesen lock zu überschreiben und trotzdem mit diesem Update fortzufahren, dr
         <translation>Entfernen schlug fehl für %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1082"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>Folgendes wurde nach &quot;%1&quot; extrahiert:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1086"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1083"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1085"/>
         <source>Failed to extract %1 to %2</source>
         <translation>Extrahieren von %1 nach %2 schlug fehl</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1093"/>
         <source>Running: `%1 %2`</source>
         <translation>Führe aus: `%1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1097"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
         <translation>Starten von Unterprozess &quot;%1 %2&quot; schlug fehl.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed extract archive</source>
         <translation>Extrahieren vom Archiv schlug fehl</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1106"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>Fehler beim Unterprozess &quot;%1 %2&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1108"/>
         <source>Failed to extract archive</source>
         <translation>Extrahieren vom Archiv schlug fehl</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1113"/>
         <source>Unknown archive format for %1</source>
         <translation>Unbekanntes Archivformat für %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Failed to Check Version</source>
         <translation>Überprüfen der Version schlug fehl</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed to launch child process to read version.</source>
         <translation>Starten des Unterprozesses um Version zu lesen fehlgeschlagen.</translation>
     </message>
@@ -12388,7 +12382,7 @@ Um diesen lock zu überschreiben und trotzdem mit diesem Update fortzufahren, dr
         <translation type="vanished">Starten eines Unterlauncherprozesses zum Auslesen der Version schlug fehl.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Child launcher process failed.</source>
         <translation>Beim Unterlauncherprozess trat ein Fehler auf.</translation>
     </message>
