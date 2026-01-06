@@ -91,7 +91,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>API 密钥</translation>
+        <translation type="vanished">API 密钥</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -100,16 +100,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>（默认）</translation>
+        <translation type="vanished">（默认）</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>在此处输入用于进行 Microsoft 身份验证的客户端ID。</translation>
+        <translation type="vanished">在此处输入用于进行 Microsoft 身份验证的客户端ID。</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>Modrinth API (&amp;M)</translation>
+        <translation type="vanished">Modrinth API (&amp;M)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -118,15 +118,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>在此处输入你的 Modrinth 自定义 API 密钥。</translation>
+        <translation type="vanished">在此处输入你的 Modrinth 自定义 API 密钥。</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>（无）</translation>
+        <translation type="vanished">（无）</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>Technic 客户端 ID</translation>
+        <translation type="vanished">Technic 客户端 ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -135,11 +135,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>在这里输入Technic的自定义GUID客户端ID。</translation>
+        <translation type="vanished">在这里输入Technic的自定义GUID客户端ID。</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>杂项</translation>
+        <translation type="vanished">杂项</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -168,7 +168,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>在此处输入自定义元数据服务器的网址。</translation>
+        <translation type="vanished">在此处输入自定义元数据服务器的网址。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>CurseForge 核心 API (&amp;C)</translation>
+        <translation type="vanished">CurseForge 核心 API (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -187,11 +187,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>在此处输入你的 CurseForge API 密钥。</translation>
+        <translation type="vanished">在此处输入你的 CurseForge API 密钥。</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>API</translation>
+        <translation type="vanished">API</translation>
     </message>
 </context>
 <context>
@@ -260,7 +260,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>无法打开包的配置文件 %1！</translation>
+        <translation type="vanished">无法打开包的配置文件 %1！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -429,12 +429,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>未检查</translation>
+        <translation type="vanished">未检查</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>离线</translation>
+        <translation type="vanished">离线</translation>
     </message>
     <message>
         <source>Online</source>
@@ -462,37 +462,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>就绪</translation>
+        <translation type="vanished">就绪</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>处理中</translation>
+        <translation type="vanished">处理中</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>发生错误</translation>
+        <translation type="vanished">发生错误</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>已过期</translation>
+        <translation type="vanished">已过期</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>已停用</translation>
+        <translation type="vanished">已停用</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>已关闭</translation>
+        <translation type="vanished">已关闭</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>未知</translation>
+        <translation type="vanished">未知</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1156,7 +1156,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>正在从 Mojang 获取资源文件…</translation>
+        <translation type="vanished">正在从 Mojang 获取资源文件…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1556,11 +1556,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;系统会自动从你配置的全局 Mod 文件夹和默认下载文件夹中寻找下载的 Mod，并会将找到的 Mod 复制到实例中。&lt;/p&gt;&lt;p&gt;如果没有将 Mod 下载到默认位置，你也可以将下载的 Mod 拖放到到此对话框中，或者添加新的文件夹来寻找 Mod 。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;系统会自动从你配置的全局 Mod 文件夹和默认下载文件夹中寻找下载的 Mod，并会将找到的 Mod 复制到实例中。&lt;/p&gt;&lt;p&gt;如果没有将 Mod 下载到默认位置，你也可以将下载的 Mod 拖放到到此对话框中，或者添加新的文件夹来寻找 Mod 。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>已检查文件夹：</translation>
+        <translation type="vanished">已检查文件夹：</translation>
     </message>
 </context>
 <context>
@@ -1704,7 +1704,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>一个或多个子任务运行失败</translation>
+        <translation type="vanished">一个或多个子任务运行失败</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1947,7 +1947,7 @@ Some versions of Minecraft may not launch.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>核心 Mod</translation>
+        <translation type="vanished">核心 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2087,22 +2087,22 @@ Some versions of Minecraft may not launch.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>自定义命令 (&amp;C)</translation>
+        <translation type="vanished">自定义命令 (&amp;C)</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>退出后命令 (&amp;O)：</translation>
+        <translation type="vanished">退出后命令 (&amp;O)：</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>预启动命令 (&amp;P)：</translation>
+        <translation type="vanished">预启动命令 (&amp;P)：</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>包装器命令 (&amp;W)：</translation>
+        <translation type="vanished">包装器命令 (&amp;W)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2135,7 +2135,7 @@ Some versions of Minecraft may not launch.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>自定义命令</translation>
+        <translation type="vanished">自定义命令</translation>
     </message>
 </context>
 <context>
@@ -2503,7 +2503,7 @@ Are you sure?</source>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>正在检查 Mod 是否存在元数据…</translation>
+        <translation type="vanished">正在检查 Mod 是否存在元数据…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2555,7 +2555,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>环境变量(&amp;E)</translation>
+        <translation type="vanished">环境变量(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2592,7 +2592,7 @@ Are you sure?</source>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>环境变量</translation>
+        <translation type="vanished">环境变量</translation>
     </message>
 </context>
 <context>
@@ -2735,11 +2735,11 @@ Are you sure?</source>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>名称(&amp;N)</translation>
+        <translation type="vanished">名称(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>版本(&amp;V)</translation>
+        <translation type="vanished">版本(&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2791,7 +2791,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>作者(&amp;A)</translation>
+        <translation type="vanished">作者(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2976,7 +2976,7 @@ Are you sure?</source>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation>过滤器：</translation>
+        <translation type="vanished">过滤器：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2985,11 +2985,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>添加(&amp;A)</translation>
+        <translation type="vanished">添加(&amp;A)</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>添加</translation>
+        <translation type="vanished">添加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2998,7 +2998,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>删除所选项目</translation>
+        <translation type="vanished">删除所选项目</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -3007,7 +3007,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>启用所选项目</translation>
+        <translation type="vanished">启用所选项目</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3122,7 +3122,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>下载新资源</translation>
+        <translation type="vanished">下载新资源</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3132,27 +3132,27 @@ Are you sure?</source>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>尝试检查或更新所有选中的资源（默认检查并更新所有资源）</translation>
+        <translation type="vanished">尝试检查或更新所有选中的资源（默认检查并更新所有资源）</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>导出 Mod 列表</translation>
+        <translation type="vanished">导出 Mod 列表</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>导出 Mod 元数据为文本文件</translation>
+        <translation type="vanished">导出 Mod 元数据为文本文件</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>访问 Mod 页面</translation>
+        <translation type="vanished">访问 Mod 页面</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>禁用选择的项目</translation>
+        <translation type="vanished">禁用选择的项目</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>前往 Mod 主页</translation>
+        <translation type="vanished">前往 Mod 主页</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -3214,12 +3214,12 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>确认禁用</translation>
+        <translation type="vanished">确认禁用</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>在游戏运行时禁用此资源，游戏可能会崩溃。
+        <translation type="vanished">在游戏运行时禁用此资源，游戏可能会崩溃。
 你确定要这样做吗？</translation>
     </message>
     <message>
@@ -3292,16 +3292,16 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>外部编辑器（默认使用系统默认编辑器）</translation>
+        <translation type="vanished">外部编辑器（默认使用系统默认编辑器）</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>文本编辑器(&amp;T)：</translation>
+        <translation type="vanished">文本编辑器(&amp;T)：</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>外部工具</translation>
+        <translation type="vanished">外部工具</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3363,17 +3363,17 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM 可执行文件</translation>
+        <translation type="vanished">JVisualVM 可执行文件</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>在检查 JVisualVM 安装时出现错误：
+        <translation type="vanished">在检查 JVisualVM 安装时出现错误：
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>JVisualVM 配置正确</translation>
+        <translation type="vanished">JVisualVM 配置正确</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3400,7 +3400,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>JSON 编辑器</translation>
+        <translation type="vanished">JSON 编辑器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3514,7 +3514,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>注意：如果你的 FTB 实例不在默认位置，请使用搜索栏旁边的按钮选择它。</translation>
+        <translation type="vanished">注意：如果你的 FTB 实例不在默认位置，请使用搜索栏旁边的按钮选择它。</translation>
     </message>
 </context>
 <context>
@@ -3577,7 +3577,7 @@ Please try again.</source>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>正在获取 CurseForge 对“%1”的 API 响应…</translation>
+        <translation type="vanished">正在获取 CurseForge 对“%1”的 API 响应…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3616,16 +3616,16 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>正在解析 CurseForge Mods …</translation>
+        <translation type="vanished">正在解析 CurseForge Mods …</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
+        <translation type="vanished">未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Mod 有可用的更新，但禁止了第三方启动器从 CurseForge 上下载。</translation>
+        <translation type="vanished">Mod 有可用的更新，但禁止了第三方启动器从 CurseForge 上下载。</translation>
     </message>
 </context>
 <context>
@@ -4062,11 +4062,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>键</translation>
+        <translation type="vanished">键</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>值</translation>
+        <translation type="vanished">值</translation>
     </message>
 </context>
 <context>
@@ -4471,11 +4471,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>名称(&amp;N)：</translation>
+        <translation type="vanished">名称(&amp;N)：</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>分组(&amp;G)：</translation>
+        <translation type="vanished">分组(&amp;G)：</translation>
     </message>
 </context>
 <context>
@@ -4713,19 +4713,19 @@ Proceed with caution!</source>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation>打开全局设置</translation>
+        <translation type="vanished">打开全局设置</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>此处的设置将会覆盖全局设置。</translation>
+        <translation type="vanished">此处的设置将会覆盖全局设置。</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Java 路径(&amp;L)</translation>
+        <translation type="vanished">Java 路径(&amp;L)</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>自动检测…</translation>
+        <translation type="vanished">自动检测…</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4733,72 +4733,72 @@ Proceed with caution!</source>
     </message>
     <message>
         <source>Test</source>
-        <translation>测试</translation>
+        <translation type="vanished">测试</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>启用时，启动器将不会检查选中的 Java 是否与实例兼容。</translation>
+        <translation type="vanished">启用时，启动器将不会检查选中的 Java 是否与实例兼容。</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>跳过 Java 兼容性检查</translation>
+        <translation type="vanished">跳过 Java 兼容性检查</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>内存(&amp;Y)</translation>
+        <translation type="vanished">内存(&amp;Y)</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>最小内存分配：</translation>
+        <translation type="vanished">最小内存分配：</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraft 可以使用的最大内存大小。</translation>
+        <translation type="vanished">Minecraft 可以使用的最大内存大小。</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraft 启动时分配的内存总量。</translation>
+        <translation type="vanished">Minecraft 启动时分配的内存总量。</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>可用于储存加载的 Java 类的内存量。</translation>
+        <translation type="vanished">可用于储存加载的 Java 类的内存量。</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>最大内存分配：</translation>
+        <translation type="vanished">最大内存分配：</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>浏览</translation>
+        <translation type="vanished">浏览</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>下载 Java</translation>
+        <translation type="vanished">下载 Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>永久代：</translation>
+        <translation type="vanished">永久代：</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>注意：Java 8 及以后的版本会自动设置永久代大小</translation>
+        <translation type="vanished">注意：Java 8 及以后的版本会自动设置永久代大小</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Java 参数(&amp;T)</translation>
+        <translation type="vanished">Java 参数(&amp;T)</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>游戏窗口</translation>
+        <translation type="vanished">游戏窗口</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>游戏窗口</translation>
+        <translation type="vanished">游戏窗口</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>在启动时将 Minecraft 窗口最大化</translation>
+        <translation type="vanished">在启动时将 Minecraft 窗口最大化</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4810,70 +4810,70 @@ Proceed with caution!</source>
     </message>
     <message>
         <source>Window height:</source>
-        <translation>窗口高度：</translation>
+        <translation type="vanished">窗口高度：</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>窗口宽度：</translation>
+        <translation type="vanished">窗口宽度：</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>控制台设置(&amp;L)</translation>
+        <translation type="vanished">控制台设置(&amp;L)</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>运行游戏时显示控制台</translation>
+        <translation type="vanished">运行游戏时显示控制台</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>退出游戏时自动关闭控制台</translation>
+        <translation type="vanished">退出游戏时自动关闭控制台</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>游戏崩溃时显示控制台</translation>
+        <translation type="vanished">游戏崩溃时显示控制台</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>游戏窗口出现后关闭启动器</translation>
+        <translation type="vanished">游戏窗口出现后关闭启动器</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>游戏窗口关闭后退出启动器</translation>
+        <translation type="vanished">游戏窗口关闭后退出启动器</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>自定义命令</translation>
+        <translation type="vanished">自定义命令</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>环境变量</translation>
+        <translation type="vanished">环境变量</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>运行环境</translation>
+        <translation type="vanished">运行环境</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>本地库</translation>
+        <translation type="vanished">本地库</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>GLFW 库路径 (&amp;G)</translation>
+        <translation type="vanished">GLFW 库路径 (&amp;G)</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>使用系统 GLFW</translation>
+        <translation type="vanished">使用系统 GLFW</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>单人游戏世界</translation>
+        <translation type="vanished">单人游戏世界</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>使用系统 OpenAL</translation>
+        <translation type="vanished">使用系统 OpenAL</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -4889,89 +4889,89 @@ Proceed with caution!</source>
     </message>
     <message>
         <source>Override default account</source>
-        <translation>覆盖默认账户</translation>
+        <translation type="vanished">覆盖默认账户</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>账户：</translation>
+        <translation type="vanished">账户：</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>杂项</translation>
+        <translation type="vanished">杂项</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>OpenAL 库路径 (&amp;O)</translation>
+        <translation type="vanished">OpenAL 库路径 (&amp;O)</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>性能</translation>
+        <translation type="vanished">性能</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 Feral Interactive&apos;s GameMode，可能会提高游戏性能&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 Feral Interactive&apos;s GameMode，可能会提高游戏性能&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>启用 Feral Interactive&apos;s GameMode</translation>
+        <translation type="vanished">启用 Feral Interactive&apos;s GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 MangoHud 的高级性能覆盖&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 MangoHud 的高级性能覆盖&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>启用 MangoHud</translation>
+        <translation type="vanished">启用 MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代核显（适用于双显卡用户）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代核显（适用于双显卡用户）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>使用独显</translation>
+        <translation type="vanished">使用独显</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>使用 Zink（用来基于 Vulkan 上实现 OpenGL 的 Mesa OpenGL 驱动程序），性能可能因情况而异。注：如果没有找到合适的 Vulkan 驱动程序，将使用软件渲染。</translation>
+        <translation type="vanished">使用 Zink（用来基于 Vulkan 上实现 OpenGL 的 Mesa OpenGL 驱动程序），性能可能因情况而异。注：如果没有找到合适的 Vulkan 驱动程序，将使用软件渲染。</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>使用 Zink</translation>
+        <translation type="vanished">使用 Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>旧版设置</translation>
+        <translation type="vanished">旧版设置</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;模拟官方不再维护的旧在线服务&lt;/p&gt;&lt;p&gt;目前包含皮肤与在线模式支持。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;模拟官方不再维护的旧在线服务&lt;/p&gt;&lt;p&gt;目前包含皮肤与在线模式支持。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>模拟旧版在线服务（实验性）</translation>
+        <translation type="vanished">模拟旧版在线服务（实验性）</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>游戏时长</translation>
+        <translation type="vanished">游戏时长</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>显示此实例的游玩时间</translation>
+        <translation type="vanished">显示此实例的游玩时间</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>记录此实例的游玩时间</translation>
+        <translation type="vanished">记录此实例的游玩时间</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>启动游戏后直接加入服务器</translation>
+        <translation type="vanished">启动游戏后直接加入服务器</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>服务器地址：</translation>
+        <translation type="vanished">服务器地址：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4980,39 +4980,39 @@ Proceed with caution!</source>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>%1 库文件路径</translation>
+        <translation type="vanished">%1 库文件路径</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>无法在你的系统上找到 Feral Interactive&apos;s GameMode。</translation>
+        <translation type="vanished">无法在你的系统上找到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>无法在你的系统上找到 MangoHud。</translation>
+        <translation type="vanished">无法在你的系统上找到 MangoHud。</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>选择 Java 版本</translation>
+        <translation type="vanished">选择 Java 版本</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>确认选择</translation>
+        <translation type="vanished">确认选择</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>你选择了 32 位版本的 Java。
+        <translation type="vanished">你选择了 32 位版本的 Java。
 此安装版本不支持分配大于 2048 MiB 的内存。
 请确认最大内存大小不超过 2048 MiB。</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>寻找 Java 可执行文件</translation>
+        <translation type="vanished">寻找 Java 可执行文件</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>你的最大内存分配小于允许的最小值</translation>
+        <translation type="vanished">你的最大内存分配小于允许的最小值</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -5020,11 +5020,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>分配的最大内存超过系统内存容量。</translation>
+        <translation type="vanished">分配的最大内存超过系统内存容量。</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>分配的最大内存接近系统内存容量。</translation>
+        <translation type="vanished">分配的最大内存接近系统内存容量。</translation>
     </message>
 </context>
 <context>
@@ -5129,7 +5129,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation>JVisualVM 已启动</translation>
+        <translation type="vanished">JVisualVM 已启动</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -5156,15 +5156,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>正在提取 Java（tar 压缩包不会显示进度）</translation>
+        <translation type="vanished">正在提取 Java（tar 压缩包不会显示进度）</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation>无法打开提供的 tar 文件。</translation>
+        <translation type="vanished">无法打开提供的 tar 文件。</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation>无法提取提供的 tar 文件。</translation>
+        <translation type="vanished">无法提取提供的 tar 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5178,7 +5178,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation>无法确定压缩包类型！</translation>
+        <translation type="vanished">无法确定压缩包类型！</translation>
     </message>
 </context>
 <context>
@@ -5284,70 +5284,70 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>内存</translation>
+        <translation type="vanished">内存</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraft 能够使用的最大内存大小。</translation>
+        <translation type="vanished">Minecraft 能够使用的最大内存大小。</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>最小内存分配(&amp;M)：</translation>
+        <translation type="vanished">最小内存分配(&amp;M)：</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>最大内存分配(&amp;X)：</translation>
+        <translation type="vanished">最大内存分配(&amp;X)：</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>永久代大小(&amp;P)：</translation>
+        <translation type="vanished">永久代大小(&amp;P)：</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraft 启动时分配的内存总量。</translation>
+        <translation type="vanished">Minecraft 启动时分配的内存总量。</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>可用于储存加载的 Java 类的内存量。</translation>
+        <translation type="vanished">可用于储存加载的 Java 类的内存量。</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Java 运行环境</translation>
+        <translation type="vanished">Java 运行环境</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>JVM 参数：</translation>
+        <translation type="vanished">JVM 参数：</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>自动根据游戏版本所需的 Java 大版本号选择兼容的 Java 版本。</translation>
+        <translation type="vanished">自动根据游戏版本所需的 Java 大版本号选择兼容的 Java 版本。</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>自动检测 Java 版本</translation>
+        <translation type="vanished">自动检测 Java 版本</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Java 路径(&amp;J)：</translation>
+        <translation type="vanished">Java 路径(&amp;J)：</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>自动下载并选择 Mojang 建议的 Java 版本。</translation>
+        <translation type="vanished">自动下载并选择 Mojang 建议的 Java 版本。</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>自动从 Mojang 下载 Java</translation>
+        <translation type="vanished">自动从 Mojang 下载 Java</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>管理</translation>
+        <translation type="vanished">管理</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>已下载的 Java 版本</translation>
+        <translation type="vanished">已下载的 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5377,33 +5377,33 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>自动检测 (&amp;A)...</translation>
+        <translation type="vanished">自动检测 (&amp;A)...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>测试 Java (&amp;T)</translation>
+        <translation type="vanished">测试 Java (&amp;T)</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>浏览</translation>
+        <translation type="vanished">浏览</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>如果启用该选项，启动器将不会提示你选择未找到的 Java 版本。</translation>
+        <translation type="vanished">如果启用该选项，启动器将不会提示你选择未找到的 Java 版本。</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>跳过 Java 向导 (&amp;W)</translation>
+        <translation type="vanished">跳过 Java 向导 (&amp;W)</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>启用时，启动器将不会检查选中的 Java 是否与实例兼容。</translation>
+        <translation type="vanished">启用时，启动器将不会检查选中的 Java 是否与实例兼容。</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>跳过 Java 兼容性检查 (&amp;S)</translation>
+        <translation type="vanished">跳过 Java 兼容性检查 (&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5424,35 +5424,35 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>选择 Java 版本</translation>
+        <translation type="vanished">选择 Java 版本</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>确认选择</translation>
+        <translation type="vanished">确认选择</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>你选择了 32 位版本的 Java。
+        <translation type="vanished">你选择了 32 位版本的 Java。
 此安装版本不支持分配大于 2048 MiB 的内存。
 请确认最大内存大小不超过 2048 MiB。</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>寻找 Java 可执行文件</translation>
+        <translation type="vanished">寻找 Java 可执行文件</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>分配的最大内存超过系统内存容量。</translation>
+        <translation type="vanished">分配的最大内存超过系统内存容量。</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>分配的最大内存接近系统内存容量。</translation>
+        <translation type="vanished">分配的最大内存接近系统内存容量。</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>你的最大内存分配小于允许的最小值</translation>
+        <translation type="vanished">你的最大内存分配小于允许的最小值</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5471,7 +5471,7 @@ Are you sure?</source>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>未选择 Java 版本</translation>
+        <translation type="vanished">未选择 Java 版本</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5489,7 +5489,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Download Java</source>
-        <translation>下载 Java</translation>
+        <translation type="vanished">下载 Java</translation>
     </message>
     <message>
         <source>Automatic Java Download</source>
@@ -5505,7 +5505,7 @@ Do you want to enable Java auto-download?
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>检测到 32 位 Java</translation>
+        <translation type="vanished">检测到 32 位 Java</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5514,7 +5514,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>您选择了 32 位的 Java 安装版本，但分配了超过 2048MiB 的最大内存。
+        <translation type="vanished">您选择了 32 位的 Java 安装版本，但分配了超过 2048MiB 的最大内存。
 %1 将无法启动 Minecraft。
 你是否仍要继续？
 
@@ -5528,7 +5528,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>你未选择 Java 版本，或选择的 Java 版本无法使用。
+        <translation type="vanished">你未选择 Java 版本，或选择的 Java 版本无法使用。
 %1 将无法启动 Minecraft。
 你确定要在没有可以正常运行的 Java 版本的情况下继续吗？
 
@@ -5542,7 +5542,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Memory</source>
-        <translation>内存</translation>
+        <translation type="vanished">内存</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5551,7 +5551,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>最小内存分配：</translation>
+        <translation type="vanished">最小内存分配：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5657,7 +5657,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>最大内存分配：</translation>
+        <translation type="vanished">最大内存分配：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5696,19 +5696,19 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Browse</source>
-        <translation>浏览</translation>
+        <translation type="vanished">浏览</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>自动从 Mojang 下载 Java</translation>
+        <translation type="vanished">自动从 Mojang 下载 Java</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>自动检测 Java 版本</translation>
+        <translation type="vanished">自动检测 Java 版本</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>自动检测 Java</translation>
+        <translation type="vanished">自动检测 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5746,15 +5746,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>分配的最大内存接近系统内存容量。</translation>
+        <translation type="vanished">分配的最大内存接近系统内存容量。</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>分配的最大内存小于允许的最小值</translation>
+        <translation type="vanished">分配的最大内存小于允许的最小值</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>已超过 32 位 Java 支持的最大内存分配大小。</translation>
+        <translation type="vanished">已超过 32 位 Java 支持的最大内存分配大小。</translation>
     </message>
 </context>
 <context>
@@ -6051,11 +6051,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>离线游戏</translation>
+        <translation type="vanished">离线游戏</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>账户已过期，需要手动重新登录。</translation>
+        <translation type="vanished">账户已过期，需要手动重新登录。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -6064,7 +6064,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>启动器的客户端标识已更改。请删除此账户，然后重新添加。</translation>
+        <translation type="vanished">启动器的客户端标识已更改。请删除此账户，然后重新添加。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6073,7 +6073,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>该账户在服务器上已不存在。它可能已被迁移，如果是，请添加迁移后的新账户。</translation>
+        <translation type="vanished">该账户在服务器上已不存在。它可能已被迁移，如果是，请添加迁移后的新账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6218,11 +6218,11 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>功能</translation>
+        <translation type="vanished">功能</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>更新设置</translation>
+        <translation type="vanished">更新设置</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6372,7 +6372,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>实例排序模式</translation>
+        <translation type="vanished">实例排序模式</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6387,7 +6387,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Theme</source>
-        <translation>主题</translation>
+        <translation type="vanished">主题</translation>
     </message>
     <message>
         <source>&amp;Icons</source>
@@ -6411,17 +6411,17 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Mods</source>
-        <translation>Mod</translation>
+        <translation type="vanished">Mod</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>不使用来自 Mod 托管平台（如 Modrinth 和 CurseForge）的 Mod 元数据。</translation>
+        <translation type="vanished">不使用来自 Mod 托管平台（如 Modrinth 和 CurseForge）的 Mod 元数据。</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>停用 Mod 元数据</translation>
+        <translation type="vanished">停用 Mod 元数据</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6489,15 +6489,15 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Update interval</source>
-        <translation>更新间隔</translation>
+        <translation type="vanished">更新间隔</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>将其设置为 0 以仅在启动时进行检查</translation>
+        <translation type="vanished">将其设置为 0 以仅在启动时进行检查</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>小时</translation>
+        <translation type="vanished">小时</translation>
     </message>
     <message>
         <source>Rename instance folders</source>
@@ -6527,36 +6527,36 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>递归检查下载文件夹</translation>
+        <translation type="vanished">递归检查下载文件夹</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>禁用自动检测、安装和更新前置 Mod。</translation>
+        <translation type="vanished">禁用自动检测、安装和更新前置 Mod。</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>禁用自动管理前置 Mod</translation>
+        <translation type="vanished">禁用自动管理前置 Mod</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>创建新的整合包实例时，不提示可以更新现有的该整合包的实例（而不是创建新的实例）。</translation>
+        <translation type="vanished">创建新的整合包实例时，不提示可以更新现有的该整合包的实例（而不是创建新的实例）。</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>跳过整合包更新提示</translation>
+        <translation type="vanished">跳过整合包更新提示</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>杂项</translation>
+        <translation type="vanished">杂项</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>并发任务数</translation>
+        <translation type="vanished">并发任务数</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>并发下载数</translation>
+        <translation type="vanished">并发下载数</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6565,7 +6565,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>HTTP请求超时</translation>
+        <translation type="vanished">HTTP请求超时</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6574,7 +6574,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>手动重试次数</translation>
+        <translation type="vanished">手动重试次数</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6592,23 +6592,23 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Cat</source>
-        <translation>猫</translation>
+        <translation type="vanished">猫</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>设置猫的不透明度。0% 代表完全透明，100% 代表完全不透明。</translation>
+        <translation type="vanished">设置猫的不透明度。0% 代表完全透明，100% 代表完全不透明。</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>不透明度</translation>
+        <translation type="vanished">不透明度</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>工具</translation>
+        <translation type="vanished">工具</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6673,27 +6673,27 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>控制台设置</translation>
+        <translation type="vanished">控制台设置</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>在游戏运行时显示控制台 (&amp;R)</translation>
+        <translation type="vanished">在游戏运行时显示控制台 (&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>在游戏退出后自动关闭控制台 (&amp;A)</translation>
+        <translation type="vanished">在游戏退出后自动关闭控制台 (&amp;A)</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>在游戏崩溃时显示控制台 (&amp;C)</translation>
+        <translation type="vanished">在游戏崩溃时显示控制台 (&amp;C)</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>日志行数上限 (&amp;H)</translation>
+        <translation type="vanished">日志行数上限 (&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6709,7 +6709,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>控制台字体 (&amp;F)</translation>
+        <translation type="vanished">控制台字体 (&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6773,23 +6773,23 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Test/ERROR] 啊哈哈哈哈哈，出错咯！</translation>
+        <translation type="vanished">[Test/ERROR] 啊哈哈哈哈哈，出错咯！</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Test/ERROR] 出错了！</translation>
+        <translation type="vanished">[Test/ERROR] 出错了！</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[Test/WARN] 一条不是很配日子的警告消息。</translation>
+        <translation type="vanished">[Test/WARN] 一条不是很配日子的警告消息。</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/DEBUG] 一条隐藏的调试信息...</translation>
+        <translation type="vanished">[Test/DEBUG] 一条隐藏的调试信息...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] 哈人的严重性错误信息！</translation>
+        <translation type="vanished">[Test/FATAL] 哈人的严重性错误信息！</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6797,7 +6797,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] 一条无害的信息...</translation>
+        <translation type="vanished">[Test/INFO] 一条无害的信息...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6813,7 +6813,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Launcher</source>
-        <translation>启动器</translation>
+        <translation type="vanished">启动器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6921,7 +6921,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>无法打开整合包文件 %1！</translation>
+        <translation type="vanished">无法打开整合包文件 %1！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -7145,12 +7145,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>更新 Mod 索引中：
+        <translation type="vanished">更新 Mod 索引中：
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>元数据无效</translation>
+        <translation type="vanished">元数据无效</translation>
     </message>
 </context>
 <context>
@@ -7222,7 +7222,7 @@ Reason:
     </message>
     <message>
         <source>Search:</source>
-        <translation>搜索：</translation>
+        <translation type="vanished">搜索：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7334,7 +7334,7 @@ Reason:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>无法创建：</translation>
+        <translation type="vanished">无法创建：</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7351,7 +7351,7 @@ Reason:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>无法打开指定的 zip 文件。</translation>
+        <translation type="vanished">无法打开指定的 zip 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7370,7 +7370,7 @@ Reason:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>无法查找 ZIP 中的第一个文件</translation>
+        <translation type="vanished">无法查找 ZIP 中的第一个文件</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -7384,7 +7384,7 @@ Reason:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>无法修复 %1 的权限</translation>
+        <translation type="vanished">无法修复 %1 的权限</translation>
     </message>
 </context>
 <context>
@@ -7497,11 +7497,11 @@ Reason:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>打开 %1 或扫描二维码，然后输入上方代码。</translation>
+        <translation type="vanished">打开 %1 或扫描二维码，然后输入上方代码。</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>打开 %1 然后输入上方代码。</translation>
+        <translation type="vanished">打开 %1 然后输入上方代码。</translation>
     </message>
 </context>
 <context>
@@ -7705,7 +7705,7 @@ Reason:
     </message>
     <message>
         <source>More news...</source>
-        <translation>更多新闻…</translation>
+        <translation type="vanished">更多新闻…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7749,7 +7749,7 @@ Reason:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>在桌面上创建启动此实例的快捷方式。</translation>
+        <translation type="vanished">在桌面上创建启动此实例的快捷方式。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -8540,14 +8540,14 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>你将要删除 “%1”。
+        <translation type="vanished">你将要删除 “%1”。
 这可能是永久性的，并将彻底删除该实例。
 
 你确定要这样做吗？</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>存在已链接的实例</translation>
+        <translation type="vanished">存在已链接的实例</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8557,7 +8557,7 @@ Are you sure?</oldsource>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>以下实例可能引用了此实例中的文件：
 
 %1
@@ -8587,31 +8587,31 @@ Are you sure?</source>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>创建实例快捷方式</translation>
+        <translation type="vanished">创建实例快捷方式</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>无法找到桌面？！</translation>
+        <translation type="vanished">无法找到桌面？！</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>启动器位于解压出来的文件夹中，无法创建快捷方式。</translation>
+        <translation type="vanished">启动器位于解压出来的文件夹中，无法创建快捷方式。</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>桌面快捷方式</translation>
+        <translation type="vanished">桌面快捷方式</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>指向该实例的桌面快捷方式已创建！</translation>
+        <translation type="vanished">指向该实例的桌面快捷方式已创建！</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>实例快捷方式创建失败！</translation>
+        <translation type="vanished">实例快捷方式创建失败！</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>启动器现在是在错误配置的 AppImage 中运行吗？（未找到 $APPIMAGE 环境变量）</translation>
+        <translation type="vanished">启动器现在是在错误配置的 AppImage 中运行吗？（未找到 $APPIMAGE 环境变量）</translation>
     </message>
     <message>
         <source>Quilt is currently not supported by CurseForge modpacks.</source>
@@ -8719,15 +8719,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>创建实例项目</translation>
+        <translation type="vanished">创建实例项目</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>无法创建项目图标。</translation>
+        <translation type="vanished">无法创建项目图标。</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>无法创建快捷方式的图标。</translation>
+        <translation type="vanished">无法创建快捷方式的图标。</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8735,11 +8735,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>不支持你的平台！</translation>
+        <translation type="vanished">不支持你的平台！</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>指向该实例的快捷方式已创建！</translation>
+        <translation type="vanished">指向该实例的快捷方式已创建！</translation>
     </message>
     <message>
         <source>Couldn&apos;t find applications folder?!</source>
@@ -8828,11 +8828,11 @@ Are you sure?</source>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation>整合包信息</translation>
+        <translation type="vanished">整合包信息</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>整合包名称：</translation>
+        <translation type="vanished">整合包名称：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8871,7 +8871,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>从文件更新</translation>
+        <translation type="vanished">从文件更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8934,7 +8934,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Update pack</source>
-        <translation>更新整合包</translation>
+        <translation type="vanished">更新整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -9132,26 +9132,26 @@ This can be updated only using a file in %1 format
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation>窗口大小</translation>
+        <translation type="vanished">窗口大小</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>启动时最大化 Minecraft 窗口(&amp;M)</translation>
+        <translation type="vanished">启动时最大化 Minecraft 窗口(&amp;M)</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>窗口高度(&amp;H)：</translation>
+        <translation type="vanished">窗口高度(&amp;H)：</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>窗口宽度(&amp;W)：</translation>
+        <translation type="vanished">窗口宽度(&amp;W)：</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>微调</translation>
+        <translation type="vanished">微调</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -9167,82 +9167,82 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>旧版设置</translation>
+        <translation type="vanished">旧版设置</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;模拟官方不再维护的旧在线服务&lt;/p&gt;&lt;p&gt;目前包含皮肤与在线模式支持。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;模拟官方不再维护的旧在线服务&lt;/p&gt;&lt;p&gt;目前包含皮肤与在线模式支持。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>模拟旧版在线服务（实验性）</translation>
+        <translation type="vanished">模拟旧版在线服务（实验性）</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>系统运行库</translation>
+        <translation type="vanished">系统运行库</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>使用系统 GLFW (&amp;G)</translation>
+        <translation type="vanished">使用系统 GLFW (&amp;G)</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>GLFW 库路径 (&amp;G)</translation>
+        <translation type="vanished">GLFW 库路径 (&amp;G)</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>使用系统 OpenAL(&amp;O)</translation>
+        <translation type="vanished">使用系统 OpenAL(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>OpenAL 库路径 (&amp;O)</translation>
+        <translation type="vanished">OpenAL 库路径 (&amp;O)</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>性能</translation>
+        <translation type="vanished">性能</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 Feral Interactive&apos;s GameMode，可能会提高游戏性能。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 Feral Interactive&apos;s GameMode，可能会提高游戏性能。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>启用 Feral Interactive&apos;s GameMode</translation>
+        <translation type="vanished">启用 Feral Interactive&apos;s GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 MangoHud 的高级性能覆盖&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 MangoHud 的高级性能覆盖&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>启用 MangoHud</translation>
+        <translation type="vanished">启用 MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代核显（适用于双显卡用户）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代核显（适用于双显卡用户）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>使用独显</translation>
+        <translation type="vanished">使用独显</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用 Zink（用来基于 Vulkan 上实现 OpenGL 的 Mesa OpenGL 驱动程序），性能可能因情况而异。注：如果没有找到合适的 Vulkan 驱动程序，将使用软件渲染。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用 Zink（用来基于 Vulkan 上实现 OpenGL 的 Mesa OpenGL 驱动程序），性能可能因情况而异。注：如果没有找到合适的 Vulkan 驱动程序，将使用软件渲染。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>使用 Zink</translation>
+        <translation type="vanished">使用 Zink</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>游戏时长</translation>
+        <translation type="vanished">游戏时长</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>常规</translation>
+        <translation type="vanished">常规</translation>
     </message>
     <message>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -9255,45 +9255,45 @@ This can be updated only using a file in %1 format
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>显示单实例的游玩时长 (&amp;P)</translation>
+        <translation type="vanished">显示单实例的游玩时长 (&amp;P)</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>显示游玩所有实例的总时长 (&amp;A)</translation>
+        <translation type="vanished">显示游玩所有实例的总时长 (&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>记录单实例的游玩时长 (&amp;R)</translation>
+        <translation type="vanished">记录单实例的游玩时长 (&amp;R)</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>以小时为单位显示游玩时间</translation>
+        <translation type="vanished">以小时为单位显示游玩时间</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>杂项</translation>
+        <translation type="vanished">杂项</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;当游戏崩溃或退出时，启动器会重新打开。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;当游戏崩溃或退出时，启动器会重新打开。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>游戏窗口出现后关闭启动器 (&amp;C)</translation>
+        <translation type="vanished">游戏窗口出现后关闭启动器 (&amp;C)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;如果游戏退出或崩溃后，启动器将自动退出。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;如果游戏退出或崩溃后，启动器将自动退出。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>游戏窗口关闭后退出启动器 (&amp;Q)</translation>
+        <translation type="vanished">游戏窗口关闭后退出启动器 (&amp;Q)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -9302,19 +9302,19 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>%1 库文件路径</translation>
+        <translation type="vanished">%1 库文件路径</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>自动检测到路径：%1</translation>
+        <translation type="vanished">自动检测到路径：%1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>无法在你的系统上找到 Feral Interactive&apos;s GameMode。</translation>
+        <translation type="vanished">无法在你的系统上找到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>无法在你的系统上找到 MangoHud。</translation>
+        <translation type="vanished">无法在你的系统上找到 MangoHud。</translation>
     </message>
 </context>
 <context>
@@ -9992,7 +9992,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>未知</translation>
+        <translation type="vanished">未知</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -10096,7 +10096,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Mod 托管平台。</translation>
+        <translation type="vanished">Mod 托管平台。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -10180,7 +10180,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download mods</source>
-        <translation>下载 Mod</translation>
+        <translation type="vanished">下载 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -10206,11 +10206,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add file</source>
-        <translation>添加文件</translation>
+        <translation type="vanished">添加文件</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>添加本地文件</translation>
+        <translation type="vanished">添加本地文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -10225,11 +10225,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>同时更新前置 Mod</translation>
+        <translation type="vanished">同时更新前置 Mod</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>尝试检查并更新选定的 Mod（默认全选）是否缺少前置 Mod</translation>
+        <translation type="vanished">尝试检查并更新选定的 Mod（默认全选）是否缺少前置 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
@@ -10239,35 +10239,35 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>前往 Mod 主页</translation>
+        <translation type="vanished">前往 Mod 主页</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>删除 Mod 元数据</translation>
+        <translation type="vanished">删除 Mod 元数据</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation>重置更新元数据</translation>
+        <translation type="vanished">重置更新元数据</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>更改版本</translation>
+        <translation type="vanished">更改版本</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>更改 Mod 版本</translation>
+        <translation type="vanished">更改 Mod 版本</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>访问 Mod 页面</translation>
+        <translation type="vanished">访问 Mod 页面</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation>访问 Mod 页面</translation>
+        <translation type="vanished">访问 Mod 页面</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>前往已选 Mod 页面</translation>
+        <translation type="vanished">前往已选 Mod 页面</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -10283,7 +10283,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>请先安装一个 Mod 加载器！</translation>
+        <translation type="vanished">请先安装一个 Mod 加载器！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -10531,76 +10531,76 @@ Please update %1!</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>确认所要更新的 Mod</translation>
+        <translation type="vanished">确认所要更新的 Mod</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>以下 Mod 即将更新：</translation>
+        <translation type="vanished">以下 Mod 即将更新：</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>只有检查过的 Mod 会更新！</translation>
+        <translation type="vanished">只有检查过的 Mod 会更新！</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Mod 名称：%1&lt;br/&gt;文件名：%2&lt;br/&gt;原因：%3&lt;br/&gt;&lt;br/&gt;</translation>
+        <translation type="vanished">Mod 名称：%1&lt;br/&gt;文件名：%2&lt;br/&gt;原因：%3&lt;br/&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation>元数据生成失败</translation>
+        <translation type="vanished">元数据生成失败</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>无法为以下 Mod 生成元数据：&lt;br&gt;你想在不包含这些 Mod 的情況下继续吗？</translation>
+        <translation type="vanished">无法为以下 Mod 生成元数据：&lt;br&gt;你想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation>正在检查更新</translation>
+        <translation type="vanished">正在检查更新</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation type="vanished">错误</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>警告</translation>
+        <translation type="vanished">警告</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation type="vanished">中止</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>检查更新中…</translation>
+        <translation type="vanished">检查更新中…</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>Mod 名称：%1</translation>
+        <translation type="vanished">Mod 名称：%1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>原因：%1</translation>
+        <translation type="vanished">原因：%1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>可能的解决方案：手动获取最新版本：&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation type="vanished">可能的解决方案：手动获取最新版本：&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>正在检查前置Mod…</translation>
+        <translation type="vanished">正在检查前置Mod…</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>Mod “%1” 还没有元数据。我们需要生成相关信息用于检查 Mod 更新。因此，请选择一个 Mod 托管平台，并使用它来检查此 Mod 的更新。</translation>
+        <translation type="vanished">Mod “%1” 还没有元数据。我们需要生成相关信息用于检查 Mod 更新。因此，请选择一个 Mod 托管平台，并使用它来检查此 Mod 的更新。</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>在所选 Mod 托管平台上找不到有效版本</translation>
+        <translation type="vanished">在所选 Mod 托管平台上找不到有效版本</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>Mod 可能已安装，故禁用此项。</translation>
+        <translation type="vanished">Mod 可能已安装，故禁用此项。</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10616,15 +10616,15 @@ Please update %1!</source>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>检查更新失败</translation>
+        <translation type="vanished">检查更新失败</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>无法获取以下 Mod 更新：&lt;br&gt;你想在不包含这些 Mod 的情況下继续吗？</translation>
+        <translation type="vanished">无法获取以下 Mod 更新：&lt;br&gt;你想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>正在查找元数据</translation>
+        <translation type="vanished">正在查找元数据</translation>
     </message>
     <message>
         <source>This mod (%1) does not have a metadata yet. We need to create one in order to keep relevant information on how to update this mod. To do this, please select a mod provider from which we can search for updates for %1.</source>
@@ -10632,7 +10632,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>生成元数据中…</translation>
+        <translation type="vanished">生成元数据中…</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -10640,35 +10640,35 @@ Please update %1!</source>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>Mod 托管平台：%1</translation>
+        <translation type="vanished">Mod 托管平台：%1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation>旧版本：%1</translation>
+        <translation type="vanished">旧版本：%1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>未安装</translation>
+        <translation type="vanished">未安装</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation>新版本：%1</translation>
+        <translation type="vanished">新版本：%1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>新版本类型：%1</translation>
+        <translation type="vanished">新版本类型：%1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>%1 的前置 Mod</translation>
+        <translation type="vanished">%1 的前置 Mod</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>为以下 Mod 的前置 Mod：</translation>
+        <translation type="vanished">为以下 Mod 的前置 Mod：</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>最新版本的更新日志</translation>
+        <translation type="vanished">最新版本的更新日志</translation>
     </message>
 </context>
 <context>
@@ -10781,7 +10781,7 @@ Please update %1!</source>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>正在为 Modrinth 准备 Mod…</translation>
+        <translation type="vanished">正在为 Modrinth 准备 Mod…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10819,7 +10819,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
+        <translation type="vanished">未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -11409,27 +11409,27 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>添加账户</translation>
+        <translation type="vanished">添加账户</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>用户名</translation>
+        <translation type="vanished">用户名</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>超过 16 个字符的用户名不能用于局域网联机或离线模式（关闭正版验证的）服务器。</translation>
+        <translation type="vanished">超过 16 个字符的用户名不能用于局域网联机或离线模式（关闭正版验证的）服务器。</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>允许超长用户名</translation>
+        <translation type="vanished">允许超长用户名</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="vanished">取消</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>确定</translation>
+        <translation type="vanished">确定</translation>
     </message>
 </context>
 <context>
@@ -11480,7 +11480,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>寻找</translation>
+        <translation type="vanished">寻找</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -11569,31 +11569,31 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>清空日志</translation>
+        <translation type="vanished">清空日志</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>删除</translation>
+        <translation type="vanished">删除</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>将日志上传至首选项中配置的粘贴服务。</translation>
+        <translation type="vanished">将日志上传至首选项中配置的粘贴服务。</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>上传</translation>
+        <translation type="vanished">上传</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>清空</translation>
+        <translation type="vanished">清空</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>重新加载</translation>
+        <translation type="vanished">重新加载</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>搜索：</translation>
+        <translation type="vanished">搜索：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -11620,7 +11620,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>文件（%1）不可读。</translation>
+        <translation type="vanished">文件（%1）不可读。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -11697,7 +11697,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>其他日志</translation>
+        <translation type="vanished">其他日志</translation>
     </message>
 </context>
 <context>
@@ -11722,7 +11722,7 @@ Are you sure?</source>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation>关闭</translation>
+        <translation type="vanished">关闭</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -11751,28 +11751,28 @@ Are you sure?</source>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation>正在上传至 %1</translation>
+        <translation type="vanished">正在上传至 %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation>网络错误：%1</translation>
+        <translation type="vanished">网络错误：%1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>错误：%1 返回了意外状态码 %2 %3</translation>
+        <translation type="vanished">错误：%1 返回了意外状态码 %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>错误：%1 返回了格式错误的响应体</translation>
+        <translation type="vanished">错误：%1 返回了格式错误的响应体</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation>错误：%1 返回错误：%2</translation>
+        <translation type="vanished">错误：%1 返回错误：%2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>错误：%1 返回错误代码：%2
+        <translation type="vanished">错误：%1 返回错误代码：%2
 错误消息：%3</translation>
     </message>
 </context>
@@ -12451,7 +12451,7 @@ HTTP 状态码：%2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>服务器返回了以下错误：</translation>
+        <translation type="vanished">服务器返回了以下错误：</translation>
     </message>
 </context>
 <context>
@@ -12512,7 +12512,7 @@ HTTP 状态码：%2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>默认(&amp;D)</translation>
+        <translation type="vanished">默认(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -12651,13 +12651,13 @@ HTTP 状态码：%2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>网站</translation>
+        <translation type="vanished">网站</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>%1 开发人员</translation>
+        <translation type="vanished">%1 开发人员</translation>
     </message>
     <message>
         <source>%1 Contributors</source>
@@ -12668,7 +12668,7 @@ HTTP 状态码：%2</translation>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>感谢</translation>
+        <translation type="vanished">感谢</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -12739,7 +12739,7 @@ Error message: %1</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>上传失败</translation>
+        <translation type="vanished">上传失败</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -13038,7 +13038,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>指定的 Java 二进制文件无法工作。&lt;br /&gt;你应该使用自动检测功能，或者设置 Java 可执行文件的路径。&lt;br /&gt;</translation>
+        <translation type="vanished">指定的 Java 二进制文件无法工作。&lt;br /&gt;你应该使用自动检测功能，或者设置 Java 可执行文件的路径。&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -13066,7 +13066,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>无效的 JVisualVM 路径</translation>
+        <translation type="vanished">无效的 JVisualVM 路径</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -13091,7 +13091,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>No author(s)</source>
-        <translation>无作者</translation>
+        <translation type="vanished">无作者</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -13314,7 +13314,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>无法修复 %1 的权限</translation>
+        <translation type="vanished">无法修复 %1 的权限</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -13714,7 +13714,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>修改 %1 版本</translation>
+        <translation type="vanished">修改 %1 版本</translation>
     </message>
 </context>
 <context>
@@ -14148,13 +14148,11 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>资源名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>上次更改（或添加）此资源的日期和时间。</translation>
     </message>
     <message>
@@ -14264,7 +14262,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>该资源包是否已被启用？（仅对 .zip 文件有效）</translation>
+        <translation type="vanished">该资源包是否已被启用？（仅对 .zip 文件有效）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
@@ -14285,15 +14283,15 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>资源包</translation>
+        <translation type="vanished">资源包</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>下载资源包</translation>
+        <translation type="vanished">下载资源包</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>从网络平台下载资源包</translation>
+        <translation type="vanished">从网络平台下载资源包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -14632,11 +14630,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation>此下载将放置在：%1</translation>
+        <translation type="vanished">此下载将放置在：%1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>该文件将下载到与默认位置不同的文件夹，可能是因为其加载器需要这样做。</translation>
+        <translation type="vanished">该文件将下载到与默认位置不同的文件夹，可能是因为其加载器需要这样做。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -14955,7 +14953,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Latency</source>
-        <translation>延迟</translation>
+        <translation type="vanished">延迟</translation>
     </message>
 </context>
 <context>
@@ -15084,15 +15082,15 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>光影包</translation>
+        <translation type="vanished">光影包</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>下载光影包</translation>
+        <translation type="vanished">下载光影包</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>从网络平台下载光影包</translation>
+        <translation type="vanished">从网络平台下载光影包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -15657,7 +15655,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>无法打开提供的整合包 Zip 文件。</translation>
+        <translation type="vanished">无法打开提供的整合包 Zip 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -15828,13 +15826,11 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>是否已启用此材质包？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>纹理包的名称。</translation>
     </message>
     <message>
@@ -15844,7 +15840,6 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>此纹理包最后一次修改（或添加）的日期和时间。</translation>
     </message>
     <message>
@@ -15928,11 +15923,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation>下载资源包</translation>
+        <translation type="vanished">下载资源包</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>从网络平台下载纹理包</translation>
+        <translation type="vanished">从网络平台下载纹理包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -16054,7 +16049,7 @@ Are you sure?</source>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>图标(&amp;I)</translation>
+        <translation type="vanished">图标(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -16062,54 +16057,54 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>查看图标主题文件夹。</translation>
+        <translation type="vanished">查看图标主题文件夹。</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation>控件(&amp;W)</translation>
+        <translation type="vanished">控件(&amp;W)</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation>查看控件主题文件夹。</translation>
+        <translation type="vanished">查看控件主题文件夹。</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>猫出现在背景中且默认不会显示。它可以通过点击工具栏上的猫按钮来显示。</translation>
+        <translation type="vanished">猫出现在背景中且默认不会显示。它可以通过点击工具栏上的猫按钮来显示。</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>猫(&amp;A)</translation>
+        <translation type="vanished">猫(&amp;A)</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>查看猫主题文件夹。</translation>
+        <translation type="vanished">查看猫主题文件夹。</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation>全部刷新</translation>
+        <translation type="vanished">全部刷新</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>向导页面</translation>
+        <translation type="vanished">向导页面</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>选择你想要使用的主题</translation>
+        <translation type="vanished">选择你想要使用的主题</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>提示：猫出现在背景中且默认不会显示。它可以通过点击工具栏上的猫按钮来显示。</translation>
+        <translation type="vanished">提示：猫出现在背景中且默认不会显示。它可以通过点击工具栏上的猫按钮来显示。</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation> 预览：</translation>
+        <translation type="vanished"> 预览：</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>猫出现在背景中且没有任何目的，它只提供一个视觉效果。</translation>
+        <translation type="vanished">猫出现在背景中且没有任何目的，它只提供一个视觉效果。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -16392,7 +16387,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation>过滤器：</translation>
+        <translation type="vanished">过滤器：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -17226,11 +17221,11 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>数据包</translation>
+        <translation type="vanished">数据包</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>管理世界内的数据包。</translation>
+        <translation type="vanished">管理世界内的数据包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -17258,7 +17253,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>打开世界数据包文件夹</translation>
+        <translation type="vanished">打开世界数据包文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

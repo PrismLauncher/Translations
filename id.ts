@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>Kunci API</translation>
+        <translation type="vanished">Kunci API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,16 +88,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Bawaan)</translation>
+        <translation type="vanished">(Bawaan)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Masukkan ID klien untuk Autentikasi Microsoft di sini.</translation>
+        <translation type="vanished">Masukkan ID klien untuk Autentikasi Microsoft di sini.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>API &amp;Modrinth</translation>
+        <translation type="vanished">API &amp;Modrinth</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,15 +106,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Masukkan token API untuk Modrinth di sini.</translation>
+        <translation type="vanished">Masukkan token API untuk Modrinth di sini.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Tiada)</translation>
+        <translation type="vanished">(Tiada)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>ID Klien Technic</translation>
+        <translation type="vanished">ID Klien Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Masukkan ID klien GUID untuk Technic di sini.</translation>
+        <translation type="vanished">Masukkan ID klien GUID untuk Technic di sini.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Lainnya</translation>
+        <translation type="vanished">Lainnya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Masukkan tautan kustom untuk meta di sini.</translation>
+        <translation type="vanished">Masukkan tautan kustom untuk meta di sini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>Core API &amp;CurseForge</translation>
+        <translation type="vanished">Core API &amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Masukkan kunci API untuk CurseForge di sini.</translation>
+        <translation type="vanished">Masukkan kunci API untuk CurseForge di sini.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>API</translation>
+        <translation type="vanished">API</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>Gagal membuka konfigurasi paket %1!</translation>
+        <translation type="vanished">Gagal membuka konfigurasi paket %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -417,12 +417,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Belum diperiksa</translation>
+        <translation type="vanished">Belum diperiksa</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Luar jaringan</translation>
+        <translation type="vanished">Luar jaringan</translation>
     </message>
     <message>
         <source>Online</source>
@@ -450,37 +450,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>Siap</translation>
+        <translation type="vanished">Siap</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Berfungsi</translation>
+        <translation type="vanished">Berfungsi</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Bermasalah</translation>
+        <translation type="vanished">Bermasalah</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>Kadaluwarsa</translation>
+        <translation type="vanished">Kadaluwarsa</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Dinonaktifkan</translation>
+        <translation type="vanished">Dinonaktifkan</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Menghilang</translation>
+        <translation type="vanished">Menghilang</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>Tidak diketahui</translation>
+        <translation type="vanished">Tidak diketahui</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1137,7 +1137,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Mengambil berkas aset dari Mojang...</translation>
+        <translation type="vanished">Mengambil berkas aset dari Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1525,11 +1525,11 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folder mod global terkonfigurasi dan folder unduhan baku Anda diperiksa secara otomatis untuk mod yang diunduh dan akan disalin ke instansi jika ditemukan&lt;/p&gt;&lt;p&gt;Secara optional, Anda bisa menyeret dan melepas mod yang telah diunduh ke dialog ini atau menambahkan folder untuk melihat jika Anda tidak mengunduh mod tersebut di lokasi baku.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folder mod global terkonfigurasi dan folder unduhan baku Anda diperiksa secara otomatis untuk mod yang diunduh dan akan disalin ke instansi jika ditemukan&lt;/p&gt;&lt;p&gt;Secara optional, Anda bisa menyeret dan melepas mod yang telah diunduh ke dialog ini atau menambahkan folder untuk melihat jika Anda tidak mengunduh mod tersebut di lokasi baku.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>Folder yang dilihat:</translation>
+        <translation type="vanished">Folder yang dilihat:</translation>
     </message>
 </context>
 <context>
@@ -1673,7 +1673,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>Satu atau lebih sub tugas gagal</translation>
+        <translation type="vanished">Satu atau lebih sub tugas gagal</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1916,7 +1916,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>Mod-mod inti</translation>
+        <translation type="vanished">Mod-mod inti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2056,22 +2056,22 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>Perintah Kustom (&amp;C)</translation>
+        <translation type="vanished">Perintah Kustom (&amp;C)</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>Perintah pasca-keluar (&amp;O):</translation>
+        <translation type="vanished">Perintah pasca-keluar (&amp;O):</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>&amp;Perintah pra-luncur:</translation>
+        <translation type="vanished">&amp;Perintah pra-luncur:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Perintah pembungkus (&amp;W):</translation>
+        <translation type="vanished">Perintah pembungkus (&amp;W):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2104,7 +2104,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Perintah Kustom</translation>
+        <translation type="vanished">Perintah Kustom</translation>
     </message>
 </context>
 <context>
@@ -2472,7 +2472,7 @@ Apakah kamu yakin?</translation>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Memeriksa jika mod-mod memiliki metadata...</translation>
+        <translation type="vanished">Memeriksa jika mod-mod memiliki metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2524,7 +2524,7 @@ Apakah kamu yakin?</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>Variabel-variabel &amp;Env</translation>
+        <translation type="vanished">Variabel-variabel &amp;Env</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2561,7 +2561,7 @@ Apakah kamu yakin?</translation>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>Variabel-variabel Env</translation>
+        <translation type="vanished">Variabel-variabel Env</translation>
     </message>
 </context>
 <context>
@@ -2684,11 +2684,11 @@ Apakah kamu yakin?</translation>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>&amp;Nama</translation>
+        <translation type="vanished">&amp;Nama</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>&amp;Versi</translation>
+        <translation type="vanished">&amp;Versi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2736,7 +2736,7 @@ Apakah kamu yakin?</translation>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>Penulis (&amp;A)</translation>
+        <translation type="vanished">Penulis (&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2921,7 +2921,7 @@ Apakah kamu yakin?</translation>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Filter:</translation>
+        <translation type="vanished">Filter:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2930,11 +2930,11 @@ Apakah kamu yakin?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>T&amp;ambah</translation>
+        <translation type="vanished">T&amp;ambah</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Tambah</translation>
+        <translation type="vanished">Tambah</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2943,7 +2943,7 @@ Apakah kamu yakin?</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>Hapus item yang dipilih</translation>
+        <translation type="vanished">Hapus item yang dipilih</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2952,7 +2952,7 @@ Apakah kamu yakin?</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>Aktifkan item yang dipilih</translation>
+        <translation type="vanished">Aktifkan item yang dipilih</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3067,7 +3067,7 @@ Apakah kamu yakin?</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>Mengunduh sumber daya baru</translation>
+        <translation type="vanished">Mengunduh sumber daya baru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3077,27 +3077,27 @@ Apakah kamu yakin?</translation>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Coba periksa atau perbarui sumber daya yang dipilih (semua sumber daya jika tidak ada yang dipilih)</translation>
+        <translation type="vanished">Coba periksa atau perbarui sumber daya yang dipilih (semua sumber daya jika tidak ada yang dipilih)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>Ekspor daftar mod</translation>
+        <translation type="vanished">Ekspor daftar mod</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>Ekspor metadata mod menjadi tulisan</translation>
+        <translation type="vanished">Ekspor metadata mod menjadi tulisan</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Kunjungi laman mod</translation>
+        <translation type="vanished">Kunjungi laman mod</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>Nonaktifkan item terpilih</translation>
+        <translation type="vanished">Nonaktifkan item terpilih</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>Pergi ke halaman awal Mods</translation>
+        <translation type="vanished">Pergi ke halaman awal Mods</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -3159,12 +3159,12 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>Konfirmasi nonaktifkan</translation>
+        <translation type="vanished">Konfirmasi nonaktifkan</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Menonaktifkan sumber daya ini ketika permainan masih berjalan dapat menyebabkan permainan berhenti mendadak.
+        <translation type="vanished">Menonaktifkan sumber daya ini ketika permainan masih berjalan dapat menyebabkan permainan berhenti mendadak.
 Apakah Anda yakin untuk melakukan hal ini?</translation>
     </message>
     <message>
@@ -3237,16 +3237,16 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Editor Eksternal (kosongkan untuk menggunakan bawaan sistem)</translation>
+        <translation type="vanished">Editor Eksternal (kosongkan untuk menggunakan bawaan sistem)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>Editor &amp;Teks:</translation>
+        <translation type="vanished">Editor &amp;Teks:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>Perkakas Eksternal</translation>
+        <translation type="vanished">Perkakas Eksternal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3308,17 +3308,17 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>Eksekusi JVisualVM</translation>
+        <translation type="vanished">Eksekusi JVisualVM</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Gagal saat memeriksa instalasi JVisualVM:
+        <translation type="vanished">Gagal saat memeriksa instalasi JVisualVM:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>Pengaturan JProfiler tampak baik</translation>
+        <translation type="vanished">Pengaturan JProfiler tampak baik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3345,7 +3345,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>Editor JSON</translation>
+        <translation type="vanished">Editor JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3459,7 +3459,7 @@ Coba ulang lagi.</translation>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Catatan: Jika Instansi FTB Anda tidak dalam lokasi baku, pilih menggunakan tombol di sebelah pencarian.</translation>
+        <translation type="vanished">Catatan: Jika Instansi FTB Anda tidak dalam lokasi baku, pilih menggunakan tombol di sebelah pencarian.</translation>
     </message>
 </context>
 <context>
@@ -3522,7 +3522,7 @@ Coba ulang lagi.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Mendapatkan respons API dari CurseForge untuk &apos;%1&apos;...</translation>
+        <translation type="vanished">Mendapatkan respons API dari CurseForge untuk &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3561,16 +3561,16 @@ Coba ulang lagi.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Mempersiapkan mod untuk CurseForge...</translation>
+        <translation type="vanished">Mempersiapkan mod untuk CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Tidak ada versi benar yang ditemukan untuk mod ini. Mungkin tidak tersedia untuk versi permainan / pemuat mod saat ini.</translation>
+        <translation type="vanished">Tidak ada versi benar yang ditemukan untuk mod ini. Mungkin tidak tersedia untuk versi permainan / pemuat mod saat ini.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Mod memiliki pembaruan baru yang tersedia, tetapi tidak dapat diunduh menggunakan CurseForge.</translation>
+        <translation type="vanished">Mod memiliki pembaruan baru yang tersedia, tetapi tidak dapat diunduh menggunakan CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3974,11 +3974,11 @@ Coba ulang lagi.</translation>
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>Kunci</translation>
+        <translation type="vanished">Kunci</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Nilai</translation>
+        <translation type="vanished">Nilai</translation>
     </message>
 </context>
 <context>
@@ -4368,11 +4368,11 @@ Coba ulang lagi.</translation>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>&amp;Nama:</translation>
+        <translation type="vanished">&amp;Nama:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>&amp;Grup:</translation>
+        <translation type="vanished">&amp;Grup:</translation>
     </message>
 </context>
 <context>
@@ -4560,19 +4560,19 @@ Coba ulang lagi.</translation>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation>Buka setelan Global</translation>
+        <translation type="vanished">Buka setelan Global</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Pengaturan di sini adalah timpaan untuk pengaturan global.</translation>
+        <translation type="vanished">Pengaturan di sini adalah timpaan untuk pengaturan global.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Insta&amp;lasi Java</translation>
+        <translation type="vanished">Insta&amp;lasi Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>Deteksi otomatis...</translation>
+        <translation type="vanished">Deteksi otomatis...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4580,72 +4580,72 @@ Coba ulang lagi.</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>Uji coba</translation>
+        <translation type="vanished">Uji coba</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Jika aktif, peluncur tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
+        <translation type="vanished">Jika aktif, peluncur tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>Lewati pemeriksaan kompatibilitas Java</translation>
+        <translation type="vanished">Lewati pemeriksaan kompatibilitas Java</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>Memori (&amp;Y)</translation>
+        <translation type="vanished">Memori (&amp;Y)</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Alokasi memori (RAM) minimum:</translation>
+        <translation type="vanished">Alokasi memori (RAM) minimum:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
+        <translation type="vanished">Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
+        <translation type="vanished">Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
+        <translation type="vanished">Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Alokasi memori (RAM) maksimum:</translation>
+        <translation type="vanished">Alokasi memori (RAM) maksimum:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Telusuri</translation>
+        <translation type="vanished">Telusuri</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Unduh Java</translation>
+        <translation type="vanished">Unduh Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>PermGen:</translation>
+        <translation type="vanished">PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Catatan: Permgen diatur secara otomatis oleh Java 8 dan versi kemudian</translation>
+        <translation type="vanished">Catatan: Permgen diatur secara otomatis oleh Java 8 dan versi kemudian</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Argumen Java (&amp;T)</translation>
+        <translation type="vanished">Argumen Java (&amp;T)</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>Jendela Game</translation>
+        <translation type="vanished">Jendela Game</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>Jendela Game</translation>
+        <translation type="vanished">Jendela Game</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Mulai Minecraft dengan layar penuh</translation>
+        <translation type="vanished">Mulai Minecraft dengan layar penuh</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4657,156 +4657,156 @@ Coba ulang lagi.</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation>Ketinggian Jendela:</translation>
+        <translation type="vanished">Ketinggian Jendela:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>Lebar jendela:</translation>
+        <translation type="vanished">Lebar jendela:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Pengaturan Konso&amp;l</translation>
+        <translation type="vanished">Pengaturan Konso&amp;l</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>Tampilkan konsol ketika game berjalan</translation>
+        <translation type="vanished">Tampilkan konsol ketika game berjalan</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Otomatis tutup konsol ketika keluar dari permainan</translation>
+        <translation type="vanished">Otomatis tutup konsol ketika keluar dari permainan</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Tampilkan konsol ketika game gagal</translation>
+        <translation type="vanished">Tampilkan konsol ketika game gagal</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Tutup laucher setelah jendela permainan terbuka</translation>
+        <translation type="vanished">Tutup laucher setelah jendela permainan terbuka</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Keluar dari peluncur setelah jendela permainan tertutup</translation>
+        <translation type="vanished">Keluar dari peluncur setelah jendela permainan tertutup</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>Perintah Kustom</translation>
+        <translation type="vanished">Perintah Kustom</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Variabel-variabel Env</translation>
+        <translation type="vanished">Variabel-variabel Env</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>Solusi</translation>
+        <translation type="vanished">Solusi</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>Perpustakaan asli</translation>
+        <translation type="vanished">Perpustakaan asli</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>Path library &amp;GLFW</translation>
+        <translation type="vanished">Path library &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>Gunakan instalasi sistem dari GLFW</translation>
+        <translation type="vanished">Gunakan instalasi sistem dari GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Gunakan instalasi sistem OpenAL</translation>
+        <translation type="vanished">Gunakan instalasi sistem OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>Dunia pemain tunggal</translation>
+        <translation type="vanished">Dunia pemain tunggal</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation>Timpa akun baku</translation>
+        <translation type="vanished">Timpa akun baku</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Akun:</translation>
+        <translation type="vanished">Akun:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Lain-lain</translation>
+        <translation type="vanished">Lain-lain</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>Path library &amp;OpenAL</translation>
+        <translation type="vanished">Path library &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Kinerja</translation>
+        <translation type="vanished">Kinerja</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktifkan Feral Interactive&apos;s GameMode, untuk secara potensial meningkatkan kinerja permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktifkan Feral Interactive&apos;s GameMode, untuk secara potensial meningkatkan kinerja permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Nyalakan Feral GameMode</translation>
+        <translation type="vanished">Nyalakan Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nyalakan overlay kinerja lanjutan MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nyalakan overlay kinerja lanjutan MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Nyalakan MangoHud</translation>
+        <translation type="vanished">Nyalakan MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan GPU terpisah ketimbang GPU utama.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan GPU terpisah ketimbang GPU utama.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Gunakan GPU terpisah</translation>
+        <translation type="vanished">Gunakan GPU terpisah</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Gunakan Zink, sebuah driver Mesa OpenGL yang mengimplementasikan OpenGL bersama Vulkan. Performa mungkin bervariasi tergantung situasi. Catatan: Jika tidak ada driver Vulkan yang ditemukan, software rendering akan digunakan.</translation>
+        <translation type="vanished">Gunakan Zink, sebuah driver Mesa OpenGL yang mengimplementasikan OpenGL bersama Vulkan. Performa mungkin bervariasi tergantung situasi. Catatan: Jika tidak ada driver Vulkan yang ditemukan, software rendering akan digunakan.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Gunakan Zink</translation>
+        <translation type="vanished">Gunakan Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Pengaturan versi lama</translation>
+        <translation type="vanished">Pengaturan versi lama</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mengemulasi penggunaan layanan daring sebelumnya yang sekarang tidak beroperasi.&lt;/p&gt;&lt;p&gt;Perbaikan saat ini: skin dan dukungan mode daring.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mengemulasi penggunaan layanan daring sebelumnya yang sekarang tidak beroperasi.&lt;/p&gt;&lt;p&gt;Perbaikan saat ini: skin dan dukungan mode daring.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Aktifkan perbaikan daring (eksperimental)</translation>
+        <translation type="vanished">Aktifkan perbaikan daring (eksperimental)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>Ganti pengaturan waktu permainan global</translation>
+        <translation type="vanished">Ganti pengaturan waktu permainan global</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>Tampilkan waktu main instansi ini</translation>
+        <translation type="vanished">Tampilkan waktu main instansi ini</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>Rekam waktu main instansi ini</translation>
+        <translation type="vanished">Rekam waktu main instansi ini</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>Setel tujuan gabung ketika diluncurkan</translation>
+        <translation type="vanished">Setel tujuan gabung ketika diluncurkan</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>Alamat server:</translation>
+        <translation type="vanished">Alamat server:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4815,47 +4815,47 @@ Coba ulang lagi.</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Path ke berkas library %1</translation>
+        <translation type="vanished">Path ke berkas library %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive&apos;s GameMode tidak dapat ditemukan dalam sistem Anda.</translation>
+        <translation type="vanished">Feral Interactive&apos;s GameMode tidak dapat ditemukan dalam sistem Anda.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud tidak dapat ditemukan dalam sistem Anda.</translation>
+        <translation type="vanished">MangoHud tidak dapat ditemukan dalam sistem Anda.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Pilih versi Java</translation>
+        <translation type="vanished">Pilih versi Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Konfirmasi Pilihan</translation>
+        <translation type="vanished">Konfirmasi Pilihan</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Anda telah memilih versi 32-bit Java.
+        <translation type="vanished">Anda telah memilih versi 32-bit Java.
 Instalasi ini tidak mendukung lebih dari 2048MiB RAM.
 Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Cari berkas Java</translation>
+        <translation type="vanished">Cari berkas Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
+        <translation type="vanished">Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
+        <translation type="vanished">Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
+        <translation type="vanished">Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
     </message>
 </context>
 <context>
@@ -4956,7 +4956,7 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation>JVisualVM dimulai</translation>
+        <translation type="vanished">JVisualVM dimulai</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -4983,15 +4983,15 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Mengekstrak Java (Perkembangan tidak ditampilkan untuk arsip tar)</translation>
+        <translation type="vanished">Mengekstrak Java (Perkembangan tidak ditampilkan untuk arsip tar)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation>Tidak dapat membuka berkas tar yang disediakan.</translation>
+        <translation type="vanished">Tidak dapat membuka berkas tar yang disediakan.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Tidak dapat mengekstrak berkas tar yang disediakan.</translation>
+        <translation type="vanished">Tidak dapat mengekstrak berkas tar yang disediakan.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5005,7 +5005,7 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation>Tidak dapat menentukan jenis arsip!</translation>
+        <translation type="vanished">Tidak dapat menentukan jenis arsip!</translation>
     </message>
 </context>
 <context>
@@ -5111,70 +5111,70 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>Memori</translation>
+        <translation type="vanished">Memori</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
+        <translation type="vanished">Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>Alokasi memori (RAM) &amp;minimum:</translation>
+        <translation type="vanished">Alokasi memori (RAM) &amp;minimum:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>Alokasi memori (RAM) maksimum (&amp;X):</translation>
+        <translation type="vanished">Alokasi memori (RAM) maksimum (&amp;X):</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>&amp;PermGen:</translation>
+        <translation type="vanished">&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
+        <translation type="vanished">Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
+        <translation type="vanished">Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Runtime Java</translation>
+        <translation type="vanished">Runtime Java</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>Argumen-argumen JVM:</translation>
+        <translation type="vanished">Argumen-argumen JVM:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Memilih versi Java yang didukung instansi Minecraft saat ini secara otomatis, berdasarkan versi mayoritas yang dibutuhkan.</translation>
+        <translation type="vanished">Memilih versi Java yang didukung instansi Minecraft saat ini secara otomatis, berdasarkan versi mayoritas yang dibutuhkan.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Deteksi otomatis versi Java</translation>
+        <translation type="vanished">Deteksi otomatis versi Java</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Path &amp;Java:</translation>
+        <translation type="vanished">Path &amp;Java:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>Mengunduh dan memilih versi Java yang disarankan Mojang secara otomatis.</translation>
+        <translation type="vanished">Mengunduh dan memilih versi Java yang disarankan Mojang secara otomatis.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Unduh Java Mojang secara otomatis</translation>
+        <translation type="vanished">Unduh Java Mojang secara otomatis</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>Pengelolaan</translation>
+        <translation type="vanished">Pengelolaan</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>Versi-versi Java terunduh</translation>
+        <translation type="vanished">Versi-versi Java terunduh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5204,33 +5204,33 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>Deteksi otom&amp;atis...</translation>
+        <translation type="vanished">Deteksi otom&amp;atis...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>Uji coba (&amp;T)</translation>
+        <translation type="vanished">Uji coba (&amp;T)</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Telusuri</translation>
+        <translation type="vanished">Telusuri</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Jika dinyalakan, peluncur tidak akan meminta Anda memilih versi Java bila tidak ditemukan.</translation>
+        <translation type="vanished">Jika dinyalakan, peluncur tidak akan meminta Anda memilih versi Java bila tidak ditemukan.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Lewati &amp;Wizzard Java</translation>
+        <translation type="vanished">Lewati &amp;Wizzard Java</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Jika aktif, peluncur tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
+        <translation type="vanished">Jika aktif, peluncur tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>Lewati pemerik&amp;saan kompatibilitas Java</translation>
+        <translation type="vanished">Lewati pemerik&amp;saan kompatibilitas Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5251,35 +5251,35 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Pilih versi Java</translation>
+        <translation type="vanished">Pilih versi Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Konfirmasi Pilihan</translation>
+        <translation type="vanished">Konfirmasi Pilihan</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Anda telah memilih versi 32-bit Java.
+        <translation type="vanished">Anda telah memilih versi 32-bit Java.
 Instalasi ini tidak mendukung lebih dari 2048MiB RAM.
 Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Cari berkas Java</translation>
+        <translation type="vanished">Cari berkas Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
+        <translation type="vanished">Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
+        <translation type="vanished">Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
+        <translation type="vanished">Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5298,7 +5298,7 @@ Apakah Anda yakin?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Tidak ada versi Java yang terpilih</translation>
+        <translation type="vanished">Tidak ada versi Java yang terpilih</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5316,7 +5316,7 @@ Anda dapat mengubah versi Java di pengaturan nanti.
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Unduh Java</translation>
+        <translation type="vanished">Unduh Java</translation>
     </message>
     <message>
         <source>Automatic Java Download</source>
@@ -5332,7 +5332,7 @@ Apakah Anda ingin mengaktifkan pengunduhan Java otomatis?
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>Java 32-bit dideteksi</translation>
+        <translation type="vanished">Java 32-bit dideteksi</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5341,7 +5341,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Anda telah memilih sebuah instalasi 32-bit Java, tetapi memori teralokasi lebih dari 2048MiB sebagai memori maksimum.
+        <translation type="vanished">Anda telah memilih sebuah instalasi 32-bit Java, tetapi memori teralokasi lebih dari 2048MiB sebagai memori maksimum.
 %1 tidak akan dapat memulai Minecraft.
 Apakah Anda yakin melanjutkan?
 
@@ -5355,7 +5355,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Antara Anda tidak memilih sebuah versi Java atau Anda memilih versi yang tidak dapat bekerja.
+        <translation type="vanished">Antara Anda tidak memilih sebuah versi Java atau Anda memilih versi yang tidak dapat bekerja.
 %1 tidak akan bisa memulai Minecraft.
 Apakah Anda yakin melanjutkan tanpa versi Java yang fungsional?
 
@@ -5369,7 +5369,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     </message>
     <message>
         <source>Memory</source>
-        <translation>Memori</translation>
+        <translation type="vanished">Memori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5378,7 +5378,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Alokasi memori (RAM) minimum:</translation>
+        <translation type="vanished">Alokasi memori (RAM) minimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5484,7 +5484,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Alokasi memori (RAM) maksimum:</translation>
+        <translation type="vanished">Alokasi memori (RAM) maksimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5523,19 +5523,19 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     </message>
     <message>
         <source>Browse</source>
-        <translation>Telusuri</translation>
+        <translation type="vanished">Telusuri</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Unduh Java Mojang secara otomatis</translation>
+        <translation type="vanished">Unduh Java Mojang secara otomatis</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Deteksi otomatis versi Java</translation>
+        <translation type="vanished">Deteksi otomatis versi Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>Deteksi Java secara otomatis</translation>
+        <translation type="vanished">Deteksi Java secara otomatis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5573,15 +5573,15 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
+        <translation type="vanished">Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
+        <translation type="vanished">Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Anda sedang melebihi alokasi maksimum yang didukung instalasi 32-bit Java.</translation>
+        <translation type="vanished">Anda sedang melebihi alokasi maksimum yang didukung instalasi 32-bit Java.</translation>
     </message>
 </context>
 <context>
@@ -5878,11 +5878,11 @@ Apakah Anda ingin memainkan demo?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>Mainkan Luring</translation>
+        <translation type="vanished">Mainkan Luring</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>Sesi akun ini telah kedaluwarsa dan harus dimasukkan kembali secara manual.</translation>
+        <translation type="vanished">Sesi akun ini telah kedaluwarsa dan harus dimasukkan kembali secara manual.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -5891,7 +5891,7 @@ Apakah Anda ingin memainkan demo?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>Identifikasi klien peluncur telah berubah. Mohon hapus dan tambahkan kembali akun ini.</translation>
+        <translation type="vanished">Identifikasi klien peluncur telah berubah. Mohon hapus dan tambahkan kembali akun ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -5900,7 +5900,7 @@ Apakah Anda ingin memainkan demo?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>Akun ini tidak lagi ada di server. Akun tersebut mungkin telah dimigrasikan, dalam kasus ini mohon tambahkan akun baru yang Anda migrasikan ke.</translation>
+        <translation type="vanished">Akun ini tidak lagi ada di server. Akun tersebut mungkin telah dimigrasikan, dalam kasus ini mohon tambahkan akun baru yang Anda migrasikan ke.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6045,11 +6045,11 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>Fitur-fitur</translation>
+        <translation type="vanished">Fitur-fitur</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>Pengaturan Pembaruan</translation>
+        <translation type="vanished">Pengaturan Pembaruan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6059,15 +6059,15 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <source>Update interval</source>
-        <translation>Interval pembaruan</translation>
+        <translation type="vanished">Interval pembaruan</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>Atur ke 0 untuk hanya memeriksa ketika aplikasi dibuka</translation>
+        <translation type="vanished">Atur ke 0 untuk hanya memeriksa ketika aplikasi dibuka</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>h</translation>
+        <translation type="vanished">h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
@@ -6127,7 +6127,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>Mode pengurutan tampilan instansi</translation>
+        <translation type="vanished">Mode pengurutan tampilan instansi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6142,7 +6142,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <source>Theme</source>
-        <translation>Tema</translation>
+        <translation type="vanished">Tema</translation>
     </message>
     <message>
         <source>Simple (Dark Icons)</source>
@@ -6162,17 +6162,17 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <source>Mods</source>
-        <translation>Mod-mod</translation>
+        <translation type="vanished">Mod-mod</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>Matikan penggunaan metadata yang disediakan penyedia mod (seperti Modrinth atau CurseForge) untuk mod-mod.</translation>
+        <translation type="vanished">Matikan penggunaan metadata yang disediakan penyedia mod (seperti Modrinth atau CurseForge) untuk mod-mod.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>Matikan penggunaan metadata untuk mod-mod</translation>
+        <translation type="vanished">Matikan penggunaan metadata untuk mod-mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6200,12 +6200,12 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>Periksa folder unduhan secara berulang</translation>
+        <translation type="vanished">Periksa folder unduhan secara berulang</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Nonaktifkan pemeriksaan, instalasi, dan pembaruan dependensi mod otomatis.</translation>
+        <translation type="vanished">Nonaktifkan pemeriksaan, instalasi, dan pembaruan dependensi mod otomatis.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -6218,27 +6218,27 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>Nonaktifkan pengelolaan ketergantungan mod otomatis</translation>
+        <translation type="vanished">Nonaktifkan pengelolaan ketergantungan mod otomatis</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Ketika membuat instansi modpack baru, mohon untuk tidak alh-alih menyarankan memperbarui instansi yang sudah ada.</translation>
+        <translation type="vanished">Ketika membuat instansi modpack baru, mohon untuk tidak alh-alih menyarankan memperbarui instansi yang sudah ada.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>Longkapi prompt pembaruan modpack</translation>
+        <translation type="vanished">Longkapi prompt pembaruan modpack</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Lain-lain</translation>
+        <translation type="vanished">Lain-lain</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>Jumlah tugas konkuren</translation>
+        <translation type="vanished">Jumlah tugas konkuren</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>Jumlah unduhan konkuren</translation>
+        <translation type="vanished">Jumlah unduhan konkuren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6247,7 +6247,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>Batas waktu permintaan HTTP</translation>
+        <translation type="vanished">Batas waktu permintaan HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6256,7 +6256,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>Jumlah percobaan ulang manual</translation>
+        <translation type="vanished">Jumlah percobaan ulang manual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6274,23 +6274,23 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <source>Cat</source>
-        <translation>Kucing</translation>
+        <translation type="vanished">Kucing</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Atur opasitas kucing. 0% berarti sepenuhnya transparan dan 100% berarti sepenuhnya tidak transparan.</translation>
+        <translation type="vanished">Atur opasitas kucing. 0% berarti sepenuhnya transparan dan 100% berarti sepenuhnya tidak transparan.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Opasitas</translation>
+        <translation type="vanished">Opasitas</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Alat-alat</translation>
+        <translation type="vanished">Alat-alat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
@@ -6448,27 +6448,27 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>Pengaturan Konsol</translation>
+        <translation type="vanished">Pengaturan Konsol</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Tampilkan konsol ketika pe&amp;rmainan sedang berjalan</translation>
+        <translation type="vanished">Tampilkan konsol ketika pe&amp;rmainan sedang berjalan</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>Tutup konsol sec&amp;ara otomatis ketika keluar permainan</translation>
+        <translation type="vanished">Tutup konsol sec&amp;ara otomatis ketika keluar permainan</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Tampilkan konsol ketika game berhenti (&amp;C)</translation>
+        <translation type="vanished">Tampilkan konsol ketika game berhenti (&amp;C)</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>Batas riwayat (&amp;H)</translation>
+        <translation type="vanished">Batas riwayat (&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6484,7 +6484,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>&amp;Font konsol</translation>
+        <translation type="vanished">&amp;Font konsol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6548,23 +6548,23 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Test/ERROR] OOoooOOOoooo! Kesalahan yang seram!</translation>
+        <translation type="vanished">[Test/ERROR] OOoooOOOoooo! Kesalahan yang seram!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Test/ERROR] Kesalahan yang seram!</translation>
+        <translation type="vanished">[Test/ERROR] Kesalahan yang seram!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[Test/WARN] Peringatan yang tidak terlalu seram.</translation>
+        <translation type="vanished">[Test/WARN] Peringatan yang tidak terlalu seram.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/DEBUG] Pesan debugging rahasia...</translation>
+        <translation type="vanished">[Test/DEBUG] Pesan debugging rahasia...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] Kesalahan fatal yang menakutkan!</translation>
+        <translation type="vanished">[Test/FATAL] Kesalahan fatal yang menakutkan!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6572,7 +6572,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] Pesan yang tidak berbahaya...</translation>
+        <translation type="vanished">[Test/INFO] Pesan yang tidak berbahaya...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6580,7 +6580,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Peluncur</translation>
+        <translation type="vanished">Peluncur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6688,7 +6688,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>Gagal membuka file modpack %1!</translation>
+        <translation type="vanished">Gagal membuka file modpack %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -6912,12 +6912,12 @@ Alasan:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>Memperbarui indeks untuk mod:
+        <translation type="vanished">Memperbarui indeks untuk mod:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>Metadata tidak sesuai</translation>
+        <translation type="vanished">Metadata tidak sesuai</translation>
     </message>
 </context>
 <context>
@@ -6989,7 +6989,7 @@ Alasan:
     </message>
     <message>
         <source>Search:</source>
-        <translation>Pencarian:</translation>
+        <translation type="vanished">Pencarian:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7101,7 +7101,7 @@ Alasan:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>Tidak dapat membuat:</translation>
+        <translation type="vanished">Tidak dapat membuat:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7118,7 +7118,7 @@ Alasan:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>Tidak dapat membuka berkas zip.</translation>
+        <translation type="vanished">Tidak dapat membuka berkas zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7137,7 +7137,7 @@ Alasan:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>Gagal mencari berkas pertama dalam zip</translation>
+        <translation type="vanished">Gagal mencari berkas pertama dalam zip</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -7151,7 +7151,7 @@ Alasan:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Tidak dapat memperbaiki izin akses berkas untuk %1</translation>
+        <translation type="vanished">Tidak dapat memperbaiki izin akses berkas untuk %1</translation>
     </message>
 </context>
 <context>
@@ -7264,11 +7264,11 @@ Alasan:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>Buka %1 atau pindai QR dan masukkan kode yang tertera.</translation>
+        <translation type="vanished">Buka %1 atau pindai QR dan masukkan kode yang tertera.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>Buka %2 dan masukkan kode yang tertera.</translation>
+        <translation type="vanished">Buka %2 dan masukkan kode yang tertera.</translation>
     </message>
 </context>
 <context>
@@ -7469,7 +7469,7 @@ Alasan:
     </message>
     <message>
         <source>More news...</source>
-        <translation>Lebih banyak berita...</translation>
+        <translation type="vanished">Lebih banyak berita...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7828,7 +7828,7 @@ Alasan:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Buat pintasan di desktop Anda untuk meluncurkan instansi terpilih.</translation>
+        <translation type="vanished">Buat pintasan di desktop Anda untuk meluncurkan instansi terpilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
@@ -7927,7 +7927,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Anda akan menghapus &quot;%1&quot;.
+        <translation type="vanished">Anda akan menghapus &quot;%1&quot;.
 Ini mungkin permanen dan akan sepenuhnya menghapus instansi ini.
 
 Apakah Anda yakin?</translation>
@@ -8192,7 +8192,7 @@ Mohon menambahkan akun Microsoft Anda.</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>Semua ini adalah instansi terhubung</translation>
+        <translation type="vanished">Semua ini adalah instansi terhubung</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8202,7 +8202,7 @@ Mohon menambahkan akun Microsoft Anda.</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>Instansi berikut mungkin mereferensikan berkas-berkas dalam instansi ini:
 
 %1
@@ -8214,43 +8214,43 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>Buat pintasan instansi</translation>
+        <translation type="vanished">Buat pintasan instansi</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Tidak dapat menemukan desktop?!</translation>
+        <translation type="vanished">Tidak dapat menemukan desktop?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Peluncur di dalam folder asal ekstraksi, maka tidak dapat dibuatkan pintasan.</translation>
+        <translation type="vanished">Peluncur di dalam folder asal ekstraksi, maka tidak dapat dibuatkan pintasan.</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Buat Aplikasi instansi</translation>
+        <translation type="vanished">Buat Aplikasi instansi</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>Gagal membuat ikon untuk Aplikasi.</translation>
+        <translation type="vanished">Gagal membuat ikon untuk Aplikasi.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>Entri-entri Desktop</translation>
+        <translation type="vanished">Entri-entri Desktop</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>Pintasan ke instansi ini telah dibuat di desktop Anda!</translation>
+        <translation type="vanished">Pintasan ke instansi ini telah dibuat di desktop Anda!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>Pintasan ke instansi ini telah dibuat!</translation>
+        <translation type="vanished">Pintasan ke instansi ini telah dibuat!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>Gagal membuat pintasan instansi!</translation>
+        <translation type="vanished">Gagal membuat pintasan instansi!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Peluncur sedang berjalan sebagai AppImage yang salah dikonfigurasi? (Variabel environment $APPIMAGE tidak ada)</translation>
+        <translation type="vanished">Peluncur sedang berjalan sebagai AppImage yang salah dikonfigurasi? (Variabel environment $APPIMAGE tidak ada)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8350,7 +8350,7 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Gagal membuat ikon untuk pintasan.</translation>
+        <translation type="vanished">Gagal membuat ikon untuk pintasan.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8358,7 +8358,7 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>Tidak didukung oleh platform Anda!</translation>
+        <translation type="vanished">Tidak didukung oleh platform Anda!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -8424,11 +8424,11 @@ Apakah Anda yakin?</translation>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation>Informasi paket</translation>
+        <translation type="vanished">Informasi paket</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>Nama paket:</translation>
+        <translation type="vanished">Nama paket:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8467,7 +8467,7 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>Perbarui dari berkas</translation>
+        <translation type="vanished">Perbarui dari berkas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8530,7 +8530,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     </message>
     <message>
         <source>Update pack</source>
-        <translation>Perbarui paket</translation>
+        <translation type="vanished">Perbarui paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -8728,12 +8728,12 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation>Ukuran Jendela</translation>
+        <translation type="vanished">Ukuran Jendela</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>&amp;Mulai Minecraft dengan layar penuh</translation>
+        <translation type="vanished">&amp;Mulai Minecraft dengan layar penuh</translation>
     </message>
     <message>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -8746,138 +8746,138 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>Panjang Jendela (&amp;H):</translation>
+        <translation type="vanished">Panjang Jendela (&amp;H):</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>Lebar jendela (&amp;W):</translation>
+        <translation type="vanished">Lebar jendela (&amp;W):</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>Tampilkan waktu main dalam jam</translation>
+        <translation type="vanished">Tampilkan waktu main dalam jam</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>Penyesuaian</translation>
+        <translation type="vanished">Penyesuaian</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Pengaturan versi lama</translation>
+        <translation type="vanished">Pengaturan versi lama</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mengemulasi kegunaan layanan daring sebelumnya yang sekarang tidak beroperasi.&lt;/p&gt;&lt;p&gt;Perbaikan saat ini: skin dan dukungan mode daring.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mengemulasi kegunaan layanan daring sebelumnya yang sekarang tidak beroperasi.&lt;/p&gt;&lt;p&gt;Perbaikan saat ini: skin dan dukungan mode daring.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Aktifkan perbaikan daring (eksperimental)</translation>
+        <translation type="vanished">Aktifkan perbaikan daring (eksperimental)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>Solusi perpustakaan asli</translation>
+        <translation type="vanished">Solusi perpustakaan asli</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>Gunakan instalasi sistem &amp;GLFW</translation>
+        <translation type="vanished">Gunakan instalasi sistem &amp;GLFW</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>Path library &amp;GLFW</translation>
+        <translation type="vanished">Path library &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Gunakan instalasi sistem &amp;OpenAL</translation>
+        <translation type="vanished">Gunakan instalasi sistem &amp;OpenAL</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>Path library &amp;OpenAL</translation>
+        <translation type="vanished">Path library &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Kinerja</translation>
+        <translation type="vanished">Kinerja</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktifkan Feral Interactive&apos;s GameMode, untuk secara potensial meningkatkan kinerja permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktifkan Feral Interactive&apos;s GameMode, untuk secara potensial meningkatkan kinerja permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Aktifkan Feral GameMode</translation>
+        <translation type="vanished">Aktifkan Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktifkan overlay kinerja lanjutan MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktifkan overlay kinerja lanjutan MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Aktifkan MangoHud</translation>
+        <translation type="vanished">Aktifkan MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan GPU terpisah ketimbang GPU utama.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan GPU terpisah ketimbang GPU utama.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Gunakan GPU terpisah</translation>
+        <translation type="vanished">Gunakan GPU terpisah</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan Zink, sebuah driver Mesa OpenGL yang mengimplementasikan OpenGL bersama Vulkan. Performa mungkin bervariasi tergantung situasi. Catatan: jika tidak ditemukan driver Vulkan yang cocok, software rendering akan digunakan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan Zink, sebuah driver Mesa OpenGL yang mengimplementasikan OpenGL bersama Vulkan. Performa mungkin bervariasi tergantung situasi. Catatan: jika tidak ditemukan driver Vulkan yang cocok, software rendering akan digunakan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Gunakan Zink</translation>
+        <translation type="vanished">Gunakan Zink</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>Waktu permainan</translation>
+        <translation type="vanished">Waktu permainan</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Umum</translation>
+        <translation type="vanished">Umum</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Tampilkan waktu main instansi-instansi (&amp;P)</translation>
+        <translation type="vanished">Tampilkan waktu main instansi-instansi (&amp;P)</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Tampilkan waktu main pada semu&amp;a instansi</translation>
+        <translation type="vanished">Tampilkan waktu main pada semu&amp;a instansi</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>&amp;Rekam waktu memainkan instansi-instansi</translation>
+        <translation type="vanished">&amp;Rekam waktu memainkan instansi-instansi</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Serba Aneka</translation>
+        <translation type="vanished">Serba Aneka</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Peluncur akan secara otomatis membuka kembali ketika permainan gagal atau keluar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Peluncur akan secara otomatis membuka kembali ketika permainan gagal atau keluar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>Tutup peluncur setelah jendela permainan terbuka (&amp;C)</translation>
+        <translation type="vanished">Tutup peluncur setelah jendela permainan terbuka (&amp;C)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Peluncur akan secara otomatis keluar setelah permainan keluar atau gagal.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Peluncur akan secara otomatis keluar setelah permainan keluar atau gagal.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>Keluar dari peluncur setelah jendela permainan tertutup (&amp;Q)</translation>
+        <translation type="vanished">Keluar dari peluncur setelah jendela permainan tertutup (&amp;Q)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -8886,19 +8886,19 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Path ke berkas library %1</translation>
+        <translation type="vanished">Path ke berkas library %1</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>Path terdeteksi secara otomatis: %1</translation>
+        <translation type="vanished">Path terdeteksi secara otomatis: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive&apos;s GameMode tidak dapat ditemukan dalam sistem Anda.</translation>
+        <translation type="vanished">Feral Interactive&apos;s GameMode tidak dapat ditemukan dalam sistem Anda.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud tidak dapat ditemukan dalam sistem Anda.</translation>
+        <translation type="vanished">MangoHud tidak dapat ditemukan dalam sistem Anda.</translation>
     </message>
 </context>
 <context>
@@ -9539,7 +9539,7 @@ Kemungkinan besar kamu akan perlu mengubah path - silakan merujuk ke situs mod.<
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>Tidak diketahui</translation>
+        <translation type="vanished">Tidak diketahui</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -9647,7 +9647,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Di mana mod diunduh dari.</translation>
+        <translation type="vanished">Di mana mod diunduh dari.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -9731,7 +9731,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     </message>
     <message>
         <source>Download mods</source>
-        <translation>Unduh mod-mod</translation>
+        <translation type="vanished">Unduh mod-mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -9749,11 +9749,11 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     </message>
     <message>
         <source>Add file</source>
-        <translation>Tambahkan berkas</translation>
+        <translation type="vanished">Tambahkan berkas</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>Tambahkan berkas yang diunduh secara lokal</translation>
+        <translation type="vanished">Tambahkan berkas yang diunduh secara lokal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -9768,11 +9768,11 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>Verifikasi Ketergantungan</translation>
+        <translation type="vanished">Verifikasi Ketergantungan</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>Mohon mencoba memperbarui dan periksa ketergantungan mod-mod terpilih (semua bila tidak ada yang terpilih)</translation>
+        <translation type="vanished">Mohon mencoba memperbarui dan periksa ketergantungan mod-mod terpilih (semua bila tidak ada yang terpilih)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
@@ -9782,35 +9782,35 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>Pergi ke laman beranda mod</translation>
+        <translation type="vanished">Pergi ke laman beranda mod</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Hapus metadata mod</translation>
+        <translation type="vanished">Hapus metadata mod</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation>Setel metadata pembaruan ke pengaturan awal</translation>
+        <translation type="vanished">Setel metadata pembaruan ke pengaturan awal</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Ganti Versi</translation>
+        <translation type="vanished">Ganti Versi</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>Ganti versi mod</translation>
+        <translation type="vanished">Ganti versi mod</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Kunjungi halaman web mod</translation>
+        <translation type="vanished">Kunjungi halaman web mod</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation>Kunjungi laman-laman mod</translation>
+        <translation type="vanished">Kunjungi laman-laman mod</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>Pergi ke laman dari mod-mod terpilih</translation>
+        <translation type="vanished">Pergi ke laman dari mod-mod terpilih</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -9826,7 +9826,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>Mohon instal pemuat mod dulu!</translation>
+        <translation type="vanished">Mohon instal pemuat mod dulu!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -10014,92 +10014,92 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>Konfirmasi mod-mod untuk diperbarui</translation>
+        <translation type="vanished">Konfirmasi mod-mod untuk diperbarui</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>Anda akan memperbarui mod-mod berikut:</translation>
+        <translation type="vanished">Anda akan memperbarui mod-mod berikut:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>Hanya mod-mod dengan centang akan diperbarui!</translation>
+        <translation type="vanished">Hanya mod-mod dengan centang akan diperbarui!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Nama mod: %1&lt;br&gt;Nama berkas: %2&lt;br&gt;Alasan: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Nama mod: %1&lt;br&gt;Nama berkas: %2&lt;br&gt;Alasan: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation>Pembuatan metadata gagal</translation>
+        <translation type="vanished">Pembuatan metadata gagal</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Tidak dapat membuat metadata untuk mod-mod berikut:&lt;br&gt;Apakah Anda ingin melanjutkan tanpa mod-mod tersebut?</translation>
+        <translation type="vanished">Tidak dapat membuat metadata untuk mod-mod berikut:&lt;br&gt;Apakah Anda ingin melanjutkan tanpa mod-mod tersebut?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation>Memeriksa untuk pembaruan</translation>
+        <translation type="vanished">Memeriksa untuk pembaruan</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Kesalahan</translation>
+        <translation type="vanished">Kesalahan</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>Peringatan-peringatan</translation>
+        <translation type="vanished">Peringatan-peringatan</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Batalkan</translation>
+        <translation type="vanished">Batalkan</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>Memeriksa untuk pembaruan...</translation>
+        <translation type="vanished">Memeriksa untuk pembaruan...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>Nama mod: %1</translation>
+        <translation type="vanished">Nama mod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>Alasan: %1</translation>
+        <translation type="vanished">Alasan: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>Solusi memungkinkan: Mendapatkan versi terkini secara manual:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation type="vanished">Solusi memungkinkan: Mendapatkan versi terkini secara manual:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>Memeriksa ketergantungan...</translation>
+        <translation type="vanished">Memeriksa ketergantungan...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>Mod &apos;%1&apos; belum memiliki metadata. Kami harus membuatnya untuk melacak informasi relevan tentang cara memperbarui mod ini. Untuk melakukan ini, mohon memilih penyedia mod yang kami dapat pakai untuk memeriksa pembaruan untuk mod ini.</translation>
+        <translation type="vanished">Mod &apos;%1&apos; belum memiliki metadata. Kami harus membuatnya untuk melacak informasi relevan tentang cara memperbarui mod ini. Untuk melakukan ini, mohon memilih penyedia mod yang kami dapat pakai untuk memeriksa pembaruan untuk mod ini.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Tidak dapat memilih versi sesuai pada penyedia(-penyedia) mod terpilih</translation>
+        <translation type="vanished">Tidak dapat memilih versi sesuai pada penyedia(-penyedia) mod terpilih</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
+        <translation type="vanished">Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>Gagal memeriksa pembaruan</translation>
+        <translation type="vanished">Gagal memeriksa pembaruan</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Tidak dapat memeriksa atau mendapatkan mod-mod berikut untuk pembaharuan:&lt;br&gt;Apakah Anda ingin melanjutkan tanpa mod-mod tersebut?</translation>
+        <translation type="vanished">Tidak dapat memeriksa atau mendapatkan mod-mod berikut untuk pembaharuan:&lt;br&gt;Apakah Anda ingin melanjutkan tanpa mod-mod tersebut?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>Mencari metadata</translation>
+        <translation type="vanished">Mencari metadata</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>Membuat metadata...</translation>
+        <translation type="vanished">Membuat metadata...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10107,35 +10107,35 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>Penyedia: %1</translation>
+        <translation type="vanished">Penyedia: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation>Versi lama: %1</translation>
+        <translation type="vanished">Versi lama: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>Tidak terinstal</translation>
+        <translation type="vanished">Tidak terinstal</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation>Versi baru: %1</translation>
+        <translation type="vanished">Versi baru: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>Jenis Versi Baru: %1</translation>
+        <translation type="vanished">Jenis Versi Baru: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>Dibutuhkan oleh: %1</translation>
+        <translation type="vanished">Dibutuhkan oleh: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>Dibutuhkan oleh:</translation>
+        <translation type="vanished">Dibutuhkan oleh:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>Daftar perubahan versi terbaru</translation>
+        <translation type="vanished">Daftar perubahan versi terbaru</translation>
     </message>
 </context>
 <context>
@@ -10208,7 +10208,7 @@ Mohon perbarui %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Menyiapkan mod-mod untuk Modrinth...</translation>
+        <translation type="vanished">Menyiapkan mod-mod untuk Modrinth...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10246,7 +10246,7 @@ Mohon perbarui %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Tidak ada versi sesuai yang ditemukan untuk mod ini. Mungkin tidak tersedia untuk versi permainan / pemuat mod saat ini.</translation>
+        <translation type="vanished">Tidak ada versi sesuai yang ditemukan untuk mod ini. Mungkin tidak tersedia untuk versi permainan / pemuat mod saat ini.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -10754,27 +10754,27 @@ Mohon perbarui %1!</translation>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>Tambahkan Akun</translation>
+        <translation type="vanished">Tambahkan Akun</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Nama pengguna</translation>
+        <translation type="vanished">Nama pengguna</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>Username lebih panjang dari 16 karakter tidak dapat digunakan untuk permainan LAN atau server-server mode luring.</translation>
+        <translation type="vanished">Username lebih panjang dari 16 karakter tidak dapat digunakan untuk permainan LAN atau server-server mode luring.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>Perbolehkan username panjang</translation>
+        <translation type="vanished">Perbolehkan username panjang</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Batalkan</translation>
+        <translation type="vanished">Batalkan</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OKE</translation>
+        <translation type="vanished">OKE</translation>
     </message>
 </context>
 <context>
@@ -10825,7 +10825,7 @@ Mohon perbarui %1!</translation>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>Cari</translation>
+        <translation type="vanished">Cari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -10914,31 +10914,31 @@ Mohon perbarui %1!</translation>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>Bersihkan riwayat</translation>
+        <translation type="vanished">Bersihkan riwayat</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Hapus</translation>
+        <translation type="vanished">Hapus</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>Unggah log ke layanan tempel yang diatur dalam preferensi.</translation>
+        <translation type="vanished">Unggah log ke layanan tempel yang diatur dalam preferensi.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Unggah</translation>
+        <translation type="vanished">Unggah</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>Bersihkan</translation>
+        <translation type="vanished">Bersihkan</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Muat ulang</translation>
+        <translation type="vanished">Muat ulang</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>Cari:</translation>
+        <translation type="vanished">Cari:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -10965,7 +10965,7 @@ Mohon perbarui %1!</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>File (%1) tidak dapat dibaca.</translation>
+        <translation type="vanished">File (%1) tidak dapat dibaca.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -11042,7 +11042,7 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>Daftar riwayat lainnya</translation>
+        <translation type="vanished">Daftar riwayat lainnya</translation>
     </message>
 </context>
 <context>
@@ -11067,7 +11067,7 @@ Apakah Anda yakin?</translation>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation>Tutup</translation>
+        <translation type="vanished">Tutup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -11096,28 +11096,28 @@ Apakah Anda yakin?</translation>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation>Mengunggah ke %1</translation>
+        <translation type="vanished">Mengunggah ke %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation>Kesalahan jaringan: %1</translation>
+        <translation type="vanished">Kesalahan jaringan: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>Kesalahan: %1 mengembalikan kode status tak terduga %2 %3</translation>
+        <translation type="vanished">Kesalahan: %1 mengembalikan kode status tak terduga %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Kesalahan: %1 mengembalikan tubuh respons cacat</translation>
+        <translation type="vanished">Kesalahan: %1 mengembalikan tubuh respons cacat</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation>Kesalahan: %1 mengembalikan sebuah kesalahan: %2</translation>
+        <translation type="vanished">Kesalahan: %1 mengembalikan sebuah kesalahan: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>Kesalahan: %1 mengembalikan sebuah kode kesalahan: %2
+        <translation type="vanished">Kesalahan: %1 mengembalikan sebuah kode kesalahan: %2
 Pesan kesalahan: %3</translation>
     </message>
 </context>
@@ -11796,7 +11796,7 @@ Status HTTP: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>Server mengembalikan kesalahan berikut:</translation>
+        <translation type="vanished">Server mengembalikan kesalahan berikut:</translation>
     </message>
 </context>
 <context>
@@ -11853,7 +11853,7 @@ Status HTTP: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>Bawaan (&amp;D)</translation>
+        <translation type="vanished">Bawaan (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -11992,18 +11992,18 @@ Status HTTP: %2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>Laman</translation>
+        <translation type="vanished">Laman</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>Pengembang-pengembang %1</translation>
+        <translation type="vanished">Pengembang-pengembang %1</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>Terima kasih kepada</translation>
+        <translation type="vanished">Terima kasih kepada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -12064,7 +12064,7 @@ Lanjutkan dengan pemotongan?</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Gagal Mengunggah</translation>
+        <translation type="vanished">Gagal Mengunggah</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -12343,7 +12343,7 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>Biner Java yang ditentukan tidak berfungsi.&lt;br /&gt;Anda sebaiknya menggunakan fitur deteksi otomatis, atau atur path ke eksekutabel Java.&lt;br /&gt;</translation>
+        <translation type="vanished">Biner Java yang ditentukan tidak berfungsi.&lt;br /&gt;Anda sebaiknya menggunakan fitur deteksi otomatis, atau atur path ke eksekutabel Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -12371,7 +12371,7 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>Path tidak valid menuju JVisualVM</translation>
+        <translation type="vanished">Path tidak valid menuju JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -12396,7 +12396,7 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
     </message>
     <message>
         <source>No author(s)</source>
-        <translation>Tidak ada penulis</translation>
+        <translation type="vanished">Tidak ada penulis</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -12595,7 +12595,7 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Tidak dapat memperbaiki izin akses berkas untuk %1</translation>
+        <translation type="vanished">Tidak dapat memperbaiki izin akses berkas untuk %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -12995,7 +12995,7 @@ Pesan kesalahan: %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>Ubah versi %1</translation>
+        <translation type="vanished">Ubah versi %1</translation>
     </message>
 </context>
 <context>
@@ -13425,13 +13425,11 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Nama dari sumber daya.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Tanggal dan waktu sumber daya ini terakhir diubah (atau ditambahkan).</translation>
     </message>
     <message>
@@ -13541,7 +13539,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Apakah paket sumber daya aktif? (Hanya berlaku untuk ZIP-ZIP)</translation>
+        <translation type="vanished">Apakah paket sumber daya aktif? (Hanya berlaku untuk ZIP-ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
@@ -13562,15 +13560,15 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>Paket sumber daya</translation>
+        <translation type="vanished">Paket sumber daya</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Unduh paket-paket</translation>
+        <translation type="vanished">Unduh paket-paket</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Unduh paket-paket sumber daya dari platform-platform daring</translation>
+        <translation type="vanished">Unduh paket-paket sumber daya dari platform-platform daring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -13897,11 +13895,11 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation>Unduhan ini akan diletakkan di: %1</translation>
+        <translation type="vanished">Unduhan ini akan diletakkan di: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Berkas ini akan diunduh ke lokasi folder yang berbeda dari bawaan, kemungkinan dikarenakan pemuatnya membutuhkan.</translation>
+        <translation type="vanished">Berkas ini akan diunduh ke lokasi folder yang berbeda dari bawaan, kemungkinan dikarenakan pemuatnya membutuhkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -14204,7 +14202,7 @@ Versi sekarang diinstal: %1</translation>
     </message>
     <message>
         <source>Latency</source>
-        <translation>Latensi</translation>
+        <translation type="vanished">Latensi</translation>
     </message>
 </context>
 <context>
@@ -14333,15 +14331,15 @@ Apakah Anda yakin?</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>Paket Shader</translation>
+        <translation type="vanished">Paket Shader</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>Unduh shader-shader</translation>
+        <translation type="vanished">Unduh shader-shader</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Unduh shader-shader dari platform-platform daring</translation>
+        <translation type="vanished">Unduh shader-shader dari platform-platform daring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -14906,7 +14904,7 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Tidak dapat membuka file zip modpack yang disediakan.</translation>
+        <translation type="vanished">Tidak dapat membuka file zip modpack yang disediakan.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -15077,13 +15075,11 @@ inheritsFrom hilang</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Apakah paket daya dipakai?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Nama paket daya.</translation>
     </message>
     <message>
@@ -15139,7 +15135,6 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Tanggal dan waktu texture pack ini terakhir diubah (atau ditambahkan).</translation>
     </message>
     <message>
@@ -15177,11 +15172,11 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Unduh paket-paket</translation>
+        <translation type="vanished">Unduh paket-paket</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Unduh paket-paket tekstur dari platform-platform daring</translation>
+        <translation type="vanished">Unduh paket-paket tekstur dari platform-platform daring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -15303,7 +15298,7 @@ Apakah Anda yakin?</translation>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>&amp;Ikon-ikon</translation>
+        <translation type="vanished">&amp;Ikon-ikon</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -15311,54 +15306,54 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>Lihat folder tema ikon.</translation>
+        <translation type="vanished">Lihat folder tema ikon.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation>&amp;Widget-widget</translation>
+        <translation type="vanished">&amp;Widget-widget</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation>Lihat folder tema widget.</translation>
+        <translation type="vanished">Lihat folder tema widget.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Kucing akan muncul di latar belakang dan tidak ditampilkan secara bawaan. Itu hanya akan ditampilkan ketika tombol Kucing di Toolbar diklik.</translation>
+        <translation type="vanished">Kucing akan muncul di latar belakang dan tidak ditampilkan secara bawaan. Itu hanya akan ditampilkan ketika tombol Kucing di Toolbar diklik.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>Kucing (&amp;A)</translation>
+        <translation type="vanished">Kucing (&amp;A)</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>Lihat folder paket kucing.</translation>
+        <translation type="vanished">Lihat folder paket kucing.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation>Segarkan semua</translation>
+        <translation type="vanished">Segarkan semua</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>WizardPage</translation>
+        <translation type="vanished">WizardPage</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>Pilih Tema yang ingin Anda gunakan</translation>
+        <translation type="vanished">Pilih Tema yang ingin Anda gunakan</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Petunjuk: Kucing akan muncul di latar belakang dan tidak ditampilkan secara bawaan. Kucing hanya ditampilkan setelah tombol kucing di Toolbar dipencet.</translation>
+        <translation type="vanished">Petunjuk: Kucing akan muncul di latar belakang dan tidak ditampilkan secara bawaan. Kucing hanya ditampilkan setelah tombol kucing di Toolbar dipencet.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation> Pratinjau:</translation>
+        <translation type="vanished"> Pratinjau:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>Kucing akan muncul di latar belakang dan tidak memiliki kegunaan, hanya untuk visual.</translation>
+        <translation type="vanished">Kucing akan muncul di latar belakang dan tidak memiliki kegunaan, hanya untuk visual.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -15609,7 +15604,7 @@ Mohon berganti ke salah satu versi Java berikut untuk instansi ini:</translation
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Filter:</translation>
+        <translation type="vanished">Filter:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -16423,11 +16418,11 @@ Path kanonis: %1</translation>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>Datapack</translation>
+        <translation type="vanished">Datapack</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>Kelola datapacks didalam dunia.</translation>
+        <translation type="vanished">Kelola datapacks didalam dunia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -16455,7 +16450,7 @@ Apakah anda ingin melanjutkan?</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>Buka Folder Datapack Dunia</translation>
+        <translation type="vanished">Buka Folder Datapack Dunia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

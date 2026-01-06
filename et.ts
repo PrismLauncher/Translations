@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>Rakendusliidese võtmed</translation>
+        <translation type="vanished">Rakendusliidese võtmed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,16 +88,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Vaikimisi)</translation>
+        <translation type="vanished">(Vaikimisi)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Sisesta Microsoft Authenticationi kohandatud kliendi ID siia.</translation>
+        <translation type="vanished">Sisesta Microsoft Authenticationi kohandatud kliendi ID siia.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinthi rakendusliides</translation>
+        <translation type="vanished">&amp;Modrinthi rakendusliides</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,15 +106,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Sisesta Modrinthi kohandatud rakendusliidese token siia.</translation>
+        <translation type="vanished">Sisesta Modrinthi kohandatud rakendusliidese token siia.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(puudub)</translation>
+        <translation type="vanished">(puudub)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>Technic Client&apos;i ID</translation>
+        <translation type="vanished">Technic Client&apos;i ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Sisesta kohandatud Technic GUID kliendi ID siin.</translation>
+        <translation type="vanished">Sisesta kohandatud Technic GUID kliendi ID siin.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Varia</translation>
+        <translation type="vanished">Varia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Sisesta metaandmete jaoks kohandatud URL siia.</translation>
+        <translation type="vanished">Sisesta metaandmete jaoks kohandatud URL siia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core rakendusliides</translation>
+        <translation type="vanished">&amp;CurseForge Core rakendusliides</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Sisesta CurseForge jaoks kohandatud rakendusliidese võti siia.</translation>
+        <translation type="vanished">Sisesta CurseForge jaoks kohandatud rakendusliidese võti siia.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>Rakendusliidesed</translation>
+        <translation type="vanished">Rakendusliidesed</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>Paki seadistuste faili %1 avamine ebaõnnestus!</translation>
+        <translation type="vanished">Paki seadistuste faili %1 avamine ebaõnnestus!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -417,12 +417,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Märkimata</translation>
+        <translation type="vanished">Märkimata</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Võrgust väljas</translation>
+        <translation type="vanished">Võrgust väljas</translation>
     </message>
     <message>
         <source>Online</source>
@@ -450,37 +450,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>Valmis</translation>
+        <translation type="vanished">Valmis</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Töötamine</translation>
+        <translation type="vanished">Töötamine</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Vigane</translation>
+        <translation type="vanished">Vigane</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>Aegunud</translation>
+        <translation type="vanished">Aegunud</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Keelatud</translation>
+        <translation type="vanished">Keelatud</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Kadunud</translation>
+        <translation type="vanished">Kadunud</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>Tundmatu</translation>
+        <translation type="vanished">Tundmatu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1100,7 +1100,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Varafailide Mojangilt hankimine...</translation>
+        <translation type="vanished">Varafailide Mojangilt hankimine...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1488,11 +1488,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sinu seadistatud üldist modikausta ning vaikimisi allalaadimiskausta kontrollitakse automaatselt, leidmaks allalaaditud mode, ning need kopeeritakse leidmisel sinu eksemplari.&lt;/p&gt;&lt;p&gt;Soovi korral võid allalaaditud modid ka siia aknasse sikutada, või lisada uue jälgitava kausta, kui sa ei laadinud neid vaikimisi kausta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sinu seadistatud üldist modikausta ning vaikimisi allalaadimiskausta kontrollitakse automaatselt, leidmaks allalaaditud mode, ning need kopeeritakse leidmisel sinu eksemplari.&lt;/p&gt;&lt;p&gt;Soovi korral võid allalaaditud modid ka siia aknasse sikutada, või lisada uue jälgitava kausta, kui sa ei laadinud neid vaikimisi kausta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>Jälgitavad kaustad:</translation>
+        <translation type="vanished">Jälgitavad kaustad:</translation>
     </message>
 </context>
 <context>
@@ -1636,7 +1636,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>Üks või mitu alamülesannet ebaõnnestusid</translation>
+        <translation type="vanished">Üks või mitu alamülesannet ebaõnnestusid</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1878,7 +1878,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>Tuum-modid</translation>
+        <translation type="vanished">Tuum-modid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2018,22 +2018,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>Koh&amp;andatud käsklused</translation>
+        <translation type="vanished">Koh&amp;andatud käsklused</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>Väljumise-järgne käsklus:</translation>
+        <translation type="vanished">Väljumise-järgne käsklus:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Käivituse-eelne käsklus:</translation>
+        <translation type="vanished">Käivituse-eelne käsklus:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Ümbriskäsklus:</translation>
+        <translation type="vanished">Ümbriskäsklus:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2066,7 +2066,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Kohandatud käsklused</translation>
+        <translation type="vanished">Kohandatud käsklused</translation>
     </message>
 </context>
 <context>
@@ -2428,7 +2428,7 @@ Are you sure?</source>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Modide metaandmete kontrollimine...</translation>
+        <translation type="vanished">Modide metaandmete kontrollimine...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2480,7 +2480,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>&amp;Keskkonnamuutujad</translation>
+        <translation type="vanished">&amp;Keskkonnamuutujad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2517,7 +2517,7 @@ Are you sure?</source>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>Keskkonnamuutujad</translation>
+        <translation type="vanished">Keskkonnamuutujad</translation>
     </message>
 </context>
 <context>
@@ -2660,11 +2660,11 @@ Are you sure?</source>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>&amp;Nimi</translation>
+        <translation type="vanished">&amp;Nimi</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>&amp;Versioon</translation>
+        <translation type="vanished">&amp;Versioon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2716,7 +2716,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>&amp;Autor</translation>
+        <translation type="vanished">&amp;Autor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2896,7 +2896,7 @@ Are you sure?</source>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Filtreeri:</translation>
+        <translation type="vanished">Filtreeri:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2905,11 +2905,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Lisa</translation>
+        <translation type="vanished">&amp;Lisa</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Lisa</translation>
+        <translation type="vanished">Lisa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2918,7 +2918,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>Eemalda valitud üksus</translation>
+        <translation type="vanished">Eemalda valitud üksus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2927,7 +2927,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>Luba valitud üksus</translation>
+        <translation type="vanished">Luba valitud üksus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3042,7 +3042,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>Laadi uus ressurss alla</translation>
+        <translation type="vanished">Laadi uus ressurss alla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3052,27 +3052,23 @@ Are you sure?</source>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Proovi kontrollida ja uuendada kõik valitud ressursid (kõik ressursid, kui ühtegi pole valitud)</translation>
+        <translation type="vanished">Proovi kontrollida ja uuendada kõik valitud ressursid (kõik ressursid, kui ühtegi pole valitud)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>Ekspordi modiloend</translation>
+        <translation type="vanished">Ekspordi modiloend</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>Ekspordi modide metaandmed teksti</translation>
+        <translation type="vanished">Ekspordi modide metaandmed teksti</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Külasta modi lehekülge</translation>
-    </message>
-    <message>
-        <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Külasta modi lehekülge</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>Mine modi kodulehele</translation>
+        <translation type="vanished">Mine modi kodulehele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
@@ -3126,12 +3122,12 @@ Kas soovid kindlasti seda teha?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>Kinnita keelamist</translation>
+        <translation type="vanished">Kinnita keelamist</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Kui keelad selle ressursi mängu käimasoleku ajal, võib see mängu kokku jooksutada.
+        <translation type="vanished">Kui keelad selle ressursi mängu käimasoleku ajal, võib see mängu kokku jooksutada.
 Kas soovid kindlasti seda teha?</translation>
     </message>
     <message>
@@ -3204,16 +3200,16 @@ Kas soovid kindlasti seda teha?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Välised redaktorid (süsteemi vaikeväärtuse jaoks jäta tühjaks)</translation>
+        <translation type="vanished">Välised redaktorid (süsteemi vaikeväärtuse jaoks jäta tühjaks)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>Tekstiredaktor:</translation>
+        <translation type="vanished">Tekstiredaktor:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>Välised tööriistad</translation>
+        <translation type="vanished">Välised tööriistad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3274,17 +3270,17 @@ Kas soovid kindlasti seda teha?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM täitmisfail</translation>
+        <translation type="vanished">JVisualVM täitmisfail</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>JVisualVM paigalduse kontrollimisel ilmnes tõrge:
+        <translation type="vanished">JVisualVM paigalduse kontrollimisel ilmnes tõrge:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>JVisualVM&apos;i seadistus tundub olevat korras</translation>
+        <translation type="vanished">JVisualVM&apos;i seadistus tundub olevat korras</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3311,7 +3307,7 @@ Kas soovid kindlasti seda teha?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>JSONi redaktor</translation>
+        <translation type="vanished">JSONi redaktor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3425,7 +3421,7 @@ Palun proovi uuesti.</translation>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Märkus: Kui su FTB eksemplarid ei asu vaikimisi kohas, vali koht otsingu kõrval oleva nupu kaudu.</translation>
+        <translation type="vanished">Märkus: Kui su FTB eksemplarid ei asu vaikimisi kohas, vali koht otsingu kõrval oleva nupu kaudu.</translation>
     </message>
 </context>
 <context>
@@ -3488,7 +3484,7 @@ Palun proovi uuesti.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>API vastuse saamine CurseForge&apos;ilt &apos;%1&apos; jaoks...</translation>
+        <translation type="vanished">API vastuse saamine CurseForge&apos;ilt &apos;%1&apos; jaoks...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3526,17 +3522,13 @@ Palun proovi uuesti.</translation>
         <translation type="unfinished">Tundmatu</translation>
     </message>
     <message>
-        <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Selle modi jaoks sobivat versiooni ei leitud. Seda ilmselt pole valitud mänguversioonile/modilaadurile olemas.</translation>
+        <translation type="vanished">Selle modi jaoks sobivat versiooni ei leitud. Seda ilmselt pole valitud mänguversioonile/modilaadurile olemas.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Modil on uus uuendus saadaval, kuid seda ei saa CurseForge kaudu alla laadida.</translation>
+        <translation type="vanished">Modil on uus uuendus saadaval, kuid seda ei saa CurseForge kaudu alla laadida.</translation>
     </message>
 </context>
 <context>
@@ -3961,11 +3953,11 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>Võti</translation>
+        <translation type="vanished">Võti</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Väärtus</translation>
+        <translation type="vanished">Väärtus</translation>
     </message>
 </context>
 <context>
@@ -4362,11 +4354,11 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>&amp;Nimi:</translation>
+        <translation type="vanished">&amp;Nimi:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>&amp;Grupp:</translation>
+        <translation type="vanished">&amp;Grupp:</translation>
     </message>
 </context>
 <context>
@@ -4542,19 +4534,19 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation>Ava üldsätted</translation>
+        <translation type="vanished">Ava üldsätted</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Siinsed sätted kirjutavad üldsätted üle.</translation>
+        <translation type="vanished">Siinsed sätted kirjutavad üldsätted üle.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Java paigaldus</translation>
+        <translation type="vanished">Java paigaldus</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>Tuvasta automaatselt...</translation>
+        <translation type="vanished">Tuvasta automaatselt...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4562,143 +4554,139 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Test</source>
-        <translation>Katseta</translation>
+        <translation type="vanished">Katseta</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Kui see on lubatud, ei kontrolli käivitaja, kas instants ühildub valitud Java-versiooniga.</translation>
+        <translation type="vanished">Kui see on lubatud, ei kontrolli käivitaja, kas instants ühildub valitud Java-versiooniga.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>Jäta Java ühilduvuskontrollid vahele</translation>
+        <translation type="vanished">Jäta Java ühilduvuskontrollid vahele</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>Mäl&amp;u</translation>
+        <translation type="vanished">Mäl&amp;u</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Minimaalne mälueraldus:</translation>
+        <translation type="vanished">Minimaalne mälueraldus:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Maksimaalne mälu hulk, mida Minecraft kasutada võib.</translation>
+        <translation type="vanished">Maksimaalne mälu hulk, mida Minecraft kasutada võib.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Mälu hulk, millega Minecraft käivitatakse.</translation>
+        <translation type="vanished">Mälu hulk, millega Minecraft käivitatakse.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Saadaval mälu hulk, millega saab talletada laetud Java klasse.</translation>
+        <translation type="vanished">Saadaval mälu hulk, millega saab talletada laetud Java klasse.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Maksimaalne mälueraldus:</translation>
+        <translation type="vanished">Maksimaalne mälueraldus:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Sirvi</translation>
+        <translation type="vanished">Sirvi</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Laadi Java alla</translation>
+        <translation type="vanished">Laadi Java alla</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>PermGen:</translation>
+        <translation type="vanished">PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Märkus: Permgen on Java 8 või hilisema poolt automaatselt määratud</translation>
+        <translation type="vanished">Märkus: Permgen on Java 8 või hilisema poolt automaatselt määratud</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Java argumen&amp;did</translation>
+        <translation type="vanished">Java argumen&amp;did</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>Mänguaknad</translation>
+        <translation type="vanished">Mänguaknad</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>Mänguaken</translation>
+        <translation type="vanished">Mänguaken</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Käivita Minecraft maksimeeritult</translation>
+        <translation type="vanished">Käivita Minecraft maksimeeritult</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation>Akna kõrgus:</translation>
+        <translation type="vanished">Akna kõrgus:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>Akna laius:</translation>
+        <translation type="vanished">Akna laius:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Konso&amp;oli sätted</translation>
+        <translation type="vanished">Konso&amp;oli sätted</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>Näita konsooli mängu töötamise ajal</translation>
+        <translation type="vanished">Näita konsooli mängu töötamise ajal</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Sulge mängu sulgemisel automaatselt konsool</translation>
+        <translation type="vanished">Sulge mängu sulgemisel automaatselt konsool</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Näita konsooli, kui mäng jookseb kokku</translation>
+        <translation type="vanished">Näita konsooli, kui mäng jookseb kokku</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Sulge käivitaja pärast mänguakna avanemist</translation>
+        <translation type="vanished">Sulge käivitaja pärast mänguakna avanemist</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Sulge käivitaja pärast mänguakna sulgemist</translation>
+        <translation type="vanished">Sulge käivitaja pärast mänguakna sulgemist</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>Kohandatud käsklused</translation>
+        <translation type="vanished">Kohandatud käsklused</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Keskkonnamuutujad</translation>
+        <translation type="vanished">Keskkonnamuutujad</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>Alt. lahendused</translation>
+        <translation type="vanished">Alt. lahendused</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>Kohalikud teegid</translation>
+        <translation type="vanished">Kohalikud teegid</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>&amp;GLFW-teegi failitee</translation>
+        <translation type="vanished">&amp;GLFW-teegi failitee</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>Kasuta GLFW&apos;i süsteemipaigaldust</translation>
-    </message>
-    <message>
-        <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Kasuta GLFW&apos;i süsteemipaigaldust</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>Üksikmängu maailm</translation>
+        <translation type="vanished">Üksikmängu maailm</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Kasuta OpenAL&apos;i süsteemipaigaldust</translation>
+        <translation type="vanished">Kasuta OpenAL&apos;i süsteemipaigaldust</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -4714,85 +4702,85 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Override default account</source>
-        <translation>Kirjuta vaikimisi konto üle</translation>
+        <translation type="vanished">Kirjuta vaikimisi konto üle</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Konto:</translation>
+        <translation type="vanished">Konto:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Muu</translation>
+        <translation type="vanished">Muu</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>&amp;OpenAL-teegi failitee</translation>
+        <translation type="vanished">&amp;OpenAL-teegi failitee</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Jõudlus</translation>
+        <translation type="vanished">Jõudlus</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Luba Feral Interactive&apos;i GameMode, et potentsiaalselt mängimisjõudlust parendada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Luba Feral Interactive&apos;i GameMode, et potentsiaalselt mängimisjõudlust parendada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Luba Feral GameMode</translation>
+        <translation type="vanished">Luba Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Luba MangoHud&apos;i täpsem jõudluse ülekate.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Luba MangoHud&apos;i täpsem jõudluse ülekate.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Luba MangoHud</translation>
+        <translation type="vanished">Luba MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kasuta peamise graafikakaardi asemel lisatud graafikakaarti.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kasuta peamise graafikakaardi asemel lisatud graafikakaarti.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Kasuta lisatud graafikakaarti</translation>
+        <translation type="vanished">Kasuta lisatud graafikakaarti</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Kasuta Zinki</translation>
+        <translation type="vanished">Kasuta Zinki</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Pärandseaded</translation>
+        <translation type="vanished">Pärandseaded</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuleerib vanu võrguservereid, mida enam ei eksisteeri.&lt;/p&gt;&lt;p&gt;Praeguste paranduste hulka kuuluvad: välimuste ja võrgumängu tugi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuleerib vanu võrguservereid, mida enam ei eksisteeri.&lt;/p&gt;&lt;p&gt;Praeguste paranduste hulka kuuluvad: välimuste ja võrgumängu tugi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Luba võrguparandused (katsetusjärgus)</translation>
+        <translation type="vanished">Luba võrguparandused (katsetusjärgus)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>Kirjuta üle globaalse mänguaja seaded</translation>
+        <translation type="vanished">Kirjuta üle globaalse mänguaja seaded</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>Kuva selle eksemplari mängimise aeg</translation>
+        <translation type="vanished">Kuva selle eksemplari mängimise aeg</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>Salvesta selle eksemplari mängimise aeg</translation>
+        <translation type="vanished">Salvesta selle eksemplari mängimise aeg</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>Määra mängutüüp, millega käivitusel liituda</translation>
+        <translation type="vanished">Määra mängutüüp, millega käivitusel liituda</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>Serveri aadress:</translation>
+        <translation type="vanished">Serveri aadress:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4801,39 +4789,39 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>%1 teegi failitee</translation>
+        <translation type="vanished">%1 teegi failitee</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive&apos;i GameMode&apos;i ei leitud sinu süsteemist.</translation>
+        <translation type="vanished">Feral Interactive&apos;i GameMode&apos;i ei leitud sinu süsteemist.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHudi ei leitud sinu süsteemist.</translation>
+        <translation type="vanished">MangoHudi ei leitud sinu süsteemist.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Vali Java versioon</translation>
+        <translation type="vanished">Vali Java versioon</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Kinnita valik</translation>
+        <translation type="vanished">Kinnita valik</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Valisid 32-bitise Java versiooni.
+        <translation type="vanished">Valisid 32-bitise Java versiooni.
 See paigaldus ei toeta suuremat RAMi kui 2048MiB.
 Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Leia Java täitmisfail</translation>
+        <translation type="vanished">Leia Java täitmisfail</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Sinu maksimaalne mälujaotus on minimaalsest väiksem</translation>
+        <translation type="vanished">Sinu maksimaalne mälujaotus on minimaalsest väiksem</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4841,11 +4829,11 @@ Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Sinu maksimaalne mälujaotus ületab süsteemi mälujaotust.</translation>
+        <translation type="vanished">Sinu maksimaalne mälujaotus ületab süsteemi mälujaotust.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Sinu maksimaalne mälujaotus on peaaegu süsteemi mälujaotus.</translation>
+        <translation type="vanished">Sinu maksimaalne mälujaotus on peaaegu süsteemi mälujaotus.</translation>
     </message>
 </context>
 <context>
@@ -4950,7 +4938,7 @@ Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation>JVisualVM käivitatud</translation>
+        <translation type="vanished">JVisualVM käivitatud</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -4977,15 +4965,15 @@ Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Java ekstraktimine (TAR-arhiivide korral pole progressi näha)</translation>
+        <translation type="obsolete">Java ekstraktimine (TAR-arhiivide korral pole progressi näha)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Pakutud TAR-faili avamine ebaõnnestus.</translation>
+        <translation type="obsolete">Pakutud TAR-faili avamine ebaõnnestus.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Pakutud TAR-faili ekstraktimine ebaõnnestus.</translation>
+        <translation type="obsolete">Pakutud TAR-faili ekstraktimine ebaõnnestus.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -4999,7 +4987,7 @@ Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Arhiivi tüübi määramine ebaõnnestus!</translation>
+        <translation type="obsolete">Arhiivi tüübi määramine ebaõnnestus!</translation>
     </message>
 </context>
 <context>
@@ -5105,70 +5093,62 @@ Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>Mälu</translation>
+        <translation type="vanished">Mälu</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Maksimaalne mälu hulk, mida Minecraft kasutada võib.</translation>
+        <translation type="vanished">Maksimaalne mälu hulk, mida Minecraft kasutada võib.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>&amp;Minimaalne mälueraldus:</translation>
+        <translation type="vanished">&amp;Minimaalne mälueraldus:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>Ma&amp;ksimaalne mälueraldus:</translation>
+        <translation type="vanished">Ma&amp;ksimaalne mälueraldus:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>&amp;PermGen:</translation>
+        <translation type="vanished">&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Mälu hulk, millega Minecraft käivitatakse.</translation>
+        <translation type="vanished">Mälu hulk, millega Minecraft käivitatakse.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Saadaval mälu hulk, millega saab talletada laetud Java klasse.</translation>
+        <translation type="vanished">Saadaval mälu hulk, millega saab talletada laetud Java klasse.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Java Runtime</translation>
+        <translation type="vanished">Java Runtime</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>JVM argumendid:</translation>
-    </message>
-    <message>
-        <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">JVM argumendid:</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Tuvasta Java versioon automaatselt</translation>
+        <translation type="vanished">Tuvasta Java versioon automaatselt</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>&amp;Java failitee:</translation>
-    </message>
-    <message>
-        <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Java failitee:</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Laadi Mojangi Java automaatselt alla</translation>
+        <translation type="vanished">Laadi Mojangi Java automaatselt alla</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>Haldamine</translation>
+        <translation type="vanished">Haldamine</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>Allalaaditud Java versioonid</translation>
+        <translation type="vanished">Allalaaditud Java versioonid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5198,33 +5178,33 @@ Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>Tuvasta &amp;automaatselt...</translation>
+        <translation type="vanished">Tuvasta &amp;automaatselt...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>&amp;Katseta</translation>
+        <translation type="vanished">&amp;Katseta</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Sirvi</translation>
+        <translation type="vanished">Sirvi</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Lubamisel ei küsi käivitaja Java versiooni valimist, kui seda juba ei leitud.</translation>
+        <translation type="vanished">Lubamisel ei küsi käivitaja Java versiooni valimist, kui seda juba ei leitud.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Jäta Java &amp;viisard vahele</translation>
+        <translation type="vanished">Jäta Java &amp;viisard vahele</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Kui see on lubatud, ei kontrolli käivitaja, kas eksemplar ühildub valitud Java-versiooniga.</translation>
+        <translation type="vanished">Kui see on lubatud, ei kontrolli käivitaja, kas eksemplar ühildub valitud Java-versiooniga.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>&amp;Jäta Java ühilduvuskontrollid vahele</translation>
+        <translation type="vanished">&amp;Jäta Java ühilduvuskontrollid vahele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5245,35 +5225,35 @@ Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Vali Java versioon</translation>
+        <translation type="vanished">Vali Java versioon</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Kinnita valik</translation>
+        <translation type="vanished">Kinnita valik</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Valisid 32-bitise Java versiooni.
+        <translation type="vanished">Valisid 32-bitise Java versiooni.
 See paigaldus ei toeta suuremat RAMi kui 2048MiB.
 Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Leia Java täitmisfail</translation>
+        <translation type="vanished">Leia Java täitmisfail</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Sinu maksimaalne mälujaotus ületab süsteemi mälujaotust.</translation>
+        <translation type="vanished">Sinu maksimaalne mälujaotus ületab süsteemi mälujaotust.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Sinu maksimaalne mälujaotus on peaaegu süsteemi mälujaotus.</translation>
+        <translation type="vanished">Sinu maksimaalne mälujaotus on peaaegu süsteemi mälujaotus.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Sinu maksimaalne mälujaotus on minimaalsest väiksem</translation>
+        <translation type="vanished">Sinu maksimaalne mälujaotus on minimaalsest väiksem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5292,7 +5272,7 @@ Kas oled kindel?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Ühtegi Java versiooni pole valitud</translation>
+        <translation type="vanished">Ühtegi Java versiooni pole valitud</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5310,11 +5290,11 @@ Sa saad Java versiooni hiljem seadetes muuta.
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Laadi Java alla</translation>
+        <translation type="vanished">Laadi Java alla</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>Tuvastati 32-bitine Java</translation>
+        <translation type="vanished">Tuvastati 32-bitine Java</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5323,7 +5303,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Valisid 32-bitise Java paigalduse, kuid määrasid maksimaalseks mälujaotuseks rohkem, kui 2048MiB.
+        <translation type="vanished">Valisid 32-bitise Java paigalduse, kuid määrasid maksimaalseks mälujaotuseks rohkem, kui 2048MiB.
 %1 ei saa Minecrafti käivitada.
 Kas soovid jätkata?
 
@@ -5337,16 +5317,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Sa kas ei valinud Java versiooni või valisid ühe, mis ei tööta.
+        <translation type="vanished">Sa kas ei valinud Java versiooni või valisid ühe, mis ei tööta.
 %1 ei saa Minecrafti käivitada.
 Kas soovid jätkata?
 
 Java versiooni saab pärast seadetes muuta.
 </translation>
-    </message>
-    <message>
-        <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
@@ -5355,7 +5331,7 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>Memory</source>
-        <translation>Mälu</translation>
+        <translation type="vanished">Mälu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5364,7 +5340,7 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Minimaalne mälueraldus:</translation>
+        <translation type="vanished">Minimaalne mälueraldus:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5466,7 +5442,7 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Maksimaalne mälueraldus:</translation>
+        <translation type="vanished">Maksimaalne mälueraldus:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5505,19 +5481,19 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>Browse</source>
-        <translation>Sirvi</translation>
+        <translation type="vanished">Sirvi</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Laadi Mojangi Java automaatselt alla</translation>
+        <translation type="vanished">Laadi Mojangi Java automaatselt alla</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Tuvasta Java versioon automaatselt</translation>
+        <translation type="vanished">Tuvasta Java versioon automaatselt</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>Tuvasta Java automaatselt</translation>
+        <translation type="vanished">Tuvasta Java automaatselt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5555,11 +5531,11 @@ Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Sinu maksimaalne mälujaotus on peaaegu süsteemi mälujaotus.</translation>
+        <translation type="vanished">Sinu maksimaalne mälujaotus on peaaegu süsteemi mälujaotus.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Sinu maksimaalne mälujaotus on minimaalsest väiksem</translation>
+        <translation type="vanished">Sinu maksimaalne mälujaotus on minimaalsest väiksem</translation>
     </message>
 </context>
 <context>
@@ -5856,11 +5832,11 @@ Kas soovid proovirežiimi mängida?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>Mängi võrguta</translation>
+        <translation type="vanished">Mängi võrguta</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>Konto on aegunud ning peab käsitsi uuesti sisse logima.</translation>
+        <translation type="vanished">Konto on aegunud ning peab käsitsi uuesti sisse logima.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -5869,7 +5845,7 @@ Kas soovid proovirežiimi mängida?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>Käivitaja kliendi-ID on muutunud. Palun eemalda see konto ja lisa uuesti.</translation>
+        <translation type="vanished">Käivitaja kliendi-ID on muutunud. Palun eemalda see konto ja lisa uuesti.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -5878,7 +5854,7 @@ Kas soovid proovirežiimi mängida?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>Seda kontot enam serverites ei eksisteeri. See võib olla migreeritud, sel juhul palun lisa uus konto, millele selle migreerisid.</translation>
+        <translation type="vanished">Seda kontot enam serverites ei eksisteeri. See võib olla migreeritud, sel juhul palun lisa uus konto, millele selle migreerisid.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6014,11 +5990,11 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>Funktsioonid</translation>
+        <translation type="vanished">Funktsioonid</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>Uuenduste sätted</translation>
+        <translation type="vanished">Uuenduste sätted</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6168,7 +6144,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>Eksemplaride kuvamise järjestus</translation>
+        <translation type="vanished">Eksemplaride kuvamise järjestus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6183,7 +6159,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Theme</source>
-        <translation>Teema</translation>
+        <translation type="vanished">Teema</translation>
     </message>
     <message>
         <source>&amp;Icons</source>
@@ -6207,17 +6183,17 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Mods</source>
-        <translation>Modid</translation>
+        <translation type="vanished">Modid</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>Keela modipakkujate (nagu Modrinth või CurseForge) metaandmete kasutamine modide jaoks.</translation>
+        <translation type="vanished">Keela modipakkujate (nagu Modrinth või CurseForge) metaandmete kasutamine modide jaoks.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>Keela modide jaoks metaandmete kasutamine</translation>
+        <translation type="vanished">Keela modide jaoks metaandmete kasutamine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6257,15 +6233,15 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Update interval</source>
-        <translation>Uuenduste intervall</translation>
+        <translation type="vanished">Uuenduste intervall</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>Määra 0, et kontrollida vaid käivitusel</translation>
+        <translation type="vanished">Määra 0, et kontrollida vaid käivitusel</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>h</translation>
+        <translation type="vanished">h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
@@ -6278,37 +6254,29 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Keela modisõltuvuste automaatne tuvastus, paigaldus ja uuendamine.</translation>
+        <translation type="vanished">Keela modisõltuvuste automaatne tuvastus, paigaldus ja uuendamine.</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>Keela modisõltuvuste automaatne haldamine</translation>
-    </message>
-    <message>
-        <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Keela modisõltuvuste automaatne haldamine</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>Jäta modipaki uuendamise küsimine vahele</translation>
+        <translation type="vanished">Jäta modipaki uuendamise küsimine vahele</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Varia</translation>
+        <translation type="vanished">Varia</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>Samaaegsete ülesannete arv</translation>
+        <translation type="vanished">Samaaegsete ülesannete arv</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>Samaaegsete allalaadimiste arv</translation>
+        <translation type="vanished">Samaaegsete allalaadimiste arv</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6317,7 +6285,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>HTTP-taotluste ajalõpp</translation>
+        <translation type="vanished">HTTP-taotluste ajalõpp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6326,7 +6294,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>Käsitsi uuestiproovimiste arv</translation>
+        <translation type="vanished">Käsitsi uuestiproovimiste arv</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6340,23 +6308,23 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Cat</source>
-        <translation>Kass</translation>
+        <translation type="vanished">Kass</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Määra kassi läbipaistmatus. 0% on täiesti läbipaistev ja 100% on täiesti läbipaistmatu.</translation>
+        <translation type="vanished">Määra kassi läbipaistmatus. 0% on täiesti läbipaistev ja 100% on täiesti läbipaistmatu.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Läbipaistmatus</translation>
+        <translation type="vanished">Läbipaistmatus</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Tööriistad</translation>
+        <translation type="vanished">Tööriistad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6421,27 +6389,27 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>Konsooli sätted</translation>
+        <translation type="vanished">Konsooli sätted</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Näita konsooli mängu &amp;töötamise ajal</translation>
+        <translation type="vanished">Näita konsooli mängu &amp;töötamise ajal</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>Sulge mängu sulgemisel &amp;automaatselt konsool</translation>
+        <translation type="vanished">Sulge mängu sulgemisel &amp;automaatselt konsool</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Näita konsooli, kui mäng &amp;jookseb kokku</translation>
+        <translation type="vanished">Näita konsooli, kui mäng &amp;jookseb kokku</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>&amp;Ajaloo limiit</translation>
+        <translation type="vanished">&amp;Ajaloo limiit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6457,7 +6425,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>Konsooli &amp;font</translation>
+        <translation type="vanished">Konsooli &amp;font</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6518,23 +6486,23 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Test/ERROR] OOoooOOOoooo! Hirmus viga!</translation>
+        <translation type="vanished">[Test/ERROR] OOoooOOOoooo! Hirmus viga!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Test/ERROR] Hirmus viga!</translation>
+        <translation type="vanished">[Test/ERROR] Hirmus viga!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[Test/WARN] Mitte nii hirmus viga.</translation>
+        <translation type="vanished">[Test/WARN] Mitte nii hirmus viga.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/DEBUG] Salajane silumissõnum...</translation>
+        <translation type="vanished">[Test/DEBUG] Salajane silumissõnum...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] Kohutav saatuslik viga!</translation>
+        <translation type="vanished">[Test/FATAL] Kohutav saatuslik viga!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6542,7 +6510,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] Ohutu sõnum...</translation>
+        <translation type="vanished">[Test/INFO] Ohutu sõnum...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6550,7 +6518,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Käivitaja</translation>
+        <translation type="vanished">Käivitaja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6658,7 +6626,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>Modipaki faili %1 avamine ebaõnnestus!</translation>
+        <translation type="vanished">Modipaki faili %1 avamine ebaõnnestus!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -6870,12 +6838,12 @@ Põhjus:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>Modi indeksi uuendamine: 
+        <translation type="vanished">Modi indeksi uuendamine: 
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>Sobimatud metaandmed</translation>
+        <translation type="vanished">Sobimatud metaandmed</translation>
     </message>
 </context>
 <context>
@@ -6947,7 +6915,7 @@ Põhjus:
     </message>
     <message>
         <source>Search:</source>
-        <translation>Otsi:</translation>
+        <translation type="vanished">Otsi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7059,7 +7027,7 @@ Põhjus:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>Ei suudetud luua:</translation>
+        <translation type="vanished">Ei suudetud luua:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7076,7 +7044,7 @@ Põhjus:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>Pakutud ZIP-faili avamine ebaõnnestus.</translation>
+        <translation type="vanished">Pakutud ZIP-faili avamine ebaõnnestus.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7095,7 +7063,7 @@ Põhjus:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>ZIP-is esimese failini liikumine ebaõnnestus</translation>
+        <translation type="vanished">ZIP-is esimese failini liikumine ebaõnnestus</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -7109,7 +7077,7 @@ Põhjus:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>%1 lubade parandamine ebaõnnestus</translation>
+        <translation type="vanished">%1 lubade parandamine ebaõnnestus</translation>
     </message>
 </context>
 <context>
@@ -7214,11 +7182,11 @@ Põhjus:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>Ava %1 või skanni QR ja sisesta ülalolev kood.</translation>
+        <translation type="vanished">Ava %1 või skanni QR ja sisesta ülalolev kood.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>Ava %1 ja sisesta ülalolev kood.</translation>
+        <translation type="vanished">Ava %1 ja sisesta ülalolev kood.</translation>
     </message>
 </context>
 <context>
@@ -7409,7 +7377,7 @@ Põhjus:
     </message>
     <message>
         <source>More news...</source>
-        <translation>Rohkem uudiseid...</translation>
+        <translation type="vanished">Rohkem uudiseid...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7453,7 +7421,7 @@ Põhjus:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Loob töölauale otsetee, mis käivitab valitud eksemplari.</translation>
+        <translation type="vanished">Loob töölauale otsetee, mis käivitab valitud eksemplari.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -8231,55 +8199,42 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Hakkad kustutama &quot;%1&quot;
+        <translation type="vanished">Hakkad kustutama &quot;%1&quot;
 See võib olla püsiv ning kustutab eksemplari täielikult.
 
 Kas oled kindel?</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>On ühendatud eksemplare</translation>
-    </message>
-    <message numerus="yes">
-        <source>The following instance(s) might reference files in this instance:
-
-%1
-
-Deleting it could break the other instance(s), 
-
-Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation type="vanished">On ühendatud eksemplare</translation>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>Loo eksemplari otsetee</translation>
+        <translation type="vanished">Loo eksemplari otsetee</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Töölauda ei leitud?!</translation>
+        <translation type="vanished">Töölauda ei leitud?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Käivitaja on kaustas, kust see ekstraktiti, seega see ei saa otseteid luua.</translation>
+        <translation type="vanished">Käivitaja on kaustas, kust see ekstraktiti, seega see ei saa otseteid luua.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>Töölauakirjed</translation>
+        <translation type="vanished">Töölauakirjed</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>Selle eksemplari otsetee on loodud sinu töölauale!</translation>
+        <translation type="vanished">Selle eksemplari otsetee on loodud sinu töölauale!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>Eksemplari otsetee loomine ebaõnnestus!</translation>
+        <translation type="vanished">Eksemplari otsetee loomine ebaõnnestus!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Käivitaja käitatakse valesti konfigureeritud AppImage-na? (keskkonnamuutuja $APPIMAGE puudub)</translation>
+        <translation type="vanished">Käivitaja käitatakse valesti konfigureeritud AppImage-na? (keskkonnamuutuja $APPIMAGE puudub)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8326,15 +8281,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Loo eksemplari rakendus</translation>
+        <translation type="vanished">Loo eksemplari rakendus</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>Rakenduse ikooni loomine ebaõnnestus.</translation>
+        <translation type="vanished">Rakenduse ikooni loomine ebaõnnestus.</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Otseteele ikooni loomine ebaõnnestus.</translation>
+        <translation type="vanished">Otseteele ikooni loomine ebaõnnestus.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8342,11 +8297,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>Pole sinu platvormil toetatud!</translation>
+        <translation type="vanished">Pole sinu platvormil toetatud!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>Loo sellele eksemplarile otsetee!</translation>
+        <translation type="vanished">Loo sellele eksemplarile otsetee!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -8419,11 +8374,11 @@ Are you sure?</source>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation>Paki teave</translation>
+        <translation type="vanished">Paki teave</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>Paki nimi:</translation>
+        <translation type="vanished">Paki nimi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8462,7 +8417,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>Uuenda failist</translation>
+        <translation type="vanished">Uuenda failist</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8525,7 +8480,7 @@ Seda saab uuendada vaid %1-vormingus failiga
     </message>
     <message>
         <source>Update pack</source>
-        <translation>Uuenda pakki</translation>
+        <translation type="vanished">Uuenda pakki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -8712,26 +8667,26 @@ Seda saab uuendada vaid %1-vormingus failiga
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation>Akna suurus</translation>
+        <translation type="vanished">Akna suurus</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>Käivita Minecraft &amp;maksimeeritult</translation>
+        <translation type="vanished">Käivita Minecraft &amp;maksimeeritult</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>Akna kõr&amp;gus:</translation>
+        <translation type="vanished">Akna kõr&amp;gus:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>Akna &amp;laius:</translation>
+        <translation type="vanished">Akna &amp;laius:</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>Trikid</translation>
+        <translation type="vanished">Trikid</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -8747,125 +8702,121 @@ Seda saab uuendada vaid %1-vormingus failiga
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Pärandseaded</translation>
+        <translation type="vanished">Pärandseaded</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuleerib vanu võrguservereid, mida enam ei eksisteeri.&lt;/p&gt;&lt;p&gt;Praeguste paranduste hulka kuuluvad välimuste ja võrgumängu tugi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuleerib vanu võrguservereid, mida enam ei eksisteeri.&lt;/p&gt;&lt;p&gt;Praeguste paranduste hulka kuuluvad välimuste ja võrgumängu tugi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Luba võrguparandused (katsetusjärgus)</translation>
+        <translation type="vanished">Luba võrguparandused (katsetusjärgus)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>Kohalike teekide alternatiivid</translation>
+        <translation type="vanished">Kohalike teekide alternatiivid</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>Kasuta &amp;GLFW&apos;i süsteemipaigaldust</translation>
+        <translation type="vanished">Kasuta &amp;GLFW&apos;i süsteemipaigaldust</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>&amp;GLFW-teegi failitee</translation>
+        <translation type="vanished">&amp;GLFW-teegi failitee</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Kasuta OpenAL&apos;i süsteemipaigaldust</translation>
+        <translation type="vanished">Kasuta OpenAL&apos;i süsteemipaigaldust</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>&amp;OpenAL-teegi failitee</translation>
+        <translation type="vanished">&amp;OpenAL-teegi failitee</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Jõudlus</translation>
+        <translation type="vanished">Jõudlus</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Luba Feral Interactive&apos;i GameMode, et potentsiaalselt mängujõudlust parendada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Luba Feral Interactive&apos;i GameMode, et potentsiaalselt mängujõudlust parendada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Luba Feral GameMode</translation>
+        <translation type="vanished">Luba Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Luba MangoHud&apos;i täpsem jõudluse ülekate.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Luba MangoHud&apos;i täpsem jõudluse ülekate.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Luba MangoHud</translation>
+        <translation type="vanished">Luba MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kasuta peamise graafikakaardi asemel lisatud graafikakaarti.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kasuta peamise graafikakaardi asemel lisatud graafikakaarti.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Kasuta lisatud graafikakaarti</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Kasuta lisatud graafikakaarti</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Kasuta Zinki</translation>
+        <translation type="vanished">Kasuta Zinki</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>Mängu aeg</translation>
+        <translation type="vanished">Mängu aeg</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Üldine</translation>
+        <translation type="vanished">Üldine</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Kuva eksemplaride &amp;mängimise aeg</translation>
+        <translation type="vanished">Kuva eksemplaride &amp;mängimise aeg</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Kuva kõigi eksemplaride &amp;mängimise aeg</translation>
+        <translation type="vanished">Kuva kõigi eksemplaride &amp;mängimise aeg</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>&amp;Salvesta eksemplaride mängimise ajad</translation>
+        <translation type="vanished">&amp;Salvesta eksemplaride mängimise ajad</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>Kuva mängimiseks kulunud aega tundides</translation>
+        <translation type="vanished">Kuva mängimiseks kulunud aega tundides</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Muu</translation>
+        <translation type="vanished">Muu</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käivitaja avaneb mängu kokkujooksmise või väljumise peale automaatselt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käivitaja avaneb mängu kokkujooksmise või väljumise peale automaatselt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>&amp;Sulge käivitaja pärast mänguakna avanemist</translation>
+        <translation type="vanished">&amp;Sulge käivitaja pärast mänguakna avanemist</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käivitaja sulgub mängu kokkujooksmise või väljumise peale automaatselt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käivitaja sulgub mängu kokkujooksmise või väljumise peale automaatselt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>&amp;Sulge käivitaja pärast mänguakna sulgemist</translation>
+        <translation type="vanished">&amp;Sulge käivitaja pärast mänguakna sulgemist</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -8874,19 +8825,19 @@ Seda saab uuendada vaid %1-vormingus failiga
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>%1 teegi failitee</translation>
+        <translation type="vanished">%1 teegi failitee</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>Automaatselt tuvastatud failitee: %1</translation>
+        <translation type="vanished">Automaatselt tuvastatud failitee: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive&apos;i GameMode&apos;i ei leitud sinu süsteemist.</translation>
+        <translation type="vanished">Feral Interactive&apos;i GameMode&apos;i ei leitud sinu süsteemist.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHudi ei leitud sinu süsteemist.</translation>
+        <translation type="vanished">MangoHudi ei leitud sinu süsteemist.</translation>
     </message>
 </context>
 <context>
@@ -9511,7 +9462,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>Tundmatu</translation>
+        <translation type="vanished">Tundmatu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -9612,7 +9563,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Kust mod alla laaditi.</translation>
+        <translation type="vanished">Kust mod alla laaditi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -9697,7 +9648,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download mods</source>
-        <translation>Laadi mode alla</translation>
+        <translation type="vanished">Laadi mode alla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -9715,11 +9666,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add file</source>
-        <translation>Lisa fail</translation>
+        <translation type="vanished">Lisa fail</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>Lisa kohalikult allalaaditud fail</translation>
+        <translation type="vanished">Lisa kohalikult allalaaditud fail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -9740,43 +9691,39 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>Mine modi kodulehele</translation>
+        <translation type="vanished">Mine modi kodulehele</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Eemalda modi metaandmed</translation>
+        <translation type="vanished">Eemalda modi metaandmed</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>Kinnita sõltuvused</translation>
-    </message>
-    <message>
-        <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Kinnita sõltuvused</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation>Lähtesta uuenduste metaandmed</translation>
+        <translation type="vanished">Lähtesta uuenduste metaandmed</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Vaheta versiooni</translation>
+        <translation type="vanished">Vaheta versiooni</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>Vaheta modi versiooni</translation>
+        <translation type="vanished">Vaheta modi versiooni</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Külasta modi lehekülge</translation>
+        <translation type="vanished">Külasta modi lehekülge</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation>Külasta modide lehekülgi</translation>
+        <translation type="vanished">Külasta modide lehekülgi</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>Mine valitud modide lehtedele</translation>
+        <translation type="vanished">Mine valitud modide lehtedele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
@@ -9799,7 +9746,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>Palun paigalda enne modilaadur!</translation>
+        <translation type="vanished">Palun paigalda enne modilaadur!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -10024,92 +9971,87 @@ Palun uuenda %1!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>Kinnita uuendatavad modid</translation>
+        <translation type="vanished">Kinnita uuendatavad modid</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>Hakkad järgnevaid mode uuendama:</translation>
+        <translation type="vanished">Hakkad järgnevaid mode uuendama:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>Ainult täidetud märkeruuduga modid uuendatakse!</translation>
+        <translation type="vanished">Ainult täidetud märkeruuduga modid uuendatakse!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Modi nimi: %1&lt;br&gt;Failinimi: %2&lt;br&gt;Põhjus: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Modi nimi: %1&lt;br&gt;Failinimi: %2&lt;br&gt;Põhjus: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation>Metaandmete genereerimine ebaõnnestus</translation>
+        <translation type="vanished">Metaandmete genereerimine ebaõnnestus</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Järgnevate modide jaoks ei saadud metaandmeid genereerida:&lt;br&gt;Kas soovid jätkata ilma nende modideta?</translation>
+        <translation type="vanished">Järgnevate modide jaoks ei saadud metaandmeid genereerida:&lt;br&gt;Kas soovid jätkata ilma nende modideta?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation>Uuenduste kontrollimine</translation>
+        <translation type="vanished">Uuenduste kontrollimine</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Viga</translation>
+        <translation type="vanished">Viga</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>Hoiatused</translation>
+        <translation type="vanished">Hoiatused</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Katkesta</translation>
+        <translation type="vanished">Katkesta</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>Uuenduste kontrollimine...</translation>
+        <translation type="vanished">Uuenduste kontrollimine...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>Modi nimi: %1</translation>
+        <translation type="vanished">Modi nimi: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>Põhjus: %1</translation>
-    </message>
-    <message>
-        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
-        <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Põhjus: %1</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>Sõltuvuste kontrollimine...</translation>
+        <translation type="vanished">Sõltuvuste kontrollimine...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>Modil &quot;%1&quot; puuduvad hetkel metaandmed. Et jälgida selle modi uuendamiseks vajalikku teavet, peame selle genereerima. Selleks vali modipakkuja, mida saame kasutada selle modi uuenduste hankimiseks.</translation>
+        <translation type="vanished">Modil &quot;%1&quot; puuduvad hetkel metaandmed. Et jälgida selle modi uuendamiseks vajalikku teavet, peame selle genereerima. Selleks vali modipakkuja, mida saame kasutada selle modi uuenduste hankimiseks.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Sobivat versiooni valitud modipakkuja(te)st ei leitud</translation>
+        <translation type="vanished">Sobivat versiooni valitud modipakkuja(te)st ei leitud</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished">Mod keelati, kuna see võib olla juba paigaldatud.</translation>
+        <translation type="obsolete">Mod keelati, kuna see võib olla juba paigaldatud.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>Uuenduste kontrollimine ebaõnnestus</translation>
+        <translation type="vanished">Uuenduste kontrollimine ebaõnnestus</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Järgnevaid mode ei saanud kontrollida või uuendusteks hankida:&lt;br&gt;Kas soovid jätkata ilma nende modideta?</translation>
+        <translation type="vanished">Järgnevaid mode ei saanud kontrollida või uuendusteks hankida:&lt;br&gt;Kas soovid jätkata ilma nende modideta?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>Metaandmete otsimine</translation>
+        <translation type="vanished">Metaandmete otsimine</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>Metaandmete genereerimine...</translation>
+        <translation type="vanished">Metaandmete genereerimine...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10117,35 +10059,35 @@ Palun uuenda %1!</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>Pakkuja: %1</translation>
+        <translation type="vanished">Pakkuja: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation>Vana versioon: %1</translation>
+        <translation type="vanished">Vana versioon: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>Pole paigaldatud</translation>
+        <translation type="vanished">Pole paigaldatud</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation>Uus versioon: %1</translation>
+        <translation type="vanished">Uus versioon: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>Uus versiooniliik: %1</translation>
+        <translation type="vanished">Uus versiooniliik: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>Nõuab: %1</translation>
+        <translation type="vanished">Nõuab: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>Nõuab:</translation>
+        <translation type="vanished">Nõuab:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>Viimatise versiooni muudatuste logi</translation>
+        <translation type="vanished">Viimatise versiooni muudatuste logi</translation>
     </message>
 </context>
 <context>
@@ -10246,7 +10188,7 @@ Palun uuenda %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Modide ettevalmistamine Modrinthi jaoks...</translation>
+        <translation type="vanished">Modide ettevalmistamine Modrinthi jaoks...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10284,7 +10226,7 @@ Palun uuenda %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Selle modi jaoks sobivat versiooni ei leitud. Seda ilmselt pole valitud mänguversioonile/modilaadurile olemas.</translation>
+        <translation type="vanished">Selle modi jaoks sobivat versiooni ei leitud. Seda ilmselt pole valitud mänguversioonile/modilaadurile olemas.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -10844,27 +10786,27 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>Lisa konto</translation>
+        <translation type="vanished">Lisa konto</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Kasutajanimi</translation>
+        <translation type="vanished">Kasutajanimi</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>Kasutajanimesid pikemad kui 16 tähemärki ei saa kasutada LAN-mängudes ega võrguta režiimis serverites.</translation>
+        <translation type="vanished">Kasutajanimesid pikemad kui 16 tähemärki ei saa kasutada LAN-mängudes ega võrguta režiimis serverites.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>Luba pikki kasutajanimesid</translation>
+        <translation type="vanished">Luba pikki kasutajanimesid</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation type="obsolete">Tühista</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
 </context>
 <context>
@@ -10915,7 +10857,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>Leia</translation>
+        <translation type="vanished">Leia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -11004,32 +10946,32 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>Tühjenda logi</translation>
+        <translation type="vanished">Tühjenda logi</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Kustuta</translation>
+        <translation type="vanished">Kustuta</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>Laadi logi eelistuses seadistatud kleepimisteenusesse.</translation>
+        <translation type="vanished">Laadi logi eelistuses seadistatud kleepimisteenusesse.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Laadi üles</translation>
+        <translation type="vanished">Laadi üles</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>Puhasta</translation>
+        <translation type="vanished">Puhasta</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Laadi uuesti</translation>
+        <translation type="vanished">Laadi uuesti</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>Otsi:</translation>
+        <translation type="vanished">Otsi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -11056,7 +10998,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>Fail (%1) ei ole loetav.</translation>
+        <translation type="vanished">Fail (%1) ei ole loetav.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -11133,7 +11075,7 @@ Kas oled kindel?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>Muud logid</translation>
+        <translation type="vanished">Muud logid</translation>
     </message>
 </context>
 <context>
@@ -11158,7 +11100,7 @@ Kas oled kindel?</translation>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Sulge</translation>
+        <translation type="obsolete">Sulge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -11187,28 +11129,28 @@ Kas oled kindel?</translation>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation>%1 üleslaadimine</translation>
+        <translation type="vanished">%1 üleslaadimine</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation>Võrgu viga: %1</translation>
+        <translation type="vanished">Võrgu viga: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>Viga: %1 tagastas ootamatu olekukoodi %2 %3</translation>
+        <translation type="vanished">Viga: %1 tagastas ootamatu olekukoodi %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Viga: %1 tagastas kahjustunud vastuseobjekti</translation>
+        <translation type="vanished">Viga: %1 tagastas kahjustunud vastuseobjekti</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation>Viga: %1 tagastas vea %2</translation>
+        <translation type="vanished">Viga: %1 tagastas vea %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>Viga: %1 tagastas veakoodi: %2
+        <translation type="vanished">Viga: %1 tagastas veakoodi: %2
 Veateade: %3</translation>
     </message>
 </context>
@@ -11852,10 +11794,6 @@ HTTP Status: %2</source>
         <source>The server responded with the following error:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The server returned the following error:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ProgressDialog</name>
@@ -11911,7 +11849,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>&amp;Vaikimisi</translation>
+        <translation type="vanished">&amp;Vaikimisi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -12051,13 +11989,13 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Website</source>
-        <translation>Veebileht</translation>
+        <translation type="vanished">Veebileht</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>%1 arendajad</translation>
+        <translation type="vanished">%1 arendajad</translation>
     </message>
     <message>
         <source>%1 Contributors</source>
@@ -12068,7 +12006,7 @@ HTTP Status: %2</source>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>Erilised tänud</translation>
+        <translation type="vanished">Erilised tänud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -12124,7 +12062,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Üleslaadimine ebaõnnestus</translation>
+        <translation type="vanished">Üleslaadimine ebaõnnestus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -12394,7 +12332,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>Valitud Java täitmisfail ei töötanud.&lt;br /&gt;Peaksid kasutama automaatse tuvastuse funktsiooni või määrama Java täitmisfaili failitee.&lt;br /&gt;</translation>
+        <translation type="vanished">Valitud Java täitmisfail ei töötanud.&lt;br /&gt;Peaksid kasutama automaatse tuvastuse funktsiooni või määrama Java täitmisfaili failitee.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -12422,7 +12360,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>Sobimatu JVisualVM&apos;i failitee</translation>
+        <translation type="vanished">Sobimatu JVisualVM&apos;i failitee</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -12447,7 +12385,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>No author(s)</source>
-        <translation>Autor(id) puuduvad</translation>
+        <translation type="vanished">Autor(id) puuduvad</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -12670,7 +12608,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>%1 lubade parandamine ebaõnnestus</translation>
+        <translation type="vanished">%1 lubade parandamine ebaõnnestus</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -13062,7 +13000,7 @@ Veateade: %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>Muuda %1 versiooni</translation>
+        <translation type="vanished">Muuda %1 versiooni</translation>
     </message>
 </context>
 <context>
@@ -13482,13 +13420,11 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Ressursi nimi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13603,24 +13539,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>Ressursipakid</translation>
+        <translation type="vanished">Ressursipakid</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Laadi pakke alla</translation>
-    </message>
-    <message>
-        <source>Download resource packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Laadi pakke alla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -13998,14 +13926,6 @@ Are you sure?</source>
         <source>Mod was disabled as it may be already instaled.</source>
         <translation type="obsolete">Mod keelati, kuna see võib olla juba paigaldatud.</translation>
     </message>
-    <message>
-        <source>This download will be placed in: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ScreenshotsPage</name>
@@ -14271,7 +14191,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Latency</source>
-        <translation>Latentsus</translation>
+        <translation type="vanished">Latentsus</translation>
     </message>
 </context>
 <context>
@@ -14400,15 +14320,11 @@ Kas oled kindel?</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>Varjutajapakid</translation>
+        <translation type="vanished">Varjutajapakid</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>Laadi varjutajaid alla</translation>
-    </message>
-    <message>
-        <source>Download shaders from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Laadi varjutajaid alla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -14942,7 +14858,7 @@ Kas oled kindel?</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Pakutud modipaki ZIP-faili ei suudetud avada.</translation>
+        <translation type="vanished">Pakutud modipaki ZIP-faili ei suudetud avada.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -15150,19 +15066,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15195,11 +15108,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Laadi pakke alla</translation>
-    </message>
-    <message>
-        <source>Download texture packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Laadi pakke alla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -15318,7 +15227,7 @@ Are you sure?</source>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>&amp;Ikoonid</translation>
+        <translation type="vanished">&amp;Ikoonid</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -15326,54 +15235,42 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>Vaata ikooniteemade kausta.</translation>
-    </message>
-    <message>
-        <source>&amp;Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Vaata ikooniteemade kausta.</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation>Vaata vidinateemade kausta.</translation>
+        <translation type="vanished">Vaata vidinateemade kausta.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Kass kuvatakse taustal ning mitte vaikimisi. See tuuakse nähtavale vaid kassinupu vajutamisel tööriistaribal.</translation>
+        <translation type="vanished">Kass kuvatakse taustal ning mitte vaikimisi. See tuuakse nähtavale vaid kassinupu vajutamisel tööriistaribal.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>K&amp;ass</translation>
+        <translation type="vanished">K&amp;ass</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>Vaata kassipakkide kausta.</translation>
-    </message>
-    <message>
-        <source>Refresh all</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Vaata kassipakkide kausta.</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>Viisardileht</translation>
-    </message>
-    <message>
-        <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Viisardileht</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Vihje: kass kuvatakse taustal ning mitte vaikimisi. See tuuakse nähtavale vaid kassinupu vajutamisel tööriistaribal.</translation>
+        <translation type="vanished">Vihje: kass kuvatakse taustal ning mitte vaikimisi. See tuuakse nähtavale vaid kassinupu vajutamisel tööriistaribal.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation> Eelvaade:</translation>
+        <translation type="vanished"> Eelvaade:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>Kass kuvatakse taustal ning ei oma eesmärki, on vaid visuaalne.</translation>
+        <translation type="vanished">Kass kuvatakse taustal ning ei oma eesmärki, on vaid visuaalne.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -15649,7 +15546,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Filtreeri:</translation>
+        <translation type="vanished">Filtreeri:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -16470,11 +16367,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>Andmepakid</translation>
-    </message>
-    <message>
-        <source>Manage datapacks inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Andmepakid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -16597,10 +16490,6 @@ Kas oled kindel?</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>Enter a new world name.</source>
         <translation>Sisesta uus maailma nimi.</translation>
-    </message>
-    <message>
-        <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

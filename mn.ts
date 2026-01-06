@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>API түлхүүрүүүд</translation>
+        <translation type="vanished">API түлхүүрүүүд</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -87,41 +87,29 @@
         <translation>Анхааруулга: Хэрэв Microsoft-оор баталгаажуулан нэвтэрэхэд асуудалгүй ажиллах байвал, энэ сонголтыг тохируулах шаардлагагүй байх.</translation>
     </message>
     <message>
-        <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(Default)</source>
-        <translation>(Анхдагч)</translation>
+        <translation type="vanished">(Анхдагч)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Microsoft баталгаажуулалт хийхэд ашиглах клайэнт ID-гээ оруулна уу.</translation>
+        <translation type="vanished">Microsoft баталгаажуулалт хийхэд ашиглах клайэнт ID-гээ оруулна уу.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>Modrinth API</translation>
+        <translation type="vanished">Modrinth API</translation>
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Modrinth-ийн өөрчилсөн API токеноо оруулна уу.</translation>
+        <translation type="vanished">Modrinth-ийн өөрчилсөн API токеноо оруулна уу.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Байхгүй)</translation>
-    </message>
-    <message>
-        <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter a custom API Key for CurseForge here.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">(Байхгүй)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>Technic клайэнт ID</translation>
+        <translation type="vanished">Technic клайэнт ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -130,11 +118,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Энд Technic-ийн өөрчилсөн GUID клайэнт ID-гээ оруулна уу.</translation>
+        <translation type="vanished">Энд Technic-ийн өөрчилсөн GUID клайэнт ID-гээ оруулна уу.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Бусад</translation>
+        <translation type="vanished">Бусад</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -170,10 +158,6 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation>Анхаруулга: магадгүй та энийг янзлах хэрэггүй CurseForge ажилж байгаа бол.</translation>
-    </message>
-    <message>
-        <source>APIs</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -303,10 +287,6 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to open pack configs %1!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -450,49 +430,9 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unchecked</source>
-        <comment>Account status</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Офлайн</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <comment>Account status</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Working</source>
-        <comment>Account status</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Errored</source>
-        <comment>Account status</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Expired</source>
-        <comment>Account status</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <comment>Account status</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gone</source>
-        <comment>Account status</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Офлайн</translation>
     </message>
 </context>
 <context>
@@ -886,10 +826,6 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
 %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Getting the assets files from Mojang...</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>Atl::FilterModel</name>
@@ -1236,14 +1172,6 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CapeChange</name>
@@ -1424,10 +1352,6 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
         <source>Task finished.</source>
         <translation>Даалгавар дууслаа.</translation>
-    </message>
-    <message>
-        <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1631,10 +1555,6 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Core Mods</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Core mods</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CreateGameFolders</name>
@@ -1789,29 +1709,6 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Custom Commands</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Pre-launch command:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Wrapper command:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>P&amp;ost-exit command:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CustomCommandsPage</name>
-    <message>
-        <source>Custom Commands</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2157,10 +2054,6 @@ Are you sure?</source>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>EntitlementsStep</name>
@@ -2211,17 +2104,6 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"/>
         <source>&amp;Clear</source>
         <translation>&amp;Устгах</translation>
-    </message>
-    <message>
-        <source>&amp;Environment Variables</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>EnvironmentVariablesPage</name>
-    <message>
-        <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2378,15 +2260,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">&amp;Нэр</translation>
-    </message>
-    <message>
-        <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Author</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Нэр</translation>
     </message>
 </context>
 <context>
@@ -2703,61 +2577,8 @@ Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Filter:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Нэмэх</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Try to check or update all selected resources (all resources if none are selected)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export modlist</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you disable this resource while the game is running it may crash your game.
-Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Нэмэх</translation>
     </message>
 </context>
 <context>
@@ -2910,35 +2731,6 @@ Are you sure you want to do this?</source>
         <source>Tools</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Text Editor:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>JVisualVM Executable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error while checking JVisualVM install:
-%1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>JVisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>External Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ExtractNatives</name>
@@ -3026,10 +2818,6 @@ Please try again.</source>
         <source>Select FTBApp instances directory</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>FTBImportAPP::ListModel</name>
@@ -3113,22 +2901,6 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3405,17 +3177,6 @@ Please try again.</source>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>GameOptions</name>
-    <message>
-        <source>Key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Value</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3756,11 +3517,7 @@ Please try again.</source>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Нэр:</translation>
-    </message>
-    <message>
-        <source>&amp;Group:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Нэр:</translation>
     </message>
 </context>
 <context>
@@ -3870,236 +3627,12 @@ Please try again.</source>
 <context>
     <name>InstanceSettingsPage</name>
     <message>
-        <source>Open Global Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java insta&amp;llation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Browse</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Download Java</source>
-        <translation type="unfinished">Java-г татах</translation>
-    </message>
-    <message>
-        <source>Auto-detect...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Memor&amp;y</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PermGen:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Game windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Game Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start Minecraft maximized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Window height:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Window width:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Conso&amp;le Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show console while the game is running</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automatically close console when the game quits</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show console when the game crashes</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Java-г татах</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Бусад</translation>
-    </message>
-    <message>
-        <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom commands</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Workarounds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Native libraries</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use system installation of OpenAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use system installation of GLFW</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Performance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use Zink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Override global game time settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show time spent playing this instance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Record time spent playing this instance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set a target to join on launch</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Server address:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Override default account</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Бусад</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4107,46 +3640,12 @@ Please try again.</source>
         <translation type="unfinished">Тохиргоо</translation>
     </message>
     <message>
-        <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Java хувилбарыг сонгох</translation>
+        <translation type="obsolete">Java хувилбарыг сонгох</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Сонголтыг баталгаажуулах</translation>
-    </message>
-    <message>
-        <source>You selected a 32-bit version of Java.
-This installation does not support more than 2048MiB of RAM.
-Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Сонголтыг баталгаажуулах</translation>
     </message>
 </context>
 <context>
@@ -4243,10 +3742,6 @@ Please make sure that the maximum memory value is lower.</source>
         <source>Profiler aborted</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>JVisualVM started</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>Java::ArchiveDownloadTask</name>
@@ -4268,22 +3763,6 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not determine archive type!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4437,126 +3916,12 @@ Are you sure?</source>
         <translation>Java</translation>
     </message>
     <message>
-        <source>Memory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ma&amp;ximum memory allocation:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;PermGen:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java Runtime</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Auto-detect...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Test</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Java path:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Browse</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Management</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Downloaded Java Versions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Java хувилбарыг сонгох</translation>
+        <translation type="obsolete">Java хувилбарыг сонгох</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Сонголтыг баталгаажуулах</translation>
-    </message>
-    <message>
-        <source>You selected a 32-bit version of Java.
-This installation does not support more than 2048MiB of RAM.
-Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Сонголтыг баталгаажуулах</translation>
     </message>
 </context>
 <context>
@@ -4730,73 +4095,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished">Java-г татах</translation>
-    </message>
-    <message>
-        <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
-%1 will not be able to start Minecraft.
-Do you wish to proceed?
-
-You can change the Java version in the settings later.
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No Java version selected</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You either didn&apos;t select a Java version or selected one that does not work.
-%1 will not be able to start Minecraft.
-Do you wish to proceed without a functional version of Java?
-
-You can change the Java version in the settings later.
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Memory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Browse</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Java-г татах</translation>
     </message>
 </context>
 <context>
@@ -5156,22 +4455,6 @@ Do you want to play the demo?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Play Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LaunchTask</name>
@@ -5387,128 +4670,8 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Features</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Update Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Update interval</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>h</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mods</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable using metadata for mods</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Бусад</translation>
-    </message>
-    <message>
-        <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Instance view sorting mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Theme</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cat</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Opacity</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Console Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show console while the game is &amp;running</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Automatically close console when the game quits</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show console when the game &amp;crashes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;History limit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Console &amp;font</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Бусад</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -5644,34 +4807,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>General</source>
         <translation>Үндсэн</translation>
     </message>
-    <message>
-        <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[Test/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[Test/INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Launcher</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LauncherPartLaunch</name>
@@ -5781,10 +4916,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
         <source>No installation method found!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to open modpack file %1!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5915,13 +5046,8 @@ Reason:
 <context>
     <name>LocalModUpdateTask</name>
     <message>
-        <source>Updating index for mod:
-%1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Invalid metadata</source>
-        <translation type="unfinished">Буруу метадата</translation>
+        <translation type="obsolete">Буруу метадата</translation>
     </message>
 </context>
 <context>
@@ -6011,10 +5137,6 @@ Reason:
         <source>Minecraft Log</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Search:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LoggedProcess</name>
@@ -6097,10 +5219,6 @@ Reason:
         <source>A zip error occurred</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Could not create:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>MMCZip::ExtractZipTask</name>
@@ -6127,18 +5245,6 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not fix permissions for %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6232,14 +5338,6 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="204"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open %1 and enter the above code.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7051,86 +6149,6 @@ Are you sure?</source>
         <source>Open %1 Discord guild.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>More news...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are about to delete &quot;%1&quot;.
-This may be permanent and will completely delete the instance.
-
-Are you sure?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message numerus="yes">
-        <source>The following instance(s) might reference files in this instance:
-
-%1
-
-Deleting it could break the other instance(s), 
-
-Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ManagedPackPage</name>
@@ -7259,22 +6277,6 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="333"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pack information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pack name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Update from file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Update pack</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7413,151 +6415,11 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Үндсэн</translation>
-    </message>
-    <message>
-        <source>Window Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start Minecraft &amp;maximized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Window &amp;height:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Window &amp;width:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Game time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show time spent playing across &amp;all instances</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Үндсэн</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Бусад</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tweaks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Native library workarounds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use system installation of &amp;GLFW</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use system installation of &amp;OpenAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Performance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use Zink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto detected path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Бусад</translation>
     </message>
 </context>
 <context>
@@ -8189,15 +7051,6 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>The size of the mod.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Unknown</source>
-        <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ModFolderPage</name>
@@ -8357,60 +7210,8 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Download mods</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add a locally downloaded file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change Version</source>
-        <translation type="unfinished">Хувилбар өөрчлөх</translation>
-    </message>
-    <message>
-        <source>Change mod version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visit mods&apos; pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Go to the pages of the selected mods</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Хувилбар өөрчлөх</translation>
     </message>
 </context>
 <context>
@@ -8434,125 +7235,20 @@ Are you sure?</source>
 <context>
     <name>ModUpdateDialog</name>
     <message>
-        <source>Confirm mods to update</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You&apos;re about to update the following mods:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Only mods with a check will be updated!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation type="obsolete">Алдаа</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Анхааруулгууд</translation>
+        <translation type="obsolete">Анхааруулгууд</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Цуцлах</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
-        <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Looking for metadata</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Цуцлах</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Суулгасангүй</translation>
-    </message>
-    <message>
-        <source>New version: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Required by:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Суулгасангүй</translation>
     </message>
 </context>
 <context>
@@ -8611,14 +7307,6 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preparing mods for Modrinth...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9042,27 +7730,11 @@ Please update %1!</source>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation type="obsolete">Цуцлах</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
-    </message>
-    <message>
-        <source>Add Account</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">ОК</translation>
     </message>
 </context>
 <context>
@@ -9260,43 +7932,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Олох</translation>
-    </message>
-    <message>
-        <source>Clear the log</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload the log to the paste service configured in preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Олох</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished">Байршуулах</translation>
-    </message>
-    <message>
-        <source>Clean</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reload</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Search:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file (%1) is not readable.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other logs</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Байршуулах</translation>
     </message>
 </context>
 <context>
@@ -9336,35 +7976,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Хаах</translation>
-    </message>
-</context>
-<context>
-    <name>PasteUpload</name>
-    <message>
-        <source>Uploading to %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error: %1 returned an error code: %2
-Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Хаах</translation>
     </message>
 </context>
 <context>
@@ -9993,10 +8605,6 @@ HTTP Status: %2</source>
         <source>The server responded with the following error:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The server returned the following error:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ProgressDialog</name>
@@ -10100,10 +8708,6 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Default</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11013,41 +9617,6 @@ Error message: %3</source>
         <source>With special thanks to</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No author(s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid path to JVisualVM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Website</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 Developers</source>
-        <comment>About Credits</comment>
-        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>With thanks to</source>
-        <comment>About Credits</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload failed</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>Resource</name>
@@ -11087,10 +9656,6 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="107"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change %1 version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11499,13 +10064,11 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11616,10 +10179,6 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11735,18 +10294,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Download packs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Download resource packs from online platforms</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Resource packs</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11993,14 +10540,6 @@ Are you sure?</source>
         <source>Toggle Dependencies</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>This download will be placed in: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ScreenshotsPage</name>
@@ -12228,10 +10767,6 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Latency</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12466,18 +11001,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Download shaders</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Download shaders from online platforms</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shader packs</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12850,10 +11373,6 @@ Are you sure?</source>
         <source>Instance import has been aborted.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>Technic::SolderPackInstallTask</name>
@@ -13018,19 +11537,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13163,49 +11679,6 @@ Are you sure you want to do this?</source>
 Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Download packs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Download texture packs from online platforms</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ThemeCustomizationWidget</name>
-    <message>
-        <source>&amp;Icons</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Widgets</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh all</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
@@ -13217,26 +11690,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WizardPage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Preview:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13694,10 +12147,6 @@ Are you sure?</source>
         <source>Version</source>
         <translation type="unfinished">Хувилбар</translation>
     </message>
-    <message>
-        <source>Filter:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>VersionProxyModel</name>
@@ -14127,18 +12576,6 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>Enter a new world name.</source>
         <translation>Шинэ ертөнцийн нэрийг оруулна уу.</translation>
-    </message>
-    <message>
-        <source>Datapacks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage datapacks inside the world.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

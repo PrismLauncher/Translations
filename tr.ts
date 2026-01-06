@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>API Anahtarları</translation>
+        <translation type="vanished">API Anahtarları</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -96,16 +96,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Varsayılan)</translation>
+        <translation type="vanished">(Varsayılan)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Buraya Microsoft Kimlik Doğrulaması için özel bir istemci kimliği girin.</translation>
+        <translation type="vanished">Buraya Microsoft Kimlik Doğrulaması için özel bir istemci kimliği girin.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth API</translation>
+        <translation type="vanished">&amp;Modrinth API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -114,15 +114,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Buraya Modrinth için özel bir API jetonu girin.</translation>
+        <translation type="vanished">Buraya Modrinth için özel bir API jetonu girin.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Hiçbiri)</translation>
+        <translation type="vanished">(Hiçbiri)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>Technic Başlatıcı Kimliği</translation>
+        <translation type="vanished">Technic Başlatıcı Kimliği</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -131,11 +131,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Technic için buraya özel bir GUID istemci kimliği girin.</translation>
+        <translation type="vanished">Technic için buraya özel bir GUID istemci kimliği girin.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Çeşitli</translation>
+        <translation type="vanished">Çeşitli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Meta veri için buraya özel bir URL girin.</translation>
+        <translation type="vanished">Meta veri için buraya özel bir URL girin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Çekirdek API</translation>
+        <translation type="vanished">&amp;CurseForge Çekirdek API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -183,11 +183,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Buraya CurseForge için özel bir API anahtarı girin.</translation>
+        <translation type="vanished">Buraya CurseForge için özel bir API anahtarı girin.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>API&apos;ler</translation>
+        <translation type="vanished">API&apos;ler</translation>
     </message>
 </context>
 <context>
@@ -256,7 +256,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>Paket yapılandırmaları (%1) açılamadı!</translation>
+        <translation type="vanished">Paket yapılandırmaları (%1) açılamadı!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -425,12 +425,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Kontrol edilmedi</translation>
+        <translation type="vanished">Kontrol edilmedi</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Çevrim dışı</translation>
+        <translation type="vanished">Çevrim dışı</translation>
     </message>
     <message>
         <source>Online</source>
@@ -458,37 +458,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>Hazır</translation>
+        <translation type="vanished">Hazır</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Çalışıyor</translation>
+        <translation type="vanished">Çalışıyor</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Hatalı</translation>
+        <translation type="vanished">Hatalı</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>Tarihi Geçmiş</translation>
+        <translation type="vanished">Tarihi Geçmiş</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Devre Dışı</translation>
+        <translation type="vanished">Devre Dışı</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Kayıp</translation>
+        <translation type="vanished">Kayıp</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>Bilinmeyen</translation>
+        <translation type="vanished">Bilinmeyen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1153,7 +1153,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>İçerik dosyaları Mojang&apos;dan alınıyor...</translation>
+        <translation type="vanished">İçerik dosyaları Mojang&apos;dan alınıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1553,11 +1553,11 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Yapılandırılmış genel mod klasörünüz ve varsayılan indirmeler klasörünüz otomatik olarak indirilen modlar için kontrol edilir ve bulunan profile kopyalanır.&lt;/p&gt;&lt;p&gt;İsteğe bağlı olarak, indirilen modları bu iletişim kutusuna sürükleyip bırakabilir veya modları varsayılan bir konuma indirmediyseniz gözlemlemek için bir klasör ekleyebilirsiniz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Yapılandırılmış genel mod klasörünüz ve varsayılan indirmeler klasörünüz otomatik olarak indirilen modlar için kontrol edilir ve bulunan profile kopyalanır.&lt;/p&gt;&lt;p&gt;İsteğe bağlı olarak, indirilen modları bu iletişim kutusuna sürükleyip bırakabilir veya modları varsayılan bir konuma indirmediyseniz gözlemlemek için bir klasör ekleyebilirsiniz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>İzlenen Klasörler:</translation>
+        <translation type="vanished">İzlenen Klasörler:</translation>
     </message>
 </context>
 <context>
@@ -1701,7 +1701,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>Bir veya daha fazla alt görev başarısız oldu</translation>
+        <translation type="vanished">Bir veya daha fazla alt görev başarısız oldu</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1944,7 +1944,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>Çekirdek modlar</translation>
+        <translation type="vanished">Çekirdek modlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2084,22 +2084,22 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>&amp;Özel Komutlar</translation>
+        <translation type="vanished">&amp;Özel Komutlar</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>Çıkış-sonrası komutu:</translation>
+        <translation type="vanished">Çıkış-sonrası komutu:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>&amp;Başlatma öncesi komutu:</translation>
+        <translation type="vanished">&amp;Başlatma öncesi komutu:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>&amp;Paketleyici komutu:</translation>
+        <translation type="vanished">&amp;Paketleyici komutu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2132,7 +2132,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Özel Komutlar</translation>
+        <translation type="vanished">Özel Komutlar</translation>
     </message>
 </context>
 <context>
@@ -2500,7 +2500,7 @@ Emin misiniz?</translation>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Modların metadatasının olup olmadığı kontrol ediliyor...</translation>
+        <translation type="vanished">Modların metadatasının olup olmadığı kontrol ediliyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2552,7 +2552,7 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>&amp;Ortam Değişkenleri</translation>
+        <translation type="vanished">&amp;Ortam Değişkenleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2589,7 +2589,7 @@ Emin misiniz?</translation>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>Ortam Değişkenleri</translation>
+        <translation type="vanished">Ortam Değişkenleri</translation>
     </message>
 </context>
 <context>
@@ -2732,11 +2732,11 @@ Emin misiniz?</translation>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>&amp;İsim</translation>
+        <translation type="vanished">&amp;İsim</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>&amp;Sürüm</translation>
+        <translation type="vanished">&amp;Sürüm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2788,7 +2788,7 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>&amp;Sahip</translation>
+        <translation type="vanished">&amp;Sahip</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2973,7 +2973,7 @@ Emin misiniz?</translation>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Filtre:</translation>
+        <translation type="vanished">Filtre:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2982,11 +2982,11 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Ekle</translation>
+        <translation type="vanished">&amp;Ekle</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Ekle</translation>
+        <translation type="vanished">Ekle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2995,7 +2995,7 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>Seçilen eşyayı kaldır</translation>
+        <translation type="vanished">Seçilen eşyayı kaldır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -3004,7 +3004,7 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>Seçili kaynağı etkinleştir</translation>
+        <translation type="vanished">Seçili kaynağı etkinleştir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3119,7 +3119,7 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>Yeni bir kaynak indir</translation>
+        <translation type="vanished">Yeni bir kaynak indir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3129,27 +3129,27 @@ Emin misiniz?</translation>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Tüm seçili kaynakları kontrol etmeyi veya güncellemeyi dene (hiçbiri seçilmediyse tüm kaynaklar)</translation>
+        <translation type="vanished">Tüm seçili kaynakları kontrol etmeyi veya güncellemeyi dene (hiçbiri seçilmediyse tüm kaynaklar)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>Mod listesini dışarıya aktar</translation>
+        <translation type="vanished">Mod listesini dışarıya aktar</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>Modun meta verilerini metne aktarma</translation>
+        <translation type="vanished">Modun meta verilerini metne aktarma</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Mod&apos;un sayfasını görüntüle</translation>
+        <translation type="vanished">Mod&apos;un sayfasını görüntüle</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>Seçili öğeyi devre dışı bırak</translation>
+        <translation type="vanished">Seçili öğeyi devre dışı bırak</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>Mod&apos;un ana sayfasına git</translation>
+        <translation type="vanished">Mod&apos;un ana sayfasına git</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -3211,12 +3211,12 @@ Bunu yapmak istediğinize emin misiniz?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>Devre dışı bırakmayı onayla</translation>
+        <translation type="vanished">Devre dışı bırakmayı onayla</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Oyun çalışırken bu kaynağı devre dışı bırakırsanız oyununuz çökebilir.
+        <translation type="vanished">Oyun çalışırken bu kaynağı devre dışı bırakırsanız oyununuz çökebilir.
 Bunu yapmak istediğinize emin misiniz?</translation>
     </message>
     <message>
@@ -3289,16 +3289,16 @@ Bunu yapmak istediğinize emin misiniz?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Harici Editörler (sistem varsayılanı için boş bırak)</translation>
+        <translation type="vanished">Harici Editörler (sistem varsayılanı için boş bırak)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>&amp;Metin Düzenleyicisi:</translation>
+        <translation type="vanished">&amp;Metin Düzenleyicisi:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>Harici Araçlar</translation>
+        <translation type="vanished">Harici Araçlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3360,17 +3360,17 @@ Bunu yapmak istediğinize emin misiniz?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM Çalıştırılabilir Programı</translation>
+        <translation type="vanished">JVisualVM Çalıştırılabilir Programı</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>JVisualVM kurulumu kontrol edilirken hata:
+        <translation type="vanished">JVisualVM kurulumu kontrol edilirken hata:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>JVisualVM kurulumu iyi görünüyor</translation>
+        <translation type="vanished">JVisualVM kurulumu iyi görünüyor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3397,7 +3397,7 @@ Bunu yapmak istediğinize emin misiniz?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>JSON Düzenleyici</translation>
+        <translation type="vanished">JSON Düzenleyici</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3511,7 +3511,7 @@ Lütfen tekrar deneyin.</translation>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Not: Eğer FTB profilleri varsayılan konumda değilse, arama tuşunun yanında ki düğmeye basarak seçin.</translation>
+        <translation type="vanished">Not: Eğer FTB profilleri varsayılan konumda değilse, arama tuşunun yanında ki düğmeye basarak seçin.</translation>
     </message>
 </context>
 <context>
@@ -3574,7 +3574,7 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>&apos;%1&apos; için CurseForge&apos;tan API yanıtı alınıyor…</translation>
+        <translation type="vanished">&apos;%1&apos; için CurseForge&apos;tan API yanıtı alınıyor…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3613,16 +3613,16 @@ Lütfen tekrar deneyin.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>CurseForge için modlar hazırlanıyor...</translation>
+        <translation type="vanished">CurseForge için modlar hazırlanıyor...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Bu mod için hiç geçerli sürüm yok. Muhtemelen şu anki oyun sürümü / mod yükleyicisi için mevcut olmayabilir.</translation>
+        <translation type="vanished">Bu mod için hiç geçerli sürüm yok. Muhtemelen şu anki oyun sürümü / mod yükleyicisi için mevcut olmayabilir.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Modun yeni güncellemesi mevcut, ama CurseForge kullanılarak indirilemez.</translation>
+        <translation type="vanished">Modun yeni güncellemesi mevcut, ama CurseForge kullanılarak indirilemez.</translation>
     </message>
 </context>
 <context>
@@ -4054,11 +4054,11 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>Anahtar</translation>
+        <translation type="vanished">Anahtar</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Değer</translation>
+        <translation type="vanished">Değer</translation>
     </message>
 </context>
 <context>
@@ -4459,11 +4459,11 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>&amp;İsim:</translation>
+        <translation type="vanished">&amp;İsim:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>&amp;Grup:</translation>
+        <translation type="vanished">&amp;Grup:</translation>
     </message>
 </context>
 <context>
@@ -4687,19 +4687,19 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation>Toplu Ayarları Aç</translation>
+        <translation type="vanished">Toplu Ayarları Aç</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Burdaki ayarlar toplu ayarları geçersiz kılar.</translation>
+        <translation type="vanished">Burdaki ayarlar toplu ayarları geçersiz kılar.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Java kur&amp;ulumu</translation>
+        <translation type="vanished">Java kur&amp;ulumu</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>Otomatik Bul...</translation>
+        <translation type="vanished">Otomatik Bul...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4707,72 +4707,72 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     </message>
     <message>
         <source>Test</source>
-        <translation>Test</translation>
+        <translation type="vanished">Test</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Eğer açılırsa, başlatıcı bir profilin seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
+        <translation type="vanished">Eğer açılırsa, başlatıcı bir profilin seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>Java uyumluluk kontrolünü geç</translation>
+        <translation type="vanished">Java uyumluluk kontrolünü geç</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>Hafız&amp;a</translation>
+        <translation type="vanished">Hafız&amp;a</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>En düşük hafıza paylaşımı:</translation>
+        <translation type="vanished">En düşük hafıza paylaşımı:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraft&apos;ın kullanabileceği en yüksek hafıza miktarı.</translation>
+        <translation type="vanished">Minecraft&apos;ın kullanabileceği en yüksek hafıza miktarı.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraft başlayınca verilecek olan hafıza miktarı.</translation>
+        <translation type="vanished">Minecraft başlayınca verilecek olan hafıza miktarı.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Yüklü Java class&apos;larını tutmaya müsait olan hafıza miktarı.</translation>
+        <translation type="vanished">Yüklü Java class&apos;larını tutmaya müsait olan hafıza miktarı.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>En yüksek hafıza paylaşımı:</translation>
+        <translation type="vanished">En yüksek hafıza paylaşımı:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Göz At</translation>
+        <translation type="vanished">Göz At</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Java İndir</translation>
+        <translation type="vanished">Java İndir</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>PermGen:</translation>
+        <translation type="vanished">PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Not: Permgen, Java 8 ve üstü için otomatik olarak ayarlanır</translation>
+        <translation type="vanished">Not: Permgen, Java 8 ve üstü için otomatik olarak ayarlanır</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Java değişkenleri</translation>
+        <translation type="vanished">Java değişkenleri</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>Oyun penceresi</translation>
+        <translation type="vanished">Oyun penceresi</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>Oyun Penceresi</translation>
+        <translation type="vanished">Oyun Penceresi</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Minecraft&apos;ı tam ekranda başlat</translation>
+        <translation type="vanished">Minecraft&apos;ı tam ekranda başlat</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4784,70 +4784,70 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     </message>
     <message>
         <source>Window height:</source>
-        <translation>Pencere yüksekliği:</translation>
+        <translation type="vanished">Pencere yüksekliği:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>Pencere genişliği:</translation>
+        <translation type="vanished">Pencere genişliği:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Konso&amp;l Ayarları</translation>
+        <translation type="vanished">Konso&amp;l Ayarları</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>Oyun çalışırken konsolu göster</translation>
+        <translation type="vanished">Oyun çalışırken konsolu göster</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Oyun kapanınca konsolu otomatik kapat</translation>
+        <translation type="vanished">Oyun kapanınca konsolu otomatik kapat</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Oyun çökünce konsolu göster</translation>
+        <translation type="vanished">Oyun çökünce konsolu göster</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Oyun penceresi açıldıktan sonra başlatıcıyı kapat</translation>
+        <translation type="vanished">Oyun penceresi açıldıktan sonra başlatıcıyı kapat</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Oyun penceresi kapandıktan sonra başlatıcıdan çık</translation>
+        <translation type="vanished">Oyun penceresi kapandıktan sonra başlatıcıdan çık</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>Özel komutlar</translation>
+        <translation type="vanished">Özel komutlar</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Ortam değişkenleri</translation>
+        <translation type="vanished">Ortam değişkenleri</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>Geçici çözümler</translation>
+        <translation type="vanished">Geçici çözümler</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>Yerel kitaplıklar</translation>
+        <translation type="vanished">Yerel kitaplıklar</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>&amp;GLFW kütüphane yolu</translation>
+        <translation type="vanished">&amp;GLFW kütüphane yolu</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>GLFW&apos;nin sistem kurulumunu kullan</translation>
+        <translation type="vanished">GLFW&apos;nin sistem kurulumunu kullan</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>Tek oyunculu dünya</translation>
+        <translation type="vanished">Tek oyunculu dünya</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>OpenAL&apos;in sistem kurulumunu kullan</translation>
+        <translation type="vanished">OpenAL&apos;in sistem kurulumunu kullan</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -4863,89 +4863,89 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     </message>
     <message>
         <source>Override default account</source>
-        <translation>Varsayılan hesabı geçersiz kıl</translation>
+        <translation type="vanished">Varsayılan hesabı geçersiz kıl</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Hesap:</translation>
+        <translation type="vanished">Hesap:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Çeşitli</translation>
+        <translation type="vanished">Çeşitli</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>&amp;OpenAL kütüphane yolu</translation>
+        <translation type="vanished">&amp;OpenAL kütüphane yolu</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Performans</translation>
+        <translation type="vanished">Performans</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Olası olarak oyun performansını geliştirmek için Feral Interactive&apos;in GameMode&apos;unu etkinleştir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Olası olarak oyun performansını geliştirmek için Feral Interactive&apos;in GameMode&apos;unu etkinleştir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Feral GameMode&apos;u etkinleştir</translation>
+        <translation type="vanished">Feral GameMode&apos;u etkinleştir</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHud&apos;un gelişmiş performans arayüzünü etkinleştir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHud&apos;un gelişmiş performans arayüzünü etkinleştir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>MangoHud&apos;ı etkinleştir</translation>
+        <translation type="vanished">MangoHud&apos;ı etkinleştir</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ana GPU yerine ayrık GPU&apos;yu kullan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ana GPU yerine ayrık GPU&apos;yu kullan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Ayrık GPU kullan</translation>
+        <translation type="vanished">Ayrık GPU kullan</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Vulkan&apos;ın üstünde OpenGL uygulayan bir Mesa OpenGL sürücüsü olan Zink&apos;i kullanın. Performans duruma bağlı olarak değişebilir. Not: Uygun bir Vulkan sürücüsü bulunamazsa, yazılım oluşturma kullanılır.</translation>
+        <translation type="vanished">Vulkan&apos;ın üstünde OpenGL uygulayan bir Mesa OpenGL sürücüsü olan Zink&apos;i kullanın. Performans duruma bağlı olarak değişebilir. Not: Uygun bir Vulkan sürücüsü bulunamazsa, yazılım oluşturma kullanılır.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Zink kullanın</translation>
+        <translation type="vanished">Zink kullanın</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Legacy ayarları</translation>
+        <translation type="vanished">Legacy ayarları</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Artık aktif olmayan servislerin simüle edilerek kullanılmasını sağlar.&lt;/p&gt;&lt;p&gt;Şuan ki düzeltmeler şunları içerir: dış görünüş ve çevrimiçi mod desteği.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Artık aktif olmayan servislerin simüle edilerek kullanılmasını sağlar.&lt;/p&gt;&lt;p&gt;Şuan ki düzeltmeler şunları içerir: dış görünüş ve çevrimiçi mod desteği.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Çevrimiçi düzeltmeleri etkinleştir (deneysel)</translation>
+        <translation type="vanished">Çevrimiçi düzeltmeleri etkinleştir (deneysel)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>Oyun süresi ile ilgili toplu ayarların üzerine yaz</translation>
+        <translation type="vanished">Oyun süresi ile ilgili toplu ayarların üzerine yaz</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>Bu profilde oynanan süreyi göster</translation>
+        <translation type="vanished">Bu profilde oynanan süreyi göster</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>Bu profilde oynanan süreyi kaydet</translation>
+        <translation type="vanished">Bu profilde oynanan süreyi kaydet</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>Başlangıçta katılmak için bir hedef belirleyin</translation>
+        <translation type="vanished">Başlangıçta katılmak için bir hedef belirleyin</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>Sunucu adresi:</translation>
+        <translation type="vanished">Sunucu adresi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4954,39 +4954,39 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>%1 kütüphane dosyasının yolu</translation>
+        <translation type="vanished">%1 kütüphane dosyasının yolu</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive&apos;in GameMode&apos;u sisteminizde bulunamadı.</translation>
+        <translation type="vanished">Feral Interactive&apos;in GameMode&apos;u sisteminizde bulunamadı.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud sisteminizde bulunamadı.</translation>
+        <translation type="vanished">MangoHud sisteminizde bulunamadı.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Bir Java sürümü seç</translation>
+        <translation type="vanished">Bir Java sürümü seç</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Seçimi Onayla</translation>
+        <translation type="vanished">Seçimi Onayla</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>32-bitlik bir Java sürümü seçtiniz.
+        <translation type="vanished">32-bitlik bir Java sürümü seçtiniz.
 Bu yükleme 2048MiB&apos;den daha fazla RAM&apos;ı desteklemez.
 Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Çalıştırılabilir Java&apos;yı bul</translation>
+        <translation type="vanished">Çalıştırılabilir Java&apos;yı bul</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Maksimum bellek değeriniz minimum değerden daha küçük</translation>
+        <translation type="vanished">Maksimum bellek değeriniz minimum değerden daha küçük</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4994,11 +4994,11 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
+        <translation type="vanished">Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesine yaklaşıyor.</translation>
+        <translation type="vanished">Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesine yaklaşıyor.</translation>
     </message>
 </context>
 <context>
@@ -5103,7 +5103,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation>JVisualVM başlatıldı</translation>
+        <translation type="vanished">JVisualVM başlatıldı</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -5130,15 +5130,15 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Java ayıklanıyor (Tar arşivleri için ayıklama ilerlemesi bildirilmez)</translation>
+        <translation type="vanished">Java ayıklanıyor (Tar arşivleri için ayıklama ilerlemesi bildirilmez)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation>Seçilen tar dosyası açılamadı.</translation>
+        <translation type="vanished">Seçilen tar dosyası açılamadı.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Seçilen tar dosyası ayıklanamadı.</translation>
+        <translation type="vanished">Seçilen tar dosyası ayıklanamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5152,7 +5152,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation>Arşiv tipi belirlenemedi!</translation>
+        <translation type="vanished">Arşiv tipi belirlenemedi!</translation>
     </message>
 </context>
 <context>
@@ -5258,70 +5258,70 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>Hafıza</translation>
+        <translation type="vanished">Hafıza</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraft&apos;ın kullanabileceği en yüksek hafıza miktarı.</translation>
+        <translation type="vanished">Minecraft&apos;ın kullanabileceği en yüksek hafıza miktarı.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>&amp;En düşük hafıza paylaşımı:</translation>
+        <translation type="vanished">&amp;En düşük hafıza paylaşımı:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>&amp;En fazla hafıza paylaşımı:</translation>
+        <translation type="vanished">&amp;En fazla hafıza paylaşımı:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>&amp;PermGen:</translation>
+        <translation type="vanished">&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraft başlayınca ayrılacak olan hafıza.</translation>
+        <translation type="vanished">Minecraft başlayınca ayrılacak olan hafıza.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Yüklü Java class&apos;larını tutmaya müsait olan hafıza miktarı.</translation>
+        <translation type="vanished">Yüklü Java class&apos;larını tutmaya müsait olan hafıza miktarı.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Java Çalıştırıcısı</translation>
+        <translation type="vanished">Java Çalıştırıcısı</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>JVM argümanları:</translation>
+        <translation type="vanished">JVM argümanları:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Gerekli ana sürüme göre şu anki Minecraft profiliyle uyumlu olan bir Java sürümünü otomatik olarak seçer.</translation>
+        <translation type="vanished">Gerekli ana sürüme göre şu anki Minecraft profiliyle uyumlu olan bir Java sürümünü otomatik olarak seçer.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Java sürümünü otomatik algıla</translation>
+        <translation type="vanished">Java sürümünü otomatik algıla</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>&amp;Java konumu:</translation>
+        <translation type="vanished">&amp;Java konumu:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>Mojang tarafından önerilen Java sürümünü otomatik olarak indirir ve seçer.</translation>
+        <translation type="vanished">Mojang tarafından önerilen Java sürümünü otomatik olarak indirir ve seçer.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Mojang Java&apos;yı otomatik indir</translation>
+        <translation type="vanished">Mojang Java&apos;yı otomatik indir</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>Yönetim</translation>
+        <translation type="vanished">Yönetim</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>İndirilmiş Java Sürümleri</translation>
+        <translation type="vanished">İndirilmiş Java Sürümleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5351,33 +5351,33 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>&amp;Otomatik Bul...</translation>
+        <translation type="vanished">&amp;Otomatik Bul...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>&amp;Test</translation>
+        <translation type="vanished">&amp;Test</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Göz At</translation>
+        <translation type="vanished">Göz At</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Eğer açılırsa, başlatıcı size seçmeniz için Java sürümü yoksa önünüze seçenek çıkarmaz.</translation>
+        <translation type="vanished">Eğer açılırsa, başlatıcı size seçmeniz için Java sürümü yoksa önünüze seçenek çıkarmaz.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Java Sihirbazını Geç</translation>
+        <translation type="vanished">Java Sihirbazını Geç</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Eğer aktifleştirilirse, başlatıcı bir profilin seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
+        <translation type="vanished">Eğer aktifleştirilirse, başlatıcı bir profilin seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>&amp;Java uyumluluk kontrolünü geç</translation>
+        <translation type="vanished">&amp;Java uyumluluk kontrolünü geç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5398,35 +5398,35 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Bir Java sürümü seç</translation>
+        <translation type="vanished">Bir Java sürümü seç</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Seçimi Onayla</translation>
+        <translation type="vanished">Seçimi Onayla</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>32-bitlik bir Java sürümü seçtiniz.
+        <translation type="vanished">32-bitlik bir Java sürümü seçtiniz.
 Bu yükleme 2048MiB&apos;den daha fazla RAM&apos;ı desteklemez.
 Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Yürütülebilir Java&apos;yı bul</translation>
+        <translation type="vanished">Yürütülebilir Java&apos;yı bul</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
+        <translation type="vanished">Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Seçtiğiniz maksimum bellek sınırınız, sisteminizin maksimum bellek kapasitesine yaklaşıyor.</translation>
+        <translation type="vanished">Seçtiğiniz maksimum bellek sınırınız, sisteminizin maksimum bellek kapasitesine yaklaşıyor.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Maksimum bellek değeriniz minimum değerden daha küçük</translation>
+        <translation type="vanished">Maksimum bellek değeriniz minimum değerden daha küçük</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5445,7 +5445,7 @@ Emin misin?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Herhangi bir Java sürümü seçilmedi</translation>
+        <translation type="vanished">Herhangi bir Java sürümü seçilmedi</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5463,7 +5463,7 @@ Daha sonra, Java sürümünü ayarlardan değiştirebilirsiniz.
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Java İndir</translation>
+        <translation type="vanished">Java İndir</translation>
     </message>
     <message>
         <source>Automatic Java Download</source>
@@ -5479,7 +5479,7 @@ Otomatik Java indirmeyi etkinleştirmek istiyor musun?
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>32-bit Java algılandı</translation>
+        <translation type="vanished">32-bit Java algılandı</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5488,7 +5488,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>32-bit Java yüklemesini seçtiniz, ama 2048MiB&apos;den daha fazla azami bellek ayırdınız.
+        <translation type="vanished">32-bit Java yüklemesini seçtiniz, ama 2048MiB&apos;den daha fazla azami bellek ayırdınız.
 %1 Minecraft&apos;ı başlatamayacak.
 Devam etmek istiyor musunuz?
 
@@ -5502,7 +5502,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Ya bir Java sürümü seçmediniz ya da çalışmayan bir sürüm seçtiniz.
+        <translation type="vanished">Ya bir Java sürümü seçmediniz ya da çalışmayan bir sürüm seçtiniz.
 %1 Minecraft&apos;ı başlatamayacak.
 İşlevsel bir Java sürümü olmadan devam etmek istiyor musunuz?
 
@@ -5516,7 +5516,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     </message>
     <message>
         <source>Memory</source>
-        <translation>Hafıza</translation>
+        <translation type="vanished">Hafıza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5525,7 +5525,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>En düşük hafıza paylaşımı:</translation>
+        <translation type="vanished">En düşük hafıza paylaşımı:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5631,7 +5631,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>En yüksek hafıza ataması:</translation>
+        <translation type="vanished">En yüksek hafıza ataması:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5670,19 +5670,19 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     </message>
     <message>
         <source>Browse</source>
-        <translation>Gözat</translation>
+        <translation type="vanished">Gözat</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Mojang Java&apos;yı Otomatik İndir</translation>
+        <translation type="vanished">Mojang Java&apos;yı Otomatik İndir</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Java sürümünü otomatik algıla</translation>
+        <translation type="vanished">Java sürümünü otomatik algıla</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>Java&apos;yı otomatik algıla</translation>
+        <translation type="vanished">Java&apos;yı otomatik algıla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5720,15 +5720,15 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Seçtiğiniz maksimum bellek ataması, sisteminizin maksimum bellek kapasitesine yaklaşıyor.</translation>
+        <translation type="vanished">Seçtiğiniz maksimum bellek ataması, sisteminizin maksimum bellek kapasitesine yaklaşıyor.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Maksimum bellek değeriniz minimum değerden daha küçük</translation>
+        <translation type="vanished">Maksimum bellek değeriniz minimum değerden daha küçük</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>32-bit Java yüklemeri tarafından desteklenen maksimum bellek atama miktarını aşıyorsunuz.</translation>
+        <translation type="vanished">32-bit Java yüklemeri tarafından desteklenen maksimum bellek atama miktarını aşıyorsunuz.</translation>
     </message>
 </context>
 <context>
@@ -6025,11 +6025,11 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>Çevrım Dışı Oyna</translation>
+        <translation type="vanished">Çevrım Dışı Oyna</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>Hesabın süresi geçmiş ve yeniden elle giriş yapılması gerekiyor.</translation>
+        <translation type="vanished">Hesabın süresi geçmiş ve yeniden elle giriş yapılması gerekiyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -6038,7 +6038,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>Başlatıcının istemci tanılaması değişti. Lütfen bu hesabı kaldırıp yeniden ekleyin.</translation>
+        <translation type="vanished">Başlatıcının istemci tanılaması değişti. Lütfen bu hesabı kaldırıp yeniden ekleyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6047,7 +6047,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>Bu hesap artık sunucularda yok. Belki taşınmış olabilir. Böyle bir durumda lütfen taşımış olduğunuz hesabın bilgileriyle yeni hesap ekleyin.</translation>
+        <translation type="vanished">Bu hesap artık sunucularda yok. Belki taşınmış olabilir. Böyle bir durumda lütfen taşımış olduğunuz hesabın bilgileriyle yeni hesap ekleyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6192,11 +6192,11 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>Özellikler</translation>
+        <translation type="vanished">Özellikler</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>Güncelleme Ayarları</translation>
+        <translation type="vanished">Güncelleme Ayarları</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6346,7 +6346,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>Profil görünümü sıralama modu</translation>
+        <translation type="vanished">Profil görünümü sıralama modu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6361,7 +6361,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     </message>
     <message>
         <source>Theme</source>
-        <translation>Tema</translation>
+        <translation type="vanished">Tema</translation>
     </message>
     <message>
         <source>&amp;Icons</source>
@@ -6385,17 +6385,17 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     </message>
     <message>
         <source>Mods</source>
-        <translation>Modlar</translation>
+        <translation type="vanished">Modlar</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>Modlar için (Modrinth veya CurseForge gibi) mod sağlayıcılarından sağlanan meta veriyi kullanmayı devre dışı bırak.</translation>
+        <translation type="vanished">Modlar için (Modrinth veya CurseForge gibi) mod sağlayıcılarından sağlanan meta veriyi kullanmayı devre dışı bırak.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>Modlar için meta veri kullanmayı devre dışı bırak</translation>
+        <translation type="vanished">Modlar için meta veri kullanmayı devre dışı bırak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6459,15 +6459,15 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     </message>
     <message>
         <source>Update interval</source>
-        <translation>Güncelleme aralığı</translation>
+        <translation type="vanished">Güncelleme aralığı</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>Sadece başlangıçta bakmasını istiyorsanız 0 yapın</translation>
+        <translation type="vanished">Sadece başlangıçta bakmasını istiyorsanız 0 yapın</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>sa</translation>
+        <translation type="vanished">sa</translation>
     </message>
     <message>
         <source>Rename instance folders</source>
@@ -6497,36 +6497,36 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>İndirilenler klasörünü tekrarlı olarak kontrol et</translation>
+        <translation type="vanished">İndirilenler klasörünü tekrarlı olarak kontrol et</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Uzantı bağımlılıklarının otomatik tespitini, yüklenmesini ve güncellenmesini devre dışı bırak.</translation>
+        <translation type="vanished">Uzantı bağımlılıklarının otomatik tespitini, yüklenmesini ve güncellenmesini devre dışı bırak.</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>Otomatik mod bağımlılığı yönetimini devre dışı bırak</translation>
+        <translation type="vanished">Otomatik mod bağımlılığı yönetimini devre dışı bırak</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Yeni bir mod paketi profili oluştururken, bunun yerine mevcut profillerin güncellenmesini önermeyin.</translation>
+        <translation type="vanished">Yeni bir mod paketi profili oluştururken, bunun yerine mevcut profillerin güncellenmesini önermeyin.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>Mod paketi güncelleştirme istemini atla</translation>
+        <translation type="vanished">Mod paketi güncelleştirme istemini atla</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Çeşitli</translation>
+        <translation type="vanished">Çeşitli</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>Eşzamanlı görev sayısı</translation>
+        <translation type="vanished">Eşzamanlı görev sayısı</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>Eşzamanlı indirme sayısı</translation>
+        <translation type="vanished">Eşzamanlı indirme sayısı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6535,7 +6535,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>HTTP istekleri için zaman aşımı</translation>
+        <translation type="vanished">HTTP istekleri için zaman aşımı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6544,7 +6544,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>El ile yeniden deneme sayısı</translation>
+        <translation type="vanished">El ile yeniden deneme sayısı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6562,23 +6562,23 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     </message>
     <message>
         <source>Cat</source>
-        <translation>Kedi</translation>
+        <translation type="vanished">Kedi</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Kedinin şeffaflığını ayarla. %0 tamamen şeffaf ve %100 tamamen opak.</translation>
+        <translation type="vanished">Kedinin şeffaflığını ayarla. %0 tamamen şeffaf ve %100 tamamen opak.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Şeffaflık</translation>
+        <translation type="vanished">Şeffaflık</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Aletler</translation>
+        <translation type="vanished">Aletler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6643,27 +6643,27 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>Konsol Ayarları</translation>
+        <translation type="vanished">Konsol Ayarları</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Oyun çalışırken konsolu göster</translation>
+        <translation type="vanished">Oyun çalışırken konsolu göster</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>&amp;Oyundan çıkılğında otomatik olarak konsol kapat</translation>
+        <translation type="vanished">&amp;Oyundan çıkılğında otomatik olarak konsol kapat</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Oyun çöktüğünde konsol gösterilsin mi</translation>
+        <translation type="vanished">Oyun çöktüğünde konsol gösterilsin mi</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>&amp;Geçmiş sınırı</translation>
+        <translation type="vanished">&amp;Geçmiş sınırı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6679,7 +6679,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>Konsol yazı tipi</translation>
+        <translation type="vanished">Konsol yazı tipi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6743,23 +6743,23 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Test/ERROR] OOoooOOOoooo! Ürkütücü bir hata!</translation>
+        <translation type="vanished">[Test/ERROR] OOoooOOOoooo! Ürkütücü bir hata!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Test/ERROR] Ürkütücü bir hata!</translation>
+        <translation type="vanished">[Test/ERROR] Ürkütücü bir hata!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[Test/WARN] Ürkütücü olmayan bir uyarı.</translation>
+        <translation type="vanished">[Test/WARN] Ürkütücü olmayan bir uyarı.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/DEBUG] Gizli bir hata ayıklama mesajı...</translation>
+        <translation type="vanished">[Test/DEBUG] Gizli bir hata ayıklama mesajı...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] Kritik bir hata!</translation>
+        <translation type="vanished">[Test/FATAL] Kritik bir hata!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6767,7 +6767,7 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] Zararsız bir mesaj...</translation>
+        <translation type="vanished">[Test/INFO] Zararsız bir mesaj...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6787,7 +6787,7 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Başlatıcı</translation>
+        <translation type="vanished">Başlatıcı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6895,7 +6895,7 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>Mod paket dosyası %1 açılamadı!</translation>
+        <translation type="vanished">Mod paket dosyası %1 açılamadı!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -7119,12 +7119,12 @@ Sebep:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>Mod için dizin güncelleniyor:
+        <translation type="vanished">Mod için dizin güncelleniyor:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>Geçersiz üst veri</translation>
+        <translation type="vanished">Geçersiz üst veri</translation>
     </message>
 </context>
 <context>
@@ -7196,7 +7196,7 @@ Sebep:
     </message>
     <message>
         <source>Search:</source>
-        <translation>Ara:</translation>
+        <translation type="vanished">Ara:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7308,7 +7308,7 @@ Sebep:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>Oluşturulamadı:</translation>
+        <translation type="vanished">Oluşturulamadı:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7325,7 +7325,7 @@ Sebep:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>Zip dosyası açılamadı.</translation>
+        <translation type="vanished">Zip dosyası açılamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7344,7 +7344,7 @@ Sebep:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>Zip içindeki ilk dosyayı arama başarısız oldu</translation>
+        <translation type="vanished">Zip içindeki ilk dosyayı arama başarısız oldu</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -7358,7 +7358,7 @@ Sebep:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>%1 için yetkiler düzeltilemedi</translation>
+        <translation type="vanished">%1 için yetkiler düzeltilemedi</translation>
     </message>
 </context>
 <context>
@@ -7471,11 +7471,11 @@ Sebep:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>%1&apos;i Aç veya QR kodu okut ve aşağıdaki kodu gir.</translation>
+        <translation type="vanished">%1&apos;i Aç veya QR kodu okut ve aşağıdaki kodu gir.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>%1&apos;i aç ve yukarıda ki kodu gir.</translation>
+        <translation type="vanished">%1&apos;i aç ve yukarıda ki kodu gir.</translation>
     </message>
 </context>
 <context>
@@ -7817,7 +7817,7 @@ Sebep:
     </message>
     <message>
         <source>More news...</source>
-        <translation>Daha fazla haber...</translation>
+        <translation type="vanished">Daha fazla haber...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7861,7 +7861,7 @@ Sebep:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Seçilmiş profili başlatmak için masaüstüne kısayol oluştur.</translation>
+        <translation type="vanished">Seçilmiş profili başlatmak için masaüstüne kısayol oluştur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -8502,14 +8502,14 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>%1&apos;i silmek üzeresin.
+        <translation type="vanished">%1&apos;i silmek üzeresin.
 Büyük ihtimalle seçtiğin profili sonsuza kadar sileceksin.
 
 Emin misin?</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>Bağlı profiller var</translation>
+        <translation type="vanished">Bağlı profiller var</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8519,7 +8519,7 @@ Emin misin?</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>Aşağıdaki profil bu profildeki dosyaları kullanıyor olabilir:
 
 %1
@@ -8549,31 +8549,31 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>Profil için kısayol oluştur</translation>
+        <translation type="vanished">Profil için kısayol oluştur</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Masaüstü bulunamadı?!</translation>
+        <translation type="vanished">Masaüstü bulunamadı?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Başlatıcı çıkartıldığı klasörün içersinde olduğundan kısayol oluşturamaz.</translation>
+        <translation type="vanished">Başlatıcı çıkartıldığı klasörün içersinde olduğundan kısayol oluşturamaz.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>Masaüstü Girişleri</translation>
+        <translation type="vanished">Masaüstü Girişleri</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>Masaüstünüzde bu profilin bir kısayolu oluşturuldu!</translation>
+        <translation type="vanished">Masaüstünüzde bu profilin bir kısayolu oluşturuldu!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>Profil kısayolu oluşturma başarısız oldu!</translation>
+        <translation type="vanished">Profil kısayolu oluşturma başarısız oldu!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>İstemci yanlış yapılandırılmış bir AppImage üstünde çalışıyor(?). ($APPIMAGE ortam değişkeni kayıp)</translation>
+        <translation type="vanished">İstemci yanlış yapılandırılmış bir AppImage üstünde çalışıyor(?). ($APPIMAGE ortam değişkeni kayıp)</translation>
     </message>
     <message>
         <source>Quilt is currently not supported by CurseForge modpacks.</source>
@@ -8681,15 +8681,15 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Profil Başvurusu Oluştur</translation>
+        <translation type="vanished">Profil Başvurusu Oluştur</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>Uygulama için simge oluşturulamadı.</translation>
+        <translation type="vanished">Uygulama için simge oluşturulamadı.</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Kısayol için ikon oluşturulamadı.</translation>
+        <translation type="vanished">Kısayol için ikon oluşturulamadı.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8697,11 +8697,11 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>Platformunuzda desteklenmemekte!</translation>
+        <translation type="vanished">Platformunuzda desteklenmemekte!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>Bu profil için bir kısayol oluşturuldu!</translation>
+        <translation type="vanished">Bu profil için bir kısayol oluşturuldu!</translation>
     </message>
     <message>
         <source>Couldn&apos;t find applications folder?!</source>
@@ -8785,11 +8785,11 @@ Emin misiniz?</translation>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation>Paket bilgisi</translation>
+        <translation type="vanished">Paket bilgisi</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>Paket adı:</translation>
+        <translation type="vanished">Paket adı:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8828,7 +8828,7 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>Dosyadan güncelle</translation>
+        <translation type="vanished">Dosyadan güncelle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8891,7 +8891,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     </message>
     <message>
         <source>Update pack</source>
-        <translation>Paketi güncelle</translation>
+        <translation type="vanished">Paketi güncelle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -9089,26 +9089,26 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation>Pencere Boyutu</translation>
+        <translation type="vanished">Pencere Boyutu</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>Minecraft&apos;ı tam ekranda başlat</translation>
+        <translation type="vanished">Minecraft&apos;ı tam ekranda başlat</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>Pencere &amp;yüksekliği:</translation>
+        <translation type="vanished">Pencere &amp;yüksekliği:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>Pencere &amp;genişliği:</translation>
+        <translation type="vanished">Pencere &amp;genişliği:</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>İnce Ayarlar</translation>
+        <translation type="vanished">İnce Ayarlar</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -9124,82 +9124,82 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Eski ayarlar</translation>
+        <translation type="vanished">Eski ayarlar</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Artık aktif olmayan servislerin simüle edilerek kullanılmasını sağlar.&lt;/p&gt;&lt;p&gt;Şuan ki düzeltmeler şunları içerir: dış görünüş ve çevrimiçi mod desteği.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Artık aktif olmayan servislerin simüle edilerek kullanılmasını sağlar.&lt;/p&gt;&lt;p&gt;Şuan ki düzeltmeler şunları içerir: dış görünüş ve çevrimiçi mod desteği.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Çevrimiçi düzeltmeleri etkinleştir (deneysel)</translation>
+        <translation type="vanished">Çevrimiçi düzeltmeleri etkinleştir (deneysel)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>Yerel Kütüphane geçici çözümü</translation>
+        <translation type="vanished">Yerel Kütüphane geçici çözümü</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>&amp;GLFW&apos;nin sistem kurulumunu kullan</translation>
+        <translation type="vanished">&amp;GLFW&apos;nin sistem kurulumunu kullan</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>&amp;GLFW kütüphane yolu</translation>
+        <translation type="vanished">&amp;GLFW kütüphane yolu</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>&amp;OpenAL&apos;in sistem kurulumunu kullan</translation>
+        <translation type="vanished">&amp;OpenAL&apos;in sistem kurulumunu kullan</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>&amp;OpenAL kütüphane yolu</translation>
+        <translation type="vanished">&amp;OpenAL kütüphane yolu</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Performans</translation>
+        <translation type="vanished">Performans</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Olası olarak oyun performansını arttırmak için Feral Interactive&apos;in Gamemode&apos;unu etkinleştir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Olası olarak oyun performansını arttırmak için Feral Interactive&apos;in Gamemode&apos;unu etkinleştir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Feral GameMode&apos;u etkinleştir</translation>
+        <translation type="vanished">Feral GameMode&apos;u etkinleştir</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mangohud&apos;un gelişmiş performans arayüzünü etkinleştir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mangohud&apos;un gelişmiş performans arayüzünü etkinleştir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>MangoHud&apos;ı etkinleştir</translation>
+        <translation type="vanished">MangoHud&apos;ı etkinleştir</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ana GPU yerine ayrık GPU&apos;yu kullan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ana GPU yerine ayrık GPU&apos;yu kullan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Ayrık GPU kullan</translation>
+        <translation type="vanished">Ayrık GPU kullan</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Vulkan&apos;ın üstünde OpenGL uygulayan bir Mesa OpenGL sürücüsü olan Zink&apos;i kullanın. Performans duruma bağlı olarak değişebilir. Not: Uygun bir Vulkan sürücüsü bulunamazsa, yazılım oluşturma kullanılır.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Vulkan&apos;ın üstünde OpenGL uygulayan bir Mesa OpenGL sürücüsü olan Zink&apos;i kullanın. Performans duruma bağlı olarak değişebilir. Not: Uygun bir Vulkan sürücüsü bulunamazsa, yazılım oluşturma kullanılır.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Zink kullanın</translation>
+        <translation type="vanished">Zink kullanın</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>Oyun Zamanı</translation>
+        <translation type="vanished">Oyun Zamanı</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Genel</translation>
+        <translation type="vanished">Genel</translation>
     </message>
     <message>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -9212,45 +9212,45 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Profillerde oynanan süreyi göster</translation>
+        <translation type="vanished">Profillerde oynanan süreyi göster</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Tüm profillerde oynanan süreyi göster</translation>
+        <translation type="vanished">Tüm profillerde oynanan süreyi göster</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>&amp;Profillerde oynanan süreyi kaydet</translation>
+        <translation type="vanished">&amp;Profillerde oynanan süreyi kaydet</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>Oyunda geçirilen süreyi saat olarak göster</translation>
+        <translation type="vanished">Oyunda geçirilen süreyi saat olarak göster</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Çeşitli</translation>
+        <translation type="vanished">Çeşitli</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Oyun çöktüğü veya çıkıldığı zaman başlatıcı otomatik olarak yeniden açılır.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Oyun çöktüğü veya çıkıldığı zaman başlatıcı otomatik olarak yeniden açılır.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>&amp;Oyun penceresi açıldıktan sonra başlatıcıyı kapat</translation>
+        <translation type="vanished">&amp;Oyun penceresi açıldıktan sonra başlatıcıyı kapat</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Oyun çöktüğü veya çıkıldığı zaman başlatıcı otomatik olarak kendini kapatır.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Oyun çöktüğü veya çıkıldığı zaman başlatıcı otomatik olarak kendini kapatır.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>&amp;Oyun penceresi kapatıldıktan sonra başlatıcıdan çık</translation>
+        <translation type="vanished">&amp;Oyun penceresi kapatıldıktan sonra başlatıcıdan çık</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -9259,19 +9259,19 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>%1 kütüphane dosyasının yolu</translation>
+        <translation type="vanished">%1 kütüphane dosyasının yolu</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>Otomatik algılanan yol: %1</translation>
+        <translation type="vanished">Otomatik algılanan yol: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive&apos;in GameMode&apos;u sisteminizde bulunamadı.</translation>
+        <translation type="vanished">Feral Interactive&apos;in GameMode&apos;u sisteminizde bulunamadı.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud sisteminizde bulunamadı.</translation>
+        <translation type="vanished">MangoHud sisteminizde bulunamadı.</translation>
     </message>
 </context>
 <context>
@@ -9949,7 +9949,7 @@ Büyük ihtimalle dizini değiştirmeniz gerekecek — lütfen modun web sitesin
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>Bilinmeyen</translation>
+        <translation type="vanished">Bilinmeyen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -10053,7 +10053,7 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Modun indirildiği yer.</translation>
+        <translation type="vanished">Modun indirildiği yer.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -10137,7 +10137,7 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     </message>
     <message>
         <source>Download mods</source>
-        <translation>Mod İndir</translation>
+        <translation type="vanished">Mod İndir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -10163,11 +10163,11 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     </message>
     <message>
         <source>Add file</source>
-        <translation>Dosya ekle</translation>
+        <translation type="vanished">Dosya ekle</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>Yerel olarak indirilmiş dosya ekle</translation>
+        <translation type="vanished">Yerel olarak indirilmiş dosya ekle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -10182,11 +10182,11 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>Bağımlılıkları Doğrula</translation>
+        <translation type="vanished">Bağımlılıkları Doğrula</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>Seçili tüm modları güncellemeyi ve eksik bağımlılıkları kontrol etmeyi deneyin (hiçbiri seçili değilse tüm modlar)</translation>
+        <translation type="vanished">Seçili tüm modları güncellemeyi ve eksik bağımlılıkları kontrol etmeyi deneyin (hiçbiri seçili değilse tüm modlar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
@@ -10196,35 +10196,35 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>Mod&apos;un ana sayfasına git</translation>
+        <translation type="vanished">Mod&apos;un ana sayfasına git</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Modun meta verilerini kaldır</translation>
+        <translation type="vanished">Modun meta verilerini kaldır</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation>Güncelleme meta verisini sıfırla</translation>
+        <translation type="vanished">Güncelleme meta verisini sıfırla</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Sürüm Değiştir</translation>
+        <translation type="vanished">Sürüm Değiştir</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>Mod sürümünü değiştir</translation>
+        <translation type="vanished">Mod sürümünü değiştir</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Mod&apos;un sayfasını ziyaret et</translation>
+        <translation type="vanished">Mod&apos;un sayfasını ziyaret et</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation>Modların sayfalarını ziyaret et</translation>
+        <translation type="vanished">Modların sayfalarını ziyaret et</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>Seçilen modların sayfalarına git</translation>
+        <translation type="vanished">Seçilen modların sayfalarına git</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
@@ -10248,7 +10248,7 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>Lütfen önce bir mod yükleyici kur!</translation>
+        <translation type="vanished">Lütfen önce bir mod yükleyici kur!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -10480,92 +10480,92 @@ Lütfen %1 programını güncelleyin!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>Güncellemek için modları onayla</translation>
+        <translation type="vanished">Güncellemek için modları onayla</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>Aşağıdaki modları güncellemek üzeresiniz:</translation>
+        <translation type="vanished">Aşağıdaki modları güncellemek üzeresiniz:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>Sadece tiklenen modlar güncellenecek!</translation>
+        <translation type="vanished">Sadece tiklenen modlar güncellenecek!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Mod adı: %1&lt;br&gt;Dosya adı: %2&lt;br&gt;Sebep: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Mod adı: %1&lt;br&gt;Dosya adı: %2&lt;br&gt;Sebep: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation>Üst veri oluşumu başarısız</translation>
+        <translation type="vanished">Üst veri oluşumu başarısız</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Aşağıdaki modlar için üst veri oluşturulamadı:&lt;br&gt;Bu modlar olmadan devam etmek ister misiniz?</translation>
+        <translation type="vanished">Aşağıdaki modlar için üst veri oluşturulamadı:&lt;br&gt;Bu modlar olmadan devam etmek ister misiniz?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation>Güncellemeler denetleniyor</translation>
+        <translation type="vanished">Güncellemeler denetleniyor</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Hata</translation>
+        <translation type="vanished">Hata</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>Uyarılar</translation>
+        <translation type="vanished">Uyarılar</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>İptal Et</translation>
+        <translation type="vanished">İptal Et</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>Güncellemeler denetleniyor…</translation>
+        <translation type="vanished">Güncellemeler denetleniyor…</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>Mod adı: %1</translation>
+        <translation type="vanished">Mod adı: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>Sebep: %1</translation>
+        <translation type="vanished">Sebep: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>Olası çözüm: Son sürümü elle edinmek:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation type="vanished">Olası çözüm: Son sürümü elle edinmek:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>Bağımlılıklar kontrol ediliyor...</translation>
+        <translation type="vanished">Bağımlılıklar kontrol ediliyor...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>&apos;%1&apos; modunun henüz bir üst verisi yok. Bu modun güncellenebilmesi için alakalı bilgileri tespit etmek için oluşturmak gerek. Bunu yapmak için, lütfen bu modun güncellemesini denetlemek için kullanabileceğimiz bir mod sağlayıcısı seçin.</translation>
+        <translation type="vanished">&apos;%1&apos; modunun henüz bir üst verisi yok. Bu modun güncellenebilmesi için alakalı bilgileri tespit etmek için oluşturmak gerek. Bunu yapmak için, lütfen bu modun güncellemesini denetlemek için kullanabileceğimiz bir mod sağlayıcısı seçin.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Seçili mod sağlayıcı(ların)da geçerli bir sürüm bulunamadı</translation>
+        <translation type="vanished">Seçili mod sağlayıcı(ların)da geçerli bir sürüm bulunamadı</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>Mod, zaten kurulu olma ihtimali olduğu için devre dışı bırakıldı.</translation>
+        <translation type="vanished">Mod, zaten kurulu olma ihtimali olduğu için devre dışı bırakıldı.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>Güncelleme denetlemesi başarısız</translation>
+        <translation type="vanished">Güncelleme denetlemesi başarısız</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Güncellemeler için aşağıdaki modlar denetlenemedi veya edinilemedi:&lt;br&gt;Bu modlar olmadan hala devam etmek istiyor musunuz?</translation>
+        <translation type="vanished">Güncellemeler için aşağıdaki modlar denetlenemedi veya edinilemedi:&lt;br&gt;Bu modlar olmadan hala devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>Üst veri aranıyor</translation>
+        <translation type="vanished">Üst veri aranıyor</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>Üst veri oluşturuluyor…</translation>
+        <translation type="vanished">Üst veri oluşturuluyor…</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10573,35 +10573,35 @@ Lütfen %1 programını güncelleyin!</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>Sağlayıcı: %1</translation>
+        <translation type="vanished">Sağlayıcı: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation>Eski sürüm: %1</translation>
+        <translation type="vanished">Eski sürüm: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>Kurulu değil</translation>
+        <translation type="vanished">Kurulu değil</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation>Yeni sürüm: %1</translation>
+        <translation type="vanished">Yeni sürüm: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>Yeni Sürüm Tipi: %1</translation>
+        <translation type="vanished">Yeni Sürüm Tipi: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>Tarafından gerekli: %1</translation>
+        <translation type="vanished">Tarafından gerekli: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>Tarafından gerekli:</translation>
+        <translation type="vanished">Tarafından gerekli:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>Son sürüm için değişik listesi</translation>
+        <translation type="vanished">Son sürüm için değişik listesi</translation>
     </message>
 </context>
 <context>
@@ -10706,7 +10706,7 @@ Lütfen %1 programını güncelleyin!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Modrinth için modlar hazırlanıyor…</translation>
+        <translation type="vanished">Modrinth için modlar hazırlanıyor…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10744,7 +10744,7 @@ Lütfen %1 programını güncelleyin!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Bu mod için geçerli sürüm bulunamadı. Muhtemelen şu anki oyun sürümü / mod yükleyicisi için mevcut değil.</translation>
+        <translation type="vanished">Bu mod için geçerli sürüm bulunamadı. Muhtemelen şu anki oyun sürümü / mod yükleyicisi için mevcut değil.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -11329,27 +11329,27 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>Hesap Ekle</translation>
+        <translation type="vanished">Hesap Ekle</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Kullanıcı adı</translation>
+        <translation type="vanished">Kullanıcı adı</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>16 karakterden uzun kullanıcı adları LAN oyunları ya da çevrimdışı-modu sunucuları için kullanılamaz.</translation>
+        <translation type="vanished">16 karakterden uzun kullanıcı adları LAN oyunları ya da çevrimdışı-modu sunucuları için kullanılamaz.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>Uzun kullanıcı adlarına izin ver</translation>
+        <translation type="vanished">Uzun kullanıcı adlarına izin ver</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation type="vanished">İptal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Tamam</translation>
+        <translation type="vanished">Tamam</translation>
     </message>
 </context>
 <context>
@@ -11400,7 +11400,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>Bul</translation>
+        <translation type="vanished">Bul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -11489,31 +11489,31 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>Sistem kayıtlarını temizle</translation>
+        <translation type="vanished">Sistem kayıtlarını temizle</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Sil</translation>
+        <translation type="vanished">Sil</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>Kayıt dosyalarını ayarlarda tanımlı kopyalama servisine yükle.</translation>
+        <translation type="vanished">Kayıt dosyalarını ayarlarda tanımlı kopyalama servisine yükle.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Yükle</translation>
+        <translation type="vanished">Yükle</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>Temizle</translation>
+        <translation type="vanished">Temizle</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Yenile</translation>
+        <translation type="vanished">Yenile</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>Ara:</translation>
+        <translation type="vanished">Ara:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -11540,7 +11540,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>%1 dosyası okunmuyor.</translation>
+        <translation type="vanished">%1 dosyası okunmuyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -11617,7 +11617,7 @@ Emin misin?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>Diğer sistem kayıtları</translation>
+        <translation type="vanished">Diğer sistem kayıtları</translation>
     </message>
 </context>
 <context>
@@ -11642,7 +11642,7 @@ Emin misin?</translation>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation>Kapat</translation>
+        <translation type="vanished">Kapat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -11671,28 +11671,28 @@ Emin misin?</translation>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation>%1&apos;e yükleniyor</translation>
+        <translation type="vanished">%1&apos;e yükleniyor</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation>Ağ hatası: %1</translation>
+        <translation type="vanished">Ağ hatası: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>Hata: %1 bilinmeyen bir durum kodu gönderdi %2 %3</translation>
+        <translation type="vanished">Hata: %1 bilinmeyen bir durum kodu gönderdi %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Hata: %1 hatalı biçimlendirilmiş bir cevap metni çıkardı</translation>
+        <translation type="vanished">Hata: %1 hatalı biçimlendirilmiş bir cevap metni çıkardı</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation>Error: %1 bir hata çıkardı: %2</translation>
+        <translation type="vanished">Error: %1 bir hata çıkardı: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>Hata: %1 bir hata kodu çıkardı: %2
+        <translation type="vanished">Hata: %1 bir hata kodu çıkardı: %2
 Hata mesajı: %3</translation>
     </message>
 </context>
@@ -12371,7 +12371,7 @@ HTTP Durumu: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>Sunucu, şu hatayı döndürdü:</translation>
+        <translation type="vanished">Sunucu, şu hatayı döndürdü:</translation>
     </message>
 </context>
 <context>
@@ -12432,7 +12432,7 @@ HTTP Durumu: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>&amp;Varsayılan</translation>
+        <translation type="vanished">&amp;Varsayılan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -12571,13 +12571,13 @@ HTTP Durumu: %2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>İnternet sitesi</translation>
+        <translation type="vanished">İnternet sitesi</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>%1 Geliştiricileri</translation>
+        <translation type="vanished">%1 Geliştiricileri</translation>
     </message>
     <message>
         <source>%1 Contributors</source>
@@ -12588,7 +12588,7 @@ HTTP Durumu: %2</translation>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>Bu kişilere teşekkürler</translation>
+        <translation type="vanished">Bu kişilere teşekkürler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -12659,7 +12659,7 @@ Hata mesajı: %1</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Yükleme başarısız oldu</translation>
+        <translation type="vanished">Yükleme başarısız oldu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -12958,7 +12958,7 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>Belirlenmiş Java konumu çalışmadı.&lt;br /&gt;Otomatik bulma özelliğini kullanabilir veya Java programı dizin yolunu ayarlayın.&lt;br /&gt;</translation>
+        <translation type="vanished">Belirlenmiş Java konumu çalışmadı.&lt;br /&gt;Otomatik bulma özelliğini kullanabilir veya Java programı dizin yolunu ayarlayın.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -12986,7 +12986,7 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>Geçersiz JVisualVM dizin yolu</translation>
+        <translation type="vanished">Geçersiz JVisualVM dizin yolu</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -13011,7 +13011,7 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
     </message>
     <message>
         <source>No author(s)</source>
-        <translation>Yazar(lar) yok</translation>
+        <translation type="vanished">Yazar(lar) yok</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -13234,7 +13234,7 @@ NOT: Güncellemeden önce profilinizin önemli verilerini yedeklediğinizden emi
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>%1 için yetkiler düzeltilemedi</translation>
+        <translation type="vanished">%1 için yetkiler düzeltilemedi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -13634,7 +13634,7 @@ Hata mesajı: %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>%1 sürümünü değiştir</translation>
+        <translation type="vanished">%1 sürümünü değiştir</translation>
     </message>
 </context>
 <context>
@@ -14068,13 +14068,11 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Kaynağın ismi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Bu kaynagın en son değiştirildiği (veya eklendiği) tarih ve zaman.</translation>
     </message>
     <message>
@@ -14184,7 +14182,7 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Kaynak paketi etkin mi? (Sadece geçerli ZIP&apos;ler için)</translation>
+        <translation type="vanished">Kaynak paketi etkin mi? (Sadece geçerli ZIP&apos;ler için)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
@@ -14205,15 +14203,15 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>Doku paketleri</translation>
+        <translation type="vanished">Doku paketleri</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Paket indir</translation>
+        <translation type="vanished">Paket indir</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Kaynak paketlerini çevrimiçi platformlardan indirin</translation>
+        <translation type="vanished">Kaynak paketlerini çevrimiçi platformlardan indirin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -14552,11 +14550,11 @@ Emin misin?</translation>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation>İndirilenler %1&apos;e konulacak</translation>
+        <translation type="vanished">İndirilenler %1&apos;e konulacak</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Bu dosya varsayılandan farklı bir konuma indirilecek, muhtemel sebep yükleyici gerekliliği.</translation>
+        <translation type="vanished">Bu dosya varsayılandan farklı bir konuma indirilecek, muhtemel sebep yükleyici gerekliliği.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -14875,7 +14873,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Latency</source>
-        <translation>Gecikme</translation>
+        <translation type="vanished">Gecikme</translation>
     </message>
 </context>
 <context>
@@ -15004,15 +15002,15 @@ Emin misin?</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>Shader paketleri</translation>
+        <translation type="vanished">Shader paketleri</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>Shader indir</translation>
+        <translation type="vanished">Shader indir</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Çevrimiçi platformlardan shader paketleri indir</translation>
+        <translation type="vanished">Çevrimiçi platformlardan shader paketleri indir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -15577,7 +15575,7 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Seçili mod paketinin zip dosyası açılamadı.</translation>
+        <translation type="vanished">Seçili mod paketinin zip dosyası açılamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -15748,13 +15746,11 @@ inheritsFrom eksik</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Doku paketi etkin mi?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Doku paketinin ismi.</translation>
     </message>
     <message>
@@ -15764,7 +15760,6 @@ inheritsFrom eksik</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Bu doku paketinde en son yapılan değişikliğin (veya eklemelerin) tarihi ve zamanı.</translation>
     </message>
     <message>
@@ -15848,11 +15843,11 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Paket indir</translation>
+        <translation type="vanished">Paket indir</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Doku paketlerini çevrimiçi platformlardan indirin</translation>
+        <translation type="vanished">Doku paketlerini çevrimiçi platformlardan indirin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -15974,7 +15969,7 @@ Emin misiniz?</translation>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>&amp;İkonlar</translation>
+        <translation type="vanished">&amp;İkonlar</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -15982,54 +15977,54 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>Simge temaları klasörünü görüntüleyin.</translation>
+        <translation type="vanished">Simge temaları klasörünü görüntüleyin.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation>&amp;Widgets</translation>
+        <translation type="vanished">&amp;Widgets</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation>Widget temaları klasörünü görüntüleyin.</translation>
+        <translation type="vanished">Widget temaları klasörünü görüntüleyin.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Kedi arkaplanda çıkmaktadır ve varsayılan olarak gösterilmez. Sadece araç çubuğundaki Kedi butonuna basarak gösterilir.</translation>
+        <translation type="vanished">Kedi arkaplanda çıkmaktadır ve varsayılan olarak gösterilmez. Sadece araç çubuğundaki Kedi butonuna basarak gösterilir.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>K&amp;edi</translation>
+        <translation type="vanished">K&amp;edi</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>Kedi paketleri klasörünü görüntüleyin.</translation>
+        <translation type="vanished">Kedi paketleri klasörünü görüntüleyin.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation>Tümünü yenile</translation>
+        <translation type="vanished">Tümünü yenile</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>SihirbazSayfası</translation>
+        <translation type="vanished">SihirbazSayfası</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>Kullanmak istediğiniz temayı seçiniz</translation>
+        <translation type="vanished">Kullanmak istediğiniz temayı seçiniz</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>İpucu: Kedi arkaplanda çıkmaktadır ve varsayılan olarak gösterilmez. Sadece araç çubuğundaki Kedi butonuna basarak gösterilir.</translation>
+        <translation type="vanished">İpucu: Kedi arkaplanda çıkmaktadır ve varsayılan olarak gösterilmez. Sadece araç çubuğundaki Kedi butonuna basarak gösterilir.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation> Önizleme:</translation>
+        <translation type="vanished"> Önizleme:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>Kedi arkaplanda bulunmaktadır ve bir işlevi bulunmamaktadır, sadece görünüş amaçlıdır.</translation>
+        <translation type="vanished">Kedi arkaplanda bulunmaktadır ve bir işlevi bulunmamaktadır, sadece görünüş amaçlıdır.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -16312,7 +16307,7 @@ Lütfen bu profil için burdaki Java sürümlerinden birini seçin:</translation
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Filtre:</translation>
+        <translation type="vanished">Filtre:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -17146,11 +17141,11 @@ Kanonik Yol: %1</translation>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>Veri Paketleri</translation>
+        <translation type="vanished">Veri Paketleri</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>Dünyanın içindeki veri paketlerini yönet.</translation>
+        <translation type="vanished">Dünyanın içindeki veri paketlerini yönet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -17178,7 +17173,7 @@ Devam etmek istiyor musun?</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>Dünya Veri Paketleri Klasörünü Aç</translation>
+        <translation type="vanished">Dünya Veri Paketleri Klasörünü Aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

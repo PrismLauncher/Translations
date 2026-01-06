@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>API kulcsok</translation>
+        <translation type="vanished">API kulcsok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -92,16 +92,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Alapértelmezett)</translation>
+        <translation type="vanished">(Alapértelmezett)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Adjon meg egy egyedi kliens azonosítót a Microsoft Authentication-nek.</translation>
+        <translation type="vanished">Adjon meg egy egyedi kliens azonosítót a Microsoft Authentication-nek.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth API</translation>
+        <translation type="vanished">&amp;Modrinth API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -110,15 +110,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Adj meg itt egy egyéni API-token-t a Modrinth számára.</translation>
+        <translation type="vanished">Adj meg itt egy egyéni API-token-t a Modrinth számára.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Semmi)</translation>
+        <translation type="vanished">(Semmi)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>Technic kliens azonosító</translation>
+        <translation type="vanished">Technic kliens azonosító</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -127,11 +127,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Adj meg egy egyéni GUID kliens azonosítót a Technic számára.</translation>
+        <translation type="vanished">Adj meg egy egyéni GUID kliens azonosítót a Technic számára.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Egyéb</translation>
+        <translation type="vanished">Egyéb</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Add meg itt a metaadat-kiszolgáló egyéni URL-jét.</translation>
+        <translation type="vanished">Add meg itt a metaadat-kiszolgáló egyéni URL-jét.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core API</translation>
+        <translation type="vanished">&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -179,11 +179,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Adj meg egy egyéni API-kulcsot a CurseForge számára.</translation>
+        <translation type="vanished">Adj meg egy egyéni API-kulcsot a CurseForge számára.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>API-k</translation>
+        <translation type="vanished">API-k</translation>
     </message>
 </context>
 <context>
@@ -252,7 +252,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>A(z) %1 csomag konfigurációk megnyitása sikertelen!</translation>
+        <translation type="vanished">A(z) %1 csomag konfigurációk megnyitása sikertelen!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -421,12 +421,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Nincs bejelölve</translation>
+        <translation type="vanished">Nincs bejelölve</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Offline</translation>
+        <translation type="vanished">Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -454,37 +454,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>Kész</translation>
+        <translation type="vanished">Kész</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Betöltés</translation>
+        <translation type="vanished">Betöltés</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Hibás</translation>
+        <translation type="vanished">Hibás</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>Lejárt</translation>
+        <translation type="vanished">Lejárt</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Tiltva</translation>
+        <translation type="vanished">Tiltva</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Eltűnt</translation>
+        <translation type="vanished">Eltűnt</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>Ismeretlen</translation>
+        <translation type="vanished">Ismeretlen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1141,7 +1141,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Erőforrásfájlok beszerzése a Mojangtól…</translation>
+        <translation type="vanished">Erőforrásfájlok beszerzése a Mojangtól…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1541,11 +1541,11 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A konfigurált globális modmappa és az alapértelmezett letöltési mappa automatikusan ellenőrzésre kerül a letöltött modok után, és ha megtaláljuk őket, átmásoljuk a példányba.&lt;/p&gt;&lt;p&gt;Opcionálisan áthúzhatod a letöltött modokat erre a párbeszédpanelre, vagy hozzáadhatsz egy mappát a figyeléshez, ha nem az alapértelmezett helyre töltötte le a modokat.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A konfigurált globális modmappa és az alapértelmezett letöltési mappa automatikusan ellenőrzésre kerül a letöltött modok után, és ha megtaláljuk őket, átmásoljuk a példányba.&lt;/p&gt;&lt;p&gt;Opcionálisan áthúzhatod a letöltött modokat erre a párbeszédpanelre, vagy hozzáadhatsz egy mappát a figyeléshez, ha nem az alapértelmezett helyre töltötte le a modokat.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>Figyelt mappák:</translation>
+        <translation type="vanished">Figyelt mappák:</translation>
     </message>
 </context>
 <context>
@@ -1689,7 +1689,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>Egy vagy több részfeladat meghiúsult</translation>
+        <translation type="vanished">Egy vagy több részfeladat meghiúsult</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1932,7 +1932,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>Alap (core) modok</translation>
+        <translation type="vanished">Alap (core) modok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2072,22 +2072,22 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>&amp;Egyedi parancsok</translation>
+        <translation type="vanished">&amp;Egyedi parancsok</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>Kilépés utáni parancs:</translation>
+        <translation type="vanished">Kilépés utáni parancs:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Indítás előtti parancs:</translation>
+        <translation type="vanished">Indítás előtti parancs:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Wrapper parancs:</translation>
+        <translation type="vanished">Wrapper parancs:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2120,7 +2120,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Egyedi parancsok</translation>
+        <translation type="vanished">Egyedi parancsok</translation>
     </message>
 </context>
 <context>
@@ -2488,7 +2488,7 @@ Biztos vagy ebben?</translation>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Modok metaadatainak ellenőrzése…</translation>
+        <translation type="vanished">Modok metaadatainak ellenőrzése…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2540,7 +2540,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>&amp;Környezeti változók</translation>
+        <translation type="vanished">&amp;Környezeti változók</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2577,7 +2577,7 @@ Biztos vagy ebben?</translation>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>Környezeti változók</translation>
+        <translation type="vanished">Környezeti változók</translation>
     </message>
 </context>
 <context>
@@ -2720,11 +2720,11 @@ Biztos vagy ebben?</translation>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>&amp;Név</translation>
+        <translation type="vanished">&amp;Név</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>&amp;Verzió</translation>
+        <translation type="vanished">&amp;Verzió</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2776,7 +2776,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>&amp;Alkotó</translation>
+        <translation type="vanished">&amp;Alkotó</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2961,7 +2961,7 @@ Biztos vagy ebben?</translation>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Szűrő:</translation>
+        <translation type="vanished">Szűrő:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2970,11 +2970,11 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Hozzáadás</translation>
+        <translation type="vanished">&amp;Hozzáadás</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Hozzáadás</translation>
+        <translation type="vanished">Hozzáadás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2983,7 +2983,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>Kiválasztott elem eltávolítása</translation>
+        <translation type="vanished">Kiválasztott elem eltávolítása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2992,7 +2992,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>Kiválasztott elem engedélyezése</translation>
+        <translation type="vanished">Kiválasztott elem engedélyezése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3107,7 +3107,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>Új erőforrás letöltése</translation>
+        <translation type="vanished">Új erőforrás letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3117,27 +3117,27 @@ Biztos vagy ebben?</translation>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott erőforrást (ha nincs kiválasztva semmi, akkor minden erőforrást)</translation>
+        <translation type="vanished">Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott erőforrást (ha nincs kiválasztva semmi, akkor minden erőforrást)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>Modlista exportálása</translation>
+        <translation type="vanished">Modlista exportálása</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>A mod metaadatainak exportálása szövegbe</translation>
+        <translation type="vanished">A mod metaadatainak exportálása szövegbe</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Mod megnézése</translation>
+        <translation type="vanished">Mod megnézése</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>Kiválasztott elem letiltása</translation>
+        <translation type="vanished">Kiválasztott elem letiltása</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>Ugrás a mod kezdőlapjára</translation>
+        <translation type="vanished">Ugrás a mod kezdőlapjára</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -3199,12 +3199,12 @@ Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>Letiltást megerősítése</translation>
+        <translation type="vanished">Letiltást megerősítése</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Ha letiltod ezt az erőforrást, miközben a játék fut, a játék összeomolhat.
+        <translation type="vanished">Ha letiltod ezt az erőforrást, miközben a játék fut, a játék összeomolhat.
 Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
@@ -3277,16 +3277,16 @@ Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Külső szerkesztők (hagyd üresen a rendszer alapértelmezett beállításaiért)</translation>
+        <translation type="vanished">Külső szerkesztők (hagyd üresen a rendszer alapértelmezett beállításaiért)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>Szöveg szerkesztő:</translation>
+        <translation type="vanished">Szöveg szerkesztő:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>Külső eszközök</translation>
+        <translation type="vanished">Külső eszközök</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3348,17 +3348,17 @@ Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM futtatható</translation>
+        <translation type="vanished">JVisualVM futtatható</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Hiba a JVisualVM telepítésének ellenőrzése közben:
+        <translation type="vanished">Hiba a JVisualVM telepítésének ellenőrzése közben:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>A JVisualVM beállítása OK</translation>
+        <translation type="vanished">A JVisualVM beállítása OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3385,7 +3385,7 @@ Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>JSON szerkesztő</translation>
+        <translation type="vanished">JSON szerkesztő</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3499,7 +3499,7 @@ Próbáld újra.</translation>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Megjegyzés: Ha az FTB példányok nem az alapértelmezett helyen vannak, válaszd ki őket a keresés melletti gombbal.</translation>
+        <translation type="vanished">Megjegyzés: Ha az FTB példányok nem az alapértelmezett helyen vannak, válaszd ki őket a keresés melletti gombbal.</translation>
     </message>
 </context>
 <context>
@@ -3562,7 +3562,7 @@ Próbáld újra.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>API-válasz lekérése a CurseForge-tól a következőhöz: &quot;%1&quot;…</translation>
+        <translation type="vanished">API-válasz lekérése a CurseForge-tól a következőhöz: &quot;%1&quot;…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3601,16 +3601,16 @@ Próbáld újra.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Modok előkészítése a CurseForge számára…</translation>
+        <translation type="vanished">Modok előkészítése a CurseForge számára…</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nem található érvényes verzió ehhez a modhoz. Valószínűleg nem érhető el a jelenlegi játékverzióhoz / mod betöltőhöz.</translation>
+        <translation type="vanished">Nem található érvényes verzió ehhez a modhoz. Valószínűleg nem érhető el a jelenlegi játékverzióhoz / mod betöltőhöz.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>A modnak elérhető egy új frissítése, de nem tölthető le a CurseForge segítségével.</translation>
+        <translation type="vanished">A modnak elérhető egy új frissítése, de nem tölthető le a CurseForge segítségével.</translation>
     </message>
 </context>
 <context>
@@ -4039,11 +4039,11 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>Kulcs</translation>
+        <translation type="vanished">Kulcs</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Érték</translation>
+        <translation type="vanished">Érték</translation>
     </message>
 </context>
 <context>
@@ -4444,11 +4444,11 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>&amp;Név:</translation>
+        <translation type="vanished">&amp;Név:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>C&amp;soport:</translation>
+        <translation type="vanished">C&amp;soport:</translation>
     </message>
 </context>
 <context>
@@ -4672,19 +4672,19 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation>Globális beállítások megnyitása</translation>
+        <translation type="vanished">Globális beállítások megnyitása</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Az itteni beállítások felülírják a globális beállításokat.</translation>
+        <translation type="vanished">Az itteni beállítások felülírják a globális beállításokat.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Java &amp;telepítés</translation>
+        <translation type="vanished">Java &amp;telepítés</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>Automatikus felismerés…</translation>
+        <translation type="vanished">Automatikus felismerés…</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4692,72 +4692,72 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Test</source>
-        <translation>Tesztelés</translation>
+        <translation type="vanished">Tesztelés</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Ha engedélyezve van, a launcher nem ellenőrzi, hogy egy példány kompatibilis-e a kiválasztott Java verzióval.</translation>
+        <translation type="vanished">Ha engedélyezve van, a launcher nem ellenőrzi, hogy egy példány kompatibilis-e a kiválasztott Java verzióval.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>Java kompatibilitási ellenőrzések kihagyása</translation>
+        <translation type="vanished">Java kompatibilitási ellenőrzések kihagyása</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>Memór&amp;ia</translation>
+        <translation type="vanished">Memór&amp;ia</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Minimális memóriaelosztás:</translation>
+        <translation type="vanished">Minimális memóriaelosztás:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>A Minecraft által maximális memóriamennyiség ami felhasználható.</translation>
+        <translation type="vanished">A Minecraft által maximális memóriamennyiség ami felhasználható.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>A memóriamennyiség amivel a Minecraft elindul.</translation>
+        <translation type="vanished">A memóriamennyiség amivel a Minecraft elindul.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>A memóriamennyiség elérhető, a betöltött Java osztályok tárolására.</translation>
+        <translation type="vanished">A memóriamennyiség elérhető, a betöltött Java osztályok tárolására.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Maximális memóriaelosztás:</translation>
+        <translation type="vanished">Maximális memóriaelosztás:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Böngészés</translation>
+        <translation type="vanished">Böngészés</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Java letöltése</translation>
+        <translation type="vanished">Java letöltése</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>PermGen:</translation>
+        <translation type="vanished">PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Megjegyzés: A Permgen beállítása automatikusan történik a Java 8-as és újabb verzióiban</translation>
+        <translation type="vanished">Megjegyzés: A Permgen beállítása automatikusan történik a Java 8-as és újabb verzióiban</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Java argumen&amp;tek</translation>
+        <translation type="vanished">Java argumen&amp;tek</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>Játék ablakok</translation>
+        <translation type="vanished">Játék ablakok</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>Játék ablak</translation>
+        <translation type="vanished">Játék ablak</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Indítsa el a Minecraft-ot maximalizálva</translation>
+        <translation type="vanished">Indítsa el a Minecraft-ot maximalizálva</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4769,70 +4769,70 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Window height:</source>
-        <translation>Ablak magasság:</translation>
+        <translation type="vanished">Ablak magasság:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>Ablak szélesség:</translation>
+        <translation type="vanished">Ablak szélesség:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Konzo&amp;l beállítások</translation>
+        <translation type="vanished">Konzo&amp;l beállítások</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>Mutassa a konzolt, amíg a játék fut</translation>
+        <translation type="vanished">Mutassa a konzolt, amíg a játék fut</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Automatikusan zárja be a konzolt, amikor a játék kilép</translation>
+        <translation type="vanished">Automatikusan zárja be a konzolt, amikor a játék kilép</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Mutassa a konzolt, amikor a játék összeomlik</translation>
+        <translation type="vanished">Mutassa a konzolt, amikor a játék összeomlik</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Launcher bezárása a játékablak megnyitása után</translation>
+        <translation type="vanished">Launcher bezárása a játékablak megnyitása után</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Kilépés a launcherből a játékablak bezárása után</translation>
+        <translation type="vanished">Kilépés a launcherből a játékablak bezárása után</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>Egyedi parancsok</translation>
+        <translation type="vanished">Egyedi parancsok</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Környezeti változók</translation>
+        <translation type="vanished">Környezeti változók</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>Lehetséges megoldások</translation>
+        <translation type="vanished">Lehetséges megoldások</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>Natív könyvtárak</translation>
+        <translation type="vanished">Natív könyvtárak</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>&amp;GLFW könyvtár elérési útja</translation>
+        <translation type="vanished">&amp;GLFW könyvtár elérési útja</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>A GLFW rendszertelepítésének használata</translation>
+        <translation type="vanished">A GLFW rendszertelepítésének használata</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>Egyjátékos világ</translation>
+        <translation type="vanished">Egyjátékos világ</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Az OpenAL rendszertelepítésének használata</translation>
+        <translation type="vanished">Az OpenAL rendszertelepítésének használata</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -4848,89 +4848,89 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Override default account</source>
-        <translation>Alapértelmezett fiók felülírása</translation>
+        <translation type="vanished">Alapértelmezett fiók felülírása</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Fiók:</translation>
+        <translation type="vanished">Fiók:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Egyéb</translation>
+        <translation type="vanished">Egyéb</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>&amp;OpenAL könyvtár elérési útja</translation>
+        <translation type="vanished">&amp;OpenAL könyvtár elérési útja</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Teljesítmény</translation>
+        <translation type="vanished">Teljesítmény</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A Feral Interactive GameMode funkciójának engedélyezése a játékteljesítmény potenciális javítása érdekében.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A Feral Interactive GameMode funkciójának engedélyezése a játékteljesítmény potenciális javítása érdekében.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Feral GameMode engedélyezése</translation>
+        <translation type="vanished">Feral GameMode engedélyezése</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A MangoHud fejlett (teljesítmény) felületének engedélyezése.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A MangoHud fejlett (teljesítmény) felületének engedélyezése.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>MangoHud engedélyezése</translation>
+        <translation type="vanished">MangoHud engedélyezése</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Használja a diszkrét GPU-t az elsődleges GPU helyett.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Használja a diszkrét GPU-t az elsődleges GPU helyett.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Diszkrét GPU használata</translation>
+        <translation type="vanished">Diszkrét GPU használata</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Használja a Zink-et, a Mesa OpenGL illesztőprogramját, amely az OpenGL-t valósítja meg a Vulkan tetején. A teljesítmény a helyzettől függően változhat. Megjegyzés: Ha nem található megfelelő Vulkan illesztőprogram, a szoftver szoftveres renderelést használ.</translation>
+        <translation type="vanished">Használja a Zink-et, a Mesa OpenGL illesztőprogramját, amely az OpenGL-t valósítja meg a Vulkan tetején. A teljesítmény a helyzettől függően változhat. Megjegyzés: Ha nem található megfelelő Vulkan illesztőprogram, a szoftver szoftveres renderelést használ.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Zink használata</translation>
+        <translation type="vanished">Zink használata</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Örökölt beállítások</translation>
+        <translation type="vanished">Örökölt beállítások</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Szimulálja a régi, már nem létező szolgáltatások működését.&lt;/p&gt;&lt;p&gt;Jelenleg ez lehetővé teszi a modern skin-ek használatát.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Szimulálja a régi, már nem létező szolgáltatások működését.&lt;/p&gt;&lt;p&gt;Jelenleg ez lehetővé teszi a modern skin-ek használatát.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Online javítások engedélyezése (kísérleti)</translation>
+        <translation type="vanished">Online javítások engedélyezése (kísérleti)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>Globális játékidő-beállítások felülírása</translation>
+        <translation type="vanished">Globális játékidő-beállítások felülírása</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>Példánnyal eltöltött idő megjelenítése</translation>
+        <translation type="vanished">Példánnyal eltöltött idő megjelenítése</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>Példánnyal eltöltött idő mentése</translation>
+        <translation type="vanished">Példánnyal eltöltött idő mentése</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>Indításkor lépjen be ide</translation>
+        <translation type="vanished">Indításkor lépjen be ide</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>Szerver címe:</translation>
+        <translation type="vanished">Szerver címe:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4939,39 +4939,39 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>A(z) %1 könyvtárfájl elérési útja</translation>
+        <translation type="vanished">A(z) %1 könyvtárfájl elérési útja</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>A Feral Interactive GameMode-ja nem található meg a rendszereden.</translation>
+        <translation type="vanished">A Feral Interactive GameMode-ja nem található meg a rendszereden.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>A MangoHud nem található meg a rendszerén.</translation>
+        <translation type="vanished">A MangoHud nem található meg a rendszerén.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Java verzió választása</translation>
+        <translation type="vanished">Java verzió választása</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Választás megerősítése</translation>
+        <translation type="vanished">Választás megerősítése</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>A Java 32 bites verzióját választottad.
+        <translation type="vanished">A Java 32 bites verzióját választottad.
 Ez a telepítés nem támogat több mint 2048 MB RAM-ot.
 Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Java futtatható fájl keresése</translation>
+        <translation type="vanished">Java futtatható fájl keresése</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>A maximális memóriafoglalás kisebb, mint a minimális érték</translation>
+        <translation type="vanished">A maximális memóriafoglalás kisebb, mint a minimális érték</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4979,11 +4979,11 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>A maximális memóriafoglalás meghaladja a rendszermemória kapacitását.</translation>
+        <translation type="vanished">A maximális memóriafoglalás meghaladja a rendszermemória kapacitását.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>A maximális memóriafoglalás megközelíti a rendszermemória kapacitását.</translation>
+        <translation type="vanished">A maximális memóriafoglalás megközelíti a rendszermemória kapacitását.</translation>
     </message>
 </context>
 <context>
@@ -5088,7 +5088,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation>JVisualM elindítva</translation>
+        <translation type="vanished">JVisualM elindítva</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -5115,15 +5115,15 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Java kibontása (a tar-archívumok esetében a haladás nem jelenthető)</translation>
+        <translation type="vanished">Java kibontása (a tar-archívumok esetében a haladás nem jelenthető)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation>Nem sikerült megnyitni a mellékelt tar fájlt.</translation>
+        <translation type="vanished">Nem sikerült megnyitni a mellékelt tar fájlt.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Nem sikerült kibontani a mellékelt tar fájlt.</translation>
+        <translation type="vanished">Nem sikerült kibontani a mellékelt tar fájlt.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5137,7 +5137,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation>Nem sikerült meghatározni az archívum típusát!</translation>
+        <translation type="vanished">Nem sikerült meghatározni az archívum típusát!</translation>
     </message>
 </context>
 <context>
@@ -5243,70 +5243,70 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>Memória</translation>
+        <translation type="vanished">Memória</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>A Minecraft által maximális memóriamennyiség ami felhasználható.</translation>
+        <translation type="vanished">A Minecraft által maximális memóriamennyiség ami felhasználható.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>Mi&amp;nimális memóriafoglalás:</translation>
+        <translation type="vanished">Mi&amp;nimális memóriafoglalás:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>Ma&amp;ximális memóriafoglalás:</translation>
+        <translation type="vanished">Ma&amp;ximális memóriafoglalás:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>&amp;PermGen:</translation>
+        <translation type="vanished">&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>A memóriamennyiség amivel a Minecraft elindul.</translation>
+        <translation type="vanished">A memóriamennyiség amivel a Minecraft elindul.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>A memóriamennyiség elérhető, a betöltött Java osztályok tárolására.</translation>
+        <translation type="vanished">A memóriamennyiség elérhető, a betöltött Java osztályok tárolására.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Java Futtatókörnyezet</translation>
+        <translation type="vanished">Java Futtatókörnyezet</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>JVM argumentek:</translation>
+        <translation type="vanished">JVM argumentek:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Automatikusan kiválasztja az aktuális Minecraft példánnyal kompatibilis Java verziót a főverzió alapján.</translation>
+        <translation type="vanished">Automatikusan kiválasztja az aktuális Minecraft példánnyal kompatibilis Java verziót a főverzió alapján.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Java verzió automatikus felismerése</translation>
+        <translation type="vanished">Java verzió automatikus felismerése</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Java útvonal:</translation>
+        <translation type="vanished">Java útvonal:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>Automatikusan letölti és kiválasztja a Mojang által ajánlott Java verziót.</translation>
+        <translation type="vanished">Automatikusan letölti és kiválasztja a Mojang által ajánlott Java verziót.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Mojang Java automatikus letöltése</translation>
+        <translation type="vanished">Mojang Java automatikus letöltése</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>Menedzsment</translation>
+        <translation type="vanished">Menedzsment</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>Letöltött Java verziók</translation>
+        <translation type="vanished">Letöltött Java verziók</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5336,33 +5336,33 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>&amp;Automatikus felismerés…</translation>
+        <translation type="vanished">&amp;Automatikus felismerés…</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>Tesztelés</translation>
+        <translation type="vanished">Tesztelés</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Böngészés</translation>
+        <translation type="vanished">Böngészés</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Ha engedélyezve van, a launcher nem kéri a Java verzió kiválasztását, ha nem talál egyet sem.</translation>
+        <translation type="vanished">Ha engedélyezve van, a launcher nem kéri a Java verzió kiválasztását, ha nem talál egyet sem.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Java &amp;varázsló kihagyása</translation>
+        <translation type="vanished">Java &amp;varázsló kihagyása</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Ha engedélyezve van, a launcher nem ellenőrzi, hogy egy példány kompatibilis-e a kiválasztott Java verzióval.</translation>
+        <translation type="vanished">Ha engedélyezve van, a launcher nem ellenőrzi, hogy egy példány kompatibilis-e a kiválasztott Java verzióval.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>&amp;Java kompatibilitási ellenőrzések kihagyása</translation>
+        <translation type="vanished">&amp;Java kompatibilitási ellenőrzések kihagyása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5383,35 +5383,35 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Java verzió választása</translation>
+        <translation type="vanished">Java verzió választása</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Kiválasztás megerősítése</translation>
+        <translation type="vanished">Kiválasztás megerősítése</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>A Java 32 bites verzióját választottad.
+        <translation type="vanished">A Java 32 bites verzióját választottad.
 Ez a telepítés nem támogat több mint 2048 MB RAM-ot.
 Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Java futtatható keresése</translation>
+        <translation type="vanished">Java futtatható keresése</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>A maximális memóriafoglalás meghaladja a rendszermemória kapacitását.</translation>
+        <translation type="vanished">A maximális memóriafoglalás meghaladja a rendszermemória kapacitását.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>A maximális memóriafoglalás megközelíti a rendszermemória kapacitását.</translation>
+        <translation type="vanished">A maximális memóriafoglalás megközelíti a rendszermemória kapacitását.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>A maximális memóriafoglalás kisebb, mint a minimális érték</translation>
+        <translation type="vanished">A maximális memóriafoglalás kisebb, mint a minimális érték</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5430,7 +5430,7 @@ Biztos vagy ebben?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Nincs Java verzió kiválasztva</translation>
+        <translation type="vanished">Nincs Java verzió kiválasztva</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5448,7 +5448,7 @@ A Java verziót később a beállításokban megváltoztathatja.
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Java letöltése</translation>
+        <translation type="vanished">Java letöltése</translation>
     </message>
     <message>
         <source>Automatic Java Download</source>
@@ -5464,7 +5464,7 @@ Engedélyezni szeretné a Java automatikus letöltését?
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>32 bites Java észlelve</translation>
+        <translation type="vanished">32 bites Java észlelve</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5473,7 +5473,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>A Java 32 bites telepítését választottad, de 2048 MB-nál több memóriát osztottál ki maximális memóriaként.
+        <translation type="vanished">A Java 32 bites telepítését választottad, de 2048 MB-nál több memóriát osztottál ki maximális memóriaként.
 A %1 nem fogja tudni elindítani a Minecraftot.
 Szeretnéd folytatni?
 
@@ -5487,7 +5487,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Vagy nem választottál ki Java verziót, vagy olyan verziót választottál ki, amely nem működik.
+        <translation type="vanished">Vagy nem választottál ki Java verziót, vagy olyan verziót választottál ki, amely nem működik.
 A %1 nem fogja tudni elindítani a Minecraftot.
 Szeretnéd folytatni a Java működő verziója nélkül?
 
@@ -5501,7 +5501,7 @@ A Java verziót később a beállítások között megváltoztathatod.
     </message>
     <message>
         <source>Memory</source>
-        <translation>Memória</translation>
+        <translation type="vanished">Memória</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5510,7 +5510,7 @@ A Java verziót később a beállítások között megváltoztathatod.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Minimális memóriaelosztás:</translation>
+        <translation type="vanished">Minimális memóriaelosztás:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5616,7 +5616,7 @@ A Java verziót később a beállítások között megváltoztathatod.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Maximális memóriaelosztás:</translation>
+        <translation type="vanished">Maximális memóriaelosztás:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5655,19 +5655,19 @@ A Java verziót később a beállítások között megváltoztathatod.
     </message>
     <message>
         <source>Browse</source>
-        <translation>Böngészés</translation>
+        <translation type="vanished">Böngészés</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Mojang Java automatikus letöltése</translation>
+        <translation type="vanished">Mojang Java automatikus letöltése</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Java verzió automatikus felismerése</translation>
+        <translation type="vanished">Java verzió automatikus felismerése</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>Java automatikus felismerése</translation>
+        <translation type="vanished">Java automatikus felismerése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5705,15 +5705,15 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>A maximális memóriafoglalás megközelíti a rendszermemória kapacitását.</translation>
+        <translation type="vanished">A maximális memóriafoglalás megközelíti a rendszermemória kapacitását.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>A maximális memóriafoglalás kisebb, mint a minimális érték</translation>
+        <translation type="vanished">A maximális memóriafoglalás kisebb, mint a minimális érték</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Túlléped a Java 32 bites telepítései által támogatott maximális kiosztást.</translation>
+        <translation type="vanished">Túlléped a Java 32 bites telepítései által támogatott maximális kiosztást.</translation>
     </message>
 </context>
 <context>
@@ -6010,11 +6010,11 @@ Szeretnél játszani a demóval?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>Offline játék</translation>
+        <translation type="vanished">Offline játék</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>A fiók lejárt, és manuálisan újra be kell jelentkezni.</translation>
+        <translation type="vanished">A fiók lejárt, és manuálisan újra be kell jelentkezni.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -6023,7 +6023,7 @@ Szeretnél játszani a demóval?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>A launcher ügyfél-azonosítója megváltozott. Távolítsd el ezt a fiókot, és add hozzá újra.</translation>
+        <translation type="vanished">A launcher ügyfél-azonosítója megváltozott. Távolítsd el ezt a fiókot, és add hozzá újra.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6032,7 +6032,7 @@ Szeretnél játszani a demóval?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>A fiók már nem létezik a szervereken. Lehet, hogy át lett migrálva, ebben az esetben add hozzá az új fiókot, amelyre átmigráltad ezt a fiókot.</translation>
+        <translation type="vanished">A fiók már nem létezik a szervereken. Lehet, hogy át lett migrálva, ebben az esetben add hozzá az új fiókot, amelyre átmigráltad ezt a fiókot.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6179,11 +6179,11 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>Funkciók</translation>
+        <translation type="vanished">Funkciók</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>Frissítési beállítások</translation>
+        <translation type="vanished">Frissítési beállítások</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6338,7 +6338,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>Példánynézet rendezési mód</translation>
+        <translation type="vanished">Példánynézet rendezési mód</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6353,7 +6353,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>Theme</source>
-        <translation>Téma</translation>
+        <translation type="vanished">Téma</translation>
     </message>
     <message>
         <source>&amp;Icons</source>
@@ -6377,17 +6377,17 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>Mods</source>
-        <translation>Modok</translation>
+        <translation type="vanished">Modok</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>A modszolgáltatók (mint a Modrinth vagy a CurseForge) által a modok számára biztosított metaadatok használatának letiltása.</translation>
+        <translation type="vanished">A modszolgáltatók (mint a Modrinth vagy a CurseForge) által a modok számára biztosított metaadatok használatának letiltása.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>Metaadatok használatának letiltása a modokhoz</translation>
+        <translation type="vanished">Metaadatok használatának letiltása a modokhoz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6447,12 +6447,12 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>Letöltések mappa rekurzív figyelése</translation>
+        <translation type="vanished">Letöltések mappa rekurzív figyelése</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>A mod-függőségek automatikus felismerésének, telepítésének és frissítésének letiltása.</translation>
+        <translation type="vanished">A mod-függőségek automatikus felismerésének, telepítésének és frissítésének letiltása.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -6460,15 +6460,15 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>Update interval</source>
-        <translation>Frissítési időköz</translation>
+        <translation type="vanished">Frissítési időköz</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>Állítsd 0-ra, hogy csak indításkor ellenőrizze</translation>
+        <translation type="vanished">Állítsd 0-ra, hogy csak indításkor ellenőrizze</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>óra</translation>
+        <translation type="vanished">óra</translation>
     </message>
     <message>
         <source>Rename instance folders</source>
@@ -6493,27 +6493,27 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>Automatikus mod-függőség-kezelés letiltása</translation>
+        <translation type="vanished">Automatikus mod-függőség-kezelés letiltása</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Amikor új modcsomag példányt hozol létre, ne javasolja a meglévő példányok frissítését.</translation>
+        <translation type="vanished">Amikor új modcsomag példányt hozol létre, ne javasolja a meglévő példányok frissítését.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>Modcsomag frissítési kérés kihagyása</translation>
+        <translation type="vanished">Modcsomag frissítési kérés kihagyása</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Egyéb</translation>
+        <translation type="vanished">Egyéb</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>Egyidejű feladatok száma</translation>
+        <translation type="vanished">Egyidejű feladatok száma</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>Egyidejű letöltések száma</translation>
+        <translation type="vanished">Egyidejű letöltések száma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6522,7 +6522,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>Időtúllépés a HTTP-kéréseknél</translation>
+        <translation type="vanished">Időtúllépés a HTTP-kéréseknél</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6531,7 +6531,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>Manuális újrapróbálkozások száma</translation>
+        <translation type="vanished">Manuális újrapróbálkozások száma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6549,23 +6549,23 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>Cat</source>
-        <translation>Cica</translation>
+        <translation type="vanished">Cica</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Állítsd be a cica átlátszóságát. A 0% a teljesen átlátszó és a 100% a teljesen áttetsző.</translation>
+        <translation type="vanished">Állítsd be a cica átlátszóságát. A 0% a teljesen átlátszó és a 100% a teljesen áttetsző.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Átlátszóság</translation>
+        <translation type="vanished">Átlátszóság</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Eszközök</translation>
+        <translation type="vanished">Eszközök</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6630,27 +6630,27 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>Konzolbeállítások</translation>
+        <translation type="vanished">Konzolbeállítások</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Mutassa a konzolt, amíg a játék &amp;fut</translation>
+        <translation type="vanished">Mutassa a konzolt, amíg a játék &amp;fut</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>&amp;Automatikusan zárja be a konzolt, amikor a játék bezárul</translation>
+        <translation type="vanished">&amp;Automatikusan zárja be a konzolt, amikor a játék bezárul</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Mutassa a konzolt, amikor a játék &amp;összeomlik</translation>
+        <translation type="vanished">Mutassa a konzolt, amikor a játék &amp;összeomlik</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>Előzmény korlát</translation>
+        <translation type="vanished">Előzmény korlát</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6666,7 +6666,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>Konzol betűtípusa</translation>
+        <translation type="vanished">Konzol betűtípusa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6730,23 +6730,23 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Test/ERROR] OOoooooOOOOOoooooooo! Egy kísérteties hiba!</translation>
+        <translation type="vanished">[Test/ERROR] OOoooooOOOOOoooooooo! Egy kísérteties hiba!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Test/ERROR] Egy kísérteties hiba!</translation>
+        <translation type="vanished">[Test/ERROR] Egy kísérteties hiba!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[Test/WARN] Egy nem is olyan kísérteties figyelmeztetés.</translation>
+        <translation type="vanished">[Test/WARN] Egy nem is olyan kísérteties figyelmeztetés.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/DEBUG] Egy titkos hibakeresési üzenet…</translation>
+        <translation type="vanished">[Test/DEBUG] Egy titkos hibakeresési üzenet…</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] Egy félelmetes végzetes hiba!</translation>
+        <translation type="vanished">[Test/FATAL] Egy félelmetes végzetes hiba!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6754,7 +6754,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] Egy ártalmatlan üzenet…</translation>
+        <translation type="vanished">[Test/INFO] Egy ártalmatlan üzenet…</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6762,7 +6762,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Launcher</translation>
+        <translation type="vanished">Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6870,7 +6870,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>A(z) %1 modcsomag fájl megnyitása sikertelen!</translation>
+        <translation type="vanished">A(z) %1 modcsomag fájl megnyitása sikertelen!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -7090,12 +7090,12 @@ Indok:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>Mod indexének frissítése:
+        <translation type="vanished">Mod indexének frissítése:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>Érvénytelen metaadatok</translation>
+        <translation type="vanished">Érvénytelen metaadatok</translation>
     </message>
 </context>
 <context>
@@ -7168,7 +7168,7 @@ Indok:
     </message>
     <message>
         <source>Search:</source>
-        <translation>Keresés:</translation>
+        <translation type="vanished">Keresés:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7280,7 +7280,7 @@ Indok:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>Nem sikerült létrehozni:</translation>
+        <translation type="vanished">Nem sikerült létrehozni:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7297,7 +7297,7 @@ Indok:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>Nem lehet megnyitni a mellékelt zip fájlt.</translation>
+        <translation type="vanished">Nem lehet megnyitni a mellékelt zip fájlt.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7316,7 +7316,7 @@ Indok:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>Nem sikerült megtalálni a zip első fájlját</translation>
+        <translation type="vanished">Nem sikerült megtalálni a zip első fájlját</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -7330,7 +7330,7 @@ Indok:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Nem sikerült kijavítani a(z) %1 engedélyeit</translation>
+        <translation type="vanished">Nem sikerült kijavítani a(z) %1 engedélyeit</translation>
     </message>
 </context>
 <context>
@@ -7443,11 +7443,11 @@ Indok:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>Nyisd meg a(z) %1 linket, vagy szkenneld be a QR-kódot, és add meg a fenti kódot.</translation>
+        <translation type="vanished">Nyisd meg a(z) %1 linket, vagy szkenneld be a QR-kódot, és add meg a fenti kódot.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>Nyisd meg a(z) %1 linket, és add meg a fenti kódot.</translation>
+        <translation type="vanished">Nyisd meg a(z) %1 linket, és add meg a fenti kódot.</translation>
     </message>
 </context>
 <context>
@@ -7642,7 +7642,7 @@ Indok:
     </message>
     <message>
         <source>More news...</source>
-        <translation>További hírek…</translation>
+        <translation type="vanished">További hírek…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7686,7 +7686,7 @@ Indok:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Parancsikon létrehozása az asztalon a kiválasztott példány elindításához.</translation>
+        <translation type="vanished">Parancsikon létrehozása az asztalon a kiválasztott példány elindításához.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -8461,7 +8461,7 @@ Adjon hozzá egy Microsoft-fiókot.</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>Vannak linkelt példányok</translation>
+        <translation type="vanished">Vannak linkelt példányok</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8471,7 +8471,7 @@ Adjon hozzá egy Microsoft-fiókot.</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>A következő példány hivatkozhat fájlokra a jelenlegi példányban:
 
 %1
@@ -8494,7 +8494,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>A(z) &quot;%1&quot; példány törlésére készülsz.
+        <translation type="vanished">A(z) &quot;%1&quot; példány törlésére készülsz.
 Ez végleges lehet, és teljesen törli a példányt.
 
 Biztos vagy ebben?</translation>
@@ -8511,31 +8511,31 @@ Biztos vagy benne?</translation>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>Példány parancsikon létrehozása</translation>
+        <translation type="vanished">Példány parancsikon létrehozása</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Az asztal nem található?!</translation>
+        <translation type="vanished">Az asztal nem található?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>A launcher abban a mappában található, amelyből kicsomagoltad, ezért nem tudsz parancsikonokat létrehozni.</translation>
+        <translation type="vanished">A launcher abban a mappában található, amelyből kicsomagoltad, ezért nem tudsz parancsikonokat létrehozni.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>Asztali elemek</translation>
+        <translation type="vanished">Asztali elemek</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>Létrehozott egy parancsikont ehhez a példányhoz az asztalon!</translation>
+        <translation type="vanished">Létrehozott egy parancsikont ehhez a példányhoz az asztalon!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>Nem sikerült létrehozni a példány parancsikonját!</translation>
+        <translation type="vanished">Nem sikerült létrehozni a példány parancsikonját!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>A launcher rosszul konfigurált AppImage-ként fut? (A $APPIMAGE környezeti változó hiányzik)</translation>
+        <translation type="vanished">A launcher rosszul konfigurált AppImage-ként fut? (A $APPIMAGE környezeti változó hiányzik)</translation>
     </message>
     <message>
         <source>Quilt is currently not supported by CurseForge modpacks.</source>
@@ -8643,15 +8643,15 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Példányalkalmazás létrehozása</translation>
+        <translation type="vanished">Példányalkalmazás létrehozása</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>Nem sikerült létrehozni az alkalmazás ikonját.</translation>
+        <translation type="vanished">Nem sikerült létrehozni az alkalmazás ikonját.</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Nem sikerült létrehozni a parancsikon ikonját.</translation>
+        <translation type="vanished">Nem sikerült létrehozni a parancsikon ikonját.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8659,11 +8659,11 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>Nem támogatott a platformodon!</translation>
+        <translation type="vanished">Nem támogatott a platformodon!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>Parancsikon létrehozva ehhez a példányhoz!</translation>
+        <translation type="vanished">Parancsikon létrehozva ehhez a példányhoz!</translation>
     </message>
     <message>
         <source>Couldn&apos;t find applications folder?!</source>
@@ -8748,11 +8748,11 @@ Biztos vagy ebben?</translation>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation>Csomag információ</translation>
+        <translation type="vanished">Csomag információ</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>Csomag neve:</translation>
+        <translation type="vanished">Csomag neve:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8791,7 +8791,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>Frissítés fájlból</translation>
+        <translation type="vanished">Frissítés fájlból</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8854,7 +8854,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     </message>
     <message>
         <source>Update pack</source>
-        <translation>Csomag frissítése</translation>
+        <translation type="vanished">Csomag frissítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -9052,26 +9052,26 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation>Ablak méret</translation>
+        <translation type="vanished">Ablak méret</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>Indítsa el a Minecraft-ot &amp;maximalizálva</translation>
+        <translation type="vanished">Indítsa el a Minecraft-ot &amp;maximalizálva</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>Ablak &amp;magasság:</translation>
+        <translation type="vanished">Ablak &amp;magasság:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>Ablak &amp;szélesség:</translation>
+        <translation type="vanished">Ablak &amp;szélesség:</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>Finomhangolás</translation>
+        <translation type="vanished">Finomhangolás</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -9087,82 +9087,82 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Legacy beállítások</translation>
+        <translation type="vanished">Legacy beállítások</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Szimulálja a régi, már nem létező szolgáltatások működését.&lt;/p&gt;&lt;p&gt;Jelenleg ez lehetővé teszi a modern skin-ek használatát.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Szimulálja a régi, már nem létező szolgáltatások működését.&lt;/p&gt;&lt;p&gt;Jelenleg ez lehetővé teszi a modern skin-ek használatát.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Online javítások engedélyezése (kísérleti)</translation>
+        <translation type="vanished">Online javítások engedélyezése (kísérleti)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>Natív könyvtári megoldások</translation>
+        <translation type="vanished">Natív könyvtári megoldások</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>A &amp;GLFW rendszertelepítésének használata</translation>
+        <translation type="vanished">A &amp;GLFW rendszertelepítésének használata</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>&amp;GLFW könyvtár elérési útja</translation>
+        <translation type="vanished">&amp;GLFW könyvtár elérési útja</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Az &amp;OpenAL rendszertelepítésének használata</translation>
+        <translation type="vanished">Az &amp;OpenAL rendszertelepítésének használata</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>&amp;OpenAL könyvtár elérési útja</translation>
+        <translation type="vanished">&amp;OpenAL könyvtár elérési útja</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Teljesítmény</translation>
+        <translation type="vanished">Teljesítmény</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A Feral Interactive GameMode funkciójának engedélyezése a játékteljesítmény potenciális javítása érdekében.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A Feral Interactive GameMode funkciójának engedélyezése a játékteljesítmény potenciális javítása érdekében.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Feral GameMode engedélyezése</translation>
+        <translation type="vanished">Feral GameMode engedélyezése</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A MangoHud fejlett (teljesítmény) felületének engedélyezése.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A MangoHud fejlett (teljesítmény) felületének engedélyezése.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>MangoHud engedélyezése</translation>
+        <translation type="vanished">MangoHud engedélyezése</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A diszkrét GPU használata az elsődleges GPU helyett.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A diszkrét GPU használata az elsődleges GPU helyett.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Különálló GPU használata</translation>
+        <translation type="vanished">Különálló GPU használata</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Használja a Zink-et, a Mesa OpenGL illesztőprogramját, amely az OpenGL-t valósítja meg a Vulkan tetején. A teljesítmény a helyzettől függően változhat. Megjegyzés: Ha nem található megfelelő Vulkan illesztőprogram, a szoftver szoftveres renderelést használ.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Használja a Zink-et, a Mesa OpenGL illesztőprogramját, amely az OpenGL-t valósítja meg a Vulkan tetején. A teljesítmény a helyzettől függően változhat. Megjegyzés: Ha nem található megfelelő Vulkan illesztőprogram, a szoftver szoftveres renderelést használ.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Zink használata</translation>
+        <translation type="vanished">Zink használata</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>Játékidő</translation>
+        <translation type="vanished">Játékidő</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Általános</translation>
+        <translation type="vanished">Általános</translation>
     </message>
     <message>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -9175,45 +9175,45 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Mutassa az eltöltött időt a példányokkal</translation>
+        <translation type="vanished">Mutassa az eltöltött időt a példányokkal</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Mutassa az összes példányon eltöltött időt</translation>
+        <translation type="vanished">Mutassa az összes példányon eltöltött időt</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>Mentse az eltöltött időt a példányokkal</translation>
+        <translation type="vanished">Mentse az eltöltött időt a példányokkal</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>Mutassa a játékkal töltött időt órákban</translation>
+        <translation type="vanished">Mutassa a játékkal töltött időt órákban</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Egyéb</translation>
+        <translation type="vanished">Egyéb</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A launcher automatikusan újra megnyílik, ha a játék összeomlik vagy kilép.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A launcher automatikusan újra megnyílik, ha a játék összeomlik vagy kilép.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>Launcher bezárása a játékablak megnyitása után</translation>
+        <translation type="vanished">Launcher bezárása a játékablak megnyitása után</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A launcher automatikusan bezárul, ha a játékot bezárják vagy összeomlik.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A launcher automatikusan bezárul, ha a játékot bezárják vagy összeomlik.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>Kilépés a launcherből a játékablak bezárása után</translation>
+        <translation type="vanished">Kilépés a launcherből a játékablak bezárása után</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -9222,19 +9222,19 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>A(z) %1 könyvtárfájl elérési útja</translation>
+        <translation type="vanished">A(z) %1 könyvtárfájl elérési útja</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>Automatikusan észlelt elérési út: %1</translation>
+        <translation type="vanished">Automatikusan észlelt elérési út: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>A Feral Interactive GameMode-ja nem található meg a rendszereden.</translation>
+        <translation type="vanished">A Feral Interactive GameMode-ja nem található meg a rendszereden.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>A MangoHud nem található meg a rendszereden.</translation>
+        <translation type="vanished">A MangoHud nem található meg a rendszereden.</translation>
     </message>
 </context>
 <context>
@@ -9904,7 +9904,7 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>Ismeretlen</translation>
+        <translation type="vanished">Ismeretlen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -10012,7 +10012,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Ahonnan letöltötted a modot.</translation>
+        <translation type="vanished">Ahonnan letöltötted a modot.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -10097,7 +10097,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Download mods</source>
-        <translation>Modok letöltése</translation>
+        <translation type="vanished">Modok letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -10115,11 +10115,11 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Add file</source>
-        <translation>Fájl hozzáadása</translation>
+        <translation type="vanished">Fájl hozzáadása</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>Helyileg letöltött fájl hozzáadása</translation>
+        <translation type="vanished">Helyileg letöltött fájl hozzáadása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -10134,11 +10134,11 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>Függőségek ellenőrzése</translation>
+        <translation type="vanished">Függőségek ellenőrzése</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>Próbálj meg frissíteni és ellenőrizd a hiányzó függőségeket az összes kiválasztott modon (ha nincs kiválasztva semmi, akkor minden modon)</translation>
+        <translation type="vanished">Próbálj meg frissíteni és ellenőrizd a hiányzó függőségeket az összes kiválasztott modon (ha nincs kiválasztva semmi, akkor minden modon)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
@@ -10148,35 +10148,35 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>Ugrás a mod kezdőlapjára</translation>
+        <translation type="vanished">Ugrás a mod kezdőlapjára</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Mod metaadatainak eltávolítása</translation>
+        <translation type="vanished">Mod metaadatainak eltávolítása</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation>Frissítési metaadatok visszaállítása</translation>
+        <translation type="vanished">Frissítési metaadatok visszaállítása</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Verzió módosítása</translation>
+        <translation type="vanished">Verzió módosítása</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>Mod verzió módosítása</translation>
+        <translation type="vanished">Mod verzió módosítása</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Mod megnézése</translation>
+        <translation type="vanished">Mod megnézése</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation>Modok megnézése</translation>
+        <translation type="vanished">Modok megnézése</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>Ugrás a kiválasztott modok oldalaira</translation>
+        <translation type="vanished">Ugrás a kiválasztott modok oldalaira</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -10192,7 +10192,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>Először telepíts egy mod betöltőt!</translation>
+        <translation type="vanished">Először telepíts egy mod betöltőt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -10440,92 +10440,92 @@ Kérjük, frissítse a következőt: %1!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>A frissítendő modok megerősítése</translation>
+        <translation type="vanished">A frissítendő modok megerősítése</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>A következő modok frissítésére készül:</translation>
+        <translation type="vanished">A következő modok frissítésére készül:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>Csak a kipipált modok frissülnek!</translation>
+        <translation type="vanished">Csak a kipipált modok frissülnek!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Mod név: %1&lt;br&gt;Fájlnév: %2&lt;br&gt;Ok: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Mod név: %1&lt;br&gt;Fájlnév: %2&lt;br&gt;Ok: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation>A metaadatok létrehozása sikertelen</translation>
+        <translation type="vanished">A metaadatok létrehozása sikertelen</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Nem sikerült metaadatokat generálni a következő modokhoz:&lt;br&gt;Szeretnéd folytatni ezen modok nélkül?</translation>
+        <translation type="vanished">Nem sikerült metaadatokat generálni a következő modokhoz:&lt;br&gt;Szeretnéd folytatni ezen modok nélkül?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation>Frissítések keresése</translation>
+        <translation type="vanished">Frissítések keresése</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Hiba</translation>
+        <translation type="vanished">Hiba</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>Figyelmeztetések</translation>
+        <translation type="vanished">Figyelmeztetések</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Megszakítás</translation>
+        <translation type="vanished">Megszakítás</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>Frissítések keresése…</translation>
+        <translation type="vanished">Frissítések keresése…</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>Mod neve: %1</translation>
+        <translation type="vanished">Mod neve: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>Ok: %1</translation>
+        <translation type="vanished">Ok: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>Lehetséges megoldás: A legújabb verzió kézi beszerzése:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation type="vanished">Lehetséges megoldás: A legújabb verzió kézi beszerzése:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>Függőségek keresése…</translation>
+        <translation type="vanished">Függőségek keresése…</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>A &quot;%1&quot; mod még nem rendelkezik metaadatokkal. Létre kell hoznunk, hogy nyomon követhessük a mod frissítésével kapcsolatos releváns információkat. Ehhez válassz egy mod-szolgáltatót, amellyel ellenőrizni tudjuk, vannak-e frissítések ehhez a modhoz.</translation>
+        <translation type="vanished">A &quot;%1&quot; mod még nem rendelkezik metaadatokkal. Létre kell hoznunk, hogy nyomon követhessük a mod frissítésével kapcsolatos releváns információkat. Ehhez válassz egy mod-szolgáltatót, amellyel ellenőrizni tudjuk, vannak-e frissítések ehhez a modhoz.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Nem található érvényes verzió a kiválasztott modszolgáltató(k)on</translation>
+        <translation type="vanished">Nem található érvényes verzió a kiválasztott modszolgáltató(k)on</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
+        <translation type="vanished">A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>Nem sikerült ellenőrizni a frissítéseket</translation>
+        <translation type="vanished">Nem sikerült ellenőrizni a frissítéseket</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Nem sikerült ellenőrizni vagy megtalálni a következő modokat a frissítésekhez:&lt;br&gt;Szeretnéd folytatni ezen modok nélkül?</translation>
+        <translation type="vanished">Nem sikerült ellenőrizni vagy megtalálni a következő modokat a frissítésekhez:&lt;br&gt;Szeretnéd folytatni ezen modok nélkül?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>Metaadatok keresése</translation>
+        <translation type="vanished">Metaadatok keresése</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>Metaadatok generálása…</translation>
+        <translation type="vanished">Metaadatok generálása…</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10533,35 +10533,35 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>Szolgáltató: %1</translation>
+        <translation type="vanished">Szolgáltató: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation>Régi verzió: %1</translation>
+        <translation type="vanished">Régi verzió: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>Nincs telepítve</translation>
+        <translation type="vanished">Nincs telepítve</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation>Új verzió: %1</translation>
+        <translation type="vanished">Új verzió: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>Új verzió típusa: %1</translation>
+        <translation type="vanished">Új verzió típusa: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>Szükséges ehhez: %1</translation>
+        <translation type="vanished">Szükséges ehhez: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>Szükséges ehhez:</translation>
+        <translation type="vanished">Szükséges ehhez:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>Változásnapló a legújabb verzióhoz</translation>
+        <translation type="vanished">Változásnapló a legújabb verzióhoz</translation>
     </message>
 </context>
 <context>
@@ -10674,7 +10674,7 @@ Frissítsd a következőt: %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Modok előkészítése a Modrinth számára…</translation>
+        <translation type="vanished">Modok előkészítése a Modrinth számára…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10712,7 +10712,7 @@ Frissítsd a következőt: %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nem található érvényes verzió ehhez a modhoz. Valószínűleg nem érhető el a jelenlegi játékverzióhoz / mod betöltőhöz.</translation>
+        <translation type="vanished">Nem található érvényes verzió ehhez a modhoz. Valószínűleg nem érhető el a jelenlegi játékverzióhoz / mod betöltőhöz.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -11302,27 +11302,27 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>Fiók hozzáadása</translation>
+        <translation type="vanished">Fiók hozzáadása</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Felhasználónév</translation>
+        <translation type="vanished">Felhasználónév</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>A 16 karakternél hosszabb felhasználónevek nem használhatók LAN-játékokban vagy offline módú szervereken.</translation>
+        <translation type="vanished">A 16 karakternél hosszabb felhasználónevek nem használhatók LAN-játékokban vagy offline módú szervereken.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>Hosszú felhasználónevek engedélyezése</translation>
+        <translation type="vanished">Hosszú felhasználónevek engedélyezése</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégsem</translation>
+        <translation type="vanished">Mégsem</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
 </context>
 <context>
@@ -11373,7 +11373,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>Keresés</translation>
+        <translation type="vanished">Keresés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -11462,32 +11462,32 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>A napló törlése</translation>
+        <translation type="vanished">A napló törlése</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Törlés</translation>
+        <translation type="vanished">Törlés</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>A napló feltöltése a beállításokban konfigurált beillesztési szolgáltatásba.</translation>
+        <translation type="vanished">A napló feltöltése a beállításokban konfigurált beillesztési szolgáltatásba.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Feltöltés</translation>
+        <translation type="vanished">Feltöltés</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>Tisztítás</translation>
+        <translation type="vanished">Tisztítás</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Újratöltés</translation>
+        <translation type="vanished">Újratöltés</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>Keresés:</translation>
+        <translation type="vanished">Keresés:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -11514,7 +11514,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>A fájl (%1) nem olvasható.</translation>
+        <translation type="vanished">A fájl (%1) nem olvasható.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -11591,7 +11591,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>Egyéb naplók</translation>
+        <translation type="vanished">Egyéb naplók</translation>
     </message>
 </context>
 <context>
@@ -11616,7 +11616,7 @@ Biztos vagy ebben?</translation>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation>Bezárás</translation>
+        <translation type="vanished">Bezárás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -11645,28 +11645,28 @@ Biztos vagy ebben?</translation>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation>Feltöltés ide: %1</translation>
+        <translation type="vanished">Feltöltés ide: %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation>Hálózati hiba: %1</translation>
+        <translation type="vanished">Hálózati hiba: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>Hiba: A(z) %1 váratlan állapotkódot adott vissza%2%3</translation>
+        <translation type="vanished">Hiba: A(z) %1 váratlan állapotkódot adott vissza%2%3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Hiba: A(z) %1 helytelenül formázott választörzset adott vissza</translation>
+        <translation type="vanished">Hiba: A(z) %1 helytelenül formázott választörzset adott vissza</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation>Hiba: A(z) %1 hibát adott vissza: %2</translation>
+        <translation type="vanished">Hiba: A(z) %1 hibát adott vissza: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>Hiba: A%1 hibakódot a következő hibakóddal adta vissza: %2
+        <translation type="vanished">Hiba: A%1 hibakódot a következő hibakóddal adta vissza: %2
 Hibaüzenet: %3</translation>
     </message>
 </context>
@@ -12345,7 +12345,7 @@ HTTP állapot: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>A szerver a következő hibát adta vissza:</translation>
+        <translation type="vanished">A szerver a következő hibát adta vissza:</translation>
     </message>
 </context>
 <context>
@@ -12406,7 +12406,7 @@ HTTP állapot: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>&amp;Alapértelmezett</translation>
+        <translation type="vanished">&amp;Alapértelmezett</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -12540,13 +12540,13 @@ HTTP állapot: %2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>Weboldal</translation>
+        <translation type="vanished">Weboldal</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>%1 fejlesztői</translation>
+        <translation type="vanished">%1 fejlesztői</translation>
     </message>
     <message>
         <source>%1 Contributors</source>
@@ -12557,7 +12557,7 @@ HTTP állapot: %2</translation>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>Köszönettel</translation>
+        <translation type="vanished">Köszönettel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -12628,7 +12628,7 @@ Hibaüzenet: %1</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Feltöltés sikertelen</translation>
+        <translation type="vanished">Feltöltés sikertelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -12927,7 +12927,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítod ezt a JVM-argumentumok
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>A megadott java bináris nem működött.&lt;br /&gt;Az automatikus észlelési funkciót kell használnod, vagy állítsd be a java futtatható fájl elérési útját.&lt;br /&gt;</translation>
+        <translation type="vanished">A megadott java bináris nem működött.&lt;br /&gt;Az automatikus észlelési funkciót kell használnod, vagy állítsd be a java futtatható fájl elérési útját.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -12955,7 +12955,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítod ezt a JVM-argumentumok
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>Érvénytelen elérési út a JVisualVM-hez</translation>
+        <translation type="vanished">Érvénytelen elérési út a JVisualVM-hez</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -12980,7 +12980,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítod ezt a JVM-argumentumok
     </message>
     <message>
         <source>No author(s)</source>
-        <translation>Nincs(enek) szerző(k)</translation>
+        <translation type="vanished">Nincs(enek) szerző(k)</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -13203,7 +13203,7 @@ MEGJEGYZÉS: Győződj meg róla, hogy a frissítés előtt biztonsági másolat
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Nem sikerült kijavítani a(z) %1 engedélyeit</translation>
+        <translation type="vanished">Nem sikerült kijavítani a(z) %1 engedélyeit</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -13603,7 +13603,7 @@ Hibaüzenet: %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>%1 verzió megváltoztatása</translation>
+        <translation type="vanished">%1 verzió megváltoztatása</translation>
     </message>
 </context>
 <context>
@@ -14037,13 +14037,11 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Az erőforrás neve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Az erőforrás legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
     <message>
@@ -14153,7 +14151,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Az erőforráscsomag engedélyezve van? (Csak ZIP fájlokra érvényes)</translation>
+        <translation type="vanished">Az erőforráscsomag engedélyezve van? (Csak ZIP fájlokra érvényes)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
@@ -14174,15 +14172,15 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>Forráscsomagok</translation>
+        <translation type="vanished">Forráscsomagok</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Csomagok letöltése</translation>
+        <translation type="vanished">Csomagok letöltése</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Forráscsomagok letöltése online platformokról</translation>
+        <translation type="vanished">Forráscsomagok letöltése online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -14521,11 +14519,11 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation>Ez a letöltés ide lesz helyezve: %1</translation>
+        <translation type="vanished">Ez a letöltés ide lesz helyezve: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Ez a fájl az alapértelmezettől eltérő mappába lesz letöltve, valószínűleg azért, mert a (mod) betöltője ezt igényli.</translation>
+        <translation type="vanished">Ez a fájl az alapértelmezettől eltérő mappába lesz letöltve, valószínűleg azért, mert a (mod) betöltője ezt igényli.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -14844,7 +14842,7 @@ Jelenleg telepített verzió: %1</translation>
     </message>
     <message>
         <source>Latency</source>
-        <translation>Késés</translation>
+        <translation type="vanished">Késés</translation>
     </message>
 </context>
 <context>
@@ -14973,15 +14971,15 @@ Biztos vagy benne?</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>Shadercsomagok</translation>
+        <translation type="vanished">Shadercsomagok</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>Shaderek letöltése</translation>
+        <translation type="vanished">Shaderek letöltése</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Shaderek letöltése online platformokról</translation>
+        <translation type="vanished">Shaderek letöltése online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -15546,7 +15544,7 @@ mert: %2.</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Nem sikerült megnyitni a mellékelt modcsomag zip fájlt.</translation>
+        <translation type="vanished">Nem sikerült megnyitni a mellékelt modcsomag zip fájlt.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -15713,13 +15711,11 @@ inheritsFrom hiányzik</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>A textúracsomag engedélyezve van?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>A textúracsomag neve.</translation>
     </message>
     <message>
@@ -15729,7 +15725,6 @@ inheritsFrom hiányzik</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>A textúracsomag utolsó módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
     <message>
@@ -15813,11 +15808,11 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Csomagok letöltése</translation>
+        <translation type="vanished">Csomagok letöltése</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Textúracsomagok letöltése online platformokról</translation>
+        <translation type="vanished">Textúracsomagok letöltése online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -15939,7 +15934,7 @@ Biztos vagy ebben?</translation>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>&amp;Ikonok</translation>
+        <translation type="vanished">&amp;Ikonok</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -15947,54 +15942,54 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>Ikon témák mappájának megtekintése.</translation>
+        <translation type="vanished">Ikon témák mappájának megtekintése.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation>&amp;Widgetek</translation>
+        <translation type="vanished">&amp;Widgetek</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation>Widget témák mappájának megtekintése.</translation>
+        <translation type="vanished">Widget témák mappájának megtekintése.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>A cica a háttérben fog megjelenni, és alapértelmezés szerint nem látható. Csak akkor válik láthatóvá, ha megnyomod a Cicagombot az eszköztáron.</translation>
+        <translation type="vanished">A cica a háttérben fog megjelenni, és alapértelmezés szerint nem látható. Csak akkor válik láthatóvá, ha megnyomod a Cicagombot az eszköztáron.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>&amp;Cica</translation>
+        <translation type="vanished">&amp;Cica</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>Cicák mappa megtekintése.</translation>
+        <translation type="vanished">Cicák mappa megtekintése.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation>Mind frissítése</translation>
+        <translation type="vanished">Mind frissítése</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>WizardPage</translation>
+        <translation type="vanished">WizardPage</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>Válaszd ki a használni kívánt témát</translation>
+        <translation type="vanished">Válaszd ki a használni kívánt témát</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Tipp: A cica a háttérben fog megjelenni, és alapértelmezés szerint nem látható. Csak akkor válik láthatóvá, ha megnyomod a Cicagombot az eszköztáron.</translation>
+        <translation type="vanished">Tipp: A cica a háttérben fog megjelenni, és alapértelmezés szerint nem látható. Csak akkor válik láthatóvá, ha megnyomod a Cicagombot az eszköztáron.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation> Előnézet:</translation>
+        <translation type="vanished"> Előnézet:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>A cica a háttérben látható, és nem szolgál semmilyen célt, pusztán vizuális elem.</translation>
+        <translation type="vanished">A cica a háttérben látható, és nem szolgál semmilyen célt, pusztán vizuális elem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -16261,7 +16256,7 @@ Válts a következő Java verziók egyikére:</translation>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Szűrő:</translation>
+        <translation type="vanished">Szűrő:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -17097,11 +17092,11 @@ Kanonikus elérési út: %1</translation>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>Adatcsomagok</translation>
+        <translation type="vanished">Adatcsomagok</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>Adatcsomagok kezelése a világon.</translation>
+        <translation type="vanished">Adatcsomagok kezelése a világon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -17129,7 +17124,7 @@ Akarod folytatni?</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>Világ adatcsomagok mappa megnyitása</translation>
+        <translation type="vanished">Világ adatcsomagok mappa megnyitása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

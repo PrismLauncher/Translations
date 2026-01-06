@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>eochracha API</translation>
+        <translation type="vanished">eochracha API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,28 +88,28 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Réamhshocrú)</translation>
+        <translation type="vanished">(Réamhshocrú)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Cúir isteach ID cliant saincheaptha don Fíordheimhniú Microsoft anseo.</translation>
+        <translation type="vanished">Cúir isteach ID cliant saincheaptha don Fíordheimhniú Microsoft anseo.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>API &amp;Modrinth</translation>
+        <translation type="vanished">API &amp;Modrinth</translation>
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Cúir isteach token API don Modrinth anseo.</translation>
+        <translation type="vanished">Cúir isteach token API don Modrinth anseo.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Aon cheann)</translation>
+        <translation type="vanished">(Aon cheann)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>ID cliant Technic</translation>
+        <translation type="vanished">ID cliant Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -118,11 +118,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Cuir GUID client ID saincheaphta isteach anseo.</translation>
+        <translation type="vanished">Cuir GUID client ID saincheaphta isteach anseo.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Ilghnéitheach</translation>
+        <translation type="vanished">Ilghnéitheach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Cuir URl seancheaptha le meta isteach anseo.</translation>
+        <translation type="vanished">Cuir URl seancheaptha le meta isteach anseo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>API &amp;Cóir CurseForge</translation>
+        <translation type="vanished">API &amp;Cóir CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -170,11 +170,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Cuir eochair API saincheaptha le Curseforge isteach anseo.</translation>
+        <translation type="vanished">Cuir eochair API saincheaptha le Curseforge isteach anseo.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>APIanna</translation>
+        <translation type="vanished">APIanna</translation>
     </message>
 </context>
 <context>
@@ -243,7 +243,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>Theip ar chumraíochtaí an phacáiste %1 a oscailt!</translation>
+        <translation type="vanished">Theip ar chumraíochtaí an phacáiste %1 a oscailt!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -396,42 +396,42 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Gan seiceáil</translation>
+        <translation type="vanished">Gan seiceáil</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>As líne</translation>
+        <translation type="vanished">As líne</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>Réidh</translation>
+        <translation type="vanished">Réidh</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Ag obair</translation>
+        <translation type="vanished">Ag obair</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>bhí botún ann</translation>
+        <translation type="vanished">bhí botún ann</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>In Éag</translation>
+        <translation type="vanished">In Éag</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Imithe</translation>
+        <translation type="vanished">Imithe</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>Anaithnid</translation>
+        <translation type="vanished">Anaithnid</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -494,7 +494,7 @@
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Míchumasach</translation>
+        <translation type="vanished">Míchumasach</translation>
     </message>
 </context>
 <context>
@@ -904,7 +904,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Ag fáil na gcomhad sócmhainní ó Mojang...</translation>
+        <translation type="vanished">Ag fáil na gcomhad sócmhainní ó Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1268,11 +1268,11 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Déantar seiceáil uathoibríoch ar do fhillteán mods domhanda cumraithe agus ar do fhillteán íoslódálacha réamhshocraithe le haghaidh na mods íoslódáilte agus déanfar iad a chóipeáil chuig an sampla má aimsítear iad.&lt;/p&gt;&lt;p&gt;Mar rogha, is féidir leat na mods íoslódáilte a tharraingt agus a scaoileadh isteach sa dialóg seo nó fillteán a chur leis le faire mura ndearna tú na mods a íoslódáil chuig suíomh réamhshocraithe.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Déantar seiceáil uathoibríoch ar do fhillteán mods domhanda cumraithe agus ar do fhillteán íoslódálacha réamhshocraithe le haghaidh na mods íoslódáilte agus déanfar iad a chóipeáil chuig an sampla má aimsítear iad.&lt;/p&gt;&lt;p&gt;Mar rogha, is féidir leat na mods íoslódáilte a tharraingt agus a scaoileadh isteach sa dialóg seo nó fillteán a chur leis le faire mura ndearna tú na mods a íoslódáil chuig suíomh réamhshocraithe.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>Fillteáin Faire:</translation>
+        <translation type="vanished">Fillteáin Faire:</translation>
     </message>
 </context>
 <context>
@@ -1458,7 +1458,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>Theip ar fhothasc amháin nó níos mó</translation>
+        <translation type="vanished">Theip ar fhothasc amháin nó níos mó</translation>
     </message>
 </context>
 <context>
@@ -1659,7 +1659,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>Croíleasuithe</translation>
+        <translation type="vanished">Croíleasuithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -1799,22 +1799,22 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>Orduithe Oiriúnaithe</translation>
+        <translation type="vanished">Orduithe Oiriúnaithe</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>&amp;Ordú iarscoir:</translation>
+        <translation type="vanished">&amp;Ordú iarscoir:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Ordú réamhlainse:</translation>
+        <translation type="vanished">Ordú réamhlainse:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Ordú rapair:</translation>
+        <translation type="vanished">Ordú rapair:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -1847,7 +1847,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Orduithe Oiriúnaithe</translation>
+        <translation type="vanished">Orduithe Oiriúnaithe</translation>
     </message>
 </context>
 <context>
@@ -2198,7 +2198,7 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Ag seiceáil an bhfuil meiteashonraí ag na mods...</translation>
+        <translation type="vanished">Ag seiceáil an bhfuil meiteashonraí ag na mods...</translation>
     </message>
 </context>
 <context>
@@ -2223,7 +2223,7 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>Athróga Timp&amp;eallachta</translation>
+        <translation type="vanished">Athróga Timp&amp;eallachta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2260,7 +2260,7 @@ An bhfuil tú cinnte?</translation>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>Athróga Timpeallachta</translation>
+        <translation type="vanished">Athróga Timpeallachta</translation>
     </message>
 </context>
 <context>
@@ -2332,11 +2332,11 @@ An bhfuil tú cinnte?</translation>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>Ai&amp;nm</translation>
+        <translation type="vanished">Ai&amp;nm</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>Leagan</translation>
+        <translation type="vanished">Leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2380,7 +2380,7 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>Úd&amp;ar</translation>
+        <translation type="vanished">Úd&amp;ar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2756,60 +2756,60 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation>Scagaire:</translation>
+        <translation type="vanished">Scagaire:</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>Cuir le</translation>
+        <translation type="vanished">Cuir le</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Cuir leis</translation>
+        <translation type="vanished">Cuir leis</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>Bain an mhír roghnaithe</translation>
+        <translation type="vanished">Bain an mhír roghnaithe</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>Cumasaigh an mhír roghnaithe</translation>
+        <translation type="vanished">Cumasaigh an mhír roghnaithe</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>Díchumasaigh an mhír roghnaithe</translation>
+        <translation type="vanished">Díchumasaigh an mhír roghnaithe</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>Íoslódáil acmhainn nua</translation>
+        <translation type="vanished">Íoslódáil acmhainn nua</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Tabhair cuairt ar leathanach an mhod</translation>
+        <translation type="vanished">Tabhair cuairt ar leathanach an mhod</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>Téigh go dtí leathanach baile na modhnóirí</translation>
+        <translation type="vanished">Téigh go dtí leathanach baile na modhnóirí</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
-        <translation>Déan iarracht na hacmhainní roghnaithe go léir a sheiceáil nó a nuashonrú (na hacmhainní go léir mura bhfuil aon cheann roghnaithe)</translation>
+        <translation type="vanished">Déan iarracht na hacmhainní roghnaithe go léir a sheiceáil nó a nuashonrú (na hacmhainní go léir mura bhfuil aon cheann roghnaithe)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>Easpórtáil liosta modúlach</translation>
+        <translation type="vanished">Easpórtáil liosta modúlach</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>Easpórtáil meiteashonraí an mhod go téacs</translation>
+        <translation type="vanished">Easpórtáil meiteashonraí an mhod go téacs</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>Deimhnigh an díchumasú</translation>
+        <translation type="vanished">Deimhnigh an díchumasú</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Má dhíchumasaíonn tú an acmhainn seo agus an cluiche ag rith, d’fhéadfadh sé go dtitfeadh an cluiche.
+        <translation type="vanished">Má dhíchumasaíonn tú an acmhainn seo agus an cluiche ag rith, d’fhéadfadh sé go dtitfeadh an cluiche.
 An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
 </context>
@@ -2872,16 +2872,16 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Eagarthóirí Seachtracha (fág folamh le haghaidh réamhshocraithe an chórais)</translation>
+        <translation type="vanished">Eagarthóirí Seachtracha (fág folamh le haghaidh réamhshocraithe an chórais)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>Eagarthóir &amp;Téacs:</translation>
+        <translation type="vanished">Eagarthóir &amp;Téacs:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>Uirlisí Seachtrach</translation>
+        <translation type="vanished">Uirlisí Seachtrach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -2981,21 +2981,21 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>Inrite JVisualVM</translation>
+        <translation type="vanished">Inrite JVisualVM</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Earráid agus suiteáil JVisualVM á seiceáil:
+        <translation type="vanished">Earráid agus suiteáil JVisualVM á seiceáil:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>Is cosúil go bhfuil socrú JVisualVM ceart go leor</translation>
+        <translation type="vanished">Is cosúil go bhfuil socrú JVisualVM ceart go leor</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>Eagarthóir JSON</translation>
+        <translation type="vanished">Eagarthóir JSON</translation>
     </message>
 </context>
 <context>
@@ -3090,7 +3090,7 @@ Déan iarracht arís.</translation>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Nóta: Mura bhfuil do chásanna FTB san áit réamhshocraithe, roghnaigh é ag baint úsáide as an gcnaipe in aice le cuardach.</translation>
+        <translation type="vanished">Nóta: Mura bhfuil do chásanna FTB san áit réamhshocraithe, roghnaigh é ag baint úsáide as an gcnaipe in aice le cuardach.</translation>
     </message>
 </context>
 <context>
@@ -3179,19 +3179,19 @@ Déan iarracht arís.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Ag ullmhú mods do CurseForge...</translation>
+        <translation type="vanished">Ag ullmhú mods do CurseForge...</translation>
     </message>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Ag fáil freagra API ó CurseForge do &apos;%1&apos;...</translation>
+        <translation type="vanished">Ag fáil freagra API ó CurseForge do &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Níor aimsíodh aon leagan bailí don mhod seo. Is dócha nach bhfuil sé ar fáil don leagan reatha den chluiche / don luchtóir mod.</translation>
+        <translation type="vanished">Níor aimsíodh aon leagan bailí don mhod seo. Is dócha nach bhfuil sé ar fáil don leagan reatha den chluiche / don luchtóir mod.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
-        <translation>Tá nuashonrú nua ar fáil don Mod, ach ní féidir é a íoslódáil ag baint úsáide as CurseForge.</translation>
+        <translation type="vanished">Tá nuashonrú nua ar fáil don Mod, ach ní féidir é a íoslódáil ag baint úsáide as CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3477,11 +3477,11 @@ Déan iarracht arís.</translation>
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>Eochair</translation>
+        <translation type="vanished">Eochair</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Luach</translation>
+        <translation type="vanished">Luach</translation>
     </message>
 </context>
 <context>
@@ -3821,11 +3821,11 @@ Déan iarracht arís.</translation>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>Ai&amp;nm:</translation>
+        <translation type="vanished">Ai&amp;nm:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>&amp;Grupa:</translation>
+        <translation type="vanished">&amp;Grupa:</translation>
     </message>
 </context>
 <context>
@@ -3938,279 +3938,279 @@ Déan iarracht arís.</translation>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Suiteái&amp;l Java</translation>
+        <translation type="vanished">Suiteái&amp;l Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>Uathaimsigh...</translation>
+        <translation type="vanished">Uathaimsigh...</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>Tástáil</translation>
+        <translation type="vanished">Tástáil</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>Cuimhne</translation>
+        <translation type="vanished">Cuimhne</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Leithdháileadh íosta cuimhne:</translation>
+        <translation type="vanished">Leithdháileadh íosta cuimhne:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>An t-uasmhéid cuimhne atá cead ag Minecraft a úsáid.</translation>
+        <translation type="vanished">An t-uasmhéid cuimhne atá cead ag Minecraft a úsáid.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>An méid cuimhne a úsáidtear le haghaidh Minecraft.</translation>
+        <translation type="vanished">An méid cuimhne a úsáidtear le haghaidh Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>An méid cuihmne ar fáil chun aicmí Java lódáilte a stóráil.</translation>
+        <translation type="vanished">An méid cuihmne ar fáil chun aicmí Java lódáilte a stóráil.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Leithdháileadh uasta cuimhne:</translation>
+        <translation type="vanished">Leithdháileadh uasta cuimhne:</translation>
     </message>
     <message>
         <source>Open Global Settings</source>
-        <translation>Oscail Socruithe Domhanda</translation>
+        <translation type="vanished">Oscail Socruithe Domhanda</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Is sáruithe ar shocruithe domhanda iad na socruithe anseo.</translation>
+        <translation type="vanished">Is sáruithe ar shocruithe domhanda iad na socruithe anseo.</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Má tá sé cumasaithe, ní dhéanfaidh an lainseálaí seiceáil an bhfuil sampla comhoiriúnach leis an leagan Java roghnaithe.</translation>
+        <translation type="vanished">Má tá sé cumasaithe, ní dhéanfaidh an lainseálaí seiceáil an bhfuil sampla comhoiriúnach leis an leagan Java roghnaithe.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>Seiceáil comhoiriúnachta Java tharainn</translation>
+        <translation type="vanished">Seiceáil comhoiriúnachta Java tharainn</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Brabhsáil</translation>
+        <translation type="vanished">Brabhsáil</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Íoslódáil Java</translation>
+        <translation type="vanished">Íoslódáil Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>PermGen:</translation>
+        <translation type="vanished">PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Nóta: Socraítear Permgen go huathoibríoch le Java 8 agus níos déanaí</translation>
+        <translation type="vanished">Nóta: Socraítear Permgen go huathoibríoch le Java 8 agus níos déanaí</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Argóin&amp;tí Java</translation>
+        <translation type="vanished">Argóin&amp;tí Java</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>Fuinneoga Cluiche</translation>
+        <translation type="vanished">Fuinneoga Cluiche</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>Fuinneog Cluiche</translation>
+        <translation type="vanished">Fuinneog Cluiche</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
-        <translation>Tosaigh Minecraft uasmhéadaithe</translation>
+        <translation type="vanished">Tosaigh Minecraft uasmhéadaithe</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation>Airde na fuinneoige:</translation>
+        <translation type="vanished">Airde na fuinneoige:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>Leithead na fuinneoige:</translation>
+        <translation type="vanished">Leithead na fuinneoige:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Socruithe Consói&amp;l</translation>
+        <translation type="vanished">Socruithe Consói&amp;l</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
-        <translation>Taispeáin an consól agus an cluiche ag rith</translation>
+        <translation type="vanished">Taispeáin an consól agus an cluiche ag rith</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
-        <translation>Dún an consól go huathoibríoch nuair a scoireann an cluiche</translation>
+        <translation type="vanished">Dún an consól go huathoibríoch nuair a scoireann an cluiche</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
-        <translation>Taispeáin an consól nuair a thuairteann an cluiche</translation>
+        <translation type="vanished">Taispeáin an consól nuair a thuairteann an cluiche</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Dún an lainseálaí tar éis oscailt fuinneog an chluiche</translation>
+        <translation type="vanished">Dún an lainseálaí tar éis oscailt fuinneog an chluiche</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Scoir an lainseálaí tar éis don fhuinneog cluiche dúnadh</translation>
+        <translation type="vanished">Scoir an lainseálaí tar éis don fhuinneog cluiche dúnadh</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>Orduithe oiriúnaithe</translation>
+        <translation type="vanished">Orduithe oiriúnaithe</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Athróga timpeallachta</translation>
+        <translation type="vanished">Athróga timpeallachta</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>Réiteach Seachain</translation>
+        <translation type="vanished">Réiteach Seachain</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>Leabharlanna dhúchais</translation>
+        <translation type="vanished">Leabharlanna dhúchais</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>Cosán leabharlainne &amp;GLFW</translation>
+        <translation type="vanished">Cosán leabharlainne &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>Bain úsáid as suiteáil chórais GLFW</translation>
+        <translation type="vanished">Bain úsáid as suiteáil chórais GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Úsáid suiteáil córais OpenAL</translation>
+        <translation type="vanished">Úsáid suiteáil córais OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>Domhan aon-imreora</translation>
+        <translation type="vanished">Domhan aon-imreora</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation>Sáraigh an cuntas réamhshocraithe</translation>
+        <translation type="vanished">Sáraigh an cuntas réamhshocraithe</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Cuntas:</translation>
+        <translation type="vanished">Cuntas:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Ilghnéitheach</translation>
+        <translation type="vanished">Ilghnéitheach</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>Cosán leabharlainne &amp;OpenAL</translation>
+        <translation type="vanished">Cosán leabharlainne &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Feidhmíocht</translation>
+        <translation type="vanished">Feidhmíocht</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh Mód Cluiche Feral Interactive, mar d&apos;fhéadfadh é feidhmíocht cluichíochta a fheabhsú.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh Mód Cluiche Feral Interactive, mar d&apos;fhéadfadh é feidhmíocht cluichíochta a fheabhsú.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Cumasaigh Mód Cluiche Feral</translation>
+        <translation type="vanished">Cumasaigh Mód Cluiche Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh forleagan feidhmíochta ardleibhéil MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh forleagan feidhmíochta ardleibhéil MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Cumasaigh MangoHud</translation>
+        <translation type="vanished">Cumasaigh MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Úsáid an GPU ar leith in ionad an phríomh-GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Úsáid an GPU ar leith in ionad an phríomh-GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Úsáid GPU ar leith</translation>
+        <translation type="vanished">Úsáid GPU ar leith</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Bain úsáid as Zink, tiománaí OpenGL Mesa a chuireann OpenGL i bhfeidhm ar bharr Vulkan. D’fhéadfadh an fheidhmíocht a bheith éagsúil ag brath ar an gcás. Tabhair faoi deara: Mura bhfaightear tiománaí Vulkan oiriúnach, úsáidfear rindreáil bogearraí.</translation>
+        <translation type="vanished">Bain úsáid as Zink, tiománaí OpenGL Mesa a chuireann OpenGL i bhfeidhm ar bharr Vulkan. D’fhéadfadh an fheidhmíocht a bheith éagsúil ag brath ar an gcás. Tabhair faoi deara: Mura bhfaightear tiománaí Vulkan oiriúnach, úsáidfear rindreáil bogearraí.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Úsáid Zinc</translation>
+        <translation type="vanished">Úsáid Zinc</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Socruithe oidhreachta</translation>
+        <translation type="vanished">Socruithe oidhreachta</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Déanann sé aithris ar úsáidí seanseirbhísí ar líne nach bhfuil ag feidhmiú a thuilleadh.&lt;/p&gt;&lt;p&gt;I measc na socruithe reatha tá: tacaíocht don chraiceann agus don mhodh ar líne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Déanann sé aithris ar úsáidí seanseirbhísí ar líne nach bhfuil ag feidhmiú a thuilleadh.&lt;/p&gt;&lt;p&gt;I measc na socruithe reatha tá: tacaíocht don chraiceann agus don mhodh ar líne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Cumasaigh socruithe ar líne (turgnamhach)</translation>
+        <translation type="vanished">Cumasaigh socruithe ar líne (turgnamhach)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>Sáraigh socruithe ama cluiche domhanda</translation>
+        <translation type="vanished">Sáraigh socruithe ama cluiche domhanda</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>Taispeáin an t-am a chaitear ag imirt an tsamhail seo</translation>
+        <translation type="vanished">Taispeáin an t-am a chaitear ag imirt an tsamhail seo</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>Taifead an t-am a chaitear ag imirt an tsamhail seo</translation>
+        <translation type="vanished">Taifead an t-am a chaitear ag imirt an tsamhail seo</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
-        <translation>Socraigh sprioc le bheith páirteach ar an seoladh</translation>
+        <translation type="vanished">Socraigh sprioc le bheith páirteach ar an seoladh</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>Seoladh freastalaithe:</translation>
+        <translation type="vanished">Seoladh freastalaithe:</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Cosán chuig comhad leabharlainne %1</translation>
+        <translation type="vanished">Cosán chuig comhad leabharlainne %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Ní raibh GameMode Feral Interactive le fáil ar do chóras.</translation>
+        <translation type="vanished">Ní raibh GameMode Feral Interactive le fáil ar do chóras.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>Níorbh fhéidir MangoHud a aimsiú ar do chóras.</translation>
+        <translation type="vanished">Níorbh fhéidir MangoHud a aimsiú ar do chóras.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Roghnaigh leagan Java</translation>
+        <translation type="vanished">Roghnaigh leagan Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Deimhnigh Roghnú</translation>
+        <translation type="vanished">Deimhnigh Roghnú</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Roghnaigh tú leagan 32-giotán de Java.
+        <translation type="vanished">Roghnaigh tú leagan 32-giotán de Java.
 Ní thacaíonn an suiteáil seo le níos mó ná 2048MiB RAM.
 Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Aimsigh inrite Java</translation>
+        <translation type="vanished">Aimsigh inrite Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Saraíonn do leithdháileadh uasta cuimhne cumas cuimhne do chórais.</translation>
+        <translation type="vanished">Saraíonn do leithdháileadh uasta cuimhne cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Druideann do leithdháileadh uasta cuimhne le cumas cuimhne do chórais.</translation>
+        <translation type="vanished">Druideann do leithdháileadh uasta cuimhne le cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Tá do leithdháileadh uasta cuimhne níos lú ná an t-íosluach</translation>
+        <translation type="vanished">Tá do leithdháileadh uasta cuimhne níos lú ná an t-íosluach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4314,7 +4314,7 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>JVisualVM started</source>
-        <translation>Cuireadh tús le JVisualVM</translation>
+        <translation type="vanished">Cuireadh tús le JVisualVM</translation>
     </message>
 </context>
 <context>
@@ -4341,19 +4341,19 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Ag eastóscadh Java (Ní thuairiscítear dul chun cinn i gcás cartlanna tar)</translation>
+        <translation type="vanished">Ag eastóscadh Java (Ní thuairiscítear dul chun cinn i gcás cartlanna tar)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation>Ní féidir an comhad tar a cuireadh ar fáil a oscailt.</translation>
+        <translation type="vanished">Ní féidir an comhad tar a cuireadh ar fáil a oscailt.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Ní féidir an comhad tar a cuireadh ar fáil a bhaint amach.</translation>
+        <translation type="vanished">Ní féidir an comhad tar a cuireadh ar fáil a bhaint amach.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation>Níorbh fhéidir cineál cartlainne a chinneadh!</translation>
+        <translation type="vanished">Níorbh fhéidir cineál cartlainne a chinneadh!</translation>
     </message>
 </context>
 <context>
@@ -4459,86 +4459,86 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>Cuimhne</translation>
+        <translation type="vanished">Cuimhne</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>An t-uasmhéid cuimhne atá cead ag Minecraft a úsáid.</translation>
+        <translation type="vanished">An t-uasmhéid cuimhne atá cead ag Minecraft a úsáid.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>Leithdháileadh íosta cui&amp;mhne:</translation>
+        <translation type="vanished">Leithdháileadh íosta cui&amp;mhne:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>Leithdháileadh uasta cuimhne:</translation>
+        <translation type="vanished">Leithdháileadh uasta cuimhne:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>&amp;PermGen:</translation>
+        <translation type="vanished">&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>An méid cuimhne a bhí ar fáil do Mhinecraft ar an dtosach.</translation>
+        <translation type="vanished">An méid cuimhne a bhí ar fáil do Mhinecraft ar an dtosach.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>An méid cuihmne ar fáil chun aicmí Java lódáilte a stóráil.</translation>
+        <translation type="vanished">An méid cuihmne ar fáil chun aicmí Java lódáilte a stóráil.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Am Rith Java</translation>
+        <translation type="vanished">Am Rith Java</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Má tá sé cumasaithe, ní dhéanfaidh an lainseálaí seiceáil an bhfuil sampla comhoiriúnach leis an leagan Java roghnaithe.</translation>
+        <translation type="vanished">Má tá sé cumasaithe, ní dhéanfaidh an lainseálaí seiceáil an bhfuil sampla comhoiriúnach leis an leagan Java roghnaithe.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
-        <translation>&amp;Seiceálacha comhoiriúnachta Java a scipeáil</translation>
+        <translation type="vanished">&amp;Seiceálacha comhoiriúnachta Java a scipeáil</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>Argóintí JVM:</translation>
+        <translation type="vanished">Argóintí JVM:</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Más cumasaithe é, ní iarrfaidh an lainseálaí ort leagan Java a roghnú mura bhfaightear ceann.</translation>
+        <translation type="vanished">Más cumasaithe é, ní iarrfaidh an lainseálaí ort leagan Java a roghnú mura bhfaightear ceann.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Seachain Java &amp; Wizard</translation>
+        <translation type="vanished">Seachain Java &amp; Wizard</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Roghnaíonn sé go huathoibríoch an leagan Java atá comhoiriúnach leis an gcás Minecraft reatha, bunaithe ar an bpríomhleagan atá ag teastáil.</translation>
+        <translation type="vanished">Roghnaíonn sé go huathoibríoch an leagan Java atá comhoiriúnach leis an gcás Minecraft reatha, bunaithe ar an bpríomhleagan atá ag teastáil.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Brath uathoibríoch ar leagan Java</translation>
+        <translation type="vanished">Brath uathoibríoch ar leagan Java</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Cosán &amp;Java:</translation>
+        <translation type="vanished">Cosán &amp;Java:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>Íoslódálann agus roghnaíonn sé go huathoibríoch an leagan Java atá molta ag Mojang.</translation>
+        <translation type="vanished">Íoslódálann agus roghnaíonn sé go huathoibríoch an leagan Java atá molta ag Mojang.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Uath-íoslódáil Java Mojang</translation>
+        <translation type="vanished">Uath-íoslódáil Java Mojang</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>Bainistíocht</translation>
+        <translation type="vanished">Bainistíocht</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>Leaganacha Java Íoslódáilte</translation>
+        <translation type="vanished">Leaganacha Java Íoslódáilte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -4563,16 +4563,16 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>U&amp;athaimsigh...</translation>
+        <translation type="vanished">U&amp;athaimsigh...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>&amp;Tástáil</translation>
+        <translation type="vanished">&amp;Tástáil</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Brabhsáil</translation>
+        <translation type="vanished">Brabhsáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
@@ -4588,35 +4588,35 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Roghnaigh leagan Java</translation>
+        <translation type="vanished">Roghnaigh leagan Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Deimhnigh Roghnú</translation>
+        <translation type="vanished">Deimhnigh Roghnú</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Roghnaigh tú leagan 32-giotán de Java.
+        <translation type="vanished">Roghnaigh tú leagan 32-giotán de Java.
 Ní thacaíonn an suiteáil seo le níos mó ná 2048MiB RAM.
 Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Aimsigh inrite Java</translation>
+        <translation type="vanished">Aimsigh inrite Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Saraíonn do leithdháileadh uasta cuimhne cumas cuimhne do chórais.</translation>
+        <translation type="vanished">Saraíonn do leithdháileadh uasta cuimhne cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Druideann do leithdháileadh uasta cuimhne le cumas cuimhne do chórais.</translation>
+        <translation type="vanished">Druideann do leithdháileadh uasta cuimhne le cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Tá do leithdháileadh uasta cuimhne níos lú ná an t-íosluach</translation>
+        <translation type="vanished">Tá do leithdháileadh uasta cuimhne níos lú ná an t-íosluach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -4640,15 +4640,15 @@ An bhfuil tú cinnte?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Níl aon leagan Java roghnaithe</translation>
+        <translation type="vanished">Níl aon leagan Java roghnaithe</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Íoslódáil Java</translation>
+        <translation type="vanished">Íoslódáil Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>Java 32 giotán aimsithe</translation>
+        <translation type="vanished">Java 32 giotán aimsithe</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -4657,7 +4657,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Roghnaigh tú suiteáil 32 giotán Java, ach leithdháil tú níos mó ná 2048MiB mar cuimhne uasta.
+        <translation type="vanished">Roghnaigh tú suiteáil 32 giotán Java, ach leithdháil tú níos mó ná 2048MiB mar cuimhne uasta.
 Ní féidir le %1 Minecraft a thosú.
 Ar mhaith leat dul ar aghaidh?
 
@@ -4671,7 +4671,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Níor roghnaigh tú leagan Java nó roghnaigh tú ceann nach n-oibríonn.
+        <translation type="vanished">Níor roghnaigh tú leagan Java nó roghnaigh tú ceann nach n-oibríonn.
 Ní bheidh %1 in ann Minecraft a thosú.
 Ar mhaith leat leanúint ar aghaidh gan leagan feidhmiúil de Java?
 
@@ -4685,7 +4685,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     </message>
     <message>
         <source>Memory</source>
-        <translation>Cuimhne</translation>
+        <translation type="vanished">Cuimhne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -4694,7 +4694,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Leithdháileadh íosta cuimhne:</translation>
+        <translation type="vanished">Leithdháileadh íosta cuimhne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -4788,7 +4788,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Leithdháileadh uasta cuimhne:</translation>
+        <translation type="vanished">Leithdháileadh uasta cuimhne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -4827,19 +4827,19 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     </message>
     <message>
         <source>Browse</source>
-        <translation>Brabhsáil</translation>
+        <translation type="vanished">Brabhsáil</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Uath-íoslódáil Java Mojang</translation>
+        <translation type="vanished">Uath-íoslódáil Java Mojang</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Brath uathoibríoch ar leagan Java</translation>
+        <translation type="vanished">Brath uathoibríoch ar leagan Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>Uathaimsigh Java</translation>
+        <translation type="vanished">Uathaimsigh Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -4877,15 +4877,15 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Druideann do leithdháileadh uasta cuimhne le cumas cuimhne do chórais.</translation>
+        <translation type="vanished">Druideann do leithdháileadh uasta cuimhne le cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Tá do leithdháileadh uasta cuimhne níos lú ná an t-íosluach</translation>
+        <translation type="vanished">Tá do leithdháileadh uasta cuimhne níos lú ná an t-íosluach</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Tá tú ag sárú an leithdháileadh uasta go tacaíonn suiteálacha Java 32 giotán.</translation>
+        <translation type="vanished">Tá tú ag sárú an leithdháileadh uasta go tacaíonn suiteálacha Java 32 giotán.</translation>
     </message>
 </context>
 <context>
@@ -5262,19 +5262,19 @@ Ar mhaith leat an taispeántas a imirt?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>Imir As Líne</translation>
+        <translation type="vanished">Imir As Líne</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>Tá an cuntas imithe in éag agus ní mór logáil isteach ann de láimh arís.</translation>
+        <translation type="vanished">Tá an cuntas imithe in éag agus ní mór logáil isteach ann de láimh arís.</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>Tá aitheantas cliant an lainseálaí athraithe. Bain an cuntas seo agus cuir leis arís é.</translation>
+        <translation type="vanished">Tá aitheantas cliant an lainseálaí athraithe. Bain an cuntas seo agus cuir leis arís é.</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>Níl an cuntas ann ar na freastalaithe a thuilleadh. B’fhéidir gur aistríodh é, agus sa chás sin cuir an cuntas nua leis ar aistrigh tú an ceann seo chuige.</translation>
+        <translation type="vanished">Níl an cuntas ann ar na freastalaithe a thuilleadh. B’fhéidir gur aistríodh é, agus sa chás sin cuir an cuntas nua leis ar aistrigh tú an ceann seo chuige.</translation>
     </message>
 </context>
 <context>
@@ -5315,91 +5315,91 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>Gnéithe</translation>
+        <translation type="vanished">Gnéithe</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>Socruithe Nuashonraithe</translation>
+        <translation type="vanished">Socruithe Nuashonraithe</translation>
     </message>
     <message>
         <source>Update interval</source>
-        <translation>Eatramh nuashonraithe</translation>
+        <translation type="vanished">Eatramh nuashonraithe</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>Socraigh é go 0 le seiceáil ar an seoladh amháin</translation>
+        <translation type="vanished">Socraigh é go 0 le seiceáil ar an seoladh amháin</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>u</translation>
+        <translation type="vanished">u</translation>
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>Seiceáil an fillteán íoslódálacha go hathchúrsach</translation>
+        <translation type="vanished">Seiceáil an fillteán íoslódálacha go hathchúrsach</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation>Díchumasaigh úsáid meiteashonraí arna soláthar ag soláthraithe mod (cosúil le Modrinth nó CurseForge) le haghaidh mods.</translation>
+        <translation type="vanished">Díchumasaigh úsáid meiteashonraí arna soláthar ag soláthraithe mod (cosúil le Modrinth nó CurseForge) le haghaidh mods.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
-        <translation>Díchumasaigh úsáid meiteashonraí le haghaidh mods</translation>
+        <translation type="vanished">Díchumasaigh úsáid meiteashonraí le haghaidh mods</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
-        <translation>Díchumasaigh braiteadh, suiteáil agus nuashonrú uathoibríoch spleáchais mod.</translation>
+        <translation type="vanished">Díchumasaigh braiteadh, suiteáil agus nuashonrú uathoibríoch spleáchais mod.</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>Díchumasaigh bainistíocht uathoibríoch spleáchais mod</translation>
+        <translation type="vanished">Díchumasaigh bainistíocht uathoibríoch spleáchais mod</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Agus cás nua modpack á chruthú, ná mol na cásanna atá ann cheana a nuashonrú ina ionad.</translation>
+        <translation type="vanished">Agus cás nua modpack á chruthú, ná mol na cásanna atá ann cheana a nuashonrú ina ionad.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>Seachain leid nuashonraithe modpack</translation>
+        <translation type="vanished">Seachain leid nuashonraithe modpack</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>Líon na dtascanna comhuaineacha</translation>
+        <translation type="vanished">Líon na dtascanna comhuaineacha</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>Líon na n-íoslódálacha comhuaineacha</translation>
+        <translation type="vanished">Líon na n-íoslódálacha comhuaineacha</translation>
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>Líon na n-athiarracht láimhe</translation>
+        <translation type="vanished">Líon na n-athiarracht láimhe</translation>
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>Am críochnaithe le haghaidh iarratais HTTP</translation>
+        <translation type="vanished">Am críochnaithe le haghaidh iarratais HTTP</translation>
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>Mód sórtála radhairc sampla</translation>
+        <translation type="vanished">Mód sórtála radhairc sampla</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation>Téama</translation>
+        <translation type="vanished">Téama</translation>
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>Socruithe Consóil</translation>
+        <translation type="vanished">Socruithe Consóil</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
-        <translation>Taispeáin an consól agus an cluiche ag &amp;rith</translation>
+        <translation type="vanished">Taispeáin an consól agus an cluiche ag &amp;rith</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
-        <translation>&amp;Dún an consól go huathoibríoch nuair a scoireann an cluiche</translation>
+        <translation type="vanished">&amp;Dún an consól go huathoibríoch nuair a scoireann an cluiche</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
-        <translation>Taispeáin an consól nuair a thuairteann an &amp;cluiche</translation>
+        <translation type="vanished">Taispeáin an consól nuair a thuairteann an &amp;cluiche</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -5460,7 +5460,7 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     </message>
     <message>
         <source>Mods</source>
-        <translation>Leasuithe</translation>
+        <translation type="vanished">Leasuithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
@@ -5585,7 +5585,7 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Ilghnéitheach</translation>
+        <translation type="vanished">Ilghnéitheach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -5599,23 +5599,23 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     </message>
     <message>
         <source>Cat</source>
-        <translation>Cat</translation>
+        <translation type="vanished">Cat</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Socraigh teimhneacht an chait. Tá 0% go hiomlán trédhearcach agus tá 100% go hiomlán teimhneach.</translation>
+        <translation type="vanished">Socraigh teimhneacht an chait. Tá 0% go hiomlán trédhearcach agus tá 100% go hiomlán teimhneach.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Teimhneacht</translation>
+        <translation type="vanished">Teimhneacht</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Uirlisí</translation>
+        <translation type="vanished">Uirlisí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -5671,7 +5671,7 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>Teorainn Stair</translation>
+        <translation type="vanished">Teorainn Stair</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -5687,7 +5687,7 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>Cló chonsóil</translation>
+        <translation type="vanished">Cló chonsóil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -5751,31 +5751,31 @@ Moltar rochtain a thabhairt do %1 air trí Flatseal.</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Tástáil/EARRÁID] OOoooOOOoooo! Earráid taibhsiúil!</translation>
+        <translation type="vanished">[Tástáil/EARRÁID] OOoooOOOoooo! Earráid taibhsiúil!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Tástáil/EARRÁID] Earráid taibhsiúil!</translation>
+        <translation type="vanished">[Tástáil/EARRÁID] Earráid taibhsiúil!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[Tástáil/RABHADH] Ní rabhadh ró-scanrúil é seo.</translation>
+        <translation type="vanished">[Tástáil/RABHADH] Ní rabhadh ró-scanrúil é seo.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Tástáil/DÍFHABHTÚ] Teachtaireacht dífhabhtúcháin faoi rún...</translation>
+        <translation type="vanished">[Tástáil/DÍFHABHTÚ] Teachtaireacht dífhabhtúcháin faoi rún...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Tástáil/MARFACH] Earráid mharfach scanrúil!</translation>
+        <translation type="vanished">[Tástáil/MARFACH] Earráid mharfach scanrúil!</translation>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Tástáil/EOLAS] Teachtaireacht gan dochar...</translation>
+        <translation type="vanished">[Tástáil/EOLAS] Teachtaireacht gan dochar...</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Lainseálaí</translation>
+        <translation type="vanished">Lainseálaí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -5895,7 +5895,7 @@ Moltar rochtain a thabhairt do %1 air trí Flatseal.</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>Theip ar chomhad modpack %1 a oscailt!</translation>
+        <translation type="vanished">Theip ar chomhad modpack %1 a oscailt!</translation>
     </message>
 </context>
 <context>
@@ -6034,12 +6034,12 @@ Cúis:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>Ag nuashonrú innéacs don mhod:
+        <translation type="vanished">Ag nuashonrú innéacs don mhod:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>Meiteashonraí neamhbhailí</translation>
+        <translation type="vanished">Meiteashonraí neamhbhailí</translation>
     </message>
 </context>
 <context>
@@ -6111,7 +6111,7 @@ Cúis:
     </message>
     <message>
         <source>Search:</source>
-        <translation>Cuardaigh:</translation>
+        <translation type="vanished">Cuardaigh:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -6218,7 +6218,7 @@ Cúis:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>Níorbh fhéidir a chruthú:</translation>
+        <translation type="vanished">Níorbh fhéidir a chruthú:</translation>
     </message>
 </context>
 <context>
@@ -6250,15 +6250,15 @@ Cúis:
     </message>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>Ní féidir an comhad zip a cuireadh ar fáil a oscailt.</translation>
+        <translation type="vanished">Ní féidir an comhad zip a cuireadh ar fáil a oscailt.</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>Theip ar an gcéad chomhad sa chomhad zip a lorg</translation>
+        <translation type="vanished">Theip ar an gcéad chomhad sa chomhad zip a lorg</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Níorbh fhéidir ceadanna a shocrú do %1</translation>
+        <translation type="vanished">Níorbh fhéidir ceadanna a shocrú do %1</translation>
     </message>
 </context>
 <context>
@@ -6355,11 +6355,11 @@ Cúis:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>Oscail %1 nó scan an QR agus cuir isteach an cód thuas.</translation>
+        <translation type="vanished">Oscail %1 nó scan an QR agus cuir isteach an cód thuas.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>Oscail %1 agus cuir isteach an cód thuas.</translation>
+        <translation type="vanished">Oscail %1 agus cuir isteach an cód thuas.</translation>
     </message>
 </context>
 <context>
@@ -7077,14 +7077,14 @@ Chun an taisce meiteashonraí a ghlanadh de láimh, brúigh Fillteáin -&gt; Fé
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>Tá tú ar tí &quot;%1&quot; a scriosadh.
+        <translation type="vanished">Tá tú ar tí &quot;%1&quot; a scriosadh.
 D’fhéadfadh sé seo a bheith buan agus scriosfaidh sé an sampla go hiomlán.
 
 An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>Tá cásanna nasctha ann</translation>
+        <translation type="vanished">Tá cásanna nasctha ann</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -7094,7 +7094,7 @@ An bhfuil tú cinnte?</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>D’fhéadfadh an sampla seo a leanas tagairt a dhéanamh do chomhaid sa sampla seo:
 
 %1
@@ -7120,47 +7120,47 @@ Ar mhaith leat dul ar aghaidh?</numerusform>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>Cruthaigh aicearra sampla</translation>
+        <translation type="vanished">Cruthaigh aicearra sampla</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Ní bhfuair mé an deasc?!</translation>
+        <translation type="vanished">Ní bhfuair mé an deasc?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Tá an lainseálaí san fhillteán as ar baineadh é, dá bhrí sin ní féidir leis aicearraí a chruthú.</translation>
+        <translation type="vanished">Tá an lainseálaí san fhillteán as ar baineadh é, dá bhrí sin ní féidir leis aicearraí a chruthú.</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>Theip ar deilbhín don Feidhmchlár a chruthú.</translation>
+        <translation type="vanished">Theip ar deilbhín don Feidhmchlár a chruthú.</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Cruthaigh Feidhmchlár samplach</translation>
+        <translation type="vanished">Cruthaigh Feidhmchlár samplach</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>An bhfuil an lainseálaí ag rith mar AppImage míchumraithe? (Tá an t-athróg timpeallachta $APPIMAGE ar iarraidh)</translation>
+        <translation type="vanished">An bhfuil an lainseálaí ag rith mar AppImage míchumraithe? (Tá an t-athróg timpeallachta $APPIMAGE ar iarraidh)</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>Iontrálacha Deisce</translation>
+        <translation type="vanished">Iontrálacha Deisce</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>Ní thacaítear leis ar do ardán!</translation>
+        <translation type="vanished">Ní thacaítear leis ar do ardán!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>Cruthaíodh aicearra chuig an sampla seo ar do dheasc!</translation>
+        <translation type="vanished">Cruthaíodh aicearra chuig an sampla seo ar do dheasc!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>Cruthaíodh aicearra chuig an gcás seo!</translation>
+        <translation type="vanished">Cruthaíodh aicearra chuig an gcás seo!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>Theip ar ásc aicearra a chruthú!</translation>
+        <translation type="vanished">Theip ar ásc aicearra a chruthú!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -7210,7 +7210,7 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Theip ar dheilbhín aicearra a chruthú.</translation>
+        <translation type="vanished">Theip ar dheilbhín aicearra a chruthú.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -7254,11 +7254,11 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>More news...</source>
-        <translation>Tuilleadh nuacht...</translation>
+        <translation type="vanished">Tuilleadh nuacht...</translation>
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Cruthaíonn sé aicearra ar do dheasc chun an sampla roghnaithe a sheoladh.</translation>
+        <translation type="vanished">Cruthaíonn sé aicearra ar do dheasc chun an sampla roghnaithe a sheoladh.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7414,19 +7414,19 @@ Ní féidir é seo a nuashonrú ach amháin trí chomhad i bhformáid %1 a úsá
     </message>
     <message>
         <source>Pack information</source>
-        <translation>Faisnéis faoin bpacáiste</translation>
+        <translation type="vanished">Faisnéis faoin bpacáiste</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>Ainm an phacáiste:</translation>
+        <translation type="vanished">Ainm an phacáiste:</translation>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>Nuashonrú ón gcomhad</translation>
+        <translation type="vanished">Nuashonrú ón gcomhad</translation>
     </message>
     <message>
         <source>Update pack</source>
-        <translation>Pacáiste nuashonraithe</translation>
+        <translation type="vanished">Pacáiste nuashonraithe</translation>
     </message>
 </context>
 <context>
@@ -7559,133 +7559,133 @@ Ní féidir é seo a nuashonrú ach amháin trí chomhad i bhformáid %1 a úsá
     <name>MinecraftPage</name>
     <message>
         <source>General</source>
-        <translation>Ginearálta</translation>
+        <translation type="vanished">Ginearálta</translation>
     </message>
     <message>
         <source>Window Size</source>
-        <translation>Méid na Fuinneoige</translation>
+        <translation type="vanished">Méid na Fuinneoige</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
-        <translation>Tosaigh Minecraft &amp;uasmhéadaigh</translation>
+        <translation type="vanished">Tosaigh Minecraft &amp;uasmhéadaigh</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>Airde Fuinneoige:</translation>
+        <translation type="vanished">Airde Fuinneoige:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>Leithead Fuinneoige:</translation>
+        <translation type="vanished">Leithead Fuinneoige:</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>Am cluiche</translation>
+        <translation type="vanished">Am cluiche</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
-        <translation>Taispeáin an t-am a caitheadh ag imirt cásanna</translation>
+        <translation type="vanished">Taispeáin an t-am a caitheadh ag imirt cásanna</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
-        <translation>Taispeáin an t-am a chaitear ag imirt i ngach cás</translation>
+        <translation type="vanished">Taispeáin an t-am a chaitear ag imirt i ngach cás</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
-        <translation>&amp;Taifead an t-am a chaitear ag imirt cásanna</translation>
+        <translation type="vanished">&amp;Taifead an t-am a chaitear ag imirt cásanna</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>Taispeáin an t-am a chaitear ag imirt in uaireanta an chloig</translation>
+        <translation type="vanished">Taispeáin an t-am a chaitear ag imirt in uaireanta an chloig</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Atosclóidh an lainseálaí go huathoibríoch nuair a thuairteálann nó a scoireann an cluiche.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Atosclóidh an lainseálaí go huathoibríoch nuair a thuairteálann nó a scoireann an cluiche.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
-        <translation>&amp;Dún an lainseálaí tar éis oscailt fuinneog an chluiche</translation>
+        <translation type="vanished">&amp;Dún an lainseálaí tar éis oscailt fuinneog an chluiche</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Scoirfidh an lainseálaí go huathoibríoch tar éis don chluiche críochnú nó tar éis dó tuairteáil.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Scoirfidh an lainseálaí go huathoibríoch tar éis don chluiche críochnú nó tar éis dó tuairteáil.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
-        <translation>Scoir an lainseálaí tar éis dhúnadh fuinneog an chluiche</translation>
+        <translation type="vanished">Scoir an lainseálaí tar éis dhúnadh fuinneog an chluiche</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>Coigeartuithe</translation>
+        <translation type="vanished">Coigeartuithe</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Socruithe oidhreachta</translation>
+        <translation type="vanished">Socruithe oidhreachta</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Déanann sé aithris ar úsáidí seanseirbhísí ar líne nach bhfuil ag feidhmiú a thuilleadh.&lt;/p&gt;&lt;p&gt;I measc na socruithe reatha tá: tacaíocht don chraiceann agus don mhodh ar líne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Déanann sé aithris ar úsáidí seanseirbhísí ar líne nach bhfuil ag feidhmiú a thuilleadh.&lt;/p&gt;&lt;p&gt;I measc na socruithe reatha tá: tacaíocht don chraiceann agus don mhodh ar líne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Cumasaigh socruithe ar líne (turgnamhach)</translation>
+        <translation type="vanished">Cumasaigh socruithe ar líne (turgnamhach)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>Timréitigh leabharlainne dhúchais</translation>
+        <translation type="vanished">Timréitigh leabharlainne dhúchais</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
-        <translation>Bain úsáid as suiteáil chórais &amp;GLFW</translation>
+        <translation type="vanished">Bain úsáid as suiteáil chórais &amp;GLFW</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>Cosán leabharlainne &amp;GLFW</translation>
+        <translation type="vanished">Cosán leabharlainne &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
-        <translation>Bain úsáid as suiteáil chórais &amp;OpenAL</translation>
+        <translation type="vanished">Bain úsáid as suiteáil chórais &amp;OpenAL</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>Cosán leabharlainne &amp;OpenAL</translation>
+        <translation type="vanished">Cosán leabharlainne &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Feidhmíocht</translation>
+        <translation type="vanished">Feidhmíocht</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh Mód Cluiche Feral Interactive, mar d&apos;fhéadfadh é feidhmíocht cluichíochta a fheabhsú.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh Mód Cluiche Feral Interactive, mar d&apos;fhéadfadh é feidhmíocht cluichíochta a fheabhsú.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Cumasaigh Mód Cluiche Feral</translation>
+        <translation type="vanished">Cumasaigh Mód Cluiche Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh forleagan feidhmíochta ardleibhéil MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh forleagan feidhmíochta ardleibhéil MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Cumasaigh MangoHud</translation>
+        <translation type="vanished">Cumasaigh MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Úsáid an GPU ar leith in ionad an phríomh-GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Úsáid an GPU ar leith in ionad an phríomh-GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Úsáid GPU ar leith</translation>
+        <translation type="vanished">Úsáid GPU ar leith</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Úsáid Zink, tiománaí OpenGL Mesa a chuireann OpenGL i bhfeidhm ar bharr Vulkan. D’fhéadfadh feidhmíocht a bheith éagsúil ag brath ar an gcás. Tabhair faoi deara: Mura bhfaightear tiománaí Vulkan oiriúnach, úsáidfear rindreáil bogearraí.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Úsáid Zink, tiománaí OpenGL Mesa a chuireann OpenGL i bhfeidhm ar bharr Vulkan. D’fhéadfadh feidhmíocht a bheith éagsúil ag brath ar an gcás. Tabhair faoi deara: Mura bhfaightear tiománaí Vulkan oiriúnach, úsáidfear rindreáil bogearraí.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Úsáid Zink</translation>
+        <translation type="vanished">Úsáid Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -7694,23 +7694,23 @@ Ní féidir é seo a nuashonrú ach amháin trí chomhad i bhformáid %1 a úsá
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Ilghnéitheach</translation>
+        <translation type="vanished">Ilghnéitheach</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Cosán chuig comhad leabharlainne %1</translation>
+        <translation type="vanished">Cosán chuig comhad leabharlainne %1</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>Cosán braite go huathoibríoch: %1</translation>
+        <translation type="vanished">Cosán braite go huathoibríoch: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Ní raibh GameMode Feral Interactive le fáil ar do chóras.</translation>
+        <translation type="vanished">Ní raibh GameMode Feral Interactive le fáil ar do chóras.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>Níorbh fhéidir MangoHud a aimsiú ar do chóras.</translation>
+        <translation type="vanished">Níorbh fhéidir MangoHud a aimsiú ar do chóras.</translation>
     </message>
 </context>
 <context>
@@ -8347,11 +8347,11 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>Anaithnid</translation>
+        <translation type="vanished">Anaithnid</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Cá as ar íoslódáil an mod.</translation>
+        <translation type="vanished">Cá as ar íoslódáil an mod.</translation>
     </message>
 </context>
 <context>
@@ -8517,59 +8517,59 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Download mods</source>
-        <translation>Íoslódáil mods</translation>
+        <translation type="vanished">Íoslódáil mods</translation>
     </message>
     <message>
         <source>Add file</source>
-        <translation>Cuir comhad leis</translation>
+        <translation type="vanished">Cuir comhad leis</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>Cuir comhad a íoslódáileadh go háitiúil leis</translation>
+        <translation type="vanished">Cuir comhad a íoslódáileadh go háitiúil leis</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>Fíoraigh Spleáchais</translation>
+        <translation type="vanished">Fíoraigh Spleáchais</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>Déan iarracht na modanna roghnaithe go léir a nuashonrú agus a sheiceáil le haghaidh spleáchais ar iarraidh (gach mod mura bhfuil aon cheann roghnaithe)</translation>
+        <translation type="vanished">Déan iarracht na modanna roghnaithe go léir a nuashonrú agus a sheiceáil le haghaidh spleáchais ar iarraidh (gach mod mura bhfuil aon cheann roghnaithe)</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation>Athshocraigh meiteashonraí nuashonraithe</translation>
+        <translation type="vanished">Athshocraigh meiteashonraí nuashonraithe</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Bain meiteashonraí an mhod</translation>
+        <translation type="vanished">Bain meiteashonraí an mhod</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>Téigh go leathanach baile an mhod</translation>
+        <translation type="vanished">Téigh go leathanach baile an mhod</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Athraigh Leagan</translation>
+        <translation type="vanished">Athraigh Leagan</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>Athraigh leagan an mhod</translation>
+        <translation type="vanished">Athraigh leagan an mhod</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Tabhair cuairt ar leathanach an mhod</translation>
+        <translation type="vanished">Tabhair cuairt ar leathanach an mhod</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation>Tabhair cuairt ar leathanaigh na modhnóirí</translation>
+        <translation type="vanished">Tabhair cuairt ar leathanaigh na modhnóirí</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>Téigh go leathanaigh na modhanna roghnaithe</translation>
+        <translation type="vanished">Téigh go leathanaigh na modhanna roghnaithe</translation>
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>Suiteáil luchtóir mod ar dtús!</translation>
+        <translation type="vanished">Suiteáil luchtóir mod ar dtús!</translation>
     </message>
 </context>
 <context>
@@ -8594,124 +8594,124 @@ An bhfuil tú cinnte?</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>Deimhnigh na mods le nuashonrú</translation>
+        <translation type="vanished">Deimhnigh na mods le nuashonrú</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>Tá tú ar tí na mods seo a leanas a nuashonrú:</translation>
+        <translation type="vanished">Tá tú ar tí na mods seo a leanas a nuashonrú:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>Ní dhéanfar ach mods a bhfuil seic orthu a nuashonrú!</translation>
+        <translation type="vanished">Ní dhéanfar ach mods a bhfuil seic orthu a nuashonrú!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Ainm an mhod: %1&lt;br&gt;Ainm comhaid: %2&lt;br&gt;Cúis: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Ainm an mhod: %1&lt;br&gt;Ainm comhaid: %2&lt;br&gt;Cúis: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation>Theip ar ghiniúint meiteashonraí</translation>
+        <translation type="vanished">Theip ar ghiniúint meiteashonraí</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Níorbh fhéidir meiteashonraí a ghiniúint do na mods seo a leanas:&lt;br&gt;Ar mhaith leat leanúint ar aghaidh gan na mods sin?</translation>
+        <translation type="vanished">Níorbh fhéidir meiteashonraí a ghiniúint do na mods seo a leanas:&lt;br&gt;Ar mhaith leat leanúint ar aghaidh gan na mods sin?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation>Ag seiceáil le haghaidh nuashonruithe</translation>
+        <translation type="vanished">Ag seiceáil le haghaidh nuashonruithe</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Earráid</translation>
+        <translation type="vanished">Earráid</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>Rabhaidh</translation>
+        <translation type="vanished">Rabhaidh</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Tobscoir</translation>
+        <translation type="vanished">Tobscoir</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>Ag seiceáil le haghaidh nuashonruithe...</translation>
+        <translation type="vanished">Ag seiceáil le haghaidh nuashonruithe...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>Ainm an mhod: %1</translation>
+        <translation type="vanished">Ainm an mhod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>Cúis: %1</translation>
+        <translation type="vanished">Cúis: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>Réiteach féideartha: An leagan is déanaí a fháil de láimh:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation type="vanished">Réiteach féideartha: An leagan is déanaí a fháil de láimh:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>Theip ar sheiceáil le haghaidh nuashonruithe</translation>
+        <translation type="vanished">Theip ar sheiceáil le haghaidh nuashonruithe</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Níorbh fhéidir na mods seo a leanas a sheiceáil ná a fháil le haghaidh nuashonruithe:&lt;br&gt;Ar mhaith leat leanúint ar aghaidh gan na mods sin?</translation>
+        <translation type="vanished">Níorbh fhéidir na mods seo a leanas a sheiceáil ná a fháil le haghaidh nuashonruithe:&lt;br&gt;Ar mhaith leat leanúint ar aghaidh gan na mods sin?</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>Ag seiceáil le haghaidh spleáchais...</translation>
+        <translation type="vanished">Ag seiceáil le haghaidh spleáchais...</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>Ag lorg meiteashonraí</translation>
+        <translation type="vanished">Ag lorg meiteashonraí</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>Níl meiteashonraí ag an mod &apos;%1&apos; go fóill. Ní mór dúinn iad a ghiniúint chun faisnéis ábhartha a rianú maidir le conas an mod seo a nuashonrú. Chun seo a dhéanamh, roghnaigh soláthraí mod ar féidir linn a úsáid chun seiceáil le haghaidh nuashonruithe don mod seo.</translation>
+        <translation type="vanished">Níl meiteashonraí ag an mod &apos;%1&apos; go fóill. Ní mór dúinn iad a ghiniúint chun faisnéis ábhartha a rianú maidir le conas an mod seo a nuashonrú. Chun seo a dhéanamh, roghnaigh soláthraí mod ar féidir linn a úsáid chun seiceáil le haghaidh nuashonruithe don mod seo.</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>Ag giniúint meiteashonraí...</translation>
+        <translation type="vanished">Ag giniúint meiteashonraí...</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Níorbh fhéidir leagan bailí a aimsiú ar an soláthraí(í) mod roghnaithe</translation>
+        <translation type="vanished">Níorbh fhéidir leagan bailí a aimsiú ar an soláthraí(í) mod roghnaithe</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>Díchumasaíodh an mod mar go bhféadfadh sé a bheith suiteáilte cheana féin.</translation>
+        <translation type="vanished">Díchumasaíodh an mod mar go bhféadfadh sé a bheith suiteáilte cheana féin.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>Soláthraí: %1</translation>
+        <translation type="vanished">Soláthraí: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation>Seanleagan: %1</translation>
+        <translation type="vanished">Seanleagan: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>Gan suiteáil</translation>
+        <translation type="vanished">Gan suiteáil</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation>Leagan nua: %1</translation>
+        <translation type="vanished">Leagan nua: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>Cineál Leagan Nua: %1</translation>
+        <translation type="vanished">Cineál Leagan Nua: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>Riachtanach ag: %1</translation>
+        <translation type="vanished">Riachtanach ag: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>Riachtanach ag:</translation>
+        <translation type="vanished">Riachtanach ag:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>Log athruithe an leagan is déanaí</translation>
+        <translation type="vanished">Log athruithe an leagan is déanaí</translation>
     </message>
 </context>
 <context>
@@ -8775,11 +8775,11 @@ Nuashonraigh %1 le do thoil!</translation>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Ag ullmhú mods do Modrinth...</translation>
+        <translation type="vanished">Ag ullmhú mods do Modrinth...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Níor aimsíodh aon leagan bailí don mhod seo. Is dócha nach bhfuil sé ar fáil don leagan reatha den chluiche / don luchtóir mod.</translation>
+        <translation type="vanished">Níor aimsíodh aon leagan bailí don mhod seo. Is dócha nach bhfuil sé ar fáil don leagan reatha den chluiche / don luchtóir mod.</translation>
     </message>
 </context>
 <context>
@@ -9206,27 +9206,27 @@ Nuashonraigh %1 le do thoil!</translation>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>Cuir Cuntas leis</translation>
+        <translation type="vanished">Cuir Cuntas leis</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Ainm úsáideora</translation>
+        <translation type="vanished">Ainm úsáideora</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>Ní féidir ainmneacha úsáideora atá níos faide ná 16 charachtar a úsáid le haghaidh cluichí LAN ná freastalaithe as líne.</translation>
+        <translation type="vanished">Ní féidir ainmneacha úsáideora atá níos faide ná 16 charachtar a úsáid le haghaidh cluichí LAN ná freastalaithe as líne.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>Ceadaigh ainmneacha úsáideora fada</translation>
+        <translation type="vanished">Ceadaigh ainmneacha úsáideora fada</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cealaigh</translation>
+        <translation type="vanished">Cealaigh</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Ceart go leor</translation>
+        <translation type="vanished">Ceart go leor</translation>
     </message>
 </context>
 <context>
@@ -9266,7 +9266,7 @@ Nuashonraigh %1 le do thoil!</translation>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>Aimsigh</translation>
+        <translation type="vanished">Aimsigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -9355,31 +9355,31 @@ Nuashonraigh %1 le do thoil!</translation>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>Glan an log</translation>
+        <translation type="vanished">Glan an log</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Scrios</translation>
+        <translation type="vanished">Scrios</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>Uaslódáil an log chuig an tseirbhís greamaithe atá cumraithe sna roghanna.</translation>
+        <translation type="vanished">Uaslódáil an log chuig an tseirbhís greamaithe atá cumraithe sna roghanna.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Uaslódáil</translation>
+        <translation type="vanished">Uaslódáil</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>Glan</translation>
+        <translation type="vanished">Glan</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Athlódáil</translation>
+        <translation type="vanished">Athlódáil</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>Cuardaigh:</translation>
+        <translation type="vanished">Cuardaigh:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -9461,11 +9461,11 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>Logaí eile</translation>
+        <translation type="vanished">Logaí eile</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>Ní féidir an comhad (%1) a léamh.</translation>
+        <translation type="vanished">Ní féidir an comhad (%1) a léamh.</translation>
     </message>
 </context>
 <context>
@@ -9490,7 +9490,7 @@ An bhfuil tú cinnte?</translation>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation>Dún</translation>
+        <translation type="vanished">Dún</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -9512,28 +9512,28 @@ An bhfuil tú cinnte?</translation>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation>Ag uaslódáil chuig %1</translation>
+        <translation type="vanished">Ag uaslódáil chuig %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation>Earráid líonra: %1</translation>
+        <translation type="vanished">Earráid líonra: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>Earráid: D’fhill %1 cód stádais gan choinne %2 %3</translation>
+        <translation type="vanished">Earráid: D’fhill %1 cód stádais gan choinne %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Earráid: Thug %1 corp freagartha mífhoirmithe ar ais</translation>
+        <translation type="vanished">Earráid: Thug %1 corp freagartha mífhoirmithe ar ais</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation>Earráid: Thug %1 earráid ar ais: %2</translation>
+        <translation type="vanished">Earráid: Thug %1 earráid ar ais: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>Earráid: Thug %1 cód earráide ar ais: %2
+        <translation type="vanished">Earráid: Thug %1 cód earráide ar ais: %2
 Teachtaireacht earráide: %3</translation>
     </message>
 </context>
@@ -10200,7 +10200,7 @@ Stádas HTTP: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>Sheol an freastalaí an earráid seo a leanas:</translation>
+        <translation type="vanished">Sheol an freastalaí an earráid seo a leanas:</translation>
     </message>
 </context>
 <context>
@@ -10309,7 +10309,7 @@ Stádas HTTP: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>&amp;Réamhshocrú</translation>
+        <translation type="vanished">&amp;Réamhshocrú</translation>
     </message>
 </context>
 <context>
@@ -11259,38 +11259,38 @@ Teachtaireacht earráide: %3</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation>Níor oibrigh an comhad dénártha Java sonraithe.&lt;br /&gt;Ba chóir duit an ghné uath-bhrath a úsáid, nó an cosán chuig an gcomhad inrite Java a shocrú.&lt;br /&gt;</translation>
+        <translation type="vanished">Níor oibrigh an comhad dénártha Java sonraithe.&lt;br /&gt;Ba chóir duit an ghné uath-bhrath a úsáid, nó an cosán chuig an gcomhad inrite Java a shocrú.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Níorbh fhéidir ceadanna a shocrú do %1</translation>
+        <translation type="vanished">Níorbh fhéidir ceadanna a shocrú do %1</translation>
     </message>
     <message>
         <source>No author(s)</source>
-        <translation>Gan údar(í)</translation>
+        <translation type="vanished">Gan údar(í)</translation>
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>Cosán neamhbhailí chuig JVisualVM</translation>
+        <translation type="vanished">Cosán neamhbhailí chuig JVisualVM</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>Suíomh Gréasáin</translation>
+        <translation type="vanished">Suíomh Gréasáin</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>%1 Forbróirí</translation>
+        <translation type="vanished">%1 Forbróirí</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>Le buíochas le</translation>
+        <translation type="vanished">Le buíochas le</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Theip ar an uaslódáil</translation>
+        <translation type="vanished">Theip ar an uaslódáil</translation>
     </message>
 </context>
 <context>
@@ -11335,7 +11335,7 @@ Teachtaireacht earráide: %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>Athraigh leagan %1</translation>
+        <translation type="vanished">Athraigh leagan %1</translation>
     </message>
 </context>
 <context>
@@ -11749,13 +11749,11 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Ainm an acmhainne.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>An dáta agus an t-am a athraíodh (nó a cuireadh) an acmhainn seo go deireanach.</translation>
     </message>
     <message>
@@ -11871,14 +11869,14 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>An bhfuil an pacáiste acmhainní cumasaithe? (Bailí do chomhaid ZIP amháin)</translation>
+        <translation type="vanished">An bhfuil an pacáiste acmhainní cumasaithe? (Bailí do chomhaid ZIP amháin)</translation>
     </message>
 </context>
 <context>
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>Bearta acmhainní</translation>
+        <translation type="vanished">Bearta acmhainní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -11997,11 +11995,11 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Íoslódáil pacáistí</translation>
+        <translation type="vanished">Íoslódáil pacáistí</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Íoslódáil pacáistí acmhainní ó ardáin ar líne</translation>
+        <translation type="vanished">Íoslódáil pacáistí acmhainní ó ardáin ar líne</translation>
     </message>
 </context>
 <context>
@@ -12249,11 +12247,11 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation>Cuirfear an íoslódáil seo i: %1</translation>
+        <translation type="vanished">Cuirfear an íoslódáil seo i: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Íoslódálfar an comhad seo chuig suíomh fillteáin atá difriúil ón suíomh réamhshocraithe, b&apos;fhéidir mar gheall ar an éileamh atá air ón luchtóir.</translation>
+        <translation type="vanished">Íoslódálfar an comhad seo chuig suíomh fillteáin atá difriúil ón suíomh réamhshocraithe, b&apos;fhéidir mar gheall ar an éileamh atá air ón luchtóir.</translation>
     </message>
 </context>
 <context>
@@ -12500,7 +12498,7 @@ Leagan suiteáilte faoi láthair: %1</translation>
     </message>
     <message>
         <source>Latency</source>
-        <translation>Moill</translation>
+        <translation type="vanished">Moill</translation>
     </message>
 </context>
 <context>
@@ -12629,7 +12627,7 @@ An bhfuil tú cinnte?</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>Bearta scáilitheora</translation>
+        <translation type="vanished">Bearta scáilitheora</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -12748,11 +12746,11 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>Íoslódáil scáthóirí</translation>
+        <translation type="vanished">Íoslódáil scáthóirí</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Íoslódáil scáthóirí ó ardáin ar líne</translation>
+        <translation type="vanished">Íoslódáil scáthóirí ó ardáin ar líne</translation>
     </message>
 </context>
 <context>
@@ -13131,7 +13129,7 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Ní féidir an comhad zip modpack a cuireadh ar fáil a oscailt.</translation>
+        <translation type="vanished">Ní féidir an comhad zip modpack a cuireadh ar fáil a oscailt.</translation>
     </message>
 </context>
 <context>
@@ -13301,19 +13299,16 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>An bhfuil an pacáiste uigeachta cumasaithe?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Ainm an phacáiste uigeachta.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>An dáta agus an t-am a athraíodh (nó a cuireadh) an pacáiste uigeachta seo go deireanach.</translation>
     </message>
     <message>
@@ -13451,46 +13446,46 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Íoslódáil pacáistí</translation>
+        <translation type="vanished">Íoslódáil pacáistí</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Íoslódáil pacáistí uigeachtaí ó ardáin ar líne</translation>
+        <translation type="vanished">Íoslódáil pacáistí uigeachtaí ó ardáin ar líne</translation>
     </message>
 </context>
 <context>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>De&amp;ilbhíní</translation>
+        <translation type="vanished">De&amp;ilbhíní</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>Féach ar fhillteán téamaí deilbhíní.</translation>
+        <translation type="vanished">Féach ar fhillteán téamaí deilbhíní.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation>&amp;Giuirléidí</translation>
+        <translation type="vanished">&amp;Giuirléidí</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation>Féach ar an bhfillteán téamaí giuirléidí.</translation>
+        <translation type="vanished">Féach ar an bhfillteán téamaí giuirléidí.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Feictear an cat sa chúlra agus ní thaispeántar é de réir réamhshocraithe. Ní dhéantar é a fheiceáil ach amháin nuair a bhrúnn tú an cnaipe Cat sa Bharra Uirlisí.</translation>
+        <translation type="vanished">Feictear an cat sa chúlra agus ní thaispeántar é de réir réamhshocraithe. Ní dhéantar é a fheiceáil ach amháin nuair a bhrúnn tú an cnaipe Cat sa Bharra Uirlisí.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>C&amp;at</translation>
+        <translation type="vanished">C&amp;at</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>Féach ar fhillteán na bpacáistí cat.</translation>
+        <translation type="vanished">Féach ar fhillteán na bpacáistí cat.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation>Athnuaigh gach rud</translation>
+        <translation type="vanished">Athnuaigh gach rud</translation>
     </message>
 </context>
 <context>
@@ -13507,23 +13502,23 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>WizardPage</source>
-        <translation>LeathanachDraoi</translation>
+        <translation type="vanished">LeathanachDraoi</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>Roghnaigh an Téama is mian leat a úsáid</translation>
+        <translation type="vanished">Roghnaigh an Téama is mian leat a úsáid</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Leid: Feictear an cat sa chúlra agus ní thaispeántar é de réir réamhshocraithe. Ní dhéantar é a fheiceáil ach amháin nuair a bhrúnn tú an cnaipe Cat sa Bharra Uirlisí.</translation>
+        <translation type="vanished">Leid: Feictear an cat sa chúlra agus ní thaispeántar é de réir réamhshocraithe. Ní dhéantar é a fheiceáil ach amháin nuair a bhrúnn tú an cnaipe Cat sa Bharra Uirlisí.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation> Réamhamharc:</translation>
+        <translation type="vanished"> Réamhamharc:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>Feictear an cat sa chúlra agus níl aon chuspóir leis, is rud amhairc amháin atá ann.</translation>
+        <translation type="vanished">Feictear an cat sa chúlra agus níl aon chuspóir leis, is rud amhairc amháin atá ann.</translation>
     </message>
 </context>
 <context>
@@ -13995,7 +13990,7 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation>Scagaire:</translation>
+        <translation type="vanished">Scagaire:</translation>
     </message>
 </context>
 <context>
@@ -14438,15 +14433,15 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>Pacáistí Sonraí</translation>
+        <translation type="vanished">Pacáistí Sonraí</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>Bainistigh pacáistí sonraí laistigh den domhan.</translation>
+        <translation type="vanished">Bainistigh pacáistí sonraí laistigh den domhan.</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>Fillteán Pacáistí Sonraí Domhanda Oscailte</translation>
+        <translation type="vanished">Fillteán Pacáistí Sonraí Domhanda Oscailte</translation>
     </message>
 </context>
 <context>

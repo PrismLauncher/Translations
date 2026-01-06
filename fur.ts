@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>Clâfs API</translation>
+        <translation type="vanished">Clâfs API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,28 +88,28 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Predefinît)</translation>
+        <translation type="vanished">(Predefinît)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Inserìs achì un ID client personalizât pe autenticazion Microsoft.</translation>
+        <translation type="vanished">Inserìs achì un ID client personalizât pe autenticazion Microsoft.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>API di &amp;Modrinth</translation>
+        <translation type="vanished">API di &amp;Modrinth</translation>
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Inserìs achì un gjeton (token) API di Modrinth personalizât.</translation>
+        <translation type="vanished">Inserìs achì un gjeton (token) API di Modrinth personalizât.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Nissun)</translation>
+        <translation type="vanished">(Nissun)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>ID dal Client Technic</translation>
+        <translation type="vanished">ID dal Client Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -118,11 +118,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Inserìs achì un ID client GUID personalizât par Technic.</translation>
+        <translation type="vanished">Inserìs achì un ID client GUID personalizât par Technic.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Variis</translation>
+        <translation type="vanished">Variis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Inserìs achì un URL personalizât pai metadâts.</translation>
+        <translation type="vanished">Inserìs achì un URL personalizât pai metadâts.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>API &amp;CurseForge Core</translation>
+        <translation type="vanished">API &amp;CurseForge Core</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -170,11 +170,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Inserìs achì une clâf API personalizade par CurseForge.</translation>
+        <translation type="vanished">Inserìs achì une clâf API personalizade par CurseForge.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>APIs</translation>
+        <translation type="vanished">APIs</translation>
     </message>
 </context>
 <context>
@@ -243,7 +243,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>Impussibil vierzi lis configurazions dal pachet %1!</translation>
+        <translation type="vanished">Impussibil vierzi lis configurazions dal pachet %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -396,42 +396,42 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>No verificât</translation>
+        <translation type="vanished">No verificât</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Fûr rêt</translation>
+        <translation type="vanished">Fûr rêt</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>Pront</translation>
+        <translation type="vanished">Pront</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>In vore</translation>
+        <translation type="vanished">In vore</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Sbaliât</translation>
+        <translation type="vanished">Sbaliât</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>Scjadût</translation>
+        <translation type="vanished">Scjadût</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Lât</translation>
+        <translation type="vanished">Lât</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>No cognossût</translation>
+        <translation type="vanished">No cognossût</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -494,7 +494,7 @@
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Disativât</translation>
+        <translation type="vanished">Disativât</translation>
     </message>
 </context>
 <context>
@@ -904,7 +904,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Daûr a otignî di Mojang i files des risorsis...</translation>
+        <translation type="vanished">Daûr a otignî di Mojang i files des risorsis...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1268,11 +1268,11 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lis tôs cartelis dai discjariâts(predefinide) e des mods globâls a vegnin controladis in automatic pe presince di mods discjariadis e, se a&apos;ndi vegnin cjatadis, a vignaran copiadis te istance.&lt;/p&gt;&lt;p&gt;In mût facoltatîf, tu puedis strissinâ e molâ lis mods discjariadis su chest test o zontâ une cartele di controlâ tal câs che no tu vedis discjariât lis mods intune posizion predefinide.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lis tôs cartelis dai discjariâts(predefinide) e des mods globâls a vegnin controladis in automatic pe presince di mods discjariadis e, se a&apos;ndi vegnin cjatadis, a vignaran copiadis te istance.&lt;/p&gt;&lt;p&gt;In mût facoltatîf, tu puedis strissinâ e molâ lis mods discjariadis su chest test o zontâ une cartele di controlâ tal câs che no tu vedis discjariât lis mods intune posizion predefinide.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>Cartelis controladis:</translation>
+        <translation type="vanished">Cartelis controladis:</translation>
     </message>
 </context>
 <context>
@@ -1416,7 +1416,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>Une o plui sot-ativitâts a son falidis</translation>
+        <translation type="vanished">Une o plui sot-ativitâts a son falidis</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1659,7 +1659,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>Mods principâls</translation>
+        <translation type="vanished">Mods principâls</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -1799,22 +1799,22 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>&amp;Comants personalizâts</translation>
+        <translation type="vanished">&amp;Comants personalizâts</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>Comant daspò-&amp;jessude:</translation>
+        <translation type="vanished">Comant daspò-&amp;jessude:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Comant &amp;pre-inviament:</translation>
+        <translation type="vanished">Comant &amp;pre-inviament:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Comant dal &amp;wrapper:</translation>
+        <translation type="vanished">Comant dal &amp;wrapper:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -1847,7 +1847,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Comants personalizâts</translation>
+        <translation type="vanished">Comants personalizâts</translation>
     </message>
 </context>
 <context>
@@ -2193,7 +2193,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Daûr a controlâ se lis mods a àn metadâts...</translation>
+        <translation type="vanished">Daûr a controlâ se lis mods a àn metadâts...</translation>
     </message>
 </context>
 <context>
@@ -2218,7 +2218,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>Variabilis di &amp;Ambient</translation>
+        <translation type="vanished">Variabilis di &amp;Ambient</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2255,7 +2255,7 @@ Are you sure?</source>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>Variabilis di ambient</translation>
+        <translation type="vanished">Variabilis di ambient</translation>
     </message>
 </context>
 <context>
@@ -2327,11 +2327,11 @@ Are you sure?</source>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>&amp;Non</translation>
+        <translation type="vanished">&amp;Non</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>&amp;Version</translation>
+        <translation type="vanished">&amp;Version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2375,7 +2375,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>&amp;Autôr</translation>
+        <translation type="vanished">&amp;Autôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2560,7 +2560,7 @@ Are you sure?</source>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Filtri:</translation>
+        <translation type="vanished">Filtri:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2745,12 +2745,12 @@ Vuelistu fâlu pardabon?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>Conferme la disativazion</translation>
+        <translation type="vanished">Conferme la disativazion</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Se tu disativis cheste risorse intant che il zûc al è in esecuzion, il zûc al podarès colassâ.
+        <translation type="vanished">Se tu disativis cheste risorse intant che il zûc al è in esecuzion, il zûc al podarès colassâ.
 Vuelistu pardabon fâlu?</translation>
     </message>
     <message>
@@ -2765,47 +2765,47 @@ Vuelistu pardabon fâlu?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Zonte</translation>
+        <translation type="vanished">&amp;Zonte</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Zonte</translation>
+        <translation type="vanished">Zonte</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>Gjave l&apos;element selezionât</translation>
+        <translation type="vanished">Gjave l&apos;element selezionât</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>Ative l&apos;element selezionât</translation>
+        <translation type="vanished">Ative l&apos;element selezionât</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>Disative l&apos;element selezionât</translation>
+        <translation type="vanished">Disative l&apos;element selezionât</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>Discjame une gnove risorse</translation>
+        <translation type="vanished">Discjame une gnove risorse</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Visite il sît de mod</translation>
+        <translation type="vanished">Visite il sît de mod</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>Va ae pagjine principâl des mods</translation>
+        <translation type="vanished">Va ae pagjine principâl des mods</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
-        <translation>Prove a controlâ o a inzornâ dutis lis risorsis selezionadis (dutis se no je selezionade nissune)</translation>
+        <translation type="vanished">Prove a controlâ o a inzornâ dutis lis risorsis selezionadis (dutis se no je selezionade nissune)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>Espuarte liste mods</translation>
+        <translation type="vanished">Espuarte liste mods</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>Espuarte i metadâts de mod come test</translation>
+        <translation type="vanished">Espuarte i metadâts de mod come test</translation>
     </message>
 </context>
 <context>
@@ -2867,16 +2867,16 @@ Vuelistu pardabon fâlu?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Editôrs esternis (lasse vueit pai parametris predefinîts di sisteme)</translation>
+        <translation type="vanished">Editôrs esternis (lasse vueit pai parametris predefinîts di sisteme)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>Editôr di &amp;test:</translation>
+        <translation type="vanished">Editôr di &amp;test:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>Struments esternis</translation>
+        <translation type="vanished">Struments esternis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -2937,17 +2937,17 @@ Vuelistu pardabon fâlu?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>Eseguibil di JVisualVM</translation>
+        <translation type="vanished">Eseguibil di JVisualVM</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Erôr te verifiche de instalazion di JVisualVM:
+        <translation type="vanished">Erôr te verifiche de instalazion di JVisualVM:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>Al somee che JVisualVM al sedi configurât ben</translation>
+        <translation type="vanished">Al somee che JVisualVM al sedi configurât ben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -2974,7 +2974,7 @@ Vuelistu pardabon fâlu?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>Editôr di files JSON</translation>
+        <translation type="vanished">Editôr di files JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3084,7 +3084,7 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Note: se lis tôs istancis FTB no son tal percors predefinît, selezionilis doprant il boton dongje de ricercje.</translation>
+        <translation type="vanished">Note: se lis tôs istancis FTB no son tal percors predefinît, selezionilis doprant il boton dongje de ricercje.</translation>
     </message>
 </context>
 <context>
@@ -3139,7 +3139,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Daûr a otignî la rispueste API di CurseForge par &apos;%1&apos;...</translation>
+        <translation type="vanished">Daûr a otignî la rispueste API di CurseForge par &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3178,15 +3178,15 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Daûr a prontâ lis mods par CurseForge...</translation>
+        <translation type="vanished">Daûr a prontâ lis mods par CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nissune version valide cjatade par cheste mod. Al è probabil che no sedi disponibile pe version corinte dal zûc / dal cjariadôr di mods.</translation>
+        <translation type="vanished">Nissune version valide cjatade par cheste mod. Al è probabil che no sedi disponibile pe version corinte dal zûc / dal cjariadôr di mods.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
-        <translation>Al è disponibil un gnûf inzornament de mod, mo nol è pussibil discjariâlu doprant CurseForge.</translation>
+        <translation type="vanished">Al è disponibil un gnûf inzornament de mod, mo nol è pussibil discjariâlu doprant CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3472,11 +3472,11 @@ Par plasê, prove di gnûf.</translation>
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>Clâf</translation>
+        <translation type="vanished">Clâf</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Valôr</translation>
+        <translation type="vanished">Valôr</translation>
     </message>
 </context>
 <context>
@@ -3816,11 +3816,11 @@ Par plasê, prove di gnûf.</translation>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>&amp;Non:</translation>
+        <translation type="vanished">&amp;Non:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>&amp;Grup:</translation>
+        <translation type="vanished">&amp;Grup:</translation>
     </message>
 </context>
 <context>
@@ -3933,285 +3933,285 @@ Par plasê, prove di gnûf.</translation>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation>Vierç impostazions globâls</translation>
+        <translation type="vanished">Vierç impostazions globâls</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Lis impostazions achì a sostituissin chês globâls.</translation>
+        <translation type="vanished">Lis impostazions achì a sostituissin chês globâls.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Insta&amp;lazion Java</translation>
+        <translation type="vanished">Insta&amp;lazion Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>Rilevament automatic...</translation>
+        <translation type="vanished">Rilevament automatic...</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>Prove</translation>
+        <translation type="vanished">Prove</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Se ativât, l&apos;inviadôr nol verificarà la compatibilitât di une istance cu la version di Java selezionade.</translation>
+        <translation type="vanished">Se ativât, l&apos;inviadôr nol verificarà la compatibilitât di une istance cu la version di Java selezionade.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>Salte i controi di compatibilitât di Java</translation>
+        <translation type="vanished">Salte i controi di compatibilitât di Java</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>&amp;Memorie</translation>
+        <translation type="vanished">&amp;Memorie</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Assegnazion minime di memorie:</translation>
+        <translation type="vanished">Assegnazion minime di memorie:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>La cuantitât massime di memorie che Minecraft al pues doprâ.</translation>
+        <translation type="vanished">La cuantitât massime di memorie che Minecraft al pues doprâ.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>La cuantitât di memorie par inviâ Minecraft.</translation>
+        <translation type="vanished">La cuantitât di memorie par inviâ Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>La cuantitât di memorie disponibile par memorizâ lis classis di Java cjariadis.</translation>
+        <translation type="vanished">La cuantitât di memorie disponibile par memorizâ lis classis di Java cjariadis.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Assegnazion massime di memorie:</translation>
+        <translation type="vanished">Assegnazion massime di memorie:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Sgarfe</translation>
+        <translation type="vanished">Sgarfe</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Discjame Java</translation>
+        <translation type="vanished">Discjame Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>PermGen:</translation>
+        <translation type="vanished">PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Note: Permgen al ven configurât in automatic di Java 8 e sucessîfs</translation>
+        <translation type="vanished">Note: Permgen al ven configurât in automatic di Java 8 e sucessîfs</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Argomen&amp;ts Java</translation>
+        <translation type="vanished">Argomen&amp;ts Java</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>Barcons di zûc</translation>
+        <translation type="vanished">Barcons di zûc</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>Barcon di zûc</translation>
+        <translation type="vanished">Barcon di zûc</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Invie Minecraft slargjât al massim</translation>
+        <translation type="vanished">Invie Minecraft slargjât al massim</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation>Altece barcon:</translation>
+        <translation type="vanished">Altece barcon:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>Largjece barcon:</translation>
+        <translation type="vanished">Largjece barcon:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Impostazions de Conso&amp;le</translation>
+        <translation type="vanished">Impostazions de Conso&amp;le</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>Mostre la console intant che il zûc al è in esecuzion</translation>
+        <translation type="vanished">Mostre la console intant che il zûc al è in esecuzion</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Siere in automatic la console ae jessude dal zûc</translation>
+        <translation type="vanished">Siere in automatic la console ae jessude dal zûc</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Mostre la console cuant che il zûc al colasse</translation>
+        <translation type="vanished">Mostre la console cuant che il zûc al colasse</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Siere l&apos;inviadôr dopo che il barcon dal zûc si vierç</translation>
+        <translation type="vanished">Siere l&apos;inviadôr dopo che il barcon dal zûc si vierç</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Jes dal inviadôr dopo che il barcon dal zûc si siere</translation>
+        <translation type="vanished">Jes dal inviadôr dopo che il barcon dal zûc si siere</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>Comants personalizâts</translation>
+        <translation type="vanished">Comants personalizâts</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Variabilis di ambient</translation>
+        <translation type="vanished">Variabilis di ambient</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>Soluzions alternativis</translation>
+        <translation type="vanished">Soluzions alternativis</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>Librariis nativis</translation>
+        <translation type="vanished">Librariis nativis</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>Percors librarie &amp;GLFW</translation>
+        <translation type="vanished">Percors librarie &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>Dopre la instalazion di sisteme di GLFW</translation>
+        <translation type="vanished">Dopre la instalazion di sisteme di GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Dopre la instalazion di sisteme di OpenAL</translation>
+        <translation type="vanished">Dopre la instalazion di sisteme di OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>Mont a zuiadôr singul</translation>
+        <translation type="vanished">Mont a zuiadôr singul</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation>Passe sore al account predefinît</translation>
+        <translation type="vanished">Passe sore al account predefinît</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Account:</translation>
+        <translation type="vanished">Account:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Variis</translation>
+        <translation type="vanished">Variis</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>Percors librarie &amp;OpenAL</translation>
+        <translation type="vanished">Percors librarie &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Prestazions</translation>
+        <translation type="vanished">Prestazions</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la modalitât di zûc di Feral Interactive, pe pussibilitât di aumentâ lis prestazions di zûc.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la modalitât di zûc di Feral Interactive, pe pussibilitât di aumentâ lis prestazions di zûc.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Ative modalitât di zûc di Feral</translation>
+        <translation type="vanished">Ative modalitât di zûc di Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la soreposizion des prestazions avanzadis di MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la soreposizion des prestazions avanzadis di MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Ative MangoHud</translation>
+        <translation type="vanished">Ative MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dopre la GPU discrete al puest di chê primarie.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dopre la GPU discrete al puest di chê primarie.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Dopre GPU dedicade</translation>
+        <translation type="vanished">Dopre GPU dedicade</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Dopre Zink, un driver Mesa OpenGL che al implemente OpenGL sore Vulkan. Lis prestazions a podaressin variâ in base ae situazion. Note: se nol è presint un driver Vulkan valit, al vignarà doprât il rendering software.</translation>
+        <translation type="vanished">Dopre Zink, un driver Mesa OpenGL che al implemente OpenGL sore Vulkan. Lis prestazions a podaressin variâ in base ae situazion. Note: se nol è presint un driver Vulkan valit, al vignarà doprât il rendering software.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Dopre Zink</translation>
+        <translation type="vanished">Dopre Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Impostazions vecjis</translation>
+        <translation type="vanished">Impostazions vecjis</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Al emule la utilizazion di servizis in rêt vecjos che no funzionin plui.&lt;/p&gt;&lt;p&gt;Lis soluzions atuâls a includin: aspiet e supuart de modalitât in rêt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Al emule la utilizazion di servizis in rêt vecjos che no funzionin plui.&lt;/p&gt;&lt;p&gt;Lis soluzions atuâls a includin: aspiet e supuart de modalitât in rêt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Ative corezions in rêt (sperimentâl)</translation>
+        <translation type="vanished">Ative corezions in rêt (sperimentâl)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>Sostituìs lis impostazions globâls dal timp di zûc</translation>
+        <translation type="vanished">Sostituìs lis impostazions globâls dal timp di zûc</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>Mostre il timp passât zuiant cheste istance</translation>
+        <translation type="vanished">Mostre il timp passât zuiant cheste istance</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>Regjistre il timp passât zuiant cheste istance</translation>
+        <translation type="vanished">Regjistre il timp passât zuiant cheste istance</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>Stabilìs une destinazion dulà unîsi al inviament</translation>
+        <translation type="vanished">Stabilìs une destinazion dulà unîsi al inviament</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>Direzion servidôr:</translation>
+        <translation type="vanished">Direzion servidôr:</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Percors al file de librarie %1</translation>
+        <translation type="vanished">Percors al file de librarie %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>La modalitât di zûc di Feral Interactive no je stade cjatade tal sisteme.</translation>
+        <translation type="vanished">La modalitât di zûc di Feral Interactive no je stade cjatade tal sisteme.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud nol è stât cjatât tal sisteme.</translation>
+        <translation type="vanished">MangoHud nol è stât cjatât tal sisteme.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Selezione une version di Java</translation>
+        <translation type="vanished">Selezione une version di Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Conferme selezion</translation>
+        <translation type="vanished">Conferme selezion</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Tu âs selezionât une version di Java a 32-bit.
+        <translation type="vanished">Tu âs selezionât une version di Java a 32-bit.
 Cheste instalazion no supuarte plui di 2048MiB di RAM.
 Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Cjate l&apos;eseguibil di Java</translation>
+        <translation type="vanished">Cjate l&apos;eseguibil di Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>La tô assegnazion di memorie massime e supere la capacitât di memorie dal to sisteme.</translation>
+        <translation type="vanished">La tô assegnazion di memorie massime e supere la capacitât di memorie dal to sisteme.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>La tô assegnazion massime e je dongje de capacitât massime di memorie dal to sisteme.</translation>
+        <translation type="vanished">La tô assegnazion massime e je dongje de capacitât massime di memorie dal to sisteme.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>La tô assegnazion di memorie massime e je plui piçule dal valôr minim</translation>
+        <translation type="vanished">La tô assegnazion di memorie massime e je plui piçule dal valôr minim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4305,7 +4305,7 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation>JVisualVM inviât</translation>
+        <translation type="vanished">JVisualVM inviât</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -4332,15 +4332,15 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Daûr a tirâ fûr Java (l&apos;avanzament nol è visibil pai archivis tar)</translation>
+        <translation type="vanished">Daûr a tirâ fûr Java (l&apos;avanzament nol è visibil pai archivis tar)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation>Impussibil vierzi il file tar furnît.</translation>
+        <translation type="vanished">Impussibil vierzi il file tar furnît.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Impussibil estrai il file tar furnît.</translation>
+        <translation type="vanished">Impussibil estrai il file tar furnît.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -4354,7 +4354,7 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation>Impussibil determinâ il gjenar di archivi!</translation>
+        <translation type="vanished">Impussibil determinâ il gjenar di archivi!</translation>
     </message>
 </context>
 <context>
@@ -4460,70 +4460,70 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>Memorie</translation>
+        <translation type="vanished">Memorie</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>La cuantitât massime di memorie che Minecraft al pues doprâ.</translation>
+        <translation type="vanished">La cuantitât massime di memorie che Minecraft al pues doprâ.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>Assegnazion &amp;minime di memorie:</translation>
+        <translation type="vanished">Assegnazion &amp;minime di memorie:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>Assegnazion ma&amp;ssime di memorie:</translation>
+        <translation type="vanished">Assegnazion ma&amp;ssime di memorie:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>&amp;PermGen:</translation>
+        <translation type="vanished">&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>La cuantitât di memorie par inviâ Minecraft.</translation>
+        <translation type="vanished">La cuantitât di memorie par inviâ Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>La cuantitât di memorie disponibile par memorizâ lis classis di Java cjariadis.</translation>
+        <translation type="vanished">La cuantitât di memorie disponibile par memorizâ lis classis di Java cjariadis.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Runtime Java</translation>
+        <translation type="vanished">Runtime Java</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>Parametris JVM:</translation>
+        <translation type="vanished">Parametris JVM:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Al selezione in automatic la version di Java compatibile cu la istance Minecraft corinte, in base ae version principâl domandade.</translation>
+        <translation type="vanished">Al selezione in automatic la version di Java compatibile cu la istance Minecraft corinte, in base ae version principâl domandade.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Auto-rileve la version di Java</translation>
+        <translation type="vanished">Auto-rileve la version di Java</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Percors di &amp;Java:</translation>
+        <translation type="vanished">Percors di &amp;Java:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>Discjame e selezione in automatic la version di Java conseade di Mojang.</translation>
+        <translation type="vanished">Discjame e selezione in automatic la version di Java conseade di Mojang.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Auto-discjame Java di Mojang</translation>
+        <translation type="vanished">Auto-discjame Java di Mojang</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>Gjestion</translation>
+        <translation type="vanished">Gjestion</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>Versions di Java discjariadis</translation>
+        <translation type="vanished">Versions di Java discjariadis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -4548,33 +4548,33 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>&amp;Auto-rileve...</translation>
+        <translation type="vanished">&amp;Auto-rileve...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>&amp;Verifiche</translation>
+        <translation type="vanished">&amp;Verifiche</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Sgarfe</translation>
+        <translation type="vanished">Sgarfe</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Se ativât, l&apos;inviadôr no ti domandarà di sielzi une version di Java, tal câs che no&apos;ndi cjati une.</translation>
+        <translation type="vanished">Se ativât, l&apos;inviadôr no ti domandarà di sielzi une version di Java, tal câs che no&apos;ndi cjati une.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Salte procedure &amp;vuidade di Java</translation>
+        <translation type="vanished">Salte procedure &amp;vuidade di Java</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Se ativât, l&apos;inviadôr nol verificarà la compatibilitât di une istance cu la version di Java selezionade.</translation>
+        <translation type="vanished">Se ativât, l&apos;inviadôr nol verificarà la compatibilitât di une istance cu la version di Java selezionade.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>&amp;Salte i controi di compatibilitât Java</translation>
+        <translation type="vanished">&amp;Salte i controi di compatibilitât Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
@@ -4590,35 +4590,35 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Selezione ue version di Java</translation>
+        <translation type="vanished">Selezione ue version di Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Conferme selezion</translation>
+        <translation type="vanished">Conferme selezion</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Tu âs selezionât une version a 32-bit di Java.
+        <translation type="vanished">Tu âs selezionât une version a 32-bit di Java.
 Cheste instalazion no supuarte plui di 2048MiB di RAM.
 Par plasê controle che il valôr massim di memorie al sedi plui piçul.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Cjate l&apos;eseguibil di Java</translation>
+        <translation type="vanished">Cjate l&apos;eseguibil di Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>La tô assegnazion massime di memorie e supere la capacitât di memorie dal to sisteme.</translation>
+        <translation type="vanished">La tô assegnazion massime di memorie e supere la capacitât di memorie dal to sisteme.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>La tô assegnazion massime di memorie e je dongje ae capacitât di memorie dal to sisteme.</translation>
+        <translation type="vanished">La tô assegnazion massime di memorie e je dongje ae capacitât di memorie dal to sisteme.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>La tô assegnazion massime di memorie e je plui piçule dal valôr minim</translation>
+        <translation type="vanished">La tô assegnazion massime di memorie e je plui piçule dal valôr minim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -4642,15 +4642,15 @@ Gjavâle pardabon?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Nissune version di Java selezionade</translation>
+        <translation type="vanished">Nissune version di Java selezionade</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Discjame Java</translation>
+        <translation type="vanished">Discjame Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>Rilevât Java a 32-bit</translation>
+        <translation type="vanished">Rilevât Java a 32-bit</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -4659,7 +4659,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Tu âs selezionade une instalazion di Java a 32-bit, ma tu âs assegnât plui di 2048MiB come memorie masisme.
+        <translation type="vanished">Tu âs selezionade une instalazion di Java a 32-bit, ma tu âs assegnât plui di 2048MiB come memorie masisme.
 %1 nol rivarà a inviâ Minecraft.
 Desideristu continuâ?
 
@@ -4673,7 +4673,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>O no tu âs selezionât une version di Java o tu&apos;nd âs selezionade une che no funzione.
+        <translation type="vanished">O no tu âs selezionât une version di Java o tu&apos;nd âs selezionade une che no funzione.
 %1 nol rivarà a inviâ Minecraft.
 Desideristu continuâ cence une version di Java che e funzioni?
 
@@ -4687,7 +4687,7 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
     </message>
     <message>
         <source>Memory</source>
-        <translation>Memorie</translation>
+        <translation type="vanished">Memorie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -4696,7 +4696,7 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Assegnazion minime di memorie:</translation>
+        <translation type="vanished">Assegnazion minime di memorie:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -4802,7 +4802,7 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Assegnazion massime di memorie:</translation>
+        <translation type="vanished">Assegnazion massime di memorie:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -4841,19 +4841,19 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
     </message>
     <message>
         <source>Browse</source>
-        <translation>Sgarfe</translation>
+        <translation type="vanished">Sgarfe</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Auto-discjame Java di Mojang</translation>
+        <translation type="vanished">Auto-discjame Java di Mojang</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Auto-rileve la version di Java</translation>
+        <translation type="vanished">Auto-rileve la version di Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>Auto-rileve Java</translation>
+        <translation type="vanished">Auto-rileve Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -4891,15 +4891,15 @@ Verifiche che il valôr massim di memorie al sedi plui piçul.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>La tô assegnazion massime di memorie e je dongje de capacitât di memorie dal to sisteme.</translation>
+        <translation type="vanished">La tô assegnazion massime di memorie e je dongje de capacitât di memorie dal to sisteme.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>LA tô assegnazion massime di memorie e je plui piçule dal valôr minim</translation>
+        <translation type="vanished">LA tô assegnazion massime di memorie e je plui piçule dal valôr minim</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Tu stâs superant la assegnazion massime supuartade des instalazions a 32-bit di Java.</translation>
+        <translation type="vanished">Tu stâs superant la assegnazion massime supuartade des instalazions a 32-bit di Java.</translation>
     </message>
 </context>
 <context>
@@ -5153,7 +5153,7 @@ Desideristu zuiâ ae dimostrazion?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>Invie fûr rêt</translation>
+        <translation type="vanished">Invie fûr rêt</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
@@ -5172,7 +5172,7 @@ Desideristu zuiâ ae dimostrazion?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>L&apos;account nol esist plui sui servidôrs. Al è pussibil che al sedi stât migrât, in chest câs par plasê zonte il gnûf account là che al è stât migrât chel achì.</translation>
+        <translation type="vanished">L&apos;account nol esist plui sui servidôrs. Al è pussibil che al sedi stât migrât, in chest câs par plasê zonte il gnûf account là che al è stât migrât chel achì.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -5263,7 +5263,7 @@ Desideristu zuiâ ae dimostrazion?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>La identificazion dal client dal inviadôr e je cambiade. Gjave chest account e zontilu di gnûf.</translation>
+        <translation type="vanished">La identificazion dal client dal inviadôr e je cambiade. Gjave chest account e zontilu di gnûf.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
@@ -5288,7 +5288,7 @@ Desideristu zuiâ ae dimostrazion?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>L&apos;account al è scjadût e al covente tornâ a jentrâi a man.</translation>
+        <translation type="vanished">L&apos;account al è scjadût e al covente tornâ a jentrâi a man.</translation>
     </message>
 </context>
 <context>
@@ -5329,11 +5329,11 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>Funzionalitâts</translation>
+        <translation type="vanished">Funzionalitâts</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>Inzorne impostazions</translation>
+        <translation type="vanished">Inzorne impostazions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -5384,11 +5384,11 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>Controle la cartele dai discjariâts in mût ricorsîf</translation>
+        <translation type="vanished">Controle la cartele dai discjariâts in mût ricorsîf</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>Disative la gjestion automatiche des dipendencis des mods</translation>
+        <translation type="vanished">Disative la gjestion automatiche des dipendencis des mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
@@ -5397,7 +5397,7 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>Modalitât ordenament viodude istancis</translation>
+        <translation type="vanished">Modalitât ordenament viodude istancis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -5412,23 +5412,23 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     </message>
     <message>
         <source>Theme</source>
-        <translation>Teme</translation>
+        <translation type="vanished">Teme</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation>Mods</translation>
+        <translation type="vanished">Mods</translation>
     </message>
     <message>
         <source>Update interval</source>
-        <translation>Dade pai inzornaments</translation>
+        <translation type="vanished">Dade pai inzornaments</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>Met a 0 par controlâ nome al inviament</translation>
+        <translation type="vanished">Met a 0 par controlâ nome al inviament</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>h</translation>
+        <translation type="vanished">h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
@@ -5562,12 +5562,12 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>Disative la utilizazion dai metadâts dâts dai furnidôrs di mods (come Modrinth o CurseForge) pes mods.</translation>
+        <translation type="vanished">Disative la utilizazion dai metadâts dâts dai furnidôrs di mods (come Modrinth o CurseForge) pes mods.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>Disative la utilizazion dai metadâts pes mods</translation>
+        <translation type="vanished">Disative la utilizazion dai metadâts pes mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -5578,27 +5578,27 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Disative rilevament, instalazion e inzornament automatic des dipendencis des mods.</translation>
+        <translation type="vanished">Disative rilevament, instalazion e inzornament automatic des dipendencis des mods.</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Cuant che e ven creade une gnove istance di modpack, no sta sugjerî di inzornâ lis istancis esistentis.</translation>
+        <translation type="vanished">Cuant che e ven creade une gnove istance di modpack, no sta sugjerî di inzornâ lis istancis esistentis.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>Salte la domande di inzornament dal modpack</translation>
+        <translation type="vanished">Salte la domande di inzornament dal modpack</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Variis</translation>
+        <translation type="vanished">Variis</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>Numar di ativitâts in contemporanie</translation>
+        <translation type="vanished">Numar di ativitâts in contemporanie</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>Numar di discjariaments in contemporanie</translation>
+        <translation type="vanished">Numar di discjariaments in contemporanie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -5607,7 +5607,7 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>Scjadince pes domandis HTTP</translation>
+        <translation type="vanished">Scjadince pes domandis HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -5616,27 +5616,27 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>Numar di tentatîfs manuâi</translation>
+        <translation type="vanished">Numar di tentatîfs manuâi</translation>
     </message>
     <message>
         <source>Cat</source>
-        <translation>Gjat</translation>
+        <translation type="vanished">Gjat</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Stabilìs la opacitât dal gjat. 0% al è trasparent dal dut e 100% al è opac dal dut.</translation>
+        <translation type="vanished">Stabilìs la opacitât dal gjat. 0% al è trasparent dal dut e 100% al è opac dal dut.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Opacitât</translation>
+        <translation type="vanished">Opacitât</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Struments</translation>
+        <translation type="vanished">Struments</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -5691,27 +5691,27 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>Impostazions de console</translation>
+        <translation type="vanished">Impostazions de console</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Mostre la console intant che il zûc al è in esecuzion</translation>
+        <translation type="vanished">Mostre la console intant che il zûc al è in esecuzion</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>Siere in &amp;automatic la console ae jessude dal zûc</translation>
+        <translation type="vanished">Siere in &amp;automatic la console ae jessude dal zûc</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Mostre la console cuant che il zûc al &amp;colasse</translation>
+        <translation type="vanished">Mostre la console cuant che il zûc al &amp;colasse</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>Limit &amp;cronologjie</translation>
+        <translation type="vanished">Limit &amp;cronologjie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -5727,7 +5727,7 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>Ca&amp;ratar de console</translation>
+        <translation type="vanished">Ca&amp;ratar de console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -5791,31 +5791,31 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Prove/ERÔR] OOoooOOOoooo! Un erôr spaventôs!</translation>
+        <translation type="vanished">[Prove/ERÔR] OOoooOOOoooo! Un erôr spaventôs!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Prove/ERÔR] Un erôr spaventôs!</translation>
+        <translation type="vanished">[Prove/ERÔR] Un erôr spaventôs!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[Prove/AVERTIMENT] Un avîs no masse spaventôs.</translation>
+        <translation type="vanished">[Prove/AVERTIMENT] Un avîs no masse spaventôs.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Prove/DEBUG] Un messaç segret di debug...</translation>
+        <translation type="vanished">[Prove/DEBUG] Un messaç segret di debug...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Prove/FATÂL] Un erôr fatâl terificant!</translation>
+        <translation type="vanished">[Prove/FATÂL] Un erôr fatâl terificant!</translation>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Prove/INFO] Un messaç inocui...</translation>
+        <translation type="vanished">[Prove/INFO] Un messaç inocui...</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Inviadôr</translation>
+        <translation type="vanished">Inviadôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -5919,7 +5919,7 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>Impussibil vierzi il file modpack %1!</translation>
+        <translation type="vanished">Impussibil vierzi il file modpack %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -6074,12 +6074,12 @@ Motîf:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>Daûr a inzornâ la tabele pal mod:
+        <translation type="vanished">Daûr a inzornâ la tabele pal mod:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>Metadâts no valits</translation>
+        <translation type="vanished">Metadâts no valits</translation>
     </message>
 </context>
 <context>
@@ -6151,7 +6151,7 @@ Motîf:
     </message>
     <message>
         <source>Search:</source>
-        <translation>Cîr:</translation>
+        <translation type="vanished">Cîr:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -6248,7 +6248,7 @@ Motîf:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>Impussibil creâ:</translation>
+        <translation type="vanished">Impussibil creâ:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -6265,7 +6265,7 @@ Motîf:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>Impussibil vierzi il file zip furnît.</translation>
+        <translation type="vanished">Impussibil vierzi il file zip furnît.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -6284,7 +6284,7 @@ Motîf:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>Impussibil cirî il prin file tal zip</translation>
+        <translation type="vanished">Impussibil cirî il prin file tal zip</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -6298,7 +6298,7 @@ Motîf:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Impussibil risolvi i permès par %1</translation>
+        <translation type="vanished">Impussibil risolvi i permès par %1</translation>
     </message>
 </context>
 <context>
@@ -6395,11 +6395,11 @@ Motîf:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>Vierç %1 o scansione il codiç QR e inserìs il codiç parsore.</translation>
+        <translation type="vanished">Vierç %1 o scansione il codiç QR e inserìs il codiç parsore.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>Vierç %1 e inserìs il codiç parsore.</translation>
+        <translation type="vanished">Vierç %1 e inserìs il codiç parsore.</translation>
     </message>
 </context>
 <context>
@@ -6926,7 +6926,7 @@ Motîf:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Al cree une scurte sul to scritori par inviâ la istance selezionade.</translation>
+        <translation type="vanished">Al cree une scurte sul to scritori par inviâ la istance selezionade.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
@@ -7123,14 +7123,14 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Tu stâs par eliminâ &quot;%1&quot;.
+        <translation type="vanished">Tu stâs par eliminâ &quot;%1&quot;.
 Al è pussibil che cheste operazion e sedi permanente e che e elimini dal dut la istance.
 
 Eliminâ pardabon?</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>A son istancis colegadis</translation>
+        <translation type="vanished">A son istancis colegadis</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -7140,7 +7140,7 @@ Eliminâ pardabon?</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>Cheste istance e podarès fâ riferiment ai files in cheste istance:
 
 %1
@@ -7159,43 +7159,43 @@ Desideristu continuâ?</numerusform>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>Cree scurte de istance</translation>
+        <translation type="vanished">Cree scurte de istance</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Impussibil cjatâ il scritori?!</translation>
+        <translation type="vanished">Impussibil cjatâ il scritori?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>L&apos;inviadôr al è te cartele di dulà che al è stât estrat, duncje nol pues creâ scurtis.</translation>
+        <translation type="vanished">L&apos;inviadôr al è te cartele di dulà che al è stât estrat, duncje nol pues creâ scurtis.</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Cree aplicazion de istance</translation>
+        <translation type="vanished">Cree aplicazion de istance</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>Impussibil creâ la icone pe aplicazion.</translation>
+        <translation type="vanished">Impussibil creâ la icone pe aplicazion.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>Vôs di Scritori</translation>
+        <translation type="vanished">Vôs di Scritori</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>E je stade creade une scurte a cheste istance sul to scritori!</translation>
+        <translation type="vanished">E je stade creade une scurte a cheste istance sul to scritori!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>E je stade creade une scurte a cheste istance!</translation>
+        <translation type="vanished">E je stade creade une scurte a cheste istance!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>Impussibil creâ la scurte de istance!</translation>
+        <translation type="vanished">Impussibil creâ la scurte de istance!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>L&apos;inviadôr staial zirant come AppImage mal configurade? (e mancje la variabile di ambient $APPIMAGE)</translation>
+        <translation type="vanished">L&apos;inviadôr staial zirant come AppImage mal configurade? (e mancje la variabile di ambient $APPIMAGE)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -7242,11 +7242,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Impussibil creâ une icone pe scurte.</translation>
+        <translation type="vanished">Impussibil creâ une icone pe scurte.</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>No supuartât te tô plateforme!</translation>
+        <translation type="vanished">No supuartât te tô plateforme!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -7290,7 +7290,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>More news...</source>
-        <translation>Altris novitâts...</translation>
+        <translation type="vanished">Altris novitâts...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7317,11 +7317,11 @@ Are you sure?</source>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation>Informazion pachet</translation>
+        <translation type="vanished">Informazion pachet</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>Non dal pachet:</translation>
+        <translation type="vanished">Non dal pachet:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -7360,7 +7360,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>Inzorne di file</translation>
+        <translation type="vanished">Inzorne di file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -7423,7 +7423,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     </message>
     <message>
         <source>Update pack</source>
-        <translation>Inzorne pachet</translation>
+        <translation type="vanished">Inzorne pachet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -7591,134 +7591,134 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation>Dimension dal barcon</translation>
+        <translation type="vanished">Dimension dal barcon</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>Invie Minecraft &amp;slargjât</translation>
+        <translation type="vanished">Invie Minecraft &amp;slargjât</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>&amp;Altece barcon:</translation>
+        <translation type="vanished">&amp;Altece barcon:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>&amp;Largjece barcon:</translation>
+        <translation type="vanished">&amp;Largjece barcon:</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>Mostre il timp passât a zuiâ in oris</translation>
+        <translation type="vanished">Mostre il timp passât a zuiâ in oris</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>Justaments</translation>
+        <translation type="vanished">Justaments</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Impostazions vecjis</translation>
+        <translation type="vanished">Impostazions vecjis</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Al emule la utilizazion di servizis in rêt vecjos che no funzionin plui.&lt;/p&gt;&lt;p&gt;Lis soluzions atuâls a includin: aspiet e supuart de modalitât in rêt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Al emule la utilizazion di servizis in rêt vecjos che no funzionin plui.&lt;/p&gt;&lt;p&gt;Lis soluzions atuâls a includin: aspiet e supuart de modalitât in rêt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Ative corezions in rêt (sperimentâl)</translation>
+        <translation type="vanished">Ative corezions in rêt (sperimentâl)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>Soluzions alternativis pes librariis nativis</translation>
+        <translation type="vanished">Soluzions alternativis pes librariis nativis</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>Dopre la instalazion di sisteme di &amp;GLFW</translation>
+        <translation type="vanished">Dopre la instalazion di sisteme di &amp;GLFW</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>Percors librarie &amp;GLFW</translation>
+        <translation type="vanished">Percors librarie &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Dopre la instalazion di sisteme di &amp;OpenAL</translation>
+        <translation type="vanished">Dopre la instalazion di sisteme di &amp;OpenAL</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>Percors librarie &amp;OpenAL</translation>
+        <translation type="vanished">Percors librarie &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Prestazions</translation>
+        <translation type="vanished">Prestazions</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la modalitât di zûc di Feral Interactive, pe pussibilitât di aumentâ lis prestazions di zûc.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la modalitât di zûc di Feral Interactive, pe pussibilitât di aumentâ lis prestazions di zûc.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Ative modalitât di zûc di Feral</translation>
+        <translation type="vanished">Ative modalitât di zûc di Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la soreposizion des prestazions avanzadis di MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la soreposizion des prestazions avanzadis di MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Ative MangoHud</translation>
+        <translation type="vanished">Ative MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dopre la GPU discrete al puest di chê primarie.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dopre la GPU discrete al puest di chê primarie.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Dopre GPU dedicade</translation>
+        <translation type="vanished">Dopre GPU dedicade</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dopre Zink, un driver OpenGL Mesa che al implemente OpenGL sore di Vulkan. Lis prestazions a podaressin variâ in base ae situazion. Note: se nol ven cjatât un driver Vulkan adat, al vignarà doprât il rendering software.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dopre Zink, un driver OpenGL Mesa che al implemente OpenGL sore di Vulkan. Lis prestazions a podaressin variâ in base ae situazion. Note: se nol ven cjatât un driver Vulkan adat, al vignarà doprât il rendering software.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Dopre Zink</translation>
+        <translation type="vanished">Dopre Zink</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>Timp di zûc</translation>
+        <translation type="vanished">Timp di zûc</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Gjenerâl</translation>
+        <translation type="vanished">Gjenerâl</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Mostre il timp passât a &amp;zuiâ tes istancis</translation>
+        <translation type="vanished">Mostre il timp passât a &amp;zuiâ tes istancis</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Mostre il timp passât a zuiâ a &amp;dutis lis istancis</translation>
+        <translation type="vanished">Mostre il timp passât a zuiâ a &amp;dutis lis istancis</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>&amp;Regjistre il timp passât a zuiâ tes istancis</translation>
+        <translation type="vanished">&amp;Regjistre il timp passât a zuiâ tes istancis</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;L&apos;inviadôr si sierarà in automatic ae jessude dal zûc o tal câs di un colàs.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;L&apos;inviadôr si sierarà in automatic ae jessude dal zûc o tal câs di un colàs.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>&amp;Siere l&apos;inviadôr dopo che il barcon di zûc si siere</translation>
+        <translation type="vanished">&amp;Siere l&apos;inviadôr dopo che il barcon di zûc si siere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -7727,33 +7727,33 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Variis</translation>
+        <translation type="vanished">Variis</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;L&apos;inviadôr al tornarà a vierzisi ae jessude dal zûc o tal câs di un colàs dal zûc.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;L&apos;inviadôr al tornarà a vierzisi ae jessude dal zûc o tal câs di un colàs dal zûc.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>&amp;Siere l&apos;inviadôr dopo che il barcon dal zûc si vierç</translation>
+        <translation type="vanished">&amp;Siere l&apos;inviadôr dopo che il barcon dal zûc si vierç</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Percors al file de librarie %1</translation>
+        <translation type="vanished">Percors al file de librarie %1</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>Percors rilevât in automatic: %1</translation>
+        <translation type="vanished">Percors rilevât in automatic: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>La modalitât di zûc di Feral Interactive no je stade cjatade tal sisteme.</translation>
+        <translation type="vanished">La modalitât di zûc di Feral Interactive no je stade cjatade tal sisteme.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud nol è stât cjatât tal sisteme.</translation>
+        <translation type="vanished">MangoHud nol è stât cjatât tal sisteme.</translation>
     </message>
 </context>
 <context>
@@ -8449,11 +8449,11 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>No cognossût</translation>
+        <translation type="vanished">No cognossût</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Di dulà che e je stade discjariade la mod.</translation>
+        <translation type="vanished">Di dulà che e je stade discjariade la mod.</translation>
     </message>
 </context>
 <context>
@@ -8497,7 +8497,7 @@ Desideristu pardabon fâlu?</translation>
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>Par plasê, prime instale un cjariadôr di mods!</translation>
+        <translation type="vanished">Par plasê, prime instale un cjariadôr di mods!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -8623,55 +8623,55 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Download mods</source>
-        <translation>Discjame mods</translation>
+        <translation type="vanished">Discjame mods</translation>
     </message>
     <message>
         <source>Add file</source>
-        <translation>Zonte file</translation>
+        <translation type="vanished">Zonte file</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>Zonte un file discjariât in locâl</translation>
+        <translation type="vanished">Zonte un file discjariât in locâl</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>Verifiche dipendencis</translation>
+        <translation type="vanished">Verifiche dipendencis</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>Prove a inzornâ e a controlâ dipendencis che a mancjin, su dutis lis mods selezionadis (dutis lis mods se no ven selezionade nissune),</translation>
+        <translation type="vanished">Prove a inzornâ e a controlâ dipendencis che a mancjin, su dutis lis mods selezionadis (dutis lis mods se no ven selezionade nissune),</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation>Ripristine metadâts dai inzornaments</translation>
+        <translation type="vanished">Ripristine metadâts dai inzornaments</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Gjave metadâts de mod</translation>
+        <translation type="vanished">Gjave metadâts de mod</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>Va ae pagjine principâl de mod</translation>
+        <translation type="vanished">Va ae pagjine principâl de mod</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Cambie version</translation>
+        <translation type="vanished">Cambie version</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>Cambie la version de mod</translation>
+        <translation type="vanished">Cambie la version de mod</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Visite il sît de mod</translation>
+        <translation type="vanished">Visite il sît de mod</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation>Visite lis pagjinis des mods</translation>
+        <translation type="vanished">Visite lis pagjinis des mods</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>Va aes pagjinis des mods selezionadis</translation>
+        <translation type="vanished">Va aes pagjinis des mods selezionadis</translation>
     </message>
 </context>
 <context>
@@ -8696,124 +8696,124 @@ Gjavâ pardabon?</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>Confermâ lis mods di inzornâ</translation>
+        <translation type="vanished">Confermâ lis mods di inzornâ</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>Tu stâs par inzornâ chestis mods:</translation>
+        <translation type="vanished">Tu stâs par inzornâ chestis mods:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>Dome lis mods cuntun segn a vignaran inzornadis!</translation>
+        <translation type="vanished">Dome lis mods cuntun segn a vignaran inzornadis!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Non mod: %1&lt;br&gt;Non file: %2&lt;br&gt;Motîf: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Non mod: %1&lt;br&gt;Non file: %2&lt;br&gt;Motîf: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation>Gjenerazion metadâts falide</translation>
+        <translation type="vanished">Gjenerazion metadâts falide</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Impussibil gjenerâ metadâts par chestis mods:&lt;br&gt;Desideristu continuâ cence chestis mods?</translation>
+        <translation type="vanished">Impussibil gjenerâ metadâts par chestis mods:&lt;br&gt;Desideristu continuâ cence chestis mods?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation>Control dai inzornaments</translation>
+        <translation type="vanished">Control dai inzornaments</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Erôr</translation>
+        <translation type="vanished">Erôr</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>Avîs</translation>
+        <translation type="vanished">Avîs</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Interomp</translation>
+        <translation type="vanished">Interomp</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>Verifiche presince inzornaments...</translation>
+        <translation type="vanished">Verifiche presince inzornaments...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>Non mod: %1</translation>
+        <translation type="vanished">Non mod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>Motîf: %1</translation>
+        <translation type="vanished">Motîf: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>Soluzion pussibile: otignî a man la ultime version:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation type="vanished">Soluzion pussibile: otignî a man la ultime version:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>Control inzornaments falît</translation>
+        <translation type="vanished">Control inzornaments falît</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Nol è stât pussibil controlâ o discjariâ chestis mods pai inzornaments:&lt;br&gt;Desideristu continuâ cence chestis mods?</translation>
+        <translation type="vanished">Nol è stât pussibil controlâ o discjariâ chestis mods pai inzornaments:&lt;br&gt;Desideristu continuâ cence chestis mods?</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>Control des dipendencis...</translation>
+        <translation type="vanished">Control des dipendencis...</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>Daûr a cirî i metadâts</translation>
+        <translation type="vanished">Daûr a cirî i metadâts</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>La mod &apos;%1&apos; no à ancjemò metadâts. O scugnìn gjenerâju par podê tignî di voli lis informazions pertinente su cemût inzornâ cheste mod. Par fâlu, selezione un furnidôr di mods che o podìn doprâ par controlâ i inzornaments di cheste mod.</translation>
+        <translation type="vanished">La mod &apos;%1&apos; no à ancjemò metadâts. O scugnìn gjenerâju par podê tignî di voli lis informazions pertinente su cemût inzornâ cheste mod. Par fâlu, selezione un furnidôr di mods che o podìn doprâ par controlâ i inzornaments di cheste mod.</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>Daûr a gjenerâ metadâts...</translation>
+        <translation type="vanished">Daûr a gjenerâ metadâts...</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Nol è stât pussibil cjatâ une version valide sui furnidôrs di mods selezionâts</translation>
+        <translation type="vanished">Nol è stât pussibil cjatâ une version valide sui furnidôrs di mods selezionâts</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>La mod e je stade disativade parcè che e podarès jessi za instalade.</translation>
+        <translation type="vanished">La mod e je stade disativade parcè che e podarès jessi za instalade.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>Furnidôr: %1</translation>
+        <translation type="vanished">Furnidôr: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation>Version vecje: %1</translation>
+        <translation type="vanished">Version vecje: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>No instalât</translation>
+        <translation type="vanished">No instalât</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation>Gnove version: %1</translation>
+        <translation type="vanished">Gnove version: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>Gnûf gjenar di version: %1</translation>
+        <translation type="vanished">Gnûf gjenar di version: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>Domandât di: %1</translation>
+        <translation type="vanished">Domandât di: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>Domandât di:</translation>
+        <translation type="vanished">Domandât di:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>Regjistri modifichis de ultime version</translation>
+        <translation type="vanished">Regjistri modifichis de ultime version</translation>
     </message>
 </context>
 <context>
@@ -8877,11 +8877,11 @@ Inzorne %1!</translation>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Daûr a prontâ lis mods par Modrinth...</translation>
+        <translation type="vanished">Daûr a prontâ lis mods par Modrinth...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nissune version valide cjatade par cheste mod. Al è probabil che no sedi disponibile pe version corinte dal zûc / dal cjariadôr di mods.</translation>
+        <translation type="vanished">Nissune version valide cjatade par cheste mod. Al è probabil che no sedi disponibile pe version corinte dal zûc / dal cjariadôr di mods.</translation>
     </message>
 </context>
 <context>
@@ -9308,27 +9308,27 @@ Inzorne %1!</translation>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>Zonte account</translation>
+        <translation type="vanished">Zonte account</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Non utent</translation>
+        <translation type="vanished">Non utent</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>Nol è pussibil doprâ nons utent plui luncs di 16 caratars tes partidis in LAN o tai servidôrs in modalitât fûr rêt.</translation>
+        <translation type="vanished">Nol è pussibil doprâ nons utent plui luncs di 16 caratars tes partidis in LAN o tai servidôrs in modalitât fûr rêt.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>Permet nons utent luncs</translation>
+        <translation type="vanished">Permet nons utent luncs</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anule</translation>
+        <translation type="vanished">Anule</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Va ben</translation>
+        <translation type="vanished">Va ben</translation>
     </message>
 </context>
 <context>
@@ -9368,7 +9368,7 @@ Inzorne %1!</translation>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>Cjate</translation>
+        <translation type="vanished">Cjate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -9457,31 +9457,31 @@ Inzorne %1!</translation>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>Nete il regjistri</translation>
+        <translation type="vanished">Nete il regjistri</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Elimine</translation>
+        <translation type="vanished">Elimine</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>Cjame il rêt il regjistri sul servizi di condivision notis configurât tes preferencis.</translation>
+        <translation type="vanished">Cjame il rêt il regjistri sul servizi di condivision notis configurât tes preferencis.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Cjame in rêt</translation>
+        <translation type="vanished">Cjame in rêt</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>Nete</translation>
+        <translation type="vanished">Nete</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Torne cjame</translation>
+        <translation type="vanished">Torne cjame</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>Cîr:</translation>
+        <translation type="vanished">Cîr:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -9502,7 +9502,7 @@ Inzorne %1!</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>Impussibil lei il file %1.</translation>
+        <translation type="vanished">Impussibil lei il file %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="379"/>
@@ -9567,7 +9567,7 @@ Eliminâ pardabon?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>Altris regjistris</translation>
+        <translation type="vanished">Altris regjistris</translation>
     </message>
 </context>
 <context>
@@ -9592,7 +9592,7 @@ Eliminâ pardabon?</translation>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation>Siere</translation>
+        <translation type="vanished">Siere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -9614,28 +9614,28 @@ Eliminâ pardabon?</translation>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation>Daûr a cjamâ su %1</translation>
+        <translation type="vanished">Daûr a cjamâ su %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation>Erôr di rêt: %1</translation>
+        <translation type="vanished">Erôr di rêt: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>Erôr: %1 al à tornât il codiç di stât inspietât %2 %3</translation>
+        <translation type="vanished">Erôr: %1 al à tornât il codiç di stât inspietât %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Erôr: %1 al à tornât un cuarp di rispueste malformât</translation>
+        <translation type="vanished">Erôr: %1 al à tornât un cuarp di rispueste malformât</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation>Erôr: %1 al à tornât un erôr: %2</translation>
+        <translation type="vanished">Erôr: %1 al à tornât un erôr: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>Erôr: %1 al à tornât un codiç di erôr: %2
+        <translation type="vanished">Erôr: %1 al à tornât un codiç di erôr: %2
 Messaç dal erôr: %3</translation>
     </message>
 </context>
@@ -10302,7 +10302,7 @@ Stât HTTP: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>Il servidôr al à tornât chest erôr:</translation>
+        <translation type="vanished">Il servidôr al à tornât chest erôr:</translation>
     </message>
 </context>
 <context>
@@ -10355,7 +10355,7 @@ Stât HTTP: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>&amp;Predefinît</translation>
+        <translation type="vanished">&amp;Predefinît</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -10457,7 +10457,7 @@ Stât HTTP: %2</translation>
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>Percors a JVisualVM no valit</translation>
+        <translation type="vanished">Percors a JVisualVM no valit</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="78"/>
@@ -10612,18 +10612,18 @@ Stât HTTP: %2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>Sît web</translation>
+        <translation type="vanished">Sît web</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>Svilupadôrs di %1</translation>
+        <translation type="vanished">Svilupadôrs di %1</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>Cun ringraciaments a</translation>
+        <translation type="vanished">Cun ringraciaments a</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -10683,7 +10683,7 @@ Continuâ cu la çoncjade?</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Cjariament falît</translation>
+        <translation type="vanished">Cjariament falît</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -10842,7 +10842,7 @@ Chest messaç al vignarà visualizât fintant che no tu gjavarâs dai parametris
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>Il binari Java specificât nol funzione.&lt;br /&gt;Tu varessis di doprâ la funzion di auto-rilevament, o stabilî il percors pal eseguibil Java.&lt;br /&gt;</translation>
+        <translation type="vanished">Il binari Java specificât nol funzione.&lt;br /&gt;Tu varessis di doprâ la funzion di auto-rilevament, o stabilî il percors pal eseguibil Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -10852,7 +10852,7 @@ Chest messaç al vignarà visualizât fintant che no tu gjavarâs dai parametris
     </message>
     <message>
         <source>No author(s)</source>
-        <translation>Nissun autôr</translation>
+        <translation type="vanished">Nissun autôr</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -11023,7 +11023,7 @@ NOTE: Verifiche di vê fat une copie di backup dai tiei dâts impuartants di ist
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Impussibil risolvi i permès par %1</translation>
+        <translation type="vanished">Impussibil risolvi i permès par %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -11430,7 +11430,7 @@ Messaç dal erôr: %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>Cambie la version di %1</translation>
+        <translation type="vanished">Cambie la version di %1</translation>
     </message>
 </context>
 <context>
@@ -11844,13 +11844,11 @@ Desideristu pardabon fâlu?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Il non de risorse.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>La date e la ore di cuant che cheste risorse e je stade modificade (o zontade).</translation>
     </message>
     <message>
@@ -11966,14 +11964,14 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Isal ativât il pachet di risorsis? (Valit dome pai ZIPs)</translation>
+        <translation type="vanished">Isal ativât il pachet di risorsis? (Valit dome pai ZIPs)</translation>
     </message>
 </context>
 <context>
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>Pachets di risorsis</translation>
+        <translation type="vanished">Pachets di risorsis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -12087,11 +12085,11 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Discjame pachets</translation>
+        <translation type="vanished">Discjame pachets</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Discjame pachets di risorsis da lis plateformis in rêt</translation>
+        <translation type="vanished">Discjame pachets di risorsis da lis plateformis in rêt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
@@ -12304,11 +12302,11 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation>Chest discjariament al vignarà metût in: %1</translation>
+        <translation type="vanished">Chest discjariament al vignarà metût in: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Chest file al vignarà discjariât suntune cartele divierse di chê predefinide, al è probabil che i coventi cussì al so cjariadôr.</translation>
+        <translation type="vanished">Chest file al vignarà discjariât suntune cartele divierse di chê predefinide, al è probabil che i coventi cussì al so cjariadôr.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -12595,7 +12593,7 @@ Version instalade in chest moment: %1</translation>
     </message>
     <message>
         <source>Latency</source>
-        <translation>Latence</translation>
+        <translation type="vanished">Latence</translation>
     </message>
 </context>
 <context>
@@ -12724,7 +12722,7 @@ Gjavâ pardabon?</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>Pachets shaders</translation>
+        <translation type="vanished">Pachets shaders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -12838,11 +12836,11 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>Discjame shaders</translation>
+        <translation type="vanished">Discjame shaders</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Discjame shaders da lis plateformis in rêt</translation>
+        <translation type="vanished">Discjame shaders da lis plateformis in rêt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
@@ -13211,7 +13209,7 @@ Eliminâ pardabon?</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished">Impussibil vierzi il file zip dal modpack furnît.</translation>
+        <translation type="obsolete">Impussibil vierzi il file zip dal modpack furnît.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -13396,19 +13394,16 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Il pachet des tramis isal ativât?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Il non dal pachet des tramis.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>La date e la ore de ultime modifiche (o zonte) di chest pachet des tramis.</translation>
     </message>
     <message>
@@ -13546,69 +13541,69 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="unfinished">Discjame pachets</translation>
+        <translation type="obsolete">Discjame pachets</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Discjame i pachets di tramis da lis plateformis in rêt</translation>
+        <translation type="vanished">Discjame i pachets di tramis da lis plateformis in rêt</translation>
     </message>
 </context>
 <context>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>&amp;Iconis</translation>
+        <translation type="vanished">&amp;Iconis</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>Visualize la cartele dai temis des iconis.</translation>
+        <translation type="vanished">Visualize la cartele dai temis des iconis.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation>&amp;Widgets</translation>
+        <translation type="vanished">&amp;Widgets</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation>Visualize la cartele dai temis dai widgets.</translation>
+        <translation type="vanished">Visualize la cartele dai temis dai widgets.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Il gjat al ven fûr tal fonts e, tant che impostazion predefinide, nol ven mostrât. Tu lu puedis viodi nome se tu frachis il boton Gjat te sbare dai struments.</translation>
+        <translation type="vanished">Il gjat al ven fûr tal fonts e, tant che impostazion predefinide, nol ven mostrât. Tu lu puedis viodi nome se tu frachis il boton Gjat te sbare dai struments.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>Gj&amp;at</translation>
+        <translation type="vanished">Gj&amp;at</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>Visualize la cartele dai pachets di gjats.</translation>
+        <translation type="vanished">Visualize la cartele dai pachets di gjats.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation>Inzorne dut</translation>
+        <translation type="vanished">Inzorne dut</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>PagjineMagjiche</translation>
+        <translation type="vanished">PagjineMagjiche</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>Selezione il teme che tu desideris doprâ</translation>
+        <translation type="vanished">Selezione il teme che tu desideris doprâ</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Sugjeriment: il gjat al ven fûr tal fonts e, come impostazion predefinide, nol ven mostrât. Al è visibil nome se tu frachis il boton Gjat te sbare dai struments.</translation>
+        <translation type="vanished">Sugjeriment: il gjat al ven fûr tal fonts e, come impostazion predefinide, nol ven mostrât. Al è visibil nome se tu frachis il boton Gjat te sbare dai struments.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation> Anteprime:</translation>
+        <translation type="vanished"> Anteprime:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>Il gjat al ven fûr tal fonts e nol covente a nuie, al è nome biel di viodi.</translation>
+        <translation type="vanished">Il gjat al ven fûr tal fonts e nol covente a nuie, al è nome biel di viodi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -13753,7 +13748,7 @@ Par plasê passe a une di chestis versions di Java par cheste istance:</translat
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished">Filtri:</translation>
+        <translation type="obsolete">Filtri:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -14425,11 +14420,11 @@ Percors canonic: %1</translation>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>Pachets di dâts</translation>
+        <translation type="vanished">Pachets di dâts</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>Gjestìs i pachets di dâts dentri dal mont.</translation>
+        <translation type="vanished">Gjestìs i pachets di dâts dentri dal mont.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -14443,7 +14438,7 @@ Percors canonic: %1</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>Vierç la cartele dai pachets di dâts dal mont</translation>
+        <translation type="vanished">Vierç la cartele dai pachets di dâts dal mont</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

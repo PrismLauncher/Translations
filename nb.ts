@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>API-nøkler</translation>
+        <translation type="vanished">API-nøkler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,16 +88,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Standard)</translation>
+        <translation type="vanished">(Standard)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Skriv inn en egendefinert klient-ID for Microsoft-autentisering her.</translation>
+        <translation type="vanished">Skriv inn en egendefinert klient-ID for Microsoft-autentisering her.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth-API</translation>
+        <translation type="vanished">&amp;Modrinth-API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,15 +106,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Skriv inn en egendefinert API-polett for Modrinth her.</translation>
+        <translation type="vanished">Skriv inn en egendefinert API-polett for Modrinth her.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Ingen)</translation>
+        <translation type="vanished">(Ingen)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>Technic-klient-ID</translation>
+        <translation type="vanished">Technic-klient-ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Skriv inn en egen GUID-klient-ID for Technic her.</translation>
+        <translation type="vanished">Skriv inn en egen GUID-klient-ID for Technic her.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Diverse</translation>
+        <translation type="vanished">Diverse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Skriv inn en egendefinert nettadresse for meta her.</translation>
+        <translation type="vanished">Skriv inn en egendefinert nettadresse for meta her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge-kjerne-API</translation>
+        <translation type="vanished">&amp;CurseForge-kjerne-API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Skriv inn en egendefinert API-nøkkel for CurseForge her.</translation>
+        <translation type="vanished">Skriv inn en egendefinert API-nøkkel for CurseForge her.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>API-er</translation>
+        <translation type="vanished">API-er</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>Klarte ikke åpne oppsettsfiler for pakkene %1!</translation>
+        <translation type="vanished">Klarte ikke åpne oppsettsfiler for pakkene %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -435,42 +435,42 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Ukontrollert</translation>
+        <translation type="vanished">Ukontrollert</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Frakoblet</translation>
+        <translation type="vanished">Frakoblet</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>Klar</translation>
+        <translation type="vanished">Klar</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Arbeider</translation>
+        <translation type="vanished">Arbeider</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Feilet</translation>
+        <translation type="vanished">Feilet</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>Utløpt</translation>
+        <translation type="vanished">Utløpt</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Avslått</translation>
+        <translation type="vanished">Avslått</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Borte</translation>
+        <translation type="vanished">Borte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -495,7 +495,7 @@
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>Ukjent</translation>
+        <translation type="vanished">Ukjent</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -1124,7 +1124,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Henter elementfiler fra Mojang …</translation>
+        <translation type="vanished">Henter elementfiler fra Mojang …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1492,11 +1492,11 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Din globale mod-mappe og standard nedlastingsmappe sjekkes automatisk etter de nedlastede modifikasjonene, og de vil bli kopiert til instansen hvis de blir funnet.&lt;/p&gt;&lt;p&gt;Du kan også dra og slippe de nedlastede modifikasjonene inn over vinduet, eller legge til en mappe å sjekke hvis du ikke lastet ned modene til et av standardmappene.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Din globale mod-mappe og standard nedlastingsmappe sjekkes automatisk etter de nedlastede modifikasjonene, og de vil bli kopiert til instansen hvis de blir funnet.&lt;/p&gt;&lt;p&gt;Du kan også dra og slippe de nedlastede modifikasjonene inn over vinduet, eller legge til en mappe å sjekke hvis du ikke lastet ned modene til et av standardmappene.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>Overvåkte mapper:</translation>
+        <translation type="vanished">Overvåkte mapper:</translation>
     </message>
 </context>
 <context>
@@ -1640,7 +1640,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>En eller flere underoppgaver mislyktes</translation>
+        <translation type="vanished">En eller flere underoppgaver mislyktes</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1883,7 +1883,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>Kjernemods</translation>
+        <translation type="vanished">Kjernemods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2023,22 +2023,22 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>&amp;Tilpassede kommandoer</translation>
+        <translation type="vanished">&amp;Tilpassede kommandoer</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>Etter-utgangs-kommando:</translation>
+        <translation type="vanished">Etter-utgangs-kommando:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Forhåndsstartskommando:</translation>
+        <translation type="vanished">Forhåndsstartskommando:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Wrapper-kommando:</translation>
+        <translation type="vanished">Wrapper-kommando:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2071,7 +2071,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Egendefinerte kommandoer</translation>
+        <translation type="vanished">Egendefinerte kommandoer</translation>
     </message>
 </context>
 <context>
@@ -2435,7 +2435,7 @@ Er du sikker?</translation>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Kontrollerer at modifikasjonene har metadata …</translation>
+        <translation type="vanished">Kontrollerer at modifikasjonene har metadata …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2487,7 +2487,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>&amp;Miljøvariabler</translation>
+        <translation type="vanished">&amp;Miljøvariabler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2524,7 +2524,7 @@ Er du sikker?</translation>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>Miljøvariabler</translation>
+        <translation type="vanished">Miljøvariabler</translation>
     </message>
 </context>
 <context>
@@ -2627,11 +2627,11 @@ Er du sikker?</translation>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>&amp;Navn</translation>
+        <translation type="vanished">&amp;Navn</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>&amp;Versjon</translation>
+        <translation type="vanished">&amp;Versjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2679,7 +2679,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>&amp;Forfatter</translation>
+        <translation type="vanished">&amp;Forfatter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2864,7 +2864,7 @@ Er du sikker?</translation>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Filter:</translation>
+        <translation type="vanished">Filter:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2873,11 +2873,11 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Legg til</translation>
+        <translation type="vanished">&amp;Legg til</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Legg til</translation>
+        <translation type="vanished">Legg til</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2886,7 +2886,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>Fjern valgte elementer</translation>
+        <translation type="vanished">Fjern valgte elementer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2895,7 +2895,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>Aktiver valgt element</translation>
+        <translation type="vanished">Aktiver valgt element</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3010,7 +3010,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>Last ned en ny ressurs</translation>
+        <translation type="vanished">Last ned en ny ressurs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3020,27 +3020,27 @@ Er du sikker?</translation>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Sjekk eller oppdater alle valgte ressurser (alle ressurser hvis ingen er valgt)</translation>
+        <translation type="vanished">Sjekk eller oppdater alle valgte ressurser (alle ressurser hvis ingen er valgt)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>Eksporter mod-oppføringer</translation>
+        <translation type="vanished">Eksporter mod-oppføringer</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>Exporter mod&apos;ens metadata til tekst</translation>
+        <translation type="vanished">Exporter mod&apos;ens metadata til tekst</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Besøk mod&apos;ens side</translation>
+        <translation type="vanished">Besøk mod&apos;ens side</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>Deaktiver det valgte elementet</translation>
+        <translation type="vanished">Deaktiver det valgte elementet</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>Gå til mod&apos;ens hjermmeside</translation>
+        <translation type="vanished">Gå til mod&apos;ens hjermmeside</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
@@ -3094,12 +3094,12 @@ Er du sikker på at du vil fortsette?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>Bekreft deaktivering</translation>
+        <translation type="vanished">Bekreft deaktivering</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Hvis du deaktiverer denne ressursen når spillet kjører kan det krasje spillet ditt.
+        <translation type="vanished">Hvis du deaktiverer denne ressursen når spillet kjører kan det krasje spillet ditt.
 Er du sikker på at du vil fortsette?</translation>
     </message>
     <message>
@@ -3172,16 +3172,16 @@ Er du sikker på at du vil fortsette?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Eksterne redigeringsverktøy (la være tom for systemstandard)</translation>
+        <translation type="vanished">Eksterne redigeringsverktøy (la være tom for systemstandard)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>Tekst-redigeringsverktøy:</translation>
+        <translation type="vanished">Tekst-redigeringsverktøy:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>Eksterne verktøy</translation>
+        <translation type="vanished">Eksterne verktøy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3243,17 +3243,17 @@ Er du sikker på at du vil fortsette?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>Kjørbar fil for JVisualVM</translation>
+        <translation type="vanished">Kjørbar fil for JVisualVM</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Feil under kontroll av JVisualVM-installasjon:
+        <translation type="vanished">Feil under kontroll av JVisualVM-installasjon:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>JVisualVM-installasjonen ser ut til å være OK</translation>
+        <translation type="vanished">JVisualVM-installasjonen ser ut til å være OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3280,7 +3280,7 @@ Er du sikker på at du vil fortsette?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>JSON-redigeringsverktøy</translation>
+        <translation type="vanished">JSON-redigeringsverktøy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3394,7 +3394,7 @@ Prøv på nytt.</translation>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Obs: Hvis dine FTB-instanser ikke er i standardmappen, velg mappen med knappen ved siden av søk.</translation>
+        <translation type="vanished">Obs: Hvis dine FTB-instanser ikke er i standardmappen, velg mappen med knappen ved siden av søk.</translation>
     </message>
 </context>
 <context>
@@ -3453,7 +3453,7 @@ Prøv på nytt.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Innhenter API respons fra CurseForge for «%1» …</translation>
+        <translation type="vanished">Innhenter API respons fra CurseForge for «%1» …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3492,16 +3492,16 @@ Prøv på nytt.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Forbereder modifikasjoner for CurseForge …</translation>
+        <translation type="vanished">Forbereder modifikasjoner for CurseForge …</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Fant ingen gyldige versjoner for denne modifikasjonen. Det er sannsynligvis utilgjengelig for gjeldende spillversjon / mod-laster.</translation>
+        <translation type="vanished">Fant ingen gyldige versjoner for denne modifikasjonen. Det er sannsynligvis utilgjengelig for gjeldende spillversjon / mod-laster.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Modden har en ny oppdatering tilgjengelig, men kan ikke lastes ned med CurseForge.</translation>
+        <translation type="vanished">Modden har en ny oppdatering tilgjengelig, men kan ikke lastes ned med CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3841,11 +3841,11 @@ Prøv på nytt.</translation>
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>Nøkkel</translation>
+        <translation type="vanished">Nøkkel</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Verdi</translation>
+        <translation type="vanished">Verdi</translation>
     </message>
 </context>
 <context>
@@ -4235,11 +4235,11 @@ Prøv på nytt.</translation>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>&amp;Navn:</translation>
+        <translation type="vanished">&amp;Navn:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>&amp;Gruppe:</translation>
+        <translation type="vanished">&amp;Gruppe:</translation>
     </message>
 </context>
 <context>
@@ -4427,19 +4427,19 @@ Prøv på nytt.</translation>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation>Åpne globale innstillinger</translation>
+        <translation type="vanished">Åpne globale innstillinger</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Innstillingene her er overstyringer for globale innstillinger.</translation>
+        <translation type="vanished">Innstillingene her er overstyringer for globale innstillinger.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Java-insta&amp;llation</translation>
+        <translation type="vanished">Java-insta&amp;llation</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>Auto-oppdaging …</translation>
+        <translation type="vanished">Auto-oppdaging …</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4447,72 +4447,72 @@ Prøv på nytt.</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>Test</translation>
+        <translation type="vanished">Test</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Om aktivert, vil ikke launcheren sjekke om en forekomst er kompatibel med den valgte Java-versjonen.</translation>
+        <translation type="vanished">Om aktivert, vil ikke launcheren sjekke om en forekomst er kompatibel med den valgte Java-versjonen.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>Omgå Java-kompatibilitetskontroller</translation>
+        <translation type="vanished">Omgå Java-kompatibilitetskontroller</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>Minn&amp;e</translation>
+        <translation type="vanished">Minn&amp;e</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Minimum minne-allokering:</translation>
+        <translation type="vanished">Minimum minne-allokering:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Den maksimale mengden minne Minecraft kan bruke.</translation>
+        <translation type="vanished">Den maksimale mengden minne Minecraft kan bruke.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Mengden minne Minecraft starter med.</translation>
+        <translation type="vanished">Mengden minne Minecraft starter med.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Mengden minne som er tilgjengelig for å lagre lastede Java-klasser.</translation>
+        <translation type="vanished">Mengden minne som er tilgjengelig for å lagre lastede Java-klasser.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Maksimum minne-allokering:</translation>
+        <translation type="vanished">Maksimum minne-allokering:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Bla gjennom</translation>
+        <translation type="vanished">Bla gjennom</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Last ned Java</translation>
+        <translation type="vanished">Last ned Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>PermGen:</translation>
+        <translation type="vanished">PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Merk: Permgen blir automatisk satt av Java 8 og senere</translation>
+        <translation type="vanished">Merk: Permgen blir automatisk satt av Java 8 og senere</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Java argumen&amp;ter</translation>
+        <translation type="vanished">Java argumen&amp;ter</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>Spillvinduer</translation>
+        <translation type="vanished">Spillvinduer</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>Spillvindu</translation>
+        <translation type="vanished">Spillvindu</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Start Minecraft maksimert</translation>
+        <translation type="vanished">Start Minecraft maksimert</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported for the current minecraft version.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -4520,156 +4520,156 @@ Prøv på nytt.</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation>Vindushøyde:</translation>
+        <translation type="vanished">Vindushøyde:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>Vindusbredde:</translation>
+        <translation type="vanished">Vindusbredde:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Konsollinnstillinger</translation>
+        <translation type="vanished">Konsollinnstillinger</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>Vis konsoll mens spillet kjører</translation>
+        <translation type="vanished">Vis konsoll mens spillet kjører</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Lukk konsollen automatisk når spillet avsluttes</translation>
+        <translation type="vanished">Lukk konsollen automatisk når spillet avsluttes</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Vis konsoll når spillet krasjer</translation>
+        <translation type="vanished">Vis konsoll når spillet krasjer</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Lukk startprogrammet etter at spillvinduet åpnes</translation>
+        <translation type="vanished">Lukk startprogrammet etter at spillvinduet åpnes</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Lukk startprogrammet etter at spillvinduet avsluttes</translation>
+        <translation type="vanished">Lukk startprogrammet etter at spillvinduet avsluttes</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>Egendefinerte kommandoer</translation>
+        <translation type="vanished">Egendefinerte kommandoer</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Miljøvariabler</translation>
+        <translation type="vanished">Miljøvariabler</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>Løsninger</translation>
+        <translation type="vanished">Løsninger</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>Opprinnelige bibliotek</translation>
+        <translation type="vanished">Opprinnelige bibliotek</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>&amp;GLFW bibliotekmappe</translation>
+        <translation type="vanished">&amp;GLFW bibliotekmappe</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>Bruk systeminstallasjon av GLFW</translation>
+        <translation type="vanished">Bruk systeminstallasjon av GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Bruk systeminstallasjon av OpenAL</translation>
+        <translation type="vanished">Bruk systeminstallasjon av OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>Singleplayer-verden</translation>
+        <translation type="vanished">Singleplayer-verden</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation>Overstyr standardkonto</translation>
+        <translation type="vanished">Overstyr standardkonto</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Konto:</translation>
+        <translation type="vanished">Konto:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Diverse</translation>
+        <translation type="vanished">Diverse</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>&amp;OpenAL bibliotekmappe</translation>
+        <translation type="vanished">&amp;OpenAL bibliotekmappe</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Ytelse</translation>
+        <translation type="vanished">Ytelse</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bruk Feral Interactives GameMode, for å potensielt forbedre spillytelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bruk Feral Interactives GameMode, for å potensielt forbedre spillytelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Aktiver Feral GameMode</translation>
+        <translation type="vanished">Aktiver Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avanserte ytelsesoverlegg.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avanserte ytelsesoverlegg.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Aktiver MangoHud</translation>
+        <translation type="vanished">Aktiver MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bruk den diskrete GPUen i stedet for den primære GPUen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bruk den diskrete GPUen i stedet for den primære GPUen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Bruk diskret GPU</translation>
+        <translation type="vanished">Bruk diskret GPU</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Bruk Zink, en Mesa OpenGL-driver som implementerer OpenGL på toppen av Vulkan. Ytelsen kan variere avhengig av situasjonen. Merk: Hvis ingen passende Vulkan-driver blir funnet, vil programvaregjengivelse bli brukt.</translation>
+        <translation type="vanished">Bruk Zink, en Mesa OpenGL-driver som implementerer OpenGL på toppen av Vulkan. Ytelsen kan variere avhengig av situasjonen. Merk: Hvis ingen passende Vulkan-driver blir funnet, vil programvaregjengivelse bli brukt.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Bruk Zink</translation>
+        <translation type="vanished">Bruk Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Legacy-instillinger</translation>
+        <translation type="vanished">Legacy-instillinger</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerer bruk av gamle nettjenester som ikke lenger er i drift.&lt;/p&gt;&lt;p&gt;Gjeldende rettelser inkluderer: skin- og nettmodusstøtte.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerer bruk av gamle nettjenester som ikke lenger er i drift.&lt;/p&gt;&lt;p&gt;Gjeldende rettelser inkluderer: skin- og nettmodusstøtte.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Aktiver nettrettinger (eksperimentell)</translation>
+        <translation type="vanished">Aktiver nettrettinger (eksperimentell)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>Overstyr globale spilltidsinnstillinger</translation>
+        <translation type="vanished">Overstyr globale spilltidsinnstillinger</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>Vis tid brukt på å spille denne forekomsten</translation>
+        <translation type="vanished">Vis tid brukt på å spille denne forekomsten</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>Registrer tiden brukt på å spille denne forekomsten</translation>
+        <translation type="vanished">Registrer tiden brukt på å spille denne forekomsten</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>Velg en server å koble til når spillet starter</translation>
+        <translation type="vanished">Velg en server å koble til når spillet starter</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>Serveradresse:</translation>
+        <translation type="vanished">Serveradresse:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4678,47 +4678,47 @@ Prøv på nytt.</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Mappe til %1 bibliotekfil</translation>
+        <translation type="vanished">Mappe til %1 bibliotekfil</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Fant ikke Feral Interactives GameMode på systemet ditt.</translation>
+        <translation type="vanished">Fant ikke Feral Interactives GameMode på systemet ditt.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>Fant ikke MangoHud på systemet ditt.</translation>
+        <translation type="vanished">Fant ikke MangoHud på systemet ditt.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Velg en Java-versjon</translation>
+        <translation type="vanished">Velg en Java-versjon</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Bekreft valg</translation>
+        <translation type="vanished">Bekreft valg</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Du valgte en 32-bits versjon av Java.
+        <translation type="vanished">Du valgte en 32-bits versjon av Java.
 Denne installasjonen støtter ikke mer enn 2048 MB RAM.
 Sørg for at den maksimale minneverdien er lavere.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Finn Java-kjørefil</translation>
+        <translation type="vanished">Finn Java-kjørefil</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Din maksimale minneallokering overskrider systemminnekapasiteten.</translation>
+        <translation type="vanished">Din maksimale minneallokering overskrider systemminnekapasiteten.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Den maksimale minnetildeinga di nærmer seg systemminnekapasiteten din.</translation>
+        <translation type="vanished">Den maksimale minnetildeinga di nærmer seg systemminnekapasiteten din.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Den maksimale minnetildeinga di er mindre enn den minimale verdien</translation>
+        <translation type="vanished">Den maksimale minnetildeinga di er mindre enn den minimale verdien</translation>
     </message>
 </context>
 <context>
@@ -4819,7 +4819,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation>JVisualVM startet</translation>
+        <translation type="vanished">JVisualVM startet</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -4846,15 +4846,15 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Pakker ut Java (Framgang vises ikke for tar-arkiver)</translation>
+        <translation type="vanished">Pakker ut Java (Framgang vises ikke for tar-arkiver)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation>Kunne ikke åpne tar-filen.</translation>
+        <translation type="vanished">Kunne ikke åpne tar-filen.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Kunne ikke pakke ut tar-filen.</translation>
+        <translation type="vanished">Kunne ikke pakke ut tar-filen.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -4868,7 +4868,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation>Klarte ikke å bestemme arkivtype!</translation>
+        <translation type="vanished">Klarte ikke å bestemme arkivtype!</translation>
     </message>
 </context>
 <context>
@@ -4974,70 +4974,70 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>Minne</translation>
+        <translation type="vanished">Minne</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Den maksimale mengden minne Minecraft kan bruke.</translation>
+        <translation type="vanished">Den maksimale mengden minne Minecraft kan bruke.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>Minimum minne-tildeling:</translation>
+        <translation type="vanished">Minimum minne-tildeling:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>Maksimum minne-tildeling:</translation>
+        <translation type="vanished">Maksimum minne-tildeling:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>&amp;PermGen:</translation>
+        <translation type="vanished">&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Mengden minne Minecraft starter med.</translation>
+        <translation type="vanished">Mengden minne Minecraft starter med.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Mengden minne som er tilgjengelig for å lagre lastede Java-klasser.</translation>
+        <translation type="vanished">Mengden minne som er tilgjengelig for å lagre lastede Java-klasser.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Java kjøresystem</translation>
+        <translation type="vanished">Java kjøresystem</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>JVM-argument:</translation>
+        <translation type="vanished">JVM-argument:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Velger automatisk Java-versjonen som er komatibel med den nåværende Minecraft-instansen, basert på den påkrevde hovedversjonen.</translation>
+        <translation type="vanished">Velger automatisk Java-versjonen som er komatibel med den nåværende Minecraft-instansen, basert på den påkrevde hovedversjonen.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Finn Java-versjonen automatisk</translation>
+        <translation type="vanished">Finn Java-versjonen automatisk</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Java-filsti:</translation>
+        <translation type="vanished">Java-filsti:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>Laster ned og velger Java versjon anbefalt av Mojang automatisk.</translation>
+        <translation type="vanished">Laster ned og velger Java versjon anbefalt av Mojang automatisk.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Last ned Mojang Java automatisk</translation>
+        <translation type="vanished">Last ned Mojang Java automatisk</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>Behandling</translation>
+        <translation type="vanished">Behandling</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>Nedlastede Java-versjoner</translation>
+        <translation type="vanished">Nedlastede Java-versjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5067,33 +5067,33 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>&amp;Finner automatisk …</translation>
+        <translation type="vanished">&amp;Finner automatisk …</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>Test</translation>
+        <translation type="vanished">Test</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Bla gjennom</translation>
+        <translation type="vanished">Bla gjennom</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Hvis slått på, vil ikke startprogrammet spørre deg om å velge en Java-versjon dersom den ikke er finner en.</translation>
+        <translation type="vanished">Hvis slått på, vil ikke startprogrammet spørre deg om å velge en Java-versjon dersom den ikke er finner en.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Hopp over Java &amp;Wizard</translation>
+        <translation type="vanished">Hopp over Java &amp;Wizard</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Om aktivert, vil ikke launcheren sjekke om en instans er kompatibel med den valgte Java-versjonen.</translation>
+        <translation type="vanished">Om aktivert, vil ikke launcheren sjekke om en instans er kompatibel med den valgte Java-versjonen.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>&amp;Hopp over Java kompatabilitetssjekker</translation>
+        <translation type="vanished">&amp;Hopp over Java kompatabilitetssjekker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5114,35 +5114,35 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Velg en Java-versjon</translation>
+        <translation type="vanished">Velg en Java-versjon</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Bekreft valg</translation>
+        <translation type="vanished">Bekreft valg</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Du valgte en 32-bits versjon av Java.
+        <translation type="vanished">Du valgte en 32-bits versjon av Java.
 Denne installasjonen støtter ikke mer enn 2048 MiB RAM.
 Sørg for at den maksimale minneverdien er lavere.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Finn Java-kjørefil</translation>
+        <translation type="vanished">Finn Java-kjørefil</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Din maksimale minneallokering overskrider systemminnekapasiteten.</translation>
+        <translation type="vanished">Din maksimale minneallokering overskrider systemminnekapasiteten.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Den maksimale minnetildelinga begynner å nå systemminnekapasiteten din.</translation>
+        <translation type="vanished">Den maksimale minnetildelinga begynner å nå systemminnekapasiteten din.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Den maksimale minnetildelinga er mindre enn den minimale verdien</translation>
+        <translation type="vanished">Den maksimale minnetildelinga er mindre enn den minimale verdien</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5161,15 +5161,15 @@ Er du sikker?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Ingen Java-versjon valgt</translation>
+        <translation type="vanished">Ingen Java-versjon valgt</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Last ned Java</translation>
+        <translation type="vanished">Last ned Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>32-biter Java funnet</translation>
+        <translation type="vanished">32-biter Java funnet</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5178,7 +5178,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Du valgte en 32-biter installasjon av Java, men tildelinga er mer enn 2048MiB som det maksimale minnet.
+        <translation type="vanished">Du valgte en 32-biter installasjon av Java, men tildelinga er mer enn 2048MiB som det maksimale minnet.
 %1 vil ikke kunne starte Minecraft.
 Vil du fortsette?
 
@@ -5192,7 +5192,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Enten så valgte ikke du en Java-versjon, eller valgte en som ikke fungerer.
+        <translation type="vanished">Enten så valgte ikke du en Java-versjon, eller valgte en som ikke fungerer.
 %1 vil ikke kunne starte Minecraft.
 Ønsker du å fortsette uten en funksjonell Java-versjon?
 
@@ -5206,7 +5206,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     </message>
     <message>
         <source>Memory</source>
-        <translation>Minne</translation>
+        <translation type="vanished">Minne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5215,7 +5215,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Minimum minne-allokering:</translation>
+        <translation type="vanished">Minimum minne-allokering:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5317,7 +5317,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Maksimum minne-allokering:</translation>
+        <translation type="vanished">Maksimum minne-allokering:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5356,19 +5356,19 @@ Du kan endre Java-versjonen i innstillingene seinere.
     </message>
     <message>
         <source>Browse</source>
-        <translation>Bla gjennom</translation>
+        <translation type="vanished">Bla gjennom</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Laster ned Mojang-Java automatisk</translation>
+        <translation type="vanished">Laster ned Mojang-Java automatisk</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Autooppdag Java-versjon</translation>
+        <translation type="vanished">Autooppdag Java-versjon</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>Autooppdag Java</translation>
+        <translation type="vanished">Autooppdag Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5406,15 +5406,15 @@ Pass på at den maksimale minne verdien er lavere.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Den maksimale minnetildelinga di begynner å nærme seg systemminnekapasiteten.</translation>
+        <translation type="vanished">Den maksimale minnetildelinga di begynner å nærme seg systemminnekapasiteten.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Den maksimale minnetildelinga er mindre enn den minimale verdien</translation>
+        <translation type="vanished">Den maksimale minnetildelinga er mindre enn den minimale verdien</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Du overskrider den maksimale tildeltinga støtta av 32-bitersinstallasjonene av Java.</translation>
+        <translation type="vanished">Du overskrider den maksimale tildeltinga støtta av 32-bitersinstallasjonene av Java.</translation>
     </message>
 </context>
 <context>
@@ -5699,11 +5699,11 @@ Vil du prøve demoen?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>Spill frakoblet</translation>
+        <translation type="vanished">Spill frakoblet</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>Kontoen har utgått og du må logge inn manuelt igjen.</translation>
+        <translation type="vanished">Kontoen har utgått og du må logge inn manuelt igjen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -5712,7 +5712,7 @@ Vil du prøve demoen?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>Kjøringsklientidentifikatoren har blitt endra. Vennligst fjern denne kontoen og legg den til igjen.</translation>
+        <translation type="vanished">Kjøringsklientidentifikatoren har blitt endra. Vennligst fjern denne kontoen og legg den til igjen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -5721,7 +5721,7 @@ Vil du prøve demoen?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>Kontoen finnes ikke lenger på denne tjeneren. Den kan ha blitt overført, legg til den nye kontoen du overførte denne til.</translation>
+        <translation type="vanished">Kontoen finnes ikke lenger på denne tjeneren. Den kan ha blitt overført, legg til den nye kontoen du overførte denne til.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -5860,11 +5860,11 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>Funksjoner</translation>
+        <translation type="vanished">Funksjoner</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>Oppdater Innstillinger</translation>
+        <translation type="vanished">Oppdater Innstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -5915,11 +5915,11 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>Sjekk nedlastingsmappen rekursivt</translation>
+        <translation type="vanished">Sjekk nedlastingsmappen rekursivt</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>Slå av automatisk modavhengighetsbehandling</translation>
+        <translation type="vanished">Slå av automatisk modavhengighetsbehandling</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
@@ -5928,7 +5928,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>Sorteringtype i instanslisten</translation>
+        <translation type="vanished">Sorteringtype i instanslisten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -5943,23 +5943,23 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     </message>
     <message>
         <source>Theme</source>
-        <translation>Drakt</translation>
+        <translation type="vanished">Drakt</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation>Mods</translation>
+        <translation type="vanished">Mods</translation>
     </message>
     <message>
         <source>Update interval</source>
-        <translation>Oppdateringsinterval</translation>
+        <translation type="vanished">Oppdateringsinterval</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>Sett det til 0 bare for å sjekke under kjøring</translation>
+        <translation type="vanished">Sett det til 0 bare for å sjekke under kjøring</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>h</translation>
+        <translation type="vanished">h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
@@ -6089,12 +6089,12 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>Slå av bruk av metadata fra modtilbyderer (som Modrinth eller CurseForge) for modifikasjoner.</translation>
+        <translation type="vanished">Slå av bruk av metadata fra modtilbyderer (som Modrinth eller CurseForge) for modifikasjoner.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>Slå av bruk av metadata for modifikasjoner</translation>
+        <translation type="vanished">Slå av bruk av metadata for modifikasjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6105,27 +6105,27 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Slå av automatisk oppdaging, installasjon og oppdatering av nødvendige filer.</translation>
+        <translation type="vanished">Slå av automatisk oppdaging, installasjon og oppdatering av nødvendige filer.</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Når du lager en ny mod-pakke instans, ikke foreslå å oppdatere eksisterende instanser istedenfor.</translation>
+        <translation type="vanished">Når du lager en ny mod-pakke instans, ikke foreslå å oppdatere eksisterende instanser istedenfor.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>Hopp over mod-pakke oppdatering instruksjon</translation>
+        <translation type="vanished">Hopp over mod-pakke oppdatering instruksjon</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Diverse</translation>
+        <translation type="vanished">Diverse</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>Antall samtidige oppgaver</translation>
+        <translation type="vanished">Antall samtidige oppgaver</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>Antall parallelle nedlastinger</translation>
+        <translation type="vanished">Antall parallelle nedlastinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6134,7 +6134,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>Tidsfrist for HTTP forespørsler</translation>
+        <translation type="vanished">Tidsfrist for HTTP forespørsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6143,27 +6143,27 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>Antall nye manuelle forsøk</translation>
+        <translation type="vanished">Antall nye manuelle forsøk</translation>
     </message>
     <message>
         <source>Cat</source>
-        <translation>Katt</translation>
+        <translation type="vanished">Katt</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Sett kattegjennomsiktigheta. 0% er fullt gjennomsiktig og 100% ugjennomsiktig.</translation>
+        <translation type="vanished">Sett kattegjennomsiktigheta. 0% er fullt gjennomsiktig og 100% ugjennomsiktig.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Ugjennomsiktighet</translation>
+        <translation type="vanished">Ugjennomsiktighet</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Verktøy</translation>
+        <translation type="vanished">Verktøy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6218,27 +6218,27 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>Konsoll instillinger</translation>
+        <translation type="vanished">Konsoll instillinger</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Vis konsoll mens spillet kjører</translation>
+        <translation type="vanished">Vis konsoll mens spillet kjører</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>Lukk konsollen automatisk når spillet avsluttes</translation>
+        <translation type="vanished">Lukk konsollen automatisk når spillet avsluttes</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Vis konsoll når spillet krasjer</translation>
+        <translation type="vanished">Vis konsoll når spillet krasjer</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>&amp;Historikk grense</translation>
+        <translation type="vanished">&amp;Historikk grense</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6254,7 +6254,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>Konsoll &amp;skrift</translation>
+        <translation type="vanished">Konsoll &amp;skrift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6318,31 +6318,31 @@ Det anbefales å gi %1 tilgang til mappen via Flatseal.</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Test/FEIL] OOoooOOOoooo! En skummel feil!</translation>
+        <translation type="vanished">[Test/FEIL] OOoooOOOoooo! En skummel feil!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Test/FEIL] En skummel feil!</translation>
+        <translation type="vanished">[Test/FEIL] En skummel feil!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[Test/ADVARSEL] En ikke så skummel advarsel.</translation>
+        <translation type="vanished">[Test/ADVARSEL] En ikke så skummel advarsel.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/FEILSØKING] En hemmelig feilsøking beskjed …</translation>
+        <translation type="vanished">[Test/FEILSØKING] En hemmelig feilsøking beskjed …</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] En forferdelig fatal feil!</translation>
+        <translation type="vanished">[Test/FATAL] En forferdelig fatal feil!</translation>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] En ufarlig beskjed …</translation>
+        <translation type="vanished">[Test/INFO] En ufarlig beskjed …</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Startprogram</translation>
+        <translation type="vanished">Startprogram</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6450,7 +6450,7 @@ Det anbefales å gi %1 tilgang til mappen via Flatseal.</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>Klarte ikke åpne mod-pakkefila %1!</translation>
+        <translation type="vanished">Klarte ikke åpne mod-pakkefila %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -6666,12 +6666,12 @@ Grunn:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>Oppdaterer indeks for mod:
+        <translation type="vanished">Oppdaterer indeks for mod:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>Ugyldig metadata</translation>
+        <translation type="vanished">Ugyldig metadata</translation>
     </message>
 </context>
 <context>
@@ -6743,7 +6743,7 @@ Grunn:
     </message>
     <message>
         <source>Search:</source>
-        <translation>Søk:</translation>
+        <translation type="vanished">Søk:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -6855,7 +6855,7 @@ Grunn:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>Kunne ikke opprette:</translation>
+        <translation type="vanished">Kunne ikke opprette:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -6872,7 +6872,7 @@ Grunn:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>Kunne ikke åpne zip-filen.</translation>
+        <translation type="vanished">Kunne ikke åpne zip-filen.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -6891,7 +6891,7 @@ Grunn:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>Kunne ikke finne første fil i zipfilen</translation>
+        <translation type="vanished">Kunne ikke finne første fil i zipfilen</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -6905,7 +6905,7 @@ Grunn:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Kunne ikke fikse tillatelser til %1</translation>
+        <translation type="vanished">Kunne ikke fikse tillatelser til %1</translation>
     </message>
 </context>
 <context>
@@ -7002,11 +7002,11 @@ Grunn:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>Åpne %1 eller scan QR-koden og skriv inn koden over.</translation>
+        <translation type="vanished">Åpne %1 eller scan QR-koden og skriv inn koden over.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>Åpne %1 og skriv inn koden over.</translation>
+        <translation type="vanished">Åpne %1 og skriv inn koden over.</translation>
     </message>
 </context>
 <context>
@@ -7186,7 +7186,7 @@ Grunn:
     </message>
     <message>
         <source>More news...</source>
-        <translation>Flere nyheter …</translation>
+        <translation type="vanished">Flere nyheter …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7579,7 +7579,7 @@ Grunn:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Lag en snarvei på skrivebordet ditt for å kjøre den valgte instansen.</translation>
+        <translation type="vanished">Lag en snarvei på skrivebordet ditt for å kjøre den valgte instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
@@ -7605,7 +7605,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Du er i ferd med å slette «%1».
+        <translation type="vanished">Du er i ferd med å slette «%1».
 Dette kan være permanent og vil fullstendig slette denne instansen.
 
 Er du sikker?</translation>
@@ -7887,7 +7887,7 @@ Trykk på Folders → View Launcher Root Folder, og etter at launcheren er lukke
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>Der finnes lenkede instanser</translation>
+        <translation type="vanished">Der finnes lenkede instanser</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -7897,7 +7897,7 @@ Trykk på Folders → View Launcher Root Folder, og etter at launcheren er lukke
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>Det kan hende at følgende instans refererer til filer i denne instansen:
 
 %1
@@ -7916,43 +7916,43 @@ Vil du fortsette?</numerusform>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>Lag snarvei til instans</translation>
+        <translation type="vanished">Lag snarvei til instans</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Kunne ikke finne skrivebordet?!</translation>
+        <translation type="vanished">Kunne ikke finne skrivebordet?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Startprogrammet er i mappen som den ble pakket ut fra, og den kan derfor ikke lage snarveier.</translation>
+        <translation type="vanished">Startprogrammet er i mappen som den ble pakket ut fra, og den kan derfor ikke lage snarveier.</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Opprett instansapplikasjon</translation>
+        <translation type="vanished">Opprett instansapplikasjon</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>Kunne ikke lage ikon til applikasjonen.</translation>
+        <translation type="vanished">Kunne ikke lage ikon til applikasjonen.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>Skrivebordsoppføringer</translation>
+        <translation type="vanished">Skrivebordsoppføringer</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>Lagde en snarvei til denne instansen på skrivebordet ditt!</translation>
+        <translation type="vanished">Lagde en snarvei til denne instansen på skrivebordet ditt!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>Lagde en snarvei til denne instansen!</translation>
+        <translation type="vanished">Lagde en snarvei til denne instansen!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>Kunne ikke lage snarvei til instans!</translation>
+        <translation type="vanished">Kunne ikke lage snarvei til instans!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Startprogrammet kjører som en feil oppsatt «AppImage»? ($APPIMAGE miljøvariabel mangler)</translation>
+        <translation type="vanished">Startprogrammet kjører som en feil oppsatt «AppImage»? ($APPIMAGE miljøvariabel mangler)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8020,11 +8020,11 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Kunne ikke lage ikon til snarveien.</translation>
+        <translation type="vanished">Kunne ikke lage ikon til snarveien.</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>Ikke støttet på din plattform!</translation>
+        <translation type="vanished">Ikke støttet på din plattform!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -8086,11 +8086,11 @@ Er du sikker?</translation>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation>Pakkeinformasjon</translation>
+        <translation type="vanished">Pakkeinformasjon</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>Pakkenavn:</translation>
+        <translation type="vanished">Pakkenavn:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8129,7 +8129,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>Oppdater fra fil</translation>
+        <translation type="vanished">Oppdater fra fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8192,7 +8192,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     </message>
     <message>
         <source>Update pack</source>
-        <translation>Oppdater pakke</translation>
+        <translation type="vanished">Oppdater pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -8375,147 +8375,147 @@ Den kan bare oppdateres med en fil i %1-formatet
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation>Vindustørrelse</translation>
+        <translation type="vanished">Vindustørrelse</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>Start Minecraft i maksimert modus</translation>
+        <translation type="vanished">Start Minecraft i maksimert modus</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>Vindus&amp;størrelse:</translation>
+        <translation type="vanished">Vindus&amp;størrelse:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>Vindus&amp;bredde:</translation>
+        <translation type="vanished">Vindus&amp;bredde:</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>Vis spilletid i timer</translation>
+        <translation type="vanished">Vis spilletid i timer</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Startprogrammet avsluttes automatisk når spillet avsluttes eller krasjer.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Startprogrammet avsluttes automatisk når spillet avsluttes eller krasjer.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>Tilpassninger</translation>
+        <translation type="vanished">Tilpassninger</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Legacy-instillinger</translation>
+        <translation type="vanished">Legacy-instillinger</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerer bruk av gamle nettjenester som ikke lenger er i drift.&lt;/p&gt;&lt;p&gt;Gjeldende rettelser inkluderer: skin- og nettmodusstøtte.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerer bruk av gamle nettjenester som ikke lenger er i drift.&lt;/p&gt;&lt;p&gt;Gjeldende rettelser inkluderer: skin- og nettmodusstøtte.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Aktiver nettrettelser (eksperimentell)</translation>
+        <translation type="vanished">Aktiver nettrettelser (eksperimentell)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>Løsninger for native biblioteker</translation>
+        <translation type="vanished">Løsninger for native biblioteker</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>Bruk systemets installasjon av &amp;GLFW</translation>
+        <translation type="vanished">Bruk systemets installasjon av &amp;GLFW</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>&amp;GLFW bibliotekmappe</translation>
+        <translation type="vanished">&amp;GLFW bibliotekmappe</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Bruk systemets installasjon av &amp;OpenAL</translation>
+        <translation type="vanished">Bruk systemets installasjon av &amp;OpenAL</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>&amp;OpenAL bibliotekmappe</translation>
+        <translation type="vanished">&amp;OpenAL bibliotekmappe</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Ytelse</translation>
+        <translation type="vanished">Ytelse</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactives GameMode, for potensielt å forbedre spillytelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactives GameMode, for potensielt å forbedre spillytelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Aktiver Feral GameMode</translation>
+        <translation type="vanished">Aktiver Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avanserte ytelsesoverlegg.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avanserte ytelsesoverlegg.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Aktiver MangoHud</translation>
+        <translation type="vanished">Aktiver MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bruk den diskrete GPU-en i stedet for primær-GPU-en.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bruk den diskrete GPU-en i stedet for primær-GPU-en.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Bruk diskret GPU</translation>
+        <translation type="vanished">Bruk diskret GPU</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bruk Zink, en Mesa OpenGL-driver som implementerer OpenGL på toppen av Vulkan. Ytelsen kan variere avhengig av situasjonen. Merk: Hvis det ikke finnes noen passende Vulkan-driver, vil programvaregjengivelse bli brukt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bruk Zink, en Mesa OpenGL-driver som implementerer OpenGL på toppen av Vulkan. Ytelsen kan variere avhengig av situasjonen. Merk: Hvis det ikke finnes noen passende Vulkan-driver, vil programvaregjengivelse bli brukt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Bruk Zink</translation>
+        <translation type="vanished">Bruk Zink</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>Spilletid</translation>
+        <translation type="vanished">Spilletid</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Generelt</translation>
+        <translation type="vanished">Generelt</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Vis spilltid for instanser</translation>
+        <translation type="vanished">Vis spilltid for instanser</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Vis spilltid på tvers av &amp;alle instanser</translation>
+        <translation type="vanished">Vis spilltid på tvers av &amp;alle instanser</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>&amp;Registrer spilletid brukt på instanser</translation>
+        <translation type="vanished">&amp;Registrer spilletid brukt på instanser</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Diverse</translation>
+        <translation type="vanished">Diverse</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Programmet vil automatisk åpne opp når spillet krasjer eller lukkes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Programmet vil automatisk åpne opp når spillet krasjer eller lukkes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>&amp;Lukk startprogrammet etter at spillvinduet åpnes</translation>
+        <translation type="vanished">&amp;Lukk startprogrammet etter at spillvinduet åpnes</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>&amp;Forlat startprogrammet etter spill-vinduet lukkes</translation>
+        <translation type="vanished">&amp;Forlat startprogrammet etter spill-vinduet lukkes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -8524,19 +8524,19 @@ Den kan bare oppdateres med en fil i %1-formatet
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Mappe til %1 bibliotekfil</translation>
+        <translation type="vanished">Mappe til %1 bibliotekfil</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>Fant sti automatisk: %1</translation>
+        <translation type="vanished">Fant sti automatisk: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Fant ikke Feral Interactives GameMode på systemet ditt.</translation>
+        <translation type="vanished">Fant ikke Feral Interactives GameMode på systemet ditt.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>Fant ikke MangoHud på systemet ditt.</translation>
+        <translation type="vanished">Fant ikke MangoHud på systemet ditt.</translation>
     </message>
 </context>
 <context>
@@ -9110,11 +9110,11 @@ Det er mest sannsynlig at du må endre banen – se modens nettsted for mer info
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>Ukjent</translation>
+        <translation type="vanished">Ukjent</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Hvor modden ble lastet ned fra.</translation>
+        <translation type="vanished">Hvor modden ble lastet ned fra.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -9329,59 +9329,31 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
     </message>
     <message>
         <source>Download mods</source>
-        <translation>Last ned mods</translation>
+        <translation type="vanished">Last ned mods</translation>
     </message>
     <message>
         <source>Add file</source>
-        <translation>Legg til fil</translation>
+        <translation type="vanished">Legg til fil</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>Legg til en lokal nedlastet fil</translation>
+        <translation type="vanished">Legg til en lokal nedlastet fil</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>Kontroller avhengigheter</translation>
+        <translation type="vanished">Kontroller avhengigheter</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>Prøv å oppdatere og sjekk om enkelte filer mangler til de valgte moddene (alle mods hvis ingen er valgt)</translation>
-    </message>
-    <message>
-        <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Prøv å oppdatere og sjekk om enkelte filer mangler til de valgte moddene (alle mods hvis ingen er valgt)</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Endre Versjon</translation>
-    </message>
-    <message>
-        <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Endre Versjon</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Besøk mod&apos;s side</translation>
-    </message>
-    <message>
-        <source>Visit mods&apos; pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Go to the pages of the selected mods</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Besøk mod&apos;s side</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
@@ -9553,125 +9525,36 @@ Er du sikker?</translation>
 <context>
     <name>ModUpdateDialog</name>
     <message>
-        <source>Confirm mods to update</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>Du er i ferd med å oppdatere følgende modifikasjoner:</translation>
-    </message>
-    <message>
-        <source>Only mods with a check will be updated!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Du er i ferd med å oppdatere følgende modifikasjoner:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Feil</translation>
+        <translation type="vanished">Feil</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>Advarsler</translation>
+        <translation type="vanished">Advarsler</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Avbryt</translation>
+        <translation type="vanished">Avbryt</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>Ser etter oppdateringer …</translation>
-    </message>
-    <message>
-        <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
-        <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Ser etter oppdateringer …</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>Kontrollerer avhengigheter …</translation>
-    </message>
-    <message>
-        <source>Looking for metadata</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Kontrollerer avhengigheter …</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>Genererer metadata …</translation>
-    </message>
-    <message>
-        <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Genererer metadata …</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>Ikke installert</translation>
-    </message>
-    <message>
-        <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New version: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Required by:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Ikke installert</translation>
     </message>
 </context>
 <context>
@@ -9758,11 +9641,11 @@ Oppdater %1!</translation>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Forbereder modifikasjoner for Modrinth …</translation>
+        <translation type="vanished">Forbereder modifikasjoner for Modrinth …</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Ingen gyldige versjoner funnet for denne mod. Det er sannsynligvis utilgjengelig for gjeldende spillversjon / mod loader.</translation>
+        <translation type="vanished">Ingen gyldige versjoner funnet for denne mod. Det er sannsynligvis utilgjengelig for gjeldende spillversjon / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
@@ -10224,27 +10107,23 @@ Oppdater %1!</translation>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>Legg til konto</translation>
+        <translation type="vanished">Legg til konto</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Brukernavn</translation>
+        <translation type="obsolete">Brukernavn</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>Brukernavn som er lenger en 16 bokstaver kan ikke brukes for LAN-spill eller frakoblet-servere.</translation>
-    </message>
-    <message>
-        <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Brukernavn som er lenger en 16 bokstaver kan ikke brukes for LAN-spill eller frakoblet-servere.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation type="obsolete">Avbryt</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
 </context>
 <context>
@@ -10284,7 +10163,7 @@ Oppdater %1!</translation>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>Finn</translation>
+        <translation type="vanished">Finn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -10373,31 +10252,31 @@ Oppdater %1!</translation>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>Tøm loggen</translation>
+        <translation type="vanished">Tøm loggen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Slett</translation>
+        <translation type="vanished">Slett</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>Last opp loggen til innlimingstjenesten satt opp i innstillingene.</translation>
+        <translation type="vanished">Last opp loggen til innlimingstjenesten satt opp i innstillingene.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Last opp</translation>
+        <translation type="vanished">Last opp</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>Tøm</translation>
+        <translation type="vanished">Tøm</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Last inn på nytt</translation>
+        <translation type="vanished">Last inn på nytt</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>Søk:</translation>
+        <translation type="vanished">Søk:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -10424,7 +10303,7 @@ Oppdater %1!</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>Filen (%1) er ikke lesbar.</translation>
+        <translation type="vanished">Filen (%1) er ikke lesbar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -10490,7 +10369,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>Andre logger</translation>
+        <translation type="vanished">Andre logger</translation>
     </message>
 </context>
 <context>
@@ -10515,7 +10394,7 @@ Er du sikker?</translation>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Lukk</translation>
+        <translation type="obsolete">Lukk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -10538,34 +10417,6 @@ Er du sikker?</translation>
     <message>
         <source>Log Upload</source>
         <translation type="obsolete">Loggopplasting</translation>
-    </message>
-</context>
-<context>
-    <name>PasteUpload</name>
-    <message>
-        <source>Uploading to %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error: %1 returned an error code: %2
-Error message: %3</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11200,7 +11051,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>Serveren svarte med følgende feil:</translation>
+        <translation type="vanished">Serveren svarte med følgende feil:</translation>
     </message>
 </context>
 <context>
@@ -11257,7 +11108,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>&amp;Standard</translation>
+        <translation type="vanished">&amp;Standard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -11374,19 +11225,15 @@ HTTP Status: %2</source>
         <translation>Lys</translation>
     </message>
     <message>
-        <source>Website</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>%1-utviklere</translation>
+        <translation type="vanished">%1-utviklere</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>Med takk til</translation>
+        <translation type="vanished">Med takk til</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -11442,7 +11289,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Oppdatering feilet</translation>
+        <translation type="vanished">Oppdatering feilet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -11706,7 +11553,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>Den spesifiserte Java-kjørefilen fungerte ikke.&lt;br /&gt;Du bruke prøve å automatisk finne hvilken Java-versjon du trenger, eller sett stien til Java-kjørefilen.&lt;br /&gt;</translation>
+        <translation type="vanished">Den spesifiserte Java-kjørefilen fungerte ikke.&lt;br /&gt;Du bruke prøve å automatisk finne hvilken Java-versjon du trenger, eller sett stien til Java-kjørefilen.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -11734,7 +11581,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>Ugyldig sti til JVisualVM</translation>
+        <translation type="vanished">Ugyldig sti til JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -11923,7 +11770,7 @@ MERK: Pass på at du har en kopi av instansedataene før du oppdaterer, ettersom
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Kunne ikke fikse tillatelser for %1</translation>
+        <translation type="obsolete">Kunne ikke fikse tillatelser for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -12271,10 +12118,6 @@ Error message: %3</source>
         <source>With special thanks to</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>No author(s)</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>Resource</name>
@@ -12318,7 +12161,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">Endre versjon %1</translation>
+        <translation type="obsolete">Endre versjon %1</translation>
     </message>
 </context>
 <context>
@@ -12730,13 +12573,11 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12854,16 +12695,12 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>Ressurspakker</translation>
+        <translation type="vanished">Ressurspakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -12974,11 +12811,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Last ned pakker</translation>
+        <translation type="vanished">Last ned pakker</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Last ned ressurspakker fra plattformer på nettet</translation>
+        <translation type="vanished">Last ned ressurspakker fra plattformer på nettet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
@@ -13195,11 +13032,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation>Denne nedlastingen vil bli plassert i %1</translation>
+        <translation type="vanished">Denne nedlastingen vil bli plassert i %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Denne filen kommer til å bli lastet ned til en annen mappe enn det som er standard, muligens fordi lasteren dens trenger det.</translation>
+        <translation type="vanished">Denne filen kommer til å bli lastet ned til en annen mappe enn det som er standard, muligens fordi lasteren dens trenger det.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -13480,7 +13317,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Latency</source>
-        <translation>Forsinkelse</translation>
+        <translation type="vanished">Forsinkelse</translation>
     </message>
 </context>
 <context>
@@ -13713,19 +13550,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>Laster ned shaders</translation>
+        <translation type="vanished">Laster ned shaders</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Last ned shaders fra plattformer på nettet</translation>
+        <translation type="vanished">Last ned shaders fra plattformer på nettet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shader packs</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14132,7 +13965,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Klarte ikke åpne den oppgitte mod-pakke-zip-fila.</translation>
+        <translation type="vanished">Klarte ikke åpne den oppgitte mod-pakke-zip-fila.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -14319,19 +14152,16 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14466,69 +14296,53 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="unfinished">Last ned pakker</translation>
+        <translation type="obsolete">Last ned pakker</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Last ned teksturpakker fra plattformer på nettet</translation>
+        <translation type="vanished">Last ned teksturpakker fra plattformer på nettet</translation>
     </message>
 </context>
 <context>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>&amp;Ikoner</translation>
+        <translation type="vanished">&amp;Ikoner</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">Vis ikondraktmappen.</translation>
+        <translation type="obsolete">Vis ikondraktmappen.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation>&amp;Widgeter</translation>
+        <translation type="vanished">&amp;Widgeter</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="unfinished">Vis widgetdraktmappen.</translation>
-    </message>
-    <message>
-        <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Vis widgetdraktmappen.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>K&amp;att</translation>
+        <translation type="vanished">K&amp;att</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>Vis kattepakkemappen.</translation>
+        <translation type="vanished">Vis kattepakkemappen.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation>Oppfrisk alle</translation>
+        <translation type="vanished">Oppfrisk alle</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>WizardPage</translation>
+        <translation type="vanished">WizardPage</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>Velg drakten du vil bruke</translation>
-    </message>
-    <message>
-        <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Preview:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Velg drakten du vil bruke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -14748,7 +14562,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished">Filter:</translation>
+        <translation type="obsolete">Filter:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -15501,11 +15315,11 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>Datapakker</translation>
+        <translation type="vanished">Datapakker</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>Håndter datapakker i verdenen.</translation>
+        <translation type="vanished">Håndter datapakker i verdenen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -15523,7 +15337,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>Åpne mappen med datapakker</translation>
+        <translation type="vanished">Åpne mappen med datapakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

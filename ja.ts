@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>APIキー</translation>
+        <translation type="vanished">APIキー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,16 +88,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(デフォルト)</translation>
+        <translation type="vanished">(デフォルト)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Microsoftの認証用のカスタムクライアントIDをここに入力してください。</translation>
+        <translation type="vanished">Microsoftの認証用のカスタムクライアントIDをここに入力してください。</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth API</translation>
+        <translation type="vanished">&amp;Modrinth API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,15 +106,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>ModrinthのカスタムAPIトークンをここに入力してください。</translation>
+        <translation type="vanished">ModrinthのカスタムAPIトークンをここに入力してください。</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(なし)</translation>
+        <translation type="vanished">(なし)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>Technic LauncherのクライアントID</translation>
+        <translation type="vanished">Technic LauncherのクライアントID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Technic LauncherのカスタムGUIDクライアントIDをここに入力してください。</translation>
+        <translation type="vanished">Technic LauncherのカスタムGUIDクライアントIDをここに入力してください。</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>その他</translation>
+        <translation type="vanished">その他</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>メタデータ用のカスタムURLをここに入力してください。</translation>
+        <translation type="vanished">メタデータ用のカスタムURLをここに入力してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge コアAPI</translation>
+        <translation type="vanished">&amp;CurseForge コアAPI</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>CurseForgeのカスタムAPIキーをここに入力してください。</translation>
+        <translation type="vanished">CurseForgeのカスタムAPIキーをここに入力してください。</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>API</translation>
+        <translation type="vanished">API</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>パックのコンフィグを開くのに失敗しました %1！</translation>
+        <translation type="vanished">パックのコンフィグを開くのに失敗しました %1！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -417,12 +417,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>未チェック</translation>
+        <translation type="vanished">未チェック</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>オフライン</translation>
+        <translation type="vanished">オフライン</translation>
     </message>
     <message>
         <source>Online</source>
@@ -450,37 +450,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>準備完了</translation>
+        <translation type="vanished">準備完了</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>処理中</translation>
+        <translation type="vanished">処理中</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>エラー</translation>
+        <translation type="vanished">エラー</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>期限切れ</translation>
+        <translation type="vanished">期限切れ</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>使用不可</translation>
+        <translation type="vanished">使用不可</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>消滅</translation>
+        <translation type="vanished">消滅</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>不明</translation>
+        <translation type="vanished">不明</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1129,7 +1129,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Mojangからassetsファイルを取得中...</translation>
+        <translation type="vanished">Mojangからassetsファイルを取得中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1513,11 +1513,11 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;設定されたModsフォルダとデフォルトのダウンロードフォルダ内では、ダウンロードされたModが自動的に検出され起動構成にコピーされます。&lt;/p&gt;&lt;p&gt;なお、デフォルトのダウンロードフォルダにダウンロードしなかった場合は、ダウンロードしたModをこの画面にドラッグ＆ドロップするか、監視するフォルダを追加することもできます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;設定されたModsフォルダとデフォルトのダウンロードフォルダ内では、ダウンロードされたModが自動的に検出され起動構成にコピーされます。&lt;/p&gt;&lt;p&gt;なお、デフォルトのダウンロードフォルダにダウンロードしなかった場合は、ダウンロードしたModをこの画面にドラッグ＆ドロップするか、監視するフォルダを追加することもできます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>監視するフォルダー：</translation>
+        <translation type="vanished">監視するフォルダー：</translation>
     </message>
 </context>
 <context>
@@ -1661,7 +1661,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>一つまたは複数のサブタスクが失敗しました</translation>
+        <translation type="vanished">一つまたは複数のサブタスクが失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1904,7 +1904,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>コアMod</translation>
+        <translation type="vanished">コアMod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2044,22 +2044,22 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>カスタムコマンド(&amp;C)</translation>
+        <translation type="vanished">カスタムコマンド(&amp;C)</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>終了後コマンド(&amp;O)：</translation>
+        <translation type="vanished">終了後コマンド(&amp;O)：</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>起動前コマンド(&amp;P)：</translation>
+        <translation type="vanished">起動前コマンド(&amp;P)：</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Wrapperコマンド(&amp;W)：</translation>
+        <translation type="vanished">Wrapperコマンド(&amp;W)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2092,7 +2092,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>カスタムコマンド</translation>
+        <translation type="vanished">カスタムコマンド</translation>
     </message>
 </context>
 <context>
@@ -2460,7 +2460,7 @@ Are you sure?</source>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Modにメタデータがあるかどうかを確認中...</translation>
+        <translation type="vanished">Modにメタデータがあるかどうかを確認中...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2512,7 +2512,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>環境変数(&amp;E)</translation>
+        <translation type="vanished">環境変数(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2549,7 +2549,7 @@ Are you sure?</source>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>環境変数</translation>
+        <translation type="vanished">環境変数</translation>
     </message>
 </context>
 <context>
@@ -2688,11 +2688,11 @@ Are you sure?</source>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>名前(&amp;N)</translation>
+        <translation type="vanished">名前(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>バージョン(&amp;V)</translation>
+        <translation type="vanished">バージョン(&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2744,7 +2744,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>作者(&amp;A)</translation>
+        <translation type="vanished">作者(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2929,7 +2929,7 @@ Are you sure?</source>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation>フィルター：</translation>
+        <translation type="vanished">フィルター：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2938,11 +2938,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>追加(&amp;A)</translation>
+        <translation type="vanished">追加(&amp;A)</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>追加</translation>
+        <translation type="vanished">追加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2951,7 +2951,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>選択したものを削除</translation>
+        <translation type="vanished">選択したものを削除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2960,7 +2960,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>選択したものを有効化</translation>
+        <translation type="vanished">選択したものを有効化</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3075,7 +3075,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>新しいリソースをダウンロード中</translation>
+        <translation type="vanished">新しいリソースをダウンロード中</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3085,27 +3085,27 @@ Are you sure?</source>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>選択したすべてのリソースのアップデートを確認します（未選択の場合はすべて）</translation>
+        <translation type="vanished">選択したすべてのリソースのアップデートを確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>リストをエクスポート</translation>
+        <translation type="vanished">リストをエクスポート</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>Modのメタデータをテキストにエクスポートします</translation>
+        <translation type="vanished">Modのメタデータをテキストにエクスポートします</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Modのページを開く</translation>
+        <translation type="vanished">Modのページを開く</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>選択したものを無効化</translation>
+        <translation type="vanished">選択したものを無効化</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>選択したModのホームページを開きます</translation>
+        <translation type="vanished">選択したModのホームページを開きます</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -3167,12 +3167,12 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>無効化の確認</translation>
+        <translation type="vanished">無効化の確認</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>ゲームの実行中にリソースを無効にすると、ゲームがクラッシュする可能性があります。
+        <translation type="vanished">ゲームの実行中にリソースを無効にすると、ゲームがクラッシュする可能性があります。
 本当に無効化しますか？</translation>
     </message>
     <message>
@@ -3245,16 +3245,16 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>外部エディタ（システムのデフォルトの場合は空のまま）</translation>
+        <translation type="vanished">外部エディタ（システムのデフォルトの場合は空のまま）</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>テキストエディタ(&amp;T)：</translation>
+        <translation type="vanished">テキストエディタ(&amp;T)：</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>外部ツール</translation>
+        <translation type="vanished">外部ツール</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3316,17 +3316,17 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVMの実行ファイル</translation>
+        <translation type="vanished">JVisualVMの実行ファイル</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>エラー：JVisualVMのインストールが確認できません
+        <translation type="vanished">エラー：JVisualVMのインストールが確認できません
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>JVisualVMのセットアップが完了しました</translation>
+        <translation type="vanished">JVisualVMのセットアップが完了しました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3353,7 +3353,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>JSON エディター</translation>
+        <translation type="vanished">JSON エディター</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3467,7 +3467,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>注意：FTBの起動構成がデフォルトの場所にない場合は、検索の横にあるボタンで選択してください。</translation>
+        <translation type="vanished">注意：FTBの起動構成がデフォルトの場所にない場合は、検索の横にあるボタンで選択してください。</translation>
     </message>
 </context>
 <context>
@@ -3530,7 +3530,7 @@ Please try again.</source>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>CurseForgeから &apos;%1&apos; のAPIレスポンスを取得中…</translation>
+        <translation type="vanished">CurseForgeから &apos;%1&apos; のAPIレスポンスを取得中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3569,16 +3569,16 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>CurseForgeのModを準備中…</translation>
+        <translation type="vanished">CurseForgeのModを準備中…</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>このModに有効なバージョンが見つかりませんでした。現在のゲームバージョンとModローダーでは利用できません。</translation>
+        <translation type="vanished">このModに有効なバージョンが見つかりませんでした。現在のゲームバージョンとModローダーでは利用できません。</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Modの新しいアップデートが利用可能ですが、CurseForgeからはダウンロードできません。</translation>
+        <translation type="vanished">Modの新しいアップデートが利用可能ですが、CurseForgeからはダウンロードできません。</translation>
     </message>
 </context>
 <context>
@@ -3978,11 +3978,11 @@ Please try again.</source>
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>キー</translation>
+        <translation type="vanished">キー</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>値</translation>
+        <translation type="vanished">値</translation>
     </message>
 </context>
 <context>
@@ -4372,11 +4372,11 @@ Please try again.</source>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>名前(&amp;N)：</translation>
+        <translation type="vanished">名前(&amp;N)：</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>グループ(&amp;G)：</translation>
+        <translation type="vanished">グループ(&amp;G)：</translation>
     </message>
 </context>
 <context>
@@ -4564,19 +4564,19 @@ Please try again.</source>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation>グローバル設定を開く</translation>
+        <translation type="vanished">グローバル設定を開く</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>ここでの設定はグローバル設定を上書きします。</translation>
+        <translation type="vanished">ここでの設定はグローバル設定を上書きします。</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Javaの指定(&amp;L)</translation>
+        <translation type="vanished">Javaの指定(&amp;L)</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>自動検出...</translation>
+        <translation type="vanished">自動検出...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4584,72 +4584,72 @@ Please try again.</source>
     </message>
     <message>
         <source>Test</source>
-        <translation>テスト</translation>
+        <translation type="vanished">テスト</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>有効にすると、ランチャーは起動構成が選択したJavaバージョンと互換性があるかどうかを確認しません。</translation>
+        <translation type="vanished">有効にすると、ランチャーは起動構成が選択したJavaバージョンと互換性があるかどうかを確認しません。</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>Javaの互換性チェックをスキップする</translation>
+        <translation type="vanished">Javaの互換性チェックをスキップする</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>メモリ(&amp;Y)</translation>
+        <translation type="vanished">メモリ(&amp;Y)</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>最小メモリ割り当て：</translation>
+        <translation type="vanished">最小メモリ割り当て：</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraftに使用されるメモリの最大量です。</translation>
+        <translation type="vanished">Minecraftに使用されるメモリの最大量です。</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraftの起動時に使用されるメモリの量です。</translation>
+        <translation type="vanished">Minecraftの起動時に使用されるメモリの量です。</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>ロードされたJavaクラスを保存するために使用可能なメモリの量です。</translation>
+        <translation type="vanished">ロードされたJavaクラスを保存するために使用可能なメモリの量です。</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>最大メモリ割り当て：</translation>
+        <translation type="vanished">最大メモリ割り当て：</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>参照</translation>
+        <translation type="vanished">参照</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Javaのダウンロード</translation>
+        <translation type="vanished">Javaのダウンロード</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>PermGenメモリサイズ：</translation>
+        <translation type="vanished">PermGenメモリサイズ：</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>注意：Java8以降では Permgen は自動でセットされます</translation>
+        <translation type="vanished">注意：Java8以降では Permgen は自動でセットされます</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Javaの引数(&amp;T)</translation>
+        <translation type="vanished">Javaの引数(&amp;T)</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>ゲームウィンドウ</translation>
+        <translation type="vanished">ゲームウィンドウ</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>ゲームウィンドウ</translation>
+        <translation type="vanished">ゲームウィンドウ</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Minecraftのウィンドウを起動時に最大化</translation>
+        <translation type="vanished">Minecraftのウィンドウを起動時に最大化</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4661,156 +4661,156 @@ Please try again.</source>
     </message>
     <message>
         <source>Window height:</source>
-        <translation>ウィンドウの高さ：</translation>
+        <translation type="vanished">ウィンドウの高さ：</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>ウィンドウの幅：</translation>
+        <translation type="vanished">ウィンドウの幅：</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>コンソールの設定(&amp;L)</translation>
+        <translation type="vanished">コンソールの設定(&amp;L)</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>ゲームの実行中にコンソールを表示</translation>
+        <translation type="vanished">ゲームの実行中にコンソールを表示</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>ゲーム終了時にコンソールを自動的に閉じる</translation>
+        <translation type="vanished">ゲーム終了時にコンソールを自動的に閉じる</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>ゲームがクラッシュしたときにコンソールを表示</translation>
+        <translation type="vanished">ゲームがクラッシュしたときにコンソールを表示</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>ゲームウィンドウが開いた後にランチャーを閉じる</translation>
+        <translation type="vanished">ゲームウィンドウが開いた後にランチャーを閉じる</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>ゲームウィンドウが閉じた後にランチャーを終了する</translation>
+        <translation type="vanished">ゲームウィンドウが閉じた後にランチャーを終了する</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>カスタムコマンド</translation>
+        <translation type="vanished">カスタムコマンド</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>環境変数</translation>
+        <translation type="vanished">環境変数</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>不具合回避</translation>
+        <translation type="vanished">不具合回避</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>ネイティブライブラリ</translation>
+        <translation type="vanished">ネイティブライブラリ</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>GLFWライブラリのパス(&amp;G)</translation>
+        <translation type="vanished">GLFWライブラリのパス(&amp;G)</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>システムにインストールされたGLFWを使用する</translation>
+        <translation type="vanished">システムにインストールされたGLFWを使用する</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>システムにインストールされたOpenALを使用する</translation>
+        <translation type="vanished">システムにインストールされたOpenALを使用する</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>シングルプレイのワールド</translation>
+        <translation type="vanished">シングルプレイのワールド</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation>デフォルトアカウントを上書き</translation>
+        <translation type="vanished">デフォルトアカウントを上書き</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>アカウント：</translation>
+        <translation type="vanished">アカウント：</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>その他</translation>
+        <translation type="vanished">その他</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>OpenAL ライブラリのパス(&amp;O)</translation>
+        <translation type="vanished">OpenAL ライブラリのパス(&amp;O)</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>パフォーマンス</translation>
+        <translation type="vanished">パフォーマンス</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;潜在的なパフォーマンスを向上するため、Feral Interactive&apos;s GameModeを有効化します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;潜在的なパフォーマンスを向上するため、Feral Interactive&apos;s GameModeを有効化します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Feral GameModeを有効化</translation>
+        <translation type="vanished">Feral GameModeを有効化</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHudのアドバンスドパフォーマンスオーバーレイを有効化します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHudのアドバンスドパフォーマンスオーバーレイを有効化します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>MangoHudを有効化</translation>
+        <translation type="vanished">MangoHudを有効化</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;内蔵GPUの代わりに外付けグラフィックボードを使用します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;内蔵GPUの代わりに外付けグラフィックボードを使用します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>外部GPUを使用</translation>
+        <translation type="vanished">外部GPUを使用</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Vulkan 上で OpenGL を実装する Mesa OpenGL ドライバである Zink を使用してください。パフォーマンスは状況によって異なります。注意：適切な Vulkan ドライバが見つからない場合は、ソフトウェア レンダリングが使用されます。</translation>
+        <translation type="vanished">Vulkan 上で OpenGL を実装する Mesa OpenGL ドライバである Zink を使用してください。パフォーマンスは状況によって異なります。注意：適切な Vulkan ドライバが見つからない場合は、ソフトウェア レンダリングが使用されます。</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Zinkを使用</translation>
+        <translation type="vanished">Zinkを使用</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>レガシー設定</translation>
+        <translation type="vanished">レガシー設定</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;現在運営されていない古いオンラインサービスの機能をエミュレートします。&lt;/p&gt;&lt;p&gt;これにより最新のスキンが使えるようになります。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;現在運営されていない古いオンラインサービスの機能をエミュレートします。&lt;/p&gt;&lt;p&gt;これにより最新のスキンが使えるようになります。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>オンライン修正を有効化（実験的）</translation>
+        <translation type="vanished">オンライン修正を有効化（実験的）</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>グローバル設定のゲーム時間設定を上書き</translation>
+        <translation type="vanished">グローバル設定のゲーム時間設定を上書き</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>この起動構成のプレイ時間を表示</translation>
+        <translation type="vanished">この起動構成のプレイ時間を表示</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>この起動構成のプレイ時間を記録</translation>
+        <translation type="vanished">この起動構成のプレイ時間を記録</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>起動時に参加するサーバーを選択</translation>
+        <translation type="vanished">起動時に参加するサーバーを選択</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>サーバーアドレス：</translation>
+        <translation type="vanished">サーバーアドレス：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4819,39 +4819,39 @@ Please try again.</source>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>ライブラリファイルのパス %1</translation>
+        <translation type="vanished">ライブラリファイルのパス %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive&apos;s GameModeが見つかりません。</translation>
+        <translation type="vanished">Feral Interactive&apos;s GameModeが見つかりません。</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHudが見つかりません。</translation>
+        <translation type="vanished">MangoHudが見つかりません。</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Javaのバージョンを選択</translation>
+        <translation type="vanished">Javaのバージョンを選択</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>選択の確認</translation>
+        <translation type="vanished">選択の確認</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>32bit版のJavaを選択しました。
+        <translation type="vanished">32bit版のJavaを選択しました。
 このJavaは2048MiB以上のメモリをサポートしていません。
 最大メモリ値がそれより低いことを確認してください。</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Java実行可能ファイルを探します</translation>
+        <translation type="vanished">Java実行可能ファイルを探します</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>メモリの最大割り当て量が最小割り当て量を下回っています</translation>
+        <translation type="vanished">メモリの最大割り当て量が最小割り当て量を下回っています</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4859,11 +4859,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>最大メモリ割り当て量がシステムメモリ容量を超えています。</translation>
+        <translation type="vanished">最大メモリ割り当て量がシステムメモリ容量を超えています。</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>最大メモリ割り当て量がシステムメモリ容量に近いです。</translation>
+        <translation type="vanished">最大メモリ割り当て量がシステムメモリ容量に近いです。</translation>
     </message>
 </context>
 <context>
@@ -4968,7 +4968,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation>JVisualVMを開始</translation>
+        <translation type="vanished">JVisualVMを開始</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -4995,15 +4995,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Javaを展開中（tarアーカイブの進行状況は報告されません）</translation>
+        <translation type="vanished">Javaを展開中（tarアーカイブの進行状況は報告されません）</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation>提供されたtarファイルを開けません。</translation>
+        <translation type="vanished">提供されたtarファイルを開けません。</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation>提供されたtarファイルを展開できません。</translation>
+        <translation type="vanished">提供されたtarファイルを展開できません。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5017,7 +5017,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation>アーカイブの種類を判別できませんでした！</translation>
+        <translation type="vanished">アーカイブの種類を判別できませんでした！</translation>
     </message>
 </context>
 <context>
@@ -5123,70 +5123,70 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>メモリ</translation>
+        <translation type="vanished">メモリ</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraftに使用されるメモリの最大量です。</translation>
+        <translation type="vanished">Minecraftに使用されるメモリの最大量です。</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>最小メモリ割り当て(&amp;M)：</translation>
+        <translation type="vanished">最小メモリ割り当て(&amp;M)：</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>最大メモリ割り当て(&amp;X)：</translation>
+        <translation type="vanished">最大メモリ割り当て(&amp;X)：</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>PermGenサイズ割り当て(&amp;P)：</translation>
+        <translation type="vanished">PermGenサイズ割り当て(&amp;P)：</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraftの起動時に使用されるメモリの量です。</translation>
+        <translation type="vanished">Minecraftの起動時に使用されるメモリの量です。</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>ロードされたJavaクラスを保存するために使用可能なメモリの量です。</translation>
+        <translation type="vanished">ロードされたJavaクラスを保存するために使用可能なメモリの量です。</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Javaランタイム</translation>
+        <translation type="vanished">Javaランタイム</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>JVM 引数：</translation>
+        <translation type="vanished">JVM 引数：</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>必要なメジャーバージョンに基づいて、現在の Minecraft の起動構成と互換性のある Java バージョンを自動的に選択します。</translation>
+        <translation type="vanished">必要なメジャーバージョンに基づいて、現在の Minecraft の起動構成と互換性のある Java バージョンを自動的に選択します。</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Javaバージョンの自動検出</translation>
+        <translation type="vanished">Javaバージョンの自動検出</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Javaのパス(&amp;J)：</translation>
+        <translation type="vanished">Javaのパス(&amp;J)：</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>Mojangが推奨するJavaバージョンを自動的にダウンロードして選択します。</translation>
+        <translation type="vanished">Mojangが推奨するJavaバージョンを自動的にダウンロードして選択します。</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>MojangのJavaを自動ダウンロード</translation>
+        <translation type="vanished">MojangのJavaを自動ダウンロード</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>管理</translation>
+        <translation type="vanished">管理</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>ダウンロード済みのJavaバージョン</translation>
+        <translation type="vanished">ダウンロード済みのJavaバージョン</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5216,33 +5216,33 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>自動検出(&amp;A)...</translation>
+        <translation type="vanished">自動検出(&amp;A)...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>テスト(&amp;T)</translation>
+        <translation type="vanished">テスト(&amp;T)</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>参照</translation>
+        <translation type="vanished">参照</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>有効にすると、ランチャーはJavaバージョンが見つからない場合に選択を求めるプロンプトを表示しません。</translation>
+        <translation type="vanished">有効にすると、ランチャーはJavaバージョンが見つからない場合に選択を求めるプロンプトを表示しません。</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Javaウィザードをスキップ(&amp;W)</translation>
+        <translation type="vanished">Javaウィザードをスキップ(&amp;W)</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>有効にすると、起動構成で選択したJavaバージョンと互換性があるかどうかをランチャーが確認しなくなります。</translation>
+        <translation type="vanished">有効にすると、起動構成で選択したJavaバージョンと互換性があるかどうかをランチャーが確認しなくなります。</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>Java互換性チェックをスキップ(&amp;S)</translation>
+        <translation type="vanished">Java互換性チェックをスキップ(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5263,35 +5263,35 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Javaのバージョンを選択</translation>
+        <translation type="vanished">Javaのバージョンを選択</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>選択の確認</translation>
+        <translation type="vanished">選択の確認</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>32bit版のJavaを選択しました。
+        <translation type="vanished">32bit版のJavaを選択しました。
 このJavaは2048MiB以上のメモリをサポートしていません。
 最大メモリ値がそれより低いことを確認してください。</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Java実行可能ファイルを探します</translation>
+        <translation type="vanished">Java実行可能ファイルを探します</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>最大メモリ割り当て量がシステムメモリ容量を超えています。</translation>
+        <translation type="vanished">最大メモリ割り当て量がシステムメモリ容量を超えています。</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>最大メモリ割り当て量がシステムメモリ容量に近いです。</translation>
+        <translation type="vanished">最大メモリ割り当て量がシステムメモリ容量に近いです。</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>メモリの最大割り当て量が最小割り当て量を下回っています</translation>
+        <translation type="vanished">メモリの最大割り当て量が最小割り当て量を下回っています</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5310,7 +5310,7 @@ Are you sure?</source>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Javaのバージョンが選択されていません</translation>
+        <translation type="vanished">Javaのバージョンが選択されていません</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5328,11 +5328,11 @@ Javaバージョンは設定でいつでも変更できます。
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Javaのダウンロード</translation>
+        <translation type="vanished">Javaのダウンロード</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>32bit版のJavaが検出されました</translation>
+        <translation type="vanished">32bit版のJavaが検出されました</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5341,7 +5341,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>32bitのJavaを選択しましたが、最大メモリとして2048MiB以上を割り当てました。
+        <translation type="vanished">32bitのJavaを選択しましたが、最大メモリとして2048MiB以上を割り当てました。
 %1 はMinecraftを起動できません。
 続行しますか？
 
@@ -5355,7 +5355,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Javaのバージョンが選択されていないか、動作しないバージョンが選択されています。
+        <translation type="vanished">Javaのバージョンが選択されていないか、動作しないバージョンが選択されています。
 %1はMinecraftを起動できません。
 動作しないバージョンのJavaを選択したまま進めますか？
 
@@ -5369,7 +5369,7 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Memory</source>
-        <translation>メモリ</translation>
+        <translation type="vanished">メモリ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5378,7 +5378,7 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>最小メモリ割り当て：</translation>
+        <translation type="vanished">最小メモリ割り当て：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5484,7 +5484,7 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>最大メモリ割り当て：</translation>
+        <translation type="vanished">最大メモリ割り当て：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5523,19 +5523,19 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Browse</source>
-        <translation>参照</translation>
+        <translation type="vanished">参照</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>MojangのJavaを自動ダウンロード</translation>
+        <translation type="vanished">MojangのJavaを自動ダウンロード</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Javaバージョンの自動検出</translation>
+        <translation type="vanished">Javaバージョンの自動検出</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>Javaの自動検出</translation>
+        <translation type="vanished">Javaの自動検出</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5573,15 +5573,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>最大メモリ割り当て量がシステムメモリ容量に近いです。</translation>
+        <translation type="vanished">最大メモリ割り当て量がシステムメモリ容量に近いです。</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>メモリの最大割り当て量が最小割り当て量を下回っています</translation>
+        <translation type="vanished">メモリの最大割り当て量が最小割り当て量を下回っています</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>32bit版のJavaでサポートされる最大割り当てを超過しています。</translation>
+        <translation type="vanished">32bit版のJavaでサポートされる最大割り当てを超過しています。</translation>
     </message>
 </context>
 <context>
@@ -5878,11 +5878,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>オフラインプレイ</translation>
+        <translation type="vanished">オフラインプレイ</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>アカウントの有効期限が切れたため、手動でログインし直す必要があります。</translation>
+        <translation type="vanished">アカウントの有効期限が切れたため、手動でログインし直す必要があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -5891,7 +5891,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>ランチャーのクライアント認証が変更されました。このアカウントを削除し、追加しなおしてください。</translation>
+        <translation type="vanished">ランチャーのクライアント認証が変更されました。このアカウントを削除し、追加しなおしてください。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -5900,7 +5900,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>このアカウントはもうサーバーに存在しません。 移行された可能性があります。この場合、移行したアカウントを追加してください。</translation>
+        <translation type="vanished">このアカウントはもうサーバーに存在しません。 移行された可能性があります。この場合、移行したアカウントを追加してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6047,11 +6047,11 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>機能</translation>
+        <translation type="vanished">機能</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>アップデート設定</translation>
+        <translation type="vanished">アップデート設定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6206,7 +6206,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>起動構成の並び順</translation>
+        <translation type="vanished">起動構成の並び順</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6221,7 +6221,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Theme</source>
-        <translation>テーマ</translation>
+        <translation type="vanished">テーマ</translation>
     </message>
     <message>
         <source>&amp;Icons</source>
@@ -6229,17 +6229,17 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Mods</source>
-        <translation>Mod</translation>
+        <translation type="vanished">Mod</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>Modプロバイダー (ModrinthやCurseforge など) が提供するModのメタデータの使用を無効にします。</translation>
+        <translation type="vanished">Modプロバイダー (ModrinthやCurseforge など) が提供するModのメタデータの使用を無効にします。</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>Modのメタデータを使用しない</translation>
+        <translation type="vanished">Modのメタデータを使用しない</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6257,15 +6257,15 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Update interval</source>
-        <translation>アップデートの確認間隔</translation>
+        <translation type="vanished">アップデートの確認間隔</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>0に設定すると起動時のみのチェックになります</translation>
+        <translation type="vanished">0に設定すると起動時のみのチェックになります</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>時間</translation>
+        <translation type="vanished">時間</translation>
     </message>
     <message>
         <source>Rename instance folders</source>
@@ -6295,36 +6295,36 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>ダウンロードフォルダを再帰的に検索</translation>
+        <translation type="vanished">ダウンロードフォルダを再帰的に検索</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Modの依存関係の自動検出、インストール、更新を無効にします。</translation>
+        <translation type="vanished">Modの依存関係の自動検出、インストール、更新を無効にします。</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>Modの依存関係の自動管理を無効化する</translation>
+        <translation type="vanished">Modの依存関係の自動管理を無効化する</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>新しいModパックの起動構成を作成するときに、代わりに既存の起動構成を更新することを提案しないようにします。</translation>
+        <translation type="vanished">新しいModパックの起動構成を作成するときに、代わりに既存の起動構成を更新することを提案しないようにします。</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>Modパックのアップデート提案をスキップ</translation>
+        <translation type="vanished">Modパックのアップデート提案をスキップ</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>その他</translation>
+        <translation type="vanished">その他</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>同時に実行するタスクの数</translation>
+        <translation type="vanished">同時に実行するタスクの数</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>同時ダウンロード数</translation>
+        <translation type="vanished">同時ダウンロード数</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6333,7 +6333,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>HTTPリクエストのタイムアウト</translation>
+        <translation type="vanished">HTTPリクエストのタイムアウト</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6342,7 +6342,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>手動リトライの回数</translation>
+        <translation type="vanished">手動リトライの回数</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6360,23 +6360,23 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Cat</source>
-        <translation>猫</translation>
+        <translation type="vanished">猫</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>猫の不透明度を設定します。0%は完全に透明で、100%は完全に不透明です。</translation>
+        <translation type="vanished">猫の不透明度を設定します。0%は完全に透明で、100%は完全に不透明です。</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>不透明度</translation>
+        <translation type="vanished">不透明度</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>ツール</translation>
+        <translation type="vanished">ツール</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6441,27 +6441,27 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>コンソール設定</translation>
+        <translation type="vanished">コンソール設定</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>ゲームの実行中にコンソールを表示(&amp;R)</translation>
+        <translation type="vanished">ゲームの実行中にコンソールを表示(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>ゲームを終了時にコンソールを自動的に閉じる(&amp;A)</translation>
+        <translation type="vanished">ゲームを終了時にコンソールを自動的に閉じる(&amp;A)</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>ゲームがクラッシュしたときにコンソールを表示(&amp;C)</translation>
+        <translation type="vanished">ゲームがクラッシュしたときにコンソールを表示(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>履歴の上限(&amp;H)</translation>
+        <translation type="vanished">履歴の上限(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6477,7 +6477,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>コンソールのフォント(&amp;F)</translation>
+        <translation type="vanished">コンソールのフォント(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6541,23 +6541,23 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Test/ERROR] OOoooOOOoooo！ 怖いエラー！</translation>
+        <translation type="vanished">[Test/ERROR] OOoooOOOoooo！ 怖いエラー！</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Test/ERROR] 怖いエラー！</translation>
+        <translation type="vanished">[Test/ERROR] 怖いエラー！</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[Test/WARN] それほど怖くない警告。</translation>
+        <translation type="vanished">[Test/WARN] それほど怖くない警告。</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/DEBUG] 秘密のデバッグメッセージ...</translation>
+        <translation type="vanished">[Test/DEBUG] 秘密のデバッグメッセージ...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] 恐ろしい致命的エラー！</translation>
+        <translation type="vanished">[Test/FATAL] 恐ろしい致命的エラー！</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6565,7 +6565,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] 無害なメッセージ…</translation>
+        <translation type="vanished">[Test/INFO] 無害なメッセージ…</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6573,7 +6573,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     </message>
     <message>
         <source>Launcher</source>
-        <translation>ランチャー</translation>
+        <translation type="vanished">ランチャー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6681,7 +6681,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>Modパックファイル %1 を開くのに失敗しました！</translation>
+        <translation type="vanished">Modパックファイル %1 を開くのに失敗しました！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -6901,12 +6901,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>Modのインデックスを更新中：
+        <translation type="vanished">Modのインデックスを更新中：
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>無効なメタデータ</translation>
+        <translation type="vanished">無効なメタデータ</translation>
     </message>
 </context>
 <context>
@@ -6979,7 +6979,7 @@ Reason:
     </message>
     <message>
         <source>Search:</source>
-        <translation>検索：</translation>
+        <translation type="vanished">検索：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7091,7 +7091,7 @@ Reason:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>作成できませんでした：</translation>
+        <translation type="vanished">作成できませんでした：</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7108,7 +7108,7 @@ Reason:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>提供されたzipファイルを開けませんでした。</translation>
+        <translation type="vanished">提供されたzipファイルを開けませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7127,7 +7127,7 @@ Reason:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>zip内の最初のファイルの検索に失敗しました</translation>
+        <translation type="vanished">zip内の最初のファイルの検索に失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -7141,7 +7141,7 @@ Reason:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>%1 の権限を修正できませんでした</translation>
+        <translation type="vanished">%1 の権限を修正できませんでした</translation>
     </message>
 </context>
 <context>
@@ -7250,11 +7250,11 @@ Reason:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>%1 を開くかQRコードをスキャンして、上記のコードを入力してください。</translation>
+        <translation type="vanished">%1 を開くかQRコードをスキャンして、上記のコードを入力してください。</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>%1 を開いて、上記のコードを入力してください。</translation>
+        <translation type="vanished">%1 を開いて、上記のコードを入力してください。</translation>
     </message>
 </context>
 <context>
@@ -7459,7 +7459,7 @@ Reason:
     </message>
     <message>
         <source>More news...</source>
-        <translation>他のお知らせ...</translation>
+        <translation type="vanished">他のお知らせ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7826,7 +7826,7 @@ Reason:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>選択した起動構成のショートカットをデスクトップに作成します。</translation>
+        <translation type="vanished">選択した起動構成のショートカットをデスクトップに作成します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
@@ -7925,7 +7925,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>「%1」を削除しようとしています。
+        <translation type="vanished">「%1」を削除しようとしています。
 これは元に戻せない可能性があり、起動構成はまるごと削除されます。
 
 本当に削除しますか？</translation>
@@ -8205,7 +8205,7 @@ Microsoftアカウントを追加してください。</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>リンクされた起動構成があります</translation>
+        <translation type="vanished">リンクされた起動構成があります</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8215,7 +8215,7 @@ Microsoftアカウントを追加してください。</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>以下の起動構成には参照ファイルが含まれている可能性があります：
 
 %1
@@ -8227,43 +8227,43 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>起動構成のショートカットを作成</translation>
+        <translation type="vanished">起動構成のショートカットを作成</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>デスクトップが見つかりません？！</translation>
+        <translation type="vanished">デスクトップが見つかりません？！</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>ランチャーは展開したフォルダーの中にあるため、ショートカットを作成することができません。</translation>
+        <translation type="vanished">ランチャーは展開したフォルダーの中にあるため、ショートカットを作成することができません。</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>起動構成アプリの作成</translation>
+        <translation type="vanished">起動構成アプリの作成</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>アプリケーションのアイコンの作成に失敗しました。</translation>
+        <translation type="vanished">アプリケーションのアイコンの作成に失敗しました。</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>デスクトップエントリ</translation>
+        <translation type="vanished">デスクトップエントリ</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>この起動構成のショートカットをデスクトップに作成しました！</translation>
+        <translation type="vanished">この起動構成のショートカットをデスクトップに作成しました！</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>この起動構成のショートカットを作成しました！</translation>
+        <translation type="vanished">この起動構成のショートカットを作成しました！</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>起動構成のショートカットの作成に失敗しました！</translation>
+        <translation type="vanished">起動構成のショートカットの作成に失敗しました！</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>ランチャーが間違った設定のAppImageとして実行されていませんか？（$APPIMAGE環境変数が見つかりません）</translation>
+        <translation type="vanished">ランチャーが間違った設定のAppImageとして実行されていませんか？（$APPIMAGE環境変数が見つかりません）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8363,7 +8363,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>ショートカット用のアイコンの作成に失敗しました。</translation>
+        <translation type="vanished">ショートカット用のアイコンの作成に失敗しました。</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8371,7 +8371,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>ご利用のプラットフォームではサポートされていません！</translation>
+        <translation type="vanished">ご利用のプラットフォームではサポートされていません！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -8433,11 +8433,11 @@ Are you sure?</source>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation>パックの情報</translation>
+        <translation type="vanished">パックの情報</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>パックの名前：</translation>
+        <translation type="vanished">パックの名前：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8476,7 +8476,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>ファイルから更新</translation>
+        <translation type="vanished">ファイルから更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8539,7 +8539,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Update pack</source>
-        <translation>パックを更新</translation>
+        <translation type="vanished">パックを更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -8737,12 +8737,12 @@ This can be updated only using a file in %1 format
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation>ウィンドウサイズ</translation>
+        <translation type="vanished">ウィンドウサイズ</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>Minecraftのウィンドウを起動時に最大化(&amp;M)</translation>
+        <translation type="vanished">Minecraftのウィンドウを起動時に最大化(&amp;M)</translation>
     </message>
     <message>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -8755,138 +8755,138 @@ This can be updated only using a file in %1 format
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>ウィンドウの高さ (&amp;H)：</translation>
+        <translation type="vanished">ウィンドウの高さ (&amp;H)：</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>ウィンドウの幅 (&amp;W)：</translation>
+        <translation type="vanished">ウィンドウの幅 (&amp;W)：</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>プレイ時間を「何時間」で表示</translation>
+        <translation type="vanished">プレイ時間を「何時間」で表示</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>詳細</translation>
+        <translation type="vanished">詳細</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>レガシー設定</translation>
+        <translation type="vanished">レガシー設定</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;現在は運営されていない古いオンラインサービスの仕様をエミュレートします。&lt;/p&gt;&lt;p&gt;これにより最新のスキンがサポートされます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;現在は運営されていない古いオンラインサービスの仕様をエミュレートします。&lt;/p&gt;&lt;p&gt;これにより最新のスキンがサポートされます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>オンライン修正を有効化（実験的）</translation>
+        <translation type="vanished">オンライン修正を有効化（実験的）</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>ネイティブライブラリの不具合回避</translation>
+        <translation type="vanished">ネイティブライブラリの不具合回避</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>システムにインストールされたGLFWを使用する(&amp;G)</translation>
+        <translation type="vanished">システムにインストールされたGLFWを使用する(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>GLFWライブラリのパス(&amp;G)</translation>
+        <translation type="vanished">GLFWライブラリのパス(&amp;G)</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>システムにインストールされたOpenALを使用する(&amp;O)</translation>
+        <translation type="vanished">システムにインストールされたOpenALを使用する(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>OpenALライブラリのパス(&amp;O)</translation>
+        <translation type="vanished">OpenALライブラリのパス(&amp;O)</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>パフォーマンス</translation>
+        <translation type="vanished">パフォーマンス</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;潜在的にパフォーマンスを向上するため、Feral Interactive&apos;s GameModeを有効化します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;潜在的にパフォーマンスを向上するため、Feral Interactive&apos;s GameModeを有効化します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Feral GameModeを有効化</translation>
+        <translation type="vanished">Feral GameModeを有効化</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHudのアドバンスドパフォーマンスオーバーレイを有効化します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHudのアドバンスドパフォーマンスオーバーレイを有効化します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>MangoHudを有効化</translation>
+        <translation type="vanished">MangoHudを有効化</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;メインGPUの代わりに外部GPUを使用します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;メインGPUの代わりに外部GPUを使用します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>外部GPUを使用</translation>
+        <translation type="vanished">外部GPUを使用</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Vulkan 上で OpenGL を実装する Mesa OpenGL ドライバである Zink を使用してください。パフォーマンスは状況によって異なります。注意：適切な Vulkan ドライバが見つからない場合は、ソフトウェア レンダリングが使用されます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Vulkan 上で OpenGL を実装する Mesa OpenGL ドライバである Zink を使用してください。パフォーマンスは状況によって異なります。注意：適切な Vulkan ドライバが見つからない場合は、ソフトウェア レンダリングが使用されます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Zinkを使用</translation>
+        <translation type="vanished">Zinkを使用</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>ゲームの時間</translation>
+        <translation type="vanished">ゲームの時間</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>一般</translation>
+        <translation type="vanished">一般</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>起動構成のプレイ時間を表示(&amp;P)</translation>
+        <translation type="vanished">起動構成のプレイ時間を表示(&amp;P)</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>すべての起動構成の合計プレイ時間を表示(&amp;A)</translation>
+        <translation type="vanished">すべての起動構成の合計プレイ時間を表示(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>起動構成のプレイ時間を記録する(&amp;R)</translation>
+        <translation type="vanished">起動構成のプレイ時間を記録する(&amp;R)</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>その他</translation>
+        <translation type="vanished">その他</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ランチャーはゲームがクラッシュしたり終了した場合に自動で開きます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ランチャーはゲームがクラッシュしたり終了した場合に自動で開きます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>ゲームウィンドウが開いた後にランチャーを閉じる(&amp;C)</translation>
+        <translation type="vanished">ゲームウィンドウが開いた後にランチャーを閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ランチャーはゲームが終了かクラッシュした場合に自動で終了します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ランチャーはゲームが終了かクラッシュした場合に自動で終了します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>ゲームウィンドウが閉じた後にランチャーを終了する(&amp;Q)</translation>
+        <translation type="vanished">ゲームウィンドウが閉じた後にランチャーを終了する(&amp;Q)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -8895,19 +8895,19 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>%1ライブラリファイルのパス</translation>
+        <translation type="vanished">%1ライブラリファイルのパス</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>自動検出されたパス：%1</translation>
+        <translation type="vanished">自動検出されたパス：%1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive&apos;s GameModeが見つかりません。</translation>
+        <translation type="vanished">Feral Interactive&apos;s GameModeが見つかりません。</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHudが見つかりません。</translation>
+        <translation type="vanished">MangoHudが見つかりません。</translation>
     </message>
 </context>
 <context>
@@ -9548,7 +9548,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>不明</translation>
+        <translation type="vanished">不明</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -9652,7 +9652,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Modのダウンロード元。</translation>
+        <translation type="vanished">Modのダウンロード元。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -9737,7 +9737,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download mods</source>
-        <translation>Modをダウンロード</translation>
+        <translation type="vanished">Modをダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -9755,11 +9755,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add file</source>
-        <translation>ファイルを追加</translation>
+        <translation type="vanished">ファイルを追加</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>手動でダウンロードしたModファイルを追加します</translation>
+        <translation type="vanished">手動でダウンロードしたModファイルを追加します</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -9774,11 +9774,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>依存関係を検証</translation>
+        <translation type="vanished">依存関係を検証</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>選択されたModの更新と依存関係を確認します（未選択の場合はすべて）</translation>
+        <translation type="vanished">選択されたModの更新と依存関係を確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
@@ -9788,35 +9788,35 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>Modのホームページを開きます</translation>
+        <translation type="vanished">Modのホームページを開きます</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>選択したModのメタデータを削除します</translation>
+        <translation type="vanished">選択したModのメタデータを削除します</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation>アップデート用のメタデータをリセット</translation>
+        <translation type="vanished">アップデート用のメタデータをリセット</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>バージョンを変更</translation>
+        <translation type="vanished">バージョンを変更</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>Modのバージョンを変更します</translation>
+        <translation type="vanished">Modのバージョンを変更します</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Modのページを開く</translation>
+        <translation type="vanished">Modのページを開く</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation>Modのページを開く</translation>
+        <translation type="vanished">Modのページを開く</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>選択したModのホームページを開きます</translation>
+        <translation type="vanished">選択したModのホームページを開きます</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -9832,7 +9832,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>先にModローダーをインストールしてください！</translation>
+        <translation type="vanished">先にModローダーをインストールしてください！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -10008,92 +10008,92 @@ Are you sure you want to do this?</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>アップデートするModの確認</translation>
+        <translation type="vanished">アップデートするModの確認</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>以下のModをアップデートしようとしています：</translation>
+        <translation type="vanished">以下のModをアップデートしようとしています：</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>チェックが入っているModのみがアップデートされます！</translation>
+        <translation type="vanished">チェックが入っているModのみがアップデートされます！</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Modの名前：%1&lt;br&gt;ファイル名：%2&lt;br&gt;理由：%3&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Modの名前：%1&lt;br&gt;ファイル名：%2&lt;br&gt;理由：%3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation>メタデータの生成に失敗</translation>
+        <translation type="vanished">メタデータの生成に失敗</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>以下のModのメタデータを生成できませんでした：&lt;br&gt;これらのMod以外で続行しますか？</translation>
+        <translation type="vanished">以下のModのメタデータを生成できませんでした：&lt;br&gt;これらのMod以外で続行しますか？</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation>アップデートを確認中</translation>
+        <translation type="vanished">アップデートを確認中</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>エラー</translation>
+        <translation type="vanished">エラー</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>警告</translation>
+        <translation type="vanished">警告</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>中断</translation>
+        <translation type="vanished">中断</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>アップデートを確認中…</translation>
+        <translation type="vanished">アップデートを確認中…</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>Modの名前：%1</translation>
+        <translation type="vanished">Modの名前：%1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>理由：%1</translation>
+        <translation type="vanished">理由：%1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>考えられる解決策：最新バージョンを手動で取得する。&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation type="vanished">考えられる解決策：最新バージョンを手動で取得する。&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>依存関係を確認中...</translation>
+        <translation type="vanished">依存関係を確認中...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>Mod「%1」のメタデータがありません。このModをアップデートするにはメタデータを生成する必要があります。これを行うには、アップデートするために使用するMod提供元を選択してください。</translation>
+        <translation type="vanished">Mod「%1」のメタデータがありません。このModをアップデートするにはメタデータを生成する必要があります。これを行うには、アップデートするために使用するMod提供元を選択してください。</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>選択されたMod提供元で有効なバージョンが見つかりませんでした</translation>
+        <translation type="vanished">選択されたMod提供元で有効なバージョンが見つかりませんでした</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>すでにインストールされている可能性があるため、このModは無効化されました。</translation>
+        <translation type="vanished">すでにインストールされている可能性があるため、このModは無効化されました。</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>アップデートの確認に失敗</translation>
+        <translation type="vanished">アップデートの確認に失敗</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>以下のModのアップデートを確認または取得できませんでした。&lt;br&gt;これらのMod以外で続行しますか？</translation>
+        <translation type="vanished">以下のModのアップデートを確認または取得できませんでした。&lt;br&gt;これらのMod以外で続行しますか？</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>メタデータを検索中</translation>
+        <translation type="vanished">メタデータを検索中</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>メタデータを生成中…</translation>
+        <translation type="vanished">メタデータを生成中…</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10101,35 +10101,35 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>提供元：%1</translation>
+        <translation type="vanished">提供元：%1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation>現在のバージョン：%1</translation>
+        <translation type="vanished">現在のバージョン：%1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>未インストール</translation>
+        <translation type="vanished">未インストール</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation>新しいバージョン：%1</translation>
+        <translation type="vanished">新しいバージョン：%1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>新しいバージョンのタイプ：%1</translation>
+        <translation type="vanished">新しいバージョンのタイプ：%1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>依存元：%1</translation>
+        <translation type="vanished">依存元：%1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>依存元：</translation>
+        <translation type="vanished">依存元：</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>最新バージョンの更新履歴</translation>
+        <translation type="vanished">最新バージョンの更新履歴</translation>
     </message>
 </context>
 <context>
@@ -10230,7 +10230,7 @@ Please update %1!</source>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>ModrinthのModを準備中…</translation>
+        <translation type="vanished">ModrinthのModを準備中…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10268,7 +10268,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>このModに有効なバージョンが見つかりませんでした。現在のゲームバージョンとModローダーでは利用できません。</translation>
+        <translation type="vanished">このModに有効なバージョンが見つかりませんでした。現在のゲームバージョンとModローダーでは利用できません。</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -10800,27 +10800,27 @@ Please update %1!</source>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>アカウントを追加</translation>
+        <translation type="vanished">アカウントを追加</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>ユーザー名</translation>
+        <translation type="vanished">ユーザー名</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>16 文字を超えるユーザー名は、LAN ゲームやオフラインモードのサーバーでは使用できません。</translation>
+        <translation type="vanished">16 文字を超えるユーザー名は、LAN ゲームやオフラインモードのサーバーでは使用できません。</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>長いユーザー名を許可する</translation>
+        <translation type="vanished">長いユーザー名を許可する</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>キャンセル</translation>
+        <translation type="vanished">キャンセル</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
 </context>
 <context>
@@ -10871,7 +10871,7 @@ Please update %1!</source>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>次を検索</translation>
+        <translation type="vanished">次を検索</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -10960,32 +10960,32 @@ Please update %1!</source>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>ログをクリア</translation>
+        <translation type="vanished">ログをクリア</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>削除</translation>
+        <translation type="vanished">削除</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>設定されたペーストサービスにログをアップロードします。</translation>
+        <translation type="vanished">設定されたペーストサービスにログをアップロードします。</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>アップロード</translation>
+        <translation type="vanished">アップロード</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>クリア</translation>
+        <translation type="vanished">クリア</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>再読み込み</translation>
+        <translation type="vanished">再読み込み</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>検索：</translation>
+        <translation type="vanished">検索：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -11012,7 +11012,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>ファイル %1 は読み取れません。</translation>
+        <translation type="vanished">ファイル %1 は読み取れません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -11089,7 +11089,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>その他のログ</translation>
+        <translation type="vanished">その他のログ</translation>
     </message>
 </context>
 <context>
@@ -11114,7 +11114,7 @@ Are you sure?</source>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation type="vanished">閉じる</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -11143,28 +11143,28 @@ Are you sure?</source>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation>%1 にアップロードしています</translation>
+        <translation type="vanished">%1 にアップロードしています</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation>ネットワークエラー：%1</translation>
+        <translation type="vanished">ネットワークエラー：%1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>エラー：%1 が予期しないステータスコード %2 %3 を返しました</translation>
+        <translation type="vanished">エラー：%1 が予期しないステータスコード %2 %3 を返しました</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>エラー：%1 が不正なレスポンスボディを返しました</translation>
+        <translation type="vanished">エラー：%1 が不正なレスポンスボディを返しました</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation>エラー：%1 がエラーを返しました：%2</translation>
+        <translation type="vanished">エラー：%1 がエラーを返しました：%2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>エラー：%1 がエラーコードを返しました：%2
+        <translation type="vanished">エラー：%1 がエラーコードを返しました：%2
 エラーメッセージ：%3</translation>
     </message>
 </context>
@@ -11843,7 +11843,7 @@ HTTPステータス: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>サーバーは以下のエラーを返しました：</translation>
+        <translation type="vanished">サーバーは以下のエラーを返しました：</translation>
     </message>
 </context>
 <context>
@@ -11900,7 +11900,7 @@ HTTPステータス: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>デフォルト(&amp;D)</translation>
+        <translation type="vanished">デフォルト(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -12034,18 +12034,18 @@ HTTPステータス: %2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>Webサイト</translation>
+        <translation type="vanished">Webサイト</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>%1 の開発者</translation>
+        <translation type="vanished">%1 の開発者</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>謝辞</translation>
+        <translation type="vanished">謝辞</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -12116,7 +12116,7 @@ Error message: %1</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>アップロード失敗</translation>
+        <translation type="vanished">アップロード失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -12395,7 +12395,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>指定されたJavaバイナリが動作しませんでした。&lt;br /&gt;自動検出機能を使用するか、Java実行ファイルへのパスを設定してください。&lt;br /&gt;</translation>
+        <translation type="vanished">指定されたJavaバイナリが動作しませんでした。&lt;br /&gt;自動検出機能を使用するか、Java実行ファイルへのパスを設定してください。&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -12423,7 +12423,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>JVisualVMへのパスが無効です</translation>
+        <translation type="vanished">JVisualVMへのパスが無効です</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -12448,7 +12448,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>No author(s)</source>
-        <translation>作者なし</translation>
+        <translation type="vanished">作者なし</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -12671,7 +12671,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>%1 の権限を修正できませんでした</translation>
+        <translation type="vanished">%1 の権限を修正できませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -13071,7 +13071,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>%1のバージョンを変更</translation>
+        <translation type="vanished">%1のバージョンを変更</translation>
     </message>
 </context>
 <context>
@@ -13501,13 +13501,11 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>リソースの名前。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>リソースが最後に変更または追加された日時。</translation>
     </message>
     <message>
@@ -13617,7 +13615,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>リソースパックが有効になっているか？ (ZIPのみ有効)</translation>
+        <translation type="vanished">リソースパックが有効になっているか？ (ZIPのみ有効)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
@@ -13638,15 +13636,15 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>リソースパック</translation>
+        <translation type="vanished">リソースパック</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>パックをダウンロード</translation>
+        <translation type="vanished">パックをダウンロード</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>オンライン プラットフォームからリソースパックをダウンロードします</translation>
+        <translation type="vanished">オンライン プラットフォームからリソースパックをダウンロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -13973,11 +13971,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation>このダウンロードは次の場所に置かれます：%1</translation>
+        <translation type="vanished">このダウンロードは次の場所に置かれます：%1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>このファイルは、おそらくローダーを必要とするため、通常とは異なるフォルダーの場所にダウンロードされます。</translation>
+        <translation type="vanished">このファイルは、おそらくローダーを必要とするため、通常とは異なるフォルダーの場所にダウンロードされます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -14296,7 +14294,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Latency</source>
-        <translation>遅延</translation>
+        <translation type="vanished">遅延</translation>
     </message>
 </context>
 <context>
@@ -14425,15 +14423,15 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>シェーダーパック</translation>
+        <translation type="vanished">シェーダーパック</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>シェーダーをダウンロード</translation>
+        <translation type="vanished">シェーダーをダウンロード</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>オンライン プラットフォームからシェーダーをダウンロードします</translation>
+        <translation type="vanished">オンライン プラットフォームからシェーダーをダウンロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -14998,7 +14996,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>指定されたModパックのzipファイルを開けませんでした。</translation>
+        <translation type="vanished">指定されたModパックのzipファイルを開けませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -15169,13 +15167,11 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>テクスチャーパックが有効になっているか？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>テクスチャーパックの名前。</translation>
     </message>
     <message>
@@ -15185,7 +15181,6 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>テクスチャーパックが最後に変更または追加された日時。</translation>
     </message>
     <message>
@@ -15269,11 +15264,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation>パックをダウンロード</translation>
+        <translation type="vanished">パックをダウンロード</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>オンライン プラットフォームからテクスチャーパックをダウンロードします</translation>
+        <translation type="vanished">オンライン プラットフォームからテクスチャーパックをダウンロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -15395,7 +15390,7 @@ Are you sure?</source>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>アイコン(&amp;I)</translation>
+        <translation type="vanished">アイコン(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -15403,54 +15398,54 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>アイコンテーマのフォルダーを開く。</translation>
+        <translation type="vanished">アイコンテーマのフォルダーを開く。</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation>ウィジェット(&amp;W)</translation>
+        <translation type="vanished">ウィジェット(&amp;W)</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation>ウィジェットテーマのフォルダーを開く。</translation>
+        <translation type="vanished">ウィジェットテーマのフォルダーを開く。</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>猫は背景に表示され、デフォルトでは表示されません。ツールバーの猫ボタンを押したときにのみ表示されます。</translation>
+        <translation type="vanished">猫は背景に表示され、デフォルトでは表示されません。ツールバーの猫ボタンを押したときにのみ表示されます。</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>猫(&amp;A)</translation>
+        <translation type="vanished">猫(&amp;A)</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>猫パックのフォルダーを開く。</translation>
+        <translation type="vanished">猫パックのフォルダーを開く。</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation>すべて再読み込み</translation>
+        <translation type="vanished">すべて再読み込み</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>ウィザードページ</translation>
+        <translation type="vanished">ウィザードページ</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>使用するテーマを選択してください</translation>
+        <translation type="vanished">使用するテーマを選択してください</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>ヒント：猫は背景に表示され、デフォルトでは表示されません。ツールバーの猫ボタンを押したときにのみ表示されます。</translation>
+        <translation type="vanished">ヒント：猫は背景に表示され、デフォルトでは表示されません。ツールバーの猫ボタンを押したときにのみ表示されます。</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation> プレビュー：</translation>
+        <translation type="vanished"> プレビュー：</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>猫が背景に表示されますが、特に理由や機能はありません。見た目だけです。</translation>
+        <translation type="vanished">猫が背景に表示されますが、特に理由や機能はありません。見た目だけです。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -15729,7 +15724,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation>フィルター：</translation>
+        <translation type="vanished">フィルター：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -16565,11 +16560,11 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>データパック</translation>
+        <translation type="vanished">データパック</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>ワールド内のデータパックを管理します。</translation>
+        <translation type="vanished">ワールド内のデータパックを管理します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -16597,7 +16592,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>ワールド データパック フォルダを開く</translation>
+        <translation type="vanished">ワールド データパック フォルダを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>
