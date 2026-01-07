@@ -15080,12 +15080,12 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>La migration des métadonnées du shaderpack depuis .index a échoué</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>La suppression de l&apos;ancien dossier .index a échoué</translation>
     </message>
 </context>
 <context>
