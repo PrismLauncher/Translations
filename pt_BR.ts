@@ -2861,7 +2861,7 @@ Tem certeza que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation>Remarcação</translation>
+        <translation>Markdown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
@@ -3496,7 +3496,7 @@ Por favor, tente de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Vários dos modpacks mais recentes do FTB também estão disponíveis no CurseForge! Aliás, se suas instâncias do FTB não estão no local padrão, selecione o local correto usando o botão ao lado do de pesquisa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -15125,12 +15125,12 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível migrar os metadados de shaders do .index</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível remover o antigo diretório .index</translation>
     </message>
 </context>
 <context>
