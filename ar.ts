@@ -10699,7 +10699,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="202"/>
         <source>The launcher data folder is not writable!</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد معلومات المشغل غير قابل للكتابة!</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="203"/>
@@ -10709,12 +10709,17 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتمكن المحدث من إنشاء ملف سجل - مجلد معلومات غير قابل للكتابة.
+
+تأكد من إعطائك أذونات التغيير للمجلد.
+(%1)
+
+لن يكمل المحدث حتى تصلح هذه المشكلة.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="475"/>
         <source>Updating flatpack not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث فلاتباك غير مدعوم</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="475"/>
