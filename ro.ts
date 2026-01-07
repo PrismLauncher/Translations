@@ -11357,28 +11357,28 @@ Pentru a suprascrie acest blocaj și continuare actualizării oricum, selecteaz�
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Rulare: `%1 %2`</translation>
+        <translation type="vanished">Rulare: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">Lansarea procesului copil a eșuat &quot;%1 %2&quot;.</translation>
+        <translation type="obsolete">Lansarea procesului copil a eșuat &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Extragerea arhivei a eșuat</translation>
+        <translation type="vanished">Extragerea arhivei a eșuat</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Procesul copil &quot;%1 %2&quot; a eșuat.</translation>
+        <translation type="vanished">Procesul copil &quot;%1 %2&quot; a eșuat.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Extragerea arhivei a eșuat</translation>
+        <translation type="vanished">Extragerea arhivei a eșuat</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Formatul arhivei pentru %1 este necunoscut</translation>
+        <translation type="vanished">Formatul arhivei pentru %1 este necunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

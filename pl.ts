@@ -12359,28 +12359,28 @@ By zastąpić tą blokadę i kontynuować z aktualizacją mimo to, zaznacz &quot
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Uruchamianie: &apos;%1 %2&apos;</translation>
+        <translation type="vanished">Uruchamianie: &apos;%1 %2&apos;</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Nie udało się uruchomić procesu podrzędnego &quot;%1 %2&quot;.</translation>
+        <translation type="vanished">Nie udało się uruchomić procesu podrzędnego &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Błąd podczas wypakowywania archiwum</translation>
+        <translation type="vanished">Błąd podczas wypakowywania archiwum</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Proces podrzędny &quot;%1 %2&quot; nie powiódł się.</translation>
+        <translation type="vanished">Proces podrzędny &quot;%1 %2&quot; nie powiódł się.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Wypakowywanie archiwum nieudane</translation>
+        <translation type="vanished">Wypakowywanie archiwum nieudane</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Nieznany format archiwum dla %1</translation>
+        <translation type="vanished">Nieznany format archiwum dla %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

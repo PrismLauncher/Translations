@@ -11637,28 +11637,28 @@ Untuk menimpa lock ini dan melanjutkan pembaruan, pilih &quot;Abaikan&quot; di b
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Menjalankan: `%1 %2`</translation>
+        <translation type="vanished">Menjalankan: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Gagal menjalankan anak proses &quot;%1 %2&quot;.</translation>
+        <translation type="vanished">Gagal menjalankan anak proses &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Gagal mengekstraksi arsip</translation>
+        <translation type="vanished">Gagal mengekstraksi arsip</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Proses anak &quot;%1 %2&quot; gagal.</translation>
+        <translation type="vanished">Proses anak &quot;%1 %2&quot; gagal.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Gagal mengekstraksi arsip</translation>
+        <translation type="vanished">Gagal mengekstraksi arsip</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Format arsip tidak diketahui untuk %1</translation>
+        <translation type="vanished">Format arsip tidak diketahui untuk %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

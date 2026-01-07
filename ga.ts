@@ -10045,28 +10045,28 @@ Chun an glasáil seo a athscríobh agus leanúint ar aghaidh leis an nuashonrú 
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Ag rith: `%1 %2`</translation>
+        <translation type="vanished">Ag rith: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Theip ar phróiseas linbh &quot;%1 %2&quot; a sheoladh.</translation>
+        <translation type="vanished">Theip ar phróiseas linbh &quot;%1 %2&quot; a sheoladh.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Theip ar an gcartlann a bhaint amach</translation>
+        <translation type="vanished">Theip ar an gcartlann a bhaint amach</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Theip ar phróiseas linbh &quot;%1 %2&quot;.</translation>
+        <translation type="vanished">Theip ar phróiseas linbh &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Theip ar an gcartlann a bhaint amach</translation>
+        <translation type="vanished">Theip ar an gcartlann a bhaint amach</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Formáid cartlainne anaithnid do %1</translation>
+        <translation type="vanished">Formáid cartlainne anaithnid do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

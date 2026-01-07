@@ -12071,28 +12071,28 @@ För att skriva över detta lås och fortsätta med denna uppdatering ändå, v�
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Kör: &quot;%1 %2&quot;</translation>
+        <translation type="vanished">Kör: &quot;%1 %2&quot;</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Misslyckades att starta barnprocess &quot;%1 %2&quot;.</translation>
+        <translation type="vanished">Misslyckades att starta barnprocess &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Misslyckades att extrahera arkiv</translation>
+        <translation type="vanished">Misslyckades att extrahera arkiv</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Barnprocessen &quot;%1%2&quot; misslyckades.</translation>
+        <translation type="vanished">Barnprocessen &quot;%1%2&quot; misslyckades.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Misslyckades med att extrahera arkiv</translation>
+        <translation type="vanished">Misslyckades med att extrahera arkiv</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Okänt arkivformat för %1</translation>
+        <translation type="vanished">Okänt arkivformat för %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

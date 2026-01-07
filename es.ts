@@ -12303,28 +12303,28 @@ Para sobrescribir este bloqueo y proceder con esta actualización de todos modos
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Ejecutando: `%1 %2`</translation>
+        <translation type="vanished">Ejecutando: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Error al lanzar el proceso hijo &quot;%1 %2&quot;.</translation>
+        <translation type="vanished">Error al lanzar el proceso hijo &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Error al extraer archivo</translation>
+        <translation type="vanished">Error al extraer archivo</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>El proceso hijo &quot;%1 %2&quot; ha fallado.</translation>
+        <translation type="vanished">El proceso hijo &quot;%1 %2&quot; ha fallado.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Error al extraer el archivo</translation>
+        <translation type="vanished">Error al extraer el archivo</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Formato de archivo desconocido para %1</translation>
+        <translation type="vanished">Formato de archivo desconocido para %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

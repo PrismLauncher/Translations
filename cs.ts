@@ -12241,28 +12241,28 @@ Pro odstranění tohoto uzamčení a pokračování klikněte na „Ignorovat“
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Spouštění: `%1 %2`</translation>
+        <translation type="vanished">Spouštění: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Nepodařilo se spustit podřazený proces „%1 %2“.</translation>
+        <translation type="vanished">Nepodařilo se spustit podřazený proces „%1 %2“.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Extrakce archivu selhala</translation>
+        <translation type="vanished">Extrakce archivu selhala</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Podřazený proces „%1 %2“ selhal.</translation>
+        <translation type="vanished">Podřazený proces „%1 %2“ selhal.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Nepodařilo se extrahovat archiv</translation>
+        <translation type="vanished">Nepodařilo se extrahovat archiv</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Neznámý formát archivu pro %1</translation>
+        <translation type="vanished">Neznámý formát archivu pro %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

@@ -11628,28 +11628,28 @@ Chi tiết cho lần cập nhật gần đây nhất.
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Đang chạy: &apos;%1 %2&apos;</translation>
+        <translation type="vanished">Đang chạy: &apos;%1 %2&apos;</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Khởi chạy tiến trình con &quot;%1 %2&quot; thất bại.</translation>
+        <translation type="vanished">Khởi chạy tiến trình con &quot;%1 %2&quot; thất bại.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Thất bại khi giải nén</translation>
+        <translation type="vanished">Thất bại khi giải nén</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Tiến trình con &quot;%1 %2&quot; thất bại.</translation>
+        <translation type="vanished">Tiến trình con &quot;%1 %2&quot; thất bại.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Thất bại khi giải nén thư mục</translation>
+        <translation type="vanished">Thất bại khi giải nén thư mục</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Định dạng tệp tin nén không xác định: %1</translation>
+        <translation type="vanished">Định dạng tệp tin nén không xác định: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

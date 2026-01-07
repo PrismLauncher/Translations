@@ -11684,28 +11684,28 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>実行中：`%1 %2`</translation>
+        <translation type="vanished">実行中：`%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>子プロセス &quot;%1 %2&quot; の起動に失敗しました。</translation>
+        <translation type="vanished">子プロセス &quot;%1 %2&quot; の起動に失敗しました。</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>アーカイブの展開に失敗</translation>
+        <translation type="vanished">アーカイブの展開に失敗</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>子プロセス &quot;%1 %2&quot; が失敗しました。</translation>
+        <translation type="vanished">子プロセス &quot;%1 %2&quot; が失敗しました。</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>アーカイブの展開に失敗</translation>
+        <translation type="vanished">アーカイブの展開に失敗</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>%1 は不明なアーカイブ形式です</translation>
+        <translation type="vanished">%1 は不明なアーカイブ形式です</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

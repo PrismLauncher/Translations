@@ -12077,28 +12077,28 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Запуск: `%1 %2`</translation>
+        <translation type="vanished">Запуск: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Не вдалося запустити дочірній процес &quot;%1 %2&quot;.</translation>
+        <translation type="vanished">Не вдалося запустити дочірній процес &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Не вдалося розпакувати архів</translation>
+        <translation type="vanished">Не вдалося розпакувати архів</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Дочірній процес «%1 %2» завершився невдало.</translation>
+        <translation type="vanished">Дочірній процес «%1 %2» завершився невдало.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Не вдалося розпакувати архів</translation>
+        <translation type="vanished">Не вдалося розпакувати архів</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Невідомий формат архіву для %1</translation>
+        <translation type="vanished">Невідомий формат архіву для %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

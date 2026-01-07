@@ -12292,28 +12292,28 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>正在执行：`%1 %2`</translation>
+        <translation type="vanished">正在执行：`%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>无法启动启动器子进程“%1 %2”。</translation>
+        <translation type="vanished">无法启动启动器子进程“%1 %2”。</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>无法解压压缩文件</translation>
+        <translation type="vanished">无法解压压缩文件</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>子进程“%1 %2”运行失败。</translation>
+        <translation type="vanished">子进程“%1 %2”运行失败。</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>无法解压压缩文件</translation>
+        <translation type="vanished">无法解压压缩文件</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>%1 的压缩格式未知</translation>
+        <translation type="vanished">%1 的压缩格式未知</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

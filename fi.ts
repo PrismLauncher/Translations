@@ -11388,28 +11388,28 @@ Ohittaaksesi tämän lukon ja jatkaaksesi päivityksellä silti, valitse &quot;O
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Ajetaan: `%1 %2`</translation>
+        <translation type="vanished">Ajetaan: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Ei voitu käynnistää lapsiprosessia &quot;%1 %2&quot;.</translation>
+        <translation type="vanished">Ei voitu käynnistää lapsiprosessia &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Ei voitu purkaa arkistoa</translation>
+        <translation type="vanished">Ei voitu purkaa arkistoa</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Lapsiprosessi &quot;%1 %2&quot; epäonnistui.</translation>
+        <translation type="vanished">Lapsiprosessi &quot;%1 %2&quot; epäonnistui.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Ei voitu purkaa arkistoa</translation>
+        <translation type="vanished">Ei voitu purkaa arkistoa</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Tuntematon arkistomuoto polussa %1</translation>
+        <translation type="vanished">Tuntematon arkistomuoto polussa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

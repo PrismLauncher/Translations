@@ -10147,28 +10147,28 @@ Par sorescrivi chest bloc e lâ indevant distès cul inzornament, selezione “I
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Esecuzion: `%1 %2`</translation>
+        <translation type="vanished">Esecuzion: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Impussibil inviâ il procès fi &quot;%1 %2&quot;.</translation>
+        <translation type="vanished">Impussibil inviâ il procès fi &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Estrazion dal archivi falide</translation>
+        <translation type="vanished">Estrazion dal archivi falide</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Il procès fi &quot;%1 %2&quot; al è falît.</translation>
+        <translation type="vanished">Il procès fi &quot;%1 %2&quot; al è falît.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Impussibil estrai l&apos;archivi</translation>
+        <translation type="vanished">Impussibil estrai l&apos;archivi</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Formât archivi no cognossût par %1</translation>
+        <translation type="vanished">Formât archivi no cognossût par %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

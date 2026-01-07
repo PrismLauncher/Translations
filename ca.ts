@@ -11540,28 +11540,7 @@ Per sobreescriure el fitxer lock i continuar amb l&apos;actualització, prem &qu
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Executant: `%1 %2`</translation>
-    </message>
-    <message>
-        <source>Failed to launch child process &quot;%1 %2&quot;.</source>
-        <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed extract archive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to extract archive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown archive format for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Executant: `%1 %2`</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

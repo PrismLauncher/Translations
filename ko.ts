@@ -12171,28 +12171,28 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>실행 중: `%1 %2`</translation>
+        <translation type="vanished">실행 중: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>하위 프로세스 &quot;%1 %2&quot;을(를) 실행하지 못하였습니다.</translation>
+        <translation type="vanished">하위 프로세스 &quot;%1 %2&quot;을(를) 실행하지 못하였습니다.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>압축 추출 실패</translation>
+        <translation type="vanished">압축 추출 실패</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>하위 프로세스 &quot;%1 %2&quot;이(가) 실패하였습니다.</translation>
+        <translation type="vanished">하위 프로세스 &quot;%1 %2&quot;이(가) 실패하였습니다.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>압축 파일을 추출하지 못함</translation>
+        <translation type="vanished">압축 파일을 추출하지 못함</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>%1의 아카이브 형식을 알 수 없습니다</translation>
+        <translation type="vanished">%1의 아카이브 형식을 알 수 없습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

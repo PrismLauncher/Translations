@@ -12343,28 +12343,28 @@ Um diesen lock zu überschreiben und trotzdem mit diesem Update fortzufahren, dr
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Führe aus: `%1 %2`</translation>
+        <translation type="vanished">Führe aus: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Starten von Unterprozess &quot;%1 %2&quot; schlug fehl.</translation>
+        <translation type="vanished">Starten von Unterprozess &quot;%1 %2&quot; schlug fehl.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Extrahieren vom Archiv schlug fehl</translation>
+        <translation type="vanished">Extrahieren vom Archiv schlug fehl</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Fehler beim Unterprozess &quot;%1 %2&quot;.</translation>
+        <translation type="vanished">Fehler beim Unterprozess &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Extrahieren vom Archiv schlug fehl</translation>
+        <translation type="vanished">Extrahieren vom Archiv schlug fehl</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Unbekanntes Archivformat für %1</translation>
+        <translation type="vanished">Unbekanntes Archivformat für %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

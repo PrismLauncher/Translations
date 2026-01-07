@@ -10178,28 +10178,28 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>இயங்கும்: ` %1 %2`</translation>
+        <translation type="vanished">இயங்கும்: ` %1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>குழந்தை செயல்முறை &quot; %1 %2&quot; ஐ தொடங்கத் தவறிவிட்டது.</translation>
+        <translation type="vanished">குழந்தை செயல்முறை &quot; %1 %2&quot; ஐ தொடங்கத் தவறிவிட்டது.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>தோல்வியுற்ற பிரித்தெடுத்தல் காப்பகம்</translation>
+        <translation type="vanished">தோல்வியுற்ற பிரித்தெடுத்தல் காப்பகம்</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>குழந்தை செயல்முறை &quot; %1 %2&quot; தோல்வியடைந்தது.</translation>
+        <translation type="vanished">குழந்தை செயல்முறை &quot; %1 %2&quot; தோல்வியடைந்தது.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>காப்பகத்தைப் பிரித்தெடுப்பதில் தோல்வி</translation>
+        <translation type="vanished">காப்பகத்தைப் பிரித்தெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>%1 க்கான அறியப்படாத காப்பக வடிவம்</translation>
+        <translation type="vanished">%1 க்கான அறியப்படாத காப்பக வடிவம்</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

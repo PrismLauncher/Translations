@@ -11496,28 +11496,28 @@ For at overskrive denne lås og fortsætte med denne opdatering alligevel, vælg
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Kører: `%1 %2`</translation>
+        <translation type="vanished">Kører: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Kunne ikke starte under ordnet proces &quot;%1 %2&quot;.</translation>
+        <translation type="vanished">Kunne ikke starte under ordnet proces &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Mislykket udpakke af arkiv</translation>
+        <translation type="vanished">Mislykket udpakke af arkiv</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Underordnet proces &quot;%1 %2&quot; mislykkedes.</translation>
+        <translation type="vanished">Underordnet proces &quot;%1 %2&quot; mislykkedes.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Kunne ikke udpakke arkivet</translation>
+        <translation type="vanished">Kunne ikke udpakke arkivet</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Ukendt arkiv format for %1</translation>
+        <translation type="vanished">Ukendt arkiv format for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

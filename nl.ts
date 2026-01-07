@@ -11977,28 +11977,28 @@ Selecteer hieronder &quot;Negeren&quot; om deze vergrendeling te overschrijven e
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Uitvoeren: `%1 %2`</translation>
+        <translation type="vanished">Uitvoeren: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Kindproces &quot;%1 %2&quot; kon niet worden gestart.</translation>
+        <translation type="vanished">Kindproces &quot;%1 %2&quot; kon niet worden gestart.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Mislukt om archief uit te pakken</translation>
+        <translation type="vanished">Mislukt om archief uit te pakken</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Kindproces &quot;%1 %2&quot; mislukt.</translation>
+        <translation type="vanished">Kindproces &quot;%1 %2&quot; mislukt.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Mislukt om archief uit te pakken</translation>
+        <translation type="vanished">Mislukt om archief uit te pakken</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Onbekend archiefformaat voor %1</translation>
+        <translation type="vanished">Onbekend archiefformaat voor %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

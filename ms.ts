@@ -10332,31 +10332,6 @@ Untuk menulis ganti kunci ini dan teruskan dengan kemas kini ini, pilih &quot;Ab
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Running: `%1 %2`</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to launch child process &quot;%1 %2&quot;.</source>
-        <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed extract archive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to extract archive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown archive format for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Failed to Check Version</source>

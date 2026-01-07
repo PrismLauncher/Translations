@@ -12212,28 +12212,28 @@ Bu kilidin üzerine yazmak ve yine de bu güncellemeye devam etmek için aşağ�
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Çalışıyor: `%1 %2`</translation>
+        <translation type="vanished">Çalışıyor: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>&quot;%1 %2&quot; alt süreci başlatılamadı.</translation>
+        <translation type="vanished">&quot;%1 %2&quot; alt süreci başlatılamadı.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Arşiv ayıklama başarısız</translation>
+        <translation type="vanished">Arşiv ayıklama başarısız</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Alt süreç &quot;%1 %2&quot; başarısız oldu.</translation>
+        <translation type="vanished">Alt süreç &quot;%1 %2&quot; başarısız oldu.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Arşiv ayıklama başarısız oldu</translation>
+        <translation type="vanished">Arşiv ayıklama başarısız oldu</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Bilinmeyen arşiv biçimi %1</translation>
+        <translation type="vanished">Bilinmeyen arşiv biçimi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

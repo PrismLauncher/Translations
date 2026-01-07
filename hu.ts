@@ -12186,28 +12186,28 @@ Ha szeretnéd felülírni ezt a zárolást, és mindenképpen folytatni szeretn�
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Fut: `%1 %2`</translation>
+        <translation type="vanished">Fut: `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Nem sikerült elindítani a launcher gyermekfolyamatot &quot;%1 %2&quot;.</translation>
+        <translation type="vanished">Nem sikerült elindítani a launcher gyermekfolyamatot &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Az archívum kibontása sikertelen</translation>
+        <translation type="vanished">Az archívum kibontása sikertelen</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>A &quot;%1 %2&quot; gyermekfolyamat sikertelen.</translation>
+        <translation type="vanished">A &quot;%1 %2&quot; gyermekfolyamat sikertelen.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Az archívum kibontása nem sikerült</translation>
+        <translation type="vanished">Az archívum kibontása nem sikerült</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Ismeretlen archívumformátum a következőhöz: %1</translation>
+        <translation type="vanished">Ismeretlen archívumformátum a következőhöz: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

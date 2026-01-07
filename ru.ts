@@ -12383,28 +12383,28 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>Выполнение: «%1 %2»</translation>
+        <translation type="vanished">Выполнение: «%1 %2»</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Не удалось запустить дочерний процесс «%1 %2».</translation>
+        <translation type="vanished">Не удалось запустить дочерний процесс «%1 %2».</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Не удалось распаковать архив</translation>
+        <translation type="vanished">Не удалось распаковать архив</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Произошла ошибка в дочернем процессе «%1 %2».</translation>
+        <translation type="vanished">Произошла ошибка в дочернем процессе «%1 %2».</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Не удалась распаковать архив</translation>
+        <translation type="vanished">Не удалась распаковать архив</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>«%1» имеет неизвестный формат архива</translation>
+        <translation type="vanished">«%1» имеет неизвестный формат архива</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>

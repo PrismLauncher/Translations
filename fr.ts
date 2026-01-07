@@ -12288,28 +12288,28 @@ Pour passer outre ce verrouillage et procéder quand même à cette mise à jour
     </message>
     <message>
         <source>Running: `%1 %2`</source>
-        <translation>En cours : `%1 %2`</translation>
+        <translation type="vanished">En cours : `%1 %2`</translation>
     </message>
     <message>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Échec du lancement du processus enfant &quot;%1 %2&quot;.</translation>
+        <translation type="vanished">Échec du lancement du processus enfant &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <source>Failed extract archive</source>
-        <translation>Échec de l&apos;extraction de l&apos;archive</translation>
+        <translation type="vanished">Échec de l&apos;extraction de l&apos;archive</translation>
     </message>
     <message>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>Le processus fils &quot;%1 %2&quot; a échoué.</translation>
+        <translation type="vanished">Le processus fils &quot;%1 %2&quot; a échoué.</translation>
     </message>
     <message>
         <source>Failed to extract archive</source>
-        <translation>Échec de l&apos;extraction de l&apos;archive</translation>
+        <translation type="vanished">Échec de l&apos;extraction de l&apos;archive</translation>
     </message>
     <message>
         <source>Unknown archive format for %1</source>
-        <translation>Format d&apos;archive inconnu pour %1</translation>
+        <translation type="vanished">Format d&apos;archive inconnu pour %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
