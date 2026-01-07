@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Можете да зададете друг сървър, ако имате проблеми с изтеглянето на активи.</translation>
+        <translation>Можете да зададете друг сървър, ако имате проблеми с изтеглянето на съдържание.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -4738,17 +4738,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java се екстрактира...</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно отваряне на доставения zip файл.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не бяха никакви файлове в доставения zip файл.</translation>
     </message>
 </context>
 <context>
@@ -4761,7 +4761,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="217"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтегли</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="218"/>
@@ -4776,12 +4776,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="284"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="292"/>
@@ -4811,7 +4811,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java се изтегля</translation>
     </message>
 </context>
 <context>
@@ -4819,7 +4819,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка за Java binary пътека</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
@@ -4829,17 +4829,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Java binary пътека не беше открита</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Събиране на папки за символно свързване</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановява се символна връзка с Java binary пътека</translation>
     </message>
 </context>
 <context>
@@ -4847,7 +4847,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation type="unfinished"></translation>
+        <translation>Откриване на Java инсталаций...</translation>
     </message>
 </context>
 <context>
@@ -4876,12 +4876,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Инсталаций</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтегли</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
@@ -4925,13 +4925,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Не са инсталирани управлявани версии на Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Управляваният Java списък не можа да се зареди!</translation>
     </message>
     <message>
         <source>Select a Java version</source>
@@ -4944,13 +4944,14 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Потвърди Изтриване</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>На път сте да премахнете­ инсталацията на Java с име „%1“.
+Сигурни ли сте?</translation>
     </message>
 </context>
 <context>
@@ -14367,7 +14368,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>xbox user автентикацията не беше разбрана.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
