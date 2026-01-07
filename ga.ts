@@ -12622,12 +12622,12 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar meiteashonraí shaderpack a aistriú ó .index</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an sean-eolaire .index a bhaint</translation>
     </message>
 </context>
 <context>
