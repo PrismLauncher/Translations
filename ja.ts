@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pastebinサービス</translation>
+        <translation>Pastebinサービス(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
@@ -18,7 +18,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>ベース&amp;URL</translation>
+        <translation>ベースURL(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -49,7 +49,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;API キー</translation>
+        <translation>APIキー(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Mod&amp;rinth</source>
-        <translation>Modrinth</translation>
+        <translation>Modrinth(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
@@ -70,12 +70,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
         <source>&amp;CurseForge</source>
-        <translation>CurseForge</translation>
+        <translation>CurseForge(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="373"/>
         <source>&amp;Technic</source>
-        <translation>&amp;Technic</translation>
+        <translation>Technic(&amp;T)</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -821,7 +821,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation>&amp;Cat パック:</translation>
+        <translation>猫パック(&amp;C):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -836,7 +836,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation>アイコン(&amp;I)：</translation>
+        <translation>アイコン(&amp;I):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
@@ -1233,7 +1233,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
         <source>Version selected:</source>
-        <translation>バージョンの選択：</translation>
+        <translation>バージョンの選択:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
