@@ -3448,7 +3448,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>注記： 最近のFTBモッドパックの多くは、CurseForgeからも入手可能です。また、もしFTBのインスタンスがデフォルトの場所にない場合は、検索バーの隣にあるボタンを使って保存先を選択してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -14418,12 +14418,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>.index からシェーダーパックのメタデータを移行できませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>古い .index ディレクトリを削除できませんでした</translation>
     </message>
 </context>
 <context>
