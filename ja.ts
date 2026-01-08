@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>注: 貼り付けサービス タイプを変更した後は、ベース URL を変更またはクリアする必要がある可能性があります。</translation>
+        <translation>注意: ペーストサービスの種類を変更した後は、ベースURLを変更またはクリアすることをお勧めします。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注意：Microsoftアカウントによるログインがすでに機能している場合は、これを設定する必要はありません。</translation>
+        <translation>注意: Microsoftアカウントによるログインがすでに機能している場合は、これを設定する必要はありません。</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -119,7 +119,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：個人データにアクセスする場合にのみ設定する必要があります。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意: 個人データにアクセスする場合にのみ設定する必要があります。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -161,7 +161,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：この設定は、個人データにアクセスする場合にのみ設定する必要があります。詳細については、&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;ドキュメント&lt;/a&gt; をご覧ください。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意: この設定は、個人データにアクセスする場合にのみ設定する必要があります。詳細については、&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;ドキュメント&lt;/a&gt; をご覧ください。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -170,7 +170,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>注意：CurseForgeがすでに機能している場合は、この設定を変更する必要はありません。</translation>
+        <translation>注意: CurseForgeがすでに機能している場合は、この設定を変更する必要はありません。</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -188,7 +188,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="119"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>パックのマニフェストを解釈できませんでした：
+        <translation>パックのマニフェストを解釈できませんでした:
 </translation>
     </message>
     <message>
@@ -214,7 +214,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="329"/>
         <source>Unknown mod type: %1</source>
-        <translation>不明なModの種類：%1</translation>
+        <translation>不明なModの種類:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="372"/>
@@ -229,7 +229,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>不明または非対応なダウンロードのタイプです：%1</translation>
+        <translation>不明または非対応なダウンロードの種類です: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
@@ -273,7 +273,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="864"/>
         <source>Unknown download type: %1</source>
-        <translation>不明なダウンロードのタイプです：%1</translation>
+        <translation>不明なダウンロードの種類です: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="814"/>
@@ -313,7 +313,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Unknown loader type: </source>
-        <translation>不明なModローダーの種類です： </translation>
+        <translation>不明なModローダーの種類です: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
@@ -485,7 +485,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>アカウントのタイプ (MSAまたはオフライン)</translation>
+        <translation>アカウントの種類 (MSAまたはオフライン)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -940,12 +940,12 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>アップデートのロックファイルが存在しています：%1
+        <translation>アップデートのロックファイルが存在しています: %1
 
-タイムスタンプ：%2
+タイムスタンプ: %2
 バージョン %3 から %4 へのアップデート中
-インストール場所：%5
-データの場所：%6
+インストール場所: %5
+データの場所: %6
 これは前回のアップデートが失敗した可能性のあることを意味します。続行する前に、インストールが正常に行われていることを確認してください。
 前回のアップデートの試行の詳細については、
 %7
@@ -995,7 +995,7 @@ for details.</oldsource>
         <translation>アップデートに成功しました。
 
 現在、%1 を実行中です。
-詳細については：
+詳細については、
 %2
 のログを確認してください。</translation>
     </message>
@@ -1014,7 +1014,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>/tmp ディレクトリは現在 &apos;noexec&apos; フラグを有効にしてマウントされています。
 Minecraftのバージョンによっては起動しない可能性があります。
 
-この問題を解決するには、/tmp を &apos;exec&apos; として再マウントするか、java.io.tmpdir JVM 引数を &apos;exec&apos; フラグが設定されているファイルシステム内の書き込み可能なディレクトリ （例：/home/user/.local/tmp）に設定してください。
+この問題を解決するには、/tmp を &apos;exec&apos; として再マウントするか、java.io.tmpdir JVM 引数を &apos;exec&apos; フラグが設定されているファイルシステム内の書き込み可能なディレクトリ （例: /home/user/.local/tmp）に設定してください。
 </translation>
     </message>
     <message>
@@ -1053,7 +1053,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/Application.cpp" line="2029"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>次の理由で移行に失敗しました：%1</translation>
+        <translation>次の理由で移行に失敗しました: %1</translation>
     </message>
 </context>
 <context>
@@ -1135,14 +1135,14 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>assetsインデックスのダウンロードに失敗しました：
+        <translation>assetsインデックスのダウンロードに失敗しました:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>assetsのダウンロードに失敗しました：
+        <translation>assetsのダウンロードに失敗しました:
 %1</translation>
     </message>
 </context>
@@ -1202,7 +1202,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
         <source>Share code:</source>
-        <translation>シェアコード：</translation>
+        <translation>シェアコード:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
@@ -1228,7 +1228,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>警告：これはまだ開発中の機能です。インポートしたModパックで問題が発生した場合、バグの可能性があります。</translation>
+        <translation>警告: これはまだ開発中の機能です。インポートしたModパックで問題が発生した場合、バグの可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1345,7 +1345,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
-        <translation>不明なアカウントのタスクの状態：%1</translation>
+        <translation>不明なアカウントのタスクの状態: %1</translation>
     </message>
 </context>
 <context>
@@ -1393,7 +1393,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation>お使いのOSに対応するJavaのバージョンは見つかりませんでした：%1-%2</translation>
+        <translation>お使いのOSに対応するJavaのバージョンは見つかりませんでした: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
@@ -1509,7 +1509,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="159"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation>%1：&lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;ハッシュ：%3 %4 &lt;/p&gt; &lt;br/&gt;</translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;ハッシュ: %3 %4 &lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1698,7 +1698,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
         <source>Executing 1 task:</source>
-        <translation>1つのタスクを実行中：</translation>
+        <translation>1つのタスクを実行中:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
@@ -1731,7 +1731,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>これを無効にした場合、Modローダー（例：Fabric、Quiltなど）は保持されますが、modsフォルダーとその設定は消去されます。</translation>
+        <translation>これを無効にした場合、Modローダー（例: Fabric、Quiltなど）は保持されますが、modsフォルダーとその設定は消去されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -2085,7 +2085,7 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;起動前コマンドは起動構成の起動前に実行され、終了後コマンドは起動構成の終了後に実行されます。&lt;/p&gt;&lt;p&gt;両方とも、追加の環境変数を使用してランチャーの作業フォルダーで実行されます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 起動構成の名前&lt;/li&gt;&lt;li&gt;$INST_ID - 起動構成の ID（フォルダー名）&lt;/li&gt;&lt;li&gt;$INST_DIR - 起動構成の絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftのフォルダーの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用される Java バイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動に使用されるコマンドライン パラメータ（警告：引数にスペースが含まれていると正しく機能しません）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper コマンドにより、追加のラッパー プログラム（Linux の「optirun」など）を使用して起動できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;起動前コマンドは起動構成の起動前に実行され、終了後コマンドは起動構成の終了後に実行されます。&lt;/p&gt;&lt;p&gt;両方とも、追加の環境変数を使用してランチャーの作業フォルダーで実行されます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 起動構成の名前&lt;/li&gt;&lt;li&gt;$INST_ID - 起動構成の ID（フォルダー名）&lt;/li&gt;&lt;li&gt;$INST_DIR - 起動構成の絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftのフォルダーの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用される Java バイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動に使用されるコマンドライン パラメータ（警告: 引数にスペースが含まれていると正しく機能しません）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper コマンドにより、追加のラッパー プログラム（Linux の「optirun」など）を使用して起動できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2267,15 +2267,15 @@ Minecraft のバージョンによっては起動しない場合があります�
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
-絶対パス：%1</translation>
+警告: このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
+絶対パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="113"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
+警告: このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="151"/>
@@ -3276,7 +3276,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation>エラー：JProfilerのインストールが確認できません
+        <translation>JProfilerのインストール確認中にエラーが発生しました:
 %1</translation>
     </message>
     <message>
@@ -3301,7 +3301,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation>エラー：VisualVMのインストールが確認できません
+        <translation>VisualVMのインストール確認中にエラーが発生しました:
 %1</translation>
     </message>
     <message>
@@ -3343,7 +3343,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation>エラー：MCEditのインストールが確認できません
+        <translation>MCEditのインストール確認中にエラーが発生しました:
 %1</translation>
     </message>
     <message>
@@ -3409,7 +3409,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Forge/FMLライブラリのコピーに失敗しました：%1。</translation>
+        <translation>Forge/FMLライブラリのコピーに失敗しました: %1。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="114"/>
@@ -3418,10 +3418,10 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>以下のファイルのダウンロードに失敗しました：
+        <translation>以下のファイルのダウンロードに失敗しました:
 %1
 
-理由：%2
+理由: %2
 もう一度やり直してください。</translation>
     </message>
 </context>
@@ -3448,7 +3448,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>注記： 最近のFTBモッドパックの多くは、CurseForgeからも入手可能です。また、もしFTBのインスタンスがデフォルトの場所にない場合は、検索バーの隣にあるボタンを使って保存先を選択してください。</translation>
+        <translation>注意: 最近のFTB Modパックの多くはCurseForgeからも入手可能です。なお、FTBの起動構成がデフォルトの場所にない場合は、検索バーの隣にあるボタンから選択してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -3588,7 +3588,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="336"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>パックのマニフェストを解釈できませんでした：
+        <translation>パックのマニフェストを解釈できませんでした:
 </translation>
     </message>
     <message>
@@ -3629,7 +3629,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="348"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>上書き先のフォルダの名前を変更できませんでした：
+        <translation>上書き先のフォルダの名前を変更できませんでした:
 </translation>
     </message>
     <message>
@@ -3640,7 +3640,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="382"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>マニフェストに不明なModローダーがあります：%1</translation>
+        <translation>マニフェストに不明なModローダーがあります: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
@@ -3837,7 +3837,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>注意：CurseForgeのMod作者は、Prism Launcherのようなサードパーティツールからのダウンロードをブロックできます。そのため、Modパックをインストールするために、一部のModを手動でダウンロードする必要がある場合があります。</translation>
+        <translation>注意: CurseForgeのMod作者は、Prism Launcherのようなサードパーティツールからのダウンロードをブロックできます。そのため、Modパックをインストールするために、一部のModを手動でダウンロードする必要がある場合があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -4031,7 +4031,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation>開始されたプロセス：%1</translation>
+        <translation>開始されたプロセス: %1</translation>
     </message>
 </context>
 <context>
@@ -4045,7 +4045,7 @@ Please try again.</source>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="187"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation>ネットワークエラーが発生しました。プロジェクトの依存関係を読み込めませんでした：%1</translation>
+        <translation>ネットワークエラーが発生しました。プロジェクトの依存関係を読み込めませんでした:%1</translation>
     </message>
 </context>
 <context>
@@ -4159,13 +4159,13 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation>以下の種類のファイルに対応しています（ローカルファイルとダウンロードURL）：</translation>
+        <translation>以下の種類のファイルに対応しています (ローカルファイルとURLの両方):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation>- CurseForgeのModパック（ZIP / curseforge:// URL）</translation>
+        <translation>- CurseForgeのModパック (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -4186,7 +4186,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation>ローカルファイルへのパスまたはダウンロードの直リンク：</translation>
+        <translation>ローカルファイルへのパスまたはダウンロードの直リンク:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
@@ -4257,7 +4257,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation>ファイル：%1</translation>
+        <translation>ファイル: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
@@ -4407,7 +4407,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="29"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation>起動構成を作成中にエラーが発生しました：
+        <translation>新しい起動構成の作成中にエラーが発生しました:
 %1</translation>
     </message>
     <message>
@@ -4432,7 +4432,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="85"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Modパックをダウンロード中：
+        <translation>Modパックをダウンロード中:
 %1</translation>
     </message>
     <message>
@@ -4956,7 +4956,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
         <source>Listening on port: %1</source>
-        <translation>ポート転送：%1</translation>
+        <translation>ポートをリッスン中: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
@@ -5671,12 +5671,12 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Minimum memory allocation:</source>
-        <translation>最小メモリ割り当て：</translation>
+        <translation>最小メモリ割り当て:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Maximum memory allocation:</source>
-        <translation>最大メモリ割り当て：</translation>
+        <translation>最大メモリ割り当て:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
@@ -5945,7 +5945,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation>%1 のプロファイラチェックが失敗しました：%2</translation>
+        <translation>%1 のプロファイラチェックに失敗しました: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="460"/>
@@ -5977,7 +5977,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="466"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation>プロファイラを開始できませんでした：%1</translation>
+        <translation>プロファイラを開始できませんでした: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="467"/>
@@ -6035,7 +6035,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation>Minecraftアクセストークンの取得に失敗しました：%1</translation>
+        <translation>Minecraftアクセストークンの取得に失敗しました: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
@@ -6245,7 +6245,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：Modのメタデータを無効にすると、Modのアップデートなどの便利機能も無効化されます！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Modのメタデータを無効にすると、Modのアップデートなどの便利機能も無効化されます！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Legacy</source>
@@ -6291,7 +6291,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>有効にすると、リソースを検索する際に、ダウンロードフォルダに加え、サブフォルダも再帰的に検索します（例：CurseForgeのブロックされたModを探す場合など）。</translation>
+        <translation>有効にすると、リソースを検索する際に、ダウンロードフォルダに加え、サブフォルダも再帰的に検索します（例: CurseForgeのブロックされたModを探す場合など）。</translation>
     </message>
     <message>
         <source>Check downloads folder recursively</source>
@@ -6660,7 +6660,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>いくつかのModパックリストのダウンロードが失敗しました：%1</translation>
+        <translation>一部のパックリストのダウンロードに失敗しました: %1</translation>
     </message>
 </context>
 <context>
@@ -6784,7 +6784,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
         <source>Enter pack code:</source>
-        <translation>パックのコードを入力：</translation>
+        <translation>パックのコードを入力:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
@@ -6875,7 +6875,7 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>&apos;local&apos;とマークされたアーティファクトのファイルがありません：
+        <translation>&apos;local&apos;とマークされたアーティファクトにファイルがありません:
 %1
 
 ファイルを追加するか、それらを必要とするパッケージを削除する必要があります。
@@ -6891,8 +6891,8 @@ You&apos;ll have to correct this problem manually.</source>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation>ゲームのアップデートに失敗しました：必要なライブラリを取得できませんでした。
-理由：
+        <translation>ゲームのアップデートに失敗しました: 必要なライブラリを取得できませんでした。
+理由:
 %1</translation>
     </message>
 </context>
@@ -6915,7 +6915,7 @@ Reason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="44"/>
         <source>Updating index for resource:
 %1</source>
-        <translation>リソースのインデックスを更新中：
+        <translation>リソースのインデックスを更新中:
 %1</translation>
     </message>
     <message>
@@ -7154,7 +7154,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="119"/>
         <source>Device authorization failed: %1</source>
-        <translation>デバイスの認証に失敗：%1</translation>
+        <translation>デバイスの認証に失敗: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="123"/>
@@ -7164,7 +7164,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="129"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation>デバイスの認証に失敗：必須項目がありません</translation>
+        <translation>デバイスの認証に失敗: 必須項目がありません</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="154"/>
@@ -7174,7 +7174,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="260"/>
         <source>Device Access failed: %1</source>
-        <translation>デバイスのアクセスに失敗：%1</translation>
+        <translation>デバイスアクセスに失敗: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
@@ -8926,7 +8926,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation>Minecraft Javaプロファイルの取得に失敗しました：%1</translation>
+        <translation>Minecraft Javaプロファイルの取得に失敗しました: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
@@ -9006,7 +9006,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;注意&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：最大化オプションは、すべてのMinecraftのバージョンで完全にサポートされるわけではありません。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;注意&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: 最大化オプションは、すべてのMinecraftのバージョンで完全にサポートされるわけではありません。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -9277,7 +9277,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Vulkan上にOpenGLを実装したMesa OpenGLドライバーであるZinkを使用します。パフォーマンスは状況によって異なる場合があります。注意：適切なVulkanドライバーが見つからない場合は、ソフトウェア レンダリングが使用されます。</translation>
+        <translation>Vulkan上にOpenGLを実装したMesa OpenGLドライバーであるZinkを使用します。パフォーマンスは状況によって異なる場合があります。注意: 適切なVulkanドライバーが見つからない場合は、ソフトウェア レンダリングが使用されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="746"/>
@@ -9333,7 +9333,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="74"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;注意&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：最大化オプションは、このMinecraftのバージョンでは完全にはサポートされていません。&lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;注意&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: 最大化オプションは、このMinecraftのバージョンでは完全にはサポートされていません。&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="136"/>
@@ -9556,15 +9556,15 @@ It is most likely you will need to change the path - please refer to the mod&apo
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
-絶対パス：%1</translation>
+警告: このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
+絶対パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
+警告: このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -9608,7 +9608,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Side</source>
-        <translation>サイド</translation>
+        <translation>環境</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
@@ -9618,7 +9618,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Release Type</source>
-        <translation>リリースタイプ</translation>
+        <translation>リリースの種類</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
@@ -9974,7 +9974,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation>jarファイルを削除できませんでした：%1</translation>
+        <translation>jarファイルを削除できませんでした: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
@@ -10305,14 +10305,14 @@ Please update %1!</source>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="196"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>上書きフォルダの名前を変更できませんでした：
+        <translation>上書きフォルダの名前を変更できませんでした:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="209"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation>クライアント上書きフォルダの名前を変更できませんでした：
+        <translation>クライアント上書きフォルダの名前を変更できませんでした:
 </translation>
     </message>
     <message>
@@ -10362,7 +10362,7 @@ Please update %1!</source>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="473"/>
         <source>Could not understand pack index:
 </source>
-        <translation>パックのインデックスを解釈できませんでした：
+        <translation>パックのインデックスを解釈できませんでした:
 </translation>
     </message>
 </context>
@@ -10425,7 +10425,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="193"/>
         <source>Failed to parse versions response: %1</source>
-        <translation>バージョンのレスポンスの解析に失敗しました：%1</translation>
+        <translation>バージョンのレスポンスの解析に失敗しました: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="202"/>
@@ -10501,32 +10501,32 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
         <source>Donate information: </source>
-        <translation>寄付情報： </translation>
+        <translation>寄付情報: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="282"/>
         <source>External links:</source>
-        <translation>外部リンク：</translation>
+        <translation>外部リンク:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="286"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>issues：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>バグ報告: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="290"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>ソースコード：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>ソースコード: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="292"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
@@ -10714,7 +10714,7 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsChecker.cpp" line="113"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation>お知らせのRSSフィードの読み込みに失敗しました：
+        <translation>お知らせのRSSフィードの読み込みに失敗しました:
 %1</translation>
     </message>
 </context>
@@ -10793,7 +10793,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/NullInstance.h" line="52"/>
         <source>Unknown instance type</source>
-        <translation>不明な起動構成のタイプ</translation>
+        <translation>不明な起動構成の種類</translation>
     </message>
 </context>
 <context>
@@ -10936,7 +10936,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation>設定された貼り付けサービスにログをアップロードします</translation>
+        <translation>設定されたペーストサービスにログをアップロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
@@ -11003,7 +11003,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
         <source>Unable to open %1 for reading: %2</source>
-        <translation>読み取りのために %1を開くことができません：%2</translation>
+        <translation>%1 を読み込めません: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="269"/>
@@ -11059,7 +11059,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
         <source>Unable to delete %1: %2</source>
-        <translation>%1 を削除できません：%2</translation>
+        <translation>%1 を削除できません: %2</translation>
     </message>
     <message>
         <source>Clean up</source>
@@ -11084,7 +11084,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation>ファイルを削除できませんでした：
+        <translation>ファイルを削除できませんでした:
 %1</translation>
     </message>
     <message>
@@ -11178,7 +11178,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation>デフォルトのpasteサービスはmclo.gsに変更されました。設定をどうするか選択してください。</translation>
+        <translation>デフォルトのペーストサービスがmclo.gsに変更されました。設定をどうするか選択してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
@@ -11209,14 +11209,14 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="51"/>
         <source>Running Post-Launch command: %1</source>
-        <translation>Post-Launch コマンド：%1</translation>
+        <translation>起動後コマンドを実行中: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="60"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
-        <translation>Post-Launchコマンドは、コード %1で失敗しました。
+        <translation>起動後コマンドは、コード %1 で失敗しました。
 
 </translation>
     </message>
@@ -11225,7 +11225,7 @@ Error message: %3</source>
         <source>Post-Launch command ran successfully.
 
 </source>
-        <translation>Post-Launchコマンドが正常に実行されました。
+        <translation>起動後コマンドが正常に実行されました。
 
 </translation>
     </message>
@@ -11235,7 +11235,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="51"/>
         <source>Running Pre-Launch command: %1</source>
-        <translation>起動前コマンドを実行中：%1</translation>
+        <translation>起動前コマンドを実行中: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="59"/>
@@ -11274,14 +11274,14 @@ Error message: %3</source>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>5秒経過しても開始できませんでした。
-理由：%1。</translation>
+理由: %1。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>アップデーターが60秒間終了しませんでした。
-理由：%1。</translation>
+理由: %1。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
@@ -11523,12 +11523,12 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="764"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation>GitHubリリース %1 のAssetsには、このプラットフォームで有効なファイルがありません：%2</translation>
+        <translation>GitHubリリース %1 のAssetsには、このプラットフォームで有効なファイルがありません: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
         <source>%1 portable: %2</source>
-        <translation>%1 ポータブルか：%2</translation>
+        <translation>%1 ポータブルか: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
@@ -11583,12 +11583,12 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation>アップデートのロックファイルが存在しています：%1
+        <translation>アップデートのロックファイルが存在しています: %1
 
-タイムスタンプ：%2
+タイムスタンプ: %2
 バージョン %3 から %4 へのアップデート中
-インストール場所：%5
-データの場所：%6
+インストール場所: %5
+データの場所: %6
 これは前回のアップデートが失敗した可能性のあることを意味します。続行する前に、インストールが正常に行われていることを確認してください。
 前回のアップデートの試行の詳細については、
 %7
@@ -11624,7 +11624,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="938"/>
         <source>Process start result: %1</source>
-        <translation>プロセスの開始結果：%1</translation>
+        <translation>プロセスの開始結果: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="945"/>
@@ -11645,7 +11645,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1018"/>
         <source>Backing up:
   %1</source>
-        <translation>バックアップ中：
+        <translation>バックアップ中:
   %1</translation>
     </message>
     <message>
@@ -11673,7 +11673,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation>以下のファイルを &quot;%1&quot; に展開しました：
+        <translation>以下のファイルを &quot;%1&quot; に展開しました:
   %2</translation>
     </message>
     <message>
@@ -11786,7 +11786,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 Choose your name carefully:</source>
         <translation>Minecraftをこのアカウントでプレイするために、もう一つの作業を行う必要があります。
 
-名前を慎重に決めてください：</translation>
+名前を慎重に決めてください:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
@@ -11816,7 +11816,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
         <source>Unhandled profile name status: %1</source>
-        <translation>未処理のプロフィール名の状態：%1</translation>
+        <translation>未処理のプロフィール名の状態: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
@@ -11833,7 +11833,7 @@ HTTPステータス: %2</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="280"/>
         <source>The server responded with the following error:</source>
-        <translation>サーバーは次のエラーを返しました：</translation>
+        <translation>サーバーは次のエラーを返しました:</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
@@ -11885,7 +11885,7 @@ HTTPステータス: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
         <source>Type</source>
-        <translation>タイプ</translation>
+        <translation>種類</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
@@ -11945,7 +11945,7 @@ HTTPステータス: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>注意：プロキシのユーザー名とパスワードは、ランチャーの構成ファイル内にプレーン テキストで保存されます！</translation>
+        <translation>注意: プロキシのユーザー名とパスワードは、ランチャーの構成ファイル内にプレーン テキストで保存されます！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
@@ -12057,10 +12057,10 @@ HTTPステータス: %2</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>「%1」を「%2」にアップロードしようとしています。
+        <translation>「%1」を %2 にアップロードしようとしています。
 個人情報が含まれていないかよく確認してください。
 
-本当によろしいですか？</translation>
+本当にアップロードしますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
@@ -12137,12 +12137,12 @@ Error message: %1</source>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation>指定されたJavaバイナリが予期しない結果を返しました：&lt;br /&gt;</translation>
+        <translation>指定されたJavaバイナリが予期しない結果を返しました:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>Javaのテストに成功しました！&lt;br /&gt;プラットフォーム：%1&lt;br /&gt;Javaバージョン：%2&lt;br /&gt;</translation>
+        <translation>Javaのテストに成功しました！&lt;br /&gt;プラットフォーム: %1&lt;br /&gt;Javaバージョン: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
@@ -12190,12 +12190,12 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="187"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation>%1 を読み取る際にファイルが開けませんでした：%2</translation>
+        <translation>%1 を読み取る際にファイルが開けませんでした: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="197"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation>%1 をjsonとして解析できませんでした：%2</translation>
+        <translation>%1 をjsonとして解析できませんでした: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
@@ -12205,7 +12205,7 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation>%1 を解析できませんでした：ファイル形式が不正です</translation>
+        <translation>%1 を解析できませんでした: ファイル形式が不正です</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
@@ -12260,12 +12260,12 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="115"/>
         <source>Unable to open the version file %1: %2.</source>
-        <translation>バージョンファイル %1 を開けません：%2。</translation>
+        <translation>バージョンファイル %1 を開けません: %2。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="133"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation>バージョンファイル %1 を処理できません：%2 %3行目 %4列目。</translation>
+        <translation>バージョンファイル %1 を処理できません: %2 %3行目 %4列目。</translation>
     </message>
     <message>
         <source>Unable to process the version file %1.</source>
@@ -12368,18 +12368,18 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>Javaのテストに成功しました！&lt;br /&gt;プラットフォーム：%1&lt;br /&gt;Javaバージョン：%2&lt;br /&gt;Javaベンダー：%3&lt;br /&gt;</translation>
+        <translation>Javaのテストに成功しました！&lt;br /&gt;プラットフォーム: %1&lt;br /&gt;Javaバージョン: %2&lt;br /&gt;Javaベンダー: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation>&lt;br /&gt;警告：&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
+        <translation>&lt;br /&gt;警告:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>指定されたJavaバイナリは、指定された引数では動作しませんでした：&lt;br /&gt;</translation>
+        <translation>指定されたJavaバイナリは、指定された引数では動作しませんでした:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
@@ -12457,8 +12457,8 @@ Old name: %1
 New name: %2</source>
         <translation>起動構成の名前に古いバージョン名が含まれているようです。次のように更新しますか？
 
-変更前：%1
-変更後：%2</translation>
+変更前: %1
+変更後: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
@@ -12472,7 +12472,7 @@ New name: %2</source>
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
         <translation>すでに同じModパック「%1」の起動構成があります。別の起動構成を作成しますか？ または既存の起動構成を更新しますか？
 
-注意：更新する場合、起動構成の大事なデータのバックアップを取ってください。パックの上書きによってワールドが破損したり、一部の設定が失われる可能性があります。</translation>
+注意: 更新する場合、起動構成の大事なデータのバックアップを取ってください。パックの上書きによってワールドが破損したり、一部の設定が失われる可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
@@ -12795,8 +12795,8 @@ Old name: %1
 New name: %2</source>
         <translation>起動構成のフォルダー名も変更しますか？
 
-古い名前：%1
-新しい名前：%2</translation>
+変更前: %1
+変更後: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
@@ -12806,7 +12806,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>以下の名前変更の実行時にエラーが発生しました：&lt;br/&gt;・古い起動構成のルート：%1&lt;br/&gt;・新しい起動構成のルート：%2&lt;br/&gt;メタデータの名前のみが変更されます。</translation>
+        <translation>以下の名前変更の実行時にエラーが発生しました:&lt;br/&gt;・古い起動構成のルート:%1&lt;br/&gt;・新しい起動構成のルート:%2&lt;br/&gt;メタデータの名前のみが変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
@@ -12950,46 +12950,46 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="111"/>
         <source>Network error: %1</source>
-        <translation>ネットワークエラー：%1</translation>
+        <translation>ネットワークエラー: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="116"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>エラー：%1 が予期しないステータスコード %2 %3 を返しました</translation>
+        <translation>エラー: %1 が予期しないステータスコード %2 %3 を返しました</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>Hastebinサーバーからの応答の解析に失敗しました：JSONが期待されましたが、無効な応答を取得しました。エラー：%1</translation>
+        <translation>Hastebinサーバーからのレスポンスの解析に失敗しました: JSONが期待されましたが、無効なレスポンスを受け取りました。エラー: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="140"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="167"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>エラー：%1 が不正なレスポンスボディを返しました</translation>
+        <translation>エラー: %1 が不正なレスポンスボディを返しました</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>mclogsサーバーからの応答の解析に失敗しました：JSONが期待されましたが、無効な応答を取得しました。エラー：%1</translation>
+        <translation>mclogsサーバーからのレスポンスの解析に失敗しました: JSONが期待されましたが、無効なレスポンスを受け取りました。エラー: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation>エラー：%1 がエラーを返しました：%2</translation>
+        <translation>エラー: %1 がエラーを返しました: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>paste.ggサーバーからの応答の解析に失敗しました：JSONが期待されましたが、無効な応答を取得しました。エラー：%1</translation>
+        <translation>paste.ggサーバーからのレスポンスの解析に失敗しました: JSONが期待されましたが、無効なレスポンスを受け取りました。エラー: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>エラー：%1 がエラーコードを返しました：%2
-エラーメッセージ：%3</translation>
+        <translation>エラー: %1 がエラーコードを返しました: %2
+エラーメッセージ: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
@@ -13418,7 +13418,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
         <source>Downloading resource:
 %1</source>
-        <translation>リソースをダウンロード中：
+        <translation>リソースをダウンロード中:
 %1</translation>
     </message>
     <message>
@@ -13435,15 +13435,15 @@ The author likely blocked third-party launchers.</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
-絶対パス：%1</translation>
+警告: このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
+絶対パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="531"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
+警告: このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="243"/>
@@ -13573,15 +13573,15 @@ Are you sure you want to do this?</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
-絶対パス：%1</translation>
+警告: このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
+絶対パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="117"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
+警告: このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -13783,7 +13783,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="54"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation>以下のリソースをアップデートしようとしています：</translation>
+        <translation>以下のリソースをアップデートしようとしています:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="55"/>
@@ -13793,7 +13793,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="73"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Modの名前：%1&lt;br&gt;ファイル名：%2&lt;br&gt;理由：%3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Modの名前: %1&lt;br&gt;ファイル名: %2&lt;br&gt;理由: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
@@ -13803,7 +13803,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="77"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation>以下のリソースのメタデータを生成できませんでした：&lt;br&gt;これらのリソース以外で続行しますか？</translation>
+        <translation>以下のリソースのメタデータを生成できませんでした:&lt;br&gt;これらのリソース以外で続行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="90"/>
@@ -13840,18 +13840,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="168"/>
         <source>Mod name: %1</source>
-        <translation>Modの名前：%1</translation>
+        <translation>Modの名前: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="170"/>
         <source>Reason: %1</source>
-        <translation>理由：%1</translation>
+        <translation>理由: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>考えられる解決策：最新バージョンを手動で取得する：&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>考えられる解決策: 最新バージョンを手動で取得する:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="178"/>
@@ -13902,32 +13902,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="443"/>
         <source>Provider: %1</source>
-        <translation>提供元：%1</translation>
+        <translation>提供元: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="447"/>
         <source>Old version: %1</source>
-        <translation>現在のバージョン：%1</translation>
+        <translation>現在のバージョン: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
         <source>New version: %1</source>
-        <translation>新しいバージョン：%1</translation>
+        <translation>新しいバージョン: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="456"/>
         <source>New Version Type: %1</source>
-        <translation>新しいバージョンのタイプ：%1</translation>
+        <translation>新しいバージョンの種類: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="463"/>
         <source>Required by: %1</source>
-        <translation>依存元：%1</translation>
+        <translation>依存元: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
         <source>Required by:</source>
-        <translation>依存元：</translation>
+        <translation>依存元:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="478"/>
@@ -13999,7 +13999,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="120"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation>以下の%1をダウンロードしようとしています：</translation>
+        <translation>以下の%1をダウンロードしようとしています:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="121"/>
@@ -14087,10 +14087,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>%1にあるスクリーンショットを%2にアップロードしようとしています。
+        <translation>%1つのスクリーンショットを %2 にアップロードしようとしています。
 個人情報を含んでいないか、慎重に確認してください。
 
-本当によろしいですか？</translation>
+本当にアップロードしますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="377"/>
@@ -14098,10 +14098,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>選択したスクリーンショットを%1にアップロードしようとしています。
+        <translation>選択したスクリーンショットを %1 にアップロードしようとしています。
 個人情報を含んでいないか、慎重に確認してください。
 
-本当によろしいですか？</translation>
+本当にアップロードしますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="402"/>
@@ -14244,7 +14244,7 @@ Are you sure?</source>
 Currently installed version: %1</source>
         <translation>インストールするバージョンを選択してください。
 
-現在のバージョン：%1</translation>
+現在のバージョン: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
@@ -14796,7 +14796,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation>スキンをダウンロードできません：&apos;%1&apos;。</translation>
+        <translation>スキンをダウンロードできません: &apos;%1&apos;。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="470"/>
@@ -14850,7 +14850,7 @@ Are you sure?</source>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>「%1」のスキンが見つかりませんでした。
- 理由：%2。</translation>
+ 理由: %2。</translation>
     </message>
 </context>
 <context>
@@ -14977,7 +14977,7 @@ Are you sure?</source>
         <source>Instance update failed because: %1
 
 </source>
-        <translation>起動構成のアップデートに失敗しました：%1
+        <translation>起動構成のアップデートに失敗しました: %1
 
 </translation>
     </message>
@@ -14988,7 +14988,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Modパックをダウンロード中：
+        <translation>Modパックをダウンロード中:
 %1</translation>
     </message>
     <message>
@@ -15059,7 +15059,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>パックのマニフェストを解釈できませんでした：
+        <translation>パックのマニフェストを解釈できませんでした:
 </translation>
     </message>
     <message>
@@ -15125,14 +15125,14 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="139"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation>&quot;version.json&quot; を解釈できませんでした：
-継承が正しくありません</translation>
+        <translation>&quot;version.json&quot; を解釈できませんでした:
+inheritsFromがありません</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="195"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation>&quot;version.json&quot; を解釈できませんでした：
+        <translation>&quot;version.json&quot; を解釈できませんでした:
 </translation>
     </message>
 </context>
@@ -15162,7 +15162,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="233"/>
         <source> by </source>
-        <translation> 作者： </translation>
+        <translation> 作者: </translation>
     </message>
     <message>
         <source>Technic</source>
@@ -15226,15 +15226,15 @@ inheritsFrom is missing</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
-絶対パス：%1</translation>
+警告: このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
+絶対パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="90"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
+警告: このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
@@ -15473,7 +15473,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1：
+        <translation>%1:
 翻訳済み %2
 要確認 %3
 全体 %4</translation>
@@ -15535,7 +15535,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation>リリースノート：</translation>
+        <translation>リリースノート:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
@@ -15705,8 +15705,8 @@ The instance may not start due to this.</source>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation>この起動構成は Java バージョン %1 と互換性がありません。
-この起動構成を次の Java バージョンのいずれかに切り替えてください：</translation>
+        <translation>この起動構成はJavaバージョン %1 と互換性がありません。
+この起動構成のJavaバージョンを次のいずれかに切り替えてください:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
@@ -16018,12 +16018,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
         <source>Error: </source>
-        <translation>エラー： </translation>
+        <translation>エラー: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="222"/>
         <source>Warning: </source>
-        <translation>警告： </translation>
+        <translation>警告: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="254"/>
@@ -16251,7 +16251,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
         <source>Type</source>
-        <translation>タイプ</translation>
+        <translation>種類</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
@@ -16296,7 +16296,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The version&apos;s type</source>
-        <translation>バージョンのタイプ</translation>
+        <translation>バージョンの種類</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
@@ -16385,7 +16385,7 @@ Please add your Mojang or Minecraft account.</oldsource>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>List update failed:
 %1</source>
-        <translation>リストの更新に失敗しました：
+        <translation>リストの更新に失敗しました:
 %1</translation>
     </message>
 </context>
@@ -16428,13 +16428,13 @@ This world is hard linked elsewhere.</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>警告：このワールドは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
-絶対パス：%1</translation>
+        <translation>警告: このワールドは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
+絶対パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>警告：このワールドは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
+        <translation>警告: このワールドは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
@@ -16716,12 +16716,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation>%1 サービスの不明な STS エラー：%2</translation>
+        <translation>%1 サービスの不明な STS エラー: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="73"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation>%1 サービスの認証を取得できませんでした：%2</translation>
+        <translation>%1 サービスの認証を取得できませんでした: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="81"/>
@@ -16741,7 +16741,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="104"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation>%1 認証エラーレスポンスをJSONとして解析できません：%2</translation>
+        <translation>%1 認証エラーレスポンスをJSONとして解析できません: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="112"/>
@@ -16797,7 +16797,7 @@ Please set up your account according to %1.</source>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation>XSTS 認証が認識できないエラーで終了しました：
+        <translation>XSTS 認証が認識できないエラーで終了しました:
 
 %1</translation>
     </message>
@@ -16813,7 +16813,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="56"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Xbox プロフィールの取得に失敗しました：%1</translation>
+        <translation>Xboxプロフィールの取得に失敗しました: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
@@ -16832,7 +16832,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
-        <translation>XBox ユーザー認証に失敗しました：%1</translation>
+        <translation>XBoxユーザー認証に失敗しました: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
