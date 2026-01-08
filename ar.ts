@@ -10764,17 +10764,17 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="585"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1060"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف غير موجود, سيتم تجاهل: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="598"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>حصل أخطاء عند تثبيت التحديث.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="602"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>نجح التحديث.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="763"/>
