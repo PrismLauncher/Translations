@@ -10735,29 +10735,30 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="544"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>البيان فارغ, جار تخمين الأفضل لمحتويات الفهرس ل%1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="550"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation type="unfinished"></translation>
+        <translation>جار تثبيت التالي إلى %1:
+ %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="554"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="561"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>جار التثبيت من %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="566"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>جار تثبيت %1 من %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="570"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر نسخ %1 إلى %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="585"/>
