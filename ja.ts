@@ -1474,7 +1474,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;設定済みのグローバルMODフォルダとデフォルトのダウンロードフォルダが自動的にスキャンされ、ダウンロード済みのMODが見つかった場合はインスタンスにコピーされます。&lt;/p&gt;&lt;p&gt;また、ダウンロードしたMODをこのダイアログにドラッグ＆ドロップしたり、既定の場所以外にMODをダウンロードした場合は監視フォルダを追加したりすることもできます。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;「不足MODを開く」をクリックすると、すべてのダウンロードリンクがブラウザで開きます。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;設定済みのグローバルModフォルダとデフォルトのダウンロードフォルダは自動的にチェックされ、手動でダウンロードしたModが見つかった場合は起動構成にコピーされます。&lt;/p&gt;&lt;p&gt;なお、ダウンロードしたModをこのダイアログにドラッグ＆ドロップするか、デフォルトの場所以外にModをダウンロードした場合は監視フォルダを追加することもできます。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;「不足Modを開く」をクリックすると、すべてのダウンロードリンクがブラウザで開きます。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1484,7 +1484,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation>不足分をすべて開く</translation>
+        <translation>不足Modを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
@@ -1960,7 +1960,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation>起動時に参加するターゲットを選択</translation>
+        <translation>起動時に参加する先を選択する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
@@ -1981,7 +1981,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation>注意:ショートカットが作成後に移動された場合、インスタンスを削除してもショートカットは削除されません。</translation>
+        <translation>注意: 作成後にショートカットを移動した場合、起動構成を削除してもショートカットは削除されません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
@@ -2280,17 +2280,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="151"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation>データパックは有効ですか？（ZIPファイルの場合のみ有効）</translation>
+        <translation>データパックが有効になっているか？（ZIP形式の場合のみ）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
         <source>The name of the data pack.</source>
-        <translation>データパックの名前です。</translation>
+        <translation>データパックの名前。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation>このデータパックが最後に変更（または追加）された日時です。</translation>
+        <translation>データパックが最後に変更（または追加）された日時。</translation>
     </message>
 </context>
 <context>
@@ -9643,7 +9643,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>Modが最後に変更または追加された日時。</translation>
+        <translation>Modが最後に変更（または追加）された日時。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
@@ -13500,7 +13500,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="586"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <translation>リソースが最後に変更または追加された日時。</translation>
+        <translation>リソースが最後に変更（または追加）された日時。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="588"/>
@@ -13623,7 +13623,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>リソースパックが最後に変更または追加された日時。</translation>
+        <translation>リソースパックが最後に変更（または追加）された日時。</translation>
     </message>
 </context>
 <context>
@@ -15188,7 +15188,7 @@ inheritsFromがありません</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <translation>テクスチャーパックが最後に変更または追加された日時。</translation>
+        <translation>テクスチャーパックが最後に変更（または追加）された日時。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
