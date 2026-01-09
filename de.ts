@@ -172,7 +172,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Du kannst hier einen Drittanbieter-Server für Metadaten angeben um andere Bibliotheken oder Hacks zu nutzen.</translation>
+        <translation>Du kannst hier einen Drittanbieter-Server für Metadaten angeben um andere Bibliotheken oder andere Hacks zu nutzen.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -3504,7 +3504,7 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Hinweis: Viele neue FTB-Modpacks sind auch auf CurseForge verfügbar. Falls deine FTB-Instanzen nicht am Standard-Speicherort sind, wähle ihn über den Button neben der Suche.</translation>
+        <translation>Hinweis: Einige neue FTB Modpacks sind auch auf CurseForge verfügbar! Und falls deine FTB Instanzen nicht im Standardordner sind, wähle sie mit dem Knopf neben der Suche aus.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -15140,12 +15140,12 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlgeschlagen shaderpack metadata von .index zu megrieren</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlgeschlagen .index dir zu entfernen</translation>
     </message>
 </context>
 <context>
