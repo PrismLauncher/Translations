@@ -953,17 +953,17 @@ Bitte aktualisiere macOS und PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="697"/>
+        <location filename="src/launcher/Application.cpp" line="698"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Dieser Log kann nicht angezeigt werden, da die Länge %1 Linien überschreitet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="913"/>
+        <location filename="src/launcher/Application.cpp" line="914"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1074"/>
+        <location filename="src/launcher/Application.cpp" line="1075"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -990,12 +990,12 @@ für Details zum letzten Updateversuch.
 Um diese Sperre zu löschen und fortzufahren, drücke &quot;Ignorieren&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1091"/>
+        <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>Update In Progress</source>
         <translation>Update läuft</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1115"/>
+        <location filename="src/launcher/Application.cpp" line="1116"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -1010,12 +1010,12 @@ Bitte vergewissere dich vor dem Fortfahren, dass deine Installation funktional i
 für Details zum letzten Updateversuch.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1123"/>
+        <location filename="src/launcher/Application.cpp" line="1124"/>
         <source>Update Failed</source>
         <translation>Update fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1147"/>
+        <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1036,12 +1036,12 @@ Du benutzt jetzt %1 .
 für Details.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1155"/>
+        <location filename="src/launcher/Application.cpp" line="1156"/>
         <source>Update Succeeded</source>
         <translation>Update erfolgreich</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1187"/>
+        <location filename="src/launcher/Application.cpp" line="1188"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1062,32 +1062,32 @@ Manche Versionen von Minecraft starten vielleicht nicht.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1193"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Incompatible system configuration</source>
         <translation>Inkompatible System-Konfiguration</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1564"/>
+        <location filename="src/launcher/Application.cpp" line="1569"/>
         <source>Aborted</source>
         <translation>Abgebrochen</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1973"/>
+        <location filename="src/launcher/Application.cpp" line="1978"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Es wurden alte Daten von %1 gefunden, jedoch bestehen bereits Daten für %2. Leider muss die Migration selbst durchgeführt werden. Möchtest du beim nächsten Start von %2 an die anstehende Datenmigration erinnert werden?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1977"/>
+        <location filename="src/launcher/Application.cpp" line="1982"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Es sieht so aus, als hättest du zuvor %1 verwendet. Möchtest du die Daten zum neuen Speicherort von %2 migrieren?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1983"/>
+        <location filename="src/launcher/Application.cpp" line="1988"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Es sieht so aus, als hättest du zuvor %1 am %2 verwendet. Möchtest du die Daten zum neuen Speicherort von %3 migrieren?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2029"/>
+        <location filename="src/launcher/Application.cpp" line="2034"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration fehlgeschlagen! Grund: %1</translation>
     </message>
@@ -1621,12 +1621,12 @@ Manche Versionen von Minecraft starten vielleicht nicht.
         <translation>Erlaube ungültige Benutzernamen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -4582,18 +4582,18 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation>Versuche die Art der Instanz zu erkennen</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="176"/>
         <source>Extracting modpack</source>
         <translation>Entpacke Modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="169"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Die Modpack ZIP-Datei kann nicht geöffnet werden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="173"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Das Archiv enthält kein bekanntes Modpack-Format.</translation>
     </message>
@@ -4602,7 +4602,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Modpack konnte nicht entpackt werden</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="230"/>
         <source>Could not fix permissions for %1</source>
         <translation>Konnte Rechte für %1 nicht reparieren</translation>
     </message>
@@ -9097,12 +9097,12 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
         <translation>Kein Profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1020"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&amp;lt;SITZUNGS-ID&amp;gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1023"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&amp;lt;ZUGANGS-TOKEN&amp;gt;</translation>
     </message>
@@ -9111,22 +9111,22 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
         <translation type="vanished">&amp;lt;CLIENT-TOKEN&amp;gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&amp;lt;PROFIL-ID&amp;gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1062"/>
         <source>broken</source>
         <translation>kaputt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1073"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1078"/>
         <source>, last played on %1 for %2</source>
         <translation>, zuletzt gespielt am %1 Spielzeit: %2</translation>
     </message>
@@ -9139,12 +9139,12 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
         <translation type="vanished">, Zuletzt gespielt für %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
         <source>, total played for %1</source>
         <translation>, gesamte Spielzeit: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
         <source>, has crashed.</source>
         <translation>, ist abgestürzt.</translation>
     </message>
@@ -10378,12 +10378,12 @@ Are you sure?</source>
 Bist du sicher?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>Missing Mod Loader</source>
         <translation>Fehlender Mod-Loader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="398"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>Du musst einen kompatiblen Mod-Loader installieren, bevor du Mods installieren kannst. Möchtest du dies tun?</translation>
     </message>
@@ -13709,7 +13709,7 @@ Fehlermeldung: %3</translation>
         <translation>Datenpakete</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="132"/>
         <source> for %1</source>
         <translation> für %1</translation>
     </message>
@@ -16190,7 +16190,7 @@ Bist Sie sicher?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="375"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="374"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -16201,22 +16201,22 @@ Bist Sie sicher?</translation>
 %4 insgesamt</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="390"/>
         <source>Language</source>
         <translation>Sprache</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="393"/>
         <source>Completeness</source>
         <translation>Vollständigkeit</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="399"/>
         <source>The native language name.</source>
         <translation>Der native Sprachname.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="402"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Vollständigkeit ist der Anteil an vollständig übersetzten Zeichenketten, ohne automatisch generierte zu zählen.</translation>
     </message>

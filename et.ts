@@ -917,17 +917,17 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="697"/>
+        <location filename="src/launcher/Application.cpp" line="698"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Seda logi ei saa kuvada, kuna logi pikkus on rohkem kui %1 rida.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="913"/>
+        <location filename="src/launcher/Application.cpp" line="914"/>
         <source>Settings</source>
         <translation>Sätted</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1074"/>
+        <location filename="src/launcher/Application.cpp" line="1075"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -943,12 +943,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1091"/>
+        <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>Update In Progress</source>
         <translation>Uuendus käimas</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1115"/>
+        <location filename="src/launcher/Application.cpp" line="1116"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -958,12 +958,12 @@ for details on the last update attempt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1123"/>
+        <location filename="src/launcher/Application.cpp" line="1124"/>
         <source>Update Failed</source>
         <translation>Uuendus ebaõnnestus</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1147"/>
+        <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -983,12 +983,12 @@ Detailide nägemiseks vaata Prism Launcheri uuendaja logi:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1155"/>
+        <location filename="src/launcher/Application.cpp" line="1156"/>
         <source>Update Succeeded</source>
         <translation>Uuendus õnnestus</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1187"/>
+        <location filename="src/launcher/Application.cpp" line="1188"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -997,32 +997,32 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1193"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Incompatible system configuration</source>
         <translation>Ühildumatu süsteemiseadistus</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1564"/>
+        <location filename="src/launcher/Application.cpp" line="1569"/>
         <source>Aborted</source>
         <translation>Tühistatud</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1973"/>
+        <location filename="src/launcher/Application.cpp" line="1978"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Leiti vanad %1 andmed, kuid sul on %2 jaoks juba uued andmed. Kahjuks pead käsitsi migreerima. Kas soovid, et migreerimist tuletataks järgmisel %2 käivitusel taas meelde?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1977"/>
+        <location filename="src/launcher/Application.cpp" line="1982"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Tundub, et kasutasid varem %1. Kas soovid oma andmed migreerida %2 uude asukohta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1983"/>
+        <location filename="src/launcher/Application.cpp" line="1988"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Tundub, et kasutasid varem %1 platvormil %2. Kas soovid oma andmed migreerida %3 uude asukohta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2029"/>
+        <location filename="src/launcher/Application.cpp" line="2034"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migreerimine ebaõnnestus! Põhjus: %1</translation>
     </message>
@@ -1544,12 +1544,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>Luba kehtetud kasutajanimed</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
         <translation>Tühista</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -4428,18 +4428,18 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <translation>Proovime eksemplari tüüpi määrata</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="176"/>
         <source>Extracting modpack</source>
         <translation>Modipaki ekstraktimine</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="169"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Ei ole võimalik avada tarnitud modpacki ZIP-faili.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="173"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Arhiiv ei sisalda tuvastatud modipaki tüüpi.</translation>
     </message>
@@ -4448,7 +4448,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <translation type="vanished">Modipaki ekstrakimine ebaõnnestus</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="230"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 lubade parandamine ebaõnnestus</translation>
     </message>
@@ -8603,12 +8603,12 @@ Seda saab uuendada vaid %1-vormingus failiga
         <translation>&amp;Profiiler puudub</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1020"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SEANSI ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1023"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;PÄÄSUTALONG&gt;</translation>
     </message>
@@ -8617,22 +8617,22 @@ Seda saab uuendada vaid %1-vormingus failiga
         <translation type="vanished">&lt;KLIENDITALONG&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFIILI ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1062"/>
         <source>broken</source>
         <translation>katki</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1073"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1078"/>
         <source>, last played on %1 for %2</source>
         <translation>, viimati mängitud %1 %2</translation>
     </message>
@@ -8645,12 +8645,12 @@ Seda saab uuendada vaid %1-vormingus failiga
         <translation type="vanished">, viimati mängitud %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
         <source>, total played for %1</source>
         <translation>, kokku mängitud %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
         <source>, has crashed.</source>
         <translation>, jooksis kokku.</translation>
     </message>
@@ -9821,12 +9821,12 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>Missing Mod Loader</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="398"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12911,7 +12911,7 @@ Veateade: %3</translation>
         <translation>Andmepakid</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="132"/>
         <source> for %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15272,7 +15272,7 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="375"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="374"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -15283,22 +15283,22 @@ Are you sure?</source>
 %4 kokku</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="390"/>
         <source>Language</source>
         <translation>Keel</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="393"/>
         <source>Completeness</source>
         <translation>Valmidus</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="399"/>
         <source>The native language name.</source>
         <translation>Emakeele nimi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="402"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Valmidus on täielikult tõlgitud stringide protsent, välja arvatud automaatselt pakutud tõlked.</translation>
     </message>

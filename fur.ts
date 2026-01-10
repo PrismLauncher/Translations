@@ -737,17 +737,17 @@ Sêstu gnûf/gnove achì? Tu puedis selezionâ il boton &quot;Zonte Microsoft&qu
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="697"/>
+        <location filename="src/launcher/Application.cpp" line="698"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation type="unfinished">Impussibil visualizâ chest regjistri stant che la lungjece dal regjistri e à superât lis %1 riis.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="913"/>
+        <location filename="src/launcher/Application.cpp" line="914"/>
         <source>Settings</source>
         <translation>Impostazions</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1074"/>
+        <location filename="src/launcher/Application.cpp" line="1075"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -774,12 +774,12 @@ pai detais sul ultin tentatîf di inzornament.
 Par gjavâ chest bloc e continuâ selezione &quot;Ignore&quot; chi sot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1091"/>
+        <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>Update In Progress</source>
         <translation>Inzornament in cors</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1115"/>
+        <location filename="src/launcher/Application.cpp" line="1116"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -794,12 +794,12 @@ Controle il regjistri di inzornament dal inviadôr Prism Launcher achì:·
 pai detais sul ultin tentatîf di inzornament.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1123"/>
+        <location filename="src/launcher/Application.cpp" line="1124"/>
         <source>Update Failed</source>
         <translation>Inzornament falît</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1147"/>
+        <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -820,12 +820,12 @@ Controle i regjistris dal inzornament dal inviadôr Prism Launcher achì:
 pai detais.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1155"/>
+        <location filename="src/launcher/Application.cpp" line="1156"/>
         <source>Update Succeeded</source>
         <translation>Inzornament lât a bon fin</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1187"/>
+        <location filename="src/launcher/Application.cpp" line="1188"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -838,32 +838,32 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1193"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Incompatible system configuration</source>
         <translation>Configurazion di sisteme no compatibile</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1564"/>
+        <location filename="src/launcher/Application.cpp" line="1569"/>
         <source>Aborted</source>
         <translation>Interot</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1973"/>
+        <location filename="src/launcher/Application.cpp" line="1978"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>A son stâts cjatâts dâts vecjos di %1, ma tu âs bielzà dâts par %2. Magari cussì no, ma tu varâs di migrâ di bessôl. Vûstu che ti impensi de migrazion di dâts la prossime volte che tu inviis %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1977"/>
+        <location filename="src/launcher/Application.cpp" line="1982"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Al somee che tu vedis za doprât %1. Desideristu migrâ i tiei dâts te gnove posizion di %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1983"/>
+        <location filename="src/launcher/Application.cpp" line="1988"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Al somee che tu vedis za doprât %1 su %2. Desideristu migrâ i tiei dâts te gnove posizion di %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2029"/>
+        <location filename="src/launcher/Application.cpp" line="2034"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrazion falide! Motîf: %1</translation>
     </message>
@@ -1324,12 +1324,12 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
         <translation type="unfinished">Anule</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
         <translation type="unfinished">Va ben</translation>
     </message>
@@ -3886,23 +3886,23 @@ Par plasê, prove di gnûf.</translation>
         <translation>Daûr a provâ a determinâ il gjenar di istance</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="176"/>
         <source>Extracting modpack</source>
         <translation>Daûr a tirâ fûr il modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="169"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Impussibil vierzi il file zip dal modpack furnît.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="173"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>L&apos;archivi nol conten un gjenar di modpack ricognossût.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="230"/>
         <source>Could not fix permissions for %1</source>
         <translation>Impussibil risolvi i permès par %1</translation>
     </message>
@@ -7539,42 +7539,42 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
         <translation>&amp;Nissun profiladôr</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1020"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SESSION&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1023"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;GJETON DI ACÈS&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID PROFÎL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1062"/>
         <source>broken</source>
         <translation>rot</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1073"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1078"/>
         <source>, last played on %1 for %2</source>
         <translation>, ultime zuiade su %1 par %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
         <source>, total played for %1</source>
         <translation>, zuiât par un totâl di %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
         <source>, has crashed.</source>
         <translation>, al è colassât.</translation>
     </message>
@@ -8575,12 +8575,12 @@ Are you sure?</source>
 Gjavâ pardabon?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>Missing Mod Loader</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="398"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11362,7 +11362,7 @@ Messaç dal erôr: %3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="132"/>
         <source> for %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13626,7 +13626,7 @@ Gjavâ pardabon?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="375"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="374"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -13637,22 +13637,22 @@ Gjavâ pardabon?</translation>
 %4 totâl</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="390"/>
         <source>Language</source>
         <translation type="unfinished">Lenghe</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="393"/>
         <source>Completeness</source>
         <translation>Completece</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="399"/>
         <source>The native language name.</source>
         <translation>Il non de marilenghe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="402"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>La completece e je la percentuâl di stringhis voltadis dal dut, gjavant fûr chês induvinadis in automatic.</translation>
     </message>

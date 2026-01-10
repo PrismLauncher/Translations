@@ -945,17 +945,17 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="697"/>
+        <location filename="src/launcher/Application.cpp" line="698"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>无法显示此日志，因为日志长度超过了 %1 行。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="913"/>
+        <location filename="src/launcher/Application.cpp" line="914"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1074"/>
+        <location filename="src/launcher/Application.cpp" line="1075"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -982,12 +982,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 点击下面的“忽略”按钮以删除此锁定文件并继续。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1091"/>
+        <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>Update In Progress</source>
         <translation>更新中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1115"/>
+        <location filename="src/launcher/Application.cpp" line="1116"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -1002,12 +1002,12 @@ for details on the last update attempt.</source>
 以了解上次更新的详情。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1123"/>
+        <location filename="src/launcher/Application.cpp" line="1124"/>
         <source>Update Failed</source>
         <translation>更新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1147"/>
+        <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1027,12 +1027,12 @@ for details.</oldsource>
 %2 。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1155"/>
+        <location filename="src/launcher/Application.cpp" line="1156"/>
         <source>Update Succeeded</source>
         <translation>更新成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1187"/>
+        <location filename="src/launcher/Application.cpp" line="1188"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1053,32 +1053,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1193"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Incompatible system configuration</source>
         <translation>系统配置不兼容</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1564"/>
+        <location filename="src/launcher/Application.cpp" line="1569"/>
         <source>Aborted</source>
         <translation>已中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1973"/>
+        <location filename="src/launcher/Application.cpp" line="1978"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>找到了来自 %1 的旧数据，但 %2 已存在数据。很遗憾，你需要自行迁移数据。是否需要在下次启动 %2 时再次提醒你进行数据迁移？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1977"/>
+        <location filename="src/launcher/Application.cpp" line="1982"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>你似乎曾经使用过 %1。是否需要将数据迁移到 %2 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1983"/>
+        <location filename="src/launcher/Application.cpp" line="1988"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>你似乎曾经在 %2 上使用过 %1。是否需要将数据迁移到 %3 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2029"/>
+        <location filename="src/launcher/Application.cpp" line="2034"/>
         <source>Migration failed! Reason: %1</source>
         <translation>迁移失败！原因：%1</translation>
     </message>
@@ -1612,12 +1612,12 @@ Some versions of Minecraft may not launch.
         <translation>允许使用无效的用户名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
@@ -4545,18 +4545,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>正在尝试确定实例类型</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="176"/>
         <source>Extracting modpack</source>
         <translation>正在解压整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="169"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>无法打开提供的整合包 Zip 文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="173"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>压缩包未包含可识别的整合包类型。</translation>
     </message>
@@ -4565,7 +4565,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">解压整合包失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="230"/>
         <source>Could not fix permissions for %1</source>
         <translation>无法修复 %1 的权限</translation>
     </message>
@@ -9068,12 +9068,12 @@ This can be updated only using a file in %1 format
         <translation>不使用分析器 (&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1020"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1023"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -9082,22 +9082,22 @@ This can be updated only using a file in %1 format
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1062"/>
         <source>broken</source>
         <translation>损坏</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1073"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1078"/>
         <source>, last played on %1 for %2</source>
         <translation>，上一次是在 %1 时游玩了 %2</translation>
     </message>
@@ -9110,12 +9110,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">，最后一次游玩时长: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
         <source>, total played for %1</source>
         <translation>，此实例总游玩时长：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
         <source>, has crashed.</source>
         <translation>，最后一次运行发生崩溃。</translation>
     </message>
@@ -10361,12 +10361,12 @@ Are you sure?</source>
 你确定要这样做吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>Missing Mod Loader</source>
         <translation>缺少 Mod 加载器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="398"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>安装 Mod 前，你需要安装一个兼容的 Mod 加载器。你想现在就安装吗？</translation>
     </message>
@@ -13646,7 +13646,7 @@ Error message: %3</source>
         <translation>数据包</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="132"/>
         <source> for %1</source>
         <translation> 适配版本 %1</translation>
     </message>
@@ -16127,7 +16127,7 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="375"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="374"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -16138,22 +16138,22 @@ Are you sure?</source>
 %4 总计</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="390"/>
         <source>Language</source>
         <translation>语言</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="393"/>
         <source>Completeness</source>
         <translation>完整性</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="399"/>
         <source>The native language name.</source>
         <translation>语言名称。</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="402"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>完全翻译字符串所占的百分比（不包括自动猜测的字符串）。</translation>
     </message>

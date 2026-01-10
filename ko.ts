@@ -937,17 +937,17 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="697"/>
+        <location filename="src/launcher/Application.cpp" line="698"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>로그 길이가 %1 줄을 초과하였기 때문에 이 로그를 표시할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="913"/>
+        <location filename="src/launcher/Application.cpp" line="914"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1074"/>
+        <location filename="src/launcher/Application.cpp" line="1075"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -974,12 +974,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 잠금 파일을 삭제하고 진행하려면 아래에 있는 &quot;무시&quot; 버튼을 누르십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1091"/>
+        <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>Update In Progress</source>
         <translation>업데이트 진행 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1115"/>
+        <location filename="src/launcher/Application.cpp" line="1116"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -994,12 +994,12 @@ for details on the last update attempt.</source>
 에서 Prism Launcher 업데이터 로그를 볼 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1123"/>
+        <location filename="src/launcher/Application.cpp" line="1124"/>
         <source>Update Failed</source>
         <translation>업데이트 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1147"/>
+        <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1020,12 +1020,12 @@ Prism Launcher 업데이트 로그를:
 에서 자세히 볼 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1155"/>
+        <location filename="src/launcher/Application.cpp" line="1156"/>
         <source>Update Succeeded</source>
         <translation>업데이트 성공</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1187"/>
+        <location filename="src/launcher/Application.cpp" line="1188"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1046,32 +1046,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1193"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Incompatible system configuration</source>
         <translation>호환되지 않는 시스템 구성</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1564"/>
+        <location filename="src/launcher/Application.cpp" line="1569"/>
         <source>Aborted</source>
         <translation>중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1973"/>
+        <location filename="src/launcher/Application.cpp" line="1978"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1에서 이전 데이터를 찾았지만 %2에 대한 기존 데이터가 이미 있습니다. 안타깝게도 직접 마이그레이션해야 합니다. 다음에 %2를 시작할 때 보류 중인 데이터 마이그레이션에 대한 알림을 받으시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1977"/>
+        <location filename="src/launcher/Application.cpp" line="1982"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>이전에 %1을 사용한 것 같습니다. 데이터를 새 위치 %2로 마이그레이션하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1983"/>
+        <location filename="src/launcher/Application.cpp" line="1988"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>이전에 %2에서 %1을 사용한 것 같습니다. 데이터를 %3의 새 위치로 마이그레이션하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2029"/>
+        <location filename="src/launcher/Application.cpp" line="2034"/>
         <source>Migration failed! Reason: %1</source>
         <translation>마이그레이션 실패! 이유: %1</translation>
     </message>
@@ -1601,12 +1601,12 @@ Some versions of Minecraft may not launch.
         <translation>유효하지 않은 사용자 이름 허용</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
         <translation>취소</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
         <translation>확인</translation>
     </message>
@@ -4523,18 +4523,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>인스턴스 유형을 확인하려고 시도하는 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="176"/>
         <source>Extracting modpack</source>
         <translation>모드 팩 추출 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="169"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>모드 팩 압축 파일을 열 수 없음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="173"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>압축 파일이 인식 가능한 모드 팩을 가지고 있지 않음.</translation>
     </message>
@@ -4543,7 +4543,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">모드팩 추출 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="230"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
@@ -8987,12 +8987,12 @@ This can be updated only using a file in %1 format
         <translation>프로파일러 없음(&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1020"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1023"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -9001,22 +9001,22 @@ This can be updated only using a file in %1 format
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1062"/>
         <source>broken</source>
         <translation>손상됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1073"/>
         <source>Minecraft %1</source>
         <translation>마인크래프트 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1078"/>
         <source>, last played on %1 for %2</source>
         <translation>, 마지막으로 %1에 %2 동안 플레이함</translation>
     </message>
@@ -9029,12 +9029,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">, %1동안 지난 플레이함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
         <source>, total played for %1</source>
         <translation>, 총 %1 동안 플레이함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
         <source>, has crashed.</source>
         <translation>, 충돌함.</translation>
     </message>
@@ -10268,12 +10268,12 @@ Are you sure?</source>
 제거하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>Missing Mod Loader</source>
         <translation>모드 로더 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="398"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>모드를 설치하기 전에 호환되는 모드 로더를 설치하여야 합니다. 설치하시겠습니까?</translation>
     </message>
@@ -13529,7 +13529,7 @@ Error message: %3</source>
         <translation>데이터 팩</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="132"/>
         <source> for %1</source>
         <translation> %1용</translation>
     </message>
@@ -16010,7 +16010,7 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="375"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="374"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -16021,22 +16021,22 @@ Are you sure?</source>
 전체: %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="390"/>
         <source>Language</source>
         <translation>언어</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="393"/>
         <source>Completeness</source>
         <translation>완료됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="399"/>
         <source>The native language name.</source>
         <translation>언어의 이름.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="402"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>완료된 정도는 완전히 번역된 문장의 비율이며, 자동 번역 문장은 포함되지 않습니다.</translation>
     </message>
