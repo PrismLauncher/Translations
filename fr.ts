@@ -14303,7 +14303,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation>Essayez de vérifié ou ettre a jour tout les pack de ressources selectionés (tous les packs de ressources si aucun n&apos;a été selectionné)</translation>
+        <translation>Essayez de vérifier ou mettre à jour tous les packs de ressources sélectionnés (tous les packs de ressources si aucun n&apos;a été sélectionné)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
@@ -14376,12 +14376,12 @@ Les anciens fichiers pourrais ne pas être supprimés car ils sont en cours d&ap
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation>Tout les packs de ressources sont a jour&#x202f;!&#xa0;:)</translation>
+        <translation>Tous les packs de ressources sont à jour&#x202f;!&#xa0;:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation>Tout les packs de ressources selectionés sont a jour&#x202f;!&#xa0;:)</translation>
+        <translation>Tous les packs de ressources sélectionnés sont à jour&#x202f;!&#xa0;:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
