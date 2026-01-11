@@ -6952,14 +6952,14 @@ Lý do:
 <context>
     <name>LocalResourceUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="44"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="50"/>
         <source>Updating index for resource:
 %1</source>
         <translation>Cập nhật chỉ mục cho tài nguyên:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="65"/>
         <source>Invalid metadata</source>
         <translation>Metadata không hợp lệ</translation>
     </message>
