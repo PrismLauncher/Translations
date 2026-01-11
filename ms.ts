@@ -763,7 +763,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="54"/>
         <source>Appearance</source>
-        <translation>Kelihatan UI</translation>
+        <translation>Tampilan</translation>
     </message>
 </context>
 <context>
@@ -771,7 +771,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>Merujuk folder pack kucing</translation>
+        <translation>Lihat folder pek kucing.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
@@ -783,7 +783,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation>Merujuk folder widget tema</translation>
+        <translation>Lihat folder tema widget</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
@@ -798,7 +798,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation>Kemaskini Semua</translation>
+        <translation>Muat Semula Semua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
@@ -813,7 +813,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation>Konsol Fon</translation>
+        <translation>Fon Konsol:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
@@ -858,12 +858,12 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[RALAT] Uiiiiiiiiiishh! Ralat yang mengerikan!</translation>
+        <translation>[ERROR] Uiiiiiiiiiishh! Ralat yang mengerikan!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[ERROR] A spooky error!</source>
-        <translation>[RALAT] Sebuah ralat yang mengerikan!</translation>
+        <translation>[ERROR] Sebuah ralat yang mengerikan!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
@@ -873,7 +873,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation>[AMARAN] Amaran yang tidak begitu menyeramkan.</translation>
+        <translation>[WARN] Amaran yang tidak begitu menyeramkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
@@ -2953,12 +2953,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="215"/>
         <source>View Homepage</source>
-        <translation>Lihat Laman utama</translation>
+        <translation>Lihat Laman Utama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="218"/>
         <source>View the homepages of all selected items.</source>
-        <translation>Lihat laman utama semua item yang dipilih.</translation>
+        <translation>Lihat laman utama untuk semua item yang dipilih.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -8396,7 +8396,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="784"/>
         <source>Environment Variables</source>
-        <translation type="unfinished">Pembolehubah Env</translation>
+        <translation>Pemboleh Ubah Persekitaran</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
@@ -8884,7 +8884,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
         <source>View the homepages of all selected mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lihat laman utama untuk semua mod yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
@@ -10082,7 +10082,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="311"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengemas kini sedang dijalankan sebagai AppImage yang dikonfigurasikan secara salah? (pemboleh ubah persekitaran $APPIMAGE tidak ditemui)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="323"/>
@@ -11412,7 +11412,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pelancar sedang dijalankan sebagai AppImage yang dikonfigurasikan secara salah? (pemboleh ubah persekitaran $APPIMAGE tidak ditemui)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -13633,7 +13633,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lihat laman utama untuk semua pek tekstur yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="104"/>
@@ -13785,7 +13785,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished">Kelihatan UI</translation>
+        <translation>Tampilan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
