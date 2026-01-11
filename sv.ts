@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pastebin-tjänst</translation>
+        <translation>&amp;Pastebintjänst</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
@@ -119,7 +119,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Obs: du behöver bara ställa in detta för att komma åt privata data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;OBS! Du behöver bara ställa in detta för att komma åt privat data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -161,7 +161,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Observera: du behöver bara ställa in detta för att komma åt privat information. Läs &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentationen&lt;/a&gt; för mer information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;OBS! Du behöver bara ställa in detta för att komma åt privat information. Läs &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentationen&lt;/a&gt; för mer information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -170,7 +170,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>OBS! Du behöver förmodligen inte ställa in detta ifall Curseforge redan fungerar.</translation>
+        <translation>OBS! Du behöver förmodligen inte ställa in detta ifall CurseForge redan fungerar.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -188,7 +188,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="119"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Kunde inte förstå paket-manifestet:
+        <translation>Kunde inte förstå paketmanifestet:
 </translation>
     </message>
     <message>
@@ -219,17 +219,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="372"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Misslyckades med att hitta versionen av %1-laddaren</translation>
+        <translation>Misslyckades med att hitta versionen för %1-inläsaren</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="385"/>
         <source>No loader version set for modpack!</source>
-        <translation>Ingen laddare-version angiven för modpaketet!</translation>
+        <translation>Ingen inläsar-version angiven för modpaketet!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Okänd eller ej stödd nedladdningstyp: %1</translation>
+        <translation>Okänd eller ostödd nedladdningstyp: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
@@ -244,7 +244,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="673"/>
         <source>Extracting configs...</source>
-        <translation>Extraherar konfigureringsfiler…</translation>
+        <translation>Extraherar konfigurationer…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -914,12 +914,12 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] Dolt felsökningsmeddelande</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FATAL] Skräckinjagande kritiskt fel!</translation>
     </message>
 </context>
 <context>
@@ -1133,7 +1133,7 @@ Vissa versioner av Minecraft kanske inte startar.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Hämtar resursfiler från %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1577,7 +1577,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarnamn måste vara mellan 3 till 16 bokstäver långt, använder Engelska bokstäver, nummer, och understreck. Ett ogiltigt användarnamn kommer förhindra att gå med i servrar och singleplayer världar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -1592,7 +1592,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
-        <translation type="unfinished">Okej</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1687,13 +1687,14 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Flera deluppgifter misslyckade</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Flera deluppgifter misslyckade
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
@@ -1924,7 +1925,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Kärn Mods</translation>
     </message>
 </context>
 <context>
@@ -1945,12 +1946,12 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara till:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
@@ -1965,12 +1966,12 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Överskrid primära kontot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Specifiera en värld eller server för att joina på uppstart.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
