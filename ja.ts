@@ -1309,7 +1309,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>ログインの準備中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
@@ -3564,7 +3564,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
         <source>Not installed</source>
-        <translation>インストールされていない</translation>
+        <translation>未インストール</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
@@ -14091,7 +14091,7 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>%1つのスクリーンショットを %2 にアップロードしようとしています。
+        <translation>%1個のスクリーンショットを %2 にアップロードしようとしています。
 個人情報を含んでいないか、慎重に確認してください。
 
 本当にアップロードしますか？</translation>
