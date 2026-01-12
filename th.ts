@@ -1305,52 +1305,56 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
         <translation>กำลังเริ่มต้นระบบ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
         <translation>กำลังรอ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
         <translation>กำลังทำงาน...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
+        <source>Preparing to log in...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
         <source>Authentication task succeeded.</source>
         <translation>การตรวจสอบสำเร็จ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="109"/>
         <source>Failed to contact the authentication server.</source>
         <translation>ไม่สามารถติดต่อเซิร์ฟเวอร์ตรวจสอบได้</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="116"/>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation>มีการเปลี่ยนแปลงไคลเอนต์ไอดีเกิดขึ้น จึงต้องมีการสร้างเซสชันใหม่</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="123"/>
         <source>Encountered an error during authentication.</source>
         <translation>พบข้อผิดพลาดระหว่างการตรวจสอบ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="130"/>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>การตรวจสอบผิดพลาด เซสชั่นหมดอายุ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="137"/>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation>ไม่สามารถตรวจสอบ บัญชีนี้จะไม่มีอยู่อีกแล้ว</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="144"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="145"/>
         <source>Unknown account task state: %1</source>
         <translation>ไม่ทราบสถานะการทำงานของบัญชี: %1</translation>
     </message>
@@ -8429,7 +8433,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation type="unfinished">เส้นทางไปที่ไฟล์ไลบราลี %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="548"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="551"/>
         <source>Select Global Data Packs Folder</source>
         <translation type="unfinished"></translation>
     </message>

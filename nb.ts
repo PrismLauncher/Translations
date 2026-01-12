@@ -1277,52 +1277,56 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
         <translation>Starter</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
         <translation>Venter …</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
         <translation>Arbeider …</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
+        <source>Preparing to log in...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
         <source>Authentication task succeeded.</source>
         <translation>Autentisering vellykket.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="109"/>
         <source>Failed to contact the authentication server.</source>
         <translation>Klarte ikke kontakte autentiseringstjeneren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="116"/>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation>Klient-ID-en har forandret seg. En ny økt må lages.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="123"/>
         <source>Encountered an error during authentication.</source>
         <translation>Møtte på en feil ved autentisering.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="130"/>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>Autentisering mislyktes. Økten har løpt ut.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="137"/>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation>Klarte ikke autentisere. Kontoen finnes ikke lenger.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="144"/>
         <source>...</source>
         <translation>…</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="145"/>
         <source>Unknown account task state: %1</source>
         <translation>Ukjent status for kontooppgave: %1</translation>
     </message>
@@ -8938,7 +8942,7 @@ Det er mest sannsynlig at du må endre banen – se modens nettsted for mer info
         <translation>Mappe til %1 bibliotekfil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="548"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="551"/>
         <source>Select Global Data Packs Folder</source>
         <translation>Velg mappen Global Data Packs</translation>
     </message>

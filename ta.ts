@@ -1058,52 +1058,56 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>துவக்குதல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
         <translation>காத்திருக்கிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
         <translation>வேலை ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
+        <source>Preparing to log in...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
         <source>Authentication task succeeded.</source>
         <translation>அங்கீகார பணி செய் பெற்றது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="109"/>
         <source>Failed to contact the authentication server.</source>
         <translation>அங்கீகார சேவையகத்தைத் தொடர்பு கொள்ளத் தவறிவிட்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="116"/>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation>கிளையன்ட் ஐடி மாறிவிட்டது. புதிய அமர்வு உருவாக்கப்பட வேண்டும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="123"/>
         <source>Encountered an error during authentication.</source>
         <translation>அங்கீகாரத்தின் போது ஒரு பிழையை எதிர்கொண்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="130"/>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>அங்கீகரிக்கத் தவறிவிட்டது. அமர்வு காலாவதியானது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="137"/>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation>அங்கீகரிக்கத் தவறிவிட்டது. கணக்கு இனி இல்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="144"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="145"/>
         <source>Unknown account task state: %1</source>
         <translation>அறியப்படாத கணக்கு பணி நிலை: %1</translation>
     </message>
@@ -8201,7 +8205,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>%1 நூலகக் கோப்புக்கான பாதை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="548"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="551"/>
         <source>Select Global Data Packs Folder</source>
         <translation>உலகளாவிய டேட்டா பேக்குகள் கோப்புறையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>

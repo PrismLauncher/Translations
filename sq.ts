@@ -1053,52 +1053,56 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
         <translation>Duke inicializuar</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
         <translation>Duke pritur...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
         <translation>Duke punuar...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
+        <source>Preparing to log in...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
         <source>Authentication task succeeded.</source>
         <translation>Detyra e autentifikimit ia doli.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="109"/>
         <source>Failed to contact the authentication server.</source>
         <translation>Nuk u mundesua kontaki me serverin e autentifikimit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="116"/>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation>ID-ja e klientit ka ndryshuar. Duhet te krijohet nje sesion i ri.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="123"/>
         <source>Encountered an error during authentication.</source>
         <translation>U has një problem gjatë autentifikimit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="130"/>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>Autentifikimi dështoi. Sesioni ka skaduar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="137"/>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation>Autentifikimi deshtoi. Kjo llogari nuk ekziston më.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="144"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="145"/>
         <source>Unknown account task state: %1</source>
         <translation>Gjendje e panjohur e detyrës së llogarisë: %1</translation>
     </message>
@@ -6818,7 +6822,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="548"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="551"/>
         <source>Select Global Data Packs Folder</source>
         <translation type="unfinished"></translation>
     </message>
