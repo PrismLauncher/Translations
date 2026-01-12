@@ -161,7 +161,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Hinwiis: Du muesch das nur setze, wänn du uf privati Date wotsch zuegriffe. Lies d´ &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;Dokumentation&lt;/a&gt; für meh Informatione.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -816,7 +816,7 @@ Fals neu hie bisch, chasch du &quot;Füeg Microsoft hinzue&quot; Chnopf drucke u
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>Aui neu lade</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
@@ -826,82 +826,82 @@ Fals neu hie bisch, chasch du &quot;Füeg Microsoft hinzue&quot; Chnopf drucke u
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftbiud id Konsolä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Chatzegrössi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Passend</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Füllend</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Dehnend</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Chatzesichtbarcheit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Sichtbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchsichtig</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorschou</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FEHLER] Das deff ned si!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FEHLER] Das deff aber ned si!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[MELDIG] Kei angscht, nüt passiert.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[WARNIG] Jez muesch glaubs ufpasse.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] Das müend d meiste lüt ned lese.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[SYSTEMFEHLER] Jez müesstisch langsam angscht ha!</translation>
     </message>
 </context>
 <context>
@@ -909,12 +909,12 @@ Fals neu hie bisch, chasch du &quot;Füeg Microsoft hinzue&quot; Chnopf drucke u
     <message>
         <location filename="src/launcher/Application.cpp" line="698"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>De Bericht cha ned azeigt werde will d Gesamtbericht länger aus %1 linie isch.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="914"/>
         <source>Settings</source>
-        <translation type="unfinished">Einstellungen</translation>
+        <translation>Istellige</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1075"/>
@@ -998,7 +998,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Dini /tmp Dateiablage isch zur Zyt mit em &apos;noexec&apos;-Flag eghängt.
+E paar Versione vo Minecraft chönd drum villicht nöd starte.
+
+Du chasch s’Problem löse, indem du `/tmp` mit em `exec`-Flag neu eghängsch, oder indem du de JVM-Parameter `java.io.tmpdir` uf e beschribbare Ordner setzisch, wo s’Dateisystem s’`exec`-Flag erlaubt (z.B. `/home/user/.local/tmp`).
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -1065,13 +1069,13 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojäng</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Dateiene werded vom %1 glade...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1081,14 +1085,14 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Herunterladen des Datenindex fehlgeschlagen:
+        <translation>Abelade vom Datenindex fehlgeschlage:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Fehler beim Herunterladen der Daten:
+        <translation>Fehler bim Abelade vode Datene:
 %1</translation>
     </message>
 </context>
@@ -1118,27 +1122,27 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Wähle die zu installierenden Mods</translation>
+        <translation>Wähle Mods zum Installiere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation>Installieren</translation>
+        <translation>Installiere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>Empfohlene auswählen</translation>
+        <translation>Empfohleni auswähle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Share Code verwenden</translation>
+        <translation>Share Code nutzä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>Alle abwählen</translation>
+        <translation>Aui abwähle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
@@ -1148,7 +1152,7 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
         <source>Share code:</source>
-        <translation>Share-Core:</translation>
+        <translation>Share-Code:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
@@ -1174,18 +1178,18 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Warnung: Dies ist noch in Arbeit. Wenn du Probleme mit dem importierten Modpack hast, kann es ein Fehler sein.</translation>
+        <translation>Achtung: Dä isch no i Entwicklig. Wenn du Problem mitem importierte Modpäck hesch, chas e Fehler sii.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
         <source>Version selected:</source>
-        <translation>Ausgewählte Version:</translation>
+        <translation>Usgwählti Version:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Sueche und filtere...</translation>
+        <translation>Sueche u filtere...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1218,7 +1222,7 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation>Zurziit sind kein Versionen verfüegbar</translation>
+        <translation>Zurziit si kei Versione verfüegbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
@@ -1255,47 +1259,47 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorbereite für de Log-In...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Authentifizierig erfolgrich.</translation>
+        <translation>Authentifizierig erfolgrich.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="109"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Fehler bim kontaktiere vom Auth-Server.</translation>
+        <translation>Kontaktiere vom Auth-Server isch fehlgschlage.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="116"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Client ID het sich gändert. Es mues e neui Session kreiert werde.</translation>
+        <translation>Client ID het sich gändert. Es mues e neui Session kreiert werde.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="123"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">E Fehler isch bim authentifiziere ufträtte.</translation>
+        <translation>E Fehler isch bim authentifiziere ufträtte.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="130"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Authentifizierig fehlgschlage. Session isch abglaufe.</translation>
+        <translation>Authentifizierig fehlgschlage. Session isch abglaufe.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="137"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Authentifizierig fehlgschlage. Das Konto existiert nüme.</translation>
+        <translation>Authentifizierig fehlgschlage. Das Konto existiert nüme.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="144"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="145"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Unbekannte Konto arbeitsstatus: %1</translation>
+        <translation>Unbekannte Konto arbeitsstatus: %1</translation>
     </message>
 </context>
 <context>
@@ -1303,7 +1307,7 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>S automatische Java-Mechanismus het e 32-bit-Version vo Java gfunde.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
@@ -1313,27 +1317,27 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dis System (%1-%2) isch mit dr automatische Java-Installierig ned kompatibel. Es wird de Standardpfad verwendet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dini Metainformatione si verautet oder hend ned gnüegend infos zum d besti Java-Version bstime. Es wird de Standardpfad gnutzt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompatibles Java gfunde: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kei kompatibli Java-Version gfunde (d Binärdatei existiert ned). Es wird d Standardversion gnutzt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-Download-Typ het nöd chönne bestimmt werde!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
@@ -1348,7 +1352,7 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kei kompatibli Java-Version isch gfunde worde. Es wird d’Standard-Version benutzt.</translation>
     </message>
 </context>
 <context>
@@ -1356,7 +1360,7 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
@@ -1367,7 +1371,7 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mir hend e Feature gmacht wo automatisch d richtigi Java-Version für alli Minecraft-Versione abeladet (das chan i dr Java-Istellige gänderet werde). Wöttsch du die Feature iischaute oder usschaute?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -1377,7 +1381,7 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-Download deaktiviere</translation>
     </message>
 </context>
 <context>
@@ -1408,18 +1412,18 @@ Gwüssi Minecraft Versione chöntet nöd laufe.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbreche</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="175"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Aues klar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Skip</source>
-        <translation type="unfinished">Überspringen</translation>
+        <translation>Überspringe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
