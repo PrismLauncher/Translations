@@ -1256,7 +1256,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>التحضير لتسجيل الدخول...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
@@ -10783,17 +10783,17 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="763"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد موارد إصدار صالحة</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="764"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لا يحتوي إصدار Github&apos; %1&apos; على موارد صالحة لهذه المنصة: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 متنقل: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
@@ -10825,13 +10825,14 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="781"/>
         <source>Failed to download the selected asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تنزيل المورد المحدد.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="883"/>
         <source>Update already in progress
 </source>
-        <translation type="unfinished"></translation>
+        <translation>التحديث قيد التقدم بالفعل
+</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="885"/>
@@ -10852,17 +10853,17 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="915"/>
         <source>Update Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ألغي التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="915"/>
         <source>The update attempt was aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>محاولة التحديث ألغيت</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="923"/>
         <source>Updating from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>التحديث من %1 إلى 2%</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="926"/>
@@ -10887,18 +10888,19 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="966"/>
         <source>Starting new updater at &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>بدأ محدث جديد عند &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="968"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في الإطلاق &apos;1%&apos; %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1018"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>النسخ الاحتياطي
+   %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
@@ -10914,12 +10916,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1044"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في النسخ الاحتياطي %1 إلى %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1047"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في الإزالة %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
@@ -10931,23 +10933,23 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1083"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1085"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في الاستخراج %1 إلى %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في التحقق من الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في إطلاق العملية الفرعية لقراءة الإصدار.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1103"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت عملية تشغيل الرنامج الفرعي.</translation>
     </message>
 </context>
 <context>
@@ -10991,7 +10993,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
         <source>OK</source>
-        <translation type="unfinished">موافق</translation>
+        <translation>موافق</translation>
     </message>
 </context>
 <context>
@@ -10999,14 +11001,16 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"/>
         <source>Choose Minecraft name</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر اسم ماينكرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="26"/>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation type="unfinished"></translation>
+        <translation>ما عليك سوى اتخاذ خطوة أخرى لتتمكن من لعب ماينكرافت على هذا الحساب.
+
+اختر اسمك بعناية:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
@@ -11021,17 +11025,17 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>الاسم قصير جدًا - يجب أن يتراوح طوله بين 3 و 16 حرفًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="183"/>
         <source>Minecraft profile with name %1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف تعريف ماين كرافت بالاسم %1 موجود بالفعل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="185"/>
         <source>The name %1 is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>الاسم %1 غير مسموح.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
