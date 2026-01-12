@@ -10848,7 +10848,17 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>هده النسخة تحمل ملف غلق التحديثات عند: 1%
+
+الطابع الزمني: 2%
+جرى تحديث من الاصدار 3% الى 4%
+ المسار المحدد لتثبيت الملف: 5%
+بيانات الملف: 6%
+يمكن ان يعني هذا ان عملية تحديث سابقة فشلت. يرجى التحقق من سلامة التطبيق قبل المواصلة.
+ يمكنك التحقق من سجل تحديثات بريسم في:
+%7
+من اجل معلومات اكثر عن اخر محاولة.
+لتخطي هذا القفل و لاكمال التحديت, اختر &quot;Ignore&quot; اذناه.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="915"/>
@@ -10868,7 +10878,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="926"/>
         <source>Updating portable install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>جاري تحديث التطبيق المتنقل لذى 1%</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="929"/>
@@ -10878,12 +10888,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="938"/>
         <source>Process start result: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>نتج عن عمل التطبيق: 1%</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="945"/>
         <source>Backing up install</source>
-        <translation type="unfinished"></translation>
+        <translation>جاري حفض ملفات احطياطية لعملية التحميل</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="966"/>
@@ -10906,12 +10916,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1035"/>
         <source>Backing up install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>جاري حفض ملفات احطياطية لعملية التحميل لذى 1%</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1040"/>
         <source>Backing up and then removing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>جاري حفض ملفات احطياطية تم حدف 1%</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1044"/>
@@ -10927,7 +10937,8 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>تم استخراج الموالي نحو &quot;1%&quot;
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1083"/>
@@ -11045,7 +11056,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
         <source>Failed to check name availability.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعدر التحقق من توفر الاسم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
