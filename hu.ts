@@ -1325,7 +1325,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Felkészülés a bejelentkezésre...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
@@ -14970,12 +14970,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült migrálni a shadercsomag metaadatot az .index-ből</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült eltávolítani a régi .index mappát</translation>
     </message>
 </context>
 <context>
