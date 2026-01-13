@@ -3401,12 +3401,12 @@ Palun proovi uuesti.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="43"/>
         <source>FTB App Import</source>
-        <translation>FTP App&apos;ist importimine</translation>
+        <translation>FTP App&apos;i import</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Märkus: Mitmed hiljutised FTB modipakid on saadaval ka CurseForge&apos;is! Lisaks, kui sinu FTB eksemplarid ei ole vaikimisi asukohas, vali asukoht otsingu kõrval oleva nupu kaudu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
