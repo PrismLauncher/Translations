@@ -10788,7 +10788,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="764"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished">لا يحتوي إصدار Github&apos; %1&apos; على موارد صالحة لهذه المنصة: %2</translation>
+        <translation>لا يحتوي إصدار جيتهب %1 على موارد صالحة لهذه المنصة: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
@@ -10894,7 +10894,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="945"/>
         <source>Backing up install</source>
-        <translation>جاري حفض ملفات احطياطية لعملية التحميل</translation>
+        <translation>جار النسخ الاحتياطي للتثبيت</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="966"/>
