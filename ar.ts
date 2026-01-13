@@ -10793,7 +10793,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished">%1 متنقل: %2</translation>
+        <translation>%1 محمول: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
@@ -10863,7 +10863,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="915"/>
         <source>Update Aborted</source>
-        <translation type="unfinished">ألغي التحديث</translation>
+        <translation>تم إيقاف التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="915"/>
@@ -10883,7 +10883,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="929"/>
         <source>Running installer file at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل برنامج التثبيت في %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="938"/>
@@ -11051,7 +11051,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
         <source>Unhandled profile name status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>حالة اسم ملف التعريف غير المعالج: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
@@ -11062,12 +11062,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في الشبكة: %1‫‫‬‬‬‬‬
+حالة HTTP: %2‫</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="280"/>
         <source>The server responded with the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>استجاب الخادم بالخطأ التالي:</translation>
     </message>
 </context>
 <context>
@@ -11080,12 +11081,12 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>الحالة العامة للمهام...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation type="unfinished"></translation>
+        <translation>تفاصيل الحالة العامة...</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -11102,7 +11103,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="92"/>
         <source>%1 [installed]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [مثبت]</translation>
     </message>
 </context>
 <context>
@@ -11110,7 +11111,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>ينطبق هذا الخيار على المشغل فقط. لا تسمح ماينكرافت بأية إعدادات للبروكسي.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
@@ -11130,7 +11131,7 @@ HTTP Status: %2</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>استخدم اع&amp;دادات النظام</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -11175,7 +11176,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظة: اسم وكلمة المرور الخاصة بالبروكسي مخزنة على شكل نص عادي في داخل ملف إعدادات المشغل!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
@@ -11193,17 +11194,17 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>ويندوز Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>ويندوز 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>ويندوز 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
@@ -11213,27 +11214,27 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished"></translation>
+        <translation>أسلوب عنصر الواجهة يحاول أن يكون بمثل مظهر سمة win32</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"/>
         <source>Windows 9x inspired widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>مظهر عنصر الواجهة المستلهم من ويندوز 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="100"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>مظهر عنصر واجهة Qt المستلهم من WinUI 3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="102"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>مظهر عنصر واجهة Qt الافتراضي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>مظهر النظام الحالي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
@@ -11269,7 +11270,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد التحميل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
@@ -11277,12 +11278,15 @@ HTTP Status: %2</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت على وشك تحميل &quot;%1&quot; إلى %2.
+من الأفضل أن تراجع معلوماتك الشخصية مرة أخرى.
+
+هل أنت متأكد؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تأكيد اقتطاع البيانات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
@@ -11292,18 +11296,23 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف المعلومات (log) يحتوي على %1 سطرا، وهو يتخطى حدود mclo.gs&apos; ل‍ %2.
+يمكن للمشغل أن يحتفظ بأول %3 وآخر %4 أسطر/سطر،ولكن سيتسبب في اقتطاع وسط الملف.
+
+إذا اخترت &quot;لا&quot;،mclo.gs سيحتفظ فقط بأول %2 سطرا، ولكن سيقطع معلومات قد تكون مفيدة كمعلومات التعطل في نهاية ملف المعلومات (log).
+
+هل ترغب في استمرار اقتطاع البيانات؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تحميل المعلومات (logs)!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>تم إلغاء تحميل ملفات المعلومات (logs)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
@@ -11377,27 +11386,27 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation type="unfinished"></translation>
+        <translation>القيمة &apos;minimumLauncherVersion&apos; الخاصة بالإصدار(%1) هي أعلى مما يدعمه %3 (%2). وقد يجعلها لا تعمل بالشكل المطلوب!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم المكتبة %1 معطل ولا يمكن للعملية أن تستمر.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="182"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف العناصر %1 غير موجود. من المفترض ألا يحدث هذا أبدا.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="187"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن فتح %1 لقراءة: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="197"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن تحليل %1 كملف json: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
@@ -11407,12 +11416,12 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن تحليل %1: صيغة الملف غير صالحة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>ال‍uid الخاص بالعنصر يحتوي على رموز غير مسموحة، قد تحدث مشاكل أمنية بسبب هذا.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="191"/>
@@ -11476,12 +11485,12 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="361"/>
         <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>لا ملف تعريف (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="371"/>
         <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;غير متصل&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -11503,24 +11512,24 @@ Roll back to previous version?</source>
         <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%2ث، %1د</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="36"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%2د %1س</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="38"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%3د %2س %1ي</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="75"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>أيام</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="80"/>
@@ -11530,7 +11539,7 @@ Roll back to previous version?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="85"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>س</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="90"/>
@@ -11540,7 +11549,7 @@ Roll back to previous version?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="95"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>مل.ث</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="48"/>
@@ -11564,7 +11573,8 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>لقد حاولت فرض إصدار محدد من جافا ل‍JVM (using &quot;-version:xxx&quot;) هذا ليس آمنا ولا يسمح به.
+هذه الرسالة ستظهر حتى تزيل هذا من معاملات تشغيل JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
