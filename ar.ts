@@ -11596,7 +11596,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>هناك برمجيات للجافا لم تعمل. &lt;br /&gt; يجب عليك اختيار &quot;كشف&quot;، أو قم بتحديد مسار تطبيق الجافا. &lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -11655,7 +11655,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير اسم النموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="13"/>
@@ -11663,29 +11663,34 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>يبدو أن اسم النموذج يحتوي على الإصدار القديم. هل ترغب في تحديثه؟
+
+الاسم القديم: %1
+الاسم الجديد: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>هناك حزمة مودات مشابهة تم اكتشافها!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>أحد أو بعض النماذج الخاصة بك هي من نفس حزمة المودات %1. هل ترغب في إنشاء نموذج منفصل عنها، أو تحديث النموذج الموجود؟
+
+ملاحظة: قبل التحديث، تأكد من عمل نسخة احتياطية من نماذجك المهمة، لأن العوالم قد تتعطل بسبب التحديث. كما أن بعض إعدادات التكوين قد يتم فقدانها (بسبب تجاوزات الحزمة نفسها).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث النموذج الموجود</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء نموذج جديد</translation>
     </message>
     <message>
         <source>Legacy</source>
@@ -11698,52 +11703,52 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="308"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished"></translation>
+        <translation>قطة الخلفية (من MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="309"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>روري ID 11 (من رسم Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="310"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>روري ID 11 (نسخة الرسم المسطح، من رسم Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished"></translation>
+        <translation>تي-وي (من رسم SympathyTea)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
         <source>resource pack</source>
-        <translation type="unfinished"></translation>
+        <translation>حزمة ‬الرسوميات (Resource Pack)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
         <source>texture pack</source>
-        <translation type="unfinished"></translation>
+        <translation>حزمة المظهر (texture pack)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
         <source>data pack</source>
-        <translation type="unfinished"></translation>
+        <translation>حزمة البيانات</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
         <source>shader pack</source>
-        <translation type="unfinished"></translation>
+        <translation>حزمة التظليل (shader)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
         <source>world save</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ العالم</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation>مود</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
@@ -11780,12 +11785,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>فرز حسب التنزيلات</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
         <source>Sort by Category</source>
-        <translation type="unfinished"></translation>
+        <translation>فرز حسب النوع</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
@@ -11810,17 +11815,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="64"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>الباتش الخاص ببرنامج MKLINK لويندوز سيُستخدم معprismlauncher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>غير مصنف</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>برنامج التحديث التلقائي لمشغل Prism</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
@@ -11829,27 +11834,27 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
         <source>item</source>
-        <translation type="unfinished"></translation>
+        <translation>عنصر</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
-        <translation type="unfinished"></translation>
+        <translation>عناصر</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يوجد إصدار متوافق مع %1 موجود ل‍%2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد قائمة للإصدارات في فهرس الميتا داتا ل‍%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 فشل بسبب عدم وجود المتطلب %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
