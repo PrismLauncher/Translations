@@ -3007,7 +3007,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>&amp;Enable</source>
-        <translation>启用(&amp;E)</translation>
+        <translation>启用 (&amp;E)</translation>
     </message>
     <message>
         <source>Enable selected item</source>
@@ -3016,7 +3016,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>&amp;Disable</source>
-        <translation>禁用(&amp;D)</translation>
+        <translation>禁用 (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="117"/>
