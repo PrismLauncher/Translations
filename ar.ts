@@ -10917,12 +10917,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1035"/>
         <source>Backing up install at %1</source>
-        <translation>جاري حفض ملفات احطياطية لعملية التحميل لذى 1%</translation>
+        <translation>جار النسخ الاحتياطي للتثبيت في %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1040"/>
         <source>Backing up and then removing %1</source>
-        <translation>جاري حفض ملفات احطياطية تم حدف 1%</translation>
+        <translation>جار النسخ الاحتياطي ثم إزالة %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1044"/>
@@ -10932,20 +10932,20 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1047"/>
         <source>Failed to remove %1</source>
-        <translation>فشل في الإزالة %1</translation>
+        <translation>فشل في إزالة %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation>تم استخراج الموالي نحو &quot;1%&quot;
+        <translation>تم استخراج إلى &quot;1%&quot;:
   %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1083"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1085"/>
         <source>Failed to extract %1 to %2</source>
-        <translation>فشل في الاستخراج %1 إلى %2</translation>
+        <translation>فشل في استخراج %1 إلى %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
@@ -10995,12 +10995,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (قيد الاستخدام)</translation>
+        <translation>%1 (قيد الاستخدام)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
@@ -11013,31 +11013,31 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"/>
         <source>Choose Minecraft name</source>
-        <translation>اختر اسم ماينكرافت</translation>
+        <translation>اختر اسم ماين كرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="26"/>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation>ما عليك سوى اتخاذ خطوة أخرى لتتمكن من لعب ماينكرافت على هذا الحساب.
+        <translation>ما عليك سوى اتخاذ خطوة أخرى لتتمكن من لعب ماين كرافت على هذا الحساب.
 
 اختر اسمك بعناية:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
         <source>OK</source>
-        <translation type="unfinished">موافق</translation>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation>الاسم قصير جدًا - يجب أن يتراوح طوله بين 3 و 16 حرفًا.</translation>
+        <translation>الاسم قصير جدًا - يجب أن يتراوح طوله بين 3 و 16 رمزاً.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="183"/>
@@ -11112,7 +11112,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>ينطبق هذا الخيار على المشغل فقط. لا تسمح ماينكرافت بأية إعدادات للبروكسي.</translation>
+        <translation>ينطبق هذا الخيار على المشغل فقط. لا تسمح ماين كرافت بأية إعدادات للوكيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
@@ -11132,7 +11132,7 @@ HTTP Status: %2</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation>استخدم اع&amp;دادات النظام</translation>
+        <translation>استخدم إعدادات النظام</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -11143,19 +11143,19 @@ HTTP Status: %2</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished">SOC&amp;KS5</translation>
+        <translation>SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished">H&amp;TTP</translation>
+        <translation>HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="97"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished">العنوان والمَنفَذ</translation>
+        <translation>العنوان والمنفذ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="154"/>
@@ -11166,18 +11166,18 @@ HTTP Status: %2</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="160"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">اسم المستخدم:</translation>
+        <translation>اسم المستخدم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="173"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished">كلمة المرور:</translation>
+        <translation>كلمة المرور:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>ملاحظة: اسم وكلمة المرور الخاصة بالبروكسي مخزنة على شكل نص عادي في داخل ملف إعدادات المشغل!</translation>
+        <translation>ملاحظة: اسم وكلمة المرور الخاصة بالوكيل مخزنة على شكل نص عادي في داخل ملف إعدادات المشغل!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
@@ -11195,7 +11195,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
         <source>Windows Vista</source>
-        <translation>ويندوز Vista</translation>
+        <translation>ويندوز فيستا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
@@ -11266,12 +11266,12 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (قيد الاستخدام)</translation>
+        <translation>%1 (قيد الاستخدام)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
         <source>Confirm Upload</source>
-        <translation>تأكيد التحميل</translation>
+        <translation>تأكيد الرفع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
@@ -11279,7 +11279,7 @@ HTTP Status: %2</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>أنت على وشك تحميل &quot;%1&quot; إلى %2.
+        <translation>أنت على وشك رفع &quot;%1&quot; إلى %2.
 من الأفضل أن تراجع معلوماتك الشخصية مرة أخرى.
 
 هل أنت متأكد؟</translation>
@@ -11287,7 +11287,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished">تأكيد اقتطاع البيانات</translation>
+        <translation>تأكيد اقتطاع البيانات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
@@ -11298,7 +11298,7 @@ If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting
 
 Proceed with truncation?</source>
         <translation>ملف المعلومات (log) يحتوي على %1 سطرا، وهو يتخطى حدود mclo.gs&apos; ل‍ %2.
-يمكن للمشغل أن يحتفظ بأول %3 وآخر %4 أسطر/سطر،ولكن سيتسبب في اقتطاع وسط الملف.
+يمكن للمشغل أن يحتفظ بأول %3 وآخر %4 أسطر/سطر، ولكن سيتسبب في اقتطاع وسط الملف.
 
 إذا اخترت &quot;لا&quot;،mclo.gs سيحتفظ فقط بأول %2 سطرا، ولكن سيقطع معلومات قد تكون مفيدة كمعلومات التعطل في نهاية ملف المعلومات (log).
 
@@ -11308,17 +11308,17 @@ Proceed with truncation?</source>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
-        <translation>فشل في تحميل المعلومات (logs)!</translation>
+        <translation>تعذر رفع السجل!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
-        <translation>تم إلغاء تحميل ملفات المعلومات (logs)</translation>
+        <translation>تم إلغاء عملية رفع السجل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">المهمة قد أُلغيت عن طريق المستخدم.</translation>
+        <translation>قد أُلغيت المهمة عن طريق المستخدم.</translation>
     </message>
     <message>
         <source>Upload failed</source>
@@ -11349,7 +11349,7 @@ Proceed with truncation?</source>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">ثنائية جافا المحددة أعقبت عن نتيجة غير متوقعة:&lt;br /&gt;</translation>
+        <translation>ثنائية جافا المحددة أعقبت عن نتيجة غير متوقعة:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
@@ -11373,7 +11373,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="65"/>
         <source>Minecraft Server</source>
-        <translation>خادوم ماينكرافت</translation>
+        <translation>خادم ماين كرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
@@ -11422,7 +11422,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation>ال‍uid الخاص بالعنصر يحتوي على رموز غير مسموحة، قد تحدث مشاكل أمنية بسبب هذا.</translation>
+        <translation>معرف المستخدم الخاص بالعنصر يحتوي على رموز غير مسموحة، قد تحدث مشاكل أمنية بسبب هذا.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="191"/>
@@ -11432,7 +11432,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>تعذر إيجاد مسار ملف الـ JAR الأساسي - يبدو أن موجانغ أزالت الخادوم المستخدم لحالات الإحتياط.</translation>
+        <translation>تعذر إيجاد مسار ملف جار الأساسي - موجانغ أزالت الخادم المستخدم لحالات الاحتياط.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
@@ -11535,17 +11535,17 @@ Roll back to previous version?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="80"/>
         <source>h</source>
-        <translation type="unfinished">ه</translation>
+        <translation>س</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="85"/>
         <source>m</source>
-        <translation>س</translation>
+        <translation>د</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="90"/>
         <source>s</source>
-        <translation type="unfinished">ث</translation>
+        <translation>ث</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="95"/>
@@ -11560,27 +11560,27 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">لقد حاولت أن تضع خيارات JVM للذاكرة بنفسك (مستخدمًا لأحد الخيارات التالية: &quot;-XX:PermSize&quot;، &quot;-XX-MaxHeapSize&quot;، &quot;-XX:InitialHeapSize&quot;، &quot;-Xmx&quot; أو &quot;-Xms&quot;).
+        <translation>لقد حاولت أن تضع خيارات آلة جافا الافتراضية للذاكرة بنفسك (مستخدمًا لأحد الخيارات التالية: &quot;-XX:PermSize&quot;، &quot;-XX-MaxHeapSize&quot;، &quot;-XX:InitialHeapSize&quot;، &quot;-Xmx&quot; أو &quot;-Xms&quot;).
 يوجد خيارات مخصصة لهذا في الإعدادات (قائمة الجافا، داخل مجموعة إعدادات &quot;الذاكرة&quot; في أعلى المربع).
-هذه الرسالة سيتكرر عرضها حتى يتم إزالة هذه الخيارات من مدخلات JVM.</translation>
+هذه الرسالة سيتكرر عرضها حتى يتم إزالة هذه الخيارات من مدخلات آلة جافا الافتراضية.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="53"/>
         <location filename="src/launcher/JavaCommon.cpp" line="62"/>
         <source>JVM arguments warning</source>
-        <translation>تحذير لمدخلات JVM</translation>
+        <translation>تحذير لمدخلات آلة جافا الافتراضية</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
         <translation>لقد حاولت فرض إصدار محدد من جافا ل‍JVM (using &quot;-version:xxx&quot;) هذا ليس آمنا ولا يسمح به.
-هذه الرسالة ستظهر حتى تزيل هذا من معاملات تشغيل JVM.</translation>
+هذه الرسالة ستظهر حتى تزيل هذا من معاملات تشغيل آلة جافا الافتراضية.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>اختبار جافا ناجح!&lt;br /&gt;المنصة: %1&lt;br /&gt;إصدار الجاقا: %2&lt;br /&gt;مطور الجافا: %3&lt;br /&gt;</translation>
+        <translation>اختبار جافا ناجح!&lt;br /&gt;المنصة: %1&lt;br /&gt;إصدار الجافا: %2&lt;br /&gt;مطور الجافا: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
@@ -11591,7 +11591,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">ثنائية جافا المحددة لم تعمل مع المدخلات التي وفرتها أنت:&lt;br /&gt;</translation>
+        <translation>ثنائية جافا المحددة لم تعمل مع المدخلات التي وفرتها أنت:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
