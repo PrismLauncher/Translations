@@ -189,22 +189,22 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Napakyas sa pagkuha sa lokal nga lab-a sa labaw&apos;ng kalap alang sa %1</translation>
+        <translation>Napakyas sa pagkuha sa lokal nga lab-a sa labawng kalap alang sa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="153"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Napakyas sa pagkuha sa lokal nga lab-a sa labawng kalap alang sa &apos;%1&apos; %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Di-inilang pamaagi sa pagtaod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="184"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagpan-as og mga anaang limbas...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"/>
@@ -229,7 +229,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagkarganug og mga paghan-ay...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
@@ -526,7 +526,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagdumala sa Mga Panit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -1017,7 +1017,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation>Nagataod</translation>
+        <translation>Nagtaod</translation>
     </message>
 </context>
 <context>
@@ -1991,7 +1991,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation>Pagkarganug og mga putos sa kalap gikan sa gidugtong nga mga pantawan sa kausaban</translation>
+        <translation>Pagkarganug og mga putos sa kalap gikan sa dinugtong nga mga pantawan sa kausaban</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
@@ -2285,7 +2285,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation type="unfinished"></translation>
+        <translation> MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -2575,7 +2575,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
         <source>Download resources from online mod platforms.</source>
-        <translation>Pagkarganug og mga kahinguhaan gikan sa gidugtong nga mga pantawan sa kausaban.</translation>
+        <translation>Pagkarganug og mga kahinguhaan gikan sa dinugtong nga mga pantawan sa kausaban.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="166"/>
@@ -2937,7 +2937,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>Pagkarganug og mga FML library...</translation>
+        <translation>Nagkarganug og mga FML library...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -3175,7 +3175,7 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>Ang gisugyot nga memory sa putos sa kausaban nilapas sa 90% sa RAM sa imong sistem—gipagamyan gikan sa %1 haplukot nahimong %2 haplukot!</translation>
+        <translation>Ang gisugyot nga memorya sa putos sa kausaban nilapas sa 90% sa hapbaw sa imong sistema—gipagamyan gikan sa %1 MiB nahimong %2 MiB!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
@@ -3467,12 +3467,12 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagkuha og panit.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakuha ang panit</translation>
     </message>
 </context>
 <context>
@@ -4041,11 +4041,11 @@ Palihug sa pagsulay pag-usab.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gamiton ang managlahing hugbaw kon diskretong GPU hinoon sa paggamit sa kanunayng hugbaw kon pirmerong GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Gamiton ang managlahing hugbaw</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
@@ -4062,11 +4062,11 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sundugon ang paggamit sa niaging serbisyong dinugtong nga sa pagkakaron wala na padagani.&lt;/p&gt;&lt;p&gt;Mga lakip nga kaayuhan sa pagkakaron: panit ug pagbulig sa pamaaging dinugtong.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Paganahi ang mga gidugtong nga pag-ayo (basanbasan)</translation>
+        <translation>Paganahi ang mga dinugtong nga pag-ayo (basanbasan)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
@@ -4113,7 +4113,9 @@ Palihug sa pagsulay pag-usab.</translation>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagpili ka sa 32-bit nga hubad sa Java.
+Ang pagtaod dili mosugot nga ang hapbaw mulapas og 2048MiB.
+Palihug sa pagsulay nga ang kinatas-ang memorya moubos.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
@@ -4147,7 +4149,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="971"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>Napakyas sa pagtibway sa pananglitan, bisan sa daghang paghulay. Naay nagpugong niini.</translation>
+        <translation>Napakyas sa pagtibway sa pananglitan, bisan sa daghang pagsulay. Naay nagpugong niini.</translation>
     </message>
 </context>
 <context>
@@ -4155,7 +4157,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Maayong Pag-abot!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
@@ -4384,7 +4386,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Memorya</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -4443,11 +4445,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagdumala</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>Pagkarganug og Mga Hubad sa Java</translation>
+        <translation>Mga Kinarganug nga Hubad sa Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -4524,7 +4526,9 @@ Please make sure that the maximum memory value is lower.</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagpili ka sa 32-bit nga hubad sa Java.
+Ang pagtaod dili mosugot nga ang hapbaw mulapas og 2048MiB.
+Palihug sa pagsulay nga ang kinatas-ang memorya moubos.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
@@ -4608,7 +4612,7 @@ Mahimo nimong mailisan ang hubad sa Java sulod sa mga himutangan sa pagkaunya.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Memorya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="245"/>
@@ -4702,7 +4706,7 @@ Mahimo nimong mailisan ang hubad sa Java sulod sa mga himutangan sa pagkaunya.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
         <source>(-XX:PermSize)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-XX:PermSize)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
@@ -4726,7 +4730,7 @@ Mahimo nimong mailisan ang hubad sa Java sulod sa mga himutangan sa pagkaunya.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>(-Xms)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
@@ -4779,7 +4783,9 @@ Mahimo nimong mailisan ang hubad sa Java sulod sa mga himutangan sa pagkaunya.
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagpili ka sa 32-bit nga hubad sa Java.
+Ang pagtaod dili mosugot nga ang hapbaw mulapas og 2048MiB.
+Palihug sa pagsulay nga ang kinatas-ang memorya moubos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
@@ -4878,7 +4884,7 @@ Mahimo nimong mailisan ang hubad sa Java sulod sa mga himutangan sa pagkaunya.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Memorya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
@@ -5788,7 +5794,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"/>
         <source>Downloading zip for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagkarganug og zip alang sa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
@@ -6007,7 +6013,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsakarga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="110"/>
@@ -6041,7 +6047,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="144"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilawom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="246"/>
@@ -6109,7 +6115,7 @@ Panabot:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="470"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation>Walay ing-ana nga limbasan</translation>
+        <translation>Wala maanaang limbasan</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="473"/>
@@ -6206,7 +6212,7 @@ Panabot:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakuha</translation>
     </message>
 </context>
 <context>
@@ -6236,7 +6242,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="347"/>
@@ -6251,7 +6257,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasayoran</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="76"/>
@@ -6282,7 +6288,7 @@ Panabot:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got </source>
-        <translation type="unfinished"></translation>
+        <translation>Nakuha </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"/>
@@ -6796,7 +6802,7 @@ Panabot:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghimo og laktornan sa talad aron malansad ang piniling pananglitan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
@@ -7077,7 +7083,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Group already exists. :/</source>
-        <translation>Anaa namang nang pundok :/</translation>
+        <translation>Maanaa naman nang pundok :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1412"/>
@@ -7090,7 +7096,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagpanas</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
@@ -7406,7 +7412,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1036"/>
         <source>broken</source>
-        <translation type="unfinished"></translation>
+        <translation>guba</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1047"/>
@@ -7473,11 +7479,11 @@ This can be updated only using a file in %1 format
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sundugon ang paggamit sa niaging serbisyong dinugtong nga sa pagkakaron wala na padagani.&lt;/p&gt;&lt;p&gt;Mga lakip nga kaayuhan sa pagkakaron: panit ug pagbulig sa pamaaging dinugtong.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Paganahi ang mga gidugtong nga pag-ayo (basanbasan)</translation>
+        <translation>Paganahi ang mga dinugtong nga pag-ayo (basanbasan)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
@@ -7523,11 +7529,11 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gamiton ang managlahing hugbaw kon diskretong GPU hinoon sa paggamit sa kanunayng hugbaw kon pirmerong GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Gamiton ang managlahing hugbaw</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -7720,12 +7726,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="600"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sundugon ang paggamit sa niaging serbisyong dinugtong nga sa pagkakaron wala na padagani.&lt;/p&gt;&lt;p&gt;Mga lakip nga kaayuhan sa pagkakaron: panit ug pagbulig sa pamaaging dinugtong.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"/>
         <source>Enable online fixes (experimental)</source>
-        <translation>Paganahi ang mga gidugtong nga pag-ayo (basanbasan)</translation>
+        <translation>Paganahi ang mga dinugtong nga pag-ayo (basanbasan)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
@@ -7891,12 +7897,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="733"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gamiton ang managlahing hugbaw kon diskretong GPU hinoon sa paggamit sa kanunayng hugbaw kon pirmerong GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Gamiton ang managlahing hugbaw</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
@@ -8113,7 +8119,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="88"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Limbas</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -8240,7 +8246,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gigikanan sa karganug sa kausaban.</translation>
     </message>
 </context>
 <context>
@@ -8393,7 +8399,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"/>
         <source>Download mods from online mod platforms</source>
-        <translation>Pagkarganug og mga kausaban gikan sa gidugtong nga mga pantawan sa kausaban</translation>
+        <translation>Pagkarganug og mga kausaban gikan sa dinugtong nga mga pantawan sa kausaban</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="54"/>
@@ -8818,7 +8824,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="261"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> ni </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="266"/>
@@ -9218,7 +9224,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
         <source>&amp;Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsaka&amp;rga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
@@ -9249,7 +9255,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsakarga</translation>
     </message>
     <message>
         <source>Clean</source>
@@ -9372,7 +9378,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PAYTS</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
@@ -9732,7 +9738,7 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="587"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1062"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala maanaang limbas, baliwalaon ang %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="600"/>
@@ -9763,13 +9769,13 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>oo</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>dili</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
@@ -10139,7 +10145,7 @@ HTTP nga Kahimtang: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="154"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagpamatuod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="160"/>
@@ -10363,7 +10369,7 @@ HTTP nga Kahimtang: %2</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Balayan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
@@ -10446,7 +10452,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayag</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
@@ -10466,7 +10472,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
@@ -10496,7 +10502,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="47"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Dulom</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="34"/>
@@ -10519,12 +10525,12 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>adlaw</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>takna</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
@@ -10534,12 +10540,12 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>gutling</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>kalibogutling</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="48"/>
@@ -10630,7 +10636,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
         <source>Update existing instance</source>
-        <translation>Usba ang nag-adunar nga pananglitan</translation>
+        <translation>Usba ang maanaang pananglitan</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
@@ -10773,12 +10779,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
         <source>item</source>
-        <translation type="unfinished"></translation>
+        <translation>butang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
-        <translation type="unfinished"></translation>
+        <translation>mga butang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
@@ -10901,7 +10907,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
         <source>Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Nag-ilis og ngalan</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
@@ -11310,7 +11316,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> ni </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
@@ -11392,7 +11398,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
         <source>Reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Itaod pag-usab</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="541"/>
@@ -11481,7 +11487,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
         <source>Downloading resource:
 %1</source>
-        <translation>Gikarganug ang kahinguhaang:
+        <translation>Nagkarganug og kahinguhaan:
 %1</translation>
     </message>
 </context>
@@ -11682,7 +11688,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation>Pagkarganug og mga putos sa kahinguhaan gikan sa gidugtong nga mga pantawan sa kausaban</translation>
+        <translation>Pagkarganug og mga putos sa kahinguhaan gikan sa dinugtong nga mga pantawan sa kausaban</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
@@ -11787,7 +11793,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Pagkarganug og mga putos sa kahinguhaan gikan sa gidugtong nga mga pantawan</translation>
+        <translation>Pagkarganug og mga putos sa kahinguhaan gikan sa dinugtong nga mga pantawan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
@@ -12520,7 +12526,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Pagkarganug og mga tigpandong gikan sa gidugtong nga mga pantawan</translation>
+        <translation>Pagkarganug og mga tigpandong gikan sa dinugtong nga mga pantawan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
@@ -12533,7 +12539,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinDelete.cpp" line="49"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagpanas og panit</translation>
     </message>
 </context>
 <context>
@@ -12546,17 +12552,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="297"/>
         <source>File doesn&apos;t exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala maanaang limbas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="299"/>
         <source>Not a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dili man limbas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="301"/>
         <source>File is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dili man mabasa nga limbas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="303"/>
@@ -12576,7 +12582,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="275"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="289"/>
         <source>Skin Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsakarga sa Panit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
@@ -12586,17 +12592,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="39"/>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Naandan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
         <source>Slim</source>
-        <translation type="unfinished"></translation>
+        <translation>Hagpis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Lawis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
@@ -12631,32 +12637,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Pa&amp;nas-i ang Panit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>Deletes selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Panas-on ang piniling panit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
         <source>&amp;Rename Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ili&amp;sdi ang ngalan sa Panit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
         <source>Rename selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilisdan ang ngalan sa piniling panit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
         <source>F2</source>
-        <translation type="unfinished"></translation>
+        <translation>F2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="103"/>
@@ -12671,22 +12677,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="154"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagpili og Gunas sa Panit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="160"/>
         <source>Selected file is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Dili matinuod nga panit ang piniling limbas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="188"/>
         <source>No Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Walay Lawis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="195"/>
         <source>Download capes</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagkarganug og mga lawis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="272"/>
@@ -12696,12 +12702,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="275"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala maanaang limbas sa panit!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="289"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>Napakyas sa pagsakarga sa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="300"/>
@@ -12711,7 +12717,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
         <source>Skin Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Panas-i ang Panit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
@@ -12731,7 +12737,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="353"/>
         <source>Can not delete skin that is in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dili mapan-as ang panit nga gigamit pagkakaron.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="361"/>
@@ -12752,12 +12758,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="383"/>
         <source>Download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagkarganug og panit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="392"/>
         <source>URL is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Dili matinuod nga URL sa panit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
@@ -12767,7 +12773,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dili makarganug ang panit: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="440"/>
@@ -12787,7 +12793,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="469"/>
         <source>failed to download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>napakyas sa pagkarganug og panit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="479"/>
@@ -12820,7 +12826,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dili makit-an ang panit alang sa &apos;%1&apos; tungod kay: %2.</translation>
     </message>
 </context>
 <context>
@@ -12828,7 +12834,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinUpload.cpp" line="66"/>
         <source>Uploading skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagsakarga og panit</translation>
     </message>
 </context>
 <context>
@@ -13216,7 +13222,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Pagkarganug og mga putos sa gunas gikan sa gidugtong nga mga pantawan</translation>
+        <translation>Pagkarganug og mga putos sa gunas gikan sa dinugtong nga mga pantawan</translation>
     </message>
 </context>
 <context>
@@ -13381,7 +13387,7 @@ Are you sure?</source>
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
         <translation>Milapas ang kinadak-ang memorya sa gipaluyohang bili.
-32-bit ang piniling pagtaod sa Java ug dili gapaluyohan ang paglapas sa 2048MiB nga RAM.
+32-bit ang piniling pagtaod sa Java ug dili gapaluyohan ang paglapas sa 2048MiB nga hapbaw.
 Dili mahimong masugdan ang pananglitan hinungdan ani.</translation>
     </message>
     <message>
@@ -13777,7 +13783,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
         <source>Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Agbarugan</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="120"/>
@@ -13822,7 +13828,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>CPU Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Agbarugan sa Daguyok</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
