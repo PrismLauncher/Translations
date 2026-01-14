@@ -548,53 +548,54 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>স্বাগতম!
+আপনি যদি এখানে নতুন হন, তাহলে &quot;এড মাইক্রোসফট&quot; বাটনে ক্লিক করে আপনার মাইক্রোসফট একাউন্ট যুক্ত করতে পারবেন।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>কনটেক্সট মেনু</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>অফলাইন অ্যাকাউন্ট যোগ করার আগে আপনাকে একটি মাইক্রোসফ্ট অ্যাকাউন্ট যুক্ত করতে হবে যাতে মাইনক্রাফ্ট কেনা আছে।&lt;br&gt;&lt;br&gt;যদি আপনার অ্যাকাউন্ট হারিয়ে যায় তাহলে আপনি মাইক্রোসফ্টের সাথে যোগাযোগ করতে পারেন।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>একাউন্ট বাতিল?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>আপনি কি আসলেই এই একাউন্টি বাতিল করতে চান?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>একাউন্ট</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>এড &amp;অফলাইন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ভুল</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>দয়া করে আপনার কাঙ্ক্ষিত ইউজারনেম এন্টার করুন আপনার অফলাইন একাউন্ট যুক্ত করার জন্য।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>কোন মাইক্রোসফট অথেন্টিকেশন ক্লাইন্ট আইডি সেট করা হয়নি।</translation>
     </message>
 </context>
 <context>
@@ -602,7 +603,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="90"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>সব ভার্সন</translation>
     </message>
 </context>
 <context>
@@ -610,7 +611,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="54"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>ধরন</translation>
     </message>
 </context>
 <context>
@@ -618,119 +619,119 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>ক্যাট প্যাক্স ফোল্ডার দেখুন।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ফোল্ডার খুলুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>উইজেড থিমস ফোল্ডার দেখুন।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>আইকন থিমস ফোল্ডার দেখুন।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ক্যাট প্যাক:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>সবকিছু পুনরায় লোড করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>থিম:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;আইকন:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>কনসোল ফন্ট:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>ক্যাট স্কেলিং</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>ফিট</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>ফিল</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>স্ট্রেস</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ক্যাট অপাসিটি</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>ওপেক</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>স্বচ্ছ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>প্রিভিউ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ভুল] ওওওওওওওওওওও! একটি ভুতুড়ে ভুল!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ভুল] একটি ভুতুড়ে ভুল!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[তথ্য] একটি নিরীহ মেসেজ..।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[সতর্ক] একটি এত ভয়ঙ্কর সতর্কতা না।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[ডিবাগ] একটি গোপন ডিবাগিং মেসেজ..।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[মারাত্মক] একটি ভয়ঙ্কর মারাত্মক এরর!</translation>
     </message>
 </context>
 <context>
@@ -738,12 +739,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/Application.cpp" line="698"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>লগের দৈর্ঘ্য %1 লাইন অতিক্রম করার কারণে এই লগটি প্রদর্শন করা যাচ্ছে না।</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="914"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>সেটিংস</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1075"/>
@@ -759,12 +760,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>এই ইনস্টলেশনে একটি আপডেট লক ফাইল রয়েছে: %1
+
+টাইমস্ট্যাম্প: %2
+%3 থেকে %4 ভার্সনে আপডেট করা হচ্ছে
+লক্ষ্য ইনস্টলেশনের পথ: %5
+ডেটা পাথ: %6
+এর অর্থ সম্ভবত একটি আপডেটের চেষ্টা ব্যর্থ হয়েছে।&#xa0;এগোনোর আগে আপনার ইনস্টলেশনটি সঠিকভাবে কাজ করছে কিনা তা নিশ্চিত করুন।
+প্রিজম লঞ্চার আপডেটার লগটি দেখুন:
+%7
+সর্বশেষ আপডেটের চেষ্টার বিস্তারিত বিবরণের জন্য।
+
+এই লকটি মুছে ফেলতে এবং এগিয়ে যেতে নিচে &quot;ইগনর&quot; সিলেক্ট করুন।</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>আপডেট চলছে</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1116"/>
@@ -774,12 +786,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>আপডেট করার চেষ্টা ব্যর্থ হয়েছে
+
+এগোনোর আগে আপনার ইনস্টলেশনটি সঠিকভাবে কাজ করছে কিনা তা নিশ্চিত করুন।
+প্রিজম লঞ্চার আপডেটার লগটি দেখুন:
+%1
+সর্বশেষ আপডেটের চেষ্টা সম্পর্কে বিস্তারিত জানতে।</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1124"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>আপডেট করা যায়নি</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1148"/>
@@ -795,12 +812,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>আপডেট সফল হয়েছে
+
+আপনি এখন %1 চালাচ্ছেন।
+প্রিজম লঞ্চার আপডেটার লগটি দেখুন:
+%2
+বিস্তারিত জানতে।</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1156"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>আপডেট সফল হয়েছে</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1188"/>
@@ -809,37 +831,41 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>আপনার /tmp ডিরেক্টরিটি বর্তমানে &apos;noexec&apos; ফ্ল্যাগ সক্রিয় করে মাউন্ট করা আছে।
+মাইনক্রাফ্ট এর কিছু ভার্শন চালু নাও হতে পারে।
+
+আপনি এই সমস্যাটি সমাধান করতে পারেন /tmp কে &apos;exec&apos; হিসাবে পুনরায় মাউন্ট করে বা java.io.tmpdir JVM আর্গুমেন্টটিকে এমন একটি ফাইল সিস্টেমের লিখনযোগ্য ডিরেক্টরিতে সেট করে যেখানে &apos;exec&apos; ফ্ল্যাগ সেট করা আছে (যেমন, /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>সিস্টেম কনফিগারেশনের সাথে ইনকম্প্যাটিবল</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1569"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>বাতিল করা হয়েছে</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1978"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 থেকে পুরানো ডেটা পাওয়া গেছে, কিন্তু আপনার কাছে %2 এর জন্য ইতিমধ্যেই ডেটা আছে।&#xa0;দুর্ভাগ্যবশত, আপনাকে নিজেই মাইগ্রেট করতে হবে।&#xa0;আপনি কি পরের বার %2 শুরু করার সময় বকেয়া ডেটা মাইগ্রেশনের কথা মনে করিয়ে দিতে চান?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1982"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>মনে হচ্ছে আপনি আগে %1 ব্যবহার করেছেন।&#xa0;আপনি কি আপনার ডেটা %2 এর নতুন লোকেশনে স্থানান্তর করতে চান?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1988"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>মনে হচ্ছে আপনি আগে %2 এ %1 ব্যবহার করেছেন।&#xa0;আপনি কি আপনার ডেটা %3 এর নতুন লোকেশনে স্থানান্তর করতে চান?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2034"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>মাইগ্রেশন ব্যর্থ হয়েছে! কারণ: %1</translation>
     </message>
 </context>
 <context>
@@ -847,46 +873,48 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation type="unfinished"></translation>
+        <translation>অ্যাসেটস আপডেট করা হচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 এর জন্য অ্যাসেট</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="42"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>বাতিল করা হয়েছে</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
         <source>Failed to read the assets index!</source>
-        <translation type="unfinished"></translation>
+        <translation>অ্যাসেটস পড়তে ব্যর্থ হয়েছে!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>মোজাং</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 থেকে অ্যাসেট ফাইলগুলি পাওয়া যাচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>অ্যাসেট ডাউনলোড করতে ব্যর্থ হয়েছে:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
         <source>Failed to download assets:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>অ্যাসেট ডাউনলোড করতে ব্যর্থ হয়েছে:
+%1</translation>
     </message>
 </context>
 <context>
