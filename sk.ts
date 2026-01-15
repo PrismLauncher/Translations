@@ -15716,7 +15716,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="450"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Premenovať svet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
