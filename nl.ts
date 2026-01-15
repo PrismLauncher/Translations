@@ -803,7 +803,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="54"/>
         <source>Appearance</source>
-        <translation>Voorkomen</translation>
+        <translation>Uiterlijk</translation>
     </message>
 </context>
 <context>
@@ -838,7 +838,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation>Herlaad alles</translation>
+        <translation>Alles opnieuw laden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
@@ -6171,7 +6171,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Always rename the folder</source>
-        <translation>Altijd de folder hernoemen</translation>
+        <translation>Altijd de map hernoemen</translation>
     </message>
     <message>
         <source>Never rename the folder—only the displayed name</source>
@@ -6210,7 +6210,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source> hours</source>
-        <translation> Uren</translation>
+        <translation> uur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
@@ -6495,7 +6495,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>&amp;Vervang toolbar met menubar</translation>
+        <translation>Werkbalk vervangen door menubalk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
@@ -11249,7 +11249,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
         <source>&amp;Reload</source>
-        <translation>&amp;Herlaad</translation>
+        <translation>Opnieuw laden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
@@ -13105,7 +13105,7 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
 
 Old name: %1
 New name: %2</source>
-        <translation>Wil je ook de instantie folder hernoemen?
+        <translation>Wil je ook de instantie-map hernoemen?
 
 Oude naam: %1
 Nieuwe naam: %2</translation>
@@ -16274,7 +16274,7 @@ Wissel alstublieft naar een van de volgende Javaversies voor deze instantie:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="204"/>
         <source>Reload all components.</source>
-        <translation>Herlaad alle componenten.</translation>
+        <translation>Alle onderdelen opnieuw laden.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
@@ -16675,7 +16675,7 @@ Voeg uw Mojang of Minecraft-account toe.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
         <source>Reloads the version list.</source>
-        <translation>Herlaadt de versielijst.</translation>
+        <translation>Laadt de versielijst opnieuw.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
