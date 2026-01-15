@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Mod&amp;rinth</source>
-        <translation>Modrinth</translation>
+        <translation>মড্রিন্থ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
@@ -923,19 +923,19 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>জনপ্রিয়তা অনুসারে সাজান</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>নাম অনুসারে সাজান</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>গেমের ভার্শন অনুসারে সাজান</translation>
     </message>
 </context>
 <context>
@@ -943,42 +943,42 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation type="unfinished"></translation>
+        <translation>ইনস্টল করার জন্য মডগুলি নির্বাচন করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>ইনস্টল করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>রিকোমান্ডেড নির্বাচন করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation type="unfinished"></translation>
+        <translation>শেয়ার কোড ব্যবহার করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>সব মুছে ফেলুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>একটি শেয়ার কোড নির্বাচন করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>কোড শেয়ার করুন:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>কোনও শেয়ার কোড নির্দিষ্ট করা হয়নি!</translation>
     </message>
 </context>
 <context>
@@ -986,12 +986,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>আপনি কি নিশ্চিত যে আপনি এই মোডটি সক্রিয় করতে চান?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>সতর্কতা</translation>
     </message>
 </context>
 <context>
@@ -999,18 +999,18 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>সতর্কতা: এটি এখনও কাজ চলছে।&#xa0;যদি আপনি ইমপোর্ট করা মডপ্যাক নিয়ে সমস্যার সম্মুখীন হন, তাহলে এটি একটি বাগ হতে পারে।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>নির্বাচিত ভার্শন:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>অনুসন্ধান এবং ফিল্টার করুন..।</translation>
     </message>
 </context>
 <context>
@@ -1018,22 +1018,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>মাইনক্রাফ্ট %1 এর জন্য বর্তমানে কোনও ভার্শন এভেলেবল নেই</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished"></translation>
+        <translation>বর্তমানে কোনো ভার্সনই এভেইলেবল নেই</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>ভার্সনের তালিকা লোড বা ডাউনলোড করা যায়নি!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>ইনস্টল করা হচ্ছে</translation>
     </message>
 </context>
 <context>
@@ -1041,66 +1041,66 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="50"/>
         <source>Finished all authentication steps</source>
-        <translation type="unfinished"></translation>
+        <translation>সমস্ত অথেন্টিকেশন স্টেপ শেষ হয়েছে</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>শুরু করা হচ্ছে</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>অপেক্ষা করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>কাজ করা হচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>লগ ইন করার জন্য প্রস্তুতি নিচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>অথেণ্টিকেশন সফল হয়েছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="109"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished"></translation>
+        <translation>অথেণ্টিকেশন সার্ভারের সাথে যোগাযোগ করতে ব্যর্থ হয়েছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="116"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>ক্লায়েন্ট আইডি পরিবর্তন করা হয়েছে।&#xa0;নতুন সেশন তৈরি করতে হবে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="123"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>অথেণ্টিকেশনের সময় একটি এরর দেখা দিয়েছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="130"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>অথেণ্টিকেশন ব্যর্থ হয়েছে। সেশনের মেয়াদ শেষ হয়ে গেছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="137"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>অথেণ্টিকেশন ব্যর্থ হয়েছে। অ্যাকাউন্টটি আর বিদ্যমান নেই।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="144"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>..।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="145"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>অজানা অ্যাকাউন্ট টাস্কের অবস্থা: %1</translation>
     </message>
 </context>
 <context>
@@ -1108,52 +1108,52 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>অটোম্যাটিক জাভা মেকানিজম একটি 32-বিট জাভা ইনস্টলেশন শনাক্ত করেছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>কোনও কম্প্যাটিবল জাভা ভার্শন পাওয়া যায়নি।&#xa0;ডিফল্টটি ব্যবহার করা হচ্ছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>আপনার সিস্টেম (%1-%2) অটোম্যাটিক জাভা ইনস্টলেশনের সাথে কম্প্যাটিবল নয়।&#xa0;ডিফল্ট জাভা পাথ ব্যবহার করা হচ্ছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>আপনার মেটা তথ্য আউট অফ ডেট বা কোন জাভা ইনস্টলেশন ব্যবহার করা উচিত তা নির্ধারণ করার জন্য প্রয়োজনীয় তথ্য নেই।&#xa0;ডিফল্ট জাভা পাথ ব্যবহার করা হচ্ছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 এ কম্প্যাটিবল জাভা পাওয়া গেছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>কোনও কম্প্যাটিবল জাভা ভার্শন পাওয়া যায়নি (বাইনারি ফাইলটি বিদ্যমান নেই)।&#xa0;ডিফল্টটি ব্যবহার করা হচ্ছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>জাভা ডাউনলোডের ধরন নির্ধারণ করা যায়নি!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>জাভা ইনস্টল করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>আপনার অপারেটিং সিস্টেমের জন্য জাভার কোনও ভার্শন পাওয়া যায়নি: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>কোনও কম্প্যাটিবল জাভা ভার্শন পাওয়া যায়নি।&#xa0;ডিফল্টটি ব্যবহার করা হচ্ছে।</translation>
     </message>
 </context>
 <context>
@@ -1161,28 +1161,28 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>ফর্ম</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;নতুন ফিচারের সতর্কতা!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>আমরা মাইনক্রাফ্ট এর প্রতিটি ভার্সনের জন্য সঠিক জাভা ভার্শন স্বয়ংক্রিয়ভাবে ডাউনলোড করার একটি ফিচার যোগ করেছি (এটি জাভা সেটিংসে পরিবর্তন করা যেতে পারে)।&#xa0;আপনি কি এই ফিচারটি সক্রিয় বা নিষ্ক্রিয় করতে চান?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>অটো-ডাউনলোড সক্রিয় করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>অটো-ডাউনলোড নিষ্ক্রিয় করুন</translation>
     </message>
 </context>
 <context>
@@ -1190,7 +1190,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>প্রোফাইলার বাতিল করা হয়েছে</translation>
     </message>
 </context>
 <context>
@@ -1198,73 +1198,73 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="173"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>সমস্ত মডিফিকেশন পাওয়া গেছে</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>অনুগ্রহ করে অনুপস্থিত মডিফিকেশনগুলি ডাউনলোড করুন।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; পাওয়া গেছে %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>বাতিল করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="175"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ঠিক আছে</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>বাদ দিন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;আপনার কনফিগার করা গ্লোবাল মডিফিকেশন ফোল্ডার এবং ডিফল্ট ডাউনলোড ফোল্ডারে ডাউনলোড করা মডিফিকেশনগুলি স্বয়ংক্রিয়ভাবে চেক করা হয় এবং সেগুলি পাওয়া গেলে সেগুলি ইনস্ট্যান্সে কপি করা হবে।&lt;/p&gt;&lt;p&gt;ঐচ্ছিকভাবে, আপনি ডাউনলোড করা মডিফিকেশনগুলি এই ডায়ালগে টেনে আনতে পারেন বা যদি আপনি মডিফিকেশনগুলি ডিফল্ট অবস্থানে ডাউনলোড না করে থাকেন তবে দেখার জন্য একটি ফোল্ডার যোগ করতে পারেন।&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;ব্রাউজারে সমস্ত ডাউনলোড লিঙ্ক খুলতে &apos;অনুপস্থিত খুলুন&apos; ক্লিক করুন।&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ব্লক করা মডিফিকেশনগুলি</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>অনুপস্থিত খুলুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>নজরদারি করা ফোল্ডারগুলি</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ডাউনলোড ফোল্ডার যোগ করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>আপনি যেখানে মডিফিকেশনগুলি ডাউনলোড করেছেন সেই ডিরেক্টরিটি নির্বাচন করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; পাওয়া যায়নি &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="159"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;হ্যাশ: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
 </context>
 <context>
@@ -1272,12 +1272,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="55"/>
         <source>Equipping cape</source>
-        <translation type="unfinished"></translation>
+        <translation>কেপ পরানো হচ্ছে</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="52"/>
         <source>Removing cape</source>
-        <translation type="unfinished"></translation>
+        <translation>কেপ সরানো হচ্ছে</translation>
     </message>
 </context>
 <context>
@@ -1285,7 +1285,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>জাভা চেকার লাইব্রেরি খুঁজে পাওয়া যায়নি।&#xa0;আপনার ইনস্টলেশন চেক করুন।</translation>
     </message>
 </context>
 <context>
@@ -1293,37 +1293,37 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation type="unfinished"></translation>
+        <translation>অফলাইন নাম নির্বাচন করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>মেসেজ লেবেল প্লেসহোল্ডার।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation type="unfinished">ইউজার নেম</translation>
+        <translation>ইউজার নেম</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>একটি ইউজারনেম তখনই বৈধ হবে যদি তা 3 থেকে 16 অক্ষর দীর্ঘ হয় এবং ইংরেজি অক্ষর, সংখ্যা এবং আন্ডারস্কোর ব্যবহার করা হয়।&#xa0;একটি অবৈধ ইউজারনেম সার্ভার এবং সিঙ্গেল প্লেয়ার ওয়ার্ল্ড যোগদান করতে বাধা দিতে পারে।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>অবৈধ ইউজারনেম অনুমোদন করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>বাতিল করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ঠিক আছে</translation>
     </message>
 </context>
 <context>
@@ -1331,32 +1331,32 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation>একটি মডিফিকেশন প্রোভাইডার বেছে নিন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation type="unfinished"></translation>
+        <translation>এই মডিফিকেশনটি এড়িয়ে যান</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished"></translation>
+        <translation>সবগুলি এড়িয়ে যান</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation type="unfinished"></translation>
+        <translation>সবার জন্য নিশ্চিত করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>নিশ্চিত করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>নির্বাচিত প্রদানকারী ব্যর্থ হলে স্বয়ংক্রিয়ভাবে অন্য প্রদানকারী ব্যবহার করার চেষ্টা করুন</translation>
     </message>
 </context>
 <context>
@@ -1364,38 +1364,39 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="188"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>বাতিল করা হয়েছে</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>কিছু উপাদান মেটাডেটা লোড করার কাজ ব্যর্থ হয়েছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation type="unfinished"></translation>
+        <translation>ডিপেন্ডেন্সি চেকের সময় কনফ্লিক্টিং রিকয়রমেন্টস সনাক্ত করা হয়েছে!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>ইনস্ট্যান্স এর কনফ্লিক্টিং ডিপেন্ডেন্সিস আছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>লঞ্চের জন্য লোড/চেক করার সময় ইনস্ট্যান্সের কিছু ডিপেন্ডেন্সি সমাধান করা হয়নি।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 এর মেটাডেটা ডাউনলোড করা যায়নি।&#xa0;অনুগ্রহ করে ভার্সনটি পরিবর্তন করুন অথবা পরে আবার চেষ্টা করুন।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>দূরবর্তী সার্ভার থেকে ডাউনলোড করার সময় উপাদান মেটাডেটা আপডেট করার কাজটি ব্যর্থ হয়েছে:
+%1</translation>
     </message>
 </context>
 <context>
@@ -1403,48 +1404,49 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>সমস্ত চলমান কাজগুলি বাতিল করা যায়নি।</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>কাজটি ব্যর্থ হয়েছে</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>একাধিক সাবটাস্ক ব্যর্থ হয়েছে</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>একাধিক সাবটাস্ক ব্যর্থ হয়েছে
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 টি কাজ সম্পাদন করা হচ্ছে (%3 এর মধ্যে %2 টি সম্পন্ন হয়েছে)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>অনুগ্রহ করে অপেক্ষা করুন..।</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation>কাজ শুরু হওয়ার জন্য অপেক্ষা করা হচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>1 টি কাজ সম্পাদন করা হচ্ছে:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>কাজ শেষ।</translation>
     </message>
 </context>
 <context>
@@ -1452,62 +1454,62 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>কপি ইনস্ট্যান্স</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>নাম</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;গ্রুপ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>সবগুলি নির্বাচন করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>এটি নিষ্ক্রিয় করলেও মডিফিকেশন লোডার (যেমন: ফ্যাব্রিক, কুইল্ট, ইত্যাদি) থাকবে কিন্তু মডিফিকেশন ফোল্ডার এবং তাদের কনফিগারেশন মুছে যাবে।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>ইনস্ট্যান্স কপি করার অপশনস</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>মডিফিকেশনগুলি কপি করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>গেমের মধ্যে এফওভি, সর্বোচ্চ ফ্রেমরেট ইত্যাদি বিকল্পগুলি কপি করুন।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation>গেমের বিকল্পগুলি কপি করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation type="unfinished"></translation>
+        <translation>সেভ কপি করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>কপি করার অতিরিক্ত বিকল্পগুলি</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>ফাইল কপি করার পরিবর্তে সিম্বলিক বা হার্ড লিঙ্ক ব্যবহার করুন।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
