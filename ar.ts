@@ -11513,7 +11513,7 @@ Roll back to previous version?</source>
         <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished">%2ث، %1د</translation>
+        <translation>%2ث، %1د</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="36"/>
