@@ -439,60 +439,60 @@
         <translation type="vanished">தெரியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Type of the account (MSA or Offline)</source>
         <translation>கணக்கின் வகை (MSA அல்லது ஆஃப்லைன்)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
         <source>Username</source>
         <translation>பயனர்பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
         <source>MSA</source>
         <comment>Account type</comment>
         <translation>எம்.எச்.ஏ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="346"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="348"/>
         <source>Offline</source>
         <comment>Account type</comment>
         <translation>இணையமில்லாமல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="351"/>
         <source>Unknown</source>
         <comment>Account type</comment>
         <translation>தெரியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="383"/>
         <source>Account</source>
         <translation>கணக்கு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="383"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="385"/>
         <source>Type</source>
         <translation>வகை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="385"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="387"/>
         <source>Status</source>
         <translation>நிலை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>Minecraft username associated with the account.</source>
         <translation>Minecraft பயனர்பெயர் கணக்குடன் தொடர்புடையது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>User name of the account.</source>
         <translation>கணக்கின் பயனர் பெயர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Current status of the account.</source>
         <translation>கணக்கின் தற்போதைய நிலை.</translation>
     </message>
@@ -2086,61 +2086,61 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>டேட்டா பேக்கின் பதிப்பை மாற்றவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="80"/>
         <source>Download Data Packs</source>
         <translation>தரவு பொதிகளைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="242"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="121"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="86"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="243"/>
         <source>Aborted</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="86"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="243"/>
         <source>Download stopped by user.</source>
         <translation>பதிவிறக்கம் பயனரால் நிறுத்தப்பட்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="179"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="92"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="249"/>
         <source>Warnings</source>
         <translation>எச்சரிக்கைகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="259"/>
         <source>Abort</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="121"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="220"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
         <translation>மேனிலை தரவு முடக்கப்பட்டிருக்கும் போது டேட்டா பேக் புதுப்பிப்புகள் கிடைக்கவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="126"/>
         <source>Confirm Update</source>
         <translation>புதுப்பிப்பை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="127"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -2149,37 +2149,37 @@ Are you sure you want to do this?</source>
 இதை நீங்கள் செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
         <source>The data pack updater was aborted!</source>
         <translation>டேட்டா பேக் அப்டேட்டர் நிறுத்தப்பட்டது!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="151"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; புதுப்பித்த நிலையில் உள்ளது! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>All data packs are up-to-date! :)</source>
         <translation>எல்லா தரவுப் பொதிகளும் புதுப்பித்தவை! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="156"/>
         <source>All selected data packs are up-to-date! :)</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட அனைத்து தரவுப் பொதிகளும் புதுப்பித்தவை! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>Update checker</source>
         <translation>செக்கரைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="200"/>
         <source>Confirm Removal</source>
         <translation>அகற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
         <translation>%1 தரவுப் பொதிகளுக்கான மெட்டாடேட்டாவை நீங்கள் அகற்ற உள்ளீர்கள். 
@@ -3043,7 +3043,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="75"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>இலக்கு &apos;%2&apos; க்கு சொந்த சாடியை &apos;%1&apos; பிரித்தெடுக்க முடியவில்லை</translation>
     </message>
@@ -3807,47 +3807,47 @@ Please try again.</source>
 <context>
     <name>InstallLoaderDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="103"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="99"/>
         <source>&amp;Refresh</source>
         <translation>&amp; புதுப்பிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="105"/>
         <source>Ok</source>
         <translation>சரி</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="106"/>
         <source>Cancel</source>
         <translation>ரத்துசெய்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="134"/>
         <source>NeoForge</source>
         <translation>நியோஃபார்ச்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
         <source>Forge</source>
         <translation>ஃபார்ச்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>Fabric</source>
         <translation>துணி</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Quilt</source>
         <translation>குயில்ட்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="146"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>LiteLoader</source>
         <translation>லிட்டிலோடர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="148"/>
         <source>Install Loader</source>
         <translation>ஏற்றி நிறுவவும்</translation>
     </message>
@@ -3855,7 +3855,7 @@ Please try again.</source>
 <context>
     <name>InstallLoaderPage</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="44"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="40"/>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>Minecraft %1 க்கு தற்போது பதிப்புகள் எதுவும் கிடைக்கவில்லை</translation>
     </message>
@@ -4270,7 +4270,7 @@ Please make sure that the maximum memory value is lower.</source>
         <translation type="vanished">உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு குறைந்தபட்ச மதிப்பை விட சிறியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="53"/>
         <source>Settings</source>
         <translation>அமைப்புகள்</translation>
     </message>
@@ -4278,12 +4278,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="952"/>
+        <location filename="src/launcher/InstanceList.cpp" line="951"/>
         <source>Could not create staging folder</source>
         <translation>ச்டேசிங் கோப்புறையை உருவாக்க முடியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="970"/>
+        <location filename="src/launcher/InstanceList.cpp" line="969"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>பல முயற்சிகளுக்குப் பிறகும் சான்று செய்யத் தவறிவிட்டது. அது ஏதோவொன்றால் தடுக்கப்படுகிறது.</translation>
     </message>
@@ -8641,12 +8641,12 @@ Are you sure?</source>
  நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="394"/>
         <source>Missing Mod Loader</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="398"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="395"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9220,12 +9220,12 @@ Please update %1!</source>
 <context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="119"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="118"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>நெட்சோப்பில் உள்ள அனைத்து பணிகளையும் கருக்கலைப்பதில் தோல்வி!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="145"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="144"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1 பணி (களை) செயல்படுத்துதல் ( %3 இல் %2 செய்யப்படுகிறது)</translation>
     </message>
@@ -10284,12 +10284,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <translation>%1 (பயன்பாட்டில்)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="65"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
         <source>Cancel</source>
         <translation>ரத்துசெய்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="67"/>
         <source>OK</source>
         <translation>சரி</translation>
     </message>
@@ -11129,55 +11129,55 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>%1 மற்றும் %2 ஆகியவை ஒன்றிணைந்து செயல்படாது என்று அறியப்படுகிறது. அவற்றில் ஒன்றை அகற்ற பரிந்துரைக்கப்படுகிறது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="285"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="287"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
         <translation>தேர்வு செய்யப்படாதது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="287"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account status</comment>
         <translation>இணையமில்லாமல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
         <source>Ready</source>
         <comment>Account status</comment>
         <translation>ஆயத்தம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="293"/>
         <source>Working</source>
         <comment>Account status</comment>
         <translation>வேலை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="293"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
         <source>Errored</source>
         <comment>Account status</comment>
         <translation>பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
         <source>Expired</source>
         <comment>Account status</comment>
         <translation>காலாவதியான</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="299"/>
         <source>Disabled</source>
         <comment>Account status</comment>
         <translation>முடக்கப்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="299"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Gone</source>
         <comment>Account status</comment>
         <translation>சென்றது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="303"/>
         <source>Unknown</source>
         <comment>Account status</comment>
         <translation>தெரியவில்லை</translation>
@@ -11457,7 +11457,7 @@ Error message: %3</source>
 <context>
     <name>ResourceDownload::DataPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="176"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>தரவுப் பொதிகள்</translation>
@@ -11561,7 +11561,7 @@ Are you sure you want to close this dialog?</source>
         <translation>சார்புகளைச் சரிபார்க்கிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="396"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="390"/>
         <source>Change %1 version</source>
         <translation>%1 பதிப்பை மாற்றவும்</translation>
     </message>
@@ -11619,7 +11619,7 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::ResourcePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="125"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>வள பொதிகள்</translation>
@@ -11726,34 +11726,34 @@ Please update %1!</source>
         <translation>பதிப்புகளை ஏற்றுகிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="430"/>
         <source>No versions available</source>
         <translation>பதிப்புகள் எதுவும் கிடைக்கவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="431"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
         <translation>&apos;%1&apos; க்கான பதிப்புகள் எதுவும் கிடைக்கவில்லை. 
 ஆசிரியர் மூன்றாம் தரப்பு துவக்கிகளைத் தடுத்தார்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="538"/>
         <source>Reinstall</source>
         <translation>மீண்டும் நிறுவவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="539"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+திரும்ப</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="545"/>
         <source>Cancel</source>
         <translation>ரத்துசெய்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="566"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="564"/>
         <source>The resource was not found</source>
         <translation>சான்று காணப்படவில்லை</translation>
     </message>
@@ -11773,7 +11773,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownload::ShaderPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="159"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>சேடர் பொதிகள்</translation>
@@ -11797,7 +11797,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownload::TexturePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="146"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="142"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>அமைப்பு பொதிகள்</translation>
@@ -12053,50 +12053,50 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="184"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="237"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="187"/>
         <source>Aborted</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="187"/>
         <source>Download stopped by user.</source>
         <translation>பதிவிறக்கம் பயனரால் நிறுத்தப்பட்டது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="109"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Warnings</source>
         <translation>எச்சரிக்கைகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="123"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="203"/>
         <source>Abort</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="237"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
         <translation>மேனிலை தரவு முடக்கப்பட்டிருக்கும் போது வள பேக் புதுப்பிப்புகள் கிடைக்கவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="143"/>
         <source>Confirm Update</source>
         <translation>புதுப்பிப்பை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -12105,37 +12105,37 @@ Are you sure you want to do this?</source>
  இதை நீங்கள் செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
         <source>The resource pack updater was aborted!</source>
         <translation>வள பேக் அப்டேட்டர் கைவிடப்பட்டது!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="168"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; புதுப்பித்த நிலையில் உள்ளது! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="171"/>
         <source>All resource packs are up-to-date! :)</source>
         <translation>அனைத்து வள பொதிகளும் புதுப்பித்தவை! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="173"/>
         <source>All selected resource packs are up-to-date! :)</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட அனைத்து வள பொதிகளும் புதுப்பித்தவை! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="176"/>
         <source>Update checker</source>
         <translation>செக்கரைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="217"/>
         <source>Confirm Removal</source>
         <translation>அகற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
         <translation>%1 வள பொதிகளுக்கான மெட்டாடேட்டாவை நீங்கள் அகற்ற உள்ளீர்கள்.
@@ -12817,50 +12817,50 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="96"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="181"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="234"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="184"/>
         <source>Aborted</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="184"/>
         <source>Download stopped by user.</source>
         <translation>பதிவிறக்கம் பயனரால் நிறுத்தப்பட்டது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="106"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
         <source>Warnings</source>
         <translation>எச்சரிக்கைகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="200"/>
         <source>Abort</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="234"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
         <translation>மேனிலை தரவு முடக்கப்பட்டிருக்கும் போது சேடர் பேக் புதுப்பிப்புகள் கிடைக்கவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="140"/>
         <source>Confirm Update</source>
         <translation>புதுப்பிப்பை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -12869,37 +12869,37 @@ Are you sure you want to do this?</source>
  இதை நீங்கள் செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="161"/>
         <source>The shader pack updater was aborted!</source>
         <translation>சேடர் பேக் அப்டேட்டர் நிறுத்தப்பட்டது!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="165"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; புதுப்பித்த நிலையில் உள்ளது! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="168"/>
         <source>All shader packs are up-to-date! :)</source>
         <translation>அனைத்து சேடர் பொதிகளும் புதுப்பித்தவை! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="170"/>
         <source>All selected shader packs are up-to-date! :)</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட அனைத்து சேடர் பொதிகளும் புதுப்பித்தவை! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="173"/>
         <source>Update checker</source>
         <translation>செக்கரைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="214"/>
         <source>Confirm Removal</source>
         <translation>அகற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="216"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
         <translation>நீங்கள் %1 சேடர் பொதிகளுக்கு மெட்டாடேட்டாவை அகற்ற உள்ளீர்கள்.
@@ -13522,50 +13522,50 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="104"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="242"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="192"/>
         <source>Aborted</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="192"/>
         <source>Download stopped by user.</source>
         <translation>பதிவிறக்கம் பயனரால் நிறுத்தப்பட்டது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="114"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="199"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="198"/>
         <source>Warnings</source>
         <translation>எச்சரிக்கைகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="128"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="208"/>
         <source>Abort</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="242"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
         <translation>மேனிலை தரவு முடக்கப்பட்டிருக்கும் போது அமைப்பு பேக் புதுப்பிப்புகள் கிடைக்கவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="148"/>
         <source>Confirm Update</source>
         <translation>புதுப்பிப்பை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -13574,37 +13574,37 @@ Are you sure you want to do this?</source>
  இதை நீங்கள் செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="169"/>
         <source>The texture pack updater was aborted!</source>
         <translation>அமைப்பு பேக் அப்டேட்டர் நிறுத்தப்பட்டது!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="173"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; புதுப்பித்த நிலையில் உள்ளது! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="176"/>
         <source>All texture packs are up-to-date! :)</source>
         <translation>அனைத்து அமைப்பு பொதிகளும் புதுப்பித்தவை! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="178"/>
         <source>All selected texture packs are up-to-date! :)</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட அனைத்து அமைப்பு பொதிகளும் புதுப்பித்தவை! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="181"/>
         <source>Update checker</source>
         <translation>செக்கரைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="222"/>
         <source>Confirm Removal</source>
         <translation>அகற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="223"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
         <translation>நீங்கள் %1 அமைப்பு பொதிகளுக்கு மெட்டாடேட்டாவை அகற்ற உள்ளீர்கள்.
@@ -14512,51 +14512,51 @@ Canonical Path: %1</source>
         <translation type="vanished">திறந்த உலக தரவுத்தளங்கள் கோப்புறை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
         <source>Open World in MCEdit</source>
         <translation>MCEDIT இல் திறந்த உலகம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="333"/>
         <source>No MCEdit found or set up!</source>
         <translation>எந்த MCEDIT கண்டுபிடிக்கப்படவில்லை அல்லது அமைக்கப்படவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="334"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>உங்களிடம் MCEDIT அமைக்கப்படவில்லை அல்லது அது நகர்த்தப்பட்டது.
  நீங்கள் அதை உலகளாவிய அமைப்புகளில் அமைக்கலாம்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="340"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEDIT தொடங்கத் தவறிவிட்டது!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="343"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="341"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEDIT தொடங்கத் தவறிவிட்டது.
  அதை மீண்டும் நிறுவ வேண்டியது தேவை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
         <source>Select a Minecraft world zip</source>
         <translation>ஒரு Minecraft World Zip ஐத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
         <source>Minecraft World Zip File</source>
         <translation>Minecraft உலக zip கோப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="428"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
         <source>Copy World</source>
         <translation>உலகத்தை நகலெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>மின்கிராஃப்ட் இயங்கும்போது ஒரு உலகத்தை மாற்றுவது பாதுகாப்பற்றது.
@@ -14589,23 +14589,23 @@ Are you sure?</source>
         <translation>%1 க்கான தரவு பொதிகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="433"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="454"/>
         <source>World name</source>
         <translation>உலக பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="433"/>
         <source>Enter a new name for the copy.</source>
         <translation>நகலுக்கு புதிய பெயரை உள்ளிடவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="447"/>
         <source>Rename World</source>
         <translation>உலகத்தை மறுபெயரிடுங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="454"/>
         <source>Enter a new world name.</source>
         <translation>புதிய உலக பெயரை உள்ளிடவும்.</translation>
     </message>

@@ -446,19 +446,19 @@
         <translation type="vanished">В сети</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
         <source>MSA</source>
         <comment>Account type</comment>
         <translation>Учётная запись Microsoft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="346"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="348"/>
         <source>Offline</source>
         <comment>Account type</comment>
         <translation>Автономна</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="351"/>
         <source>Unknown</source>
         <comment>Account type</comment>
         <translation>Неизвестна</translation>
@@ -499,7 +499,7 @@
         <translation type="vanished">Неизвестна</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Type of the account (MSA or Offline)</source>
         <translation>Тип учётной записи (MSA или автономная)</translation>
     </message>
@@ -534,22 +534,22 @@
         <translation type="vanished">Нет</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
         <source>Username</source>
         <translation>Имя пользователя</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="383"/>
         <source>Account</source>
         <translation>Учётная запись</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="383"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="385"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="385"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="387"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -558,7 +558,7 @@
         <translation type="vanished">Можно перенести?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>Minecraft username associated with the account.</source>
         <translation>Имя пользователя Minecraft, связанное с учётной записью.</translation>
     </message>
@@ -567,7 +567,7 @@
         <translation type="vanished">Профиль</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>User name of the account.</source>
         <translation>Имя учётной записи.</translation>
     </message>
@@ -576,7 +576,7 @@
         <translation type="vanished">Тип учетной записи - Mojang или MSA.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Current status of the account.</source>
         <translation>Текущий статус учётной записи.</translation>
     </message>
@@ -2378,61 +2378,61 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>Сменить версию набора данных.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="80"/>
         <source>Download Data Packs</source>
         <translation>Скачать наборы данных</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="242"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="121"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="86"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="243"/>
         <source>Aborted</source>
         <translation>Прервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="86"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="243"/>
         <source>Download stopped by user.</source>
         <translation>Загрузка остановлена пользователем.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="179"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="92"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="249"/>
         <source>Warnings</source>
         <translation>Предупреждения</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="259"/>
         <source>Abort</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="121"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="220"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
         <translation>Обновления набора данных недоступны при отключении метаданных!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="126"/>
         <source>Confirm Update</source>
         <translation>Подтвердите обновление</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="127"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -2441,37 +2441,37 @@ Are you sure you want to do this?</source>
 Продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
         <source>The data pack updater was aborted!</source>
         <translation>Обновление набора данных было отменено!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="151"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; актуален и не нуждается в обновлении! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>All data packs are up-to-date! :)</source>
         <translation>Все наборы данных актуальны и не нуждаются в обновлении! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="156"/>
         <source>All selected data packs are up-to-date! :)</source>
         <translation>Все выбранные наборы данных актуальны и не нуждаются в обновлении! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>Update checker</source>
         <translation>Проверка обновлений</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="200"/>
         <source>Confirm Removal</source>
         <translation>Подтвердите удаление</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
         <translation>Удаление метаданных для %1 наборов данных.
@@ -3440,7 +3440,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="75"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>Не удалось распаковать нативный jar-файл «%1» в указанное место «%2»</translation>
     </message>
@@ -4461,47 +4461,47 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstallLoaderDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="103"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="99"/>
         <source>&amp;Refresh</source>
         <translation>&amp;Обновить</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="105"/>
         <source>Ok</source>
         <translation>Ок</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="106"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="134"/>
         <source>NeoForge</source>
         <translation>NeoForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
         <source>Forge</source>
         <translation>Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>Fabric</source>
         <translation>Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Quilt</source>
         <translation>Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="146"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>LiteLoader</source>
         <translation>LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="148"/>
         <source>Install Loader</source>
         <translation>Установить загрузчик</translation>
     </message>
@@ -4509,7 +4509,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstallLoaderPage</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="44"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="40"/>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>В данный момент нет доступных версий для Minecraft %1</translation>
     </message>
@@ -5021,7 +5021,7 @@ Proceed with caution!</source>
         <translation type="vanished">Адрес сервера:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="53"/>
         <source>Settings</source>
         <translation>Параметры</translation>
     </message>
@@ -5077,12 +5077,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="952"/>
+        <location filename="src/launcher/InstanceList.cpp" line="951"/>
         <source>Could not create staging folder</source>
         <translation>Не удалось создать промежуточную папку</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="970"/>
+        <location filename="src/launcher/InstanceList.cpp" line="969"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Не удалось создать экземпляр даже после нескольких попыток. Создание экземпляра чем-то блокируется.</translation>
     </message>
@@ -10457,12 +10457,12 @@ Are you sure?</source>
 Продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="394"/>
         <source>Missing Mod Loader</source>
         <translation>Отсутствует загрузчик модов</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="398"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="395"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>Перед установкой модов необходимо установить совместимый загрузчик модов. Установить его сейчас?</translation>
     </message>
@@ -11366,12 +11366,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="119"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="118"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Не удалось прервать все задания в NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="145"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="144"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Выполнение %1 задачи (задач) (выполнено %2 из %3)</translation>
     </message>
@@ -12493,12 +12493,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <translation>%1 (используется)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="65"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="67"/>
         <source>OK</source>
         <translation>ОК</translation>
     </message>
@@ -13484,55 +13484,55 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Известно, что %1 и %2 не работают вместе. Рекомендуется удалить один из них.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="285"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="287"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
         <translation>Не проверен</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="287"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account status</comment>
         <translation>Офлайн</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
         <source>Ready</source>
         <comment>Account status</comment>
         <translation>Готов</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="293"/>
         <source>Working</source>
         <comment>Account status</comment>
         <translation>Работает</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="293"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
         <source>Errored</source>
         <comment>Account status</comment>
         <translation>С ошибками</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
         <source>Expired</source>
         <comment>Account status</comment>
         <translation>Истекшая</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="299"/>
         <source>Disabled</source>
         <comment>Account status</comment>
         <translation>Отключена</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="299"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Gone</source>
         <comment>Account status</comment>
         <translation>Отсутствует</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="303"/>
         <source>Unknown</source>
         <comment>Account status</comment>
         <translation>Неизвестно</translation>
@@ -13819,7 +13819,7 @@ Error message: %3</source>
 <context>
     <name>ResourceDownload::DataPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="176"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>наборов данных</translation>
@@ -13931,7 +13931,7 @@ Are you sure you want to close this dialog?</source>
         <translation>Проверка зависимостей…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="396"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="390"/>
         <source>Change %1 version</source>
         <translation>Изменить версию %1</translation>
     </message>
@@ -13997,7 +13997,7 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::ResourcePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="125"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>наборы ресурсов</translation>
@@ -14104,34 +14104,34 @@ Please update %1!</source>
         <translation>Загрузка версий…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="430"/>
         <source>No versions available</source>
         <translation>Нет доступных версий</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="431"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
         <translation>Версии для «%1» отсутствуют
 Вероятно, автор заблокировал сторонние лаунчеры.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="538"/>
         <source>Reinstall</source>
         <translation>Переустановить</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="539"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Ввод</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="545"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="566"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="564"/>
         <source>The resource was not found</source>
         <translation>Ресурс не найден</translation>
     </message>
@@ -14151,7 +14151,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownload::ShaderPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="159"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>наборы шейдеров</translation>
@@ -14175,7 +14175,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownload::TexturePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="146"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="142"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>наборы текстур</translation>
@@ -14451,50 +14451,50 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="184"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="237"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="187"/>
         <source>Aborted</source>
         <translation>Прервано</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="187"/>
         <source>Download stopped by user.</source>
         <translation>Загрузка остановлена пользователем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="109"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Warnings</source>
         <translation>Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="123"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="203"/>
         <source>Abort</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="237"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
         <translation>Обновления наборов ресурсов недоступны при отключении метаданных!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="143"/>
         <source>Confirm Update</source>
         <translation>Подтверждение обновления</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -14503,37 +14503,37 @@ Are you sure you want to do this?</source>
 Продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
         <source>The resource pack updater was aborted!</source>
         <translation>Обновление набора ресурсов было прервано!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="168"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>«%1» обновлено! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="171"/>
         <source>All resource packs are up-to-date! :)</source>
         <translation>Все наборы ресурсов обновлены! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="173"/>
         <source>All selected resource packs are up-to-date! :)</source>
         <translation>Все выбранные наборы ресурсов обновлены! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="176"/>
         <source>Update checker</source>
         <translation>Проверка обновлений</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="217"/>
         <source>Confirm Removal</source>
         <translation>Подтверждение удаления</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
         <translation>Удаление метаданных для %1 наборов ресурсов.
@@ -15267,50 +15267,50 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="96"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="181"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="234"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="184"/>
         <source>Aborted</source>
         <translation>Прервано</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="184"/>
         <source>Download stopped by user.</source>
         <translation>Скачивание остановлено пользователем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="106"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
         <source>Warnings</source>
         <translation>Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="200"/>
         <source>Abort</source>
         <translation>Прервать</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="234"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
         <translation>Обновления наборов шейдеров недоступны при отключении метаданных!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="140"/>
         <source>Confirm Update</source>
         <translation>Подтверждение обновления</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -15319,37 +15319,37 @@ Are you sure you want to do this?</source>
 Продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="161"/>
         <source>The shader pack updater was aborted!</source>
         <translation>Обновление набора шейдеров было прервано!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="165"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>«%1» обновлён! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="168"/>
         <source>All shader packs are up-to-date! :)</source>
         <translation>Все наборы шейдеров обновлены! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="170"/>
         <source>All selected shader packs are up-to-date! :)</source>
         <translation>Все выбранные наборы шейдеров обновлены! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="173"/>
         <source>Update checker</source>
         <translation>Проверка обновлений</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="214"/>
         <source>Confirm Removal</source>
         <translation>Подтверждение удаления</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="216"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
         <translation>Удаление метаданных для %1 наборов шейдеров.
@@ -16109,50 +16109,50 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="104"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="242"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="192"/>
         <source>Aborted</source>
         <translation>Прервано</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="192"/>
         <source>Download stopped by user.</source>
         <translation>Загрузка остановлена пользователем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="114"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="199"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="198"/>
         <source>Warnings</source>
         <translation>Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="128"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="208"/>
         <source>Abort</source>
         <translation>Прервать</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="242"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
         <translation>Обновления наборов текстур недоступны при отключении метаданных!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="148"/>
         <source>Confirm Update</source>
         <translation>Подтверждение обновления</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -16161,37 +16161,37 @@ Are you sure you want to do this?</source>
 Продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="169"/>
         <source>The texture pack updater was aborted!</source>
         <translation>Обновление набора текстур было прервано!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="173"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>«%1» обновлён! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="176"/>
         <source>All texture packs are up-to-date! :)</source>
         <translation>Все наборы текстур обновлены! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="178"/>
         <source>All selected texture packs are up-to-date! :)</source>
         <translation>Все выбранные наборы текстур обновлены! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="181"/>
         <source>Update checker</source>
         <translation>Средство проверки обновлений</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="222"/>
         <source>Confirm Removal</source>
         <translation>Подтверждение удаления</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="223"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
         <translation>Удаление метаданных для %1 наборов текстур.
@@ -17409,51 +17409,51 @@ Do you want to continue?</source>
         <translation type="vanished">Открыть папку с наборами данных мира</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
         <source>Open World in MCEdit</source>
         <translation>Открыть мир в MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="333"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit не найден или не установлен!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="334"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>MCEdit не установлен или перемещён.
 Эти параметры можно настроить в глобальных параметрах.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="340"/>
         <source>MCEdit failed to start!</source>
         <translation>Не удалось запустить MCEdit!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="343"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="341"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>Не удалось запустить MCEdit.
 Возможно, потребуется переустановка.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
         <source>Select a Minecraft world zip</source>
         <translation>Выберите zip-архив мира Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
         <source>Minecraft World Zip File</source>
         <translation>ZIP-архив мира Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="428"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
         <source>Copy World</source>
         <translation>Копировать мир</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Изменение мира во время работы игры небезопасно.
@@ -17486,23 +17486,23 @@ Are you sure?</source>
         <translation>Наборы данных для %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="433"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="454"/>
         <source>World name</source>
         <translation>Название мира</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="433"/>
         <source>Enter a new name for the copy.</source>
         <translation>Введите новое имя для копии.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="447"/>
         <source>Rename World</source>
         <translation>Переименовать мир</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="454"/>
         <source>Enter a new world name.</source>
         <translation>Введите имя нового мира.</translation>
     </message>
