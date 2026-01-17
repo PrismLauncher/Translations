@@ -306,17 +306,17 @@
         <translation>Se instalează modpack-ul</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1000"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="999"/>
         <source>Failed to create libraries component</source>
         <translation>Nu s-a reușit crearea componentei bibliotecilor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1026"/>
         <source>Unknown loader type: </source>
         <translation>Tip de loader necunoscut: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Failed to create pack component</source>
         <translation>Nu s-a reușit crearea componentei de pachet</translation>
     </message>
@@ -430,19 +430,19 @@
         <translation type="vanished">Online</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
         <source>MSA</source>
         <comment>Account type</comment>
         <translation>MSA</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="346"/>
         <source>Offline</source>
         <comment>Account type</comment>
         <translation>Deconectat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
         <source>Unknown</source>
         <comment>Account type</comment>
         <translation>Necunoscut</translation>
@@ -483,7 +483,7 @@
         <translation type="vanished">Necunoscut</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Type of the account (MSA or Offline)</source>
         <translation>Tip de cont (MSA sau Offline)</translation>
     </message>
@@ -518,22 +518,22 @@
         <translation type="vanished">Nu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
         <source>Username</source>
         <translation>Nume Utilizator</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
         <source>Account</source>
         <translation>Cont</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="383"/>
         <source>Type</source>
         <translation>Tip</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="385"/>
         <source>Status</source>
         <translation>Stare</translation>
     </message>
@@ -542,7 +542,7 @@
         <translation type="vanished">Se poate migra?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
         <translation>Numele de utilizator Minecraft asociat cu acest cont.</translation>
     </message>
@@ -551,7 +551,7 @@
         <translation type="vanished">Profil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>User name of the account.</source>
         <translation>Numele de utilizator al contului.</translation>
     </message>
@@ -560,7 +560,7 @@
         <translation type="vanished">Tipul de cont - Mojang sau MSA.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="363"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Current status of the account.</source>
         <translation>Starea actuală a contului.</translation>
     </message>
@@ -578,19 +578,19 @@
         <translation type="vanished">Adăugați &amp;Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="107"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
         <translation>Elimină</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
         <translation>Setează valoarea implicită</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="76"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
         <translation>Fără implicit (&amp;N)</translation>
@@ -610,37 +610,47 @@
         <translation type="vanished">Șterge skinul activ și revino la cel implicit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="81"/>
         <source>&amp;Manage Skins</source>
         <translation>&amp;Aranjați Skin-uri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="84"/>
         <source>Manage Skins</source>
         <translation>Aranjați Skin-uri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="89"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
         <translation>&amp;Adaugă Microsoft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="94"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
         <translation>Adaugă cont &amp;Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
         <translation>&amp;Reîncarcă</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="102"/>
         <source>Refresh the account tokens</source>
         <translation>Reîncarcă token-urile contului</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
+        <source>Move &amp;Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
+        <source>Move &amp;Down</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -1506,12 +1516,12 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
 <context>
     <name>CapeChange</name>
     <message>
-        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
         <translation>Echipează pelerina</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="52"/>
+        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="51"/>
         <source>Removing cape</source>
         <translation>Dezbracă pelerina</translation>
     </message>
@@ -2730,48 +2740,48 @@ Sigur doriți să continuați?</translation>
         <translation type="vanished">&amp;Autor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="134"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
         <source>Cancel</source>
         <translation>Anulează</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="135"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="168"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="175"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="165"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="172"/>
         <source>Export %1</source>
         <translation>Exportă %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="169"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="166"/>
         <source>Modrinth pack</source>
         <translation>Pachet Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="176"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="173"/>
         <source>CurseForge pack</source>
         <translation>Pachet CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="203"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="200"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="205"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>Task aborted</source>
         <translation>Sarcină anulată</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="205"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>The task has been aborted by the user.</source>
         <translation>Sarcina a fost anulată de utilizator.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="211"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="208"/>
         <source>Abort</source>
         <translation>Renunță</translation>
     </message>
@@ -3434,7 +3444,7 @@ Vă rugăm să încercați din nou.</translation>
         <translation>Notă: Foarte multe modpackuri FTB sunt deasemenea disponibile pe CurseForge! Deasemenea, dacă instanțele tale FTB nu sunt în locația implicită, selectează-l folosind butonul de lângă cel de căutare.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
         <source>Search and filter...</source>
         <translation>Caută și filtrează...</translation>
     </message>
@@ -3443,7 +3453,7 @@ Vă rugăm să încercați din nou.</translation>
         <translation type="vanished">Caută</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
         <source>Select FTBApp instances directory</source>
         <translation>Selectați dosarul unde se află instanțele din FTBApp</translation>
@@ -4444,18 +4454,18 @@ Vă rugăm să încercați din nou.</translation>
         <translation>Se încearcă să se determine tipul instanței</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="176"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Extracting modpack</source>
         <translation>Se extrage modpackul</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="169"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="167"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Nu se poate deschide fișierul zip al modpackului furnizat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="173"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="171"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Arhiva nu conţine un tip de modpack recunoscut.</translation>
     </message>
@@ -4464,7 +4474,7 @@ Vă rugăm să încercați din nou.</translation>
         <translation type="vanished">Extragerea modpackului a eșuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="230"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="228"/>
         <source>Could not fix permissions for %1</source>
         <translation>Nu s-au putut repara permisiunile pentru %1</translation>
     </message>
@@ -4911,12 +4921,12 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="953"/>
+        <location filename="src/launcher/InstanceList.cpp" line="952"/>
         <source>Could not create staging folder</source>
         <translation>Imposibil de creat dosar de staging</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="971"/>
+        <location filename="src/launcher/InstanceList.cpp" line="970"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Nu a reușit să se porneasca instanța, chiar și după multiple incercari. Este blocata de ceva.</translation>
     </message>
@@ -5647,17 +5657,17 @@ Vă rugăm să selectați una dintre următoarele instalări sau căutați un ex
 <context>
     <name>JavaWizardWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="137"/>
         <source>Download Java</source>
         <translation>Descărcați Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
         <source>32-bit Java detected</source>
         <translation>Java pe 32 de biți detectat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="234"/>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
 %1 will not be able to start Minecraft.
 Do you wish to proceed?
@@ -5672,12 +5682,12 @@ Puteți schimba versiunea de Java din setări ulterior.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
         <source>No Java version selected</source>
         <translation>Nu a fost selectată nicio versiune de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="245"/>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
 %1 will not be able to start Minecraft.
 Do you wish to proceed without a functional version of Java?
@@ -5692,77 +5702,77 @@ Puteți schimba versiunea de Java din setări ulterior.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="354"/>
         <source>Find Java executable</source>
         <translation>Găsește executabilul Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>Memory</source>
         <translation>Memorie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Cantitatea maximă de memorie pe care Minecraft este permis să o folosească.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Minimum memory allocation:</source>
         <translation>Alocare minimă de memorie:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>Maximum memory allocation:</source>
         <translation>Alocare maximă de memorie:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Cantitatea de memorie cu care este pornit Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Cantitatea de memorie valabila pentru a stoca clasele Java incarcate.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
         <source>Browse</source>
         <translation>Răsfoiește</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="504"/>
         <source>Auto-download Mojang Java</source>
         <translation>Descarcă automat Java de la Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Auto-detect Java version</source>
         <translation>Detectează automat versiunea de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="507"/>
         <source>Autodetect Java</source>
         <translation>Detectare automată Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="516"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Memoria dumneavoastră maximă este mai mare decât memoria disponibilă în sistem.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="519"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Memoria dumneavoastră maximă se apropie de memoria maximă disponibilă în sistem.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="522"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Memoria maximă alocată este mai mică decât valoarea minimă</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="528"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
         <translation>Depășiți alocarea maximă acceptată de versiunile Java pe 32 de biți.</translation>
     </message>
@@ -5957,7 +5967,7 @@ Doriți să jucați demo-ul?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="390"/>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="446"/>
         <source>Error!</source>
         <translation>Eroare!</translation>
     </message>
@@ -5973,12 +5983,12 @@ Doriți să jucați demo-ul?</translation>
         <translation>Nu s-a putut instanția launcherul.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="446"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Verificarea profilelor pentru %1 a eșuat: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="460"/>
+        <location filename="src/launcher/LaunchController.cpp" line="459"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lansează</translation>
     </message>
@@ -5987,7 +5997,7 @@ Doriți să jucați demo-ul?</translation>
         <translation type="vanished">Nu s-a putut porni profiler-ul: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="454"/>
+        <location filename="src/launcher/LaunchController.cpp" line="453"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5996,7 +6006,7 @@ Doriți să jucați demo-ul?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="458"/>
+        <location filename="src/launcher/LaunchController.cpp" line="457"/>
         <source>Waiting.</source>
         <translation>În aşteptare.</translation>
     </message>
@@ -6005,28 +6015,28 @@ Doriți să jucați demo-ul?</translation>
         <translation type="vanished">Pornește</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="466"/>
+        <location filename="src/launcher/LaunchController.cpp" line="465"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Profilatorul nu a putut porni: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="467"/>
+        <location filename="src/launcher/LaunchController.cpp" line="466"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="312"/>
-        <location filename="src/launcher/LaunchController.cpp" line="494"/>
+        <location filename="src/launcher/LaunchController.cpp" line="493"/>
         <source>Abort</source>
         <translation>Renunță</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="507"/>
+        <location filename="src/launcher/LaunchController.cpp" line="506"/>
         <source>Kill Minecraft?</source>
         <translation>Închideți Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="508"/>
+        <location filename="src/launcher/LaunchController.cpp" line="507"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Acest lucru poate cauza coruperea instanței și ar trebui folosit numai dacă Minecraft a înghețat din anumite motive</translation>
     </message>
@@ -6049,9 +6059,13 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
 <context>
     <name>LauncherLoginStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Accessing Mojang services.</source>
         <translation>Se accesează serviciile Mojang.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
+        <source>Fetching Minecraft access token</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6063,6 +6077,11 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>Nu s-a reușit analizarea răspunsului oferit de serverele Minecraft în legatura cu cheia de acces.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
+        <source>Got Minecraft access token</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6705,7 +6724,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
         <translation>Nu s-a putut muta Minecraft-ul dezarhivat!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="193"/>
         <source>No installation method found!</source>
         <translation>Nu s-a găsit nicio metodă de instalare!</translation>
     </message>
@@ -7184,6 +7203,10 @@ Motiv:
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
+        <source>Got MSA token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Got</source>
         <translation>Primit</translation>
     </message>
@@ -7266,6 +7289,11 @@ Motiv:
 <context>
     <name>MSAStep</name>
     <message>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
+        <source>Got MSA token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
         <translation>Actualizarea token-ului a eșuat.</translation>
@@ -7286,7 +7314,6 @@ Motiv:
         <translation>Autentificarea utilizatorului Microsoft a eșuat - token-ul este gol.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got </source>
         <translation>A fost primit. </translation>
     </message>
@@ -8531,77 +8558,77 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="302"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lansează</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>Launch &amp;Offline</source>
         <translation>Lansează &amp;Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
         <source>Launch &amp;Demo</source>
         <translation>Lansează &amp;Demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
         <source>Profilers</source>
         <translation>Profilatori</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="325"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="327"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Niciun Profilator</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1020"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SESIUNE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1023"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;JETON ACCES&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID PROFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1062"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
         <source>broken</source>
         <translation>stricat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1073"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1078"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>, last played on %1 for %2</source>
         <translation>, ultima dată jucat pe %1 pentru %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>, total played for %1</source>
         <translation>, total jucat pentru %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>, has crashed.</source>
         <translation>, a cedat.</translation>
     </message>
@@ -8808,6 +8835,10 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
+        <source>Got Minecraft profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation>Dobândirea profilului de Minecraft Java a reușit.</translation>
     </message>
@@ -11418,33 +11449,30 @@ Pentru a suprascrie acest blocaj și continuare actualizării oricum, selecteaz�
         <translation>Selectați un profil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="32"/>
         <source>Use as default?</source>
         <translation>Folosești ca implicit?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="39"/>
         <source>Use as default for this instance only?</source>
         <translation>Folosești ca implicit doar pentru această instanță?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="40"/>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="42"/>
         <source>Name</source>
         <translation>Nume</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"/>
         <source>%1 (in use)</source>
         <translation>%1 (în folosire)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="65"/>
         <source>Cancel</source>
         <translation type="unfinished">Anulează</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
         <source>OK</source>
         <translation type="unfinished">OK</translation>
     </message>
@@ -11764,30 +11792,30 @@ Proceed with truncation?</source>
         <translation>Legătura &lt;a href=&quot;%1&quot;&gt; la jurnalul încărcat &lt;/a&gt; a fost pus în clipboard-ul tău.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="378"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
         <translation>Fișierul specificat ori nu există ori nu este un executabil adecvat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="381"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="382"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
         <translation>Binarul Java specificat nu a pornit cum trebuie.&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="392"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
         <translation>Binarul Java specificat a returnat un rezultat neașteptat:&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="402"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
         <translation>Testul Java a reușit!&lt;br /&gt;Platformă raportată: %1&lt;br /&gt; Versiune Java raportată: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="411"/>
         <source>Java test success</source>
         <translation>Testul Java a reușit</translation>
     </message>
@@ -11795,7 +11823,7 @@ Proceed with truncation?</source>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
         <location filename="src/launcher/JavaCommon.cpp" line="100"/>
         <location filename="src/launcher/JavaCommon.cpp" line="107"/>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="411"/>
         <source>Java test failure</source>
         <translation>Testul Java a eșuat</translation>
     </message>
@@ -12314,55 +12342,55 @@ NOTIȚĂ: Asigură-te că ai făcut o copie de rezervă a datelor instanțelor i
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="267"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="285"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
         <translation type="unfinished">Nebifat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="287"/>
         <source>Offline</source>
         <comment>Account status</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Ready</source>
         <comment>Account status</comment>
         <translation type="unfinished">Gata</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
         <source>Working</source>
         <comment>Account status</comment>
         <translation type="unfinished">Funcționează</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="293"/>
         <source>Errored</source>
         <comment>Account status</comment>
         <translation type="unfinished">A dat eroare</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
         <source>Expired</source>
         <comment>Account status</comment>
         <translation type="unfinished">Expirat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
         <source>Disabled</source>
         <comment>Account status</comment>
         <translation type="unfinished">Dezactivat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="299"/>
         <source>Gone</source>
         <comment>Account status</comment>
         <translation type="unfinished">Dispărut</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Unknown</source>
         <comment>Account status</comment>
         <translation type="unfinished">Necunoscut</translation>
@@ -15858,7 +15886,7 @@ Locația canonică: %1</translation>
         <translation>Lumi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="145"/>
         <source>Context menu</source>
         <translation>Meniu contextual</translation>
     </message>
@@ -15900,34 +15928,34 @@ It may be necessary to reinstall it.</source>
 Ar putea fi necesar să îl reinstalați.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
         <source>Select a Minecraft world zip</source>
         <translation>Alegeți un fișier zip ce conține o lume de Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
         <source>Minecraft World Zip File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="429"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="428"/>
         <source>Copy World</source>
         <translation>Copiați Lumea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Schimbarea lumii în timp ce rulează Minecraft-ul este posibil nesigur.
 Dorești să continui?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="194"/>
         <source>Confirm Deletion</source>
         <translation>Confirmă Ștergerea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="195"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -15938,33 +15966,33 @@ Lumea ar putea dispărea pentru totdeauna (UN TIMP LUNG).
 Ești sigur(ă)?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="223"/>
         <source>Manage Data Packs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="230"/>
         <source>Data packs for %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
         <source>World name</source>
         <translation>Numele lumii</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
         <source>Enter a new name for the copy.</source>
         <translation>Introdu un nou nume pentru copie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="450"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="449"/>
         <source>Rename World</source>
         <translation>Redenumiți Lumea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
         <source>Enter a new world name.</source>
         <translation>Introdu un nume pentru noua lume.</translation>
     </message>
@@ -16019,11 +16047,19 @@ Ești sigur(ă)?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
+        <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
+        <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
         <translation>Acest cont de Microsoft nu are un profil de XBox Live. Cumpără jocul pe %1 mai întâi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation>XBox Live nu este disponibil în țara ta. Ai fost blocat.</translation>
     </message>
@@ -16100,11 +16136,19 @@ Vă rugăm configurați-vă contul conform %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
+        <source>Xbox user authentication failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
+        <source>Xbox user authentication response could not be understood.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>XBox user authentication failed: %1</source>
         <translation>Autentificarea utilizatorului XBox a eșuat: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication response could not be understood.</source>
         <translation>Răspunsul de autentificare a utilizatorului XBox nu a putut fi înțeles.</translation>
     </message>

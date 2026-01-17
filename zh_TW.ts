@@ -314,17 +314,17 @@
         <translation>正在安裝模組包</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1000"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="999"/>
         <source>Failed to create libraries component</source>
         <translation>無法建立程式庫元件</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1026"/>
         <source>Unknown loader type: </source>
         <translation>無效的載入器類型： </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Failed to create pack component</source>
         <translation>無法建立元件包</translation>
     </message>
@@ -438,19 +438,19 @@
         <translation type="vanished">線上</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
         <source>MSA</source>
         <comment>Account type</comment>
         <translation>Microsoft 帳號</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="346"/>
         <source>Offline</source>
         <comment>Account type</comment>
         <translation>離線</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
         <source>Unknown</source>
         <comment>Account type</comment>
         <translation>未知</translation>
@@ -491,7 +491,7 @@
         <translation type="vanished">未知</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Type of the account (MSA or Offline)</source>
         <translation>帳號類型（Microsoft 帳號或離線）</translation>
     </message>
@@ -526,22 +526,22 @@
         <translation type="vanished">否</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
         <source>Username</source>
         <translation>使用者名稱</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
         <source>Account</source>
         <translation>帳號</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="383"/>
         <source>Type</source>
         <translation>類型</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="385"/>
         <source>Status</source>
         <translation>狀態</translation>
     </message>
@@ -550,7 +550,7 @@
         <translation type="vanished">能否轉移？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
         <translation>屬於該帳號的 Minecraft 使用者名稱。</translation>
     </message>
@@ -559,7 +559,7 @@
         <translation type="vanished">個人資料</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>User name of the account.</source>
         <translation>該帳號的使用者名稱。</translation>
     </message>
@@ -568,7 +568,7 @@
         <translation type="vanished">帳號類型──Mojang 或 MSA。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="363"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Current status of the account.</source>
         <translation>帳號目前的狀態。</translation>
     </message>
@@ -586,19 +586,19 @@
         <translation type="vanished">新增 Mojang 帳號（&amp;M）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="107"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
         <translation>移除 (&amp;V)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
         <translation>設為預設帳號 (&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="76"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
         <translation>無預設帳號 (&amp;N)</translation>
@@ -618,37 +618,47 @@
         <translation type="vanished">刪除目前的外觀並恢復至預設外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="81"/>
         <source>&amp;Manage Skins</source>
         <translation>管理外觀 (&amp;M)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="84"/>
         <source>Manage Skins</source>
         <translation>管理外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="89"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
         <translation>新增微軟帳號 (&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="94"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
         <translation>新增離線帳號 (&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
         <translation>重新整理 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="102"/>
         <source>Refresh the account tokens</source>
         <translation>重新整理帳號權杖</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
+        <source>Move &amp;Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
+        <source>Move &amp;Down</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -1555,12 +1565,12 @@ Some versions of Minecraft may not launch.
 <context>
     <name>CapeChange</name>
     <message>
-        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
         <translation>裝備披風</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="52"/>
+        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="51"/>
         <source>Removing cape</source>
         <translation>移除披風</translation>
     </message>
@@ -2783,48 +2793,48 @@ Are you sure?</source>
         <translation type="vanished">作者 (&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="134"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="135"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>OK</source>
         <translation>確定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="168"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="175"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="165"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="172"/>
         <source>Export %1</source>
         <translation>匯出 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="169"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="166"/>
         <source>Modrinth pack</source>
         <translation>Modrinth 模組包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="176"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="173"/>
         <source>CurseForge pack</source>
         <translation>CurseForge 模組包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="203"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="200"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="205"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>Task aborted</source>
         <translation>任務已中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="205"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>The task has been aborted by the user.</source>
         <translation>任務已被使用者中止。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="211"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="208"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
@@ -3487,7 +3497,7 @@ Please try again.</source>
         <translation>注意：許多近期推出的 FTB 模組包也可以在 CurseForge 上取得！此外，如果您的 FTB 實例不在預設路徑，請使用搜尋欄旁邊的按鈕進行選擇。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
         <source>Search and filter...</source>
         <translation>搜尋及篩選…</translation>
     </message>
@@ -3496,7 +3506,7 @@ Please try again.</source>
         <translation type="vanished">搜尋</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
         <source>Select FTBApp instances directory</source>
         <translation>選擇 FTB App 實例目錄</translation>
@@ -4542,18 +4552,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>正在嘗試確定實例類型</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="176"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Extracting modpack</source>
         <translation>正在解壓縮模組包</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="169"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="167"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>無法開啟提供的模組包 Zip 壓縮檔。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="173"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="171"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>壓縮檔包含未知的模組包類型。</translation>
     </message>
@@ -4562,7 +4572,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">模組包解壓縮失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="230"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="228"/>
         <source>Could not fix permissions for %1</source>
         <translation>無法修復 %1 的權限</translation>
     </message>
@@ -5027,12 +5037,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="953"/>
+        <location filename="src/launcher/InstanceList.cpp" line="952"/>
         <source>Could not create staging folder</source>
         <translation>無法建立臨時資料夾</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="971"/>
+        <location filename="src/launcher/InstanceList.cpp" line="970"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>多次重試後仍無法更新實例。更新被某些因素干擾。</translation>
     </message>
@@ -5779,17 +5789,17 @@ Please select one of the following or browse for a java executable.</oldsource>
 <context>
     <name>JavaWizardWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="137"/>
         <source>Download Java</source>
         <translation>下載 Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
         <source>32-bit Java detected</source>
         <translation>偵測到 32 位元 Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="234"/>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
 %1 will not be able to start Minecraft.
 Do you wish to proceed?
@@ -5804,12 +5814,12 @@ You can change the Java version in the settings later.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
         <source>No Java version selected</source>
         <translation>未選擇 Java 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="245"/>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
 %1 will not be able to start Minecraft.
 Do you wish to proceed without a functional version of Java?
@@ -5824,77 +5834,77 @@ You can change the Java version in the settings later.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="354"/>
         <source>Find Java executable</source>
         <translation>尋找 Java 執行檔</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>Memory</source>
         <translation>記憶體</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>允許 Minecraft 使用的最大記憶體用量。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Minimum memory allocation:</source>
         <translation>最小記憶體配置：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>Maximum memory allocation:</source>
         <translation>最大記憶體配置：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Minecraft 啟動時的記憶體用量。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>可用於儲存已載入 Java 類別的記憶體用量。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
         <source>Browse</source>
         <translation>瀏覽</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="504"/>
         <source>Auto-download Mojang Java</source>
         <translation>自動下載 Mojang Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Auto-detect Java version</source>
         <translation>自動偵測 Java 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="507"/>
         <source>Autodetect Java</source>
         <translation>自動偵測 Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="516"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>您配置的最大記憶體超過系統記憶體容量。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="519"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>您配置的最大記憶體接近系統記憶體容量。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="522"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>您配置的最大記憶體小於最小值</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="528"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
         <translation>您的最大記憶體配置已超出 32 位元 Java 所支援的上限。</translation>
     </message>
@@ -6097,7 +6107,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="390"/>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="446"/>
         <source>Error!</source>
         <translation>錯誤！</translation>
     </message>
@@ -6113,12 +6123,12 @@ Do you want to play the demo?</source>
         <translation>啟動器無法實例化。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="446"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>分析器對於 %1 的檢查失敗：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="460"/>
+        <location filename="src/launcher/LaunchController.cpp" line="459"/>
         <source>&amp;Launch</source>
         <translation>啟動 (&amp;L)</translation>
     </message>
@@ -6127,7 +6137,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">無法啟動分析器：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="454"/>
+        <location filename="src/launcher/LaunchController.cpp" line="453"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -6136,7 +6146,7 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="458"/>
+        <location filename="src/launcher/LaunchController.cpp" line="457"/>
         <source>Waiting.</source>
         <translation>請稍候。</translation>
     </message>
@@ -6145,28 +6155,28 @@ Do you want to play the demo?</source>
         <translation type="vanished">啟動</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="466"/>
+        <location filename="src/launcher/LaunchController.cpp" line="465"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>無法啟動分析器：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="467"/>
+        <location filename="src/launcher/LaunchController.cpp" line="466"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="312"/>
-        <location filename="src/launcher/LaunchController.cpp" line="494"/>
+        <location filename="src/launcher/LaunchController.cpp" line="493"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="507"/>
+        <location filename="src/launcher/LaunchController.cpp" line="506"/>
         <source>Kill Minecraft?</source>
         <translation>強制關閉 Minecraft？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="508"/>
+        <location filename="src/launcher/LaunchController.cpp" line="507"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>這可能造成實例發生錯誤，只應該在 Minecraft 因某些原因而沒有回應時使用</translation>
     </message>
@@ -6195,9 +6205,13 @@ You may have to fix your mods because the game is still logging to files and lik
 <context>
     <name>LauncherLoginStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Accessing Mojang services.</source>
         <translation>正在存取 Mojang 服務。</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
+        <source>Fetching Minecraft access token</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6209,6 +6223,11 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>解析 Minecraft 存取權杖回應失敗。</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
+        <source>Got Minecraft access token</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6932,7 +6951,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation>無法移動解壓縮後的 Minecraft 檔案！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="193"/>
         <source>No installation method found!</source>
         <translation>找不到安裝方式！</translation>
     </message>
@@ -7418,6 +7437,10 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
+        <source>Got MSA token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Got</source>
         <translation>已取得</translation>
     </message>
@@ -7504,6 +7527,11 @@ Reason:
 <context>
     <name>MSAStep</name>
     <message>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
+        <source>Got MSA token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
         <translation>無法更新權杖。</translation>
@@ -7524,7 +7552,6 @@ Reason:
         <translation>Microsoft 使用者驗證失敗 - 更新權杖為空。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got </source>
         <translation>已取得 </translation>
     </message>
@@ -9021,47 +9048,47 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="302"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
         <source>&amp;Launch</source>
         <translation>啟動 (&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>Launch &amp;Offline</source>
         <translation>離線啟動 (&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
         <source>Launch &amp;Demo</source>
         <translation>啟動試玩版 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
         <source>Profilers</source>
         <translation>分析器</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="325"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="327"/>
         <source>&amp;No Profiler</source>
         <translation>無分析器 (&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1020"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1023"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;存取權杖&gt;</translation>
     </message>
@@ -9070,22 +9097,22 @@ This can be updated only using a file in %1 format
         <translation type="vanished">&lt;用戶端權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;設定檔 ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1062"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
         <source>broken</source>
         <translation>損壞</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1073"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1078"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>, last played on %1 for %2</source>
         <translation>，最後遊玩時間為 %1，持續了 %2</translation>
     </message>
@@ -9098,12 +9125,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">，上次已遊玩 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>, total played for %1</source>
         <translation>，總共遊玩了 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>, has crashed.</source>
         <translation>，程式已崩潰。</translation>
     </message>
@@ -9324,6 +9351,11 @@ This can be updated only using a file in %1 format
         <translation>取得 Minecraft Java 版個人檔案失敗：%1</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
+        <source>Got Minecraft profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Minecraft Java profile acquisition failed.</source>
         <translation type="vanished">取得 Minecraft Java 個人資料失敗。</translation>
     </message>
@@ -9333,7 +9365,6 @@ This can be updated only using a file in %1 format
         <translation>無法解析 Minecraft Java 版個人檔案回應</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation>取得 Minecraft Java 版個人檔案成功。</translation>
     </message>
@@ -12341,33 +12372,30 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <translation>選取一個設定檔。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="32"/>
         <source>Use as default?</source>
         <translation>作為預設值？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="39"/>
         <source>Use as default for this instance only?</source>
         <translation>作為此實例的預設值？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="40"/>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="42"/>
         <source>Name</source>
         <translation>名稱</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"/>
         <source>%1 (in use)</source>
         <translation>%1（使用中）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="65"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
         <source>OK</source>
         <translation>確定</translation>
     </message>
@@ -12738,30 +12766,30 @@ Error message: %1</source>
         <translation>已將 &lt;a href=&quot;%1&quot;&gt;記錄檔連結&lt;/a&gt; 複製到您的剪貼簿中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="378"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
         <translation>選擇的檔案不存在或是無法執行。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="381"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="382"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
         <translation>指定的 Java 二進位檔案未正常啟動。&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="392"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
         <translation>指定的 Java 二進位檔案回傳了預期外的結果：&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="402"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
         <translation>Java 測試成功！&lt;br /&gt;平台回報：%1&lt;br /&gt;Java 版本回報：%2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="411"/>
         <source>Java test success</source>
         <translation>Java 測試成功</translation>
     </message>
@@ -12769,7 +12797,7 @@ Error message: %1</source>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
         <location filename="src/launcher/JavaCommon.cpp" line="100"/>
         <location filename="src/launcher/JavaCommon.cpp" line="107"/>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="411"/>
         <source>Java test failure</source>
         <translation>Java 測試失敗</translation>
     </message>
@@ -13348,55 +13376,55 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>已知 %1 和 %2 無法相容。建議移除其中一個。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="267"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="285"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
         <translation>未檢查</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="287"/>
         <source>Offline</source>
         <comment>Account status</comment>
         <translation>離線</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Ready</source>
         <comment>Account status</comment>
         <translation>就緒</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
         <source>Working</source>
         <comment>Account status</comment>
         <translation>處理中</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="293"/>
         <source>Errored</source>
         <comment>Account status</comment>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
         <source>Expired</source>
         <comment>Account status</comment>
         <translation>已過期</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
         <source>Disabled</source>
         <comment>Account status</comment>
         <translation>已停用</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="299"/>
         <source>Gone</source>
         <comment>Account status</comment>
         <translation>已移除</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Unknown</source>
         <comment>Account status</comment>
         <translation>未知</translation>
@@ -17236,7 +17264,7 @@ Canonical Path: %1</source>
         <translation>世界</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="145"/>
         <source>Context menu</source>
         <translation>功能表</translation>
     </message>
@@ -17288,34 +17316,34 @@ It may be necessary to reinstall it.</source>
 可能需要重新安裝它。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
         <source>Select a Minecraft world zip</source>
         <translation>選擇 Minecraft 世界 zip 檔</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
         <source>Minecraft World Zip File</source>
         <translation>Minecraft 世界 Zip 檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="429"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="428"/>
         <source>Copy World</source>
         <translation>複製世界</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>當 Minecraft 正在執行時變更一個世界具有潛在的風險。
 您還要繼續嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="194"/>
         <source>Confirm Deletion</source>
         <translation>確認刪除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="195"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -17326,33 +17354,33 @@ Are you sure?</source>
 您確定嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="223"/>
         <source>Manage Data Packs</source>
         <translation>管理資料包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="230"/>
         <source>Data packs for %1</source>
         <translation>%1 的資料包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
         <source>World name</source>
         <translation>世界名稱</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
         <source>Enter a new name for the copy.</source>
         <translation>輸入複製的新名稱。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="450"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="449"/>
         <source>Rename World</source>
         <translation>重新命名世界</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
         <source>Enter a new world name.</source>
         <translation>輸入新世界的名稱。</translation>
     </message>
@@ -17407,11 +17435,19 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
+        <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
+        <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
         <translation>這個 Microsoft 帳號沒有 Xbox Live 個人檔案。請先在 %1 上購買遊戲。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation>XBox Live 無法在您的國家使用。您被封鎖了。</translation>
     </message>
@@ -17490,17 +17526,25 @@ Please set up your account according to %1.</source>
         <translation>正在以 Xbox 使用者登入。</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
+        <source>Xbox user authentication failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
+        <source>Xbox user authentication response could not be understood.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>XBox user authentication failed.</source>
         <translation type="vanished">Xbox 使用者驗證失敗。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
         <translation>Xbox 使用者驗證失敗：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication response could not be understood.</source>
         <translation>無法理解 Xbox 使用者驗證回應。</translation>
     </message>
