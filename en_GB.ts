@@ -657,12 +657,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Move &amp;Up</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Move &amp;Down</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -6235,7 +6235,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Fetching Minecraft access token</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6251,7 +6251,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Got Minecraft access token</translation>
     </message>
 </context>
 <context>
@@ -7451,7 +7451,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>Got MSA token</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7542,7 +7542,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>Got MSA token</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
@@ -9367,7 +9367,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Got Minecraft profile</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -17472,12 +17472,12 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live is not available in your country. You&apos;ve been blocked.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -17565,12 +17565,12 @@ Please set up your account according to %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox user authentication failed: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox user authentication response could not be understood.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
@@ -17578,7 +17578,7 @@ Please set up your account according to %1.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Xbox user authentication failed: %1</translation>
+        <translation>XBox user authentication failed: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
