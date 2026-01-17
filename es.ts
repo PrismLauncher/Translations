@@ -665,12 +665,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Subir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Bajar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -1359,7 +1359,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando el inicio de sesión...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
@@ -6208,7 +6208,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtención del token de acceso de Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6224,7 +6224,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Se obtuve el token de acceso de Minecraft</translation>
     </message>
 </context>
 <context>
@@ -7444,7 +7444,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>Se obtuvo el token de MSA</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7535,7 +7535,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>Se obtuvo el token de MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
@@ -9371,7 +9371,7 @@ Solo puede actualizarse mediante un archivo con formato %1
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Se obtuvo el perfil de Minecraft</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -17457,12 +17457,12 @@ El mundo puede desaparecer para siempre (MUCHO TIEMPO).
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta cuenta de Microsoft no tiene un perfil de Xbox Live. Compra primero el juego en %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live no está disponible en tu país. Has sido bloqueado.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -17550,12 +17550,12 @@ Por favor, configure su cuenta como se indica en %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error en la autenticación del usuario de Xbox: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo comprender la respuesta de autenticación del usuario de Xbox.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
