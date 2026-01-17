@@ -11513,7 +11513,7 @@ Roll back to previous version?</source>
         <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation>%2ث، %1د</translation>
+        <translation>%2ث %1د</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="36"/>
@@ -11607,12 +11607,12 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">تعذر العثور على مكتبة مدقق الجافا. يرجى التحقق من التثبيت الخاص بك.</translation>
+        <translation>تعذر العثور على مكتبة مدقق الجافا. يرجى التحقق من التثبيت الخاص بك.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="155"/>
         <source>Download of meta file %1</source>
-        <translation>التنزيل لملف التعريف %1</translation>
+        <translation>تنزيل لملف التعريف %1</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="133"/>
@@ -11671,14 +11671,14 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Similar modpack was found!</source>
-        <translation>هناك حزمة مودات مشابهة تم اكتشافها!</translation>
+        <translation>تم اكتشاف حزمة إضافات مشابهة!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>أحد أو بعض النماذج الخاصة بك هي من نفس حزمة المودات %1. هل ترغب في إنشاء نموذج منفصل عنها، أو تحديث النموذج الموجود؟
+        <translation>أحد أو بعض النماذج الخاصة بك هي من نفس حزمة الإضافات %1. هل ترغب في إنشاء نموذج منفصل عنها، أو تحديث النموذج الموجود؟
 
 ملاحظة: قبل التحديث، تأكد من عمل نسخة احتياطية من نماذجك المهمة، لأن العوالم قد تتعطل بسبب التحديث. كما أن بعض إعدادات التكوين قد يتم فقدانها (بسبب تجاوزات الحزمة نفسها).</translation>
     </message>
@@ -11723,12 +11723,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
         <source>resource pack</source>
-        <translation>حزمة ‬الرسوميات (Resource Pack)</translation>
+        <translation>حزمة ‬موارد</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
         <source>texture pack</source>
-        <translation>حزمة المظهر (texture pack)</translation>
+        <translation>حزمة مظهر</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
@@ -11738,22 +11738,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
         <source>shader pack</source>
-        <translation>حزمة التظليل (shader)</translation>
+        <translation>حزمة تظليل</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
         <source>world save</source>
-        <translation>حفظ العالم</translation>
+        <translation>عالم محفوظ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
         <source>mod</source>
-        <translation>مود</translation>
+        <translation>الإضافة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
         <source>unknown</source>
-        <translation type="unfinished">مجهول</translation>
+        <translation>مجهول</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
@@ -11970,7 +11970,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>حدث خطأ عند محاولة إعادة التسمية: &lt;br/&gt; - جذر النموذج القديم: %1&lt;br/&gt; - جذر النموذج الجديد: %2&lt;br/&gt; تمت فقط إعادة تسمية الميتا-داتا.</translation>
+        <translation>حدث خطأ عند محاولة إعادة التسمية: &lt;br/&gt; - جذر النموذج القديم: %1&lt;br/&gt; - جذر النموذج الجديد: %2&lt;br/&gt; تمت إعادة تسمية بيانات التعريف فقط.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
@@ -11987,18 +11987,54 @@ New name: %2</source>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>نموذج</numerusform>
-            <numerusform>نموذج</numerusform>
-            <numerusform>نموذجان</numerusform>
-            <numerusform>نماذج</numerusform>
-            <numerusform>نموذج</numerusform>
-            <numerusform>نموذج</numerusform>
+            <numerusform>قد يرجع النموذج الآتي إلى ملفات في هذا النموذج:
+
+(لا نموذج)
+
+%2 من الممكن أن ينعطب النموذج الآخر, 
+
+هل تريد المتابعة؟</numerusform>
+            <numerusform>قد يرجع النموذج الآتي إلى ملفات في هذا النموذج:
+
+%1
+
+%2 من الممكن أن ينعطب النموذج الآخر, 
+
+هل تريد المتابعة؟</numerusform>
+            <numerusform>قد يرجع النموذجان الآتيان إلى ملفات في هذا النموذج:
+
+%1
+
+%2 من الممكن أن ينعطبا النموذجان الآخران, 
+
+هل تريد المتابعة؟</numerusform>
+            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:
+
+%1
+
+%2 من الممكن أن تنعطب النماذج الأخرى, 
+
+هل تريد المتابعة؟</numerusform>
+            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:
+
+%1
+
+%2 من الممكن أن تنعطب النماذج الأخرى, 
+
+هل تريد المتابعة؟</numerusform>
+            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:
+
+%1
+
+%2 من الممكن أن تنعطب النماذج الأخرى, 
+
+هل تريد المتابعة؟</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="201"/>
         <source>error handling file</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في تحمّل الملف</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
