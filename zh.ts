@@ -657,12 +657,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>上移 (&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>下移 (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -4156,7 +4156,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
         <source>Got skin</source>
-        <translation>已获取到皮肤</translation>
+        <translation>成功获取皮肤</translation>
     </message>
 </context>
 <context>
@@ -6218,7 +6218,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>正在获取 Minecraft 访问令牌</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6234,7 +6234,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>成功获取 Minecraft 访问令牌</translation>
     </message>
 </context>
 <context>
@@ -7445,7 +7445,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>成功获取 Microsoft 账户令牌</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7536,12 +7536,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>成功获取 Microsoft 账户令牌</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
-        <translation>令牌（Token）更新失败。</translation>
+        <translation>令牌刷新失败。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
@@ -7556,7 +7556,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation>Microsoft 账户身份验证失败——更新令牌（token）为空。</translation>
+        <translation>Microsoft 账户身份验证失败——刷新令牌为空。</translation>
     </message>
     <message>
         <source>Got </source>
@@ -9369,7 +9369,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>成功获取 Minecraft 档案</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -17444,12 +17444,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>此 Microsoft 账户没有 Xbox Live 档案。请先在 %1 购买游戏。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live 服务在你的国家或地区不可用。你的登录请求已被屏蔽。</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -17537,12 +17537,12 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox 用户身份验证失败：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法识别 Xbox 用户认证响应。</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
