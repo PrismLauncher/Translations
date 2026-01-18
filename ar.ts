@@ -11786,12 +11786,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">فرز بحسب البارز</translation>
+        <translation>فرز بحسب البارز</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">فرز بحسب الشعبية</translation>
+        <translation>فرز بحسب الشعبية</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
@@ -11802,12 +11802,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">فرز بحسب الاسم</translation>
+        <translation>فرز بحسب الاسم</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">فرز بحسب الصانع</translation>
+        <translation>فرز بحسب الصانع</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
@@ -11823,27 +11823,27 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">فرز بحسب إصدار اللعبة</translation>
+        <translation>فرز بحسب إصدار اللعبة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished">فرز حسب الشهرة</translation>
+        <translation>فرز حسب الشهرة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">فرز حسب المتابعين</translation>
+        <translation>فرز حسب المتابعين</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished">فرز حسب الأحدث</translation>
+        <translation>فرز حسب الأحدث</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="64"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation>الباتش الخاص ببرنامج MKLINK لويندوز سيُستخدم معprismlauncher</translation>
+        <translation>الباتش الخاص ببرنامج MKLINK لويندوز سيُستخدم مع المشغل بريسم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
@@ -11853,7 +11853,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation>برنامج التحديث التلقائي لمشغل Prism</translation>
+        <translation>برنامج التحديث التلقائي لمشغل بريسم</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
@@ -11877,7 +11877,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation>لا توجد قائمة للإصدارات في فهرس الميتا داتا ل‍%1</translation>
+        <translation>لا توجد قائمة للإصدارات في فهرس بيانات التعريف ل‍%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
@@ -11892,65 +11892,65 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation>%1، الاعتمادية في هذا العنصر ليست الاصدار المطلوب %2</translation>
+        <translation>%1، الاعتمادية في هذا العنصر ليست بالإصدار المطلوب %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation>%1، هذه الاعتمادية في العنصر، ليست الإصدار المقترح %2</translation>
+        <translation>%1، أحد الاعتماديات في العنصر، ليست بالإصدار المقترح %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation>%1 و %2 معروف أنهما لا يعملان معا، من المستحسن أن تحذف واحدا منهما.</translation>
+        <translation>%1 و %2 معروفان أنهما لا يعملان معا، من المستحسن أن تحذف واحدا منهما.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="287"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">غير مراقبة</translation>
+        <translation>غير مراجع</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>غير متصل</translation>
+        <translation>غير متصل بالإنترنت</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">جاهز</translation>
+        <translation>جاهز</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="293"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">شغال</translation>
+        <translation>مفعّل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">خطأ</translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">انتهت الصلاحية</translation>
+        <translation>انتهت الصلاحية</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="299"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">مطفئ</translation>
+        <translation>معطّل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">غادر</translation>
+        <translation>اختفى</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="303"/>
@@ -12067,7 +12067,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
         <source>invalid compression level</source>
-        <translation type="unfinished"></translation>
+        <translation>مستوى ضغط غير مقبول</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
