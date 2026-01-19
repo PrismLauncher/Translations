@@ -5728,17 +5728,22 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
         <translation>Pre spustenie nebol vybraný žiaden účet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="329"/>
+        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>Identifikácia klienta spustáča sa zmenila. Prosím odstráňte &apos;%1&apos; a skúste to znovu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="339"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos; dlhšie neexistuje na serveroch. Možno to bolo migrované, v takom prípade prosíme aby ste pridali nové konto na ktoré ste migrovali.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="356"/>
+        <location filename="src/launcher/LaunchController.cpp" line="359"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&quot;%1&quot; dlhšie neexistuje na serveroch. Možno to bolo migrované, v takom prípade prosíme aby ste pridali nové konto na ktoré ste migrovali?</translation>
     </message>
@@ -5752,7 +5757,6 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
         <translation>Pokračovať v spúštaní?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Vyzerá to tak, že sa nám nepodarilo spustiť hru po %1 pokusoch. Chcete pokračovať v spúštaní?</translation>
     </message>
@@ -5772,7 +5776,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
         <translation>Zvolte si meno hráča v demo režime.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="291"/>
+        <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>Received undetermined session status during login.</source>
         <translation>Neindentifikovaný stav pripojenia počas prihlasovania.</translation>
     </message>
@@ -5803,7 +5807,7 @@ Chcete si zahrať demo?</translation>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="258"/>
+        <location filename="src/launcher/LaunchController.cpp" line="261"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Spustenie zrušené - účet nevlastní Minecraft.</translation>
     </message>
@@ -5816,7 +5820,7 @@ Chcete si zahrať demo?</translation>
         <translation type="vanished">Tento účet expiroval a je potrebné sa znova prihlásiť.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="355"/>
+        <location filename="src/launcher/LaunchController.cpp" line="358"/>
         <source>Account refresh failed</source>
         <translation>Aktualizácia účtu zlyhala</translation>
     </message>
@@ -5825,7 +5829,7 @@ Chcete si zahrať demo?</translation>
         <translation type="vanished">Identifikácia launchera sa zmenila. Prosím, odstráňte tento účet a pridajte ho znova.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="332"/>
+        <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>Client identification changed</source>
         <translation>Identifikácia launchera sa zmenila</translation>
     </message>
@@ -5834,44 +5838,44 @@ Chcete si zahrať demo?</translation>
         <translation type="vanished">Tento účet neexistuje na serveroch. Možno bol migrovaný a v tom prípade musíte pridať nový účet do ktorého ste tento migrovali.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="345"/>
         <source>Account gone</source>
         <translation>Účet je preč</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
+        <location filename="src/launcher/LaunchController.cpp" line="352"/>
         <source>Failed to launch.</source>
         <translation>Spustenie zlyhalo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="380"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>Vypršala platnosť konta a musí byť znovu overené</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
-        <location filename="src/launcher/LaunchController.cpp" line="446"/>
+        <location filename="src/launcher/LaunchController.cpp" line="393"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Error!</source>
         <translation>Chyba!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
-        <location filename="src/launcher/LaunchController.cpp" line="391"/>
+        <location filename="src/launcher/LaunchController.cpp" line="393"/>
+        <location filename="src/launcher/LaunchController.cpp" line="394"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Nepodarilo sa nahrať profil inštancie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="397"/>
+        <location filename="src/launcher/LaunchController.cpp" line="400"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Nepodarilo sa inštanciovať spúštač.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="446"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Kontrola profileru pre %1 zlyhala: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="459"/>
+        <location filename="src/launcher/LaunchController.cpp" line="462"/>
         <source>&amp;Launch</source>
         <translation>&amp;Spustiť</translation>
     </message>
@@ -5880,7 +5884,7 @@ Chcete si zahrať demo?</translation>
         <translation type="vanished">Nepodarilo sa spustiť profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="456"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5889,7 +5893,7 @@ Chcete si zahrať demo?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="457"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>Waiting.</source>
         <translation>Čakanie.</translation>
     </message>
@@ -5898,28 +5902,28 @@ Chcete si zahrať demo?</translation>
         <translation type="vanished">Spustiť</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="465"/>
+        <location filename="src/launcher/LaunchController.cpp" line="468"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Nepodarilo sa spustiť profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="466"/>
+        <location filename="src/launcher/LaunchController.cpp" line="469"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="312"/>
-        <location filename="src/launcher/LaunchController.cpp" line="493"/>
+        <location filename="src/launcher/LaunchController.cpp" line="315"/>
+        <location filename="src/launcher/LaunchController.cpp" line="496"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="506"/>
+        <location filename="src/launcher/LaunchController.cpp" line="509"/>
         <source>Kill Minecraft?</source>
         <translation>Zastaviť Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="507"/>
+        <location filename="src/launcher/LaunchController.cpp" line="510"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Toto môže spôsobiť poškodenie inštancie a môže to byť použité iba v prípade ak je Minecraft zamrznutý z nejakej príčiny</translation>
     </message>

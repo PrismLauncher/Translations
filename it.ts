@@ -5935,17 +5935,22 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
         <translation>Nessun account selezionato per l&apos;avvio.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="329"/>
+        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>L&apos;identificazione del client del launcher è cambiata. Elimina &apos;%1&apos; e riprova.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="339"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos; non esiste più nei server. Potrebbe essere stato spostato; in tal caso per favore aggiungi il tuo nuovo account al quale hai migrato questo qui.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="356"/>
+        <location filename="src/launcher/LaunchController.cpp" line="359"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&apos;%1&apos; è scaduto e ha bisogno di essere riautenticato. Vuoi rifare l&apos;accesso a quest&apos;account?</translation>
     </message>
@@ -5959,7 +5964,6 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
         <translation>Continuare l&apos;avvio?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Sembra che non sia stato possibile avviare l&apos;istanza dopo %1 tentativi. Vuoi continuare a provare?</translation>
     </message>
@@ -5979,7 +5983,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
         <translation>Scegli il nome del tuo personaggio della modalità demo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="291"/>
+        <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>Received undetermined session status during login.</source>
         <translation>Ricevuto uno stato di sessione indeterminato durante il login.</translation>
     </message>
@@ -6010,7 +6014,7 @@ Vuoi giocare alla demo?</translation>
         <translation>Annulla</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="258"/>
+        <location filename="src/launcher/LaunchController.cpp" line="261"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>L&apos;avvio é stato annullato - l&apos;account non possiede Minecraft.</translation>
     </message>
@@ -6023,7 +6027,7 @@ Vuoi giocare alla demo?</translation>
         <translation type="vanished">L&apos;account è scaduto e deve essere rieseguito l&apos;accesso manualmente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="355"/>
+        <location filename="src/launcher/LaunchController.cpp" line="358"/>
         <source>Account refresh failed</source>
         <translation>Aggiornamento account fallito</translation>
     </message>
@@ -6032,7 +6036,7 @@ Vuoi giocare alla demo?</translation>
         <translation type="vanished">L&apos;identificazione del client del launcher è cambiata. Rimuovi questo account e aggiungilo di nuovo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="332"/>
+        <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>Client identification changed</source>
         <translation>Identificazione del cliente modificata</translation>
     </message>
@@ -6041,12 +6045,12 @@ Vuoi giocare alla demo?</translation>
         <translation type="vanished">L&apos;account non esiste più sui server. Potrebbe essere stato migrato, in questo caso si prega di aggiungere il nuovo account a cui è stato migrato.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="345"/>
         <source>Account gone</source>
         <translation>Account migrato</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
+        <location filename="src/launcher/LaunchController.cpp" line="352"/>
         <source>Failed to launch.</source>
         <translation>Impossibile avviare.</translation>
     </message>
@@ -6059,34 +6063,34 @@ Vuoi giocare alla demo?</translation>
         <translation type="vanished">Account scaduto e tentativo di re-login fallito</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="380"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>L&apos;account è scaduto e va reautenticato</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
-        <location filename="src/launcher/LaunchController.cpp" line="446"/>
+        <location filename="src/launcher/LaunchController.cpp" line="393"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Error!</source>
         <translation>Errore!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
-        <location filename="src/launcher/LaunchController.cpp" line="391"/>
+        <location filename="src/launcher/LaunchController.cpp" line="393"/>
+        <location filename="src/launcher/LaunchController.cpp" line="394"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Impossibile caricare il profilo dell&apos;istanza.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="397"/>
+        <location filename="src/launcher/LaunchController.cpp" line="400"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Impossibile istanziare un launcher.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="446"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Il controllo del profiler per %1 non è riuscito: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="459"/>
+        <location filename="src/launcher/LaunchController.cpp" line="462"/>
         <source>&amp;Launch</source>
         <translation>Avvia</translation>
     </message>
@@ -6095,7 +6099,7 @@ Vuoi giocare alla demo?</translation>
         <translation type="vanished">Impossibile avviare il profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="456"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -6104,7 +6108,7 @@ Vuoi giocare alla demo?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="457"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>Waiting.</source>
         <translation>In attesa.</translation>
     </message>
@@ -6113,28 +6117,28 @@ Vuoi giocare alla demo?</translation>
         <translation type="vanished">Avvia</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="465"/>
+        <location filename="src/launcher/LaunchController.cpp" line="468"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Impossibile avviare il profilatore: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="466"/>
+        <location filename="src/launcher/LaunchController.cpp" line="469"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="312"/>
-        <location filename="src/launcher/LaunchController.cpp" line="493"/>
+        <location filename="src/launcher/LaunchController.cpp" line="315"/>
+        <location filename="src/launcher/LaunchController.cpp" line="496"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="506"/>
+        <location filename="src/launcher/LaunchController.cpp" line="509"/>
         <source>Kill Minecraft?</source>
         <translation>Terminare Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="507"/>
+        <location filename="src/launcher/LaunchController.cpp" line="510"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Può corrompere l&apos;istanza e dovrebbe essere usato solo se Minecraft è bloccato per qualche ragione</translation>
     </message>

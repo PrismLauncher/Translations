@@ -5948,17 +5948,22 @@ You can change the Java version in the settings later.
         <translation>실행에 사용될 계정이 선택되지 않음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="329"/>
+        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>런처의 클라이언트 ID가 변경되었습니다. &apos;%1&apos;을 제거하고 다시 시도하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="339"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos;이(가) 더 이상 서버에 존재하지 않습니다. 마이그레이션되었을 수 있으며, 이 경우 이 계정을 마이그레이션한 새 계정을 추가하세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="356"/>
+        <location filename="src/launcher/LaunchController.cpp" line="359"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&apos;%1&apos;이(가) 만료되었으므로 다시 인증하여야 합니다. 이 계정을 다시 인증하시겠습니까?</translation>
     </message>
@@ -5972,7 +5977,6 @@ You can change the Java version in the settings later.
         <translation>실행하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>%1번 시도했지만 실행할 수 없는 것 같습니다. 계속 시도하시겠습니까?</translation>
     </message>
@@ -5992,7 +5996,7 @@ You can change the Java version in the settings later.
         <translation>데모 모드에서의 플레이어 이름을 고르십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="291"/>
+        <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>Received undetermined session status during login.</source>
         <translation>로그인 과정에서 불분명한 세션 상태를 수신함.</translation>
     </message>
@@ -6023,7 +6027,7 @@ Do you want to play the demo?</source>
         <translation>취소</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="258"/>
+        <location filename="src/launcher/LaunchController.cpp" line="261"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>실행 취소됨 - 계정이 마인크래프트를 소유하고 있지 않습니다.</translation>
     </message>
@@ -6036,7 +6040,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">계정이 만료되었으므로 수동으로 다시 로그인해야 합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="355"/>
+        <location filename="src/launcher/LaunchController.cpp" line="358"/>
         <source>Account refresh failed</source>
         <translation>계정 새로고침 실패</translation>
     </message>
@@ -6045,7 +6049,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">런처의 클라이언트 ID가 변경되었습니다. 이 계정을 제거하고 다시 추가하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="332"/>
+        <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>Client identification changed</source>
         <translation>클라이언트 ID가 변경되었습니다</translation>
     </message>
@@ -6054,12 +6058,12 @@ Do you want to play the demo?</source>
         <translation type="vanished">계정이 서버에 더 이상 존재하지 않습니다. 마이그레이션되었을 수 있으므로 마이그레이션된 새 계정을 추가하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="345"/>
         <source>Account gone</source>
         <translation>계정이 없어짐</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
+        <location filename="src/launcher/LaunchController.cpp" line="352"/>
         <source>Failed to launch.</source>
         <translation>실행하지 못하였습니다.</translation>
     </message>
@@ -6072,34 +6076,34 @@ Do you want to play the demo?</source>
         <translation type="vanished">계정 만료 및 재로그인 시도 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="380"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>계정이 만료되었으며 다시 인증하여야 함</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
-        <location filename="src/launcher/LaunchController.cpp" line="446"/>
+        <location filename="src/launcher/LaunchController.cpp" line="393"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Error!</source>
         <translation>오류!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
-        <location filename="src/launcher/LaunchController.cpp" line="391"/>
+        <location filename="src/launcher/LaunchController.cpp" line="393"/>
+        <location filename="src/launcher/LaunchController.cpp" line="394"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>인스턴스 프로필을 불러오지 못하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="397"/>
+        <location filename="src/launcher/LaunchController.cpp" line="400"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>런처를 인스턴스화하지 못하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="446"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1의 프로파일러를 확인하지 못함: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="459"/>
+        <location filename="src/launcher/LaunchController.cpp" line="462"/>
         <source>&amp;Launch</source>
         <translation>실행(&amp;L)</translation>
     </message>
@@ -6108,7 +6112,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">프로파일러를 시작할 수 없었습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="456"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -6117,7 +6121,7 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="457"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>Waiting.</source>
         <translation>대기하는 중입니다.</translation>
     </message>
@@ -6126,28 +6130,28 @@ Do you want to play the demo?</source>
         <translation type="vanished">실행</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="465"/>
+        <location filename="src/launcher/LaunchController.cpp" line="468"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>프로파일러를 시작할 수 없었습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="466"/>
+        <location filename="src/launcher/LaunchController.cpp" line="469"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="312"/>
-        <location filename="src/launcher/LaunchController.cpp" line="493"/>
+        <location filename="src/launcher/LaunchController.cpp" line="315"/>
+        <location filename="src/launcher/LaunchController.cpp" line="496"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="506"/>
+        <location filename="src/launcher/LaunchController.cpp" line="509"/>
         <source>Kill Minecraft?</source>
         <translation>마인크래프트를 강제 종료하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="507"/>
+        <location filename="src/launcher/LaunchController.cpp" line="510"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>이로 인해 인스턴스가 손상될 수 있습니다. 마인크래프트가 어떤 이유로 응답하지 않는 경우에만 사용하여야 합니다.</translation>
     </message>
