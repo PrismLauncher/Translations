@@ -645,12 +645,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Subir &amp;Up</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixar &amp;Down</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -851,7 +851,7 @@ Se eres novo/a aquí, podes seleccionar o botón &quot;Engadir Microsoft&quot; p
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished">Escala do gato</translation>
+        <translation>Escala do gato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -1130,7 +1130,7 @@ Algunhas versións de Minecraft pode que non se executen.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Conseguindo os recursos dende %1...</translation>
+        <translation>Conseguindo os recursos dende %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1314,7 +1314,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando o inicio de sesión...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
@@ -1555,22 +1555,22 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolla nome offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto provisional de etiqueta de mensaxe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation type="unfinished">Nome de usuario</translation>
+        <translation>Nome de usuario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished">Un nome de usuario é valido só se ten entre 3 e 18 caracteres de lonxitude, utiliza letras do alfabeto inglés, números e guions baixos. Un nome de usuario non válido podería impedirte acceder a servidores e mundos individuais.</translation>
+        <translation>Un nome de usuario é valido só se ten entre 3 e 18 caracteres de lonxitude, utiliza letras do alfabeto inglés, números e guións baixos. Un nome de usuario non válido podería impedirche acceder a servidores e mundos individuais.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -1918,7 +1918,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods principais</translation>
     </message>
 </context>
 <context>
@@ -2015,7 +2015,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished">%1 [%2] - Última reprodución: %3</translation>
+        <translation>%1 [%2] - Última reprodución: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="112"/>
@@ -2083,12 +2083,12 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Comando P&amp;ost-peche</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Comando &amp;Wrapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
@@ -2268,22 +2268,23 @@ Algunhas versións de Minecraft pode que non se executen.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished">O formato do paquete de ID, así coma as versións do Minecraft para o que foi diseñado.</translation>
+        <translation>O formato do paquete de ID, así coma as versións do Minecraft para o que foi deseñado.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Aviso: Este recurso é simbólicamente ligado de outro lugar. A súa edición tamén cambiará o orixinal.
-Canonical Path: %1</translation>
+        <translation>
+Aviso: Este recurso está simbólicamente ligado de outro lugar. A súa edición tamén cambiará o orixinal.
+Ruta canónica: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="113"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén cambiará o orixinal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="151"/>
@@ -2298,7 +2299,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>A data e hora de este data pack foi modificado (ou engadido).</translation>
     </message>
 </context>
 <context>
@@ -2306,27 +2307,27 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Descargar Paquetes</translation>
+        <translation>Descargar Paquetes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar data packs dende plataformas online de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tenta comprobar ou actualizar todos os data packs seleccionados (todos os data packs se ningún está seleccionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar a versión dun data pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="80"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar data packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
@@ -2335,7 +2336,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="220"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="86"/>
@@ -2343,21 +2344,21 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="243"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="86"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="243"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Descarga parada polo usuario.</translation>
+        <translation>Descarga parada polo usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="92"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="249"/>
         <source>Warnings</source>
-        <translation type="unfinished">Advertencias</translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="106"/>
@@ -2370,24 +2371,26 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="121"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="220"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>As actualizacións de data packs non están dispoñibles cando os metadatos están desactivados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="126"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmar Actualización</translation>
+        <translation>Confirmar Actualización</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="127"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar data packs mentres o xogo está en execución pode causar duplicación de data packs e pechar o xogo de forma inesperada.
+Os arquivos existentes non se poden eliminar ao estar en uso.
+Estás seguro de querer continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelouse a actualización de data packs!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="151"/>
@@ -2397,22 +2400,22 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os packs de datos están actualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="156"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os packs de datos seleccionados están actualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>Update checker</source>
-        <translation type="unfinished">Comprobar actualizacións</translation>
+        <translation>Comprobar actualizacións</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="200"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminación</translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="201"/>
