@@ -5149,7 +5149,7 @@ Ar mhaith leat an taispeántas a imirt?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is cosúil nárbh fhéidir linn an cluiche a sheoladh tar éis %1 iarracht. De ghnáth is féidir é seo a shocrú trí logáil amach agus logáil isteach i do chuntas Microsoft arís. Mura n-oibríonn sé sin, b&apos;fhéidir go bhfuil briseadh seirbhíse ag freastalaithe fíordheimhnithe Minecraft nó b&apos;fhéidir go bhfuil VPN ag teastáil uait i do réigiún. Ar mhaith leat leanúint ar aghaidh ag iarraidh?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="261"/>
