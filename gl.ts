@@ -8668,7 +8668,8 @@ Canonical Path: %1</translation>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén cambiará o orixinal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -12111,7 +12112,8 @@ Canonical Path: %1</translation>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="531"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén cambiará o orixinal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="243"/>
@@ -12243,7 +12245,8 @@ Canonical Path: %1</translation>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="117"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén cambiará o orixinal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -13790,7 +13793,8 @@ Canonical Path: %1</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="90"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén cambiará o orixinal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
