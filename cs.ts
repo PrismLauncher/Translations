@@ -5969,7 +5969,7 @@ Verzi Javy můžete později změnit v nastavení.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hru se nám ani po %1 pokusech nepodařilo spustit. Tento problém lze obvykle vyřešit odhlášením a opětovným přihlášením k vašemu Microsoft účtu. Pokud to nefunguje, mohou mít ověřovací servery Minecraftu výpadek nebo ve vaší oblasti možná potřebujete VPN. Chcete pokračovat v pokoušení o spuštění?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
