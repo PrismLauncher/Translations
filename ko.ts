@@ -657,12 +657,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>위로 이동(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>아래로 이동(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -2546,7 +2546,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation>자격 얻는 중</translation>
+        <translation>자격 가져옴</translation>
     </message>
 </context>
 <context>
@@ -4145,7 +4145,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
         <source>Got skin</source>
-        <translation>스킨 가져오기</translation>
+        <translation>스킨 가져옴</translation>
     </message>
 </context>
 <context>
@@ -5950,7 +5950,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1번 시도 후에도 실행되지 않은 것 같습니다. 일반적으로 Microsoft 계정에서 로그아웃 후 다시 로그인하면 해결됩니다. 그래도 문제가 지속되면 마인크래프트 인증 서버 장애일 수 있거나, 해당 지역에서 VPN이 필요할 수 있습니다. 계속 시도하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6186,7 +6186,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>마인크래프트 액세스 토큰을 가져오는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6202,7 +6202,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>마인크래프트 액세스 토큰을 가져옴</translation>
     </message>
 </context>
 <context>
@@ -7393,11 +7393,11 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSA 토큰 가져옴</translation>
     </message>
     <message>
         <source>Got</source>
-        <translation>받아옴</translation>
+        <translation>가져옴</translation>
     </message>
 </context>
 <context>
@@ -7484,7 +7484,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSA 토큰 가져옴</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
@@ -7508,7 +7508,7 @@ Reason:
     </message>
     <message>
         <source>Got </source>
-        <translation>획득 </translation>
+        <translation>가져옴 </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9292,7 +9292,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>마인크래프트 프로필 가져옴</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -17316,7 +17316,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Got authorization to access %1</source>
-        <translation>%1 액세스 권한 부여하기</translation>
+        <translation>%1 액세스 권한 가져옴</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="104"/>
@@ -17331,12 +17331,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 Microsoft 계정에는 Xbox Live 프로필이 없습니다. 먼저 %1에서 게임을 구매하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live는 귀하의 국가에서 이용하실 수 없습니다. 접속이 차단되었습니다.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -17424,12 +17424,12 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox 사용자 인증에 실패했습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox 사용자 인증 응답을 이해할 수 없습니다.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
