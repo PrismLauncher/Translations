@@ -1009,27 +1009,26 @@ Some versions of Minecraft may not launch.
         <translation>Несумяшчальная канфігурацыя сістэмы</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1569"/>
         <source>Aborted</source>
         <translation>Спынена</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1956"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Былі знойдзены старыя даныя з %1, але ў вас ужо ёсць даныя для %2. На жаль, вам трэба будзе зрабіць перанос даных самастойна. Нагадаць вам аб пераносе, калі вы запусціце %2 наступны раз?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1982"/>
+        <location filename="src/launcher/Application.cpp" line="1960"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Здаецца, вы выкарыстоўвалі %1 раней. Вы жадаеце перанесці свае даныя ў новае месца %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1966"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Здаецца, вы выкарыстоўвалі %1 у %2 раней. Вы жадаеце перанесці даныя ў новае месца %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2034"/>
+        <location filename="src/launcher/Application.cpp" line="2012"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Перанос не ўдаўся! Прычына: %1</translation>
     </message>

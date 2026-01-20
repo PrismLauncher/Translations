@@ -853,27 +853,26 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>সিস্টেম কনফিগারেশনের সাথে ইনকম্প্যাটিবল</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1569"/>
         <source>Aborted</source>
         <translation>বাতিল করা হয়েছে</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1956"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 থেকে পুরানো ডেটা পাওয়া গেছে, কিন্তু আপনার কাছে %2 এর জন্য ইতিমধ্যেই ডেটা আছে।&#xa0;দুর্ভাগ্যবশত, আপনাকে নিজেই মাইগ্রেট করতে হবে।&#xa0;আপনি কি পরের বার %2 শুরু করার সময় বকেয়া ডেটা মাইগ্রেশনের কথা মনে করিয়ে দিতে চান?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1982"/>
+        <location filename="src/launcher/Application.cpp" line="1960"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>মনে হচ্ছে আপনি আগে %1 ব্যবহার করেছেন।&#xa0;আপনি কি আপনার ডেটা %2 এর নতুন লোকেশনে স্থানান্তর করতে চান?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1966"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>মনে হচ্ছে আপনি আগে %2 এ %1 ব্যবহার করেছেন।&#xa0;আপনি কি আপনার ডেটা %3 এর নতুন লোকেশনে স্থানান্তর করতে চান?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2034"/>
+        <location filename="src/launcher/Application.cpp" line="2012"/>
         <source>Migration failed! Reason: %1</source>
         <translation>মাইগ্রেশন ব্যর্থ হয়েছে! কারণ: %1</translation>
     </message>

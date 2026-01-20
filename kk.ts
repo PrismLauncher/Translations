@@ -853,27 +853,26 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>Сәйкес келмейтін системалық конфигурация</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1569"/>
         <source>Aborted</source>
         <translation>Тоқтатылды</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1956"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 ішінен ескі деректер табылды, бірақта %2 ішінде жаңа деректер бар. Өкінішке орай, сіз барлығын қолмен көшіру керексіз. %2 қосылғанда деректерді көшіру туралы хабарлама алғып тұрғыңыз келеді ме?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1982"/>
+        <location filename="src/launcher/Application.cpp" line="1960"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Сіз бұрын %1 қолданған сияқтсысыз. Деректерді %2 көшіргіңіз келеді ме?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1966"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Сіз %1 деректерін %2 қолданған сияқты көрінесіз. Деректерді %3 көшіргіңіз келеді ме?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2034"/>
+        <location filename="src/launcher/Application.cpp" line="2012"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Көшіру сәтсіз аяқталды! Себеп: %1</translation>
     </message>

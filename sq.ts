@@ -853,27 +853,26 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
         <translation>Konfigurim i papajtueshëm i sistemit</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1569"/>
         <source>Aborted</source>
         <translation>E ndërprerë</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1956"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>U gjetën të dhëna të vjetra nga %1, por ju tashmë keni të dhëna ekzistuese për %2. Fatkeqësisht, do t&apos;ju duhet të migroni vetë. Dëshironi të kujtoheni për migrimin e të dhënave në pritje herën tjetër që të nisni %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1982"/>
+        <location filename="src/launcher/Application.cpp" line="1960"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Me sa duket e ke përdorur %1 më parë. Dëshiron të migrosh të dhënat e tua në vendndodhjen e re të %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1966"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Me sa duket e ke përdorur %1 në %2 më parë. Dëshiron të migrosh të dhënat e tua në vendndodhjen e re të %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2034"/>
+        <location filename="src/launcher/Application.cpp" line="2012"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrimi dështoi! Arsyeja: %1</translation>
     </message>
