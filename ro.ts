@@ -5847,7 +5847,7 @@ Puteți schimba versiunea de Java din setări ulterior.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se pare că nu am putut lansa după %1 încercări. De obicei, acest lucru poate fi remediat prin deconectare și conectare din nou la contul Microsoft. Dacă aceasta nu funcționează, este posibil ca serverele de autentificare Minecraft să aibă o întrerupere sau este posibil să aveți nevoie de un VPN în regiunea dvs. Doriți să continuați să încercați?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6069,7 +6069,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Se preia token-ul de acces Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6085,7 +6085,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Am preluat tokenul de acces Minecraft</translation>
     </message>
 </context>
 <context>
@@ -7183,12 +7183,12 @@ Motiv:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="119"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished">Autorizarea dispozitivului a eșuat: %1</translation>
+        <translation>Autorizarea dispozitivului a eșuat: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="123"/>
         <source>Failed to retrieve device authorization</source>
-        <translation type="unfinished">Nu s-a putut obține autorizarea dispozitivului</translation>
+        <translation>Nu s-a putut obține autorizarea dispozitivului</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="129"/>
@@ -7208,7 +7208,7 @@ Motiv:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>Am preluat tokenul MSA</translation>
     </message>
     <message>
         <source>Got</source>
