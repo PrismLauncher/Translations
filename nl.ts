@@ -653,12 +653,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar omhoog verplaatsen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar omlaag verplaatsen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -5877,7 +5877,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Het lijkt erop dat we na %1 pogingen niet konden starten. Meestal kan dit worden opgelost door af te melden en opnieuw aan te melden bij je Microsoft-account. Als dat niet werkt, zijn de authenticatieservers van Minecraft mogelijk niet beschikbaar of heb je een VPN nodig in jouw regio. Wil je doorgaan met proberen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6113,7 +6113,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-toegangstoken ophalen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6129,7 +6129,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-toegangstoken opgehaald</translation>
     </message>
 </context>
 <context>
@@ -6179,12 +6179,12 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation>Instantie Sortering</translation>
+        <translation>Sorteren van instanties</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
         <source>Instance Renaming</source>
-        <translation>Instantie Hernoemen</translation>
+        <translation>Naam wijzigen van instanties</translation>
     </message>
     <message>
         <source>Ask what to do with the folder</source>
@@ -6193,7 +6193,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Always rename the folder</source>
-        <translation>Altijd de map hernoemen</translation>
+        <translation>Naam van de map altijd wijzigen</translation>
     </message>
     <message>
         <source>Never rename the folder—only the displayed name</source>
@@ -6202,17 +6202,17 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Ask what to do</source>
-        <translation>Vraag wat te doen</translation>
+        <translation>Vragen wat er moet gebeuren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Never rename the folder</source>
-        <translation>Hernoem de map nooit</translation>
+        <translation>Naam van de map nooit wijzigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>Updater</source>
-        <translation>Bijwerker</translation>
+        <translation>Updater</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
@@ -6222,7 +6222,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Set to 0 to only check on launch</source>
-        <translation>Zet op 0 om alleen te controleren bij het opstarten</translation>
+        <translation>Op 0 zetten om alleen te controleren bij het opstarten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
@@ -6252,7 +6252,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
         <source>Log History &amp;Limit:</source>
-        <translation>Log geschiedenis &amp;Limiet:</translation>
+        <translation>Limiet voor log-geschiedenis:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
@@ -6267,17 +6267,17 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
         <source>Concurrent Download Limit:</source>
-        <translation>Gelijktijdig Download Limiet:</translation>
+        <translation>Limiet voor gelijktijdige downloads:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
         <source>HTTP Timeout:</source>
-        <translation>HTTP Time-out:</translation>
+        <translation>HTTP time-out:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"/>
         <source>Concurrent Task Limit:</source>
-        <translation>Gelijktijdige Taken Limiet:</translation>
+        <translation>Limiet voor gelijktijdige taken:</translation>
     </message>
     <message>
         <source>Move the data to new location (will restart the launcher)</source>
@@ -6511,7 +6511,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation>De menubar is vriendelijker voor keyboard-aangedreven interactie.</translation>
+        <translation>De menubalk is gebruiksvriendelijker voor interactie met het toetsenbord.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
@@ -6522,17 +6522,17 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>Mods and Modpacks</source>
-        <translation>Mods en Modpacks</translation>
+        <translation>Mods en modpacks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation>Controleer &amp;submappen voor geblokkeerde mods</translation>
+        <translation>&amp;Submappen controleren op geblokkeerde mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation>Verplaats geblokkeerde mods in plaats van ze te kopieren</translation>
+        <translation>Geblokkeerde mods verplaatsen in plaats van ze te kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
@@ -6542,7 +6542,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>Keep track of mod metadata</source>
-        <translation>Houd modmetadata bij</translation>
+        <translation>Metadata van mods bijhouden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -6552,17 +6552,17 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
         <source>Install dependencies automatically</source>
-        <translation>Installeer afhankelijkheden automatisch</translation>
+        <translation>Afhankelijkheden automatisch installeren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation>Bij het aanmaken van een nieuwe modpack instantie, stel voor om in de plaats een bestaande instantie te updaten.</translation>
+        <translation>Bij het aanmaken van een nieuwe modpack-instantie, voorstellen om in plaats daarvan een bestaande instantie bij te werken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation>Stel voor om een bestaande instantie te updaten tijdens een modpack installatie</translation>
+        <translation>Voorstellen om een bestaande instantie bij te werken tijdens installatie van een modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
@@ -6597,7 +6597,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation>&amp;Stop met het bijhouden van een logboek, wanneer het logboek vol is</translation>
+        <translation>&amp;Stoppen met loggen wanneer het logboek vol is</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
@@ -6617,12 +6617,12 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>U probeert een instantiemap op te geven die minimaal één &apos;!&apos; bevat. Java staat erom bekend hier een probleem mee te hebben. Uw instanties zullen (waarschijnlijk) niet starten!</translation>
+        <translation>Je probeert een instantiemap op te geven waarvan het pad ten minste één ‘!’ bevat. Het is bekend dat Java in dat geval problemen veroorzaakt, waardoor je instanties (waarschijnlijk) niet zullen starten!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>Wilt u dit pad werkelijk gebruiken? Als u &quot;Nee&quot; kiest, zal dit venster worden gesloten en het pad van uw instantie zal niet worden gewijzigd.</translation>
+        <translation>Wil je dit pad echt gebruiken? Als je ‘nee’ selecteert, wordt dit venster gesloten en wordt je instantiepad niet gewijzigd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
@@ -6634,10 +6634,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>U probeert een installatiemap in te stellen die slechts tijdelijk beschikbaar was via Flatpak.
-Dit kan problemen opleveren. Na een herstart kan het startprogramma namelijk crashen omdat het geen toegang meer heeft tot die map.
+        <translation>Je probeert een instantiemap op te geven die tijdelijk via Flatpak is toegekend.
+Het is bekend dat dit problemen kan veroorzaken. Na een herstart kan het zijn dat de launcher niet meer werkt, omdat deze geen toegang meer heeft tot die map.
 
-Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</translation>
+Het wordt aanbevolen om %1 toegang te verlenen via Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
@@ -6647,7 +6647,7 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
         <source>Icons Folder</source>
-        <translation>Pictogrammenmap</translation>
+        <translation>Pictogrammen-map</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="147"/>
@@ -6657,7 +6657,7 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
         <source>Downloads Folder</source>
-        <translation>Downloadmap</translation>
+        <translation>Downloads-map</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
@@ -6724,12 +6724,12 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="76"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>Kon launcher bibliotheek niet vinden. Controleer alsjeblieft uw installatie.</translation>
+        <translation>Launcher-bibliotheek kan niet worden gevonden. Controleer je installatie.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>Historische launcher bibliotheek is niet gevonden. Controleer uw installatie.</translation>
+        <translation>De oude launcher-bibliotheek kan niet worden gevonden. Controleer je installatie.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
@@ -6747,7 +6747,7 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
         <source>Game crashed.</source>
-        <translation>Spel is gecrashed.</translation>
+        <translation>Spel is gecrasht.</translation>
     </message>
 </context>
 <context>
@@ -6756,13 +6756,13 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Op naam sorteren</translation>
+        <translation>Sorteren op naam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Op spelversie sorteren</translation>
+        <translation>Sorteren op spelversie</translation>
     </message>
 </context>
 <context>
@@ -6793,7 +6793,7 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
         <source>Third Party Packs</source>
-        <translation>Modpacks van derden</translation>
+        <translation>Packs van derden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
@@ -6872,7 +6872,7 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="115"/>
         <source>Remove selected pack</source>
-        <translation>Verwijder het geselecteerde pack</translation>
+        <translation>Geselecteerd pack verwijderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"/>
@@ -6886,17 +6886,17 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
-        <translation>Taak geannuleerd</translation>
+        <translation>Taak afgebroken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
-        <translation>De taak is geannuleerd door de gebruiker.</translation>
+        <translation>De taak is door de gebruiker afgebroken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
@@ -6907,8 +6907,8 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation>Downloaden van packinformatie is mislukt met code %1.
-Wilt u deze nu verwijderen?</translation>
+        <translation>Het downloaden van pakketinformatie voor code %1 is mislukt.
+Moet het nu worden verwijderd?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
@@ -6918,7 +6918,7 @@ Wilt u deze nu verwijderen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
         <source>Enter pack code:</source>
-        <translation>Voer pakketcode in:</translation>
+        <translation>Pakketcode invoern:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
@@ -6994,7 +6994,7 @@ Wilt u deze nu verwijderen?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>De bibliotheekbestanden ophalen...</translation>
+        <translation>Vereiste bibliotheekbestanden downloaden...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -7013,16 +7013,16 @@ Wilt u deze nu verwijderen?</translation>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>Sommige als &apos;lokaal&apos; aangemerkte artefacten missen de bestanden:
+        <translation>Sommige artefacten die als ‘lokaal’ zijn gemarkeerd, missen hun bestanden:
 %1
 
-U moet deze bestanden toevoegen, of u heeft de pakketten verwijderd die ze nodig hebben.
-U zult dit probleem handmatig moeten oplossen.</translation>
+Je moet ofwel de bestanden toevoegen, ofwel de pakketten verwijderen die ze nodig hebben.
+Je moet dit probleem handmatig oplossen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
         <source>Aborted</source>
-        <translation>Geannuleerd</translation>
+        <translation>Afgebroken</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7053,7 +7053,7 @@ Reden:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="50"/>
         <source>Updating index for resource:
 %1</source>
-        <translation>Index voor bron updaten:
+        <translation>Index voor bron bijwerken:
 %1</translation>
     </message>
     <message>
@@ -7077,7 +7077,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
         <source>Color lines</source>
-        <translation>Kleurlijnen</translation>
+        <translation>Lijnen kleuren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
@@ -7092,7 +7092,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="100"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation>Upload het logbestand naar de paste service ingesteld in instellingen</translation>
+        <translation>Het logboek uploaden naar de plakdienst die is geconfigureerd in de voorkeuren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -7102,7 +7102,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="110"/>
         <source>Clear the log</source>
-        <translation>Logboek wissen</translation>
+        <translation>Het logboek wissen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
@@ -7121,7 +7121,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
         <source>Find</source>
-        <translation>Zoek</translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="141"/>
@@ -7316,7 +7316,7 @@ Reden:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSA-token opgehaald</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7407,7 +7407,7 @@ Reden:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSA-token opgehaald</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
@@ -9113,7 +9113,7 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-profiel opgehaald</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -17096,7 +17096,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit Microsoft-account heeft geen Xbox Live-profiel. Koop het spel eerst op %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
@@ -17189,12 +17189,12 @@ Stel uw account in volgens %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox-gebruikersauthenticatie mislukt: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>De Xbox-gebruikersauthenticatie kon niet worden begrepen.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
