@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Mod&amp;rinth</source>
-        <translation>Mod&amp;rinth</translation>
+        <translation>Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
@@ -3481,7 +3481,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Примітка: Багато новіших збірок FTB також доступні на CurseForge! Крім того, якщо ваші екземпляри FTB знаходяться в іншій теці, виберіть її кнопкою поруч із пошуком.</translation>
+        <translation>Примітка: Багато останніх збірок модів FTB також доступні на CurseForge! Також, якщо ваші інсталяції FTB не знаходяться в стандартному розташуванні, виберіть їх за допомогою поруч з пошуком.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
