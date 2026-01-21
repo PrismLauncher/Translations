@@ -5944,7 +5944,7 @@ A Java verziót később a beállítások között megváltoztathatod.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Úgy tűnik, hogy %1 próbálkozás után sem sikerült elindulni. Általában ez a probléma megoldható azzal, hogy kijelentkezel, majd újra bejelentkezel a Microsoft-fiókodba. Ha ez nem segít, akkor a Minecraft hitelesítési szerverei nem működnek, vagy VPN-re van szükséged a régiódban. Akarod folytatni a próbálkozást?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
