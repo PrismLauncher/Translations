@@ -17500,7 +17500,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live não está disponível em seu país. Você foi bloqueado.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -17593,7 +17593,7 @@ Configure a sua conta conforme o %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível compreender a resposta de autenticação do usuário do Xbox.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
