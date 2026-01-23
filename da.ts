@@ -1106,7 +1106,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="42"/>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="85"/>
         <source>Aborted</source>
         <translation>Afbrudt</translation>
     </message>
@@ -1116,12 +1116,12 @@ Nogle versioner af Minecraft starter muligvis ikke.
         <translation>Indlæsning af dataindeks mislykkedes!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
         <source>Mojang</source>
         <translation>Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
         <translation>Får aktivfiler fra %1...</translation>
@@ -1131,14 +1131,14 @@ Nogle versioner af Minecraft starter muligvis ikke.
         <translation type="vanished">Henter datafiler fra Mojang...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
         <translation>Det lykkedes ikke at hente dataindeks:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
         <translation>Det lykkedes ikke at hente data:
@@ -1384,7 +1384,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
         <translation>Ingen kompatible Java versioner fundet (den binære fil eksisterer ikke). Bruger standarden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="179"/>
         <source>Could not determine Java download type!</source>
         <translation>Kunne ikke bestemme Java download type!</translation>
     </message>
@@ -1652,7 +1652,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
         <translation>Kunne ikke downloade metadata til %1 %2. Skift versionen eller prøv igen senere.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="779"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Opdatering af metadata-komponenter mislykkedes under overførsel fra fjernserver:
@@ -5988,14 +5988,14 @@ You may have to fix your mods because the game is still logging to files and lik
 Du bør muligvis fikse dine mods, da spillet stadig skriver til logfiler og sandsynligvis bruger harddisk-plads i alarmerende hast!</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="209"/>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>Stoppet med at se spil log, fordi log længden oversteg %1 linjer.
 Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsynligvis spilder harddiskplads i en alarmerende hastighed!</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="236"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
         <translation>[Log4j Parse Error] Kunne ikke fortolke Log4j-loghændelse: %1</translation>
     </message>
@@ -6906,14 +6906,14 @@ Reason:
 <context>
     <name>LocalResourceUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="50"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="51"/>
         <source>Updating index for resource:
 %1</source>
         <translation>Opdatering af index for resource:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="66"/>
         <source>Invalid metadata</source>
         <translation>Ugyldig metadata</translation>
     </message>
@@ -8604,12 +8604,12 @@ Dette kan kun opdateres med en fil i %1 format
         <translation>&amp;Ingen Profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1033"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1036"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -8618,22 +8618,22 @@ Dette kan kun opdateres med en fil i %1 format
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>broken</source>
         <translation>defekt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1086"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, last played on %1 for %2</source>
         <translation>, sidst spillet %1 for %2</translation>
     </message>
@@ -8642,12 +8642,12 @@ Dette kan kun opdateres med en fil i %1 format
         <translation type="vanished">Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1098"/>
         <source>, total played for %1</source>
         <translation>, i alt spillet %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
         <source>, has crashed.</source>
         <translation>, er crashet.</translation>
     </message>
@@ -9896,12 +9896,12 @@ Er du sikker?</translation>
         <translation>Kunne ikke bin mappen til Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
+        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="59"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
         <translation>Kunne ikke fjerne gammel jar fil: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file.</source>
         <translation>Kunne ikke oprette den brugerdefinerede Minecraft jar fil.</translation>
     </message>
@@ -10162,27 +10162,27 @@ Opdater venligst %1!</translation>
         <translation>Forbereder resources til Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Parser API svaret fra Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
         <source>Not installed</source>
         <translation>Ikke installeret</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Unknown</source>
         <translation>Ukendt</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Ingen gyldig version fundet for denne ressource. Det er sandsynligvis ikke tilgængeligt for den aktuelle spil version / mod loader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="226"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Ingen gyldig version fundet for denne ressource. Den er nok utilgængelig for den nuværende spilversion.</translation>
     </message>
@@ -13212,7 +13212,7 @@ Forfatteren har muligvis blokeret tredjepartslaunchere.</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="524"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="528"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13221,7 +13221,7 @@ Advarsel: Denne resource er symbolsk forbundet fra andre steder. Redigering vil 
 Kanonisk sti: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="531"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="535"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -13253,50 +13253,50 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
         <translation>Udbyder</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="266"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
         <source>Confirm toggle</source>
         <translation>Bekræft skift</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="267"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Hvis du aktiverer/deaktiverer denne resource mens spillet kører kan det crashe dit spil.
 Er du sikker på at du vil gøre dette?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="582"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="586"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Er resource aktiveret?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="584"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="588"/>
         <source>The name of the resource.</source>
         <translation>Navnet på resource.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="586"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="590"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>Datoen og klokkeslættet hvor denne resource sidst blev ændret (eller tilføjet).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="588"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="592"/>
         <source>The source provider of the resource.</source>
         <translation>Kilde leverandøren af resource.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="590"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="594"/>
         <source>The size of the resource.</source>
         <translation>Størrelsen af resource.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="681"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="685"/>
         <source>Override Columns Visibility</source>
         <translation>Overskriv kolonnesynlighed</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="694"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="698"/>
         <source>Show / Hide Columns</source>
         <translation>Vis / Skjul Kolonner</translation>
     </message>
@@ -14711,7 +14711,7 @@ Er du sikker?</translation>
         <translation>Henter modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Kunne ikke forstå pakkemanifest:

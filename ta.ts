@@ -896,7 +896,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="42"/>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="85"/>
         <source>Aborted</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
@@ -906,12 +906,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>சொத்துக்கள் குறியீட்டைப் படிக்கத் தவறிவிட்டது!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
         <source>Mojang</source>
         <translation>மோசாங்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
         <translation type="unfinished">சொத்து கோப்புகளை %1 இலிருந்து பெறுதல் ...</translation>
@@ -921,14 +921,14 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="vanished">சொத்து கோப்புகளை மோசாங்கிலிருந்து பெறுவது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
         <translation>சொத்துக்கள் குறியீட்டைப் பதிவிறக்குவதில் தோல்வி:
  %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
         <translation>சொத்துக்களைப் பதிவிறக்குவதில் தோல்வி:
@@ -1154,7 +1154,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>இணக்கமான சாவா பதிப்பு எதுவும் காணப்படவில்லை (பைனரி கோப்பு இல்லை). இயல்புநிலை ஒன்றைப் பயன்படுத்துதல்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="179"/>
         <source>Could not determine Java download type!</source>
         <translation>சாவா பதிவிறக்க வகையை தீர்மானிக்க முடியவில்லை!</translation>
     </message>
@@ -1418,7 +1418,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>%1 %2 க்கு மெட்டாடேட்டாவை பதிவிறக்கம் செய்ய முடியவில்லை. பதிப்பை மாற்றவும் அல்லது பின்னர் மீண்டும் முயற்சிக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="779"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>தொலைநிலை சேவையகத்திலிருந்து பதிவிறக்கும் போது உபகரண மேனிலை தரவு புதுப்பிப்பு பணி தோல்வியடைந்தது:
@@ -5357,14 +5357,14 @@ Do you want to play the demo?</source>
 <context>
     <name>LaunchTask</name>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="209"/>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>பதிவு நீளம் %1 வரிகளைத் தாண்டியதால் விளையாட்டு பதிவைப் பார்ப்பதை நிறுத்தியது.
  உங்கள் மோட்களை நீங்கள் சரிசெய்ய வேண்டியிருக்கும், ஏனென்றால் விளையாட்டு இன்னும் கோப்புகளுக்கு உள்நுழைந்துள்ளது மற்றும் ஆபத்தான விகிதத்தில் ஆர்ட் இயக்கி இடத்தை வீணாக்குகிறது!</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="236"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
         <translation>[Log4j பாகுபடுத்தல் பிழை] லாக் 4 சே பதிவு நிகழ்வை அலசுவதில் தோல்வி</translation>
     </message>
@@ -6149,14 +6149,14 @@ Reason:
 <context>
     <name>LocalResourceUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="50"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="51"/>
         <source>Updating index for resource:
 %1</source>
         <translation>வளத்திற்கான குறியீட்டைப் புதுப்பித்தல்:
  %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="66"/>
         <source>Invalid metadata</source>
         <translation>தவறான மேனிலை தரவு</translation>
     </message>
@@ -7615,42 +7615,42 @@ This can be updated only using a file in %1 format
         <translation>&amp; விவரக்குறிப்பு இல்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1033"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;அமர்வு ஐடி&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1036"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;அணுகல் டோக்கன்&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;சுயவிவர ஐடி&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>broken</source>
         <translation>உடைந்த</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1086"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, last played on %1 for %2</source>
         <translation>, கடைசியாக %2 க்கு %1 இல் விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1098"/>
         <source>, total played for %1</source>
         <translation>, மொத்தம் %1 க்கு விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
         <source>, has crashed.</source>
         <translation>, செயலிழந்தது.</translation>
     </message>
@@ -8751,12 +8751,12 @@ Are you sure?</source>
         <translation>Minecraft.jar க்கான பின் கோப்புறையை உருவாக்க முடியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
+        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="59"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
         <translation>பழைய குடுவை கோப்பை அகற்ற முடியவில்லை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file.</source>
         <translation>தனிப்பயன் மின்கிராஃப்ட் குடுவை கோப்பை உருவாக்கத் தவறிவிட்டது.</translation>
     </message>
@@ -8915,27 +8915,27 @@ Please update %1!</source>
         <translation>மோட்ரின்ட்டுக்கு வளங்களைத் தயாரித்தல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>மோட்ரின்ட்டிலிருந்து பநிஇ பதிலை பாகுபடுத்துதல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
         <source>Not installed</source>
         <translation>நிறுவப்படவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Unknown</source>
         <translation>தெரியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>இந்த வளத்திற்கு சரியான பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பு / மோட் ஏற்றிக்கு இது கிடைக்கவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="226"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>இந்த வளத்திற்கு சரியான பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பிற்கு இது கிடைக்கவில்லை.</translation>
     </message>
@@ -11844,7 +11844,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="524"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="528"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -11853,7 +11853,7 @@ Canonical Path: %1</source>
  நியமன பாதை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="531"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="535"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -11885,50 +11885,50 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>வழங்குநர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="266"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
         <source>Confirm toggle</source>
         <translation>மாற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="267"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>விளையாட்டு இயங்கும்போது இந்த வளத்தை நீங்கள் இயக்கினால்/முடக்கினால் அது உங்கள் விளையாட்டை செயலிழக்கச் செய்யலாம்.
  இதை நீங்கள் செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="582"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="586"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>சான்று இயக்கப்பட்டதா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="584"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="588"/>
         <source>The name of the resource.</source>
         <translation>வளத்தின் பெயர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="586"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="590"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>இந்த சான்று கடைசியாக மாற்றப்பட்டது (அல்லது சேர்க்கப்பட்டது).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="588"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="592"/>
         <source>The source provider of the resource.</source>
         <translation>வளத்தின் மூல வழங்குநர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="590"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="594"/>
         <source>The size of the resource.</source>
         <translation>வளத்தின் அளவு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="681"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="685"/>
         <source>Override Columns Visibility</source>
         <translation>நெடுவரிசைகள் தெரிவுநிலை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="694"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="698"/>
         <source>Show / Hide Columns</source>
         <translation>நெடுவரிசைகளைக் காட்டு / மறைக்கவும்</translation>
     </message>
@@ -13316,7 +13316,7 @@ Are you sure?</source>
         <translation>மோட்பேக்கைப் பதிவிறக்குகிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:

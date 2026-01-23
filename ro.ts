@@ -1087,7 +1087,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="42"/>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="85"/>
         <source>Aborted</source>
         <translation>Anulat</translation>
     </message>
@@ -1097,12 +1097,12 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <translation>Nu s-a putut citi indexul activelor!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
         <source>Mojang</source>
         <translation>Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
         <translation>Recuperăm fișierele de resurse de la %1...</translation>
@@ -1112,14 +1112,14 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <translation type="vanished">Se preiau fișierele de active de la Mojang...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
         <translation>Nu s-a putut descărca indexul activelor:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
         <translation>Descărcarea activelor a eșuat:
@@ -1369,7 +1369,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <translation>Nicio versiune Java compatibilă nu a fost găsită (fișierul binar nu există). Se va folosi cea implicită.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="179"/>
         <source>Could not determine Java download type!</source>
         <translation>Nu s-a putut stabili tipul de descărcare Java!</translation>
     </message>
@@ -1637,7 +1637,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <translation>Nu s-a putut descărca metadata pentru %1 %2. Te rog schimbă versiunea sau încearcă din nou.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="779"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Actualizarea metadatelor componentei a eșuat în timpul descărcării de pe serverul extern:
@@ -6047,14 +6047,14 @@ Doriți să jucați demo-ul?</translation>
 <context>
     <name>LaunchTask</name>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="209"/>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>S-a oprit citirea jurnalului de joc deoarece lungimea lui a depășit %1 linii.
 Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere și irosește spațiu pe disc într-un ritm alarmant!</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="236"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
         <translation>[Eroare Log4j] Nu s-a putut interpreta evenimentul de log Log4j: %1</translation>
     </message>
@@ -6940,14 +6940,14 @@ Motiv:
 <context>
     <name>LocalResourceUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="50"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="51"/>
         <source>Updating index for resource:
 %1</source>
         <translation>Actualizăm indexul pentru resursa:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="66"/>
         <source>Invalid metadata</source>
         <translation>Metadate invalide</translation>
     </message>
@@ -8596,42 +8596,42 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
         <translation>&amp;Niciun Profilator</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1033"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SESIUNE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1036"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;JETON ACCES&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID PROFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>broken</source>
         <translation>stricat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1086"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, last played on %1 for %2</source>
         <translation>, ultima dată jucat pe %1 pentru %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1098"/>
         <source>, total played for %1</source>
         <translation>, total jucat pentru %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
         <source>, has crashed.</source>
         <translation>, a cedat.</translation>
     </message>
@@ -9778,12 +9778,12 @@ Sunteți sigur/ă ca vreți sa faceți asta?</translation>
         <translation>Nu s-a putut crea dosarul bin pentru Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
+        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="59"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
         <translation>Nu s-a putut înlătura fișierul jar învechit: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file.</source>
         <translation>Crearea unui fișier Minecraft jar personalizat a eșuat.</translation>
     </message>
@@ -10028,27 +10028,27 @@ Te rugăm actualizează %1!</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Se analizează răspunsul API de la Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
         <source>Not installed</source>
         <translation type="unfinished">Nu este instalat</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Unknown</source>
         <translation type="unfinished">Necunoscut</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation type="unfinished">Nu a fost găsită nicio versiune validă pentru această resursă. Probabil este indisponibilă pentru această versiune a jocului / mod loader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="226"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation type="unfinished">Nu a fost găsită nicio versiune validă pentru această resursă. Probabil este indisponibilă pentru această versiune de joc.</translation>
     </message>
@@ -13054,7 +13054,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="524"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="528"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13063,7 +13063,7 @@ Avertizare: Această resursă este legată simbolic din altă parte. Editarea ei
 Cale Canonică: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="531"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="535"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -13095,49 +13095,49 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         <translation type="unfinished">Furnizor</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="266"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
         <source>Confirm toggle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="267"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="582"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="586"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Este activată resursa?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="584"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="588"/>
         <source>The name of the resource.</source>
         <translation>Numele resursei.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="586"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="590"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>Data și timpul la care această resursă a fost schimbată ultima dată (sau adăugată).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="588"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="592"/>
         <source>The source provider of the resource.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="590"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="594"/>
         <source>The size of the resource.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="681"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="685"/>
         <source>Override Columns Visibility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="694"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="698"/>
         <source>Show / Hide Columns</source>
         <translation>Arată / Ascunde Coloane</translation>
     </message>
@@ -14596,7 +14596,7 @@ Are you sure?</source>
         <translation>Se descarcă pachetul de moduri</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Nu s-a putut înțelege manifestul pachetului:

@@ -1148,7 +1148,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="42"/>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="85"/>
         <source>Aborted</source>
         <translation>Прервано</translation>
     </message>
@@ -1158,12 +1158,12 @@ Some versions of Minecraft may not launch.
         <translation>Не удалось прочитать индекс ресурсов!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
         <source>Mojang</source>
         <translation>Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
         <translation>Получение файлов ресурсов от %1...</translation>
@@ -1173,14 +1173,14 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">Получение файлов ресурсов от Mojang…</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
         <translation>Не удалось загрузить индекс ресурсов:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
         <translation>Не удалось загрузить ресурсы:
@@ -1430,7 +1430,7 @@ Some versions of Minecraft may not launch.
         <translation>Не удалось найти совместимую версию Java (двоичный файл не существует). Используется версия Java по умолчанию.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="179"/>
         <source>Could not determine Java download type!</source>
         <translation>Не удалось определить тип скачивания Java!</translation>
     </message>
@@ -1706,7 +1706,7 @@ Some versions of Minecraft may not launch.
         <translation>Не удалось скачать метаданные на 1%2%. Пожалуйста, смените версию или попробуйте ещё раз позже.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="779"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Ошибка задачи обновления метаданных компонента при загрузке с удалённого сервера:
@@ -6233,14 +6233,14 @@ You may have to fix your mods because the game is still logging to files and lik
 Вам, возможно, нужно исправить модификации, так как игра продолжает записывать в журнал и, скорее всего, тратит свободное место диска с огромной скоростью!</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="209"/>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>Ведение журнала приостановлено, так как он превысил %1 строк.
 Возможно, необходимо внести изменение в работу модов, поскольку игра продолжает вносить записи в журнал, занимая свободное место на диске с пугающей быстротой!</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="236"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
         <translation>[Обработка ошибки Log4j] Не удалось обработать событие журнала log4j:%1</translation>
     </message>
@@ -7223,14 +7223,14 @@ Reason:
 <context>
     <name>LocalResourceUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="50"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="51"/>
         <source>Updating index for resource:
 %1</source>
         <translation>Обновление индекса для ресурса:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="66"/>
         <source>Invalid metadata</source>
         <translation>Недействительные метаданные</translation>
     </message>
@@ -9159,12 +9159,12 @@ This can be updated only using a file in %1 format
         <translation>&amp;Без профилировщика</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1033"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID СЕССИИ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1036"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;КЛЮЧ ДОСТУПА&gt;</translation>
     </message>
@@ -9173,22 +9173,22 @@ This can be updated only using a file in %1 format
         <translation type="vanished">&lt;КЛЮЧ КЛИЕНТА&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID ПРОФИЛЯ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>broken</source>
         <translation>повреждён</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1086"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, last played on %1 for %2</source>
         <translation>, в последний раз играли %1 в течение %2</translation>
     </message>
@@ -9201,12 +9201,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">, %1 за последнее время</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1098"/>
         <source>, total played for %1</source>
         <translation>, общее время игры %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
         <source>, has crashed.</source>
         <translation>, аварийное завершение.</translation>
     </message>
@@ -10526,12 +10526,12 @@ Are you sure you want to do this?</source>
         <translation>Не удалось создать папку «bin» для «Minecraft.jar»</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
+        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="59"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
         <translation>Не удалось удалить старый jar-файл: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file.</source>
         <translation>Не удалось создать пользовательский jar-файл Minecraft.</translation>
     </message>
@@ -10898,27 +10898,27 @@ Please update %1!</source>
         <translation>Подготовка ресурсов для Modrinth…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Обработка ответа API Modrinth…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
         <source>Not installed</source>
         <translation>Не установлено</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Unknown</source>
         <translation>Неизвестно</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Не найдена действующая версия для этого ресурса. Вероятно, он недоступен для текущей версии игры или загрузчика модов.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="226"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Не найдена действующая версия для этого ресурса. Вероятно, он недоступен для текущей версии игры.</translation>
     </message>
@@ -14222,7 +14222,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="524"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="528"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -14231,7 +14231,7 @@ Canonical Path: %1</source>
 Канонический путь: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="531"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="535"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -14267,50 +14267,50 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="vanished">Последний раз изменено</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="266"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
         <source>Confirm toggle</source>
         <translation>Подтвердите действие</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="267"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Включение/выключение этого ресурса при работающей игре может привести к её аварийному завершению.
 Продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="582"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="586"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Ресурс включён?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="584"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="588"/>
         <source>The name of the resource.</source>
         <translation>Имя ресурса.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="586"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="590"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>Дата и время последнего изменения (или добавления) этого ресурса.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="588"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="592"/>
         <source>The source provider of the resource.</source>
         <translation>Источник ресурса.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="590"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="594"/>
         <source>The size of the resource.</source>
         <translation>Размер ресурса.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="681"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="685"/>
         <source>Override Columns Visibility</source>
         <translation>Переопределить видимость столбцов</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="694"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="698"/>
         <source>Show / Hide Columns</source>
         <translation>Показать / Скрыть столбцы</translation>
     </message>
@@ -15864,7 +15864,7 @@ Are you sure?</source>
         <translation>Скачивание сборки</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Не удалось разобраться в манифесте набора:
