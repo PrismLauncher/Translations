@@ -6014,7 +6014,7 @@ Możesz później zmienić wersję Javy w ustawieniach.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wygląda na to, że nie udało się uruchomić gry po %1 próbach. Zwykle pomaga wylogowanie i ponowne zalogowanie się na konto Microsoft. Jeśli nie przynosi to efektu, serwery uwierzytelniania Minecraft mogą być niedostępne lub możesz potrzebować VPN. Czy chcesz spróbować ponownie?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6250,7 +6250,7 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie tokena dostępu Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6266,7 +6266,7 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobrano token dostępu Minecraft</translation>
     </message>
 </context>
 <context>
@@ -7481,7 +7481,7 @@ Powód:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobrano token MSA</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7572,7 +7572,7 @@ Powód:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobrano token MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
@@ -9421,7 +9421,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobrano profil Minecraft</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -15198,12 +15198,12 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się przenieść metadanych pakietu shaderów z pliku .index</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się usunąć starego katalogu .index</translation>
     </message>
 </context>
 <context>
@@ -17533,12 +17533,12 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>To konto Microsoft nie ma profilu Xbox Live. Trzeba najpierw kupić grę na %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live nie jest dostępny w twoim kraju. Zostałeś zablokowany.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -17626,12 +17626,12 @@ Skonfiguruj swoje konto zgodnie z %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentykacja konta Xbox nieudana: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieoczekiwana odpowiedź uwierzytelniania użytkownika Xbox.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
