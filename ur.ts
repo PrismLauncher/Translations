@@ -5973,6 +5973,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
         <source> and its %n registered shortcut(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9272,6 +9273,7 @@ New name: %2</source>
 
 Do you wish to proceed?</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
