@@ -1180,7 +1180,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym ymmydeyr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
@@ -1334,7 +1334,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
@@ -1554,7 +1554,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
@@ -1815,12 +1815,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jalloo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
@@ -2046,7 +2046,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="110"/>
@@ -5973,6 +5973,8 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
         <source> and its %n registered shortcut(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -6227,7 +6229,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
@@ -6877,7 +6879,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -6897,7 +6899,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jalloo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -7502,7 +7504,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
@@ -7835,7 +7837,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="577"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="579"/>
@@ -8376,7 +8378,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
@@ -9273,6 +9275,8 @@ New name: %2</source>
 Do you wish to proceed?</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9867,7 +9871,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="243"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="243"/>
@@ -9947,7 +9951,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jalloo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
@@ -10007,7 +10011,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
@@ -10600,7 +10604,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="285"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="287"/>
@@ -12207,7 +12211,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ennym</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
