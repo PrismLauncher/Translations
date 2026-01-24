@@ -2193,7 +2193,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ID formata podatkovnog paketa, kao i Minecraft verzije za koje je napravljen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="106"/>
@@ -2219,12 +2219,12 @@ Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će pr
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
         <source>The name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime podatkovnog pakovanja.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrijeme kada je podatkovni paket zadnji put promijenjen (ili dodan).</translation>
     </message>
 </context>
 <context>
@@ -2232,27 +2232,27 @@ Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će pr
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi pakete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi podatkovne pakete od internetskih mod platformi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokušaj pregledati ili ažurirati sve podatkovne pakete (sve podatkovne pakete ako nijedan nije odabran)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Promjeni verziju podatkovnog paketa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="80"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi podatkovne pakete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
