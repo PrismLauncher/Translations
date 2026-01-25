@@ -18,7 +18,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Bāze &amp;URL</translation>
+        <translation>Bāzes &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -29,17 +29,17 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
         <source>Use Default</source>
-        <translation>Lietot Noklusējumu</translation>
+        <translation>Lietot Noklusējuma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Piezīme: iespējams, vēlaties mainīt vai notīrīt pamata URL pēc ielīmēšanas pakalpojumu veida maiņas.</translation>
+        <translation>Piezīme: iespējams, vēlaties mainīt vai notīrīt pamata URL pēc ielīmēšanas pakalpojuma maiņas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation>Resursu serveris</translation>
+        <translation>Resursu Serveris</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Piezīme: iespējams, ka nav vajadzīgs šo iestatīt, ja pierakstīšanās ar Microsoft Autentifikāciju jau strādā.</translation>
+        <translation>Piezīme: iespējams, ka Jums šo nevajag iestatīt, ja pierakstīšanās ar Microsoft Autentifikāciju jau strādā.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -194,17 +194,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="341"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Neizdevās iegūt vietējo metadatu indeksu priekš %1</translation>
+        <translation>Neizdevās iegūt lokālo metadatu indeksu priekš %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="151"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Neizdevās iegūt vietējo metadatu indeksu priekš &apos;%1&apos; v%2</translation>
+        <translation>Neizdevās iegūt lokālo metadatu indeksu priekš &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="141"/>
         <source>Unsupported installation mode</source>
-        <translation>Neatbalsīts instalācijas režīms</translation>
+        <translation>Neatbalstīts instalācijas režīms</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="182"/>
@@ -239,12 +239,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="632"/>
         <source>Config download</source>
-        <translation>Konfigurāciju lejupielāde</translation>
+        <translation>Lejupielādes Konfigurācija</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="673"/>
         <source>Extracting configs...</source>
-        <translation>Izraksta konfigurācijas...</translation>
+        <translation>Konfigurāciju izvilkšana...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -629,7 +629,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="94"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Pievienot &amp;Bezsaistē</translation>
+        <translation>Pievienot &amp;Bezsaistes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -1306,7 +1306,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gatavošanās pieteikšanai…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
@@ -1490,7 +1490,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Skatītās Mapes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
@@ -1562,7 +1562,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietotājvārds ir derīgs tikai ja tas ir no 3 līdz 16 simbolus garš, izmanto angļu burtus, ciparus, un apakšsvītras. Nederīgs lietotājvārds var atturēt no pievienošanās serveriem un vienspēlētāja pasaulēs.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -3082,12 +3082,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
         <source>&amp;Editors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Redaktori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
         <source>&amp;Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Teksta Redaktors</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
@@ -3100,12 +3100,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmanto priekš JSON failu rediģēšanas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
@@ -3127,7 +3127,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">J&amp;Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
