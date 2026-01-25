@@ -863,7 +863,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation>Thème du &amp;Chat&#xa0;:</translation>
+        <translation>Thème du &amp;chat&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -908,7 +908,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation>Opacité du Chat</translation>
+        <translation>Opacité du chat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
@@ -3257,7 +3257,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
         <source>&amp;Text Editor</source>
-        <translation>&amp;Éditeur de Texte</translation>
+        <translation>Éditeur de &amp;texte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
@@ -9133,7 +9133,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, last played on %1 for %2</source>
-        <translation>, joué pour la dernière fois le %1 pour %2</translation>
+        <translation>, joué pour la dernière fois le %1 pendant %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -14337,7 +14337,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation>Télécharger des pack de ressources depuis des plateformes de mods en ligne</translation>
+        <translation>Télécharger des packs de ressources depuis des plateformes de mods en ligne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
@@ -14405,7 +14405,7 @@ Les anciens fichiers pourrais ne pas être supprimés car ils sont en cours d&ap
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
         <source>The resource pack updater was aborted!</source>
-        <translation>L&apos;updater des packs de ressources a été avorté&#x202f;!</translation>
+        <translation>La mise à jour du pack de ressources a été interrompue&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="168"/>
@@ -14436,7 +14436,7 @@ Les anciens fichiers pourrais ne pas être supprimés car ils sont en cours d&ap
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation>Vous allez supprimé la metadata pour %1 pack de ressources.
+        <translation>Vous êtes sur le point de supprimer les métadonnées du pack de ressources %1.
 Êtes-vous sûr&#x202f;?</translation>
     </message>
     <message>
