@@ -1562,7 +1562,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation>Lietotājvārds ir derīgs tikai ja tas ir no 3 līdz 16 simbolus garš, izmanto angļu burtus, ciparus, un apakšsvītras. Nederīgs lietotājvārds var atturēt no pievienošanās serveriem un vienspēlētāja pasaulēs.</translation>
+        <translation>Lietotājvārds ir derīgs tikai tad, ja tas sastāv no 3 līdz 16 simboliem, lieto angļu alfabēta burtus, ciparus un apakšsvītras. Nederīgs lietotājvārds var traucēt pieslēgšanos pie serveriem un viena spēlētāja režīma pasaulēm.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -1643,7 +1643,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nespēja lejupielādēt metadatus priekš %1 %2. Lūdzu nomainiet versiju vai vēlāk mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="779"/>
@@ -1678,7 +1678,8 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vairāki sub-procesi neizdevās
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
@@ -2110,7 +2111,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation type="unfinished">Snapšoti</translation>
+        <translation>Snapšoti</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
@@ -2119,12 +2120,12 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation type="unfinished">Beta versijas</translation>
+        <translation>Beta versijas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <source>Alphas</source>
-        <translation type="unfinished">Alfa versijas</translation>
+        <translation>Alfa versijas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
@@ -3127,7 +3128,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished">J&amp;Profiler</translation>
+        <translation>J&amp;Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
@@ -4180,7 +4181,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="134"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
@@ -4738,7 +4739,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="282"/>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="284"/>
@@ -7986,7 +7987,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Atvērt Minecraft maksimizētu?</translation>
+        <translation>Palaist Minecraft maksimizētu</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -8176,27 +8177,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
@@ -8341,22 +8342,22 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
@@ -8366,7 +8367,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
@@ -14706,7 +14707,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>Iegūts Xbox lietotāja tokens</translation>
     </message>
 </context>
 <context>
