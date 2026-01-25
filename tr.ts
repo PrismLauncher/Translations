@@ -3926,7 +3926,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Not: CurseForge ve bazı mod geliştiricileri PolyMC gibi üçüncü parti uygulamalara mod indirilmesini izin vermiyor. Bu yüzden, bir mod paketi kurabilmek için bazı modları elle indirmeniz gerekebilir.</translation>
+        <translation>Not: CurseForge, içerik oluşturucuların Prism Launcher gibi üçüncü taraf araçlara erişimi engellemesine olanak tanır. Bu nedenle, bir mod paketini yükleyebilmek için bazı modları manuel olarak indirmeniz gerekebilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -4281,7 +4281,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation>ZIP&apos;ten içeri aktar</translation>
+        <translation>İçe Aktar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"/>
@@ -6932,7 +6932,7 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation>ZIP&apos;ten çıkartılmış Minecraft taşınamadı!</translation>
+        <translation>Çıkarılmış Minecraft taşınamadı!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="193"/>
@@ -11223,7 +11223,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
         <source>uid</source>
-        <translation>UID</translation>
+        <translation>uid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
