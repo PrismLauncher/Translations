@@ -9390,7 +9390,7 @@ Lze jej aktualizovat pouze pomocí souboru ve formátu %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Základní hra podporuje pouze rozlišení. Pro simulaci chování maximalizace aktuální implementace odhadne maximální velikost obrazovky.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
