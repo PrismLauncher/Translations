@@ -6519,27 +6519,27 @@ Grunn:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="120"/>
         <source>Got MSA token</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Failed to refresh token.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="154"/>
         <source>Logging in with Microsoft account.</source>
         <translation>Logger inn med Minecraft-konto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="166"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6556,7 +6556,7 @@ Grunn:
         <translation type="vanished">Klarte ikkje autentisera Microsoft-brukaren: brukaren finst ikkje lengre.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
         <source>Microsoft user authentication failed.</source>
         <translation>Klarte ikkje autentisera Microsoft-brukaren.</translation>
     </message>
@@ -7943,7 +7943,6 @@ This can be updated only using a file in %1 format
         <translation type="unfinished">Start Minecraft maksimert?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8036,6 +8035,11 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>Use system installation of GLFW</source>
         <translation type="unfinished">Bruk GLFW frå systemet</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
+        <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>

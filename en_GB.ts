@@ -7543,27 +7543,27 @@ Reason:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="120"/>
         <source>Got MSA token</source>
         <translation>Got MSA token</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Failed to refresh token.</source>
         <translation>Failed to refresh token.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="154"/>
         <source>Logging in with Microsoft account.</source>
         <translation>Logging in with Microsoft account.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation>Microsoft user authentication failed - client identification has changed.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="166"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
         <translation>Microsoft user authentication failed - refresh token is empty.</translation>
     </message>
@@ -7580,7 +7580,7 @@ Reason:
         <translation type="vanished">Microsoft user authentication failed - user no longer exists.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
         <source>Microsoft user authentication failed.</source>
         <translation>Microsoft user authentication failed.</translation>
     </message>
@@ -9440,6 +9440,11 @@ This can be updated only using a file in %1 format
         <translation>Game &amp;Window</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
+        <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
         <translation>When the game window closes, quit the launcher</translation>
@@ -9450,7 +9455,6 @@ This can be updated only using a file in %1 format
         <translation>Start Minecraft maximised</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
         <translation>The base game only supports resolution. In order to simulate the maximised behaviour the current implementation approximates the maximum display size.</translation>
     </message>

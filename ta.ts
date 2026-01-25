@@ -6473,7 +6473,7 @@ Reason:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="154"/>
         <source>Logging in with Microsoft account.</source>
         <translation>நுண்மென் கணக்கில் உள்நுழைக.</translation>
     </message>
@@ -6482,27 +6482,27 @@ Reason:
         <translation>கிடைத்தது </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="120"/>
         <source>Got MSA token</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
         <source>Microsoft user authentication failed.</source>
         <translation>நுண்மென் பயனர் ஏற்பு தோல்வியடைந்தது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Failed to refresh token.</source>
         <translation>கிள்ளாக்கை புதுப்பிக்கத் தவறிவிட்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation>நுண்மென் பயனர் ஏற்பு தோல்வியுற்றது - கிளையன்ட் அடையாளம் மாறிவிட்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="166"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
         <translation>நுண்மென் பயனர் ஏற்பு தோல்வியுற்றது - புதுப்பிப்பு கிள்ளாக்கு காலியாக உள்ளது.</translation>
     </message>
@@ -7896,6 +7896,11 @@ This can be updated only using a file in %1 format
         <translation>விளையாட்டு &amp; சாளரம்</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
+        <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
         <translation>விளையாட்டு சாளரம் மூடப்படும் போது, துவக்கியை விட்டு வெளியேறவும்</translation>
@@ -7906,7 +7911,6 @@ This can be updated only using a file in %1 format
         <translation>Minecraft அதிகபட்சம் தொடங்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
         <translation>அடிப்படை விளையாட்டு தெளிவுத்திறனை மட்டுமே ஆதரிக்கிறது. அதிகபட்ச நடத்தையை உருவகப்படுத்துவதற்காக தற்போதைய செயல்படுத்தல் அதிகபட்ச காட்சி அளவை தோராயமாக மதிப்பிடுகிறது.</translation>
     </message>

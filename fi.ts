@@ -7163,27 +7163,27 @@ Syy:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="120"/>
         <source>Got MSA token</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Failed to refresh token.</source>
         <translation>Ei voitu virkistää valtuutusta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="154"/>
         <source>Logging in with Microsoft account.</source>
         <translation>Kirjaudutaan sisään Microsoft-tilillä.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation>Microsoftin käyttäjätunnistus epäonnistui – asiakastunnistus on muuttunut.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="166"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
         <translation>Microsoftin käyttäjätunnistus epäonnistui – virkistysmerkki on tyhjä.</translation>
     </message>
@@ -7192,7 +7192,7 @@ Syy:
         <translation>Saatiin </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
         <source>Microsoft user authentication failed.</source>
         <translation>Microsoftin käyttäjän tunnistaminen epäonnistui.</translation>
     </message>
@@ -8818,6 +8818,11 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
         <translation>Peli-&amp;ikkuna</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
+        <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
         <translation>Sulje laucher, kun peli-ikkuna sulkeutuu</translation>
@@ -8828,7 +8833,6 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
         <translation>Käynnistä Minecraft suurennettuna</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
         <translation>Peruspeli tukee vain resoluutiota. Jotta voimme simuloida suurennetun ikkunan toiminnallisuutta, nykyinen implementaatio arvioi näytön maksimikoon.</translation>
     </message>
