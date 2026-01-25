@@ -7889,7 +7889,7 @@ Ní féidir é seo a nuashonrú ach amháin trí chomhad i bhformáid %1 a úsá
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní thacaíonn an cluiche bunúsach ach le réiteach. Chun an t-iompar uasmhéadaithe a insamhladh, déanann an cur i bhfeidhm reatha garmheastachán ar an uasmhéid taispeána.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
