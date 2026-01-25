@@ -12721,7 +12721,7 @@ Pokračovat se zkrácením?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt; Odkaz na nahraný LOG&lt;/a&gt; byl uložen do tvé schránky.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt; Odkaz na nahraný protokol&lt;/a&gt; byl uložen do vaší schránky.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="378"/>
@@ -17282,12 +17282,12 @@ Možná je nutné ho přeinstalovat.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
         <source>Select a Minecraft world zip</source>
-        <translation>Vyberte ZIP Minecraft Světa</translation>
+        <translation>Vyberte ZIP Minecraftového světa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
         <source>Minecraft World Zip File</source>
-        <translation>Soubor ZIP s Minecraft světem</translation>
+        <translation>Soubor ZIP s Minecraftovým světem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
