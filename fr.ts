@@ -2121,7 +2121,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation>Écraser Paramètres &amp;Globaux</translation>
+        <translation>Remplacer les paramètres &amp;globaux</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2589,7 +2589,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation>Écraser Paramètres &amp;Globaux</translation>
+        <translation>Remplacer les paramètres &amp;globaux</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -9689,12 +9689,12 @@ Il est fort probable que vous deviez modifier le chemin d&apos;accès - veuillez
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
         <source>&amp;GLFW library path:</source>
-        <translation>&amp;chemin des librairies GLFW&#xa0;:</translation>
+        <translation>Chemin de la bibliothèque &amp;GLFW&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
         <source>&amp;OpenAL library path:</source>
-        <translation>&amp;Chemin du libraire de OpenAl&#xa0;:</translation>
+        <translation>Chemin de la bibliothèque &amp;OpenAL&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
@@ -9811,7 +9811,7 @@ Il est fort probable que vous deviez modifier le chemin d&apos;accès - veuillez
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="551"/>
         <source>Select Global Data Packs Folder</source>
-        <translation>Sélectionner le Dossier Globale des Packs de Données</translation>
+        <translation>Sélectionner le dossier global des packs de données</translation>
     </message>
 </context>
 <context>
