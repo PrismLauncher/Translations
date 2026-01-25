@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Jeśli masz problemy z pobieraniem zasobów, możesz ustawić inny serwer.</translation>
+        <translation>Jeżeli masz problemy z pobieraniem zasobów, możesz ustawić inny serwer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -168,7 +168,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Tutaj możesz wskazać inny serwer metadanych, z którego pobierane będą poprawione biblioteki i inne poprawki.</translation>
+        <translation>Tutaj możesz wskazać serwer zewnętrzny metadanych, z którego pobierane będą poprawione biblioteki i inne poprawki.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
