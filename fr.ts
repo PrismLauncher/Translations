@@ -15375,7 +15375,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
         <source>&amp;Rename Skin</source>
-        <translation>%Renommer le skin</translation>
+        <translation>&amp;Renommer le skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
