@@ -14570,7 +14570,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="313"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>La ressource &apos; %1 &apos; n&apos;a pas encore de métadonnées. Nous devons les générer pour suivre les informations pertinentes sur la façon de mettre à jour ce mod. Pour ce faire, veuillez sélectionner un fournisseur de mods que nous pouvons utiliser pour vérifier les mises à jour de ce mod.</translation>
+        <translation>La ressource « %1 » n&apos;a pas encore de métadonnées. Nous devons les générer pour suivre les informations pertinentes sur la façon de mettre à jour ce mod. Pour ce faire, veuillez sélectionner un fournisseur de mods que nous pouvons utiliser pour vérifier les mises à jour de ce mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="372"/>
@@ -15471,8 +15471,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="392"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Vous allez supprimer &quot;%1&quot;.
-Êtes vous sûr&#x202f;?</translation>
+        <translation>Vous êtes sur le point de supprimer « %1 ».
+Êtes-vous sûr&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="409"/>
