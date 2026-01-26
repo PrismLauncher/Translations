@@ -6050,7 +6050,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>Client identification changed</source>
-        <translation>클라이언트 ID가 변경되었습니다</translation>
+        <translation>클라이언트 ID 변경됨</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -9363,7 +9363,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>기본 게임은 해상도 모드만 지원합니다. 최대화 동작을 시뮬레이션하기 위해 현재 구현은 최대 디스플레이 크기에 근사치를 적용하고 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
