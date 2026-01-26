@@ -153,7 +153,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Entrez un user agent personnalisé ici. La chaîne spéciale $LAUNCHER_VER sera remplacée avec la version du lanceur.</translation>
+        <translation>Entrez un user agent personnalisé ici. La chaîne spéciale $LAUNCHER_VER sera remplacée avec la version du launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -347,7 +347,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Un lanceur personnalisé qui facilite la gestion de Minecraft en vous permettant d&apos;avoir plusieurs instances de Minecraft à la fois.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Un launcher personnalisé qui facilite la gestion de Minecraft en vous permettant d&apos;avoir plusieurs instances de Minecraft à la fois.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -2142,7 +2142,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La commande de pré-lancement s&apos;exécute avant le lancement de l&apos;instance, et la commande post-arrêt s&apos;exécute après sa fermeture.&lt;/p&gt;&lt;p&gt;Les deux sont exécutées dans le dossier de travail du lanceur avec des variables d&apos;environnement supplémentaires&#xa0;:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;$INST_NAME - Nom de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID de l&apos;instance (Nom du fichier)&lt;/li&gt;&lt;li&gt;$INST_DIR - Chemin absolu de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Chemin absolu de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Le binaire de Java utilisé pour le lancement&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Paramètres de la ligne de commande utilisés pour le lancement (avertissement&#xa0;: ne fonctionnera pas correctement si les arguments contiennent des espaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La commande wrapper permet de démarrer en utilisant un programme externe (exemple&#xa0;: &quot;optirun&quot; sur Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La commande de pré-lancement s&apos;exécute avant le lancement de l&apos;instance, et la commande post-arrêt s&apos;exécute après sa fermeture.&lt;/p&gt;&lt;p&gt;Les deux sont exécutées dans le dossier de travail du launcher avec des variables d&apos;environnement supplémentaires&#xa0;:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;$INST_NAME - Nom de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID de l&apos;instance (Nom du fichier)&lt;/li&gt;&lt;li&gt;$INST_DIR - Chemin absolu de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Chemin absolu de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Le binaire de Java utilisé pour le lancement&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Paramètres de la ligne de commande utilisés pour le lancement (avertissement&#xa0;: ne fonctionnera pas correctement si les arguments contiennent des espaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La commande wrapper permet de démarrer en utilisant un programme externe (exemple&#xa0;: &quot;optirun&quot; sur Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -3753,7 +3753,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Les fichiers suivants ne sont pas téléchargeables sur les lanceurs tiers.&lt;br/&gt; Vous devrez les télécharger manuellement et les ajouter à l&apos;instance.</translation>
+        <translation>Les fichiers suivants ne sont pas téléchargeables sur les launchers tiers.&lt;br/&gt; Vous devrez les télécharger manuellement et les ajouter à l&apos;instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
@@ -3802,7 +3802,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="410"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Hé là&#x202f;!&lt;/h1&gt;&lt;h4&gt;Il semblerait que votre ID de pack soit nul. Ceci est dû à un bug présent dans les anciennes versions du lanceur.&lt;br/&gt;Malheureusement, nous ne pouvons pas faire les bonnes requêtes API sans ces informations.&lt;br/&gt;&lt;br/&gt;Pour que cette fonctionnalité soit opérationnelle, vous devrez télécharger à nouveau le modpack depuis le téléchargeur intégré.&lt;br/&gt;&lt;br/&gt;Mais ne vous inquiétez pas, il vous demandera plutôt de mettre à jour cette instance, vous ne la perdrez donc pas&#x202f;!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Hé là&#x202f;!&lt;/h1&gt;&lt;h4&gt;Il semblerait que votre ID de pack soit nul. Ceci est dû à un bug présent dans les anciennes versions du launcher.&lt;br/&gt;Malheureusement, nous ne pouvons pas faire les bonnes requêtes API sans ces informations.&lt;br/&gt;&lt;br/&gt;Pour que cette fonctionnalité soit opérationnelle, vous devrez télécharger à nouveau le modpack depuis le téléchargeur intégré.&lt;br/&gt;&lt;br/&gt;Mais ne vous inquiétez pas, il vous demandera plutôt de mettre à jour cette instance, vous ne la perdrez donc pas&#x202f;!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="450"/>
@@ -5609,7 +5609,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Si activé, le lanceur ne vérifiera pas si une instance est compatible avec la version de Java sélectionnée.</translation>
+        <translation>Si activé, le launcher ne vérifiera pas si une instance est compatible avec la version de Java sélectionnée.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
@@ -6127,7 +6127,7 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="400"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation>Impossible d&apos;instancier un lanceur.</translation>
+        <translation>Impossible d&apos;instancier un launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="449"/>
@@ -6756,7 +6756,7 @@ This is known to cause problems. After a restart the launcher might break, becau
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation>Vous essayez de spécifier un dossier d&apos;instance qui a été accordé temporairement via Flatpak.
-Ceci est connu pour causer des problèmes. Après un redémarrage, le lanceur peut avoir des problèmes, car il n&apos;aura plus accès à ce répertoire.
+Ceci est connu pour causer des problèmes. Après un redémarrage, le launcher peut avoir des problèmes, car il n&apos;aura plus accès à ce répertoire.
 
 Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatseal.</translation>
     </message>
@@ -6849,12 +6849,12 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="76"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>La bibliothèque du lanceur n&apos;a pas été trouvée. Veuillez vérifier votre installation.</translation>
+        <translation>La bibliothèque du launcher n&apos;a pas été trouvée. Veuillez vérifier votre installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>La bibliothèque de l&apos;ancien lanceur n&apos;a pas pu être trouvée. Veuillez vérifier votre installation.</translation>
+        <translation>La bibliothèque de l&apos;ancien launcher n&apos;a pas pu être trouvée. Veuillez vérifier votre installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
@@ -7887,7 +7887,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Launcher &amp;Root</source>
-        <translation>&amp;Racine du lanceur</translation>
+        <translation>&amp;Racine du launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
@@ -7949,12 +7949,12 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
-        <translation>&amp;Thèmes du lanceur</translation>
+        <translation>&amp;Thèmes du launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="738"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation>Ouvrir le dossier des thèmes du lanceur dans l&apos;explorateur de fichiers.</translation>
+        <translation>Ouvrir le dossier des thèmes du launcher dans l&apos;explorateur de fichiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
@@ -8121,7 +8121,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>Ouvrez le dossier racine du lanceur dans un explorateur de fichiers.</translation>
+        <translation>Ouvrir le dossier racine du launcher dans l&apos;explorateur de fichiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
@@ -8805,12 +8805,12 @@ Voulez-vous vraiment continuer&#x202f;?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>Cela pose un problème&#xa0;: &lt;br/&gt; - Le lanceur sera probablement supprimé sans avertissement par le système d&apos;exploitation &lt;br/&gt; - Fermez le lanceur maintenant et décompressez-le vers un emplacement réel, pas dans un dossier temporaire</translation>
+        <translation>Cela pose un problème&#xa0;: &lt;br/&gt; - Le launcher sera probablement supprimé sans avertissement par le système d&apos;exploitation &lt;br/&gt; - Fermez le launcher maintenant et décompressez-le vers un emplacement réel, pas dans un dossier temporaire</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Votre dossier d&apos;instance contient «&#xa0;Rar$&#xa0;», cela signifie que vous n&apos;avez pas extrait l&apos;archive du lanceur&#xa0;!</translation>
+        <translation>Votre dossier d&apos;instance contient «&#xa0;Rar$&#xa0;», cela signifie que vous n&apos;avez pas extrait l&apos;archive du launcher&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1657"/>
@@ -9003,7 +9003,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="333"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation>L&apos;instance n&apos;a pas réussi à se mettre à jour vers la version de pack %1. Veuillez consulter les journaux du lanceur pour plus d&apos;informations.</translation>
+        <translation>L&apos;instance n&apos;a pas réussi à se mettre à jour vers la version de pack %1. Veuillez consulter les journaux du launcher pour plus d&apos;informations.</translation>
     </message>
 </context>
 <context>
@@ -9449,7 +9449,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation>Quitter le lanceur à la fermeture du jeu</translation>
+        <translation>Quitter le launcher à la fermeture du jeu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -9577,7 +9577,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation>Cacher le lanceur au démarrage du jeu</translation>
+        <translation>Cacher le launcher au démarrage du jeu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
@@ -11990,12 +11990,12 @@ StdErr : %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation>Utilisez cette version comme version installée du lanceur. (fourni parce que &quot;stdout&quot; ne peut pas être capturé de manière fiable sous Windows)</translation>
+        <translation>Utilisez cette version comme version installée du launcher. (fourni parce que &quot;stdout&quot; ne peut pas être capturé de manière fiable sous Windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="108"/>
         <source>installed launcher version</source>
-        <translation>version du lanceur installé</translation>
+        <translation>version du launcher installée</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="109"/>
@@ -12076,7 +12076,7 @@ StdErr : %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="202"/>
         <source>The launcher data folder is not writable!</source>
-        <translation>Le dossier de données du lanceur n&apos;est pas accessible en écriture !</translation>
+        <translation>Le dossier de données du launcher n&apos;est pas accessible en écriture&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="203"/>
@@ -12527,7 +12527,7 @@ Status HTTP&#xa0;: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>Cela ne s’applique qu’au lanceur. Minecraft n&apos;accepte pas les paramètres de proxy.</translation>
+        <translation>Cela ne s’applique qu’au launcher. Minecraft n&apos;accepte pas les paramètres de proxy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
@@ -12734,7 +12734,7 @@ If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting
 
 Proceed with truncation?</source>
         <translation>Le journal contient %1 lignes, dépassant la limite de %2 de mclo.gs.
-Le lanceur peut conserver les premières %3 et les dernières %4 lignes, en coupant le milieu.
+Le launcher peut conserver les premières %3 et les dernières %4 lignes, en coupant le milieu.
 
 Si vous choisissez &quot;Non&quot;, mclo.gs ne gardera que les %2 premières lignes, coupant des informations potentiellement utiles comme les crashs à la fin.
 
@@ -14012,8 +14012,8 @@ Veuillez mettre à jour %1&#xa0;!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="431"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation>Aucune version pour &apos;%1&apos; n&apos;est disponible
-L&apos;auteur a certainement bloqué les lanceurs tiers.</translation>
+        <translation>Aucune version pour &quot;%1&quot; n&apos;est disponible
+L&apos;auteur a certainement bloqué les launchers tiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="538"/>
