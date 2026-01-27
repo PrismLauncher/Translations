@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Starší verze serveru knihoven FML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Toto můžete nastavit na jiný server, pokud máte problémy se stahováním starších verzí knihoven FML (Minecraft 1.5.2 a starší).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -6873,32 +6873,32 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Kontrola FML knihoven...</translation>
+        <translation>Kontrola knihoven FML…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Stahuji knihovny pro FML...</translation>
+        <translation>Stahování knihoven FML…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
         <source>Aborted</source>
-        <translation type="unfinished">Přerušeno</translation>
+        <translation>Přerušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Kopíruji FML knihovny do instance...</translation>
+        <translation>Kopírování knihoven FML do instance…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Vytváření složky FLM uvnitř instance se nezdařilo.</translation>
+        <translation>Nepodařilo se vytvořit složku knihovny FML uvnitř instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Kopírování Forge/FML knihoven selhalo: %1.</translation>
+        <translation>Nepodařilo se zkopírovat knihovnu Forge/FML: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6907,11 +6907,11 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Stahování následujících souborů selhalo:
+        <translation>Nepodařilo se stáhnout následující soubory:
 %1
 
 Důvod:%2
-Prosím zkus znovu.</translation>
+Zkuste to prosím znovu.</translation>
     </message>
 </context>
 <context>
