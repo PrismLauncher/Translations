@@ -9444,7 +9444,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le jeu de base ne prend en charge que la résolution. Afin de simuler le comportement du mode maximisé, l’implémentation actuelle approxime la taille maximale de l’affichage.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
