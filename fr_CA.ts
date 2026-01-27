@@ -4328,12 +4328,12 @@ S&apos;il vous plaît vérifier si la valeur maximum de mémoire est plus basse.
 <context>
     <name>InstanceView</name>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Welcome!</source>
         <translation>Bienvenue !</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>Cliquer sur &quot;Ajouter Instance&quot; pour commencer.</translation>
     </message>
@@ -9272,17 +9272,17 @@ Are you sure?</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="353"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="356"/>
         <source>Aborted</source>
         <translation>Annulé</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="577"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="579"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="582"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
@@ -10205,7 +10205,7 @@ Statut HTTP : %2</translation>
         <translation>Le fichier de version contient l&apos;élément non supporté &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="313"/>
         <source>Assets for %1</source>
         <translation>Assets pour %1</translation>
     </message>
@@ -10235,27 +10235,27 @@ Statut HTTP : %2</translation>
         <translation>Le nom de la librairie %1 est brisé et ne peut pas être procédé.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="182"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation>Le fichier de composants %1 n&apos;existe pas. Ceci ne devrait jamais arriver.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation>Échec de l&apos;ouverture de %1 pour la lecture : %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation>Impossible d&apos;analyser %1 comme json : %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Fichier de version de composant invalide, attendu %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation>Échec de l&apos;analyse de %1 : mauvais format de fichier</translation>
     </message>

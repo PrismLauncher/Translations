@@ -4924,12 +4924,12 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
 <context>
     <name>InstanceView</name>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Welcome!</source>
         <translation>Chào mừng!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>Nhấn &quot;Tạo phiên bản mới&quot; để bắt đầu.</translation>
     </message>
@@ -11081,17 +11081,17 @@ Bạn có chắc không?</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="353"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="356"/>
         <source>Aborted</source>
         <translation>Bị hủy bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="577"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
         <source>Name</source>
         <translation>Tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="579"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="582"/>
         <source>Version</source>
         <translation>Phiên bản</translation>
     </message>
@@ -12161,27 +12161,27 @@ Xác nhận cắt bớt?</translation>
         <translation>Thư viện %1 bị hỏng và không thể xử lý được.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="182"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation>Thành phần file %1 không tồn tại. Điều này không thể xảy ra.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation>Không thể mở %1 để đọc: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation>Không thể phân tích %1 như json: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Phiên bản tệp thành phần không hợp lệ, dự kiến %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation>Không thể phân tích %1: định dạng file xấu</translation>
     </message>
@@ -12226,7 +12226,7 @@ Xác nhận cắt bớt?</translation>
         <translation>Tệp phiên bản chứa phần tử không được hỗ trợ &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="313"/>
         <source>Assets for %1</source>
         <translation>Tài nguyên cho %1</translation>
     </message>

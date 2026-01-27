@@ -4247,12 +4247,12 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
 <context>
     <name>InstanceView</name>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Welcome!</source>
         <translation>Fáilte!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>Cliceáil &quot;Cuir Eiseamláir Leis&quot; chun tús a chur leis.</translation>
     </message>
@@ -9513,17 +9513,17 @@ An bhfuil tú cinnte?</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="353"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="356"/>
         <source>Aborted</source>
         <translation>Tobscortha</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="577"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
         <source>Name</source>
         <translation>Ainm</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="579"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="582"/>
         <source>Version</source>
         <translation>Leagan</translation>
     </message>
@@ -10442,7 +10442,7 @@ Stádas HTTP: %2</translation>
         <translation>Tá eilimint neamhthacaithe &apos;+minecraftArguments&apos; sa chomhad leagan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="313"/>
         <source>Assets for %1</source>
         <translation>Sócmhainní do %1</translation>
     </message>
@@ -10472,27 +10472,27 @@ Stádas HTTP: %2</translation>
         <translation>Tá ainm na leabharlainne %1 briste agus ní féidir í a phróiseáil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="182"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation>Níl comhad comhpháirteanna %1 ann. Níor cheart go dtarlódh sé seo choíche.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation>Níorbh fhéidir %1 a oscailt le haghaidh léitheoireachta: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation>Níorbh fhéidir %1 a pharsáil mar json: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Leagan neamhbhailí de chomhad comhpháirte, bhíothas ag súil le %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation>Níorbh fhéidir %1 a pharsáil: formáid comhaid lochtach</translation>
     </message>

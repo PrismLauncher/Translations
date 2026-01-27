@@ -4248,12 +4248,12 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
 <context>
     <name>InstanceView</name>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Welcome!</source>
         <translation>Benvignûts!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>Frache &quot;Zonte istance&quot; par scomençâ.</translation>
     </message>
@@ -9615,17 +9615,17 @@ Eliminâ pardabon?</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="353"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="356"/>
         <source>Aborted</source>
         <translation>Interot</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="577"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
         <source>Name</source>
         <translation>Non</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="579"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="582"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
@@ -10548,7 +10548,7 @@ Stât HTTP: %2</translation>
         <translation>Il file de version al conten l&apos;element no supuartât &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="313"/>
         <source>Assets for %1</source>
         <translation>Risorsis par %1</translation>
     </message>
@@ -10578,27 +10578,27 @@ Stât HTTP: %2</translation>
         <translation>Il non de librarie %1 al è ruvinât e nol è pussibil elaborâlu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="182"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation>Il file dai components %1 nol esist. Chest nol varès di sucedi mai.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation>Nol è stât pussibil vierzi %1 pe leture: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation>Nol è stât pussibil analizâ %1 come json: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Invalid component file version, expected %1</source>
         <translation>La version dal file dal component no je valide, si spietave %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation>Impussibil analizâ %1: formât di file sbaliât</translation>
     </message>

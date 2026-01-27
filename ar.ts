@@ -4752,12 +4752,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceView</name>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Welcome!</source>
         <translation>أهلا!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>اضغط على &quot;إضافة نموذج&quot; للبدء</translation>
     </message>
@@ -10406,17 +10406,17 @@ Are you sure?</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="353"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="356"/>
         <source>Aborted</source>
         <translation>أُلغيت</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="577"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
         <source>Name</source>
         <translation>الاسم</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="579"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="582"/>
         <source>Version</source>
         <translation>الإصدار</translation>
     </message>
@@ -11430,27 +11430,27 @@ Proceed with truncation?</source>
         <translation>اسم المكتبة %1 معطل ولا يمكن للعملية أن تستمر.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="182"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation>ملف العناصر %1 غير موجود. من المفترض ألا يحدث هذا أبدا.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation>لا يمكن فتح %1 لقراءة: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation>لا يمكن تحليل %1 كملف json: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Invalid component file version, expected %1</source>
         <translation>عنصر في ملف الإصدار غير صالح، كان يتم توقع الحصول على %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation>لا يمكن تحليل %1: صيغة الملف غير صالحة</translation>
     </message>
@@ -11495,7 +11495,7 @@ Proceed with truncation?</source>
         <translation>ملف الإصدار يحتوي على عنصر غير مدعوم &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="313"/>
         <source>Assets for %1</source>
         <translation>الموارد لـ %1</translation>
     </message>
