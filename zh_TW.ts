@@ -6913,7 +6913,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">下載下列檔案時發生錯誤：
+        <translation>下載下列檔案時發生錯誤：
 %1
 
 原因：%2
