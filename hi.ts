@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished">यदि आपको एसेट्स डाउनलोड करने में समस्या हो रही है तो आप इसे किसी अन्य सर्वर पर सेट कर सकते हैं।</translation>
+        <translation>यदि आपको एसेट्स डाउनलोड करने में समस्या हो रही है तो आप इसे किसी अन्य सर्वर पर सेट कर सकते हैं।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
