@@ -61,12 +61,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor de Biblioteca FML legado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Você pode trocar isso pra outro servidor caso esteja com problemas no download das bibliotecas FML legado (Minecraft 1.5.2 ou anterior).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -6222,7 +6222,7 @@ Você talvez devesse checar seus mods, pois o jogo continua fazendo registros em
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>Paramos de monitorar o registro do jogo pois ele ultrapassou %1 linhas.
-Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrando arquivos e consumindo espaço do HD a uma taxa alarmante!</translation>
+Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrando arquivos e consumindo espaço do disco rígido a uma taxa alarmante!</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="236"/>
@@ -6905,32 +6905,32 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Buscando bibliotecas do FML...</translation>
+        <translation>Buscando bibliotecas do FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Baixando bibliotecas do FML...</translation>
+        <translation>Baixando bibliotecas do FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Interrompido</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Copiando bibliotecas do FML para a instância...</translation>
+        <translation>Copiando bibliotecas do FML para a instância...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Falha ao criar a pasta da biblioteca do FML na instância.</translation>
+        <translation>Falha ao criar a pasta da biblioteca do FML na instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Falha ao copiar biblioteca do Forge/FML: %1.</translation>
+        <translation>Falha ao copiar biblioteca do Forge/FML: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6939,11 +6939,11 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Erro ao baixar os seguintes arquivos:
+        <translation>Erro ao baixar os seguintes arquivos:
 %1
 
 Razão: %2
-Por favor, tente de novo.</translation>
+Por favor, tente novamente.</translation>
     </message>
 </context>
 <context>
@@ -9520,7 +9520,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>O jogo base suporta apenas resolução. Para simular o comportamento maximizado, a implementação atual aproxima o tamanho máximo da tela.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
