@@ -53,12 +53,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Régi FML könyvtárak szervere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha problémád van a régi FML könyvtárak (Minecraft 1.5.2 és korábbi verziók) letöltésével, ezt beállíthatod egy másik szerverre.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -6835,32 +6835,32 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Az FML könyvtárak ellenőrzése…</translation>
+        <translation>Az FML könyvtárak ellenőrzése…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">FML-könyvtárak letöltése…</translation>
+        <translation>FML könyvtárak letöltése...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
         <source>Aborted</source>
-        <translation type="unfinished">Megszakítva</translation>
+        <translation>Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">FML könyvtárak másolása a példányba…</translation>
+        <translation>FML könyvtárak másolása a példányba...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Nem sikerült létrehozni az FML könyvtár mappát a példányon belül.</translation>
+        <translation>Nem sikerült létrehozni az FML könyvtár mappát a példányon belül.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Sikertelen a Forge / FML könyvtár másolása: %1.</translation>
+        <translation>Sikertelen a Forge / FML könyvtár másolása: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6869,7 +6869,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Nem sikerült letölteni a következő fájlokat:
+        <translation>Nem sikerült letölteni a következő fájlokat:
 %1
 
 Indok:%2
@@ -9405,7 +9405,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az alapjáték csak a felbontást támogatja. A maximális működés szimulálásához a jelenlegi megvalósítás a kijelző maximális méretét közelíti meg.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
