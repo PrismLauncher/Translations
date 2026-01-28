@@ -69,12 +69,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor de bibliotecas FML heredadas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Puedes configurarlo en otro servidor si tienes problemas para descargar bibliotecas FML heredadas (Minecraft 1.5.2 y versiones anteriores).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -5978,7 +5978,7 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Parece que no hemos podido iniciar sesión tras %1 intentos. Normalmente, esto se soluciona cerrando sesión y volviendo a iniciar sesión en tu cuenta de Microsoft. Si eso no funciona, es posible que los servidores de autenticación de Minecraft estén experimentando una interrupción del servicio o que necesites una VPN en tu región. ¿Quieres seguir intentándolo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6884,32 +6884,32 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Comprobando librerías de FML...</translation>
+        <translation>Comprobando las bibliotecas FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Descargando librerías de FML...</translation>
+        <translation>Descargando bibliotecas FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Copiando librerías FML en la instancia...</translation>
+        <translation>Copiando bibliotecas FML en la instancia...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Error creando el directorio para la librería FML en la instancia.</translation>
+        <translation>Error al crear la carpeta de la biblioteca FML dentro de la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Error copiando la librería Forge/FML: %1.</translation>
+        <translation>Error al copiar la biblioteca Forge/FML: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6918,11 +6918,11 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Error al descargar los siguientes archivos: 
-%1 
- 
-Motivo:%2 
-Por favor, inténtelo de nuevo.</translation>
+        <translation>No se pudieron descargar los siguientes archivos:
+%1
+
+Motivo:%2
+Inténtelo de nuevo.</translation>
     </message>
 </context>
 <context>
@@ -9495,7 +9495,7 @@ Solo puede actualizarse mediante un archivo con formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>El juego base solo admite resolución. Para simular el comportamiento maximizado, la implementación actual se aproxima al tamaño máximo de pantalla.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
@@ -14421,7 +14421,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="187"/>
         <source>Aborted</source>
-        <translation>Cancelado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
