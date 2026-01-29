@@ -61,12 +61,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>레거시 FML 라이브러리 서버</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>레거시 FML 라이브러리(Minecraft 1.5.2 및 이전 버전) 다운로드에 문제가 있는 경우 다른 서버로 설정할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -6830,32 +6830,32 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">FML 라이브러리를 확인하는 중...</translation>
+        <translation>FML 라이브러리를 확인하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">FML 라이브러리를 다운로드하는 중...</translation>
+        <translation>FML 라이브러리를 다운로드하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">FML 라이브러리를 인스턴스에 복사하는 중...</translation>
+        <translation>FML 라이브러리를 인스턴스에 복사하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">인스턴스 안에 FML 라이브러리 폴더를 생성하지 못하였습니다.</translation>
+        <translation>인스턴스 안에 FML 라이브러리 폴더를 생성하지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Forge/FML 라이브러리를 복사하지 못함: %1.</translation>
+        <translation>Forge/FML 라이브러리를 복사하지 못함: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6864,7 +6864,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">다음 파일을 다운로드하지 못함:
+        <translation>다음 파일을 다운로드하지 못함:
 %1
 
 이유:%2
