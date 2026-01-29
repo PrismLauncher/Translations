@@ -6522,7 +6522,7 @@ Reason:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="181"/>
         <source>Logging in with Microsoft account.</source>
         <translation>நுண்மென் கணக்கில் உள்நுழைக.</translation>
     </message>
@@ -6531,27 +6531,27 @@ Reason:
         <translation>கிடைத்தது </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="147"/>
         <source>Got MSA token</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="159"/>
         <source>Microsoft user authentication failed.</source>
         <translation>நுண்மென் பயனர் ஏற்பு தோல்வியடைந்தது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
         <source>Failed to refresh token.</source>
         <translation>கிள்ளாக்கை புதுப்பிக்கத் தவறிவிட்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="189"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation>நுண்மென் பயனர் ஏற்பு தோல்வியுற்றது - கிளையன்ட் அடையாளம் மாறிவிட்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="166"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="193"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
         <translation>நுண்மென் பயனர் ஏற்பு தோல்வியுற்றது - புதுப்பிப்பு கிள்ளாக்கு காலியாக உள்ளது.</translation>
     </message>

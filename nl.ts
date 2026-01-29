@@ -7454,27 +7454,27 @@ Reden:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="147"/>
         <source>Got MSA token</source>
         <translation>MSA-token opgehaald</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
         <source>Failed to refresh token.</source>
         <translation>Hernieuwen van het token gefaald.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="181"/>
         <source>Logging in with Microsoft account.</source>
         <translation>Aanmelden met Microsoftaccount.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="189"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation>Microsoft gebruikersauthenticatie mislukt - client-identificatie is veranderd.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="166"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="193"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
         <translation>Microsoft gebruikerauthenticatie gefaald - hernieuw token is leeg.</translation>
     </message>
@@ -7491,7 +7491,7 @@ Reden:
         <translation type="vanished">Microsoft gebruikersauthenticatie mislukt - gebruiker bestaat niet meer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="159"/>
         <source>Microsoft user authentication failed.</source>
         <translation>Microsoft gebruikersauthenticatie mislukt.</translation>
     </message>

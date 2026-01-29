@@ -7583,27 +7583,27 @@ Raison&#xa0;:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="147"/>
         <source>Got MSA token</source>
         <translation>Token MSA récupéré</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
         <source>Failed to refresh token.</source>
         <translation>Erreur lors de l&apos;actualisation du token.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="181"/>
         <source>Logging in with Microsoft account.</source>
         <translation>Connexion avec un compte Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="189"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation>L&apos;authentification Microsoft à échoué - l&apos;identification client a changé.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="166"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="193"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
         <translation>L&apos;authentification de l&apos;utilisateur Microsoft a échoué - le token de réactivation est vide.</translation>
     </message>
@@ -7620,7 +7620,7 @@ Raison&#xa0;:
         <translation type="vanished">Impossible d&apos;authentifier l&apos;utilisateur Microsoft, il n&apos;existe plus.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="159"/>
         <source>Microsoft user authentication failed.</source>
         <translation>Impossible d&apos;authentifier l&apos;utilisateur Microsoft.</translation>
     </message>

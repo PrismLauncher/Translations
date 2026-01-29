@@ -6444,7 +6444,7 @@ Cúis:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="181"/>
         <source>Logging in with Microsoft account.</source>
         <translation>Ag logáil isteach le cuntas Microsoft.</translation>
     </message>
@@ -6453,27 +6453,27 @@ Cúis:
         <translation>Fuair </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="147"/>
         <source>Got MSA token</source>
         <translation>Fuarthas comhartha MSA</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="159"/>
         <source>Microsoft user authentication failed.</source>
         <translation>Theip ar fhíordheimhniú úsáideora Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
         <source>Failed to refresh token.</source>
         <translation>Theip ar cheadchomhartha a athnú.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="189"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation>Theip ar fhíordheimhniú úsáideora Microsoft - athraíodh aitheantas an chliaint.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="166"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="193"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
         <translation>Theip ar fhíordheimhniú úsáideora Microsoft - tá an ceadchomhartha athnuachana folamh.</translation>
     </message>
