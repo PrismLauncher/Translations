@@ -4269,12 +4269,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Prism Launcher、PolyMC 或 MultiMC 匯出實例（ZIP）</translation>
+        <translation>- Prism Launcher、PolyMC 或 MultiMC 匯出實例 (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Technic 模組包（ZIP）</translation>
+        <translation>- Technic 模組包 (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -8123,7 +8123,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>CurseForge (zip)</source>
-        <translation>CurseForge（zip）</translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <source>Mod List</source>
