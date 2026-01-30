@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanha FML-kirjastojen palvelin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Voit asettaa tämän toiseen palvelimeen, jos sinulla on ongelmia vanhojen FML-kirjastojen (Minecraft 1.5.2 ja aiemmat) lataamisessa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="288"/>
         <source>Mod&amp;rinth</source>
-        <translation>Mod&amp;rinth</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="310"/>
@@ -80,12 +80,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="346"/>
         <source>&amp;CurseForge</source>
-        <translation>&amp;CurseForge</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="401"/>
         <source>&amp;Technic</source>
-        <translation>&amp;Technic</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -655,12 +655,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä &amp;Ylös</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä &amp;Alas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -1093,7 +1093,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
         <source>Mojang</source>
-        <translation>Mojang</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
@@ -1283,7 +1283,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Valmistellaan sisäänkirjautumista...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
@@ -1528,37 +1528,37 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse Offline-Nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Viesti etiketin paikkamerkki.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation type="unfinished">Käyttäjänimi</translation>
+        <translation>Käyttäjänimi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttäjänimi on kelvollinen vain, jos se on 3–16 merkkiä pitkä ja sisältää vain englanninkielisiä kirjaimia, numeroita ja alaviivoja. Virheellinen käyttäjänimi voi estää liittymisen palvelimille ja yksinpelimaailmoihin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Salli virheelliset käyttäjänimet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
-        <translation type="unfinished">Peruuta</translation>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1591,7 +1591,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Yritä käyttää automaattisesti muita palveluntarjoajia, jos valittu ei toimi.</translation>
+        <translation>Yritä käyttää automaattisesti muita palveluntarjoajia, jos valittu ei toimi</translation>
     </message>
 </context>
 <context>
@@ -1665,7 +1665,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>Suoritetaan %1-tehtävä(ä) (%2 %3:sta on suoritettu).</translation>
+        <translation>Suoritetaan %1 tehtävä(ä) (%2 / %3 on suoritettu)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
@@ -2132,27 +2132,27 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
         <source>NeoForge</source>
-        <translation>NeoForge</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation>Forge</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation>Fabric</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation>Quilt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <source>LiteLoader</source>
-        <translation>LiteLoader</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
@@ -2180,12 +2180,12 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="23"/>
         <source>Scanning files...</source>
-        <translation>Tiedostoja skannataan...</translation>
+        <translation>Skannataan tiedostoja...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="41"/>
         <source>Failed to scan source path.</source>
-        <translation>Lähdepolun skannaus epäonnistui.</translation>
+        <translation>Lähteen polun skannaaminen epäonnistui.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="54"/>
@@ -3148,7 +3148,7 @@ Oletko varma että haluat tehdä näin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
-        <translation>&amp;MCEdit</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
@@ -3175,7 +3175,7 @@ Oletko varma että haluat tehdä näin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
         <source>&amp;VisualVM</source>
-        <translation>&amp;VisualVM</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
@@ -3375,7 +3375,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huomautus: Monet uudemmat FTB-modipaketit ovat saatavilla myös CurseForge-palvelussa. Lisäksi, jos FTB-instanssisi eivät ole oletussijainnissa, valitse sijainti hakukentän vieressä olevasta painikkeesta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -3403,7 +3403,7 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="110"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="126"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4260,27 +4260,27 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="134"/>
         <source>NeoForge</source>
-        <translation>NeoForge</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
         <source>Forge</source>
-        <translation>Forge</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>Fabric</source>
-        <translation>Fabric</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Quilt</source>
-        <translation>Quilt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>LiteLoader</source>
-        <translation>LiteLoader</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="148"/>
@@ -4956,17 +4956,17 @@ Vahvista että enimmäismuistivaraus on alempi.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="282"/>
         <source>Mojang</source>
-        <translation>Mojang</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="284"/>
         <source>Adoptium</source>
-        <translation>Adoptium</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Azul Zulu</source>
-        <translation>Azul Zulu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="292"/>
@@ -5387,12 +5387,12 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>(-XX:PermSize)</source>
-        <translation>(-XX:PermSize)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="260"/>
         <source>(-Xmx)</source>
-        <translation>(-Xmx)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PermGen (Java 7 and earlier):</source>
@@ -5415,7 +5415,7 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="305"/>
         <source>(-Xms)</source>
-        <translation>(-Xms)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
@@ -5715,7 +5715,7 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Näyttää siltä, että käynnistys epäonnistui %1 yrityksen jälkeen. Yleensä tämä voidaan korjata kirjautumalla ulos ja kirjautumalla takaisin sisään Microsoft-tilillesi. Jos tämä ei auta, Minecraftin todennuspalveluissa voi olla häiriö tai alueellasi saatetaan tarvita VPN-yhteyttä. Haluatko jatkaa yrittämistä?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -5953,7 +5953,7 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Haetaan Minecraft käyttöoikeustunnusta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -5969,7 +5969,7 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft käyttöoikeustunnus haettu</translation>
     </message>
 </context>
 <context>
@@ -6527,32 +6527,32 @@ Luvan myöntäminen %1:lle Flatseal:illa on suositeltua.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Tarkistetaan FML-kirjastoja...</translation>
+        <translation>Tarkistetaan FML-kirjastoja...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Ladataan FML-kirjastoja...</translation>
+        <translation>Ladataan FML-kirjastoja...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
         <source>Aborted</source>
-        <translation type="unfinished">Keskeytetty</translation>
+        <translation>Keskeytetty</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Kopioidaan FML-kirjastoja peliversioon...</translation>
+        <translation>Kopioidaan FML-kirjastoja instanssiin...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">FML-kirjastokansion luonti peliversioon epäonnistui.</translation>
+        <translation>FML-kirjastokansion luonti instanssiin epäonnistui.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Forge/FML-kirjaston kopiointi epäonnistui: %1.</translation>
+        <translation>Forge/FML-kirjaston kopiointi epäonnistui: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6561,7 +6561,7 @@ Luvan myöntäminen %1:lle Flatseal:illa on suositeltua.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Seuraavien tiedostojen lataus epäonnistui:
+        <translation>Seuraavien tiedostojen lataus epäonnistui:
 %1
 
 Syy:%2
@@ -7039,7 +7039,7 @@ Syy:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei voitu lisätä:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7075,7 +7075,7 @@ Syy:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedoston %1 jäsentäminen epäonnistui</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -7131,7 +7131,7 @@ Syy:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSA-tunnus haettu</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7214,7 +7214,7 @@ Syy:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="147"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSA-tunnus haettu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
@@ -7687,12 +7687,12 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
         <source>Modrinth (mrpack)</source>
-        <translation>Modrinth (mrpack)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>CurseForge (zip)</source>
-        <translation>CurseForge (zip)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mod List</source>
@@ -8581,7 +8581,7 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1086"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
@@ -8765,7 +8765,7 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
         <source>Minecraft</source>
-        <translation>Minecraft</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
@@ -8810,7 +8810,7 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-profiili haettu</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
@@ -8869,7 +8869,7 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Perusversio tukee vain resoluutiota. Maksimoidun käyttäytymisen simuloimiseksi nykyinen toteutus arvioi näytön enimmäiskoon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
@@ -9048,8 +9048,8 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation>Sallii datapakettien asentamisen kaikkiin maailmoihin, jos sitä tukeva modi on asennettu.
-SInun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin nettisivulta.</translation>
+        <translation>Sallii tietopakettien asentamisen kaikkiin maailmoihin, jos sitä tukeva modi on asennettu.
+Sinun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin nettisivulta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
@@ -9059,7 +9059,7 @@ SInun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation>datapaketit</translation>
+        <translation>tietopaketit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
@@ -9084,32 +9084,32 @@ SInun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="475"/>
         <source>Override Mod Download &amp;Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Korvaa Modin Lataus &amp;Lataajat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation>NeoForge</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation>Forge</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation>Fabric</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation>Quilt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation>LiteLoader</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
@@ -9236,7 +9236,7 @@ SInun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="551"/>
         <source>Select Global Data Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse Globaalien Datapakettien Kansio</translation>
     </message>
 </context>
 <context>
@@ -9304,22 +9304,22 @@ SInun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation>NeoForge</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation>Forge</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation>Fabric</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation>Quilt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
@@ -9329,7 +9329,7 @@ SInun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
-        <translation>LiteLoader</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
@@ -9344,7 +9344,7 @@ SInun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanha Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
@@ -9809,12 +9809,12 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="394"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod-lataaja puuttuu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="395"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinun täytyy asentaa yhteensopiva mod-lataaja ennen modien asentamista. Haluaisitko asentaa sen nyt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
@@ -10382,7 +10382,7 @@ Päivitä %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
         <source>Modrinth</source>
-        <translation>Modrinth</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10470,7 +10470,7 @@ Päivitä %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
         <source>uid</source>
-        <translation>uid</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
@@ -10684,7 +10684,7 @@ Päivitä %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Vieritä alas loppuun asti</translation>
+        <translation>Vieritä alas loppuun asti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
@@ -10714,12 +10714,12 @@ Päivitä %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <source>Keep updating</source>
-        <translation type="unfinished">Jatkuva päivitys</translation>
+        <translation>Jatkuva päivitys</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation type="unfinished">Rivitä</translation>
+        <translation>Rivitä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
@@ -10739,7 +10739,7 @@ Päivitä %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Lähetä loki asetuksissa konfiguroituun paste-palveluun</translation>
+        <translation>Lähetä loki asetuksissa konfiguroituun paste-palveluun</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
@@ -10759,7 +10759,7 @@ Päivitä %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished">Hae</translation>
+        <translation>Hae</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -10922,7 +10922,7 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
@@ -11004,7 +11004,7 @@ Virheviesti: %3</translation>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation>pixmap-välimuistin väistöt häätöihin verrattuna tapahtuivat liian nopeasti, nostetaan välimuistin kokoa. Uusi koko:</translation>
+        <translation>pixmap-välimuistin ohitukset häätöihin tapahtuivat liian nopeasti, kasvatetaan välimuistin kokoa</translation>
     </message>
 </context>
 <context>
@@ -11983,7 +11983,7 @@ Virhe viesti: %1</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation>Ei voitu jäsentää %1 JSON:ina: %2</translation>
+        <translation>Ei voitu jäsentää %1 json:ina: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -12172,7 +12172,7 @@ Tämä viesti näytetään kunnes poistat tämän JVM-argumenteista.</translatio
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Määritetty Java-suoritustiedosto ei toimi.&lt;br /&gt;Paina &apos;Tunnista&apos;, tai määritä polku Java-suoritustiedostolle.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -12313,7 +12313,7 @@ HUOM: Vahvista, että olet luonut varmuuskopion tärkeistä pelipakettitiedoista
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
         <source>data pack</source>
-        <translation>datapaketti</translation>
+        <translation>Tietopaketti</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
@@ -12466,19 +12466,19 @@ HUOM: Vahvista, että olet luonut varmuuskopion tärkeistä pelipakettitiedoista
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Valmis</translation>
+        <translation>Valmis</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="293"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Työstetään</translation>
+        <translation>Työstetään</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
@@ -12490,25 +12490,25 @@ HUOM: Vahvista, että olet luonut varmuuskopion tärkeistä pelipakettitiedoista
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Vanhentunut</translation>
+        <translation>Vanhentunut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="299"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Pois käytöstä</translation>
+        <translation>Pois käytöstä</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Poissa</translation>
+        <translation>Poissa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="303"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Tuntematon</translation>
+        <translation>Tuntematon</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
@@ -12555,7 +12555,7 @@ Uusi nimi: %2</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
         <source>There are linked instances</source>
-        <translation type="unfinished">On olemassa linkitettyjä pelipaketteja</translation>
+        <translation>On olemassa linkitettyjä instansseja</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
@@ -12596,17 +12596,17 @@ Haluatko jatkaa?</numerusform>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished">virheellinen tai keskeneräinen deflate data</translation>
+        <translation>virheelliset tai puutteelliset deflate-tiedot</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
         <source>out of memory</source>
-        <translation type="unfinished">muisti loppu</translation>
+        <translation>muisti loppu</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
         <source>zlib version mismatch!</source>
-        <translation type="unfinished">zlib versio epäsovinnaisuus!</translation>
+        <translation>zlib-version yhteensopimattomuus!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="65"/>
@@ -12627,7 +12627,7 @@ Haluatko jatkaa?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Luo pikakuvake</translation>
+        <translation>Luo Pikakuvake</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
@@ -12643,7 +12643,7 @@ Haluatko jatkaa?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Käynnistin ajetaan väärin konfiguroidussa AppImage:ssa? ($APPIMAGE ympäristömuuttuja puuttuu)</translation>
+        <translation>Käynnistin toimii väärin konfiguroituna AppImagena ($APPIMAGE-ympäristömuuttuja puuttuu)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -12656,7 +12656,7 @@ Haluatko jatkaa?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">Ei tuettu järjestelmälläsi!</translation>
+        <translation>Ei tuettu alustallasi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
@@ -12686,92 +12686,92 @@ Haluatko jatkaa?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Luotu pikakuvake tähän %1 sinun sovelluskansioon!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Työpöytäkohteet</translation>
+        <translation>Työpöydän Merkinnät</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
         <source>Created a shortcut to this %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Luotu pikakuvake tähän %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="111"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">Verkkovirhe: %1</translation>
+        <translation>Verkkovirhe: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="116"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished">Virhe: %1 antoi ei-odotetun tilakoodin %2 %3</translation>
+        <translation>Virhe: %1 palautti odottamattoman tilakoodin %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hastebin-palvelimen vastausta ei voitu jäsentää: odotettiin JSONia, mutta saatiin virheellinen vastaus. Virhe: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="140"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="167"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Virhe: %1 antoi vääristyneen vastauksen sisällön</translation>
+        <translation>Virhe: %1 palautti virheellisen vastausrungon</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mclogs-palvelimen vastausta ei voitu jäsentää: odotettiin JSONia, mutta saatiin virheellinen vastaus. Virhe: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Virhe: %1 palautti virheen: %2</translation>
+        <translation>Virhe: %1 palautti virheen: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>PasteGG-palvelimen vastausta ei voitu jäsentää: odotettiin JSONia, mutta saatiin virheellinen vastaus. Virhe: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Virhe: %1 palautti virhekoodin: %2
-Virheviesti: %3</translation>
+        <translation>Virhe: %1 palautti virhekoodin: %2
+Virheilmoitus: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen polku VisualVM:ään</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tietopaketit</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="132"/>
         <source> for %1</source>
-        <translation type="unfinished"></translation>
+        <translation> %1:lle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
-        <translation type="unfinished">%1 kehittäjät</translation>
+        <translation>%1 Kehittäjät</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>MultiMC-kehittäjät</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation>Erityiset kiitokset</translation>
     </message>
 </context>
 <context>
@@ -12788,7 +12788,7 @@ Virheviesti: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="176"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Merkkijono, joka liitetään tietopaketin latausvalintaikkunan otsikkoon (”Lataa ” + resourcesString())</translation>
     </message>
 </context>
 <context>
@@ -12797,13 +12797,13 @@ Virheviesti: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tieto paketit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">datapaketti</translation>
+        <translation>Tietopaketti</translation>
     </message>
 </context>
 <context>
@@ -13062,8 +13062,8 @@ Päivitä %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="431"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation type="unfinished">Versioita &apos;%1&apos; ei ole saatavilla.
-Julkaisija on todennäköisesti estänyt kolmannen osapuolen launcherit.</translation>
+        <translation>%1:lle ei ole saatavilla versioita.
+Tekijä on todennäköisesti estänyt kolmansien osapuolten käynnistysohjelmat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="538"/>
@@ -13163,7 +13163,7 @@ Julkaisija on todennäköisesti estänyt kolmannen osapuolen launcherit.</transl
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader-konfiguraation uudelleennimeäminen ‘%1’ nimestä ‘%2’ epäonnistui</translation>
     </message>
 </context>
 <context>
@@ -13250,7 +13250,7 @@ Oletko varma että haluat tehdä näin?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="685"/>
         <source>Override Columns Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylikirjoita Sarakkeiden Näkyvyys</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="698"/>
@@ -13488,7 +13488,7 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurssipaketit</translation>
     </message>
 </context>
 <context>
@@ -14003,7 +14003,7 @@ Tällä hetkellä asennettu versio: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Online</source>
-        <translation type="unfinished">Yhdistetty</translation>
+        <translation>Online</translation>
     </message>
     <message>
         <source>Latency</source>
@@ -14075,7 +14075,7 @@ Tällä hetkellä asennettu versio: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
         <source>Refresh</source>
-        <translation type="unfinished">Päivitä</translation>
+        <translation>Päivitä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
@@ -14137,12 +14137,12 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaderpackin metatietojen siirto .index-tiedostosta epäonnistui</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanhan .index-kansion poistaminen epäonnistui</translation>
     </message>
 </context>
 <context>
@@ -14272,7 +14272,7 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader-Paketit</translation>
     </message>
 </context>
 <context>
@@ -14348,7 +14348,7 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished"></translation>
+        <translation>Esikatsele Elytra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
@@ -14495,7 +14495,7 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="409"/>
         <source>Invalid url</source>
-        <translation>Virheellinen URL</translation>
+        <translation>Virheellinen url</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="413"/>
@@ -15143,7 +15143,7 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse käytettävä teema ja kuvakkeet</translation>
     </message>
 </context>
 <context>
@@ -15549,7 +15549,7 @@ Vaihda Java-versio tälle pelipaketille johonkin seuraavista:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished">Hae</translation>
+        <translation>Hae</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
@@ -16043,12 +16043,12 @@ Lisääthän Mojang- tai Minecraft-tilisi.</translation>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="8"/>
         <source>Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher-lokit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
         <source>View Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä Launcher-lokit</translation>
     </message>
 </context>
 <context>
@@ -16207,12 +16207,12 @@ Kanoninen polku: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Datapaketit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage data packs inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hallitse datapaketteja maailmassa.</translation>
     </message>
     <message>
         <source>Datapacks</source>
@@ -16320,12 +16320,12 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="223"/>
         <source>Manage Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Hallitse Datapaketteja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="230"/>
         <source>Data packs for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Datapaketit %1:lle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="433"/>
@@ -16400,12 +16400,12 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tällä Microsoft-tilillä ei ole Xbox Live -profiilia. Osta peli ensin palvelusta %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live ei ole käytettävissä maassasi. Sinut on estetty.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -16489,12 +16489,12 @@ Säädä tilisi ohjeiden mukaan osoitteessa %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox-käyttäjän todennus epäonnistui: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox-käyttäjän todennusvastetta ei voitu tulkita.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
