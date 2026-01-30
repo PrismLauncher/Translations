@@ -2546,7 +2546,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>由於部分程式庫缺少或尚未下載，無法啟動這個實例。請確保網路連線正常，並嘗試以線上模式重新啟動。</translation>
     </message>
 </context>
 <context>
