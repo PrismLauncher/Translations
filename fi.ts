@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Huom: haluat luultavasti muuttaa tai tyhjentää URL pohjan, kun olet muuttanut paste-palvelun tyyppiä.</translation>
+        <translation>Huomautus: haluat luultavasti muuttaa tai tyhjentää pohja URL -osoitteen, kun olet muuttanut paste-palvelun tyyppiä.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
