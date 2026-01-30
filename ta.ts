@@ -2253,6 +2253,14 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>EnsureOfflineLibraries</name>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
+        <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EntitlementsStep</name>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
@@ -3154,7 +3162,7 @@ Please try again.</source>
         <translation>கோப்புகளை நகலெடுக்கும் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
+        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="50"/>
         <source>Copying settings...</source>
         <translation>அமைப்புகளை நகலெடுக்கும் ...</translation>
     </message>
@@ -3881,12 +3889,12 @@ Please try again.</source>
         <translation>உதாரணத்தை நகலெடுக்கும் %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
         <source>Instance folder copy failed.</source>
         <translation>நிகழ்வு கோப்புறை நகல் தோல்வியடைந்தது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>நிகழ்வு கோப்புறை நகல் நிறுத்தப்பட்டுள்ளது.</translation>
     </message>
@@ -6427,27 +6435,27 @@ Reason:
         <translation>சாதன ஏற்பு தோல்வியடைந்தது: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="123"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
         <source>Failed to retrieve device authorization</source>
         <translation>சாதன அங்கீகாரத்தை மீட்டெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>சாதன ஏற்பு தோல்வியுற்றது: தேவையான புலங்கள் இல்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
         <source>Task aborted</source>
         <translation>பணி கைவிடப்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="260"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
         <source>Device Access failed: %1</source>
         <translation>சாதன அணுகல் தோல்வியடைந்தது: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got MSA token</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7629,77 +7637,77 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>&amp;Launch</source>
         <translation>&amp; ஏவுதல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
         <source>Launch &amp;Offline</source>
         <translation>துவக்க &amp; இணைப்பில்லாத</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+shift+o</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>Launch &amp;Demo</source>
         <translation>துவக்க &amp; டெமோ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+alt+o</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="319"/>
         <source>Profilers</source>
         <translation>சுயவிவரங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="327"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="329"/>
         <source>&amp;No Profiler</source>
         <translation>&amp; விவரக்குறிப்பு இல்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1033"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;அமர்வு ஐடி&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1036"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;அணுகல் டோக்கன்&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;சுயவிவர ஐடி&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
         <source>broken</source>
         <translation>உடைந்த</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1086"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
         <source>, last played on %1 for %2</source>
         <translation>, கடைசியாக %2 க்கு %1 இல் விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1098"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>, total played for %1</source>
         <translation>, மொத்தம் %1 க்கு விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
         <source>, has crashed.</source>
         <translation>, செயலிழந்தது.</translation>
     </message>
@@ -8022,37 +8030,37 @@ This can be updated only using a file in %1 format
         <translation type="obsolete">விளையாட்டு சாளரம் முடிந்ததும் துவக்கத்தை விட்டு வெளியேறவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="578"/>
         <source>Java</source>
         <translation>சாவா</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="602"/>
         <source>Tweaks</source>
         <translation>மாற்றங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="588"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="623"/>
         <source>&amp;Legacy Tweaks</source>
         <translation>&amp; மரபு மாற்றங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="600"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="635"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; இனி இயங்காத பழைய நிகழ்நிலை சேவைகளின் பயன்பாட்டைப் பின்பற்றுங்கள். &lt;/p&gt; &lt;p&gt; தற்போதைய திருத்தங்கள் பின்வருமாறு: தோல் மற்றும் நிகழ்நிலை பயன்முறை உதவி.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="638"/>
         <source>Enable online fixes (experimental)</source>
         <translation>நிகழ்நிலை திருத்தங்களை இயக்கவும் (சோதனை)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="651"/>
         <source>&amp;Native Libraries</source>
         <translation>&amp; சொந்த நூலகங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Use system installation of OpenAL</source>
         <translation>ஓபனலின் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
     </message>
@@ -8061,7 +8069,7 @@ This can be updated only using a file in %1 format
         <translation type="obsolete">&amp; GLFW நூலக பாதை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="709"/>
         <source>Use system installation of GLFW</source>
         <translation>GLFW இன் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
     </message>
@@ -8182,57 +8190,82 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>லிட்டிலோடர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
+        <source>Babric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
+        <source>BTA (Babric)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
+        <source>Legacy Fabric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <source>Ornithe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
+        <source>Rift</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
         <source>&amp;GLFW library path:</source>
         <translation>&amp; GLFW நூலக பாதை:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="692"/>
         <source>&amp;OpenAL library path:</source>
         <translation>&amp; திறந்த நூலக பாதை:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
         <source>&amp;Performance</source>
         <translation>&amp; செயல்திறன்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="748"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; கேமிங் செயல்திறனை மேம்படுத்த, ஃபெரல் இன்டராக்டிவ் கேம்மோடை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="751"/>
         <source>Enable Feral GameMode</source>
         <translation>ஃபெரல் கேம்மோடை இயக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; மங்கோஊட்டின் மேம்பட்ட செயல்திறன் மேலடுக்கை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="726"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="761"/>
         <source>Enable MangoHud</source>
         <translation>மங்கோஊட்டை இயக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="733"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="768"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; முதன்மை GPU க்கு பதிலாக தனித்துவமான GPU ஐப் பயன்படுத்தவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="771"/>
         <source>Use discrete GPU</source>
         <translation>தனித்துவமான GPU ஐப் பயன்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="778"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
         <translation>வல்கனின் மேல் ஓபன்ச்லை செயல்படுத்தும் மெசா ஓபன்சிஎல் டிரைவரான சின்க் பயன்படுத்தவும். நிலைமையைப் பொறுத்து செயல்திறன் மாறுபடலாம். குறிப்பு: பொருத்தமான வல்கன் இயக்கி எதுவும் காணப்படவில்லை என்றால், மென்பொருள் வழங்குதல் பயன்படுத்தப்படும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="746"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="781"/>
         <source>Use Zink</source>
         <translation>சின்க் பயன்படுத்தவும்</translation>
     </message>
@@ -8251,12 +8284,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation type="obsolete">சிங்கிள் பிளேயர் உலகம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="774"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="809"/>
         <source>Custom Commands</source>
         <translation>தனிப்பயன் கட்டளைகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="784"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="819"/>
         <source>Environment Variables</source>
         <translation>சுற்றுச்சூழல் மாறிகள்</translation>
     </message>
@@ -8292,7 +8325,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>%1 நூலகக் கோப்புக்கான பாதை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="551"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="565"/>
         <source>Select Global Data Packs Folder</source>
         <translation>உலகளாவிய டேட்டா பேக்குகள் கோப்புறையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>

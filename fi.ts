@@ -2473,6 +2473,14 @@ Oletko varma?</translation>
     </message>
 </context>
 <context>
+    <name>EnsureOfflineLibraries</name>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
+        <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EntitlementsStep</name>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
@@ -3414,7 +3422,7 @@ Yritä uudelleen.</translation>
         <translation>Kopioidaan tiedostoja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
+        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="50"/>
         <source>Copying settings...</source>
         <translation>Kopioidaan asetuksia...</translation>
     </message>
@@ -4315,12 +4323,12 @@ Yritä uudelleen.</translation>
         <translation>Kopioidaan pelipakettia %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
         <source>Instance folder copy failed.</source>
         <translation>Pelipakettikansion kopiointi epäonnistui.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Pelipakettikansion kopiointi keskeytetty.</translation>
     </message>
@@ -7109,27 +7117,27 @@ Syy:
         <translation>Laitevaltuutus epäonnistui: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="123"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
         <source>Failed to retrieve device authorization</source>
         <translation>Laitevaltuutuksen hankkiminen epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>Laitevaltuutus epäonnistui: vaaditut kentät puuttuvat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
         <source>Task aborted</source>
         <translation>Tehtävä peruttu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="260"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
         <source>Device Access failed: %1</source>
         <translation>Laitepääsy epäonnistui: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got MSA token</source>
         <translation>MSA-tunnus haettu</translation>
     </message>
@@ -8520,47 +8528,47 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>&amp;Launch</source>
         <translation>&amp;Käynnistä</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
         <source>Launch &amp;Offline</source>
         <translation>Käynnistä &amp;offline-tilassa</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>Launch &amp;Demo</source>
         <translation>Käynnistä &amp;demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="319"/>
         <source>Profilers</source>
         <translation>Profiloijat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="327"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="329"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Ei profiloijaa</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1033"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ISTUNTOTUNNUS&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1036"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;PÄÄSYTUNNUS&gt;</translation>
     </message>
@@ -8569,22 +8577,22 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
         <translation type="vanished">&lt;ASIAKASTODISTUS&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFIILITUNNUS&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
         <source>broken</source>
         <translation>viallinen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1086"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>Minecraft %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
         <source>, last played on %1 for %2</source>
         <translation>, viimeksi pelattu %1 %2 ajan</translation>
     </message>
@@ -8597,12 +8605,12 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
         <translation type="vanished">, viimeksi pelattu %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1098"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>, total played for %1</source>
         <translation>, pelattu yhteensä %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
         <source>, has crashed.</source>
         <translation>, on kaatunut.</translation>
     </message>
@@ -8952,37 +8960,37 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
         <translation type="vanished">Lopeta käynnistin, kun peli suljetaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="578"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="602"/>
         <source>Tweaks</source>
         <translation>Viritykset</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="588"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="623"/>
         <source>&amp;Legacy Tweaks</source>
         <translation>&amp;Vanhojen versioiden asetukset</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="600"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="635"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuloi vanhojen online-palveluiden käyttöä, jotka eivät ole enää toiminnassa.&lt;/p&gt;&lt;p&gt;Nykyiset korjaukset sisältävät: skinien ja online-tilan tuki.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="638"/>
         <source>Enable online fixes (experimental)</source>
         <translation>Ota käyttöön online-korjaukset (kokeellinen)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="651"/>
         <source>&amp;Native Libraries</source>
         <translation>&amp;Natiivit kirjastot</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Use system installation of OpenAL</source>
         <translation>Käytä järjestelmän OpenAL-asennusta</translation>
     </message>
@@ -8991,7 +8999,7 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
         <translation type="vanished">&amp;GLFW-kirjaston polku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="709"/>
         <source>Use system installation of GLFW</source>
         <translation>Käytä järjestelmän GLFW-asennusta</translation>
     </message>
@@ -9112,57 +9120,82 @@ Sinun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
         <translation type="unfinished">LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
+        <source>Babric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
+        <source>BTA (Babric)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
+        <source>Legacy Fabric</source>
+        <translation type="unfinished">Vanha Fabric</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <source>Ornithe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
+        <source>Rift</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
         <source>&amp;GLFW library path:</source>
         <translation>&amp;GLFW-kirjaston polku:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="692"/>
         <source>&amp;OpenAL library path:</source>
         <translation>&amp;OpenAL-kirjaston polku:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
         <source>&amp;Performance</source>
         <translation>&amp;Suorituskyky</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="748"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä Feral Interactiven GameModea, joka voi mahdollisesti parantaa pelin suorituskykyä.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="751"/>
         <source>Enable Feral GameMode</source>
         <translation>Käytä Feral GameModea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä MangoHudin edistynyttä suorituskyvyn peittokuvaa.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="726"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="761"/>
         <source>Enable MangoHud</source>
         <translation>Käytä MangoHudia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="733"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="768"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä erillistä näytönohjainta ensisijaisen näytönohjaimen sijasta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="771"/>
         <source>Use discrete GPU</source>
         <translation>Käytä erillistä näytönohjainta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="778"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
         <translation>Käytä Zink:iä, Mesa OpenGL ajuria joka implementoi OpenGL:n Vulkan:in päällä. Suorituskyky voi vaihdella tilanteesta riippuen. Huom: Jos sopivaa Vulkan-ajuria ei löydy, käytetään ohjelmistohahmonnusta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="746"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="781"/>
         <source>Use Zink</source>
         <translation>Käytä Zink:iä</translation>
     </message>
@@ -9193,12 +9226,12 @@ Sinun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
         <translation type="vanished">Yksinpelimaailma</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="774"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="809"/>
         <source>Custom Commands</source>
         <translation>Omat komennot</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="784"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="819"/>
         <source>Environment Variables</source>
         <translation>Ympäristömuuttujat</translation>
     </message>
@@ -9234,7 +9267,7 @@ Sinun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
         <translation>%1-kirjaston polku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="551"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="565"/>
         <source>Select Global Data Packs Folder</source>
         <translation>Valitse Globaalien Datapakettien Kansio</translation>
     </message>

@@ -2562,6 +2562,14 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>EnsureOfflineLibraries</name>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
+        <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EntitlementsStep</name>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
@@ -3555,7 +3563,7 @@ Please try again.</source>
         <translation>Копирование файлов…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
+        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="50"/>
         <source>Copying settings...</source>
         <translation>Копирование параметров…</translation>
     </message>
@@ -4535,12 +4543,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Копирование экземпляра %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
         <source>Instance folder copy failed.</source>
         <translation>Не удалось скопировать папку экземпляра.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Копирование папки экземпляра было отменено.</translation>
     </message>
@@ -7516,27 +7524,27 @@ Reason:
         <translation>Авторизация устройства не удалась: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="123"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
         <source>Failed to retrieve device authorization</source>
         <translation>Не удалось получить авторизацию устройства</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>Авторизация устройства не удалась: отсутствуют необходимые значения</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
         <source>Task aborted</source>
         <translation>Задача прервана</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="260"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
         <source>Device Access failed: %1</source>
         <translation>Ошибка доступа к устройству: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got MSA token</source>
         <translation>Получен токен MSA</translation>
     </message>
@@ -9173,47 +9181,47 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>&amp;Launch</source>
         <translation>&amp;Запустить</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
         <source>Launch &amp;Offline</source>
         <translation>Запустить &amp;автономно</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>Launch &amp;Demo</source>
         <translation>Запустить &amp;демо-версию</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="319"/>
         <source>Profilers</source>
         <translation>Профилировщики</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="327"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="329"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Без профилировщика</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1033"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID СЕССИИ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1036"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;КЛЮЧ ДОСТУПА&gt;</translation>
     </message>
@@ -9222,22 +9230,22 @@ This can be updated only using a file in %1 format
         <translation type="vanished">&lt;КЛЮЧ КЛИЕНТА&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID ПРОФИЛЯ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
         <source>broken</source>
         <translation>повреждён</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1086"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
         <source>, last played on %1 for %2</source>
         <translation>, в последний раз играли %1 в течение %2</translation>
     </message>
@@ -9250,12 +9258,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">, %1 за последнее время</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1098"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>, total played for %1</source>
         <translation>, общее время игры %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
         <source>, has crashed.</source>
         <translation>, аварийное завершение.</translation>
     </message>
@@ -9633,37 +9641,37 @@ This can be updated only using a file in %1 format
         <translation type="vanished">Закрыть лаунчер после закрытия окна игры</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="578"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="602"/>
         <source>Tweaks</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="588"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="623"/>
         <source>&amp;Legacy Tweaks</source>
         <translation>Устаревшие настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="600"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="635"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Эмуляция использования старых онлайн-сервисов, которые больше не работают.&lt;/p&gt;&lt;p&gt;Текущие исправления включают: поддержку скинов и онлайн-режима.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="638"/>
         <source>Enable online fixes (experimental)</source>
         <translation>Включить онлайн-исправления (экспериментально)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="651"/>
         <source>&amp;Native Libraries</source>
         <translation>Нативные библиотеки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Use system installation of OpenAL</source>
         <translation>Использовать системную установку OpenAL</translation>
     </message>
@@ -9672,7 +9680,7 @@ This can be updated only using a file in %1 format
         <translation type="vanished">Путь до библиотеки GLFW</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="709"/>
         <source>Use system installation of GLFW</source>
         <translation>Использовать системную установку GLFW</translation>
     </message>
@@ -9793,57 +9801,82 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
+        <source>Babric</source>
+        <translation type="unfinished">Babric</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
+        <source>BTA (Babric)</source>
+        <translation type="unfinished">BTA (Babric)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
+        <source>Legacy Fabric</source>
+        <translation type="unfinished">Legacy Fabric</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <source>Ornithe</source>
+        <translation type="unfinished">Ornithe</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
+        <source>Rift</source>
+        <translation type="unfinished">Rift</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
         <source>&amp;GLFW library path:</source>
         <translation>Путь к библиотеке &amp;GLFW:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="692"/>
         <source>&amp;OpenAL library path:</source>
         <translation>Путь к библиотеке &amp;OpenAL:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
         <source>&amp;Performance</source>
         <translation>&amp;Производительность</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="748"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Включить GameMode от Feral Interactive для потенциального улучшения игровой производительности.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="751"/>
         <source>Enable Feral GameMode</source>
         <translation>Включить GameMode от Feral</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Включить улучшенный оверлей производительности MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="726"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="761"/>
         <source>Enable MangoHud</source>
         <translation>Включить MangoHud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="733"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="768"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Использовать дискретную видеокарту вместо основной.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="771"/>
         <source>Use discrete GPU</source>
         <translation>Использовать дискретную видеокарту</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="778"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
         <translation>Использовать Zink, драйвер Mesa OpenGL, который реализует OpenGL поверх Vulkan. Производительность может варьироваться в зависимости от ситуации. Примечание: если подходящий драйвер Vulkan не найден, будет использоваться программный рендеринг.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="746"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="781"/>
         <source>Use Zink</source>
         <translation>Использовать Zink</translation>
     </message>
@@ -9874,12 +9907,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation type="vanished">Одиночный мир</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="774"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="809"/>
         <source>Custom Commands</source>
         <translation>Пользовательские команды</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="784"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="819"/>
         <source>Environment Variables</source>
         <translation>Переменные окружения</translation>
     </message>
@@ -9915,7 +9948,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>Путь к файлу библиотеки %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="551"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="565"/>
         <source>Select Global Data Packs Folder</source>
         <translation>Выберите папку глобального набора данных</translation>
     </message>

@@ -2481,6 +2481,14 @@ Vols continuar?</translation>
     </message>
 </context>
 <context>
+    <name>EnsureOfflineLibraries</name>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
+        <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EntitlementsStep</name>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
@@ -3421,7 +3429,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
         <translation>Copiant arxius...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
+        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="50"/>
         <source>Copying settings...</source>
         <translation>Copiant configuració...</translation>
     </message>
@@ -4305,12 +4313,12 @@ Si us plau, intenta-ho una altra vegada.</translation>
         <translation>Copiant la instància %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
         <source>Instance folder copy failed.</source>
         <translation>La còpia de la carpeta de la instància ha fallat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>La còpia de l&apos;arxiu de la instància ha estat avortada.</translation>
     </message>
@@ -7125,27 +7133,27 @@ Motiu:
         <translation>No s&apos;ha pogut autoritzar el dispositiu: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="123"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
         <source>Failed to retrieve device authorization</source>
         <translation>No s&apos;ha pogut obtenir l&apos;autorització del dispositiu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>No s&apos;ha pogut autoritzar el dispositiu: falten camps obligatoris</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
         <source>Task aborted</source>
         <translation type="unfinished">Tasca avortada</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="260"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
         <source>Device Access failed: %1</source>
         <translation>No s&apos;ha pogut accedir al dispositiu: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got MSA token</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8626,47 +8634,47 @@ Només pots actualitzar-lo amb un arxiu en format %1
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>&amp;Launch</source>
         <translation type="unfinished">&amp;Llençar</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
         <source>Launch &amp;Offline</source>
         <translation type="unfinished">Llençar fora de &amp;línia</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>Ctrl+Shift+O</source>
         <translation type="unfinished">Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>Launch &amp;Demo</source>
         <translation>Llançar &amp;mode demostració</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
         <source>Ctrl+Alt+O</source>
         <translation type="unfinished">Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="319"/>
         <source>Profilers</source>
         <translation type="unfinished">Perfiladors</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="327"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="329"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Sense analitzador</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1033"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1036"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;CLAU D&apos;ACCÉS&gt;</translation>
     </message>
@@ -8675,22 +8683,22 @@ Només pots actualitzar-lo amb un arxiu en format %1
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
         <source>broken</source>
         <translation>trencat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1086"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>Minecraft %1</source>
         <translation type="unfinished">Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
         <source>, last played on %1 for %2</source>
         <translation>, jugat per darrer cop el %1 durant %2</translation>
     </message>
@@ -8703,12 +8711,12 @@ Només pots actualitzar-lo amb un arxiu en format %1
         <translation type="vanished">, jugat per últim cop durant %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1098"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>, total played for %1</source>
         <translation>, jugat en total durant %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
         <source>, has crashed.</source>
         <translation>, ha fallat.</translation>
     </message>
@@ -9049,42 +9057,42 @@ Només pots actualitzar-lo amb un arxiu en format %1
         <translation type="obsolete">Sortir del llançador quan la finestra del joc es tanca</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="578"/>
         <source>Java</source>
         <translation type="unfinished">Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="602"/>
         <source>Tweaks</source>
         <translation>Modificacions</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="588"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="623"/>
         <source>&amp;Legacy Tweaks</source>
         <translation>Modificacions &amp;heretades</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="600"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="635"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula l&apos;ús de serveis en línia antics que ja no es troben operatius.&lt;/p&gt;&lt;p&gt;Les correccions inclouen: aspectes i compatibilitat amb el mode en línia.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="638"/>
         <source>Enable online fixes (experimental)</source>
         <translation type="unfinished">Activa les correccions en línia (experimental)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="651"/>
         <source>&amp;Native Libraries</source>
         <translation>Biblioteques &amp;natives</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Use system installation of OpenAL</source>
         <translation type="unfinished">Utilitza la instal·lació de OpenAL del sistema</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="709"/>
         <source>Use system installation of GLFW</source>
         <translation type="unfinished">Utilitza la instal·lació de GLFW del sistema</translation>
     </message>
@@ -9206,57 +9214,82 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
         <translation type="unfinished">LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
+        <source>Babric</source>
+        <translation type="unfinished">Babric</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
+        <source>BTA (Babric)</source>
+        <translation type="unfinished">BTA (Babric)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
+        <source>Legacy Fabric</source>
+        <translation type="unfinished">Fabric heretat</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <source>Ornithe</source>
+        <translation type="unfinished">Ornithe</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
+        <source>Rift</source>
+        <translation type="unfinished">Rift</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
         <source>&amp;GLFW library path:</source>
         <translation>Ruta de la biblioteca &amp;GLFW:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="692"/>
         <source>&amp;OpenAL library path:</source>
         <translation>Ruta de la biblioteca &amp;OpenAL:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
         <source>&amp;Performance</source>
         <translation>&amp;Rendiment</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="748"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activa GameMode de Feral Interactive per una possible millora del rendiment dels jocs.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="751"/>
         <source>Enable Feral GameMode</source>
         <translation type="unfinished">Activar GameMode de Feral</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activa la interfície de rendiment avançat de MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="726"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="761"/>
         <source>Enable MangoHud</source>
         <translation type="unfinished">Activa MangoHud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="733"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="768"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Utilitza la GPU dedicada en comptes de la GPU integrada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="771"/>
         <source>Use discrete GPU</source>
         <translation type="unfinished">Utilitzar GPU dedicada</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="778"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
         <translation type="unfinished">Utilitza Zink, un controlador de Mesa OpenGL que implementa OpenGL per sobre de Vulkan. El rendiment pot variar depenent de la situació. Nota: si no es troba cap controlador Vulkan apte, s&apos;utilitzarà el renderitzat per programari.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="746"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="781"/>
         <source>Use Zink</source>
         <translation type="unfinished">Utilitza Zink</translation>
     </message>
@@ -9271,12 +9304,12 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
         <translation type="unfinished">Adreça del servidor:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="774"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="809"/>
         <source>Custom Commands</source>
         <translation type="unfinished">Comandaments personalitzats</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="784"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="819"/>
         <source>Environment Variables</source>
         <translation type="unfinished">Variables d&apos;entorn</translation>
     </message>
@@ -9312,7 +9345,7 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
         <translation type="unfinished">Ruta a l&apos;arxiu de la biblioteca %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="551"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="565"/>
         <source>Select Global Data Packs Folder</source>
         <translation>Escull la carpeta global de paquets de dades</translation>
     </message>
