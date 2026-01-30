@@ -2541,7 +2541,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuto instanci nelze spustit, protože některé knihovny chybí nebo ještě nebyly staženy. Zkuste to prosím znovu v online režimu s funkčním připojením k internetu</translation>
     </message>
 </context>
 <context>
@@ -9692,27 +9692,27 @@ Nejspíše budete muset změnit cestu – pro více informací viz web modifikac
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
         <source>Babric</source>
-        <translation type="unfinished">Babric</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">BTA (Babric)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Původní Fabric</translation>
+        <translation>Původní Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
         <source>Rift</source>
-        <translation type="unfinished">Rift</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
