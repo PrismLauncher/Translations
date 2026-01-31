@@ -2566,7 +2566,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот экземпляр не может быть запущенным из-за того что некоторые библиотеки отсутствуют или не установлены. Попробуйте снова в онлайн моде с рабочим интернет-соединением</translation>
     </message>
 </context>
 <context>
