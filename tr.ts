@@ -62,7 +62,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Eğer eski FML kütüphanelerini(Minecraft 1.5.2 ve önceki sürümler) indirirken sorun yaşıyorsanız bunu başka bir sunucuya ayarlayabilirsiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -1356,7 +1356,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş yapmaya hazırlanıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="103"/>
@@ -2558,7 +2558,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazı kütüphaneler eksik veya indirilmemiş olduğundan bu profil başlatılamaz. Lütfen çevrim içi modda internete bağlıyken tekrar deneyin</translation>
     </message>
 </context>
 <context>
@@ -3046,7 +3046,7 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="117"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation>Seçilen tüm öğeleri etkinleştirin.</translation>
+        <translation>Seçilen tüm ögeleri etkinleştirin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
@@ -3066,12 +3066,12 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
         <source>Remove all selected items.</source>
-        <translation>Seçilen tüm öğeleri kaldırın.</translation>
+        <translation>Seçilen tüm ögeleri kaldırın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
         <source>Disable all selected items.</source>
-        <translation>Seçilen tüm öğeleri devre dışı bırakın.</translation>
+        <translation>Seçilen tüm ögeleri devre dışı bırakın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -3146,7 +3146,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="218"/>
         <source>View the homepages of all selected items.</source>
-        <translation>Seçilen tüm öğelerin ana sayfalarını görüntüle.</translation>
+        <translation>Seçilen tüm ögelerin ana sayfalarını görüntüle.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -3207,7 +3207,7 @@ Emin misiniz?</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>%1 öğeyi kaldırmak üzeresiniz.
+        <translation>%1 ögeyi kaldırmak üzeresiniz.
 Bu kalıcı olabilir ve klasörden silineceklerdir.
 
 Emin misin?</translation>
@@ -3218,7 +3218,7 @@ Emin misin?</translation>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>%1 öğeyi kaldırmak üzeresiniz.
+        <translation>%1 ögeyi kaldırmak üzeresiniz.
 Bu kalıcı olabilir ve klasörden silineceklerdir.
 
 Emin misiniz?</translation>
@@ -3516,7 +3516,7 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not: Yakın zamanda yayınlanın birçok FTB modpaketi CurseForge&apos;da da mevcuttur! Ayrıca, eğer FTB kurulumlarınız varsayılan konumda değil ise arama düğmesinin yanındaki düğmeyi kullanarak konumu seçin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -5970,7 +5970,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 denemeden sonra başlatamadık. Bu genelde Microsoft hesabınıza çıkış yapıp tekrar giriş yaparak düzeltilebilir. Eğer bu çalışmazsa Minecraft doğrulama sunucuları kesinti yaşıyor olabilir veya bölgenizde bir VPN kullanmanız gerekiyor olabilir. Denemeye devam etmek ister misiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6206,7 +6206,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft erişim tokeni alınıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6222,7 +6222,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft erişim tokeni alındı</translation>
     </message>
 </context>
 <context>
@@ -6868,7 +6868,7 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">FML kütüphaneleri denetleniyor...</translation>
+        <translation>FML kütüphaneleri denetleniyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
@@ -7479,7 +7479,7 @@ Sebep:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSA tokeni alındı</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7570,7 +7570,7 @@ Sebep:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="147"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSA tokeni alındı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
@@ -8987,7 +8987,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="144"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
@@ -8996,7 +8996,11 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Bu yerel bir modpaketi.
+Bu %1 formatında bir dosya veya bir URL kullanılarak güncellenebilir.
+Kurulumu bozabileceği için bahsedilenden başka bir format kullanmayın.
+URL&apos;ye güvendiğinizden emin olun.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="234"/>
@@ -9400,7 +9404,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft profili alındı</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -9727,7 +9731,7 @@ Büyük ihtimalle dizini değiştirmeniz gerekecek — lütfen modun web sitesin
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Legacy Fabric</translation>
+        <translation>Eski Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
@@ -9994,7 +9998,7 @@ Büyük ihtimalle dizini değiştirmeniz gerekecek — lütfen modun web sitesin
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation>Legacy Fabric</translation>
+        <translation>Eski Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
@@ -10034,7 +10038,7 @@ Büyük ihtimalle dizini değiştirmeniz gerekecek — lütfen modun web sitesin
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="257"/>
         <source>Hide installed items</source>
-        <translation>Yüklü öğeleri gizle</translation>
+        <translation>Yüklü ögeleri gizle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="264"/>
@@ -13368,12 +13372,12 @@ NOT: Güncellemeden önce profilinizin önemli verilerini yedeklediğinizden emi
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
         <source>item</source>
-        <translation>öğe</translation>
+        <translation>öge</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
-        <translation>öğeler</translation>
+        <translation>ögeler</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
@@ -15132,12 +15136,12 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>.index&apos;ten shaderpack meta verilerinin taşınması başarısız oldu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Eski .index dizini kaldırılamadı</translation>
     </message>
 </context>
 <context>
@@ -15484,7 +15488,7 @@ Emin misin?</translation>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="392"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation>&quot;%1&quot; öğesini silmek üzeresiniz.
+        <translation>&quot;%1&quot; ögesini silmek üzeresiniz.
 Emin misiniz?</translation>
     </message>
     <message>
@@ -17467,12 +17471,12 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft hesabının bir Xbox live profili yok. Önce %1&apos;den oyunu satın alın.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox live ülkenizde kullanılabilir değil. Engellendiniz.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -17565,7 +17569,7 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox kullanıcı kimlik doğrulama yanıtı anlaşılamadı.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
