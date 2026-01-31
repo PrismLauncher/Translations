@@ -65,12 +65,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur de bibliothèques FML héritées</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez configurer cela sur un autre serveur si vous rencontrez des problèmes pour télécharger les bibliothèques FML héritées (Minecraft 1.5.2 et versions antérieures).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -2562,7 +2562,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette instance ne peut pas être lancée car certaines bibliothèques sont manquantes ou n&apos;ont pas encore été téléchargées. Veuillez réessayer en mode en ligne avec une connexion Internet fonctionnelle</translation>
     </message>
 </context>
 <context>
@@ -6891,32 +6891,32 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Vérification des bibliothèques de FML...</translation>
+        <translation>Vérification des bibliothèques FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Téléchargement des bibliothèques de FML...</translation>
+        <translation>Téléchargement des bibliothèques FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulé</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Copie des bibliothèques de FML dans l&apos;instance...</translation>
+        <translation>Copie des bibliothèques FML dans l&apos;instance...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Échec de la création du dossier de la bibliothèque de FML dans l&apos;instance.</translation>
+        <translation>Échec de la création du dossier de la bibliothèque FML dans l&apos;instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Échec lors de la copie de la bibliothèque de Forge/FML&#xa0;: %1.</translation>
+        <translation>Échec lors de la copie de la bibliothèque Forge/FML&#xa0;: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6925,7 +6925,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Échec du téléchargement des fichiers suivants&#xa0;:
+        <translation>Échec du téléchargement des fichiers suivants&#xa0;:
 %1
 
 Raison&#xa0;: %2
@@ -9746,27 +9746,27 @@ Il est fort probable que vous deviez modifier le chemin d&apos;accès - veuillez
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
         <source>Babric</source>
-        <translation type="unfinished">Babric</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">BTA (Babric)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Ancienne fabrique</translation>
+        <translation>Fabric hérité</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
         <source>Rift</source>
-        <translation type="unfinished">Rift</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
