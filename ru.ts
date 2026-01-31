@@ -81,7 +81,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="233"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>Аутентификация с помощью &amp;Microsoft</translation>
+        <translation>Аутентификация с помощью Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="288"/>
@@ -168,7 +168,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>Сервер мета&amp;данных</translation>
+        <translation>Сервер метаданных</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -9096,7 +9096,11 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Это локальный модпак.
+Обновить его можно либо с помощью файла в формате %1, либо по URL-адресу.
+Не используйте формат, отличный от указанного, так как это может нарушить работу экземпляра.
+Также убедитесь, что вы доверяете указанному URL-адресу
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="234"/>
