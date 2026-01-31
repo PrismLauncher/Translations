@@ -9030,7 +9030,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="144"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
@@ -9039,7 +9039,11 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Il s&apos;agit d&apos;un modpack local.
+Vous pouvez le mettre à jour soit à l&apos;aide d&apos;un fichier au format %1, soit via une URL.
+N&apos;utilisez pas un format différent de celui indiqué, car cela pourrait endommager l&apos;instance.
+Assurez-vous également que l&apos;URL est fiable.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="234"/>
