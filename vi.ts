@@ -1339,7 +1339,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>Working...</source>
-        <translation>Đang hoạt động...</translation>
+        <translation type="vanished">Đang hoạt động...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5880,7 +5880,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Có vẻ như game không thể khởi động sau %1 lần. Bạn có muốn tiếp tục không?</translation>
+        <translation type="vanished">Có vẻ như game không thể khởi động sau %1 lần. Bạn có muốn tiếp tục không?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6083,7 +6083,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Đang truy cập dịch vụ Mojang.</translation>
+        <translation type="vanished">Đang truy cập dịch vụ Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7305,7 +7305,7 @@ Lý do:
     </message>
     <message>
         <source>Got</source>
-        <translation>Lấy</translation>
+        <translation type="vanished">Lấy</translation>
     </message>
 </context>
 <context>
@@ -7416,7 +7416,7 @@ Lý do:
     </message>
     <message>
         <source>Got </source>
-        <translation>Đã có </translation>
+        <translation type="vanished">Đã có </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9033,7 +9033,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Thu thập hồ sơ Minecraft Java thành công.</translation>
+        <translation type="vanished">Thu thập hồ sơ Minecraft Java thành công.</translation>
     </message>
 </context>
 <context>
@@ -9093,7 +9093,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Game gốc chỉ hỗ trợ độ kích thước độ phân giải cụ thể. Để giả lập trạng thái cửa sổ với kích thước tối đa, phiên bản hiện tại sẽ ước lượng kích cỡ tối đa của màn hình.</translation>
+        <translation type="vanished">Game gốc chỉ hỗ trợ độ kích thước độ phân giải cụ thể. Để giả lập trạng thái cửa sổ với kích thước tối đa, phiên bản hiện tại sẽ ước lượng kích cỡ tối đa của màn hình.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -16725,11 +16725,11 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Tài khoản Microsoft này không có hồ sơ Xbox. Mua game trên %1 trước.</translation>
+        <translation type="vanished">Tài khoản Microsoft này không có hồ sơ Xbox. Mua game trên %1 trước.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live không khả dụng ở quốc gia của bạn. Bạn đã bị chặn.</translation>
+        <translation type="vanished">XBox Live không khả dụng ở quốc gia của bạn. Bạn đã bị chặn.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -16822,11 +16822,11 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Xác thực người dung Xbox that bại: %1</translation>
+        <translation type="vanished">Xác thực người dung Xbox that bại: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Không thể hiểu phản hồi xác thực người dùng Xbox.</translation>
+        <translation type="vanished">Không thể hiểu phản hồi xác thực người dùng Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

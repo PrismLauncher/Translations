@@ -1355,7 +1355,7 @@ Algumas versões do Minecraft podem não iniciar.
     </message>
     <message>
         <source>Working...</source>
-        <translation>Trabalhando...</translation>
+        <translation type="vanished">Trabalhando...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -6039,7 +6039,7 @@ Você pode mudar a versão do Java nas configurações posteriormente.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Parece que não se pôde iniciar após %1 tentativas. Quer continuar tentando?</translation>
+        <translation type="vanished">Parece que não se pôde iniciar após %1 tentativas. Quer continuar tentando?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6242,7 +6242,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Acessando os serviços Mojang.</translation>
+        <translation type="vanished">Acessando os serviços Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7528,7 +7528,7 @@ Razão:
     </message>
     <message>
         <source>Got</source>
-        <translation>Feito</translation>
+        <translation type="vanished">Feito</translation>
     </message>
 </context>
 <context>
@@ -7639,7 +7639,7 @@ Razão:
     </message>
     <message>
         <source>Got </source>
-        <translation>Obteve </translation>
+        <translation type="vanished">Obteve </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9483,7 +9483,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Aquisição de perfil do Minecraft: Java Edition concluída.</translation>
+        <translation type="vanished">Aquisição de perfil do Minecraft: Java Edition concluída.</translation>
     </message>
 </context>
 <context>
@@ -9556,7 +9556,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>O jogo base só suporta resolução. Para simular o comportamento maximizado, a implementação atual aproxima o tamanho máximo da tela.</translation>
+        <translation type="vanished">O jogo base só suporta resolução. Para simular o comportamento maximizado, a implementação atual aproxima o tamanho máximo da tela.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -17604,11 +17604,11 @@ Tem certeza?</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Esta conta Microsoft não tem um perfil do Xbox Live. Compre o jogo em %1 primeiro.</translation>
+        <translation type="vanished">Esta conta Microsoft não tem um perfil do Xbox Live. Compre o jogo em %1 primeiro.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Live não está disponível em seu país. Foi bloqueado.</translation>
+        <translation type="vanished">Xbox Live não está disponível em seu país. Foi bloqueado.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -17701,11 +17701,11 @@ Configure a sua conta conforme o %1.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Falha na autenticação do usuário XBox: %1</translation>
+        <translation type="vanished">Falha na autenticação do usuário XBox: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Não se pôde entender a resposta de autenticação do usuário Xbox.</translation>
+        <translation type="vanished">Não se pôde entender a resposta de autenticação do usuário Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

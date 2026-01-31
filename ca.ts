@@ -1290,7 +1290,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>Working...</source>
-        <translation>Treballant...</translation>
+        <translation type="vanished">Treballant...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5759,7 +5759,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>No s&apos;ha pogut llançar després de %1 intents. Vols continuar intentant-ho?</translation>
+        <translation type="vanished">No s&apos;ha pogut llançar després de %1 intents. Vols continuar intentant-ho?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -5956,7 +5956,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Accedint als serveis de Mojang.</translation>
+        <translation type="vanished">Accedint als serveis de Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7159,7 +7159,7 @@ Motiu:
     </message>
     <message>
         <source>Got</source>
-        <translation>Obtingut</translation>
+        <translation type="vanished">Obtingut</translation>
     </message>
 </context>
 <context>
@@ -7262,7 +7262,7 @@ Motiu:
     </message>
     <message>
         <source>Got </source>
-        <translation>S&apos;ha rebut </translation>
+        <translation type="vanished">S&apos;ha rebut </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -8946,7 +8946,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>L&apos;adquisició del perfil de Minecraft Java ha sigut satisfactòria.</translation>
+        <translation type="vanished">L&apos;adquisició del perfil de Minecraft Java ha sigut satisfactòria.</translation>
     </message>
 </context>
 <context>
@@ -9010,7 +9010,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>El joc base només accepta el mode finestra. Per simular el comportament maximitzat, la implementació aproxima la resolució màxima de la pantalla.</translation>
+        <translation type="vanished">El joc base només accepta el mode finestra. Per simular el comportament maximitzat, la implementació aproxima la resolució màxima de la pantalla.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -16475,11 +16475,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Aquest compte de Microsoft no té un perfil d&apos;XBox Live. Compra primer el joc a %1.</translation>
+        <translation type="vanished">Aquest compte de Microsoft no té un perfil d&apos;XBox Live. Compra primer el joc a %1.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live no està disponible al teu país. T&apos;han bloquejat.</translation>
+        <translation type="vanished">XBox Live no està disponible al teu país. T&apos;han bloquejat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -16571,12 +16571,8 @@ Configureu el vostre compte segons %1.</translation>
         <translation type="vanished">L&apos;autenticació de l&apos;usuari de XBox ha fallat.</translation>
     </message>
     <message>
-        <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>No s&apos;ha pogut entendre la resposta d&apos;autenticació d&apos;usuari de l&apos;XBox.</translation>
+        <translation type="vanished">No s&apos;ha pogut entendre la resposta d&apos;autenticació d&apos;usuari de l&apos;XBox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

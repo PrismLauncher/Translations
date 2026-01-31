@@ -1351,7 +1351,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>Working...</source>
-        <translation>Üzerinde Çalışılıyor...</translation>
+        <translation type="vanished">Üzerinde Çalışılıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5998,7 +5998,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Görünüşe göre %1 denemeden sonra başlatamadık. Denemeye devam etmek ister misiniz?</translation>
+        <translation type="vanished">Görünüşe göre %1 denemeden sonra başlatamadık. Denemeye devam etmek ister misiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6201,7 +6201,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Mojang servislerine erişiliyor.</translation>
+        <translation type="vanished">Mojang servislerine erişiliyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7483,7 +7483,7 @@ Sebep:
     </message>
     <message>
         <source>Got</source>
-        <translation>Alındı</translation>
+        <translation type="vanished">Alındı</translation>
     </message>
 </context>
 <context>
@@ -7594,7 +7594,7 @@ Sebep:
     </message>
     <message>
         <source>Got </source>
-        <translation>Alındı </translation>
+        <translation type="vanished">Alındı </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9413,7 +9413,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Minecraft Java profili edinildi.</translation>
+        <translation type="vanished">Minecraft Java profili edinildi.</translation>
     </message>
 </context>
 <context>
@@ -9486,7 +9486,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Temel oyun yalnızca çözünürlüğü destekler. Maksimize edilmiş davranışı simüle etmek için mevcut uygulama maksimum ekran boyutuna yaklaşır.</translation>
+        <translation type="vanished">Temel oyun yalnızca çözünürlüğü destekler. Maksimize edilmiş davranışı simüle etmek için mevcut uygulama maksimum ekran boyutuna yaklaşır.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -17476,11 +17476,11 @@ Emin misin?</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Bu Microsoft hesabı bir XBox Live profili içermiyor. İlk önce %1 üstünden oyunu satın alın.</translation>
+        <translation type="vanished">Bu Microsoft hesabı bir XBox Live profili içermiyor. İlk önce %1 üstünden oyunu satın alın.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live ülkenizde mevcut değil. Engellendiniz.</translation>
+        <translation type="vanished">XBox Live ülkenizde mevcut değil. Engellendiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -17573,11 +17573,11 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Xbox kullanıcı kimlik doğrualması başarısız: %1</translation>
+        <translation type="vanished">Xbox kullanıcı kimlik doğrualması başarısız: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Xbox kullanıcı kimlik doğrulaması anlaşılamadı.</translation>
+        <translation type="vanished">Xbox kullanıcı kimlik doğrulaması anlaşılamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

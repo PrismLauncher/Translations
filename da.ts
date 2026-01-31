@@ -1313,7 +1313,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>Working...</source>
-        <translation>Arbejder...</translation>
+        <translation type="vanished">Arbejder...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5810,7 +5810,7 @@ Du kan ændre Java versionen i indstillingerne senere.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Det ser ud til at vi ikke kunne starte efter %1 forsøg. Vil du fortsætte med at prøve?</translation>
+        <translation type="vanished">Det ser ud til at vi ikke kunne starte efter %1 forsøg. Vil du fortsætte med at prøve?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6015,7 +6015,7 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Får adgang til Mojangs tjenester.</translation>
+        <translation type="vanished">Får adgang til Mojangs tjenester.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7234,7 +7234,7 @@ Reason:
     </message>
     <message>
         <source>Got</source>
-        <translation>Fik</translation>
+        <translation type="vanished">Fik</translation>
     </message>
 </context>
 <context>
@@ -7329,7 +7329,7 @@ Reason:
     </message>
     <message>
         <source>Got </source>
-        <translation>Fik </translation>
+        <translation type="vanished">Fik </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="159"/>
@@ -8930,7 +8930,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Minecraft Java-profilerhvervelse lykkedes.</translation>
+        <translation type="vanished">Minecraft Java-profilerhvervelse lykkedes.</translation>
     </message>
 </context>
 <context>
@@ -8999,7 +8999,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Grund spillet understøtter kun opløsning. For at simulere den maksimerede adfærd tilnærmer den nuværende implementering den maksimale skærmstørrelse.</translation>
+        <translation type="vanished">Grund spillet understøtter kun opløsning. For at simulere den maksimerede adfærd tilnærmer den nuværende implementering den maksimale skærmstørrelse.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -16308,11 +16308,11 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Denne Microsoft konto har ikke en XBox Live profil. Køb spillet på %1 først.</translation>
+        <translation type="vanished">Denne Microsoft konto har ikke en XBox Live profil. Køb spillet på %1 først.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live er ikke tilgængelig i dit land. Du er blevet blokeret.</translation>
+        <translation type="vanished">XBox Live er ikke tilgængelig i dit land. Du er blevet blokeret.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -16397,11 +16397,11 @@ Indstil din konto i henhold til %1.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>XBox bruger godkendelse mislykkedes: %1</translation>
+        <translation type="vanished">XBox bruger godkendelse mislykkedes: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>XBox bruger godkendelses svar kunne ikke forstås.</translation>
+        <translation type="vanished">XBox bruger godkendelses svar kunne ikke forstås.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

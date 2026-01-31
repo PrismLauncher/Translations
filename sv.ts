@@ -1335,7 +1335,7 @@ Vissa versioner av Minecraft kanske inte startar.
     </message>
     <message>
         <source>Working...</source>
-        <translation>Arbetar...</translation>
+        <translation type="vanished">Arbetar...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5968,7 +5968,7 @@ Du kan ändra Java-versionen i inställningarna senare.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Det verkar som att vi inte kunde starta efter %1 försök. Vill du fortsätta försöka?</translation>
+        <translation type="vanished">Det verkar som att vi inte kunde starta efter %1 försök. Vill du fortsätta försöka?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6173,7 +6173,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Får tillgång till Mojangs tjänster.</translation>
+        <translation type="vanished">Får tillgång till Mojangs tjänster.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7444,7 +7444,7 @@ Anledning:
     </message>
     <message>
         <source>Got</source>
-        <translation>Fick</translation>
+        <translation type="vanished">Fick</translation>
     </message>
 </context>
 <context>
@@ -7555,7 +7555,7 @@ Anledning:
     </message>
     <message>
         <source>Got </source>
-        <translation>Fick </translation>
+        <translation type="vanished">Fick </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9283,7 +9283,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Inhämtning av Minecraft Java-profil lyckades.</translation>
+        <translation type="vanished">Inhämtning av Minecraft Java-profil lyckades.</translation>
     </message>
 </context>
 <context>
@@ -9352,7 +9352,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Basspelet stöder endast upplösning. För att simulera maximerat läge approximerar den nuvarande implementeringen den maximala skärmstorleken.</translation>
+        <translation type="vanished">Basspelet stöder endast upplösning. För att simulera maximerat läge approximerar den nuvarande implementeringen den maximala skärmstorleken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -17301,11 +17301,11 @@ Världen kan försvinna för alltid (VÄLDIGT LÄNGE).
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Detta Microsoft-konto har inte någon Xbox Live-profil. Köp spelet på %1 först.</translation>
+        <translation type="vanished">Detta Microsoft-konto har inte någon Xbox Live-profil. Köp spelet på %1 först.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Live är inte tillgängligt i ditt land. Du har blockerats.</translation>
+        <translation type="vanished">Xbox Live är inte tillgängligt i ditt land. Du har blockerats.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -17390,11 +17390,11 @@ Vänligen ställ in ditt konto enligt %1.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Autentisering för Xbox-användare misslyckades: %1</translation>
+        <translation type="vanished">Autentisering för Xbox-användare misslyckades: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Kunde inte tolka svaret från autentiseringen av Xbox-användaren.</translation>
+        <translation type="vanished">Kunde inte tolka svaret från autentiseringen av Xbox-användaren.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

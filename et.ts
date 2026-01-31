@@ -1294,7 +1294,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Working...</source>
-        <translation>Töötamine...</translation>
+        <translation type="vanished">Töötamine...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5805,7 +5805,7 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Tundub, et me ei suutnud käivitada pärast %1 katset. Kas soovid proovimist jätkata?</translation>
+        <translation type="vanished">Tundub, et me ei suutnud käivitada pärast %1 katset. Kas soovid proovimist jätkata?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -5999,7 +5999,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Mojangi teenustele ligipääsemine.</translation>
+        <translation type="vanished">Mojangi teenustele ligipääsemine.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7202,7 +7202,7 @@ Põhjus:
     </message>
     <message>
         <source>Got</source>
-        <translation>Saadud</translation>
+        <translation type="vanished">Saadud</translation>
     </message>
 </context>
 <context>
@@ -7305,7 +7305,7 @@ Põhjus:
     </message>
     <message>
         <source>Got </source>
-        <translation>Saadud </translation>
+        <translation type="vanished">Saadud </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="159"/>
@@ -8975,7 +8975,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Minecraft Java profiili hankimine õnnestus.</translation>
+        <translation type="vanished">Minecraft Java profiili hankimine õnnestus.</translation>
     </message>
 </context>
 <context>
@@ -9021,10 +9021,6 @@ Make sure you also trust the URL.
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
         <translation type="unfinished">Käivita Minecraft maksimeeritult</translation>
-    </message>
-    <message>
-        <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -16676,11 +16672,11 @@ Kas oled kindel?</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Sellel Microsofti kontol ei ole Xbox Live profiili. Osta enne mäng asukohas %1.</translation>
+        <translation type="vanished">Sellel Microsofti kontol ei ole Xbox Live profiili. Osta enne mäng asukohas %1.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Live ei ole sinu riigis saadaval. Oled blokeeritud.</translation>
+        <translation type="vanished">Xbox Live ei ole sinu riigis saadaval. Oled blokeeritud.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -16761,11 +16757,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Xboxi konto autentimine ebaõnnestus: %1</translation>
+        <translation type="vanished">Xboxi konto autentimine ebaõnnestus: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Xboxi konto autentimise vastus ei olnud arusaadav.</translation>
+        <translation type="vanished">Xboxi konto autentimise vastus ei olnud arusaadav.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

@@ -1298,7 +1298,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>Working...</source>
-        <translation>În lucru...</translation>
+        <translation type="vanished">În lucru...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5885,7 +5885,7 @@ Puteți schimba versiunea de Java din setări ulterior.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Se pare că nu s-a putut lansa după %1 încercări. Doriți să continuați încercările?</translation>
+        <translation type="vanished">Se pare că nu s-a putut lansa după %1 încercări. Doriți să continuați încercările?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6074,7 +6074,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Se accesează serviciile Mojang.</translation>
+        <translation type="vanished">Se accesează serviciile Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7268,7 +7268,7 @@ Motiv:
     </message>
     <message>
         <source>Got</source>
-        <translation>Primit</translation>
+        <translation type="vanished">Primit</translation>
     </message>
 </context>
 <context>
@@ -7375,7 +7375,7 @@ Motiv:
     </message>
     <message>
         <source>Got </source>
-        <translation>A fost primit. </translation>
+        <translation type="vanished">A fost primit. </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -8914,7 +8914,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Dobândirea profilului de Minecraft Java a reușit.</translation>
+        <translation type="vanished">Dobândirea profilului de Minecraft Java a reușit.</translation>
     </message>
 </context>
 <context>
@@ -8953,10 +8953,6 @@ Make sure you also trust the URL.
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
         <translation type="unfinished">Pornește Minecraft maximizat</translation>
-    </message>
-    <message>
-        <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -16160,11 +16156,11 @@ Ești sigur(ă)?</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Acest cont de Microsoft nu are un profil de XBox Live. Cumpără jocul pe %1 mai întâi.</translation>
+        <translation type="vanished">Acest cont de Microsoft nu are un profil de XBox Live. Cumpără jocul pe %1 mai întâi.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live nu este disponibil în țara ta. Ai fost blocat.</translation>
+        <translation type="vanished">XBox Live nu este disponibil în țara ta. Ai fost blocat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -16249,11 +16245,11 @@ Vă rugăm configurați-vă contul conform %1.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Autentificarea utilizatorului XBox a eșuat: %1</translation>
+        <translation type="vanished">Autentificarea utilizatorului XBox a eșuat: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Răspunsul de autentificare a utilizatorului XBox nu a putut fi înțeles.</translation>
+        <translation type="vanished">Răspunsul de autentificare a utilizatorului XBox nu a putut fi înțeles.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

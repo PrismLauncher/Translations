@@ -1347,7 +1347,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Working...</source>
-        <translation>작업하는 중...</translation>
+        <translation type="vanished">작업하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5988,7 +5988,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>%1번 시도했지만 실행할 수 없는 것 같습니다. 계속 시도하시겠습니까?</translation>
+        <translation type="vanished">%1번 시도했지만 실행할 수 없는 것 같습니다. 계속 시도하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6191,7 +6191,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Mojang 서비스에 접속하는 중입니다.</translation>
+        <translation type="vanished">Mojang 서비스에 접속하는 중입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7453,7 +7453,7 @@ Reason:
     </message>
     <message>
         <source>Got</source>
-        <translation>가져옴</translation>
+        <translation type="vanished">가져옴</translation>
     </message>
 </context>
 <context>
@@ -7564,7 +7564,7 @@ Reason:
     </message>
     <message>
         <source>Got </source>
-        <translation>가져옴 </translation>
+        <translation type="vanished">가져옴 </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9375,7 +9375,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>마인크래프트 Java 프로필을 획득하였습니다.</translation>
+        <translation type="vanished">마인크래프트 Java 프로필을 획득하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -9448,7 +9448,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>기본 게임은 해상도 모드만 지원합니다. 최대화 동작을 시뮬레이션하기 위해 현재 구현은 최대 디스플레이 크기에 근사치를 적용하고 있습니다.</translation>
+        <translation type="vanished">기본 게임은 해상도 모드만 지원합니다. 최대화 동작을 시뮬레이션하기 위해 현재 구현은 최대 디스플레이 크기에 근사치를 적용하고 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -17439,11 +17439,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>이 Microsoft 계정은 XBox Live 프로필을 가지고 있지 않습니다. 먼저 %1에서 게임을 구입하십시오.</translation>
+        <translation type="vanished">이 Microsoft 계정은 XBox Live 프로필을 가지고 있지 않습니다. 먼저 %1에서 게임을 구입하십시오.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>해당 국가에서는 XBox Live를 사용할 수 없습니다. 차단되었습니다.</translation>
+        <translation type="vanished">해당 국가에서는 XBox Live를 사용할 수 없습니다. 차단되었습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -17536,11 +17536,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>XBox 사용자 인증에 실패했습니다: %1</translation>
+        <translation type="vanished">XBox 사용자 인증에 실패했습니다: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>XBox 사용자 인증 응답을 이해할 수 없습니다.</translation>
+        <translation type="vanished">XBox 사용자 인증 응답을 이해할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

@@ -1359,7 +1359,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Working...</source>
-        <translation>Обработка…</translation>
+        <translation type="vanished">Обработка…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -6057,7 +6057,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Не удалось запуститься после %1 попыток. Продолжить попытки запуска?</translation>
+        <translation type="vanished">Не удалось запуститься после %1 попыток. Продолжить попытки запуска?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6260,7 +6260,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Подключение к сервисам Mojang.</translation>
+        <translation type="vanished">Подключение к сервисам Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7550,7 +7550,7 @@ Reason:
     </message>
     <message>
         <source>Got</source>
-        <translation>Получено</translation>
+        <translation type="vanished">Получено</translation>
     </message>
 </context>
 <context>
@@ -7661,7 +7661,7 @@ Reason:
     </message>
     <message>
         <source>Got </source>
-        <translation>Получено </translation>
+        <translation type="vanished">Получено </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9517,7 +9517,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Получение профиля Minecraft Java выполнено успешно.</translation>
+        <translation type="vanished">Получение профиля Minecraft Java выполнено успешно.</translation>
     </message>
 </context>
 <context>
@@ -9590,7 +9590,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Базовая игра поддерживает только разрешение. Для имитации поведения в полноэкранном режиме текущая реализация приближает максимальный размер дисплея.</translation>
+        <translation type="vanished">Базовая игра поддерживает только разрешение. Для имитации поведения в полноэкранном режиме текущая реализация приближает максимальный размер дисплея.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -17674,11 +17674,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Эта учётная запись Microsoft не имеет профиля XBox Live. Сначала необходимо купить игру на %1.</translation>
+        <translation type="vanished">Эта учётная запись Microsoft не имеет профиля XBox Live. Сначала необходимо купить игру на %1.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live не доступен в вашей стране. Учётная запись была заблокирована.</translation>
+        <translation type="vanished">XBox Live не доступен в вашей стране. Учётная запись была заблокирована.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -17771,11 +17771,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Не удалось выполнить аутентификацию пользователя XBox: «%1»</translation>
+        <translation type="vanished">Не удалось выполнить аутентификацию пользователя XBox: «%1»</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Не удалось разобрать ответ аутентификации пользователя XBox.</translation>
+        <translation type="vanished">Не удалось разобрать ответ аутентификации пользователя XBox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

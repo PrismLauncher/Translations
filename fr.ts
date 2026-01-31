@@ -1359,7 +1359,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     </message>
     <message>
         <source>Working...</source>
-        <translation>Travail en cours...</translation>
+        <translation type="vanished">Travail en cours...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -6021,7 +6021,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Le lancement reste impossible après %1 essais. Voulez-vous réessayer&#xa0;?</translation>
+        <translation type="vanished">Le lancement reste impossible après %1 essais. Voulez-vous réessayer&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6224,7 +6224,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Accès aux services de Mojang.</translation>
+        <translation type="vanished">Accès aux services de Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7506,7 +7506,7 @@ Raison&#xa0;:
     </message>
     <message>
         <source>Got</source>
-        <translation>Reçu</translation>
+        <translation type="vanished">Reçu</translation>
     </message>
 </context>
 <context>
@@ -7617,7 +7617,7 @@ Raison&#xa0;:
     </message>
     <message>
         <source>Got </source>
-        <translation>Reçu </translation>
+        <translation type="vanished">Reçu </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9456,7 +9456,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>L&apos;acquisition du profile Minecraft Java a réussi.</translation>
+        <translation type="vanished">L&apos;acquisition du profile Minecraft Java a réussi.</translation>
     </message>
 </context>
 <context>
@@ -9529,7 +9529,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Le jeu de base ne supporte qu&apos;une seule résolution. Afin de simuler la taille maximisée, l&apos;implémentation actuelle approche approximativement la taille maximale de l&apos;écran.</translation>
+        <translation type="vanished">Le jeu de base ne supporte qu&apos;une seule résolution. Afin de simuler la taille maximisée, l&apos;implémentation actuelle approche approximativement la taille maximale de l&apos;écran.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -17559,11 +17559,11 @@ Ce monde pourrait disparaître pour toujours (C&apos;EST TRÈS LONG).
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Ce compte Microsoft n&apos;a pas de profil XBox Live. Achetez d&apos;abord le jeu sur %1.</translation>
+        <translation type="vanished">Ce compte Microsoft n&apos;a pas de profil XBox Live. Achetez d&apos;abord le jeu sur %1.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live n&apos;est pas disponible dans votre pays. Vous avez été bloqué.</translation>
+        <translation type="vanished">XBox Live n&apos;est pas disponible dans votre pays. Vous avez été bloqué.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -17656,11 +17656,11 @@ Veuillez configurer votre compte selon %1.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Échec de la récupération du profil Xbox&#xa0;: %1</translation>
+        <translation type="vanished">Échec de la récupération du profil Xbox&#xa0;: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>La réponse d&apos;authentification pour l&apos;utilisateur XBox n&apos;a pas pu être comprise.</translation>
+        <translation type="vanished">La réponse d&apos;authentification pour l&apos;utilisateur XBox n&apos;a pas pu être comprise.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

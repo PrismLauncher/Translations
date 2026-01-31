@@ -1339,7 +1339,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>Working...</source>
-        <translation>Folyamatban…</translation>
+        <translation type="vanished">Folyamatban…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5983,7 +5983,7 @@ A Java verziót később a beállítások között megváltoztathatod.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Úgy tűnik, hogy %1 próbálkozás után se tudtuk elindítani. Szeretnéd folytatni a próbálkozást?</translation>
+        <translation type="vanished">Úgy tűnik, hogy %1 próbálkozás után se tudtuk elindítani. Szeretnéd folytatni a próbálkozást?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6188,7 +6188,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Csatlakozás a Mojang szolgáltatásokhoz.</translation>
+        <translation type="vanished">Csatlakozás a Mojang szolgáltatásokhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7455,7 +7455,7 @@ Indok:
     </message>
     <message>
         <source>Got</source>
-        <translation>Megszerezve</translation>
+        <translation type="vanished">Megszerezve</translation>
     </message>
 </context>
 <context>
@@ -7566,7 +7566,7 @@ Indok:
     </message>
     <message>
         <source>Got </source>
-        <translation>Van </translation>
+        <translation type="vanished">Van </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9372,7 +9372,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>A Minecraft Java profil beszerzése sikerült.</translation>
+        <translation type="vanished">A Minecraft Java profil beszerzése sikerült.</translation>
     </message>
 </context>
 <context>
@@ -9441,7 +9441,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Az alapjáték csak a felbontást támogatja. A maximalizált viselkedés szimulálása érdekében a jelenlegi implementáció a maximális kijelzőméretet közelíti.</translation>
+        <translation type="vanished">Az alapjáték csak a felbontást támogatja. A maximalizált viselkedés szimulálása érdekében a jelenlegi implementáció a maximális kijelzőméretet közelíti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -17427,11 +17427,11 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Ez a Microsoft-fiók nem rendelkezik XBox Live profillal. Előbb vedd meg a játékot a %1-en.</translation>
+        <translation type="vanished">Ez a Microsoft-fiók nem rendelkezik XBox Live profillal. Előbb vedd meg a játékot a %1-en.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Az XBox Live nem érhető el az országodban. Letiltottak.</translation>
+        <translation type="vanished">Az XBox Live nem érhető el az országodban. Letiltottak.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -17516,11 +17516,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>XBox felhasználó hitelesítése nem sikerült: %1</translation>
+        <translation type="vanished">XBox felhasználó hitelesítése nem sikerült: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>XBox felhasználói hitelesítési válasza nem értelmezhető.</translation>
+        <translation type="vanished">XBox felhasználói hitelesítési válasza nem értelmezhető.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

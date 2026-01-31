@@ -1343,7 +1343,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Working...</source>
-        <translation>處理中…</translation>
+        <translation type="vanished">處理中…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -6017,7 +6017,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>在 %1 次嘗試後，我們似乎仍然無法啟動。您還想要繼續嘗試嗎？</translation>
+        <translation type="vanished">在 %1 次嘗試後，我們似乎仍然無法啟動。您還想要繼續嘗試嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6220,7 +6220,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>正在存取 Mojang 服務。</translation>
+        <translation type="vanished">正在存取 Mojang 服務。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7502,7 +7502,7 @@ Reason:
     </message>
     <message>
         <source>Got</source>
-        <translation>已取得</translation>
+        <translation type="vanished">已取得</translation>
     </message>
 </context>
 <context>
@@ -7613,7 +7613,7 @@ Reason:
     </message>
     <message>
         <source>Got </source>
-        <translation>已取得 </translation>
+        <translation type="vanished">已取得 </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9440,7 +9440,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>取得 Minecraft Java 版個人檔案成功。</translation>
+        <translation type="vanished">取得 Minecraft Java 版個人檔案成功。</translation>
     </message>
 </context>
 <context>
@@ -9513,7 +9513,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>基本遊戲僅支援解析度。為了模擬最大化的行為，目前的實作會近似於最大顯示大小。</translation>
+        <translation type="vanished">基本遊戲僅支援解析度。為了模擬最大化的行為，目前的實作會近似於最大顯示大小。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -17548,11 +17548,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>這個 Microsoft 帳號沒有 Xbox Live 個人檔案。請先在 %1 上購買遊戲。</translation>
+        <translation type="vanished">這個 Microsoft 帳號沒有 Xbox Live 個人檔案。請先在 %1 上購買遊戲。</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live 無法在您的國家使用。您被封鎖了。</translation>
+        <translation type="vanished">XBox Live 無法在您的國家使用。您被封鎖了。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -17645,11 +17645,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Xbox 使用者驗證失敗：%1</translation>
+        <translation type="vanished">Xbox 使用者驗證失敗：%1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>無法理解 Xbox 使用者驗證回應。</translation>
+        <translation type="vanished">無法理解 Xbox 使用者驗證回應。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

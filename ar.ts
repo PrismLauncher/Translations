@@ -1270,7 +1270,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Working...</source>
-        <translation>جاري العمل...</translation>
+        <translation type="vanished">جاري العمل...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5666,7 +5666,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>لم نتمكن من التشغيل بعد %1 محاولات. هل تريد الاستمرار بالتكرار؟</translation>
+        <translation type="vanished">لم نتمكن من التشغيل بعد %1 محاولات. هل تريد الاستمرار بالتكرار؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -5883,7 +5883,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>جار الوصول إلى خدمات موجانغ.</translation>
+        <translation type="vanished">جار الوصول إلى خدمات موجانغ.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7029,7 +7029,7 @@ Reason:
     </message>
     <message>
         <source>Got</source>
-        <translation>تم جلب</translation>
+        <translation type="vanished">تم جلب</translation>
     </message>
 </context>
 <context>
@@ -7116,7 +7116,7 @@ Reason:
     </message>
     <message>
         <source>Got </source>
-        <translation>تم جلب </translation>
+        <translation type="vanished">تم جلب </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="159"/>
@@ -8536,7 +8536,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>تم الحصول على ملف تعريف ماين كرافت جافا.</translation>
+        <translation type="vanished">تم الحصول على ملف تعريف ماين كرافت جافا.</translation>
     </message>
 </context>
 <context>
@@ -8573,7 +8573,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>لا تدعم اللعبة الرئيسية إلا دقة الشاشة. لكي يتم محاكاة الإطار الكبير سيأخذ المنفذ الحالي أقرب قيمة للحجم الأقصى للعرض.</translation>
+        <translation type="vanished">لا تدعم اللعبة الرئيسية إلا دقة الشاشة. لكي يتم محاكاة الإطار الكبير سيأخذ المنفذ الحالي أقرب قيمة للحجم الأقصى للعرض.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -15799,12 +15799,8 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live غير متوفر في بلدك. لقد تم حظرك.</translation>
+        <translation type="vanished">XBox Live غير متوفر في بلدك. لقد تم حظرك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -15885,11 +15881,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>فشلت مصادقة مستخدم إكس بوكس:%1</translation>
+        <translation type="vanished">فشلت مصادقة مستخدم إكس بوكس:%1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>تعذر فهم استجابة مصادقة مستخدم XBox.</translation>
+        <translation type="vanished">تعذر فهم استجابة مصادقة مستخدم XBox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

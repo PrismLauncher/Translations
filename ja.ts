@@ -1323,7 +1323,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Working...</source>
-        <translation>処理中…</translation>
+        <translation type="vanished">処理中…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5851,7 +5851,7 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>%1 回試行しましたが、起動できませんでした。試行を続行しますか？</translation>
+        <translation type="vanished">%1 回試行しましたが、起動できませんでした。試行を続行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6056,7 +6056,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Mojangサービスにアクセス中。</translation>
+        <translation type="vanished">Mojangサービスにアクセス中。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7266,7 +7266,7 @@ Reason:
     </message>
     <message>
         <source>Got</source>
-        <translation>取得済み</translation>
+        <translation type="vanished">取得済み</translation>
     </message>
 </context>
 <context>
@@ -7373,7 +7373,7 @@ Reason:
     </message>
     <message>
         <source>Got </source>
-        <translation>取得済み </translation>
+        <translation type="vanished">取得済み </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9045,7 +9045,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Minecraft Javaプロファイルの取得に成功しました。</translation>
+        <translation type="vanished">Minecraft Javaプロファイルの取得に成功しました。</translation>
     </message>
 </context>
 <context>
@@ -9114,7 +9114,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>ゲームは解像度のみをサポートします。最大化の動作を再現するために、現在の実装では最大ディスプレイサイズに近づけます。</translation>
+        <translation type="vanished">ゲームは解像度のみをサポートします。最大化の動作を再現するために、現在の実装では最大ディスプレイサイズに近づけます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -16895,11 +16895,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>この Microsoft アカウントには XBox Live プロフィールがありません。最初に %1 でゲームを購入してください。</translation>
+        <translation type="vanished">この Microsoft アカウントには XBox Live プロフィールがありません。最初に %1 でゲームを購入してください。</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live は、お住まいの国ではご利用いただけません。あなたはブロックされています。</translation>
+        <translation type="vanished">XBox Live は、お住まいの国ではご利用いただけません。あなたはブロックされています。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -16984,11 +16984,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>XBoxユーザー認証に失敗しました: %1</translation>
+        <translation type="vanished">XBoxユーザー認証に失敗しました: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>XBoxユーザー認証のレスポンスを解析できませんでした。</translation>
+        <translation type="vanished">XBoxユーザー認証のレスポンスを解析できませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

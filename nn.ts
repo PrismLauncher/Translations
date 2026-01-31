@@ -1226,7 +1226,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Working...</source>
-        <translation>Arbeider …</translation>
+        <translation type="vanished">Arbeider …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5245,10 +5245,6 @@ You can change the Java version in the settings later.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
         <source>Player name</source>
         <translation>Spelarnamn</translation>
@@ -5433,7 +5429,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Kontakter Mojang-tenester.</translation>
+        <translation type="vanished">Kontakter Mojang-tenester.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -6509,10 +6505,6 @@ Grunn:
         <source>Got MSA token</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Got</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>MSALoginDialog</name>
@@ -6602,7 +6594,7 @@ Grunn:
     </message>
     <message>
         <source>Got </source>
-        <translation>Fekk </translation>
+        <translation type="vanished">Fekk </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -7955,7 +7947,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Minecraft-brukaren vart lagt til.</translation>
+        <translation type="vanished">Minecraft-brukaren vart lagt til.</translation>
     </message>
 </context>
 <context>
@@ -8012,10 +8004,6 @@ Make sure you also trust the URL.
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
         <translation type="unfinished">Start Minecraft maksimert?</translation>
-    </message>
-    <message>
-        <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -14987,11 +14975,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Microsoft-kontoen har ikkje ein Xbox Live-brukar. Kjøp spelet på %1 fyrst.</translation>
+        <translation type="vanished">Microsoft-kontoen har ikkje ein Xbox Live-brukar. Kjøp spelet på %1 fyrst.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Live er ikkje tilgjengeleg i landet ditt. Du har vorte blokkert.</translation>
+        <translation type="vanished">Xbox Live er ikkje tilgjengeleg i landet ditt. Du har vorte blokkert.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -15083,12 +15071,8 @@ Sett opp kontoen din i samsvar med %1.</translation>
         <translation type="vanished">Klarte ikkje autentisera Xbox-brukaren.</translation>
     </message>
     <message>
-        <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Klarte ikkje tyda svaret frå autentiseringa av Xbox-brukaren.</translation>
+        <translation type="vanished">Klarte ikkje tyda svaret frå autentiseringa av Xbox-brukaren.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

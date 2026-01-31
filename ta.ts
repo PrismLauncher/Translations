@@ -1083,7 +1083,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Working...</source>
-        <translation>வேலை ...</translation>
+        <translation type="vanished">வேலை ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5347,7 +5347,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>%1 முயற்சிகளுக்குப் பிறகு எங்களால் தொடங்க முடியவில்லை என்று தெரிகிறது. நீங்கள் தொடர்ந்து முயற்சி செய்ய விரும்புகிறீர்களா?</translation>
+        <translation type="vanished">%1 முயற்சிகளுக்குப் பிறகு எங்களால் தொடங்க முடியவில்லை என்று தெரிகிறது. நீங்கள் தொடர்ந்து முயற்சி செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="335"/>
@@ -5384,7 +5384,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>மோசாங் சேவைகளை அணுகும்.</translation>
+        <translation type="vanished">மோசாங் சேவைகளை அணுகும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -6461,7 +6461,7 @@ Reason:
     </message>
     <message>
         <source>Got</source>
-        <translation>கிடைத்தது</translation>
+        <translation type="vanished">கிடைத்தது</translation>
     </message>
 </context>
 <context>
@@ -6536,7 +6536,7 @@ Reason:
     </message>
     <message>
         <source>Got </source>
-        <translation>கிடைத்தது </translation>
+        <translation type="vanished">கிடைத்தது </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="147"/>
@@ -7941,7 +7941,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Minecraft சாவா சுயவிவர கையகப்படுத்தல் செய் பெற்றது.</translation>
+        <translation type="vanished">Minecraft சாவா சுயவிவர கையகப்படுத்தல் செய் பெற்றது.</translation>
     </message>
 </context>
 <context>
@@ -7983,7 +7983,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>அடிப்படை விளையாட்டு தெளிவுத்திறனை மட்டுமே ஆதரிக்கிறது. அதிகபட்ச நடத்தையை உருவகப்படுத்துவதற்காக தற்போதைய செயல்படுத்தல் அதிகபட்ச காட்சி அளவை தோராயமாக மதிப்பிடுகிறது.</translation>
+        <translation type="vanished">அடிப்படை விளையாட்டு தெளிவுத்திறனை மட்டுமே ஆதரிக்கிறது. அதிகபட்ச நடத்தையை உருவகப்படுத்துவதற்காக தற்போதைய செயல்படுத்தல் அதிகபட்ச காட்சி அளவை தோராயமாக மதிப்பிடுகிறது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -14773,11 +14773,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>இந்த நுண்மென் கணக்கில் எக்ச்பாக்ச் நேரடி சுயவிவரம் இல்லை. முதலில் %1 இல் விளையாட்டை வாங்கவும்.</translation>
+        <translation type="vanished">இந்த நுண்மென் கணக்கில் எக்ச்பாக்ச் நேரடி சுயவிவரம் இல்லை. முதலில் %1 இல் விளையாட்டை வாங்கவும்.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>எக்ச்பாக்ச் லைவ் உங்கள் நாட்டில் கிடைக்கவில்லை. நீங்கள் தடுக்கப்பட்டுள்ளீர்கள்.</translation>
+        <translation type="vanished">எக்ச்பாக்ச் லைவ் உங்கள் நாட்டில் கிடைக்கவில்லை. நீங்கள் தடுக்கப்பட்டுள்ளீர்கள்.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -14862,11 +14862,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>எக்ச்பாக்ச் பயனர் ஏற்பு தோல்வியடைந்தது: %1</translation>
+        <translation type="vanished">எக்ச்பாக்ச் பயனர் ஏற்பு தோல்வியடைந்தது: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>எக்ச்பாக்ச் பயனர் அங்கீகார பதிலை புரிந்து கொள்ள முடியவில்லை.</translation>
+        <translation type="vanished">எக்ச்பாக்ச் பயனர் அங்கீகார பதிலை புரிந்து கொள்ள முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

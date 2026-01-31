@@ -1078,7 +1078,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     </message>
     <message>
         <source>Working...</source>
-        <translation>Ag obair...</translation>
+        <translation type="vanished">Ag obair...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5275,7 +5275,7 @@ Ar mhaith leat an taispeántas a imirt?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Is cosúil nárbh fhéidir linn é a sheoladh tar éis %1 iarracht. Ar mhaith leat leanúint ar aghaidh leis an iarracht?</translation>
+        <translation type="vanished">Is cosúil nárbh fhéidir linn é a sheoladh tar éis %1 iarracht. Ar mhaith leat leanúint ar aghaidh leis an iarracht?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="335"/>
@@ -5324,7 +5324,7 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Ag rochtain seibhísí Mhojang.</translation>
+        <translation type="vanished">Ag rochtain seibhísí Mhojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -6383,7 +6383,7 @@ Cúis:
     </message>
     <message>
         <source>Got</source>
-        <translation>Fuair</translation>
+        <translation type="vanished">Fuair</translation>
     </message>
 </context>
 <context>
@@ -6458,7 +6458,7 @@ Cúis:
     </message>
     <message>
         <source>Got </source>
-        <translation>Fuair </translation>
+        <translation type="vanished">Fuair </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="147"/>
@@ -7848,7 +7848,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>D’éirigh le fáil phróifíl Java Minecraft.</translation>
+        <translation type="vanished">D’éirigh le fáil phróifíl Java Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -7885,7 +7885,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Ní thacaíonn an cluiche bunúsach ach le réiteach. Chun an t-iompar uasmhéadaithe a insamhladh, déanann an cur i bhfeidhm reatha garmheastachán ar an uasmhéid taispeána.</translation>
+        <translation type="vanished">Ní thacaíonn an cluiche bunúsach ach le réiteach. Chun an t-iompar uasmhéadaithe a insamhladh, déanann an cur i bhfeidhm reatha garmheastachán ar an uasmhéid taispeána.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -14646,11 +14646,11 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Níl próifíl XBox Live ag an gcuntas Microsoft seo. Ceannaigh an cluiche ar %1 ar dtús.</translation>
+        <translation type="vanished">Níl próifíl XBox Live ag an gcuntas Microsoft seo. Ceannaigh an cluiche ar %1 ar dtús.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Níl Xbox Live ar fáil i do thír féin. Tá bac curtha ort.</translation>
+        <translation type="vanished">Níl Xbox Live ar fáil i do thír féin. Tá bac curtha ort.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -14735,11 +14735,11 @@ Socraigh do chuntas de réir %1 le do thoil.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Theip ar fhíordheimhniú úsáideora Xbox: %1</translation>
+        <translation type="vanished">Theip ar fhíordheimhniú úsáideora Xbox: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Níorbh fhéidir freagra fíordheimhnithe úsáideora Xbox a thuiscint.</translation>
+        <translation type="vanished">Níorbh fhéidir freagra fíordheimhnithe úsáideora Xbox a thuiscint.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

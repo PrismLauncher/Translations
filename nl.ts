@@ -1302,7 +1302,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>Working...</source>
-        <translation>Bezig...</translation>
+        <translation type="vanished">Bezig...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5916,7 +5916,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Het ziet er naar uit dat we het spel na %1 pogingen niet konden lanceren, wilt u blijven proberen?</translation>
+        <translation type="vanished">Het ziet er naar uit dat we het spel na %1 pogingen niet konden lanceren, wilt u blijven proberen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6119,7 +6119,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Toegang krijgen tot Mojang-diensten.</translation>
+        <translation type="vanished">Toegang krijgen tot Mojang-diensten.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7377,7 +7377,7 @@ Reden:
     </message>
     <message>
         <source>Got</source>
-        <translation>Gekregen</translation>
+        <translation type="vanished">Gekregen</translation>
     </message>
 </context>
 <context>
@@ -7488,7 +7488,7 @@ Reden:
     </message>
     <message>
         <source>Got </source>
-        <translation>Ontving </translation>
+        <translation type="vanished">Ontving </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9197,7 +9197,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Ophalen Minecraft Java-profiel is geslaagd.</translation>
+        <translation type="vanished">Ophalen Minecraft Java-profiel is geslaagd.</translation>
     </message>
 </context>
 <context>
@@ -9270,7 +9270,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Het standaardspel ondersteunt alleen resolutie. Om de gemaximaliseerde gerdag te simuleren, benadert de huidige implementatie de maximale schermgrootte.</translation>
+        <translation type="vanished">Het standaardspel ondersteunt alleen resolutie. Om de gemaximaliseerde gerdag te simuleren, benadert de huidige implementatie de maximale schermgrootte.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -17205,11 +17205,11 @@ Weet u het zeker?</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Dit Microsoftaccount heeft geen Xbox Live-profiel. Koop eerst het spel op %1.</translation>
+        <translation type="vanished">Dit Microsoftaccount heeft geen Xbox Live-profiel. Koop eerst het spel op %1.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Live is niet beschikbaar in uw land. U bent geblokkeerd.</translation>
+        <translation type="vanished">Xbox Live is niet beschikbaar in uw land. U bent geblokkeerd.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -17302,11 +17302,11 @@ Stel uw account in volgens %1.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Xbox gebruiker authenticatie mislukt: %1</translation>
+        <translation type="vanished">Xbox gebruiker authenticatie mislukt: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Antwoord van Xbox gebruikers authenticatie kon niet worden begrepen.</translation>
+        <translation type="vanished">Antwoord van Xbox gebruikers authenticatie kon niet worden begrepen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

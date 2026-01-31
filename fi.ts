@@ -1278,7 +1278,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     </message>
     <message>
         <source>Working...</source>
-        <translation>Työstetään...</translation>
+        <translation type="vanished">Työstetään...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5751,7 +5751,7 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Näyttää siltä, että emme onnistuneet käynnistämään %1 yrityksen jälkeen. Haluatko jatkaa yrittämistä?</translation>
+        <translation type="vanished">Näyttää siltä, että emme onnistuneet käynnistämään %1 yrityksen jälkeen. Haluatko jatkaa yrittämistä?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -5956,7 +5956,7 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Yhdistetään Mojang-palveluihin.</translation>
+        <translation type="vanished">Yhdistetään Mojang-palveluihin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7143,7 +7143,7 @@ Syy:
     </message>
     <message>
         <source>Got</source>
-        <translation>Saatiin</translation>
+        <translation type="vanished">Saatiin</translation>
     </message>
 </context>
 <context>
@@ -7246,7 +7246,7 @@ Syy:
     </message>
     <message>
         <source>Got </source>
-        <translation>Saatiin </translation>
+        <translation type="vanished">Saatiin </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="159"/>
@@ -8836,7 +8836,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Minecraft Java -profiilin haku onnistui.</translation>
+        <translation type="vanished">Minecraft Java -profiilin haku onnistui.</translation>
     </message>
 </context>
 <context>
@@ -8905,7 +8905,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Peruspeli tukee vain resoluutiota. Jotta voimme simuloida suurennetun ikkunan toiminnallisuutta, nykyinen implementaatio arvioi näytön maksimikoon.</translation>
+        <translation type="vanished">Peruspeli tukee vain resoluutiota. Jotta voimme simuloida suurennetun ikkunan toiminnallisuutta, nykyinen implementaatio arvioi näytön maksimikoon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -16456,11 +16456,11 @@ Oletko varma?</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Tällä Microsoft-tilillä ei ole Xbox Live-profiilia. Osta peli osoitteesta %1 ensin.</translation>
+        <translation type="vanished">Tällä Microsoft-tilillä ei ole Xbox Live-profiilia. Osta peli osoitteesta %1 ensin.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Live-palvelu ei ole käytettävissä maassasi. Sinut on estetty.</translation>
+        <translation type="vanished">Xbox Live-palvelu ei ole käytettävissä maassasi. Sinut on estetty.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -16545,11 +16545,11 @@ Säädä tilisi ohjeiden mukaan osoitteessa %1.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Xbox-käyttäjätodennus epäonnistui: %1</translation>
+        <translation type="vanished">Xbox-käyttäjätodennus epäonnistui: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Xbox-käyttäjätodennuksen vastausta ei voitu ymmärtää.</translation>
+        <translation type="vanished">Xbox-käyttäjätodennuksen vastausta ei voitu ymmärtää.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

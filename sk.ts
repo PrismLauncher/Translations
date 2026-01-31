@@ -1323,7 +1323,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     </message>
     <message>
         <source>Working...</source>
-        <translation>Prebieha spracovanie...</translation>
+        <translation type="vanished">Prebieha spracovanie...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5768,7 +5768,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Vyzerá to tak, že sa nám nepodarilo spustiť hru po %1 pokusoch. Chcete pokračovať v spúštaní?</translation>
+        <translation type="vanished">Vyzerá to tak, že sa nám nepodarilo spustiť hru po %1 pokusoch. Chcete pokračovať v spúštaní?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -5965,7 +5965,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Spájam Mojang služby.</translation>
+        <translation type="vanished">Spájam Mojang služby.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7172,7 +7172,7 @@ Dôvod:
     </message>
     <message>
         <source>Got</source>
-        <translation>Mám</translation>
+        <translation type="vanished">Mám</translation>
     </message>
 </context>
 <context>
@@ -7271,7 +7271,7 @@ Dôvod:
     </message>
     <message>
         <source>Got </source>
-        <translation>Získal </translation>
+        <translation type="vanished">Získal </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -8864,7 +8864,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Získavanie Minecraft Java profilu bolo úspešné.</translation>
+        <translation type="vanished">Získavanie Minecraft Java profilu bolo úspešné.</translation>
     </message>
 </context>
 <context>
@@ -8906,7 +8906,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Základná hra podporuje iba rozlíšenie. Pre simuláciu maximalizácie, momentálna implementácia odhaduje maximálnu veľkosť displeja.</translation>
+        <translation type="vanished">Základná hra podporuje iba rozlíšenie. Pre simuláciu maximalizácie, momentálna implementácia odhaduje maximálnu veľkosť displeja.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -15915,11 +15915,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Tento Microsoft účet nemá Xbox Live profil. Zakúpte hru na %1 najsôr.</translation>
+        <translation type="vanished">Tento Microsoft účet nemá Xbox Live profil. Zakúpte hru na %1 najsôr.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Live neni dostupný vo vašej krajine. Bol si zablokovaný.</translation>
+        <translation type="vanished">Xbox Live neni dostupný vo vašej krajine. Bol si zablokovaný.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -15998,14 +15998,6 @@ Prosím nastavte si účet podľa %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>XBox user authentication response could not be understood.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

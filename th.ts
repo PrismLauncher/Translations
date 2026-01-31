@@ -1330,7 +1330,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     </message>
     <message>
         <source>Working...</source>
-        <translation>กำลังทำงาน...</translation>
+        <translation type="vanished">กำลังทำงาน...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5639,7 +5639,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>ดูเหมือนว่าเราจะไม่สามารถเปิดได้หลังจากพยายามไปแล้ว %1 ครั้ง คุณต้องการลองพยามต่อหรือไม่?</translation>
+        <translation type="vanished">ดูเหมือนว่าเราจะไม่สามารถเปิดได้หลังจากพยายามไปแล้ว %1 ครั้ง คุณต้องการลองพยามต่อหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -5853,7 +5853,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>กำลังเข้าใช้งานบริการของ Mojang</translation>
+        <translation type="vanished">กำลังเข้าใช้งานบริการของ Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -6864,10 +6864,6 @@ Reason:
         <source>Got MSA token</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Got</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>MSALoginDialog</name>
@@ -6949,10 +6945,6 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="193"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Got </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8164,10 +8156,6 @@ Make sure you also trust the URL.
         <source>Got Minecraft profile</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>MinecraftSettingsWidget</name>
@@ -8205,10 +8193,6 @@ Make sure you also trust the URL.
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
         <translation type="unfinished">เริ่มเกมมายคราฟแบบขยายสุด</translation>
-    </message>
-    <message>
-        <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -14611,11 +14595,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>บัญชี Microsoft นี้ไม่มีโปรไฟล์ XBox Live ซื้อเกมบน %1 ก่อน</translation>
+        <translation type="vanished">บัญชี Microsoft นี้ไม่มีโปรไฟล์ XBox Live ซื้อเกมบน %1 ก่อน</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live ไม่สามารถใช้งานได้ในประเทศของคุณ คุณถูกบล็อก</translation>
+        <translation type="vanished">XBox Live ไม่สามารถใช้งานได้ในประเทศของคุณ คุณถูกบล็อก</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -14700,11 +14684,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>การเข้าสู่ระบบผู้ใช้ XBox ล้มเหลว: %1</translation>
+        <translation type="vanished">การเข้าสู่ระบบผู้ใช้ XBox ล้มเหลว: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished">ไม่สามารถเข้าใจการตอบสนองการรับรองความถูกต้องของผู้ใช้ XBox</translation>
+        <translation type="obsolete">ไม่สามารถเข้าใจการตอบสนองการรับรองความถูกต้องของผู้ใช้ XBox</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

@@ -1331,7 +1331,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <source>Working...</source>
-        <translation>Mengerjakan...</translation>
+        <translation type="vanished">Mengerjakan...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5851,7 +5851,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Sepertinya kita tidak dapat meluncurkan setelah %1 percobaan. Apakah Anda ingin tetap mencoba?</translation>
+        <translation type="vanished">Sepertinya kita tidak dapat meluncurkan setelah %1 percobaan. Apakah Anda ingin tetap mencoba?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -6054,7 +6054,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Mengakses layanan Mojang.</translation>
+        <translation type="vanished">Mengakses layanan Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -7276,7 +7276,7 @@ Alasan:
     </message>
     <message>
         <source>Got</source>
-        <translation>Dapat</translation>
+        <translation type="vanished">Dapat</translation>
     </message>
 </context>
 <context>
@@ -7387,7 +7387,7 @@ Alasan:
     </message>
     <message>
         <source>Got </source>
-        <translation>Dapat </translation>
+        <translation type="vanished">Dapat </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -9036,7 +9036,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Akuisisi profil Minecraft Java sukses.</translation>
+        <translation type="vanished">Akuisisi profil Minecraft Java sukses.</translation>
     </message>
 </context>
 <context>
@@ -9105,7 +9105,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Permainan dasar hanya mendukung resolusi. Implementasi saat ini mengirakan ukuran display maksimal untuk menunjukkan jendela permainan dimaksimalkan.</translation>
+        <translation type="vanished">Permainan dasar hanya mendukung resolusi. Implementasi saat ini mengirakan ukuran display maksimal untuk menunjukkan jendela permainan dimaksimalkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -16753,11 +16753,11 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Akun Microsoft ini tidak mempunyai profil XBox Live. Beli Minecraft di %1 dulu.</translation>
+        <translation type="vanished">Akun Microsoft ini tidak mempunyai profil XBox Live. Beli Minecraft di %1 dulu.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live tidak tersedia di negara anda. Anda telah diblokir.</translation>
+        <translation type="vanished">XBox Live tidak tersedia di negara anda. Anda telah diblokir.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -16850,11 +16850,11 @@ Mohon atur akun anda menurut %1.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Otentikasi pengguna Xbox gagal: %1</translation>
+        <translation type="vanished">Otentikasi pengguna Xbox gagal: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Respons untuk otentikasi pengguna XBox tidak bisa dimengerti.</translation>
+        <translation type="vanished">Respons untuk otentikasi pengguna XBox tidak bisa dimengerti.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

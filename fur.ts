@@ -1078,7 +1078,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Working...</source>
-        <translation>Daûr a elaborâ...</translation>
+        <translation type="vanished">Daûr a elaborâ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5301,7 +5301,7 @@ Desideristu zuiâ ae dimostrazion?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Al somee che nol sedi pussibil inviâ la istance dopo %1 tentatîfs. Desideristu continuâ a provâ?</translation>
+        <translation type="vanished">Al somee che nol sedi pussibil inviâ la istance dopo %1 tentatîfs. Desideristu continuâ a provâ?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="335"/>
@@ -5338,7 +5338,7 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Daûr a jentrâ tai servizis di Mojang.</translation>
+        <translation type="vanished">Daûr a jentrâ tai servizis di Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -6423,7 +6423,7 @@ Motîf:
     </message>
     <message>
         <source>Got</source>
-        <translation>Otignût</translation>
+        <translation type="vanished">Otignût</translation>
     </message>
 </context>
 <context>
@@ -6498,7 +6498,7 @@ Motîf:
     </message>
     <message>
         <source>Got </source>
-        <translation>Otignût </translation>
+        <translation type="vanished">Otignût </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="147"/>
@@ -7891,7 +7891,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Acuisizion dal profîl Java par Minecraft lade a bon fin.</translation>
+        <translation type="vanished">Acuisizion dal profîl Java par Minecraft lade a bon fin.</translation>
     </message>
 </context>
 <context>
@@ -7933,7 +7933,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Il zûc di base al supuarte nome une risoluzion. Par simulâ il compuartament di un barcon slargjât, la implementazion atuâl e aprossime lis dimensions massimis dal schermi.</translation>
+        <translation type="vanished">Il zûc di base al supuarte nome une risoluzion. Par simulâ il compuartament di un barcon slargjât, la implementazion atuâl e aprossime lis dimensions massimis dal schermi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -14741,11 +14741,11 @@ Eliminâ pardabon?</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Chest account Microsoft nol à un profîl XBox Live. Prime, compre il zûc su %1.</translation>
+        <translation type="vanished">Chest account Microsoft nol à un profîl XBox Live. Prime, compre il zûc su %1.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live nol è disponibil tal to paîs. Tu sês stât/stade blocât/blocade.</translation>
+        <translation type="vanished">XBox Live nol è disponibil tal to paîs. Tu sês stât/stade blocât/blocade.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -14830,11 +14830,11 @@ Par plasê configure il to account secont di %1.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation>Autenticazion utent XBox falide: %1</translation>
+        <translation type="vanished">Autenticazion utent XBox falide: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Nol è stât pussibil capî la rispueste de autenticazion dal utent XBox.</translation>
+        <translation type="vanished">Nol è stât pussibil capî la rispueste de autenticazion dal utent XBox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>

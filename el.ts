@@ -1283,7 +1283,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Working...</source>
-        <translation>Ένα λεπτό...</translation>
+        <translation type="vanished">Ένα λεπτό...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="97"/>
@@ -5314,10 +5314,6 @@ You can change the Java version in the settings later.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
         <source>Player name</source>
         <translation>Όνομα παίκτη</translation>
@@ -5504,7 +5500,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation>Πρόσβαση στις υπηρεσίες της Mojang.</translation>
+        <translation type="vanished">Πρόσβαση στις υπηρεσίες της Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -6593,10 +6589,6 @@ Reason:
         <source>Got MSA token</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Got</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>MSALoginDialog</name>
@@ -6686,7 +6678,7 @@ Reason:
     </message>
     <message>
         <source>Got </source>
-        <translation>Έλαβα </translation>
+        <translation type="vanished">Έλαβα </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -7990,10 +7982,6 @@ Make sure you also trust the URL.
         <source>Got Minecraft profile</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>MinecraftSettingsWidget</name>
@@ -8026,10 +8014,6 @@ Make sure you also trust the URL.
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
         <translation type="unfinished">Εκκίνηση του Minecraft σε πλήρη οθόνη</translation>
-    </message>
-    <message>
-        <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -14942,14 +14926,6 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
@@ -15024,14 +15000,6 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>XBox user authentication response could not be understood.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
