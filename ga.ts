@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Freastalaí Leabharlanna FML Seanchéada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Is féidir leat é seo a shocrú chuig freastalaí eile má bhíonn fadhbanna agat le leabharlanna FML oidhreachta (Minecraft 1.5.2 agus níos luaithe) a íoslódáil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -2229,7 +2229,7 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an sampla seo a sheoladh mar gheall ar easpa leabharlann nó nár íoslódáladh iad fós. Déan iarracht arís i mód ar líne le nasc Idirlín atá ag obair</translation>
     </message>
 </context>
 <context>
@@ -3081,63 +3081,64 @@ Déan iarracht arís.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag fáil an léirmheasa...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar leagan an phacáiste %1 a aimsiú</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir manifíl an phacáiste a thuiscint:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag réiteach mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Maniféis neamhbhailí: Níl aon fhaisnéis ar fáil chun an comhad &apos;%1&apos; a íoslódáil!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Comhaid blocáilte aimsithe</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Níl na comhaid seo a leanas ar fáil le híoslódáil i lainseálaithe tríú páirtí.&lt;br/&gt;Beidh ort iad a íoslódáil de láimh agus iad a chur leis an sampla.</translation>
+        <translation>Níl na comhaid seo a leanas ar fáil le híoslódáil i lainseálaithe tríú páirtí.&lt;br/&gt;Beidh ort iad a íoslódáil de láimh agus iad a chur leis an sampla.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag cruthú an sampla...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Ag íoslódáil mods...</translation>
+        <translation>Ag íoslódáil mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod íoslódáil</translation>
+        <translation>Íoslódáil mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Ag Cóipeáil Leasuithe Coiscthe...</translation>
+        <translation>Ag Cóipeáil Modanna Blocáilte...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Ag Cóipeáil Leanuithe Coiscthe (%1 as %2 atá críochnaithe)</translation>
+        <translation>Ag Cóipeáil Modanna Blocáilte (tá %1 as %2 críochnaithe)</translation>
     </message>
 </context>
 <context>
@@ -3566,17 +3567,17 @@ Déan iarracht arís.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir Drámaí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir Suiteálacha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sórtáil de réir Ainm</translation>
+        <translation>Sórtáil de réir Ainm</translation>
     </message>
 </context>
 <context>
@@ -3584,17 +3585,17 @@ Déan iarracht arís.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Leagan roghnaithe:</translation>
+        <translation>Leagan roghnaithe:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Cuardaigh agus scagadh...</translation>
+        <translation>Cuardaigh agus scagaire...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="74"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nóta: Tá go leor modpacks FTB le déanaí ar fáil ó CurseForge freisin!</translation>
     </message>
 </context>
 <context>
@@ -5956,32 +5957,32 @@ Moltar rochtain a thabhairt do %1 air trí Flatseal.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Ag seiceáil le haghaidh leabharlanna FML...</translation>
+        <translation>Ag seiceáil le haghaidh leabharlanna FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Ag íoslódáil leabharlanna FML...</translation>
+        <translation>Ag íoslódáil leabharlanna FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
         <source>Aborted</source>
-        <translation type="unfinished">Tobscortha</translation>
+        <translation>Arna chur ar ceal</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Ag cóipeáil leabharlanna FML isteach sa chás...</translation>
+        <translation>Ag cóipeáil leabharlanna FML isteach sa chás...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Theip ar chruthú fillteán leabharlainne FML laistigh den chás.</translation>
+        <translation>Theip ar chruthú fillteán leabharlainne FML laistigh den chás.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Theip ar chóipeáil leabharlann Forge/FML: %1.</translation>
+        <translation>Theip ar chóipeáil leabharlann Forge/FML: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -5990,7 +5991,7 @@ Moltar rochtain a thabhairt do %1 air trí Flatseal.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Theip ar na comhaid seo a leanas a íoslódáil:
+        <translation>Theip ar na comhaid seo a leanas a íoslódáil:
 %1
 
 Cúis:%2
@@ -7571,7 +7572,7 @@ Ní féidir é seo a nuashonrú ach amháin trí chomhad i bhformáid %1 a úsá
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="144"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
@@ -7580,7 +7581,11 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Is modpack áitiúil é seo.
+Is féidir é seo a nuashonrú trí chomhad i bhformáid %1 nó URL a úsáid.
+Ná húsáid formáid dhifriúil seachas an ceann a luaitear mar d&apos;fhéadfadh sé an sampla a bhriseadh.
+Déan cinnte go bhfuil muinín agat as an URL freisin.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="234"/>
@@ -8177,27 +8182,27 @@ Is dóichí go mbeidh ort an cosán a athrú - féach ar shuíomh Gréasáin an 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
         <source>Babric</source>
-        <translation type="unfinished">Babric</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">BTA (Babric)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Fabraic Oidhreachta</translation>
+        <translation>Fabraic Oidhreachta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
         <source>Rift</source>
-        <translation type="unfinished">Scoilt</translation>
+        <translation>Scoilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
@@ -8535,12 +8540,12 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Requires</source>
-        <translation type="unfinished"></translation>
+        <translation>Éilíonn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation type="unfinished"></translation>
+        <translation>Riachtanach Faoi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="198"/>
@@ -8595,121 +8600,137 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="218"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>I gcás gach mod, líon na mods eile atá ag brath air.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="220"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation type="unfinished"></translation>
+        <translation>I gcás gach mod, braitheann líon na mods eile air.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="433"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Deimhnigh an lascán</translation>
+        <translation>Deimhnigh scoránaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="434"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Má athraítear na mod(anna) seo, beidh athruithe ar mhodanna eile mar thoradh air.
+</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="435"/>
         <source>%n mod(s) will be enabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Cuirfear %n mod ar siúl
+</numerusform>
+            <numerusform>Cumasófar %n mod
+</numerusform>
+            <numerusform>Cumasófar %n mod
+</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="436"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Díchumasófar %n mod
+</numerusform>
+            <numerusform>Díchumasófar %n modhanna
+</numerusform>
+            <numerusform>Díchumasófar %n modhanna
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="437"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar mhaith leat na hathruithe gaolmhara seo a chur i bhfeidhm go huathoibríoch?
+D’fhéadfadh neamhaird a dhéanamh orthu an cluiche a bhriseadh.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="438"/>
         <source>Only Toggle Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Amháin Scoránaigh Roghnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="439"/>
         <source>Toggle Required Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh na Modhanna Riachtanacha</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
         <source>Confirm enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh cumasú</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Éilíonn an mod cumasaithe %n mod.
+</numerusform>
+            <numerusform>Éilíonn na modhanna cumasaithe %n modhanna.
+</numerusform>
+            <numerusform>Éilíonn na modhanna cumasaithe %n modhanna.
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar mhaith leat iad a chumasú chomh maith?
+D’fhéadfadh neamhaird a dhéanamh orthu cur isteach ar an gcluiche.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
         <source>Only Enable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumasaigh Roghnaithe Amháin</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
         <source>Enable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumasaigh Riachtanach</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Confirm disable</source>
-        <translation type="unfinished">Deimhnigh an díchumasú</translation>
+        <translation>Deimhnigh díchumasú</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tá an mod díchumasaithe ag teastáil ó %n mod.
+</numerusform>
+            <numerusform>Tá na mod díchumasaithe ag teastáil ó %n modhanna.
+</numerusform>
+            <numerusform>Tá na mod díchumasaithe ag teastáil ó %n modhanna.
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar mhaith leat iad a dhíchumasú chomh maith?
+D’fhéadfadh neamhaird a dhéanamh orthu an cluiche a chur as feidhm.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
         <source>Only Disable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasaigh Roghnaithe Amháin</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Disable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasaigh Riachtanach</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -8755,13 +8776,14 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="144"/>
         <source>Confirm Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh Díchumasú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá na mods atá tú ag iarraidh a scriosadh ag teastáil ó %1 mod.
+Ar mhaith leat iad a dhíchumasú?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="185"/>
