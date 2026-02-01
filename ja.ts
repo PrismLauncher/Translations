@@ -2518,7 +2518,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>一部のライブラリが不足しているか、まだダウンロードされていないため、この起動構成を起動できません。インターネットに接続して、オンラインモードで再度お試しください</translation>
     </message>
 </context>
 <context>
@@ -3454,63 +3454,64 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished">マニフェストを取得中…</translation>
+        <translation>マニフェストを取得中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">パックのバージョン %1 が見つかりませんでした</translation>
+        <translation>パックバージョン %1 が見つかりませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>パックのマニフェストを解釈できませんでした:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished">modを解決中…</translation>
+        <translation>Modを解決中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished">無効なマニフェスト: 「%1」をダウンロードするのに必要な有効な情報がありません！</translation>
+        <translation>無効なマニフェスト: ファイル「%1」をダウンロードするための情報がありません！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
         <source>Blocked files found</source>
-        <translation type="unfinished">ブロックされたファイルが見つかりました</translation>
+        <translation>ブロックされたファイルを発見</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>以下のファイルはサードパーティのランチャーでのダウンロードができません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished">起動構成を作成中…</translation>
+        <translation>起動構成を作成中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modをダウンロード中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Modのダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックされたModをコピー中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックされたModをコピー中 (%2 のうち %1 が完了)</translation>
     </message>
 </context>
 <context>
@@ -4065,7 +4066,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="74"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>注意: 最近のFTB Modパックの多くはCurseForgeからも入手可能です！</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -5897,7 +5898,7 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1回試行しましたが、起動できませんでした。通常、これはMicrosoftアカウントからログアウトし、再度ログインすることで解決できます。それでも解決しない場合、Minecraftの認証サーバーに障害が発生しているか、お住まいの地域でVPNが必要な可能性があります。引き続き試行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6135,7 +6136,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftアクセストークンを取得中</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6151,7 +6152,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftアクセストークンを取得しました</translation>
     </message>
 </context>
 <context>
@@ -6728,32 +6729,32 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">FMLライブラリをチェック中...</translation>
+        <translation>FMLライブラリをチェック中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">FMLライブラリをダウンロード中…</translation>
+        <translation>FMLライブラリをダウンロード中…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>中断されました</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">起動構成にFMLライブラリをコピー中...</translation>
+        <translation>起動構成にFMLライブラリをコピー中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">起動構成内にFMLライブラリフォルダを作成することができませんでした。</translation>
+        <translation>起動構成内にFMLライブラリフォルダを作成できませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Forge/FMLライブラリのコピーに失敗しました: %1。</translation>
+        <translation>Forge/FMLライブラリのコピーに失敗しました: %1。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6762,7 +6763,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">以下のファイルのダウンロードに失敗しました:
+        <translation>以下のファイルのダウンロードに失敗しました:
 %1
 
 理由: %2
@@ -7336,7 +7337,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSAトークンを取得しました</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7423,7 +7424,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="147"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSAトークンを取得しました</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
@@ -8709,7 +8710,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="144"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
@@ -8718,7 +8719,11 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>これはローカルのModパックです。
+%1形式のファイルまたはURLを使って更新できます。
+起動構成が破損する可能性があるため、記載されている形式以外のものを使用しないでください。
+また、URLは信頼できるものであることを確認してください。
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="234"/>
@@ -9115,7 +9120,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftのプロフィールを取得しました</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
@@ -9174,7 +9179,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>ベースゲームは解像度のみに対応しています。最大化の動作を再現するため、現在の実装では最大表示サイズを近似します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
@@ -9419,27 +9424,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
         <source>Babric</source>
-        <translation type="unfinished">Babric</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">BTA (Babric)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Legacy Fabric</translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
         <source>Rift</source>
-        <translation type="unfinished">Rift</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
@@ -9840,12 +9845,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Requires</source>
-        <translation type="unfinished"></translation>
+        <translation>依存</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation type="unfinished"></translation>
+        <translation>依存元</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="198"/>
@@ -9875,113 +9880,121 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="218"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>そのModに依存する他のModの数。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="220"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation type="unfinished"></translation>
+        <translation>そのModが依存するModの数。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="433"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">切り替えの確認</translation>
+        <translation>切り替えの確認</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="434"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>これらのModを切り替えると、他のModにも変更が発生します。
+</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="435"/>
         <source>%n mod(s) will be enabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 個のModが有効になります
+</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="436"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 個のModが無効になります
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="437"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>これらの関連する変更を自動的に適用しますか？
+無視するとゲームが動作しなくなる可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="438"/>
         <source>Only Toggle Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>選択項目のみ切り替える</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="439"/>
         <source>Toggle Required Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>依存Modを切り替える</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
         <source>Confirm enable</source>
-        <translation type="unfinished"></translation>
+        <translation>有効化の確認</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>有効化されるModは %n 個のModを必要とします。
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>それらも有効にしますか？
+無視するとゲームが動作しなくなる可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
         <source>Only Enable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>選択項目のみ有効化</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
         <source>Enable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>必須Modも有効化</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Confirm disable</source>
-        <translation type="unfinished">無効化の確認</translation>
+        <translation>無効化の確認</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>無効化されるModは %n 個のModを必要とします。
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>それらも無効にしますか？
+無視するとゲームが動作しなくなる可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
         <source>Only Disable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>選択項目のみ無効化</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Disable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>必須Modも無効化</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
@@ -10288,13 +10301,14 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="144"/>
         <source>Confirm Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>無効化の確認</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation type="unfinished"></translation>
+        <translation>削除しようとしているModは、%1 個のModによって必要とされています。
+それらを無効にしますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="263"/>
@@ -17092,7 +17106,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>このMicrosoftアカウントにはXbox Liveプロフィールがありません。まず %1 でゲームを購入してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
