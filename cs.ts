@@ -3486,7 +3486,7 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Nepodařilo se najít verzi balíčku %1</translation>
+        <translation>Nepodařilo se najít verzi balíčku %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
