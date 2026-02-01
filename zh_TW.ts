@@ -4143,7 +4143,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="74"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation>注意：許多新的FTB模組包也可以從CurseForge下載！</translation>
+        <translation>注意：許多近期推出的 FTB 模組包也可以在 CurseForge 上取得！</translation>
     </message>
     <message>
         <source>FTB</source>
