@@ -29,7 +29,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="411"/>
         <source>Use Default</source>
-        <translation>השתמש בברירת מחדל</translation>
+        <translation>שימוש בברירת מחדל</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -39,12 +39,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation>שרת קבצים</translation>
+        <translation>שרת משאבים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>ניתן לשנות לשרת אחר אם יש בעיות בהורדת קבצים.</translation>
+        <translation>ניתן לעבור לשרת אחר אם יש בעיות בהורדת המשאבים.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
@@ -65,7 +65,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="233"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>חיבור Microsoft</translation>
+        <translation>כניסה עם Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="288"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>הערה: סביר להניח שלא יהיה צורך להגדיר את זה אם חיבור Microsoft כבר עובד.</translation>
+        <translation>הערה: סביר להניח שלא יהיה צורך להגדיר זאת אם הכניסה עם Microsoft כבר עובדת.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -138,12 +138,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
         <source>User Agent</source>
-        <translation>User Agent</translation>
+        <translation>סוכן משתמש</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>אפשר למלא כאן סוכן משתמש מותאם אישית. המחרוזת המיוחדת ‎$LAUNCHER_VER‏ תוחלף בגרסת המשגר.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -367,7 +367,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation>קרדיטים</translation>
+        <translation>תודות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
@@ -439,7 +439,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation>חשבון מיקרוסופט</translation>
+        <translation>‏Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="348"/>
@@ -491,7 +491,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>סוג החשבון (מיקרוסופט או לא מקוון)</translation>
+        <translation>סוג החשבון (Microsoft או לא מקוון)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -641,7 +641,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>רענן</translation>
+        <translation>&amp;רענון</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="102"/>
@@ -715,7 +715,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>אתם צריכים להוסיף חשבון מיקרוסופט עם מיינקראפט לפני שאתם מוסיפים חשבון לא מקוון.&lt;br&gt;&lt;br&gt;אם אינכם זוכרים את פרטי המשתמש אנא פנו למיקרוסופט לתמיכה.</translation>
+        <translation>חובה להוסיף חשבון Microsoft שהמשחק Minecraft בבעלותו לפני שיתאפשר להוסיף חשבון לא מקוון.&lt;br&gt;&lt;br&gt;אם איבדת את חשבונך, אפשר לפנות אל Microsoft לקבלת תמיכה.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -1035,7 +1035,7 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation>תיקיית /tmp שלך כרגע מוגדרת עם דגל ה&apos;noexec&apos;.
+        <translation type="unfinished">תיקיית /tmp שלך כרגע מוגדרת עם דגל ה&apos;noexec&apos;.
 יתכן שחלק מגרסאות מיינקראפט לא יופעלו.
 
 אתה יכול לפטור בעייה זאת באמצעות שינוי /tmp ל&apos;exec&apos; או להגדיר את הjava.io.tmpdir JVM argument כתיקייה אשר אפשר לכתוב בה במערכת קבצים בה דגל ה&apos;exec&apos; קיים (לדוגמא: /home/user/.local/tmp)
@@ -1574,7 +1574,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>ממלא מקום של תוויות הודעה.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
@@ -1632,7 +1632,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>נסה להשתמש אוטומטית בספקים אחרים אם הנבחר נכשל</translation>
+        <translation>כדאי להשתמש אוטומטית בספקים אחרים אם ספק אחד נכשל</translation>
     </message>
 </context>
 <context>
@@ -1824,18 +1824,18 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation>השתמש בקישור קבצים במקום להעתיק אותם.</translation>
+        <translation>שימוש בקישורים קשיחים במקום העתקת קבצים.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation>השתמש בקישור קשיח</translation>
+        <translation>שימוש בקישורים קשיחים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation>השתמש בקישורים סימבוליים במקום להעתיק קבצים.</translation>
+        <translation>שימוש בקישורים סימבוליים במקום להעתיק קבצים.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
@@ -1968,7 +1968,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation>השתמש בחשבון שונה מזה שצוין כברירת מחדל.</translation>
+        <translation>שימוש בחשבון שונה מזה שצוין כברירת מחדל.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
@@ -3231,7 +3231,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
         <source>&amp;VisualVM</source>
-        <translation>וVisualVM</translation>
+        <translation>‏&amp;VisualVM</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
@@ -4402,7 +4402,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="148"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>התקנת טוען</translation>
     </message>
 </context>
 <context>
@@ -4410,7 +4410,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="40"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">אין גרסאות זמינות כרגע עבור מיינקרפט %1</translation>
+        <translation>כרגע אין גרסאות זמינות עבור Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -5183,7 +5183,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>הכמות המקסימלית של זיכרון שמיינקראפט מורשה להשתמש.</translation>
+        <translation>כמות הזיכרון המרבית בה Minecraft מורשה להשתמש.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -5435,7 +5435,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">הכמות המקסימלית של זיכרון שמיינקראפט מורשה להשתמש.</translation>
+        <translation>כמות הזיכרון המרבית בה Minecraft מורשה להשתמש.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
@@ -5511,7 +5511,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>לא רואה את השפה שלך או שאיכות התרגום גרועה?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;אפשר לעזור לנו לתרגם!&lt;/a&gt;</translation>
+        <translation>לא רואה את השפה שלך או שאיכות התרגום גרועה?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;אפשר לעזור לנו בתרגום!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
@@ -6053,7 +6053,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
         <source>Log History &amp;Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>מ&amp;כסת היסטוריית יומן:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
@@ -6068,7 +6068,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
         <source>Concurrent Download Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>מגבלת הורדות מקבילות:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
@@ -6078,7 +6078,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>מגבלת תהליכים מקבילים:</translation>
     </message>
     <message>
         <source>Console Settings</source>
@@ -6564,7 +6564,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>שורות צבעוניות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
@@ -6800,7 +6800,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>התקבל אסימון חשבון Microsoft</translation>
     </message>
 </context>
 <context>
@@ -6863,12 +6863,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="147"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>התקבל אסימון חשבון Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>רענון האסימון נכשל.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="181"/>
@@ -7069,7 +7069,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
         <source>Instance Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>סרגל הכלים של העותק</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
@@ -7125,7 +7125,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="624"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>מרחב &amp;Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
@@ -7145,7 +7145,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;עותקים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="534"/>
@@ -7195,7 +7195,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>א&amp;גודת ה־Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
@@ -7242,7 +7242,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ערכות חתולים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
@@ -7273,12 +7273,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>ניהול &amp;חשבונות...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>נעילת סרגלי כלים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
@@ -7298,7 +7298,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>ת&amp;צוגה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
@@ -7353,7 +7353,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>פתיחת מרחב ה־Matrix של %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="686"/>
@@ -7534,7 +7534,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <source>Total playtime: 0s</source>
-        <translation>סך כל זמן המשחק: 0 שנ׳</translation>
+        <translation>זמן משחק בסה״כ: 0 שנ׳</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -7795,7 +7795,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1671"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>זמן משחק בסה״כ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="853"/>
@@ -7809,7 +7809,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>פתיחת אגודת ה־Discord של %1.</translation>
     </message>
     <message>
         <source>Couldn&apos;t create folder for update downloads:
@@ -8070,7 +8070,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;אסימון גישה&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
@@ -8246,7 +8246,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>יציאה מהמשגר כאשר חלון המשחק נסגר</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -8336,12 +8336,12 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">השתמש בהתקנת המערכת של OpenAL</translation>
+        <translation>שימוש בהתקנת OpenAL של המערכת</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="709"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">השתמש בהתקנת המערכת של GLFW</translation>
+        <translation>שימוש בהתקנת GLFW של המערכת</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
@@ -9196,7 +9196,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="414"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>יש צורך בהתקנת טוען מודים תואם לפני שמתקינים מודים. האם ברצונך לעשות זאת?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="260"/>
@@ -10029,7 +10029,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>שורות צבעוניות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
@@ -10196,7 +10196,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;אישור</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
@@ -10853,7 +10853,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
         <source>Uses your system&apos;s default proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>שימוש בברירת המחדל של המערכת להגדרות המתווך.</translation>
     </message>
     <message>
         <source>&amp;Default</source>
@@ -11931,7 +11931,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>סקירה ואישור</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="73"/>
@@ -12769,7 +12769,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>שם קובץ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -12789,7 +12789,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="93"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>סוג גרסה: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
@@ -13069,7 +13069,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
         <source>Ask to download</source>
-        <translation type="unfinished"></translation>
+        <translation>לשאול אם להוריד</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="114"/>
@@ -14116,7 +14116,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="393"/>
         <source>Completeness</source>
-        <translation>אחוז השלמה</translation>
+        <translation>אחוזי שלמות</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="399"/>
@@ -14374,12 +14374,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>הוספת סוכנים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="188"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>הוספת סוכני Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
@@ -14457,12 +14457,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="164"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>התקנת טוען</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="167"/>
         <source>Install a mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>התקנת טוען מודים.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="196"/>
@@ -14594,7 +14594,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Java agents</source>
-        <translation type="unfinished"></translation>
+        <translation>סוכני Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
@@ -14624,7 +14624,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>בחירת סוכנים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
@@ -14857,7 +14857,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>התאמה אישית של פעולות סרגל הכלים</translation>
     </message>
 </context>
 <context>
