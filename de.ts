@@ -6096,7 +6096,7 @@ Sie können die Java-Version in den Einstellungen später ändern.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Auch nach %1 Versuchen konnten wir nicht starten. Normalerweise lässt sich dies durch Aus- und erneutes Einloggen in deinen Microsoft-Account beheben. Wenn dies nicht funktioniert, kann es sein, dass die Authentifizierungsserver von Minecraft nicht erreichbar sind oder du in deiner Region eine VPN-Verbindung benötigst. Möchtest du es erneut versuchen?</translation>
+        <translation>Es sieht aus, als ob wir das Spiel nach %1 Versuchen nicht starten konnten. Normalerweise lässt sich das beheben, indem sie sich aus ihrem Microsoft-Konto abmelden und anschließend wieder anmelden. Falls dies nicht funktioniert, könnten die Minecraft-Authentifizierungsserver einen Serviceunterbruch haben oder sie brauchen ein VPN in ihrer Region. Wollen sie es weiter versuchen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
