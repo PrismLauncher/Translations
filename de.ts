@@ -3510,12 +3510,12 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished">Manifest erhalten...</translation>
+        <translation>Manifest wird angefordert ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Modpack Version %1 konnte nicht gefunden werden</translation>
+        <translation>Modpack-Version %1 konnte nicht gefunden werden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
@@ -3527,7 +3527,7 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished">Mods auflösen...</translation>
+        <translation>Mods auflösen ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
@@ -3567,7 +3567,7 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere blockierte Mods (%1 aus %2 sind fertig)</translation>
     </message>
 </context>
 <context>
@@ -4187,7 +4187,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="74"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmerkung: Viele aktuelle FTB-Mod‑Pakete sind auch über CurseForge erhältlich!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -6096,7 +6096,7 @@ Sie können die Java-Version in den Einstellungen später ändern.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Auch nach %1 Versuchen konnten wir nicht starten. Normalerweise lässt sich dies durch Aus- und erneutes Einloggen in deinen Microsoft-Account beheben. Wenn dies nicht funktioniert, kann es sein, dass die Authentifizierungsserver von Minecraft nicht erreichbar sind oder du in deiner Region eine VPN-Verbindung benötigst. Möchtest du es erneut versuchen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
