@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>שרת ספריות FML מיושנות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>אפשר לעבור לשרת אחר אם יש בעיות בהורדת ספריות ה־FML המיושנות (עבור Minecraft 1.5.2 או גרסאות מוקדמות יותר).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -651,12 +651,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;הגבהה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>ה&amp;נמכה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -1035,10 +1035,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished">תיקיית /tmp שלך כרגע מוגדרת עם דגל ה&apos;noexec&apos;.
-יתכן שחלק מגרסאות מיינקראפט לא יופעלו.
+        <translation>תיקיית ‎/tmp‏ במחשבך מעוגנת כרגע כאשר הדגלון ‚noexec’ מופעל.
+ייתכן שגרסאות מסוימות של Minecraft לא יפעלו.
 
-אתה יכול לפטור בעייה זאת באמצעות שינוי /tmp ל&apos;exec&apos; או להגדיר את הjava.io.tmpdir JVM argument כתיקייה אשר אפשר לכתוב בה במערכת קבצים בה דגל ה&apos;exec&apos; קיים (לדוגמא: /home/user/.local/tmp)
+אפשר לתקן בעיה זו באמצעות עגינה מחדש של ‎/tmp‏ עם דגלון ‚exec’ או הגדרת ארגומנט ה־JVM‏ ‚java.io.tmpdir’ בתור תיקייה ניתנת לכתיבה במערכת קבצים בה כן נקבע הדגלון ‚exec’ (למשל: ‎~/.local/tmp‏)
 </translation>
     </message>
     <message>
@@ -1501,7 +1501,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;תיקיית המודים הגלובלית שתצורתה מוגדרת ותיקיית ההורדות המוגדרת כברירת מחדל נבדקות אוטומטית עבור המודים שהורדו, והם יועתקו למופע אם יימצאו.&lt;/p&gt;&lt;p&gt;לחלופין, ניתן לגרור ולשחרר את המודים שהורדו לתוך תיבת דו-שיח זו או להוסיף תיקייה לצפייה אם לא הורדת את המודים למיקום ברירת מחדל.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;לחץ על &apos;פתח חסר&apos; כדי לפתוח את כל קישורי ההורדה בדפדפן.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -2518,7 +2518,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>לא ניתן להפעיל עותק זה משום שספריות מסוימות חסרות או לא הורדו עדיין. נא לנסות שוב במצב מקוון עם חיבור אינטרנט פעיל</translation>
     </message>
 </context>
 <context>
@@ -2554,7 +2554,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="50"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;הוספה</translation>
+        <translation>הו&amp;ספה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
@@ -2667,7 +2667,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;שם:</translation>
+        <translation>&amp;שם:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
@@ -3413,24 +3413,24 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>המניפסט מתקבל...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">לא ניתן היה למצוא את גרסה %1 של החבילה</translation>
+        <translation>לא נמצאה גרסה %1 של החבילה</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">לא ניתן היה להבין את המניפסט של החבילה:
+        <translation>לא היה ניתן להבין את המניפסט של החבילה:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>המודים מפוענחים...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
@@ -3440,7 +3440,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>נמצאו קבצים חסומים</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
@@ -3450,27 +3450,27 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>העותק בהליכי יצירה...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>המודים מתקבלים...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation type="unfinished">הורדת מוד</translation>
+        <translation>הורדת מוד</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">המודים החסומים מועתקים...</translation>
+        <translation>המודים החסומים מועתקים...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">העתקת מודים חסומים (%1 מתוך %2 הסתיימו)</translation>
+        <translation>המודים החסומים מועתקים (הושלמו %1 מתוך %2)</translation>
     </message>
 </context>
 <context>
@@ -3524,7 +3524,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="110"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="126"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation>‎Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3656,12 +3656,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="307"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">לא ניתן היה למצוא גרסה עבור המטען %1</translation>
+        <translation>לא נמצאה גרסה עבור הטוען %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">לא הוגדרה גרסת מטען עבור חבילת המודים!</translation>
+        <translation>לא הוגדרה גרסת טוען לערכת המודים!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="348"/>
@@ -3683,7 +3683,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">נקודות מסתוריות בסוף הגרסה הוסרו מגרסת המיינקרפט בעת ייבוא החבילה.</translation>
+        <translation>הוסרו נקודות עודפות מסתוריות מגרסת Minecraft בעת הייבוא של הערכה.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
@@ -3844,7 +3844,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="219"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="282"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">ניתוח תגובת API מ-CurseForge עבור &apos;%1&apos;...</translation>
+        <translation>תגובת ה־API מ־CurseForge עבור ‚%1’ בהליכי פענוח...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
@@ -3972,7 +3972,7 @@ Please try again.</source>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">יצירת תיקייה עבור קבצי ההרצה של מיינקרפט נכשלה.</translation>
+        <translation>נכשלה יצירת התיקייה לקבצים הבינריים של Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -3987,7 +3987,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">מיין לפי מספר התקנות</translation>
+        <translation>מיון לפי כמות התקנות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
@@ -4012,7 +4012,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="74"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>הערה: ערכות מודים עדכניות רבות של FTB זמינות גם דרך CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4090,7 +4090,7 @@ Please try again.</source>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="187"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>אירעה שגיאת רשת. נכשלה טעינת תלויות המיזם: %1</translation>
     </message>
 </context>
 <context>
@@ -4254,7 +4254,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>כתובת זו אינה ערכת מודים תקנית!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
@@ -4348,13 +4348,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>לא היה ניתן לטעון או להוריד את רשימות הגרסאות של Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>כרגע אין גרסאות זמינות של Java למערכת ההפעלה שלך.</translation>
     </message>
 </context>
 <context>
@@ -4387,17 +4387,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>Fabric</source>
-        <translation>Fabric</translation>
+        <translation>‏Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Quilt</source>
-        <translation>Quilt</translation>
+        <translation>‏Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>LiteLoader</source>
-        <translation>LiteLoader</translation>
+        <translation>‏LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="148"/>
@@ -4452,12 +4452,13 @@ Please try again.</source>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="29"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בעת יצירת עותק חדש:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="31"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בעת יצירת עותק חדש.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
@@ -4467,7 +4468,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>נכשלה מחיקת הקבצים המתנגשים הישנים.</translation>
     </message>
 </context>
 <context>
@@ -4487,7 +4488,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>מתבצע ניסיון לזיהוי סוג העותק</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
@@ -4878,7 +4879,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
         <source>Listening on port: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>מתבצעת האזנה בפתחה: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
@@ -4895,7 +4896,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>‏VisualVM החל</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -4930,7 +4931,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">אין אפשרות לפתוח את קובץ ה-zip שסופק.</translation>
+        <translation>אין אפשרות לפתוח את קובץ ה־zip שסופק.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
@@ -4962,17 +4963,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="282"/>
         <source>Mojang</source>
-        <translation>Mojang</translation>
+        <translation>‏Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="284"/>
         <source>Adoptium</source>
-        <translation>Adoptium</translation>
+        <translation>‏Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Azul Zulu</source>
-        <translation>Azul Zulu</translation>
+        <translation>‏Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="292"/>
@@ -4983,7 +4984,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="318"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">לא היה ניתן לזהות את סוג ההורדה של Java!</translation>
+        <translation>לא היה ניתן לזהות את סוג ההורדה של Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
@@ -5154,7 +5155,8 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>עומדת להתבצע הסרה של התקנת Java בשם „%1”.
+להמשיך?</translation>
     </message>
 </context>
 <context>
@@ -5174,7 +5176,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>איתור קובץ להרצה של Java</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -5197,12 +5199,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>הת&amp;קנת Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>ז&amp;יהוי אוטומטי של גרסת Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
@@ -5240,12 +5242,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>ז&amp;יהוי</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>עיו&amp;ן</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
@@ -6128,7 +6130,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</translation>
+        <translation>להשתמש בנתיב זה? בחירת האפשרות „לא” תסגור חלונית זו ולא תשנה את נתיב העותק שלך.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
@@ -6413,7 +6415,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">המשימה בוטלה על ידי המשתמש.</translation>
+        <translation>המשימה ננטשה על ידי המשתמש.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
@@ -7550,7 +7552,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished">מחק קבוצה %1</translation>
+        <translation>מ&amp;חיקת קבוצה</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -7603,7 +7605,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">המשימה בוטלה על ידי המשתמש.</translation>
+        <translation>המשימה ננטשה על ידי המשתמש.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
@@ -7911,7 +7913,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="210"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">המשימה בוטלה על ידי המשתמש.</translation>
+        <translation>המשימה ננטשה על ידי המשתמש.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="215"/>
@@ -8085,7 +8087,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation>‎Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
@@ -8189,7 +8191,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
         <source>Minecraft</source>
-        <translation>Minecraft</translation>
+        <translation>‏Minecraft</translation>
     </message>
 </context>
 <context>
@@ -8437,27 +8439,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation>NeoForge</translation>
+        <translation>‏NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation>Forge</translation>
+        <translation>‏Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation>Fabric</translation>
+        <translation>‏Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation>Quilt</translation>
+        <translation>‏Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation>LiteLoader</translation>
+        <translation>‏LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
@@ -8634,22 +8636,22 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation>NeoForge</translation>
+        <translation>‏NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation>Forge</translation>
+        <translation>‏Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation>Fabric</translation>
+        <translation>‏Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation>Quilt</translation>
+        <translation>‏Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
@@ -8659,7 +8661,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
-        <translation>LiteLoader</translation>
+        <translation>‏LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
@@ -9469,12 +9471,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="151"/>
         <source>No index file.</source>
-        <translation type="unfinished">אין קובץ אינדקס.</translation>
+        <translation>אין קובץ מפתח.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="152"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">לא הצלחנו למצוא קובץ אינדקס מתאים לגרסה הישנה יותר. ייתכן שחלק מהקבצים יהיו כפולים. האם ברצונך להמשיך?</translation>
+        <translation>לא נמצא קובץ מפתח מתאים לגרסה הישנה. ייתכן שחלק מהקבצים יהיו כפולים. להמשיך?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="196"/>
@@ -9546,7 +9548,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="366"/>
         <source>Choose update file</source>
-        <translation type="unfinished">בחר קובץ עדכון</translation>
+        <translation>נא לבחור קובץ עדכון</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="366"/>
@@ -9571,7 +9573,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="80"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">לא ניתן היה לחפש קבצים</translation>
+        <translation>לא היה ניתן לחפש את הקבצים</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="96"/>
@@ -9697,7 +9699,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
         <source>Modrinth</source>
-        <translation>Modrinth</translation>
+        <translation>‏Modrinth</translation>
     </message>
 </context>
 <context>
@@ -9736,7 +9738,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
         <source>unknown</source>
-        <translation type="unfinished">לא ידוע</translation>
+        <translation>לא ידוע</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
@@ -9761,7 +9763,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="144"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">מבצע %1 משימ(ות) (%2 מתוך %3 נעשים)</translation>
+        <translation>מתבצעות %1 משימות (הושלמו %2 מתוך %3)</translation>
     </message>
 </context>
 <context>
@@ -9779,7 +9781,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
         <source>uid</source>
-        <translation>uid</translation>
+        <translation>מזהה משתמש</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
@@ -10294,7 +10296,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">מתבצעת בדיקה האם יש עדכונים...</translation>
+        <translation>מתבצעת בדיקת עדכונים...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
@@ -11035,7 +11037,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">המשימה בוטלה על ידי המשתמש.</translation>
+        <translation>המשימה ננטשה על ידי המשתמש.</translation>
     </message>
     <message>
         <source>Upload failed</source>
@@ -11296,7 +11298,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">לא ניתן היה למצוא את ספריית הבדיקה של Java. אנא בדוק את ההתקנה שלך.</translation>
+        <translation>לא נמצאה ספריית הבדיקה של Java. נא לבדוק את ההתקנה שלך.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="155"/>
@@ -12031,7 +12033,7 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="412"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished">גרסת ה־API ישנה מדי!
+        <translation>גרסת ה־API ישנה מדי!
 נא לעדכן את %1!</translation>
     </message>
 </context>
@@ -12643,7 +12645,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="122"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">מתבצעת בדיקה האם יש עדכונים...</translation>
+        <translation>מתבצעת בדיקת עדכונים...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="168"/>
@@ -12910,7 +12912,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">המשימה בוטלה על ידי המשתמש.</translation>
+        <translation>המשימה ננטשה על ידי המשתמש.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="419"/>
@@ -13748,7 +13750,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">לא ניתן היה להבין את המניפסט של החבילה:
+        <translation>לא ניתן היה להבין את המניפסט של החבילה:
 </translation>
     </message>
     <message>
@@ -13794,7 +13796,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished">לא ניתן היה למצוא קובץ &quot;version.json&quot; בתוך &quot;bin/modpack.jar&quot;, אבל גרסת המיינקראפט אינה ידועה</translation>
+        <translation>לא היה ניתן למצוא את „version.json” בתוך „bin/modpack.jar”, אך לא ידוע מה הגרסה של Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
@@ -15071,7 +15073,7 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
         <source>Select a Minecraft world zip</source>
-        <translation type="unfinished">קובץ zip של עולם מיינקרפט (‎*.zip)</translation>
+        <translation>נא לבחור קובץ zip של עולם Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
