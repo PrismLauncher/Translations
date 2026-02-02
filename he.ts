@@ -5427,7 +5427,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="352"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">איתור קובץ להרצה של Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
