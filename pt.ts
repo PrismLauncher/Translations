@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor de Bibliotecas FML Legacy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Pode configurar isto para outro servidor caso tenha problemas com o download de bibliotecas FML antigas (Minecraft 1.5.2 e versões anteriores).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -2526,7 +2526,7 @@ Deseja prosseguir?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta instância não pode ser iniciada porque algumas bibliotecas estão em falta ou ainda não foram descarregadas. Tente novamente no modo online com uma conexão de internet ativa</translation>
     </message>
 </context>
 <context>
@@ -3471,44 +3471,44 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtendo o manifesto...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Falha ao encontrar a versão do pacote %1</translation>
+        <translation>Falha ao encontrar a versão do pacote %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Não foi possível entender o manifesto do pacote:
+        <translation>Não foi possível entender o manifesto do pacote:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Processando mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifesto inválido: Não existem informações disponíveis para descarregar o ficheiro &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiros bloqueados encontrados</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Os seguintes ficheiros não estão disponíveis para download em launchers externos.&lt;br/&gt;Terá de os descarregar manualmente e adicioná-los à instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Criando a instância...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
@@ -3554,7 +3554,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nota: Muitos modpacks recentes do FTB também estão disponíveis no CurseForge! Além disso, se as suas instâncias do FTB não estiverem no local padrão, selecione-o utilizando o botão junto à pesquisa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -4083,7 +4083,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="74"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Muitos dos recentes modpacks FTB também estão disponíveis no CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -5939,7 +5939,7 @@ Podes alterar a versão do Java nas definições mais tarde.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parece que não conseguimos iniciar após %1 tentativas. Normalmente, isto pode ser resolvido saindo e voltando a entrar na sua conta Microsoft. Se isto não funcionar, os servidores de autenticação do Minecraft podem estar com problemas ou pode precisar de uma VPN na sua região. Deseja continuar a tentar?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6175,7 +6175,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtendo o token de acesso do Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6191,7 +6191,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Token de acesso do Minecraft obtido</translation>
     </message>
 </context>
 <context>
@@ -6256,12 +6256,12 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Ask what to do</source>
-        <translation type="unfinished"></translation>
+        <translation>Perguntar o que fazer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Never rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nunca renomeie a pasta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
@@ -6803,7 +6803,7 @@ Garantindo %1 acesso a essa pasta por via de Flatseal é recomendado.</translati
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
@@ -7196,7 +7196,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisa</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7308,7 +7308,7 @@ Motivo:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível adicionar:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7344,7 +7344,7 @@ Motivo:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao analisar o ficheiro %1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -7400,7 +7400,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>Token MSA obtido</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7487,7 +7487,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="147"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>Token MSA obtido</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
