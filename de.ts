@@ -6096,7 +6096,7 @@ Sie können die Java-Version in den Einstellungen später ändern.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Es sieht aus, als ob wir das Spiel nach %1 Versuchen nicht starten konnten. Normalerweise lässt sich das beheben, indem sie sich aus ihrem Microsoft-Konto abmelden und anschließend wieder anmelden. Falls dies nicht funktioniert, könnten die Minecraft-Authentifizierungsserver einen Serviceunterbruch haben oder sie brauchen ein VPN in ihrer Region. Wollen sie es weiter versuchen?</translation>
+        <translation>Es sieht aus, als ob wir das Spiel nach %1 Versuchen nicht starten konnten. Normalerweise lässt sich dies durch Aus- und erneutes Einloggen in Ihren Microsoft-Account beheben. Wenn dies nicht funktioniert, kann es sein, dass die Authentifizierungsserver von Minecraft nicht erreichbar sind oder Sie in Ihrer Region eine VPN-Verbindung benötigen. Möchten Sie es erneut versuchen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -9134,7 +9134,7 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="144"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
@@ -9143,7 +9143,11 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Dies ist ein lokales Modpack.
+Es kann entweder über eine Datei mit dem Dateiformat %1 oder über eine URL aktualisiert werden.
+Benutzen Sie keine anderen Dateiformate als das zuvor genannte, da dies die Instanz unbrauchbar machen kann.
+Stellen Sie sicher, dass Sie der URL vertrauen können.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="234"/>
@@ -9607,7 +9611,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation>Das Basisspiel unterstützt nur Auflösung. Um das maximierte Verhalten zu simulieren schätzt die aktuelle Implementation die maximale Anzeigegröße ab.</translation>
+        <translation>Das Basisspiel unterstützt nur Auflösungen. Um das maximierte Verhalten zu simulieren, schätzt die aktuelle Implementierung die maximale Anzeigegröße Ihres Monitors ab.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
@@ -10302,12 +10306,12 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Requires</source>
-        <translation type="unfinished"></translation>
+        <translation>Erfordert</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation type="unfinished"></translation>
+        <translation>Erfordert von</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="198"/>
@@ -10337,12 +10341,12 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="218"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Für jede Mod die Anzahl der anderen Mods, die von ihr abhängen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="220"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Für jede Mod die Anzahl der anderen Mods, von der die Mod abhängt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="433"/>
@@ -10353,71 +10357,80 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="434"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Das Aktivieren&#x202f;/&#x202f;Deaktivieren dieser Mod(s) wird Änderungen an anderen Mods bewirken.
+</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="435"/>
         <source>%n mod(s) will be enabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Mod wird aktiviert
+</numerusform>
+            <numerusform>%n Mods werden aktiviert
+</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="436"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Mod wird deaktiviert
+</numerusform>
+            <numerusform>%n Mods werden deaktiviert
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="437"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie diese zugehörigen Änderungen zuweisen?
+Ignorieren könnte das Spiel unspielbar machen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="438"/>
         <source>Only Toggle Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviere&#x202f;/&#x202f;Deaktiviere nur ausgewählte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="439"/>
         <source>Toggle Required Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviere&#x202f;/&#x202f;Deaktiviere erforderliche Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
         <source>Confirm enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren bestätigen</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Die aktivierte Mod erfordert %n Mod.
+</numerusform>
+            <numerusform>Die aktivierte Mod erfordert %n Mods.
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie diese ebenfalls aktivieren?
+Sie zu ignorieren könnte das Spiel unspielbar machen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
         <source>Only Enable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviere nur ausgewählte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
         <source>Enable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviere erforderliche</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
@@ -10428,26 +10441,29 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Die deaktivierte Mod wird von %n Mod erfordert.
+</numerusform>
+            <numerusform>Die deaktivierte Mod wird von %n Mods erfordert.
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie sie ebenfalls deaktivieren?
+Sie zu ignorieren könnte das Spiel unspielbar machen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
         <source>Only Disable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiviere nur ausgewählte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Disable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiviere Erforderliche</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
@@ -10761,13 +10777,14 @@ Bist du dir sicher, dass du fortfahren möchtest?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="144"/>
         <source>Confirm Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestätige Deaktivierung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Mods, die Sie zu löschen versuchen, werden von %1 mods erfordert.
+Möchten Sie sie deaktivieren?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="263"/>
@@ -17821,12 +17838,12 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieser Microsoft-Account verfügt nicht über ein Xbox-Live-Profil. Bitte erwerben Sie das Spiel erst über %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live ist in ihrem Land nicht verfügbar. Sie wurden blockiert.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -17914,12 +17931,12 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox-Nutzer-Authentifikation fehlgeschlagen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Antwort der Xbox-Nutzer-Authentifikation konnte nicht verarbeitet werden.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
