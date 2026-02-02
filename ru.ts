@@ -3506,63 +3506,64 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished">Получение манифеста...</translation>
+        <translation>Получение манифеста...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Не удалось найти сборку версии %1</translation>
+        <translation>Не удалось найти сборку версии %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось разобрать манифест сборки:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished">Определение списка модов...</translation>
+        <translation>Определение списка модов...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished">Недопустимый манифест: нет информации для загрузки файла &apos;%1&apos;!</translation>
+        <translation>Недопустимый манифест: нет информации для скачивания файла &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
         <source>Blocked files found</source>
-        <translation type="unfinished">Найдены заблокированные файлы</translation>
+        <translation>Найдены заблокированные файлы</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующие файлы недоступны для скачивания в сторонних лаунчерах.&lt;br/&gt;Вам нужно будет вручную скачать их и добавить в экземпляр.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished">Создание сборки...</translation>
+        <translation>Создание экземпляра...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачивание модов…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачивание мода</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирование заблокированных модов...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирование заблокированных модов (выполнено %1 из %2)</translation>
     </message>
 </context>
 <context>
@@ -4182,7 +4183,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="74"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Примечание: Многие недавние сборки модов FTB также доступны в CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -9161,7 +9162,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="144"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
@@ -10335,12 +10336,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Requires</source>
-        <translation type="unfinished"></translation>
+        <translation>Требует</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation type="unfinished"></translation>
+        <translation>Требуется для</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="206"/>
@@ -10350,64 +10351,72 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="218"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для каждого мода указано количество других модов, которые зависят от него.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="220"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для каждого мода указано количество других модов, от которых он зависит.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="433"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Подтвердите действие</translation>
+        <translation>Подтвердите переключение</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="434"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Переключение этих модов приведет к изменению других модов.
+</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="435"/>
         <source>%n mod(s) will be enabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n мод будет включен
+</numerusform>
+            <numerusform>%n мода будет включено
+</numerusform>
+            <numerusform>%n модов будет включено
+</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="436"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n мод будет выключен
+</numerusform>
+            <numerusform>%n мода будет выключено
+</numerusform>
+            <numerusform>%n модов будет выключено
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="437"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите автоматически применить эти изменения?
+Их игнорирование может привести к поломке игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="438"/>
         <source>Only Toggle Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить  олько выбранные</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="439"/>
         <source>Toggle Required Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить необходимые моды</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
         <source>Confirm enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтвердите включение</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
@@ -10428,17 +10437,17 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
         <source>Only Enable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить только выбранные</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
         <source>Enable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить необходимые</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Confirm disable</source>
-        <translation type="unfinished">Подтвердите отключение</translation>
+        <translation>Подтвердите выключение</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
@@ -10812,7 +10821,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="144"/>
         <source>Confirm Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтвердите выключение</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
