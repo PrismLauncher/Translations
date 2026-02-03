@@ -69,12 +69,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Legacy FML-Bibliothekenserver</translation>
+        <translation>Legacy FML Bibliothekenserver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Du kannst dies zu einem anderen Server ändern, wenn du Probleme hast, Legacy-FML-Bibliotheken herunterzuladen (Minecraft 1.5.2 und älter).</translation>
+        <translation>Du kannst dies zu einem anderen Server ändern wenn du Probleme hast legacy FML Bibliotheken herunterzuladen (Minecraft 1.5.2 und älter)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -6998,12 +6998,12 @@ Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Überprüfe FML-Bibliotheken...</translation>
+        <translation>FML-Bibliotheken werden gesucht ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Lade FML-Bibliotheken herunter...</translation>
+        <translation>FML-Bibliotheken werden heruntergeladen...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
@@ -7013,17 +7013,17 @@ Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Kopiere FML-Bibliotheken in die Instanz...</translation>
+        <translation>FML-Bibliotheken werden in die Instanz kopiert...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Der FML-Bibliotheksordner konnte in der Instanz nicht angelegt werden.</translation>
+        <translation>Der FML-Bibliotheksordner konnte in der Instanz nicht angelegt werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Die Forge-/FML-Bibliothek konnte nicht kopiert werden: %1.</translation>
+        <translation>Die Forge-/FML-Bibliothek konnte nicht kopiert werden: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -7032,7 +7032,7 @@ Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Konnte die folgenden Dateien nicht herunterladen:
+        <translation>Fehler beim Herunterladen der folgenden Dateien:
 %1
 
 Grund:%2
@@ -9711,7 +9711,7 @@ Stellen Sie sicher, dass Sie der URL vertrauen können.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="635"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuliert die Funktionen von Online-Diensten, die außer Betrieb sind.&lt;/p&gt;&lt;p&gt;Dadurch wird aktuell die Nutzung moderner Skins ermöglicht.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuliert die Funktionen von Online-Diensten, die außer Betrieb sind.&lt;/p&gt;&lt;p&gt;Aktuelle Korrekturen enthalten: Skin und Online-Modus unterstützung &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="638"/>
