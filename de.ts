@@ -3542,7 +3542,7 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Die folgenden Dateien sind nicht zum Herunterladen in Drittanbieter-Launchern verfügbar.&lt;br/&gt;Sie müssen diese manuell herunterladen und zur Instanz hinzufügen.</translation>
+        <translation>Die folgenden Dateien sind nicht zum Herunterladen in Drittanbieter-Launchern verfügbar.&lt;br/&gt;Du musst diese manuell herunterladen und zur Instanz hinzufügen.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
