@@ -74,7 +74,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Du kannst dies zu einem anderen Server ändern wenn du Probleme hast legacy FML Bibliotheken herunterzuladen (Minecraft 1.5.2 und älter)</translation>
+        <translation>Du kannst dies zu einem anderen Server ändern, wenn du Probleme hast, Legacy-FML-Bibliotheken herunterzuladen (Minecraft 1.5.2 und früher).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -2570,7 +2570,7 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Diese Instanz kann nicht gestartet werden, weil entweder Bibliotheken fehlen oder noch nicht heruntergeladen wurden. Bitte versuche es erneut im Online-Modus mit funktionierender Internetverbindung.</translation>
+        <translation>Diese Instanz kann nicht gestartet werden, da entweder Bibliotheken fehlen oder noch nicht heruntergeladen wurden. Bitte versuche es erneut im Online-Modus mit funktionierender Internetverbindung.</translation>
     </message>
 </context>
 <context>
@@ -3532,27 +3532,27 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished">Ungültiges Manifest: Es sind keine Informationen zum Herunterladen der Datei verfügbar &apos;%1&apos;!</translation>
+        <translation>Ungültiges Manifest: Es sind keine Informationen zum Herunterladen der Datei &apos;%1&apos; verfügbar!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
         <source>Blocked files found</source>
-        <translation type="unfinished">Blockierte Dateien gefunden</translation>
+        <translation>Blockierte Dateien gefunden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Die folgenden Dateien sind nicht zum Herunterladen in Drittanbieter-Launchern verfügbar.&lt;br/&gt;Du musst diese manuell herunterladen und zur Instanz hinzufügen.</translation>
+        <translation>Die folgenden Dateien sind nicht zum Herunterladen in Drittanbieter-Launchern verfügbar.&lt;br/&gt;Diese müssen manuell heruntergeladen und zur Instanz hinzugefügt werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished">Erstelle die Instanz...</translation>
+        <translation>Instanz wird erstellt...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation>Lade Mods herunter&#xa0;...</translation>
+        <translation>Lade Mods herunter...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
@@ -7008,7 +7008,7 @@ Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abgebrochen</translation>
+        <translation>Abgebrochen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
@@ -9711,7 +9711,7 @@ Stellen Sie sicher, dass Sie der URL vertrauen können.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="635"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuliert die Funktionen von Online-Diensten, die außer Betrieb sind.&lt;/p&gt;&lt;p&gt;Aktuelle Korrekturen enthalten: Skin und Online-Modus unterstützung &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuliert Funktionen von Online-Diensten, die außer Betrieb sind.&lt;/p&gt;&lt;p&gt;Aktuelle Korrekturen enthalten: Skin- sowie Online-Modus-Unterstützung.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="638"/>
@@ -9856,22 +9856,22 @@ Du musst wahrscheinlich den Pfad ändern - berücksichtige hierzu die Mods Websi
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
         <source>Babric</source>
-        <translation type="unfinished">Babric</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">BTA (Babric)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Legacy Fabric</translation>
+        <translation>Legacy-Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
@@ -10435,7 +10435,7 @@ Sie zu ignorieren könnte das Spiel unspielbar machen.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Confirm disable</source>
-        <translation type="unfinished">Bestätige die Deaktivierung</translation>
+        <translation>Deaktivierung bestätigen</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
