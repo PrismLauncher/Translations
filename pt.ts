@@ -13,12 +13,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Colar Serviço&amp;Tipo</translation>
+        <translation>Colar Serviço &amp;Type</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>&amp;URL base</translation>
+        <translation>base &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -3488,7 +3488,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished">Processando mods...</translation>
+        <translation>Resolvendo mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
@@ -3518,17 +3518,17 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation type="unfinished">Transferência do mod</translation>
+        <translation>Transferência de mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">A copiar Mods bloqueados...</translation>
+        <translation>Copiando mods bloqueados...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">A copiar Mods bloqueados (%1 de %2 estão concluídos)</translation>
+        <translation>Copiando mods bloqueados (%1 de %2 estão concluídos)</translation>
     </message>
 </context>
 <context>
@@ -3554,7 +3554,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished">Nota: Muitos modpacks recentes do FTB também estão disponíveis no CurseForge! Além disso, se as suas instâncias do FTB não estiverem no local padrão, selecione-o utilizando o botão junto à pesquisa.</translation>
+        <translation>Nota: Muitos modpacks recentes do FTB também estão disponíveis no CurseForge! Além disso, se as suas instâncias do FTB não estiverem no local padrão, selecione-o utilizando o botão junto ao da pesquisa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
