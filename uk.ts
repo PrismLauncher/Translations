@@ -10595,7 +10595,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Моди які ви пробуєте видалити потрібні %1 mods.
+Ви хочете їх вимкнути?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="263"/>
