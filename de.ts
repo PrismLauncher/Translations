@@ -15172,7 +15172,7 @@ Bist Du Dir sicher?</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Du lädst gerade %1 Screenshots zu %2 hoch.
+        <translation>Du lädst gleich %1 Screenshots zu %2 hoch.
 Vergewissere dich UNBEDINGT zuerst, dass darauf keine persönlichen Informationen zu sehen sind.
 
 Möchtest du jetzt mit dem Hochladen fortfahren?</translation>
@@ -15183,7 +15183,7 @@ Möchtest du jetzt mit dem Hochladen fortfahren?</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Du lädst gerade den gewählten Screenshot zu %1 hoch.
+        <translation>Du lädst gleich den gewählten Screenshot zu %1 hoch.
 Vergewissere dich UNBEDINGT zuerst, dass darauf keine persönlichen Informationen zu sehen sind.
 
 Möchtest du jetzt mit dem Hochladen fortfahren?</translation>
@@ -17838,7 +17838,7 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation>Dieser Microsoft-Account verfügt nicht über ein Xbox-Live-Profil. Bitte erwerben Sie das Spiel erst über %1.</translation>
+        <translation>Dieses Microsoft-Konto hat kein Xbox Live Profil. Kauf das Spiel zuerst auf %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
