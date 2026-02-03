@@ -2534,7 +2534,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Цю збірку неможливо запустити, оскільки деякі бібліотеки відсутні або ще не були завантажені. Будь ласка, спробуйте ще раз в онлайн-режимі зі справним інтернет-зʼєднанням</translation>
     </message>
 </context>
 <context>
@@ -3485,7 +3485,8 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося розпізнати маніфест пакета:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
