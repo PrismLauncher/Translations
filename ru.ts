@@ -10786,12 +10786,12 @@ Are you sure?</source>
 Продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="415"/>
         <source>Missing Mod Loader</source>
         <translation>Отсутствует загрузчик модов</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="416"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>Перед установкой модов необходимо установить совместимый загрузчик модов. Установить его сейчас?</translation>
     </message>

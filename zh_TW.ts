@@ -10701,12 +10701,12 @@ Are you sure?</source>
 您確定嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="415"/>
         <source>Missing Mod Loader</source>
         <translation>找不到模組載入器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="416"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>在安裝模組前，你需要先一個安裝相容的模組載入器。你想要現在安裝嗎？</translation>
     </message>
