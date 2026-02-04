@@ -1672,7 +1672,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="80"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>구성 요소 불러오는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="215"/>
@@ -1687,7 +1687,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>%1개 구성 요소에 대한 메타데이터 다운로드 중</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="480"/>
@@ -10265,7 +10265,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>모드 %n 개가 활성화됨
+            <numerusform>모드 %n개가 활성화됨
 </numerusform>
         </translation>
     </message>
@@ -10274,7 +10274,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>모드 %n 개가 비활성화됨
+            <numerusform>모드 %n개가 비활성화됨
 </numerusform>
         </translation>
     </message>
@@ -10305,7 +10305,7 @@ Ignoring them may break the game.</source>
         <source>The enabled mod(s) require %n mod(s).
 </source>
         <translation>
-            <numerusform>활성화된 모드는 모드 %n 개가 필요합니다.
+            <numerusform>활성화된 모드는 모드 %n개가 필요합니다.
 </numerusform>
         </translation>
     </message>
@@ -10336,7 +10336,7 @@ Ignoring them may break the game.</source>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
         <translation>
-            <numerusform>비활성화된 모드는 모드 %n 개가 필요합니다.
+            <numerusform>비활성화된 모드는 모드 %n개가 필요합니다.
 </numerusform>
         </translation>
     </message>
@@ -10675,7 +10675,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation>삭제하려는 모드는 %1 개의 모드에서 필요합니다.
+        <translation>삭제하려는 모드는 %1개의 모드에서 필요합니다.
 이 모드를 비활성화하시겠습니까?</translation>
     </message>
     <message>
@@ -14003,7 +14003,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="99"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation>%1 개의 리소스를 선택하였습니다.
+        <translation>%1개의 리소스를 선택하였습니다.
 이 대화 상자를 닫으시겠습니까?</translation>
     </message>
     <message>
@@ -14994,10 +14994,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>%1 스크린샷을 %2 에 업로드하려고 합니다 .
-개인 정보를 다시 확인해야 합니다.
+        <translation>%1개의 스크린샷을 %2에 업로드하려고 합니다.
+개인정보가 포함되었는지 다시 한번 확인하십시오.
 
-확실합니까?</translation>
+정말 업로드하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="377"/>
@@ -15005,10 +15005,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>선택한 스크린샷을 %1 에 업로드하려고 합니다 .
-개인 정보를 다시 확인해야 합니다.
+        <translation>선택한 스크린샷을 %1에 업로드하려고 합니다.
+개인정보가 포함되었는지 다시 한번 확인하십시오.
 
-확실합니까?</translation>
+정말 업로드하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="402"/>
