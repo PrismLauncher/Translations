@@ -11692,7 +11692,7 @@ Teachtaireacht earráide: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
         <source>No Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Gan próifíl Minecraft</translation>
     </message>
 </context>
 <context>
