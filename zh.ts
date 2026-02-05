@@ -1681,7 +1681,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="80"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>正在加载组件</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="215"/>
@@ -1696,7 +1696,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>正在下载 %1 个组件的元数据</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="480"/>
@@ -14029,7 +14029,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
         <source>No Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>没有 Minecraft 档案</translation>
     </message>
 </context>
 <context>
