@@ -13912,7 +13912,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
         <source>No Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft 프로필 없음</translation>
     </message>
 </context>
 <context>
