@@ -353,7 +353,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;一款允许同时拥有多个 Minecraft 实例的自定义启动器，可以更加便利地管理 Minecraft 。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;一款允许同时拥有多个 Minecraft 实例的自定义启动器，可以更加便利地管理 Minecraft。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -12497,7 +12497,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="762"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation>%1 的 Github 释放中没有适用于 %2 的有效资源</translation>
+        <translation>%1 的 Github 发布版本中没有适用于 %2 的有效资源</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="764"/>
