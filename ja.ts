@@ -1638,7 +1638,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="80"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>コンポーネントをロードしています</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="215"/>
@@ -1653,7 +1653,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 コンポーネントのメタデータをダウンロードしています</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="480"/>
