@@ -10367,17 +10367,18 @@ Jejich ignorování může rozbít hru.</translation>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete je také zakázat?
+Jejich ignorování může rozbít hru.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
         <source>Only Disable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat pouze vybrané</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Disable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat vyžadované</translation>
     </message>
     <message>
         <source>Miecraft Versions</source>
@@ -10725,13 +10726,14 @@ Opravdu chcete udělat?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="144"/>
         <source>Confirm Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdit zakázání</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mody, které se pokoušíte odstranit, jsou vyžadovány mody %1.
+Chcete je zakázat?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="263"/>
@@ -13996,7 +13998,7 @@ Chybová hláška: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
         <source>No Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádný Minecraft profil</translation>
     </message>
 </context>
 <context>
