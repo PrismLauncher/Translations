@@ -765,7 +765,7 @@ Nese jeni i ri ketu, ju mundeni te selektoni &quot;Shto Microsoft&quot; buton qe
         <translation>Cilesimet</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1071"/>
+        <location filename="src/launcher/Application.cpp" line="1072"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -792,12 +792,12 @@ për detaje mbi përpjekjen e fundit të përditësimit.
 Për të fshirë këtë bllokim dhe për të vazhduar, zgjidhni &quot;Injoro&quot; më poshtë.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1088"/>
+        <location filename="src/launcher/Application.cpp" line="1089"/>
         <source>Update In Progress</source>
         <translation>Përditsimi në vazhdim</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1112"/>
+        <location filename="src/launcher/Application.cpp" line="1113"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -812,12 +812,12 @@ Kontrolloni regjistrin e përditësuesit të Prism Launcher te:
 për detaje mbi përpjekjen e fundit për përditësim.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1120"/>
+        <location filename="src/launcher/Application.cpp" line="1121"/>
         <source>Update Failed</source>
         <translation>Perditesimi Deshtoi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1144"/>
+        <location filename="src/launcher/Application.cpp" line="1145"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -838,12 +838,12 @@ Kontrolloni regjistrin e përditësimit të Prism Launcher në:
 per detajet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1152"/>
+        <location filename="src/launcher/Application.cpp" line="1153"/>
         <source>Update Succeeded</source>
         <translation>Perditesimi ia Doli</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1184"/>
+        <location filename="src/launcher/Application.cpp" line="1185"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -856,7 +856,7 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1190"/>
+        <location filename="src/launcher/Application.cpp" line="1191"/>
         <source>Incompatible system configuration</source>
         <translation>Konfigurim i papajtueshëm i sistemit</translation>
     </message>
@@ -865,22 +865,22 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
         <translation>E ndërprerë</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1952"/>
+        <location filename="src/launcher/Application.cpp" line="1953"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>U gjetën të dhëna të vjetra nga %1, por ju tashmë keni të dhëna ekzistuese për %2. Fatkeqësisht, do t&apos;ju duhet të migroni vetë. Dëshironi të kujtoheni për migrimin e të dhënave në pritje herën tjetër që të nisni %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1956"/>
+        <location filename="src/launcher/Application.cpp" line="1957"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Me sa duket e ke përdorur %1 më parë. Dëshiron të migrosh të dhënat e tua në vendndodhjen e re të %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1962"/>
+        <location filename="src/launcher/Application.cpp" line="1963"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Me sa duket e ke përdorur %1 në %2 më parë. Dëshiron të migrosh të dhënat e tua në vendndodhjen e re të %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2008"/>
+        <location filename="src/launcher/Application.cpp" line="2009"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrimi dështoi! Arsyeja: %1</translation>
     </message>
@@ -8041,7 +8041,7 @@ Please update %1!</source>
 <context>
     <name>NewsChecker</name>
     <message>
-        <location filename="src/launcher/news/NewsChecker.cpp" line="113"/>
+        <location filename="src/launcher/news/NewsChecker.cpp" line="118"/>
         <source>Failed to load news RSS feed:
 %1</source>
         <translation type="unfinished"></translation>
