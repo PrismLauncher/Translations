@@ -1661,7 +1661,7 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="80"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítání součástí</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="215"/>
@@ -1676,7 +1676,7 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>Stahování metadat %1 součástí</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="480"/>
@@ -3500,52 +3500,53 @@ Prosím zkus znovu.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se pochopit manifest balíčku
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished">Načítání modů...</translation>
+        <translation>Zpracování modů…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished">Neplatný manifest: Pro stažení souboru &apos;%1&apos; nejsou k dispozici žádné informace!</translation>
+        <translation>Neplatný manifest: Pro stažení souboru „%1“ nejsou k dispozici žádné informace!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
         <source>Blocked files found</source>
-        <translation type="unfinished">Nalezeny blokované soubory</translation>
+        <translation>Nalezeny blokované soubory</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Následující soubory nejsou dostupné ke stažení v launcherech třetích stran.&lt;br/&gt;Budete si je muset ručně stáhnout a přidat je do instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished">Vytváření instance...</translation>
+        <translation>Vytváření instance…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Stahování modů…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Stažení modu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Kopírování blokovaných modů...</translation>
+        <translation>Kopírování blokovaných modů…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Kopírování blokovaných modů (hotovo %1 z %2)</translation>
+        <translation>Kopírování blokovaných modů (hotovo %1 z %2)</translation>
     </message>
 </context>
 <context>
@@ -4140,7 +4141,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="74"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Upozornění: Spousta novějších modpacků FTB je dostupná také z CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -9058,7 +9059,7 @@ Lze jej aktualizovat pouze pomocí souboru ve formátu %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="144"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
@@ -9067,7 +9068,11 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Toto je lokální modpack.
+Můžete jej aktualizovat buď pomocí souboru ve formátu %1, nebo pomocí adresy URL.
+Nepoužívejte jiný formát než zmíněný, protože může rozbít instanci.
+Ujistěte se také, že důvěřujete adrese URL.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="234"/>
@@ -10228,12 +10233,12 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Requires</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyžaduje mod</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyžadováno modem</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="206"/>
@@ -10243,104 +10248,119 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="218"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro každý mod počet jiných modů, které na něm závisí.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="220"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro každý mod počet jiných modů, na kterých závisí.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="433"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Potvrdit přepnutí</translation>
+        <translation>Potvrdit přepnutí</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="434"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnutí těchto modů způsobí změny v jiných modech.
+</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="435"/>
         <source>%n mod(s) will be enabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Bude povolen %n mod
+</numerusform>
+            <numerusform>Budou povoleny %n mody
+</numerusform>
+            <numerusform>Bude povoleno %n modů
+</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="436"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Bude zakázán %n mod
+</numerusform>
+            <numerusform>Budou zakázány %n mody
+</numerusform>
+            <numerusform>Bude zakázáno %n modů
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="437"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete automaticky použít tyto související změny?
+Jejich ignorování může rozbít hru.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="438"/>
         <source>Only Toggle Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnout pouze vybrané</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="439"/>
         <source>Toggle Required Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnout vyžadované mody</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
         <source>Confirm enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdit povolení</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Povolený mod vyžaduje %n mod.
+</numerusform>
+            <numerusform>Povolené mody vyžadují %n mody.
+</numerusform>
+            <numerusform>Povolené mody vyžadují %n modů.
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete je také povolit?
+Jejich ignorování může rozbít hru.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
         <source>Only Enable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit pouze vybrané</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
         <source>Enable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit vyžadované</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Confirm disable</source>
-        <translation type="unfinished">Potvrdit zakázání</translation>
+        <translation>Potvrdit zakázání</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zakázaný mod je vyžadován %n modem.
+</numerusform>
+            <numerusform>Zakázané mody jsou vyžadovány %n mody.
+</numerusform>
+            <numerusform>Zakázané mody jsou vyžadovány %n mody.
+</numerusform>
         </translation>
     </message>
     <message>
