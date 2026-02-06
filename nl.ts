@@ -2990,7 +2990,7 @@ Weet u dat zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>&amp;Enable</source>
-        <translation>Activ&amp;eer</translation>
+        <translation>Inschakelen</translation>
     </message>
     <message>
         <source>Enable selected item</source>
@@ -2999,7 +2999,7 @@ Weet u dat zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>&amp;Disable</source>
-        <translation>&amp;Deactiveren</translation>
+        <translation>Uitschakelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="117"/>
@@ -3090,7 +3090,7 @@ Weet u dat zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Change Version</source>
-        <translation>Wijzig Versie</translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="204"/>
@@ -3100,12 +3100,12 @@ Weet u dat zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="215"/>
         <source>View Homepage</source>
-        <translation>Zie Startpagina</translation>
+        <translation>Startpagina weergeven</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="218"/>
         <source>View the homepages of all selected items.</source>
-        <translation>Zie de startpagina van alle geselecteerde items.</translation>
+        <translation>Startpagina&apos;s van alle geselecteerde items weergeven.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -5366,7 +5366,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation>Instalaties</translation>
+        <translation>Installaties</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
@@ -5563,7 +5563,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation>Java Instalatie</translation>
+        <translation>Java-installatie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
@@ -5611,12 +5611,12 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation>&amp;Browsen</translation>
+        <translation>&amp;Bladeren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation>Testi&amp;nstellingen</translation>
+        <translation>Instellingen testen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
@@ -9973,7 +9973,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Enable</source>
-        <translation>Aanzetten</translation>
+        <translation>Inschakelen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -14128,7 +14128,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="243"/>
         <source>Enable</source>
-        <translation>Aanzetten</translation>
+        <translation>Inschakelen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="243"/>
@@ -14208,7 +14208,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Enable</source>
-        <translation>Aanzetten</translation>
+        <translation>Inschakelen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
@@ -15857,7 +15857,7 @@ inheritsFrom ontbreekt</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Enable</source>
-        <translation>Aanzetten</translation>
+        <translation>Inschakelen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
