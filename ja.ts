@@ -13386,7 +13386,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
         <source>No Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftプロファイルなし</translation>
     </message>
 </context>
 <context>
