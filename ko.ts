@@ -2569,7 +2569,7 @@ Are you sure?</source>
         <translation>게임 소유권을 알아내는 중.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
+        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="57"/>
         <source>Got entitlements</source>
         <translation>자격 가져옴</translation>
     </message>
@@ -4236,7 +4236,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>스킨을 가져오는 중입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
+        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
         <translation>스킨 가져옴</translation>
     </message>
@@ -6282,18 +6282,18 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>마인크래프트 액세스 토큰을 가져오는 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>마인크래프트 액세스 토큰을 가져오지 못했습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>마인크래프트 액세스 토큰 응답을 파싱하지 못하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
         <source>Got Minecraft access token</source>
         <translation>마인크래프트 액세스 토큰을 가져옴</translation>
     </message>
@@ -7505,32 +7505,32 @@ Reason:
         <translation>Microsoft 계정으로 로그인하기(기기 코드).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
         <translation>기기 인증 실패: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
         <translation>기기 인증 정보를 받아오지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>기기 인증 실패: 필요한 내용이 비어 있음</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="156"/>
         <source>Task aborted</source>
         <translation>작업이 중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="262"/>
         <source>Device Access failed: %1</source>
         <translation>기기 접근 실패: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="277"/>
         <source>Got MSA token</source>
         <translation>MSA 토큰 가져옴</translation>
     </message>
@@ -9436,18 +9436,18 @@ URL 또한 신뢰할 수 있는지 반드시 확인하십시오.
         <translation>마인크래프트 프로필을 가져오는 중입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="42"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="43"/>
         <source>Account has no Minecraft profile.</source>
         <translation>계정에 마인크래프트 프로필이 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="60"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation>마인크래프트 Java 프로필 받아오기 실패: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <source>Got Minecraft profile</source>
         <translation>마인크래프트 프로필 가져옴</translation>
     </message>
@@ -9456,7 +9456,7 @@ URL 또한 신뢰할 수 있는지 반드시 확인하십시오.
         <translation type="vanished">마인크래프트 Java 프로필을 획득하지 못했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>마인크래프트 Java 프로필의 응답을 파싱할 수 없음</translation>
     </message>
@@ -11441,32 +11441,48 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Net::NetRequest</name>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="72"/>
         <source>Requesting %1</source>
         <translation>%1 요청 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="149"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1/%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
         <source>unknown</source>
         <translation>알 수 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="155"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="158"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/NetRequest.cpp" line="275"/>
+        <source>Request Rate Limited for %n second(s): Retry After %1</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/NetRequest.cpp" line="280"/>
+        <source>Rate Limited: Waiting %n second(s)</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -17618,53 +17634,53 @@ Are you sure?</source>
         <translation>%1 서비스의 액세스 권한을 얻는 중.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation>%1 서비스의 권한을 얻지 못하였습니다. 오류 %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
         <source>Unknown STS error for %1 services: %2</source>
         <translation>%1 서비스의 알 수 없는 STS 오류: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="75"/>
         <source>Failed to get authorization for %1 services: %2</source>
         <translation>%1 서비스로부터 인증 정보를 받아올 수 없습니다: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="82"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Could not parse authorization response for access to %1 services.</source>
         <translation>%1 서비스에 대한 액세스 권한 부여 응답을 파싱할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="88"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="89"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
         <translation>서버가 응답에서 %1 인증 사용자 해시를 변경했습니다. 뭔가 잘못되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="94"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="95"/>
         <source>Got authorization to access %1</source>
         <translation>%1 액세스 권한 가져옴</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="105"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="106"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
         <translation>%1 권한 부여 오류 응답을 JSON으로 파싱할 수 없습니다: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="114"/>
         <source>XErr element is missing from %1 authorization error response.</source>
         <translation>XErr element가 %1 인증 오류 응답에서 누락되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="120"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
         <translation>이 Microsoft 계정에는 Xbox Live 프로필이 없습니다. 먼저 %1에서 게임을 구매하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="125"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="126"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation>Xbox Live는 귀하의 국가에서 이용하실 수 없습니다. 접속이 차단되었습니다.</translation>
     </message>
@@ -17677,7 +17693,7 @@ Are you sure?</source>
         <translation type="vanished">해당 국가에서는 XBox Live를 사용할 수 없습니다. 차단되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="132"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
@@ -17686,32 +17702,32 @@ Please set up your account according to %1.</source>
 %1에 따라 계정을 설정하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="139"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
         <translation>이 Microsoft 계정으로 플레이하려면 나이를 인증해야 합니다. %1에 로그인하여 나이를 인증하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="143"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
         <translation>이 Microsoft 계정의 플레이 시간 제한에 도달했습니다. 이 Microsoft 계정의 로그인이 차단되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="147"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="148"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
         <translation>이 Microsoft 계정은 Xbox 커뮤니티 표준을 위반하여 차단되었으며 사용할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="154"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
         <translation>이 Microsoft 계정은 현재 제한되었으며 보호자가 온라인 플레이를 허용하지 않았습니다. %1에 로그인하여 보호자에게 허용을 요청하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="161"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
         <translation>이 Microsoft 계정은 Xbox의 이용약관을 수락하지 않았습니다. 로그인하여 수락하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="166"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
@@ -17747,13 +17763,13 @@ Please set up your account according to %1.</source>
         <translation>Xbox 사용자로 로그인하는 중입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
         <source>Xbox user authentication failed: %1</source>
         <translation>Xbox 사용자 인증에 실패했습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
         <source>Xbox user authentication response could not be understood.</source>
         <translation>Xbox 사용자 인증 응답을 이해할 수 없습니다.</translation>
     </message>
@@ -17770,7 +17786,7 @@ Please set up your account according to %1.</source>
         <translation type="vanished">XBox 사용자 인증 응답을 이해할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>Got Xbox user token</source>
         <translation>Xbox 사용자 토큰 가져옴</translation>
     </message>

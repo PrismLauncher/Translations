@@ -2557,7 +2557,7 @@ Bạn có chắc không?</translation>
         <translation>Đang xác định quyền sở hữu trò chơi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
+        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="57"/>
         <source>Got entitlements</source>
         <translation>Đã có entitlements</translation>
     </message>
@@ -4159,7 +4159,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Đang lấy skin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
+        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
         <translation>Đã có skin</translation>
     </message>
@@ -6173,18 +6173,18 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>Thất bại khi lấy token truy cập Minecraft: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>Không thể phân tích cú pháp phản hồi token truy cập Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
         <source>Got Minecraft access token</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7356,32 +7356,32 @@ Lý do:
         <translation>Đăng nhập bằng tài khoản Microsoft(mã thiết bị).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
         <translation>Xác thực thiết bị thất bại: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
         <translation>Không thể nhận thông tin xác thực thiết bị</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>Xác thực thiết bị thất bại: chưa điền đủ các trường yêu cầu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="156"/>
         <source>Task aborted</source>
         <translation>Tác vụ bị gián đoạn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="262"/>
         <source>Device Access failed: %1</source>
         <translation>Truy cập thiết bị thất bại: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="277"/>
         <source>Got MSA token</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9089,18 +9089,18 @@ Make sure you also trust the URL.
         <translation>Đang tìm nạp hồ sơ Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="42"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="43"/>
         <source>Account has no Minecraft profile.</source>
         <translation>Tài khoản không có hồ sơ Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="60"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation>Lấy thông tin người dùng từ Minecraft Java thất bại: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <source>Got Minecraft profile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9109,7 +9109,7 @@ Make sure you also trust the URL.
         <translation type="vanished">Thu thập hồ sơ Minecraft Java không thành công.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>Không thể phân tích cú pháp phản hồi hồ sơ Minecraft Java</translation>
     </message>
@@ -10891,32 +10891,48 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
 <context>
     <name>Net::NetRequest</name>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="72"/>
         <source>Requesting %1</source>
         <translation>Yêu cầu %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="149"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
         <source>unknown</source>
         <translation>Không rõ</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="155"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="158"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/NetRequest.cpp" line="275"/>
+        <source>Request Rate Limited for %n second(s): Retry After %1</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/NetRequest.cpp" line="280"/>
+        <source>Rate Limited: Waiting %n second(s)</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -16890,53 +16906,53 @@ Bạn có chắc không?</translation>
         <translation>Đang lấy quyền để truy cập vào các dịch vụ %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation>Có lỗi khi lấy quyền truy cập cho dịch vụ %1. Lỗi %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
         <source>Unknown STS error for %1 services: %2</source>
         <translation>Lỗi STS không xác định cho dịch vụ %1: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="75"/>
         <source>Failed to get authorization for %1 services: %2</source>
         <translation>Lấy quyền truy cập cho dịch vụ %1 thất bại: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="82"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Could not parse authorization response for access to %1 services.</source>
         <translation>Không thể phân tích cú pháp phản hồi ủy quyền cho quyền truy cập vào các dịch vụ %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="88"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="89"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
         <translation>Máy chủ đã thay đổi hash ủy quyền người dùng %1 trong thư trả lời. Có cái gì đó không đúng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="94"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="95"/>
         <source>Got authorization to access %1</source>
         <translation>Được ủy quyền để truy cập %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="105"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="106"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
         <translation>Không thể phân tích cú pháp phản hồi lỗi ủy quyền %1 dưới dạng JSON: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="114"/>
         <source>XErr element is missing from %1 authorization error response.</source>
         <translation>Phần tử XErr bị thiếu trong phản hồi lỗi ủy quyền %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="120"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="125"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="126"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16949,7 +16965,7 @@ Bạn có chắc không?</translation>
         <translation type="vanished">XBox Live không khả dụng ở quốc gia của bạn. Bạn đã bị chặn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="132"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
@@ -16958,32 +16974,32 @@ Please set up your account according to %1.</source>
 Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="139"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
         <translation>Tài khoản Microsoft này yêu cầu bằng chứng về độ tuổi để chơi. Vui lòng đăng nhập vào %1 để cung cấp bằng chứng về độ tuổi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="143"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
         <translation>Tài khoản Microsoft này đã đạt đến giới hạn thời gian chơi. Tài khoản Microsoft này đã bị chặn không cho đăng nhập.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="147"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="148"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
         <translation>Tài khoản Microsoft này đã bị Xbox cấm vì vi phạm một hoặc nhiều Tiêu chuẩn cộng đồng dành cho Xbox và không thể sử dung được.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="154"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
         <translation>Tài khoản Microsoft này hiện đang bị hạn chế và người giám hộ của bạn chưa cấp cho bạn quyền chơi trực tuyến. Đăng nhập vào %1 và yêu cầu người giám hộ thay đổi quyền của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="161"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
         <translation>Tài khoản Microsoft này chưa chấp nhận Điều khoản dịch vụ của Xbox. Vui lòng đăng nhập và chap nhận chúng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="166"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
@@ -17019,13 +17035,13 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
         <translation>Đang đăng nhập vào tài khoản Xbox.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
         <source>Xbox user authentication failed: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
         <source>Xbox user authentication response could not be understood.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17042,7 +17058,7 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
         <translation type="vanished">Không thể hiểu phản hồi xác thực người dùng Xbox.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>Got Xbox user token</source>
         <translation>Đã có token người dùng Xbox</translation>
     </message>

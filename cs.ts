@@ -2560,7 +2560,7 @@ Jste si jisti?</translation>
         <translation>Kontroluji vlastnictví hry.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
+        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="57"/>
         <source>Got entitlements</source>
         <translation>Získány nároky</translation>
     </message>
@@ -4230,7 +4230,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>Získávám skin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
+        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
         <translation>Skin byl získán</translation>
     </message>
@@ -6301,18 +6301,18 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
         <translation>Získávání přístupového tokenu Minecraftu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>Nepodařilo se získat přístupový token Minecraftu: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>Nepodařilo se zpracovat odpověď s přístupovým tokenem Minecraftu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
         <source>Got Minecraft access token</source>
         <translation>Získán přístupový token Minecraftu</translation>
     </message>
@@ -7544,32 +7544,32 @@ Důvod:
         <translation>Přihlašování pomocí účtu Microsoft (kód zařízení).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
         <translation>Ověření zařízení selhalo: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
         <translation>Nepodařilo se získat ověření zařízení</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>Ověření zařízení selhalo: chybí požadovaná pole</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="156"/>
         <source>Task aborted</source>
         <translation>Úloha přerušena</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="262"/>
         <source>Device Access failed: %1</source>
         <translation>Přístup k zařízení selhal: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="277"/>
         <source>Got MSA token</source>
         <translation>Získán token MSA</translation>
     </message>
@@ -9463,18 +9463,18 @@ Ujistěte se také, že důvěřujete adrese URL.
         <translation>Získávám Minecraft profil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="42"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="43"/>
         <source>Account has no Minecraft profile.</source>
         <translation>Účet nemá Minecraft profil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="60"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation>Získání profilu Minecraft Java se nezdařilo: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <source>Got Minecraft profile</source>
         <translation>Získán profil Minecraftu</translation>
     </message>
@@ -9483,7 +9483,7 @@ Ujistěte se také, že důvěřujete adrese URL.
         <translation type="vanished">Získání Minecraft Java profilu selhalo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>Odpověď Minecraft Java profilu se nepodařilo analyzovat</translation>
     </message>
@@ -11527,32 +11527,52 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
 <context>
     <name>Net::NetRequest</name>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="72"/>
         <source>Requesting %1</source>
         <translation>Žádám o %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="149"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
         <source>unknown</source>
         <translation>neznámý</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="155"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="158"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/NetRequest.cpp" line="275"/>
+        <source>Request Rate Limited for %n second(s): Retry After %1</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/NetRequest.cpp" line="280"/>
+        <source>Rate Limited: Waiting %n second(s)</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -17700,53 +17720,53 @@ Jste si jisti?</translation>
         <translation>Získávání oprávnění pro přístup ke službám %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation>Nepodařilo se získat oprávnění k přístupu ke službám %1. Chyba %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
         <source>Unknown STS error for %1 services: %2</source>
         <translation>Neznámá chyba STS pro %1 služby: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="75"/>
         <source>Failed to get authorization for %1 services: %2</source>
         <translation>Nepodařilo se získat autorizaci pro %1 služby: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="82"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Could not parse authorization response for access to %1 services.</source>
         <translation>Nepodařilo se analyzovat odpověď autorizace pro přístup ke službám %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="88"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="89"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
         <translation>Server v odpovědi změnil hash autorizovaného uživatele %1. Něco je špatně.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="94"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="95"/>
         <source>Got authorization to access %1</source>
         <translation>Získáno oprávnění k přístupu k %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="105"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="106"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
         <translation>Nelze analyzovat chybovou odpověď autorizace %1 jako JSON: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="114"/>
         <source>XErr element is missing from %1 authorization error response.</source>
         <translation>V odpovědi na chybu autorizace %1 chybí prvek XErr.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="120"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
         <translation>Tento Minecraft účet nemá profil Xbox Live. Nejprve si zakupte hru na %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="125"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="126"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation>Ve vaší zemi není dostupná služba Xbox Live. Byli jste zablokováni.</translation>
     </message>
@@ -17759,7 +17779,7 @@ Jste si jisti?</translation>
         <translation type="vanished">Služba XBox Live není ve vaší zemi dostupná. Byli jste zablokováni.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="132"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
@@ -17768,32 +17788,32 @@ Please set up your account according to %1.</source>
 Nastavte prosím svůj účet podle %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="139"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
         <translation>Tento účet Microsoft vyžaduje pro hraní potvrzení věku. Pro jeho potvrzení se prosím přihlaste do %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="143"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
         <translation>Tento účet Microsoft dosáhl limitu svého herního času. Přihlášení k účtu bylo zablokováno.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="147"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="148"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
         <translation>Tento účet Microsoft byl zabanován službou Xbox za porušení jednoho nebo více Standardů komunity služby Xbox a nelze jej používat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="154"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
         <translation>Tento účet Microsoft je momentálně omezen a váš rodič vám nedal oprávnění k hraní online. Přihlaste se do %1 a nechte svého rodiče změnit vaše oprávnění.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="161"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
         <translation>Tento účet Microsoft nepřijal Podmínky služby Xbox. Přihlaste se prosím a přijměte je.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="166"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
@@ -17829,13 +17849,13 @@ Nastavte prosím svůj účet podle %1.</translation>
         <translation>Přihlašování jako Xbox uživatel.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
         <source>Xbox user authentication failed: %1</source>
         <translation>Autentifikace Xbox uživatele selhala: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
         <source>Xbox user authentication response could not be understood.</source>
         <translation>Nepodařilo se pochopit odpověď autentifikace Xbox uživatele.</translation>
     </message>
@@ -17852,7 +17872,7 @@ Nastavte prosím svůj účet podle %1.</translation>
         <translation type="vanished">Ověření uživatele XBoxu nebylo možné porozumět.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>Got Xbox user token</source>
         <translation>Získán token uživatele Xbox</translation>
     </message>

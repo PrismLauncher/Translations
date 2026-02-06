@@ -2248,7 +2248,7 @@ An bhfuil tú cinnte?</translation>
         <translation>Úinéireacht cluiche a chinneadh.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
+        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="57"/>
         <source>Got entitlements</source>
         <translation>Fuair teidlíochtaí</translation>
     </message>
@@ -3688,7 +3688,7 @@ Déan iarracht arís.</translation>
         <translation>Ag fáil culaith.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
+        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
         <translation>Culaith faighte</translation>
     </message>
@@ -5441,18 +5441,18 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
         <translation>Ag fáil comhartha rochtana Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>Theip ar chomhartha rochtana Minecraft a fháil: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>Theip ar fhreagra an chomhartha rochtana Minecraft a pharsáil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
         <source>Got Minecraft access token</source>
         <translation>Fuair mé comhartha rochtana Minecraft</translation>
     </message>
@@ -6461,32 +6461,32 @@ Cúis:
         <translation>Logáil isteach le cuntas Microsoft (cód gléis).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
         <translation>Theip ar údarú gléis: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
         <translation>Theip ar údarú gléis a aisghabháil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>Theip ar údarú gléis: réimsí riachtanacha ar iarraidh</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="156"/>
         <source>Task aborted</source>
         <translation>Tasc tobscortha</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="262"/>
         <source>Device Access failed: %1</source>
         <translation>Theip ar Rochtain ar an nGléas: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="277"/>
         <source>Got MSA token</source>
         <translation>Fuarthas comhartha MSA</translation>
     </message>
@@ -7939,23 +7939,23 @@ Déan cinnte go bhfuil muinín agat as an URL freisin.
         <translation>Ag fáil próifíl Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="42"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="43"/>
         <source>Account has no Minecraft profile.</source>
         <translation>Níl próifíl Minecraft ag an gcuntas.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="60"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation>Theip ar fháil próifíl Java Minecraft: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>Níorbh fhéidir freagra próifíl Java Minecraft a pharsáil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <source>Got Minecraft profile</source>
         <translation>Fuair mé próifíl Minecraft</translation>
     </message>
@@ -9429,32 +9429,52 @@ Nuashonraigh %1 le do thoil!</translation>
 <context>
     <name>Net::NetRequest</name>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="72"/>
         <source>Requesting %1</source>
         <translation>Ag iarraidh %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="149"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
         <source>unknown</source>
         <translation>anaithnid</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="155"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="158"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/NetRequest.cpp" line="275"/>
+        <source>Request Rate Limited for %n second(s): Retry After %1</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/NetRequest.cpp" line="280"/>
+        <source>Rate Limited: Waiting %n second(s)</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -14867,53 +14887,53 @@ An bhfuil tú cinnte?</translation>
         <translation>Údarú á fháil chun rochtain a fháil ar %1 seirbhís.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation>Theip ar údarú a fháil do %1 seirbhís. Earráid %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
         <source>Unknown STS error for %1 services: %2</source>
         <translation>Earráid STS anaithnid do sheirbhísí %1: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="75"/>
         <source>Failed to get authorization for %1 services: %2</source>
         <translation>Theip ar údarú a fháil do sheirbhísí %1: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="82"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Could not parse authorization response for access to %1 services.</source>
         <translation>Níorbh fhéidir freagra údaraithe a pharsáil le haghaidh rochtana ar sheirbhísí %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="88"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="89"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
         <translation>D&apos;athraigh an freastalaí %1 hais úsáideora údaraithe sa fhreagra. Tá rud éigin cearr.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="94"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="95"/>
         <source>Got authorization to access %1</source>
         <translation>Údarú faighte chun rochtain a fháil ar %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="105"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="106"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
         <translation>Ní féidir freagra earráide údaraithe %1 a pharsáil mar JSON: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="114"/>
         <source>XErr element is missing from %1 authorization error response.</source>
         <translation>Tá eilimint XErr ar iarraidh ó fhreagra earráide údaraithe %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="120"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
         <translation>Níl próifíl Xbox Live ag an gcuntas Microsoft seo. Ceannaigh an cluiche ar %1 ar dtús.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="125"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="126"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation>Níl Xbox Live ar fáil i do thír féin. Tá bac curtha ort.</translation>
     </message>
@@ -14926,7 +14946,7 @@ An bhfuil tú cinnte?</translation>
         <translation type="vanished">Níl Xbox Live ar fáil i do thír féin. Tá bac curtha ort.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="132"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
@@ -14935,32 +14955,32 @@ Please set up your account according to %1.</source>
 Socraigh do chuntas de réir %1 le do thoil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="139"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
         <translation>Éilíonn an cuntas Microsoft seo cruthúnas aoise le himirt. Logáil isteach i %1 le do thoil chun cruthúnas aoise a sholáthar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="143"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
         <translation>Tá teorainn ama súgartha an chuntais Microsoft seo sroichte. Tá bac curtha ar logáil isteach an chuntais Microsoft seo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="147"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="148"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
         <translation>Chuir Xbox cosc ar an gcuntas Microsoft seo mar gheall ar shárú ar Chaighdeán Pobail amháin nó níos mó do Xbox agus ní féidir é a úsáid.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="154"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
         <translation>Tá an cuntas Microsoft seo srianta faoi láthair agus níor thug do chaomhnóir cead duit imirt ar líne. Logáil isteach i %1 agus iarr ar do chaomhnóir do cheadanna a athrú.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="161"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
         <translation>Níor ghlac an cuntas Microsoft seo le Téarmaí Seirbhíse Xbox. Logáil isteach agus glac leo le do thoil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="166"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
@@ -14992,13 +15012,13 @@ Socraigh do chuntas de réir %1 le do thoil.</translation>
         <translation>Ag logáil isteach mar úsáideoir Xbox.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
         <source>Xbox user authentication failed: %1</source>
         <translation>Theip ar fhíordheimhniú úsáideora Xbox: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
         <source>Xbox user authentication response could not be understood.</source>
         <translation>Níorbh fhéidir freagra fíordheimhnithe úsáideora Xbox a thuiscint.</translation>
     </message>
@@ -15011,7 +15031,7 @@ Socraigh do chuntas de réir %1 le do thoil.</translation>
         <translation type="vanished">Níorbh fhéidir freagra fíordheimhnithe úsáideora Xbox a thuiscint.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>Got Xbox user token</source>
         <translation>Fuair mé comhartha úsáideora Xbox</translation>
     </message>

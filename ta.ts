@@ -2276,7 +2276,7 @@ Are you sure?</source>
         <translation>விளையாட்டு உரிமையை தீர்மானித்தல்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
+        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="57"/>
         <source>Got entitlements</source>
         <translation>உரிமைகள் கிடைத்தன</translation>
     </message>
@@ -3717,7 +3717,7 @@ Please try again.</source>
         <translation>தோல் பெறுதல்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
+        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
         <translation>தோல் கிடைத்தது</translation>
     </message>
@@ -5501,18 +5501,18 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>Minecraft அணுகல் கிள்ளாக்கைப் பெறுவதில் தோல்வி: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>Minecraft அணுகல் கிள்ளாக்கு பதிலை அலசத் தவறிவிட்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="72"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
         <source>Got Minecraft access token</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6539,32 +6539,32 @@ Reason:
         <translation>நுண்மென் கணக்கு (சாதனக் குறியீடு) உடன் உள்நுழைக.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
         <translation>சாதன ஏற்பு தோல்வியடைந்தது: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
         <translation>சாதன அங்கீகாரத்தை மீட்டெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>சாதன ஏற்பு தோல்வியுற்றது: தேவையான புலங்கள் இல்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="156"/>
         <source>Task aborted</source>
         <translation>பணி கைவிடப்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="262"/>
         <source>Device Access failed: %1</source>
         <translation>சாதன அணுகல் தோல்வியடைந்தது: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="277"/>
         <source>Got MSA token</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8028,23 +8028,23 @@ Make sure you also trust the URL.
         <translation>Minecraft சுயவிவரத்தைப் பெறுகிறது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="42"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="43"/>
         <source>Account has no Minecraft profile.</source>
         <translation>கணக்கில் Minecraft சுயவிவரம் இல்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="60"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation>Minecraft சாவா சுயவிவர கையகப்படுத்தல் தோல்வியுற்றது: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>Minecraft சாவா சுயவிவர பதிலை பாகுபடுத்த முடியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <source>Got Minecraft profile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9537,32 +9537,50 @@ Please update %1!</source>
 <context>
     <name>Net::NetRequest</name>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="72"/>
         <source>Requesting %1</source>
         <translation>%1 கோருகிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="149"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
         <source>unknown</source>
         <translation>தெரியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="155"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="158"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 பி/வி</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/NetRequest.cpp" line="275"/>
+        <source>Request Rate Limited for %n second(s): Retry After %1</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/NetRequest.cpp" line="280"/>
+        <source>Rate Limited: Waiting %n second(s)</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -14969,53 +14987,53 @@ Are you sure?</source>
         <translation>%1 சேவைகளை அணுக ஏற்பு பெறுதல்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation>%1 சேவைகளுக்கு ஏற்பு பெறுவதில் தோல்வி. பிழை %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
         <source>Unknown STS error for %1 services: %2</source>
         <translation>%1 சேவைகளுக்கு அறியப்படாத எச்.டி.எச் பிழை: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="75"/>
         <source>Failed to get authorization for %1 services: %2</source>
         <translation>%1 சேவைகளுக்கு ஏற்பு பெறுவதில் தோல்வி: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="82"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Could not parse authorization response for access to %1 services.</source>
         <translation>%1 சேவைகளை அணுகுவதற்கான அங்கீகார பதிலை அலச முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="88"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="89"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
         <translation>சேவையகம் %1 அங்கீகார பயனர் ஆசை மாற்றியுள்ளது. ஏதோ தவறு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="94"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="95"/>
         <source>Got authorization to access %1</source>
         <translation>%1 ஐ அணுக ஏற்பு கிடைத்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="105"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="106"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
         <translation>சாதொபொகு ஆக %1 அங்கீகார பிழை பதிலை அலச முடியாது: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="114"/>
         <source>XErr element is missing from %1 authorization error response.</source>
         <translation>XERR உறுப்பு %1 அங்கீகார பிழை பதிலில் இல்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="120"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="125"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="126"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15028,7 +15046,7 @@ Are you sure?</source>
         <translation type="vanished">எக்ச்பாக்ச் லைவ் உங்கள் நாட்டில் கிடைக்கவில்லை. நீங்கள் தடுக்கப்பட்டுள்ளீர்கள்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="132"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
@@ -15037,32 +15055,32 @@ Please set up your account according to %1.</source>
  %1 இன் படி உங்கள் கணக்கை அமைக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="139"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
         <translation>இந்த நுண்மென் கணக்கில் விளையாடுவதற்கு அகவை சான்று தேவைப்படுகிறது. வயதுக்கு ஆதாரத்தை வழங்க தயவுசெய்து %1 இல் உள்நுழைக.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="143"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
         <translation>இந்த நுண்மென் கணக்கு விளையாட்டு நேரத்திற்கான வரம்பை எட்டியுள்ளது. இந்த நுண்மென் கணக்கு உள்நுழைவதிலிருந்து தடுக்கப்பட்டுள்ளது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="147"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="148"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
         <translation>இந்த நுண்மென் கணக்கு எக்ச்பாக்சால் ஒன்று அல்லது அதற்கு மேற்பட்ட சமூக தரங்களை மீறியதற்காக எக்ச்பாக்ச் மூலம் தடைசெய்யப்பட்டது, மேலும் பயன்படுத்த முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="154"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
         <translation>இந்த நுண்மென் கணக்கு தற்போது கட்டுப்படுத்தப்பட்டுள்ளது மற்றும் ஆன்லைனில் விளையாட உங்கள் கார்டியன் உங்களுக்கு இசைவு வழங்கவில்லை. %1 இல் உள்நுழைந்து, உங்கள் பாதுகாவலர் உங்கள் அனுமதிகளை மாற்ற வேண்டும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="161"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
         <translation>இந்த நுண்மென் கணக்கு எக்ச்பாக்சின் பணி விதிமுறைகளை ஏற்கவில்லை. தயவுசெய்து உள்நுழைந்து அவற்றை ஏற்றுக்கொள்ளுங்கள்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="166"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
@@ -15094,13 +15112,13 @@ Please set up your account according to %1.</source>
         <translation>எக்ச்பாக்ச் பயனராக உள்நுழைக.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
         <source>Xbox user authentication failed: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
         <source>Xbox user authentication response could not be understood.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15113,7 +15131,7 @@ Please set up your account according to %1.</source>
         <translation type="vanished">எக்ச்பாக்ச் பயனர் அங்கீகார பதிலை புரிந்து கொள்ள முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>Got Xbox user token</source>
         <translation>எக்ச்பாக்ச் பயனர் கிள்ளாக்கு கிடைத்தது</translation>
     </message>
