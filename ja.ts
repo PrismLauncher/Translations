@@ -1414,7 +1414,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation>お使いのOSに対応するJavaのバージョンは見つかりませんでした: %1-%2</translation>
+        <translation>お使いのosに対応するJavaのバージョンは見つかりませんでした: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
@@ -10984,16 +10984,16 @@ Please update %1!</source>
         <location filename="src/launcher/net/NetRequest.cpp" line="275"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 秒間のリクエストレート制限: %1 秒後に再試行してください</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/NetRequest.cpp" line="280"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>レート制限中: %n 秒間待つ</numerusform>
         </translation>
     </message>
 </context>
