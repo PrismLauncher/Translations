@@ -10359,7 +10359,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="433"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Bestätige den Schalter</translation>
+        <translation>Umschalten bestätigen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="434"/>
@@ -17867,7 +17867,7 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="120"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation>Dieses Microsoft-Konto hat kein Xbox Live Profil. Kauf das Spiel zuerst auf %1</translation>
+        <translation>Dieses Microsoft-Konto hat kein Xbox-Live-Profil. Erwerbe das Spiel bitte zuerst auf %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="126"/>
