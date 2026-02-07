@@ -11589,8 +11589,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/net/NetRequest.cpp" line="280"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>速率限制：等待 %n 秒</numerusform>
         </translation>
     </message>
 </context>
