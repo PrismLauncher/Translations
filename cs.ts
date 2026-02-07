@@ -11558,20 +11558,20 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <location filename="src/launcher/net/NetRequest.cpp" line="275"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Počet požadavků omezen na %n sekundu: Zkuste to znovu po %1</numerusform>
+            <numerusform>Počet požadavků omezen na %n sekundy: Zkuste to znovu po %1</numerusform>
+            <numerusform>Počet požadavků omezen na %n sekund: Zkuste to znovu po %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/NetRequest.cpp" line="280"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Počet požadavků omezen: Čekám %n sekundu</numerusform>
+            <numerusform>Počet požadavků omezen: Čekám %n sekundy</numerusform>
+            <numerusform>Počet požadavků omezen: Čekám %n sekund</numerusform>
         </translation>
     </message>
 </context>
