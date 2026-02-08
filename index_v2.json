@@ -259,12 +259,12 @@
             "untranslated" : 820
         },
         "fr" : {
-            "file" : "15aa4c505f7891df39937aff871ebae032f011bc.class",
-            "sha1" : "15aa4c505f7891df39937aff871ebae032f011bc",
-            "size" : 365673,
-            "translated" : 2300,
-            "fuzzy" : 10,
-            "untranslated" : 5
+            "file" : "bada3b7d84d08776ab08ed5a52f29f5bc815fe50.class",
+            "sha1" : "bada3b7d84d08776ab08ed5a52f29f5bc815fe50",
+            "size" : 366724,
+            "translated" : 2310,
+            "fuzzy" : 5,
+            "untranslated" : 0
         },
         "fr_CA" : {
             "file" : "30ced51c2c6aaa5da2ea6ac542de5b507ad9ac5b.class",
@@ -507,12 +507,12 @@
             "untranslated" : 1735
         },
         "ms" : {
-            "file" : "942288964d2bb40cc134cd783c47fa0e4ec4ded2.class",
-            "sha1" : "942288964d2bb40cc134cd783c47fa0e4ec4ded2",
-            "size" : 273403,
+            "file" : "962a4494f95c67d49c70d427940b4d0303b28fbd.class",
+            "sha1" : "962a4494f95c67d49c70d427940b4d0303b28fbd",
+            "size" : 274372,
             "translated" : 1711,
-            "fuzzy" : 204,
-            "untranslated" : 400
+            "fuzzy" : 212,
+            "untranslated" : 392
         },
         "mt" : {
             "file" : "4ddfbd33b1e7c3c40e1d039b2707250fcba9f936.class",
@@ -731,12 +731,12 @@
             "untranslated" : 58
         },
         "zh" : {
-            "file" : "3931dec1bc749b952f33f72bb234e5f74630bc50.class",
-            "sha1" : "3931dec1bc749b952f33f72bb234e5f74630bc50",
-            "size" : 238414,
-            "translated" : 2313,
+            "file" : "53c9626e96ce058fdd78e13fe0ff0548771109c7.class",
+            "sha1" : "53c9626e96ce058fdd78e13fe0ff0548771109c7",
+            "size" : 238677,
+            "translated" : 2315,
             "fuzzy" : 0,
-            "untranslated" : 2
+            "untranslated" : 0
         },
         "zh_TW" : {
             "file" : "0ef7137e471f7c8ea66130601f78331ce4fc94a8.class",
