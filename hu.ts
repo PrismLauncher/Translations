@@ -11495,7 +11495,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>Kéréskorlátozás: várakozás %n másodperc</numerusform>
+            <numerusform>Kéréskorlátozás: Várakozás %n másodpercig</numerusform>
         </translation>
     </message>
 </context>
