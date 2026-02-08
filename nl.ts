@@ -57,12 +57,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server voor oude FML-bibliotheken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Je kunt dit instellen op een andere server als je problemen hebt met het downloaden van oudere FML-bibliotheken (Minecraft 1.5.2 en eerder).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -326,7 +326,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="999"/>
         <source>Failed to create libraries component</source>
-        <translation>Kon het bibliothekencomponent niet aanmaken</translation>
+        <translation>Kon het bibliotheken-onderdeel niet aanmaken</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1026"/>
@@ -336,7 +336,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Failed to create pack component</source>
-        <translation>Kon het pakketcomponent niet aanmaken</translation>
+        <translation>Kon het pakket-onderdeel niet aanmaken</translation>
     </message>
 </context>
 <context>
@@ -1629,7 +1629,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="80"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderdelen laden</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="215"/>
@@ -1639,12 +1639,12 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="239"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>Het laden van de metadata van enkele componenten is mislukt.</translation>
+        <translation>Het laden van de metadata van enkele onderdelen is mislukt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata downloaden voor %1 onderdelen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="480"/>
@@ -3490,12 +3490,12 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods downloaden...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod-download</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
@@ -6858,7 +6858,7 @@ Het wordt aanbevolen om %1 toegang te verlenen via Flatseal.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Afgebroken</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
@@ -8872,7 +8872,7 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="144"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
@@ -10013,12 +10013,12 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Requires</source>
-        <translation type="unfinished"></translation>
+        <translation>Vereist</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation type="unfinished"></translation>
+        <translation>Vereist door</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="198"/>
@@ -11314,7 +11314,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="17"/>
         <source>Add Empty Component</source>
-        <translation>Leeg component toevoegen</translation>
+        <translation>Leeg onderdeel toevoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
@@ -12844,7 +12844,7 @@ Doorgaan met inkorten?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation>Componenten bestand %1 bestaat niet. Dit zou nooit mogen voorkomen...</translation>
+        <translation>Onderdelen-bestand %1 bestaat niet. Dit zou nooit mogen voorkomen...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
@@ -12869,7 +12869,7 @@ Doorgaan met inkorten?</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation>Het &apos;uid&apos; van het component bevat niet toegestane karakters! Dit kan veiligheidsproblemen veroorzaken.</translation>
+        <translation>Het &apos;uid&apos; van het onderdeel bevat niet toegestane karakters! Dit kan veiligheidsproblemen veroorzaken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="191"/>
@@ -13372,17 +13372,17 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="707"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation>%1, een vereiste van dit component heeft problemen gemeld</translation>
+        <translation>%1, een vereiste van dit onderdeel heeft problemen gemeld</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="711"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation>%1, een vereiste van dit component, is niet de vereiste versie %2</translation>
+        <translation>%1, een vereiste van dit onderdeel, is niet de vereiste versie %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="715"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation>%1, een vereiste van dit component, is niet de voorgestelde versie %2</translation>
+        <translation>%1, een vereiste van dit onderdeel, is niet de voorgestelde versie %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="729"/>
@@ -16609,7 +16609,7 @@ Wissel alstublieft naar een van de volgende Javaversies voor deze instantie:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="135"/>
         <source>Remove selected component from the instance.</source>
-        <translation>Verwijder geselecteerde component uit de instantie.</translation>
+        <translation>Verwijder geselecteerde onderdeel uit de instantie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="143"/>
@@ -16619,7 +16619,7 @@ Wissel alstublieft naar een van de volgende Javaversies voor deze instantie:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="151"/>
         <source>Edit selected component.</source>
-        <translation>Bewerk geselecteerde component.</translation>
+        <translation>Geselecteerd onderdeel bewerken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="159"/>
@@ -16639,7 +16639,7 @@ Wissel alstublieft naar een van de volgende Javaversies voor deze instantie:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="196"/>
         <source>Add an empty custom component.</source>
-        <translation>Voeg een leeg aangepast component toe.</translation>
+        <translation>Voeg een leeg aangepast onderdeel toe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="204"/>
@@ -16679,12 +16679,12 @@ Wissel alstublieft naar een van de volgende Javaversies voor deze instantie:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="233"/>
         <source>Import Components</source>
-        <translation>Componenten Importeren</translation>
+        <translation>Onderdelen importeren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="236"/>
         <source>Import existing component JSON files.</source>
-        <translation>Bestaande JSON component bestanden importeren.</translation>
+        <translation>Bestaande JSON onderdeelbestanden importeren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="189"/>
@@ -16784,22 +16784,22 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
         <source>Select components</source>
-        <translation>Selecteer componenten</translation>
+        <translation>Onderdelen selecteren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
         <source>Components</source>
-        <translation>Componenten</translation>
+        <translation>Onderdelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Failed to import components</source>
-        <translation>Importeren van componenten is mislukt</translation>
+        <translation>Importeren van onderdelen is mislukt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="328"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>Sommige componenten konden niet geïmporteerd worden. Controleer logboeken voor details</translation>
+        <translation>Sommige onderdelen konden niet geïmporteerd worden. Controleer logboeken voor details</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
