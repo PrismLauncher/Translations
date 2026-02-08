@@ -11593,16 +11593,16 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/net/NetRequest.cpp" line="275"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>请求频率过高，持续 %n 秒：请在 %1 之后重试</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/NetRequest.cpp" line="280"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>请求频率过高：等待 %n 秒后自动重试</numerusform>
         </translation>
     </message>
 </context>
