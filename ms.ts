@@ -12401,7 +12401,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sahkan togol</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
@@ -12565,7 +12565,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tukar versi mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
@@ -12586,7 +12586,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="187"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Muat turun dihentikan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="109"/>
@@ -12628,7 +12628,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="168"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;%1&apos; sudah dikemas kini! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="171"/>
@@ -13343,7 +13343,7 @@ Adakah anda pasti?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="184"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Muat turun dihentikan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="106"/>
@@ -13385,7 +13385,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="165"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;%1&apos; sudah dikemas kini! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="168"/>
@@ -14082,7 +14082,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="192"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Muat turun dihentikan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="114"/>
@@ -14124,7 +14124,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="173"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;%1&apos; sudah dikemas kini! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="176"/>
