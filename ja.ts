@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>注意: ペーストサービスの種類を変更した後は、ベースURLを変更またはクリアすることをお勧めします。</translation>
+        <translation>注記: ペーストサービスの種類を変更した後は、ベースURLを変更またはクリアすることをお勧めします。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注意: Microsoftアカウントによるログインがすでに機能している場合は、これを設定する必要はありません。</translation>
+        <translation>注記: Microsoft認証によるログインがすでに機能している場合は、設定する必要はありません。</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -129,7 +129,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意: 個人データにアクセスする場合にのみ設定する必要があります。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注記: 個人データにアクセスする場合にのみ、設定する必要があります。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -171,7 +171,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意: この設定は、個人データにアクセスする場合にのみ設定する必要があります。詳細については、&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;ドキュメント&lt;/a&gt; をご覧ください。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注記: 個人データにアクセスする場合にのみ、設定する必要があります。詳細については &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;ドキュメント&lt;/a&gt; をご覧ください。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -180,7 +180,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>注意: CurseForgeがすでに機能している場合は、この設定を変更する必要はありません。</translation>
+        <translation>注記: CurseForgeがすでに機能している場合は、設定する必要はありません。</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -1414,7 +1414,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation>お使いのosに対応するJavaのバージョンは見つかりませんでした: %1-%2</translation>
+        <translation>お使いのOSに対応するJavaのバージョンは見つかりませんでした: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
@@ -2012,7 +2012,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation>注意: 作成後にショートカットを移動した場合、起動構成を削除してもショートカットは削除されません。</translation>
+        <translation>注記: 作成後にショートカットを移動した場合、起動構成を削除してもショートカットは削除されません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
@@ -2136,7 +2136,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation>通常のリリース</translation>
+        <translation>正式リリース</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
@@ -2160,7 +2160,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
         <source>Experiments</source>
-        <translation>実験的なバージョン</translation>
+        <translation>実験的</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
@@ -3545,7 +3545,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>注意: 最近のFTB Modパックの多くはCurseForgeからも入手可能です。なお、FTBの起動構成がデフォルトの場所にない場合は、検索バーの隣にあるボタンから選択してください。</translation>
+        <translation>注記: 最近のFTB Modパックの多くはCurseForgeからも入手可能です。なお、FTBの起動構成がデフォルトの場所にない場合は、検索バーの隣にあるボタンから選択してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -3934,7 +3934,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>注意: CurseForgeのMod作者は、Prism Launcherのようなサードパーティツールからのダウンロードをブロックできます。そのため、Modパックをインストールするために、一部のModを手動でダウンロードする必要がある場合があります。</translation>
+        <translation>注記: CurseForgeのMod作者は、Prism Launcherのようなサードパーティツールからのダウンロードをブロックできます。そのため、Modパックをインストールするために、一部のModを手動でダウンロードする必要がある場合があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -4074,7 +4074,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="74"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation>注意: 最近のFTB Modパックの多くはCurseForgeからも入手可能です！</translation>
+        <translation>注記: 最近のFTB Modパックの多くはCurseForgeからも入手可能です！</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -9502,7 +9502,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="778"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Vulkan上にOpenGLを実装したMesa OpenGLドライバーであるZinkを使用します。パフォーマンスは状況によって異なる場合があります。注意: 適切なVulkanドライバーが見つからない場合は、ソフトウェア レンダリングが使用されます。</translation>
+        <translation>Vulkan上にOpenGLを実装したMesa OpenGLドライバーであるZinkを使用します。パフォーマンスは状況によって異なる場合があります。注記: 適切なVulkanドライバーが見つからない場合は、ソフトウェア レンダリングが使用されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="781"/>
@@ -9735,7 +9735,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="277"/>
         <source>Release</source>
-        <translation>リリース (通常)</translation>
+        <translation>正式リリース</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="284"/>
@@ -10993,7 +10993,7 @@ Please update %1!</source>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>レート制限中: %n 秒間待つ</numerusform>
+            <numerusform>レート制限: %n 秒待機中</numerusform>
         </translation>
     </message>
 </context>
@@ -12324,7 +12324,7 @@ HTTPステータス: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>注意: プロキシのユーザー名とパスワードは、ランチャーの構成ファイル内にプレーン テキストで保存されます！</translation>
+        <translation>注記: プロキシのユーザー名とパスワードは、ランチャーの構成ファイル内にプレーンテキストで保存されます！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
@@ -16648,7 +16648,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation>Javaの名前</translation>
+        <translation>Java名</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
@@ -16658,7 +16658,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
         <source>Released</source>
-        <translation>リリース</translation>
+        <translation>リリース日</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
