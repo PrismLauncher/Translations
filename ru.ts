@@ -10430,17 +10430,21 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Для включенного мода требуется %n мод.
+</numerusform>
+            <numerusform>Для включенного мода требуется %n мода.
+</numerusform>
+            <numerusform>Для включенного мода требуется %n модов.
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Хотели бы вы также включить их?
+Их игнорирование может привести к поломке игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
@@ -10461,22 +10465,26 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Отключенные моды требуются для %n мода.
+</numerusform>
+            <numerusform>Отключенные моды требуются для %n модов.
+</numerusform>
+            <numerusform>Отключенные моды требуются для %n модов.
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Хотели бы вы также отключить их?
+Их игнорирование может привести к поломке игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
         <source>Only Disable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить только выбранные</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
