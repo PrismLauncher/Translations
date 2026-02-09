@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>سيرفر مكتبات فمل القديمة</translation>
+        <translation>خادم مكتبات إف إم إل الإرثية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>يمكنك التغيير إلي سيرقر آخر إذا واجهتك مشاكل مع تحميل مكتبات فمل القديمة (ماينكرافت 1.5.2 أو أقدم).</translation>
+        <translation>يمكنك التغيير إلي خادم آخر إذا واجهتك مشاكل مع تحميل مكتبات إف إم إل الإرثية (ماين كرافت 1.5.2 أو أقدم).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -204,12 +204,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="341"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>فشلت محاولة الحصول على فهرس البيانات الوصفية المحلية ل1%</translation>
+        <translation>فشلت محاولة الحصول على فهرس البيانات الوصفية المحلية ل%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="151"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>فشلت محاولة الحصول على الفهرس الوصفي لـ &apos;1%&apos; v%2</translation>
+        <translation>فشلت محاولة الحصول على الفهرس الوصفي لـ &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="141"/>
