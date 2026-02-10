@@ -145,7 +145,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: vous ne devez définir ce paramètre que pour accéder à des données privées.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note&#xa0;: vous ne devez définir ce paramètre que pour accéder à des données privées.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -2005,7 +2005,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation>Enregistrer Sous:</translation>
+        <translation>Enregistrer sous&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
