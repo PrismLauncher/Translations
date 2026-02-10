@@ -1697,7 +1697,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished">Téléchargement des métadonnées pour le composant %1</translation>
+        <translation>Téléchargement des métadonnées pour %1 composants</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="480"/>
@@ -3515,7 +3515,7 @@ Veuillez réessayer.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Impossible de trouver la version %1 du pack</translation>
+        <translation>Impossible de trouver la version %1 du pack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
@@ -3532,7 +3532,7 @@ Veuillez réessayer.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished">Manifeste invalide&#xa0;: Aucune information disponible pour télécharger le fichier «&#xa0;%1&#xa0;»&#x202f;!</translation>
+        <translation>Manifeste invalide&#xa0;: Aucune information disponible pour télécharger le fichier «&#xa0;%1&#xa0;»&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
