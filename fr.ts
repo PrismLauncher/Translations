@@ -10342,7 +10342,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="433"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Confirmer la décision</translation>
+        <translation>Confirmer les changements</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="434"/>
@@ -11585,7 +11585,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
         <location filename="src/launcher/net/NetRequest.cpp" line="275"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Nombre de requêtes limité pour %n seconde&#xa0;: Réessayez après %1</numerusform>
             <numerusform>Nombre de requêtes limité pour %n secondes&#xa0;: Réessayez après %1</numerusform>
         </translation>
