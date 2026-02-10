@@ -683,12 +683,12 @@
             "untranslated" : 701
         },
         "tr" : {
-            "file" : "6a0c01fedb4065bb3bd0411ed247f070ea3afc79.class",
-            "sha1" : "6a0c01fedb4065bb3bd0411ed247f070ea3afc79",
-            "size" : 330003,
-            "translated" : 2265,
-            "fuzzy" : 21,
-            "untranslated" : 29
+            "file" : "1dd83625da24886a8cd090f710a7c9e989de8444.class",
+            "sha1" : "1dd83625da24886a8cd090f710a7c9e989de8444",
+            "size" : 330429,
+            "translated" : 2267,
+            "fuzzy" : 23,
+            "untranslated" : 25
         },
         "uk" : {
             "file" : "1b11b23392b4ed1a0153d2b708a3cde1592d8796.class",
