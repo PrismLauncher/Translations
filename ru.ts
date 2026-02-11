@@ -10414,7 +10414,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="438"/>
         <source>Only Toggle Selected</source>
-        <translation>Переключить  олько выбранные</translation>
+        <translation>Переключить только выбранные</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="439"/>
@@ -10489,7 +10489,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Disable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Требуется Отключение</translation>
     </message>
     <message>
         <source>Miecraft Versions</source>
@@ -10843,7 +10843,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Моды которые вы пытаетесь удалить требуются %1 mods
+Вы уверены что хотите отключить их?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="263"/>
@@ -11699,10 +11700,10 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/net/NetRequest.cpp" line="275"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Лимит Запроса На %n секунд: Повторите Через %1</numerusform>
+            <numerusform>Лимит Запросов На %n секунд: Повторите Через %1</numerusform>
+            <numerusform>Лимит Запросов На %n секунд: Повторите Через %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -14174,7 +14175,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
         <source>No Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Профиль отсутствует</translation>
     </message>
 </context>
 <context>
