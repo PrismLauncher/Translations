@@ -11592,18 +11592,18 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
         <location filename="src/launcher/net/NetRequest.cpp" line="276"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Solicitudes limitadas por %n segundo. Reintentar después de %1</numerusform>
+            <numerusform>Solicitudes limitadas por %n segundos. Reintentar después de %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/NetRequest.cpp" line="281"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Frecuencia Limitada: Esperando %n segundo</numerusform>
+            <numerusform>Frecuencia Limitada: Esperando %n segundos</numerusform>
         </translation>
     </message>
 </context>
