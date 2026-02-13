@@ -4492,20 +4492,20 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstallJavaPage</name>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
         <translation>中繼資訊中目前沒有可用的 Java 版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
         <translation>無法載入或下載 Java 版本清單！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="64"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
         <translation>目前沒有適用於您作業系統的 Java 版本。</translation>
@@ -4514,47 +4514,47 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstallLoaderDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="99"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="103"/>
         <source>&amp;Refresh</source>
         <translation>重新整理 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>Ok</source>
         <translation>確定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="134"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>NeoForge</source>
         <translation>NeoForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Forge</source>
         <translation>Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>Fabric</source>
         <translation>Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
         <source>Quilt</source>
         <translation>Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="146"/>
         <source>LiteLoader</source>
         <translation>LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="148"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
         <translation>安裝載入器</translation>
     </message>
@@ -5284,54 +5284,54 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>Java::InstallDialog</name>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="200"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="204"/>
         <source>&amp;Refresh</source>
         <translation>重新整理 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="217"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="221"/>
         <source>Download</source>
         <translation>下載</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="218"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="282"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Mojang</source>
         <translation>Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="284"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <source>Adoptium</source>
         <translation>Adoptium</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="290"/>
         <source>Azul Zulu</source>
         <translation>Azul Zulu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="292"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="324"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="296"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
         <source>Install Java</source>
         <translation>安裝 Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="318"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="322"/>
         <source>Could not determine Java download type!</source>
         <translation>無法判斷 Java 下載類型！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="331"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="335"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="336"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
@@ -14111,59 +14111,59 @@ Error message: %3</source>
 <context>
     <name>ResourceDownload::ResourceDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="74"/>
         <source>Review and confirm</source>
         <translation>檢查並確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="73"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="75"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="100"/>
         <source>Confirmation Needed</source>
         <translation>需要確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="99"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="101"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
         <translation>您有 %1 個已選取的資源。
 確定要關閉這個對話方塊嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="135"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="140"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
         <translation>開啟新的彈出式視窗，以檢閱您選擇的%1並確認您的選擇。快捷鍵：Ctrl+Enter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="152"/>
         <source>Confirm %1 to download</source>
         <translation>確認要下載的%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="168"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="169"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="174"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="175"/>
         <source>Checking for dependencies...</source>
         <translation>正在檢查前置項…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="390"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="395"/>
         <source>Change %1 version</source>
         <translation>變更 %1 版本</translation>
     </message>
@@ -15634,8 +15634,8 @@ Are you sure?</source>
     <name>SkinManageDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="14"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="306"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="320"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Skin Upload</source>
         <translation>上傳外觀</translation>
     </message>
@@ -15720,166 +15720,166 @@ Are you sure?</source>
         <translation>F2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="111"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="112"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="113"/>
         <source>OK</source>
         <translation>確定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="173"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="174"/>
         <source>Select Skin Texture</source>
         <translation>選擇外觀紋理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="180"/>
         <source>Selected file is not a valid skin</source>
         <translation>已選取的檔案不是有效的外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="207"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="208"/>
         <source>No Cape</source>
         <translation>無披風</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="214"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="215"/>
         <source>Download capes</source>
         <translation>下載披風</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="303"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
         <source>Change skin</source>
         <translation>變更外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="306"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Skin file does not exist!</source>
         <translation>外觀檔案不存在！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="320"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Failed to upload skin!</source>
         <translation>外觀上傳失敗！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="331"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="332"/>
         <source>Reset skin</source>
         <translation>重設外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Skin Delete</source>
         <translation>刪除外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Failed to delete current skin!</source>
         <translation>刪除目前的外觀失敗！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
         <source>Context menu</source>
         <translation>功能表</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="384"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="385"/>
         <source>Delete error</source>
         <translation>刪除錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="384"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="385"/>
         <source>Can not delete skin that is in use.</source>
         <translation>無法刪除正在使用的外觀。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="392"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
         <source>Confirm Deletion</source>
         <translation>確認刪除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
         <translation>您即將刪除「%1」。
 您確定嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="410"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="411"/>
         <source>Invalid url</source>
         <translation>無效的 URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="415"/>
         <source>Download skin</source>
         <translation>下載外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
         <source>URL is not a valid skin</source>
         <translation>該 URL 不是有效的外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="425"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
         <translation>外觀圖片必須為 64x64 或 64x32 像素的 PNG 檔案。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="425"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="426"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
         <translation>無法下載外觀：&apos;%1&apos;。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="471"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="472"/>
         <source>Download user skin</source>
         <translation>下載使用者外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="489"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="490"/>
         <source>failed to get user UUID</source>
         <translation>取得使用者 UUID 失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="496"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="497"/>
         <source>failed to get user profile</source>
         <translation>取得使用者個人檔案失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="500"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="501"/>
         <source>failed to download skin</source>
         <translation>下載外觀失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="510"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="524"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="511"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="525"/>
         <source>failed to parse get user UUID response</source>
         <translation>無法解析取得的使用者 UUID 回應</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="519"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="520"/>
         <source>user id is empty</source>
         <translation>使用者 ID 是空的</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="533"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="534"/>
         <source>failed to parse get user profile response</source>
         <translation>無法解析取得的使用者個人檔案回應</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="550"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
         <source>the skin is invalid</source>
         <translation>外觀無效</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="552"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="553"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
         <translation>找不到使用者名稱</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="553"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="554"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>找不到「%1」的外觀

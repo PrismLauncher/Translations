@@ -4396,20 +4396,20 @@ Coba ulang lagi.</translation>
 <context>
     <name>InstallJavaPage</name>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
         <translation>Tidak ada versi Java yang saat ini tersedia dalam meta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
         <translation>Tidak dapat memuat atau mengunduh daftar versi Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="64"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
         <translation>Tidak ada versi Java yang tersedia untuk sistem operasi Anda.</translation>
@@ -4418,47 +4418,47 @@ Coba ulang lagi.</translation>
 <context>
     <name>InstallLoaderDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="99"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="103"/>
         <source>&amp;Refresh</source>
         <translation>Sega&amp;rkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>Ok</source>
         <translation>Oke</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
         <source>Cancel</source>
         <translation>Batalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="134"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>NeoForge</source>
         <translation>NeoForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Forge</source>
         <translation>Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>Fabric</source>
         <translation>Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
         <source>Quilt</source>
         <translation>Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="146"/>
         <source>LiteLoader</source>
         <translation>LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="148"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
         <translation>Instal Pemuat</translation>
     </message>
@@ -5118,54 +5118,54 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
 <context>
     <name>Java::InstallDialog</name>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="200"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="204"/>
         <source>&amp;Refresh</source>
         <translation>Sega&amp;rkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="217"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="221"/>
         <source>Download</source>
         <translation>Unduh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="218"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
         <source>Cancel</source>
         <translation>Batalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="282"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Mojang</source>
         <translation>Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="284"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <source>Adoptium</source>
         <translation>Adoptium</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="290"/>
         <source>Azul Zulu</source>
         <translation>Azul Zulu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="292"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="324"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="296"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
         <source>Install Java</source>
         <translation>Instal Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="318"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="322"/>
         <source>Could not determine Java download type!</source>
         <translation>Tidak dapat menetapkan jenis unduhan Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="331"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="335"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="336"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -13387,59 +13387,59 @@ Pesan kesalahan: %3</translation>
 <context>
     <name>ResourceDownload::ResourceDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="74"/>
         <source>Review and confirm</source>
         <translation>Kaji ulang dan konfirmasi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="73"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="75"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="100"/>
         <source>Confirmation Needed</source>
         <translation>Konfirmasi Dibutuhkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="99"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="101"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
         <translation>Anda telah memilih %1 sumber daya.
 Apakah Anda yakin ingin menutup dialog ini?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="135"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="140"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
         <translation>Membuka sebuah popup baru untuk mengkaji ulang terpilih %1 Anda dan mengkonfirmasi pilihan Anda. Pintasan: Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="152"/>
         <source>Confirm %1 to download</source>
         <translation>Konfirmasi %1 untuk mengunduh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="168"/>
         <source>Warnings</source>
         <translation>Peringatan-peringatan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="169"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="174"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="175"/>
         <source>Checking for dependencies...</source>
         <translation>Memeriksa ketergantungan...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="390"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="395"/>
         <source>Change %1 version</source>
         <translation>Ubah versi %1</translation>
     </message>
@@ -14878,8 +14878,8 @@ Apakah Anda yakin?</translation>
     <name>SkinManageDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="14"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="306"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="320"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Skin Upload</source>
         <translation>Unggahan Skin</translation>
     </message>
@@ -14964,166 +14964,166 @@ Apakah Anda yakin?</translation>
         <translation>F2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="111"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="112"/>
         <source>Cancel</source>
         <translation>Batalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="113"/>
         <source>OK</source>
         <translation>OKE</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="173"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="174"/>
         <source>Select Skin Texture</source>
         <translation>Pilih Tekstur Skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="180"/>
         <source>Selected file is not a valid skin</source>
         <translation>Berkas terpilih bukanlah skin yang berlaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="207"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="208"/>
         <source>No Cape</source>
         <translation>Tidak Ada Jubah</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="214"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="215"/>
         <source>Download capes</source>
         <translation>Unduh jubah</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="303"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
         <source>Change skin</source>
         <translation>Ubah skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="306"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Skin file does not exist!</source>
         <translation>Berkas skin tidak ada!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="320"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Failed to upload skin!</source>
         <translation>Gagal mengunggah skin!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="331"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="332"/>
         <source>Reset skin</source>
         <translation>Atur Ulang Skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Skin Delete</source>
         <translation>Hapus Skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Failed to delete current skin!</source>
         <translation>Gagal menghapus skin saat ini!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
         <source>Context menu</source>
         <translation>Menu konteks</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="384"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="385"/>
         <source>Delete error</source>
         <translation>Hapus error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="384"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="385"/>
         <source>Can not delete skin that is in use.</source>
         <translation>Tidak dapat menghapus skin yang sedang dipakai.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="392"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
         <source>Confirm Deletion</source>
         <translation>Konfirmasi Penghapusan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
         <translation>Anda akan menghapus &quot;%1&quot;
 Apakah Anda yakin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="410"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="411"/>
         <source>Invalid url</source>
         <translation>Tautan tidak berlaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="415"/>
         <source>Download skin</source>
         <translation>Unduh skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
         <source>URL is not a valid skin</source>
         <translation>Tautan bukanlah skin yang berlaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="425"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
         <translation>Gambar skin harus berupa berkas PNG berukuran 64x64 atau 64x32 pixel.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="425"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="426"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
         <translation>Tidak dapat mengunduh skin: &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="471"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="472"/>
         <source>Download user skin</source>
         <translation>Unduh skin pengguna</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="489"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="490"/>
         <source>failed to get user UUID</source>
         <translation>gagal mendapatkan UUID pengguna</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="496"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="497"/>
         <source>failed to get user profile</source>
         <translation>gagal mendapatkan profil pengguna</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="500"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="501"/>
         <source>failed to download skin</source>
         <translation>gagal mengunduh skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="510"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="524"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="511"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="525"/>
         <source>failed to parse get user UUID response</source>
         <translation>gagal menguraikan respons get user UUID</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="519"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="520"/>
         <source>user id is empty</source>
         <translation>id pengguna kosong</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="533"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="534"/>
         <source>failed to parse get user profile response</source>
         <translation>gagal menguraikan respons get user profile</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="550"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
         <source>the skin is invalid</source>
         <translation>skin tidak berlaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="552"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="553"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
         <translation>Nama pengguna tidak ditemukan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="553"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="554"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>Tidak dapat menemukan skin untuk &apos;%1&apos;

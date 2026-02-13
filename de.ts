@@ -4536,20 +4536,20 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
 <context>
     <name>InstallJavaPage</name>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
         <translation>Derzeit sind in der Meta keine Java-Versionen verfügbar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
         <translation>Konnte die Java-Versionslisten nicht laden oder herunterladen!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="64"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
         <translation>Derzeit sind keine Java-Versionen für Ihr Betriebssystem verfügbar.</translation>
@@ -4558,47 +4558,47 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
 <context>
     <name>InstallLoaderDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="99"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="103"/>
         <source>&amp;Refresh</source>
         <translation>&amp;Aktualisieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="134"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>NeoForge</source>
         <translation>NeoForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Forge</source>
         <translation>Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>Fabric</source>
         <translation>Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
         <source>Quilt</source>
         <translation>Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="146"/>
         <source>LiteLoader</source>
         <translation>LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="148"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
         <translation>Modloader installieren</translation>
     </message>
@@ -5316,54 +5316,54 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
 <context>
     <name>Java::InstallDialog</name>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="200"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="204"/>
         <source>&amp;Refresh</source>
         <translation>&amp;Aktualisieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="217"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="221"/>
         <source>Download</source>
         <translation>Herunterladen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="218"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="282"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Mojang</source>
         <translation>Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="284"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <source>Adoptium</source>
         <translation>Adoptium</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="290"/>
         <source>Azul Zulu</source>
         <translation>Azul Zulu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="292"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="324"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="296"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
         <source>Install Java</source>
         <translation>Java installieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="318"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="322"/>
         <source>Could not determine Java download type!</source>
         <translation>Der Java-Download-Typ konnte nicht bestimmt werden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="331"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="335"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="336"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Abort</source>
         <translation>Abbrechen</translation>
     </message>
@@ -14192,59 +14192,59 @@ Fehlermeldung: %3</translation>
 <context>
     <name>ResourceDownload::ResourceDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="74"/>
         <source>Review and confirm</source>
         <translation>Prüfen &amp; bestätigen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="73"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="75"/>
         <source>Ctrl+Return</source>
         <translation>Strg+Eingabe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="100"/>
         <source>Confirmation Needed</source>
         <translation>Bestätigung benötigt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="99"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="101"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
         <translation>Du hast %1 ausgwewählte Ressourcen
 Bist du dir sicher, dass du diesen Dialog schließen möchtest?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="135"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="140"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
         <translation>Öffnet ein neues Fenster um deine ausgewählten %1 zu sehen und bestätige diese. Kurzbefehl: Strg+Enter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="152"/>
         <source>Confirm %1 to download</source>
         <translation>Bestätige um %1 herunterzuladen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="168"/>
         <source>Warnings</source>
         <translation>Warnungen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="169"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="174"/>
         <source>Abort</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="175"/>
         <source>Checking for dependencies...</source>
         <translation>Überprüfen von möglichen Abhängigkeiten...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="390"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="395"/>
         <source>Change %1 version</source>
         <translation>%1 Version ändern</translation>
     </message>
@@ -15715,8 +15715,8 @@ Sind Sie sicher?</translation>
     <name>SkinManageDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="14"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="306"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="320"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Skin Upload</source>
         <translation>Skin hochladen</translation>
     </message>
@@ -15801,166 +15801,166 @@ Sind Sie sicher?</translation>
         <translation>F2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="111"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="112"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="113"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="173"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="174"/>
         <source>Select Skin Texture</source>
         <translation>Wähle eine Skin Textur aus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="180"/>
         <source>Selected file is not a valid skin</source>
         <translation>Ausgewählte Datei ist kein gültiger Skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="207"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="208"/>
         <source>No Cape</source>
         <translation>Kein Umhang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="214"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="215"/>
         <source>Download capes</source>
         <translation>Umhänge herunterladen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="303"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
         <source>Change skin</source>
         <translation>Skin ändern</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="306"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Skin file does not exist!</source>
         <translation>Skin-Datei existiert nicht!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="320"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Failed to upload skin!</source>
         <translation>Fehler beim Hochladen des Skins!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="331"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="332"/>
         <source>Reset skin</source>
         <translation>Skin zurücksetzen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Skin Delete</source>
         <translation>Skin löschen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Failed to delete current skin!</source>
         <translation>Löschen des aktuellen Skins fehlgeschlagen!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
         <source>Context menu</source>
         <translation>Kontextmenü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="384"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="385"/>
         <source>Delete error</source>
         <translation>Löschfehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="384"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="385"/>
         <source>Can not delete skin that is in use.</source>
         <translation>Benutzter Skin kann nicht gelöscht werden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="392"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
         <source>Confirm Deletion</source>
         <translation>*Löschung bestätigen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
         <translation>Du bist dabei %1 zu löschen.
 Bist du dir sicher?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="410"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="411"/>
         <source>Invalid url</source>
         <translation>Ungültige URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="415"/>
         <source>Download skin</source>
         <translation>Skin herunterladen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
         <source>URL is not a valid skin</source>
         <translation>URL ist kein gültiger Skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="425"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
         <translation>Skinbilder müssen 64x64 oder 64x32 pixel PNG Dateien sein.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="425"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="426"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
         <translation>Der Skin kann nicht heruntergeladen werden: &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="471"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="472"/>
         <source>Download user skin</source>
         <translation>Nutzer-Skin herunterladen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="489"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="490"/>
         <source>failed to get user UUID</source>
         <translation>Abrufen der Nutzer*In-UUID fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="496"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="497"/>
         <source>failed to get user profile</source>
         <translation>Abrufen des Nutzer*In-Prifils fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="500"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="501"/>
         <source>failed to download skin</source>
         <translation>Herunterladen des Skins fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="510"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="524"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="511"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="525"/>
         <source>failed to parse get user UUID response</source>
         <translation>Deutung der Antwort vom Abrufen der Nutzer*In-UUID fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="519"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="520"/>
         <source>user id is empty</source>
         <translation>Nutzer*In Identifikator ist nicht vorhanden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="533"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="534"/>
         <source>failed to parse get user profile response</source>
         <translation>Deutung der Antwort aus dem Abrufen des Nutzer*In-Profils fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="550"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
         <source>the skin is invalid</source>
         <translation>Der Skin ist nicht gültig</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="552"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="553"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
         <translation>Nutzer*Innenname nicht gefunden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="553"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="554"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>Aufsuchen des Skins für &apos;%1&apos; fehlgeschlagen
