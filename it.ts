@@ -57,12 +57,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server per le vecchie librerie FML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Puoi configurare un server alternativo se riscontri problemi durante il download di vecchie librerie FML (Minecraft 1.5.2 e precedenti).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -661,12 +661,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta &amp;su</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta &amp;giù</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -1354,7 +1354,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="94"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparazione all&apos;accesso…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
@@ -1670,7 +1670,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="80"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>Caricamento componenti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="215"/>
@@ -1685,7 +1685,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>Scaricamento metadati per %1 componenti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="480"/>
@@ -2558,7 +2558,7 @@ Sei sicuro/a?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;istanza non può essere avviata perché alcune librerie sono mancanti o non scaricate. Riprovare in modalità online e con una connessione a Internet</translation>
     </message>
 </context>
 <context>
@@ -3498,12 +3498,12 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished">Ottenendo il manifesto...</translation>
+        <translation>Ottenimento manifesto…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Impossibile trovare la versione %1 del modpack</translation>
+        <translation>Impossibile trovare la versione %1 del modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
