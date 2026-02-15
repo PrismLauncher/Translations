@@ -298,7 +298,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="871"/>
         <source>%1 out of %2 complete</source>
-        <translation>1% από τα δύο 2% ολοκληρωμένο</translation>
+        <translation>Ολοκληρώθηκε 1% από 2%</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="906"/>
@@ -971,7 +971,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1076"/>
         <source>Update In Progress</source>
-        <translation>Αναβάθμιση σε Εξέλιξη</translation>
+        <translation>Ενημέρωση σε Εξέλιξη</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1100"/>
@@ -6035,7 +6035,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Θα θέλατε να συνεχίσετε ούτως ή άλλως;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
@@ -6055,7 +6055,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Φάκελος Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
@@ -6077,7 +6077,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Γενικά</translation>
     </message>
 </context>
 <context>
@@ -6264,7 +6264,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="62"/>
         <source>3rd Party</source>
-        <translation>3ο Μέρος</translation>
+        <translation>Τρίτο Μέρος</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="89"/>
@@ -6293,17 +6293,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Σφάλμα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Η εργασία ματαιώθηκε.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Η διεργασία έχει ακυρωθεί από τον χρήστη.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
@@ -6591,12 +6591,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Για να παίξετε το Minecraft, πρέπει να έχετε τουλάχιστον έναν λοργαγιασμό Microsoft συνδεδεμένο. Θα θέλατε να συνδεθείτε τώρα;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished"></translation>
+        <translation>Προθήκη λογαργιασμού Microsoft</translation>
     </message>
 </context>
 <context>
@@ -6604,27 +6604,27 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="37"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο φάκελος δεν υπάρχει</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>Αδυναμία δημιουργίας αρχείου</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αδυναμία προσθήκης:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Αδυναμία ανάγνωσης και συμπίεσης %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="72"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ένα σφάλμα zip συνέβη</translation>
     </message>
 </context>
 <context>
@@ -6632,27 +6632,27 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Απέτυχε η απαρίθμηση αρχείων στο αρχείο αρχειοθέτησης</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="45"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Η εξαγωγή άδειων αρχείων αρχειοθέτησης φαίνεται παράξενη...</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Απέτυχε η ανάλυση του αρχείου %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Η εξαγωγή %1 ακυρώθηκε, επειδή ήταν εκτός της διαδρομής %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Η εξαγωγή του αρχείου %1 στο %2 απέτυχε</translation>
     </message>
 </context>
 <context>
@@ -6660,12 +6660,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύνδεση με λοργαγιασμό Microsoft(κωδικός συσκευής).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Η επικαιροποίηση της συσκευής απέτυχε: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
