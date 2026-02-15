@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor de Librerias FML Legacy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Puedes configurarlo en otro servidor si tienes problemas para descargar bibliotecas FML heredadas (Minecraft 1.5.2 y versiones anteriores).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -75,17 +75,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="310"/>
         <source>Use None</source>
-        <translation type="unfinished">Ninguno</translation>
+        <translation>Usar ninguna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="346"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished">&amp;CurseForge</translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="401"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished">&amp;Technic</translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
