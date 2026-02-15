@@ -10252,7 +10252,7 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
         <translation>Vuoi applicare automaticamente queste modifiche correlate?
-Ignorarle potrebbe rompere il gioco.</translation>
+Ignorarle potrebbe impedire il funzionamento del gioco.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="438"/>
@@ -13685,14 +13685,14 @@ Do you wish to proceed?</source>
 
 %1
 
-%2 potrebbe rompere l&apos;altra istanza, 
+%2 potrebbe danneggiare l&apos;altra istanza, 
 
 Vuoi procedere?</numerusform>
             <numerusform>Le seguenti istanze potrebbero contenere riferimenti a file in quest&apos;instanza:
 
 %1
 
-%2 potrebbe rompere le altre istanze, 
+%2 potrebbe danneggiare le altre istanze, 
 
 Vuoi procedere?</numerusform>
         </translation>
