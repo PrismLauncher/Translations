@@ -16444,7 +16444,7 @@ Kanoninen polku: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
         <source>Rename</source>
-        <translation>Nimeä</translation>
+        <translation>Nimeä uudelleen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="113"/>
