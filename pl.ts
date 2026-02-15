@@ -65,12 +65,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Starszy serwer bibliotek FML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli masz problem z pobraniem starszych bibliotek FML (Minecraft 1.5.2 i starsze), możesz ustawić inny serwer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -1682,7 +1682,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="80"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>Ładowanie komponentów</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="215"/>
@@ -1697,7 +1697,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie metadanych dla %1 komponentów</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="480"/>
@@ -3510,12 +3510,12 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished">Nabywanie manifestu...</translation>
+        <translation>Pobieranie manifestu...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Nie udało się znaleźć pakietu w wersji %1</translation>
+        <translation>Nie udało się znaleźć paczki w wersji %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
@@ -3527,27 +3527,27 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished">Analizowanie modyfikacji...</translation>
+        <translation>Rozstrzyganie modów...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished">Niepoprawny manifest: Brak informacji potrzebnych do pobrania pliku &apos;%1&apos;!</translation>
+        <translation>Niepoprawny manifest: Brak informacji potrzebnych do pobrania pliku &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
         <source>Blocked files found</source>
-        <translation type="unfinished">Zablokowane pliki znalezione</translation>
+        <translation>Znaleziono zablokowanie pliki</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Następujące pliki nie są dostępne do pobrania w innych programach uruchamiających.&lt;br/&gt;Należy je pobrać ręcznie i dodać do instancji.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished">Tworzenie instancji...</translation>
+        <translation>Tworzenie instancji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
@@ -3562,12 +3562,12 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Kopiowanie zablokowanych modyfikacji...</translation>
+        <translation>Kopiowanie zablokowanych modów...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Kopiowanie zablokowanych modyfikacji (wykonano %1 z %2)</translation>
+        <translation>Kopiowanie zablokowanych modów (wykonano %1 z %2)</translation>
     </message>
 </context>
 <context>
@@ -4187,7 +4187,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="74"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga: Wiele nowszych modpacków FTB jest również dostępnych w serwisie CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4673,7 +4673,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
         <source>Modpack download</source>
-        <translation>Pobieranie paczki modyfikacji</translation>
+        <translation>Pobieranie paczki modów</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
@@ -7010,12 +7010,12 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Wyszukiwanie bibliotek FML...</translation>
+        <translation>Wyszukiwanie bibliotek FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Pobieranie bibliotek FML...</translation>
+        <translation>Pobieranie bibliotek FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="73"/>
@@ -7025,17 +7025,17 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Kopiowanie bibliotek FML do instancji...</translation>
+        <translation>Kopiowanie bibliotek FML do instancji...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Nie udało się utworzyć folderu biblioteki FML wewnątrz instancji.</translation>
+        <translation>Nie udało się utworzyć folderu biblioteki FML wewnątrz instancji.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Nie udało się skopiować Forge/biblioteki FML: %1.</translation>
+        <translation>Nie udało się skopiować Forge/biblioteki FML: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -7044,7 +7044,7 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Nie udało się pobrać poniższych plików:
+        <translation>Nie udało się pobrać poniższych plików:
 %1
 
 Powód:%2
@@ -8681,7 +8681,7 @@ Proszę dodaj swoje konto Mojang lub Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
         <source>Modpack download</source>
-        <translation>Pobieranie paczki modyfikacji</translation>
+        <translation>Pobieranie paczki modów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1165"/>
@@ -9171,7 +9171,11 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ta paczka modyfikacji jest lokalna.
+Może być aktualizowana przy użyciu pliku w formacie %1 lub adresu URL.
+Nie używaj formatu innego niż wymieniony, ponieważ może to doprowadzić do awarii instancji.
+Upewnij się też że ufasz adresowi URL
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="234"/>
@@ -9647,7 +9651,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gra bazowa wspiera jedynie rozdzielczość. Aby zasymulować zachowanie maksymalizacji obecna implementacja aproksymuje maksymalny rozmiar wyświetlacza.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
@@ -9892,27 +9896,27 @@ Najprawdopodobniej będziesz musiał/-a zmienić ścieżkę- sprawdź ze stroną
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
         <source>Babric</source>
-        <translation type="unfinished">Babric</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">BTA (Babric)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Stary Fabric</translation>
+        <translation>Starszy Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
         <source>Rift</source>
-        <translation type="unfinished">Rift</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
@@ -10387,111 +10391,127 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="433"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Przełącznik potwierdzenia</translation>
+        <translation>Przełącznik potwierdzenia</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="434"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Przełączenie tych modów spowoduje zmiany w innych modach.
+</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="435"/>
         <source>%n mod(s) will be enabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n mod zostanie włączony
+</numerusform>
+            <numerusform>%n mody zostaną włączone
+</numerusform>
+            <numerusform>%n modów zostanie włączonych
+</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="436"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n mod zostanie wyłączony
+</numerusform>
+            <numerusform>%n mody zostaną wyłączone
+</numerusform>
+            <numerusform>%n modów zostanie wyłączonych
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="437"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz automatycznie zaplikować te powiązane zmiany?
+Zignorowanie ich może zepsuć grę.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="438"/>
         <source>Only Toggle Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz Tylko Zaznaczone</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="439"/>
         <source>Toggle Required Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz Wymagane Mody</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
         <source>Confirm enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź włączenie</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Włączony mod wymaga &amp;n moda.
+</numerusform>
+            <numerusform>Włączony mod wymaga &amp;n modów.
+</numerusform>
+            <numerusform>Włączony mod wymaga &amp;n modów.
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz je również włączyć?
+Zignorowanie ich może zepsuć grę.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
         <source>Only Enable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Włącz Tylko Zaznaczone</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
         <source>Enable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Włącz Wymagane</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Confirm disable</source>
-        <translation type="unfinished">Potwierdź wyłączenie</translation>
+        <translation>Potwierdź wyłączenie</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Wyłączony mod jest wymagany przez %n moda.
+</numerusform>
+            <numerusform>Wyłączony mod jest wymagany przez %n mody.
+</numerusform>
+            <numerusform>Wyłączony mod jest wymagany przez %n modów.
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz je również wyłączyć?
+Zignorowanie ich może zepsuć grę.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
         <source>Only Disable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz Tylko Zaznaczone</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Disable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz Wymagane</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
@@ -10805,13 +10825,14 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="144"/>
         <source>Confirm Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź Wyłączenie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mody które próbujesz usunąć są wymagane przez %1 modów
+Czy chcesz je wyłączyć?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="263"/>
@@ -11643,20 +11664,20 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/net/NetRequest.cpp" line="276"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tempo Zapytań Jest Limitowane przez %n sekundę: Spróbuj Ponownie Za %1</numerusform>
+            <numerusform>Tempo Zapytań Jest Limitowane przez %n sekundy: Spróbuj Ponownie Za %1</numerusform>
+            <numerusform>Tempo Zapytań Jest Limitowane przez %n sekund: Spróbuj Ponownie Za %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/NetRequest.cpp" line="281"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tempo Limitowane: Czekanie %n sekundę</numerusform>
+            <numerusform>Tempo Limitowane: Czekanie %n sekundy</numerusform>
+            <numerusform>Tempo Limitowane: Czekanie %n sekund</numerusform>
         </translation>
     </message>
 </context>
@@ -14130,7 +14151,7 @@ Wiadomość błędu: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
         <source>No Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak profilu Minecraft</translation>
     </message>
 </context>
 <context>
@@ -15662,7 +15683,7 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="173"/>
         <source>Update checker</source>
-        <translation>Sprawdź aktualizacje</translation>
+        <translation>Sprawdzacz aktualizacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="214"/>
@@ -16504,7 +16525,7 @@ Czy jesteś pewny/a że chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="181"/>
         <source>Update checker</source>
-        <translation>Sprawdź aktualizacje</translation>
+        <translation>Sprawdzacz aktualizacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="222"/>
