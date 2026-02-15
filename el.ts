@@ -1837,7 +1837,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντίγραψε διακομιστές</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
@@ -1920,12 +1920,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση σε:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Όνομα:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
@@ -1986,12 +1986,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="88"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Εφαρμογές</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="90"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Άλλα...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
@@ -2001,7 +2001,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="112"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (σε χρήση)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="179"/>
@@ -2135,7 +2135,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Κανένα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
@@ -2198,7 +2198,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="54"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Γίνεται αντιγραφή του %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="66"/>
@@ -2354,7 +2354,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="126"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιβεβαίωση Ενημέρωσης</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="127"/>
@@ -2626,12 +2626,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ρυθμίσεις</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
         <source>&amp;Recommended Memory:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Προτεινόμενη Μνήμη:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
@@ -2706,7 +2706,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η διεργασία έχει ακυρωθεί από τον χρήστη.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="208"/>
@@ -2774,7 +2774,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Προαιρετικές Πληροφορίες</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="105"/>
@@ -2828,7 +2828,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Αποθήκευση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
@@ -2980,7 +2980,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Έλεγξε για &amp;Ενημερώσεις</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
@@ -2999,7 +2999,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Επρόκειτο να αφαιρέσετε %1 στοιχεία.
+Αυτό μπορεί να είναι μόνιμο και θα εξαφανιστούν από τον φάκελο.
+
+Είστε σίγουρος/η;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
@@ -3007,17 +3010,20 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Επρόκειτο να αφαιρέσετε τον φάκελο &quot;%1&quot;.
+Αυτό μπορεί να είναι μόνιμο και θα εξαφανιστεί από τον γονικό φάκελο.
+
+Είστε σίγουρος/η;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="256"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιβεβαίωση Αφαίρεσης</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιβεβαίωση Διαγραφής</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
@@ -3453,7 +3459,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη εγκατεστημένο</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
@@ -3664,17 +3670,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναζήτηση αρχείων...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="72"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>Αδυναμία αναζήτησης αρχείων</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Εντόπιση κατατεμαχισμών αρχείου...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="168"/>
@@ -4095,7 +4101,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτός ο σύνδεσμος δεν είναι έγκυρο modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
@@ -4168,7 +4174,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="133"/>
         <source>License: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Άδεια: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="140"/>
@@ -4722,12 +4728,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="36"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Γίνεται λήψη του Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Γίνεται εξαγωγή του Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5146,17 +5152,19 @@ You can change the Java version in the settings later.
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξατε μια έκδοση Java 32-bit.
+Αυτή η εγκατάσταση δεν υποστηρίζει περισσότερο από 2048MiB RAM.
+Βεβαιωθείτε ότι η μέγιστη τιμή μνήμης είναι χαμηλότερη.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η μέγιστη κατανομή μνήμηής σας ξεπερνά την χωρητικότητα μνήμης του συστήματός σας.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η μέγιστη κατανομή μνήμής σας είναι κοντά στην χωρητικότητα μνήμης του συστήματός σας.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
@@ -5196,7 +5204,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="231"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Βρέθηκε Java 32-bit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
@@ -5206,7 +5214,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξατε μια εγκατάσταση Java 32-bit, αλλά κατανείματε περισσότερο απο 2048MiB ως μέγιστη μνήμη.
+Το %1 δε θα μπορέσει να ξεκινήσει το Minecraft.
+Θα θέλατε να συνεχίσετε;
+
+Μπορείτε να αλλάξετε την έκδοση Java αργότερα στις ρυθμίσεις.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="242"/>
@@ -5221,7 +5234,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Εσείς είτε δεν επιλέξατε κάποια έκδοση Java ή επιλέξατε μία που δε λειτουργεί.
+Το %1 δε θα μπορέσει να ξεκινήσει το Minecraft.
+Θα θέλατε να συνεχίσετε χωρίς μια έκδοση του Java που λειτουργεί;
+
+Μπορείτε να αλλάξετε την έκδοση Java αργότερα στις ρυθμίσεις.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="352"/>
@@ -5266,17 +5284,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη αυτόματα το Java της Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="504"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματη έυρεση έκδοσης Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματη έυρεση Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="514"/>
@@ -5364,12 +5382,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="205"/>
         <source>No account selected for launch.</source>
-        <translation>Δεν έχουν επιλεγεί λογαριασμόςγια εκκίνηση.</translation>
+        <translation>Δεν έχουν επιλεγεί λογαριασμός για εκκίνηση.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Φαίνεται πως δεν μπορέσαμε να ξεκινήσουμε μετά από %1 προσπάθειες. Συνήθως αυτό μπορεί να λυθεί αποσυνδέοντας και επνασυνδέοντας στον λοργαγιασμό σας στην Microsoft. Αν αυτό δεν λειτουργήσει, οι διακομιστές επαλήθευσης του Minecraft μπορεί να βρίσκονται εκτός λειτουργίας η μπορεί να χρειάζεστε ένα VPN στην περιοχή σας. Θα θέλατε να προσπαθήσετε ξανά;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -5418,7 +5436,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="138"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Παίξε την δοκιμαστική έκδοση;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="140"/>
@@ -5426,12 +5444,15 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτός ο λογαργιασμός δεν κατέχει το Minecraft.
+Πρέπει να αγοράσετε το παιχνίδι πρώτα για να το παίξετε.
+
+Θα θέλατε να παίξετε την δοκιμαστική έκδοση;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="143"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Παίξε την δοκιμαστική έκδοση</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="144"/>
@@ -5441,7 +5462,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="261"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το ξεκίνημα ακυρώθηκε - ο λογαργιασμός δεν κατέχει το Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5683,7 +5704,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>How Often?</source>
-        <translation type="unfinished"></translation>
+        <translation>Πόσο Συχνά;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
