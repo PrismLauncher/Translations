@@ -39,22 +39,22 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation>Server Aset</translation>
+        <translation>Pelayan Aset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Anda boleh menetapkan pelayan/server yang lain jika anda menghadapi masalah mengenai memuat turun aset.</translation>
+        <translation>Anda boleh menetapkan ini kepada pelayan yang lain jika anda menghadapi masalah dalam memuat turun aset.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Server Perpustakaan FML Legasi</translation>
+        <translation>Pelayan Pustaka FML Legasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Anda boleh menetapkan ini ke server lain jika anda menghadapi masalah memuat turun pustaka FML legasi (Minecraft 1.5.2 dan lebih awal).</translation>
+        <translation>Anda boleh menetapkan ini kepada pelayan yang lain jika anda menghadapi masalah dalam memuat turun pustaka FML legasi (Minecraft 1.5.2 dan lebih awal).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -234,7 +234,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="385"/>
         <source>No loader version set for modpack!</source>
-        <translation>Tiada versi pemuat ditetapkan untuk modpack!</translation>
+        <translation>Tiada versi pemuat ditetapkan untuk pek mod!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
@@ -313,12 +313,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="988"/>
         <source>Installing modpack</source>
-        <translation>Memasang modpack</translation>
+        <translation>Memasang pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="999"/>
         <source>Failed to create libraries component</source>
-        <translation>Gagal membuat komponen pustaka</translation>
+        <translation>Gagal mencipta komponen pustaka</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1026"/>
@@ -1055,7 +1055,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
-        <translation>Indeks Aset untuk %1</translation>
+        <translation>Indeks aset untuk %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="42"/>
@@ -1167,7 +1167,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Adakah Anda ingin mengaktifkan mod ini?</translation>
+        <translation>Adakah anda ingin mendayakan mod ini?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
@@ -1180,7 +1180,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Amaran: Ini masih kerja dalam proses. Jika anda menghadapi masalah dengan modpack yang diimport, ia mungkin sebuah pepijat.</translation>
+        <translation>Amaran: Ini masih kerja dalam proses. Jika anda menghadapi masalah dengan pek mod yang diimport, ia mungkin sebuah pepijat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1478,7 +1478,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="74"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Pemeriksa Pustaka Java tidak dapat ditemui. Sila semak pemasangan anda.</translation>
+        <translation>Pustaka pemeriksa Java tidak dapat ditemui. Sila semak pemasangan anda.</translation>
     </message>
 </context>
 <context>
@@ -1598,7 +1598,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="810"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>Tugas kemas kini metadata komponen gagal apabila memuat turun dari pelayan jauh:
+        <translation>Tugas pengemaskinian metadata komponen gagal semasa memuat turun dari pelayan jarak jauh:
 %1</translation>
     </message>
 </context>
@@ -2217,8 +2217,8 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Mengeditnya juga akan mengubah sumber asal.
-Laluan Kanonikal: %1</translation>
+Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Menyuntingnya juga akan mengubah sumber asal.
+Laluan Sebenar: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="113"/>
@@ -2258,17 +2258,17 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation>Cuba semak atau kemas kini semua data pack yang dipilih (semua data pack jika tiada yang dipilih)</translation>
+        <translation>Cuba semak atau kemas kini semua pek data yang dipilih (semua pek data jika tiada yang dipilih)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation>Mengubah versi data pack.</translation>
+        <translation>Mengubah versi pek data.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="80"/>
         <source>Download Data Packs</source>
-        <translation>Muat Turun Data Pack</translation>
+        <translation>Muat Turun Pek Data</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
@@ -2292,7 +2292,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="243"/>
         <source>Download stopped by user.</source>
-        <translation>Muat turun dihentikan oleh pengguna.</translation>
+        <translation>Pemuatturunan dihentikan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="92"/>
@@ -2312,7 +2312,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="121"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="220"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation>Pengemaskinian data pack tidak disediakan apabila metadata dinyahdayakan!</translation>
+        <translation>Pengemaskinian pek data tidak tersedia apabila metadata dinyahdayakan!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="126"/>
@@ -2324,14 +2324,14 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Mengemas kini data pack semasa permainan sedang berjalan boleh menyebabkan pertindihan pack dan meranapkan sistem permainan.
+        <translation>Mengemas kini pek data semasa permainan sedang berjalan boleh menyebabkan penduaan pek dan meranapkan permainan.
 Fail lama mungkin tidak akan dipadam semasa ia sedang digunakan.
 Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
         <source>The data pack updater was aborted!</source>
-        <translation>Pengemaskini data pack telah dihentikan!</translation>
+        <translation>Pengemaskinian pek data telah dihentikan!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="151"/>
@@ -2341,12 +2341,12 @@ Adakah anda pasti mahu melakukan ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation>Semua data pack adalah terkini! :)</translation>
+        <translation>Semua pek data sudah dikemas kini! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="156"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation>Semua data pack yang dipilih adalah terkini! :)</translation>
+        <translation>Semua pek data yang dipilih sudah dikemas kini! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
@@ -2362,7 +2362,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation>Anda akan menhapus metadata untuk data pack %1.
+        <translation>Anda akan menghapus metadata untuk %1 pek data.
 Adakah anda pasti?</translation>
     </message>
 </context>
@@ -2435,7 +2435,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Instans ini tidak dapat dilancarkan kerana beberapa pustaka tidak dijumpai atau belum dimuat turun lagi. Sila cuba lagi dalam mod dalam talian dengan sambungan Internet yang berfungsi</translation>
+        <translation>Pemasangan ini tidak dapat dilancarkan kerana terdapat beberapa pustaka yang tidak ditemui atau belum dimuat turun lagi. Sila cuba lagi dalam mod dalam talian dengan sambungan Internet yang berfungsi</translation>
     </message>
 </context>
 <context>
@@ -2784,12 +2784,12 @@ Adakah anda pasti?</translation>
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation>Teks ini menyokong placeholder berikut:
-{name} - Nama mod
-{mod_id} - ID Mod
-{url} - URL Mod
-{version} - Versi mod
-{authors} - Pembangun mod</translation>
+        <translation>Teks ini menyokong tempat pegang berikut:
+{name}		- Nama mod
+{mod_id}	- ID Mod
+{url}		- URL Mod
+{version}	- Versi mod
+{authors}	- Pembangun mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -2907,7 +2907,7 @@ Adakah anda pasti?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="117"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation>Nyahdayakan item yang dipilih.</translation>
+        <translation>Dayakan semua item yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
@@ -3137,7 +3137,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation>Digunakan untuk mengedit fail JSON komponen.</translation>
+        <translation>Digunakan untuk menyunting fail JSON komponen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
@@ -3159,7 +3159,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation>Profiler boleh diakses melalui menu dropdown Pelancaran.</translation>
+        <translation>Pemprofil boleh diakses melalui menu lungsur Lancarkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
@@ -3217,7 +3217,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation>Persediaan JProfiler nampaknya baik</translation>
+        <translation>Setup JProfiler nampaknya baik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
@@ -3235,12 +3235,12 @@ Adakah anda pasti mahu melakukan ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation>Setup VisualVM nampaknya OK</translation>
+        <translation>Setup VisualVM nampaknya baik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation>Pengedit Teks</translation>
+        <translation>Penyunting Teks</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3277,7 +3277,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation>Persediaan MCEdit nampaknya baik</translation>
+        <translation>Setup MCEdit nampaknya baik</translation>
     </message>
     <message>
         <source>JSON Editor</source>
@@ -3356,7 +3356,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation>Gagal menemui versi pack %1</translation>
+        <translation>Gagal menemui versi pek %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
@@ -3368,7 +3368,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation>Melengkapkan mod...</translation>
+        <translation>Menyelesaikan mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
@@ -3388,7 +3388,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
         <source>Creating the instance...</source>
-        <translation>Mencipta instans...</translation>
+        <translation>Mencipta pemasangan...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
@@ -3434,7 +3434,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Nota: Banyak modpack FTB terkini juga boleh ditemui di CurseForge! Selain itu, jika instans FTB anda tidak berada di lokasi asal, pilihnya menggunakan butang di sebelah carian.</translation>
+        <translation>Catatan: Banyak pek mod FTB terkini juga boleh ditemui di CurseForge! Selain itu, jika pemasangan FTB anda tidak berada di lokasi asal, pilihnya menggunakan butang di sebelah carian.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -3613,7 +3613,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="353"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>Folder ganti yang ditentukan (%1) tidak wujud. Mungkin modpack telah digunakan sebelum ini?</translation>
+        <translation>Folder ganti yang ditentukan (%1) tidak wujud. Mungkin pek mod itu telah digunakan sebelum ini?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="382"/>
@@ -3628,7 +3628,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>Memori yang disyorkan untuk modpack melebihi 90% RAM sistem anda—mengurangkannya daripada %1 MiB kepada %2 MiB!</translation>
+        <translation>Ingatan yang disyorkan untuk pek mod adalah melebihi 90% daripada RAM sistem anda—mengurangkannya daripada %1 MiB kepada %2 MiB!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
@@ -3763,7 +3763,7 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Nota: CurseForge membenarkan pencipta untuk menyekat akses kepada alatan pihak ketiga seperti Prism Launcher. Oleh itu, anda mungkin perlu memuat turun beberapa mod secara manual untuk dapat memasang modpack.</translation>
+        <translation>Catatan: CurseForge membenarkan pencipta untuk menyekat akses kepada alatan pihak ketiga seperti Prism Launcher. Oleh itu, anda mungkin perlu memuat turun beberapa mod secara manual untuk dapat memasang pek mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -3895,7 +3895,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="74"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation>Nota: Banyak modpack FTB terkini juga boleh didapati daripada CurseForge!</translation>
+        <translation>Nota: Banyak pek mod FTB terkini juga tersedia daripada CurseForge!</translation>
     </message>
 </context>
 <context>
@@ -4050,12 +4050,12 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation>- Modpack CurseForge (ZIP / curseforge:// URL)</translation>
+        <translation>- Pek Mod CurseForge (ZIP / URL curseforge://)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modpack Modrinth (ZIP dan mrpack)</translation>
+        <translation>- Pek Mod Modrinth (ZIP dan mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -4066,7 +4066,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Modpack Technic (ZIP)</translation>
+        <translation>- Pek Mod Technic (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -4083,12 +4083,12 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Modpack %1 disekat untuk pihak ketiga! Sila muat turun secara manual.</translation>
+        <translation>Pek mod %1 disekat untuk pihak ketiga! Sila muat turun secara manual.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>Url ini bukan modpack yang sah !</translation>
+        <translation>Url ini bukan pek mod yang sah !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
@@ -4109,7 +4109,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
         <source>Choose modpack</source>
-        <translation>Pilih modpack</translation>
+        <translation>Pilih pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
@@ -5156,7 +5156,7 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Jumlah maksimum memori Minecraft dibenarkan untuk digunakan.</translation>
+        <translation>Jumlah maksimum ingatan yang dibenarkan untuk digunakan oleh Minecraft.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -5198,7 +5198,7 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation>Jika diaktifkan, pelancar tidak akan meminta anda memilih versi Java jika versi tersebut tidak ditemui semasa permulaan.</translation>
+        <translation>Jika didayakan, pelancar tidak akan meminta anda memilih versi Java jika versi tersebut tidak ditemui semasa permulaan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
@@ -5248,7 +5248,7 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="345"/>
         <source>Memory Notice</source>
-        <translation>Notis Memori</translation>
+        <translation>Notis Ingatan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
@@ -5267,7 +5267,7 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Jumlah memori Minecraft dimulakan dengan.</translation>
+        <translation>Jumlah ingatan yang digunakan untuk memulakan Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="295"/>
@@ -5297,7 +5297,7 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Jumlah memori yang tersedia untuk menyimpan kelas Java yang dimuatkan.</translation>
+        <translation>Jumlah ingatan yang tersedia untuk menyimpan kelas Java yang dimuatkan.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -5333,17 +5333,17 @@ Sila pastikan nilai memori maximum rendah.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Peruntukan memori maksimum anda melebihi kapasiti memori sistem anda.</translation>
+        <translation>Peruntukan ingatan maksimum anda adalah melebihi kapasiti ingatan sistem anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation>Peruntukan memori maksimum anda hampir dengan kapasiti memori sistem anda.</translation>
+        <translation>Peruntukan ingatan maksimum anda adalah hampir dengan kapasiti ingatan sistem anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation>Peruntukan memori maksimum anda adalah di bawah peruntukan memori minimum.</translation>
+        <translation>Peruntukan ingatan maksimum anda adalah di bawah peruntukan ingatan minimum.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -5365,7 +5365,7 @@ Sila pastikan nilai memori maximum rendah.</translation>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Sila pilih jumlah memori yang hendak diperuntukkan kepada kesemua instans dan sama ada Prism Launcher harus mengurus Java secara automatik atau manual.</translation>
+        <translation>Sila pilih jumlah ingatan yang hendak diperuntukkan kepada kesemua pemasangan dan sama ada Prism Launcher harus mengurus Java secara automatik atau manual.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5436,27 +5436,27 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Jumlah memori maksimum yang dibenarkan untuk digunakan oleh Minecraft.</translation>
+        <translation>Jumlah ingatan maksimum yang dibenarkan untuk digunakan oleh Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>Minimum memory allocation:</source>
-        <translation>Peruntukan memori minimum:</translation>
+        <translation>Peruntukan ingatan minimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Maximum memory allocation:</source>
-        <translation>Peruntukan memori maksimum:</translation>
+        <translation>Peruntukan ingatan maksimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Jumlah memori semasa Minecraft dimulakan.</translation>
+        <translation>Jumlah ingatan yang digunakan untuk memulakan Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Jumlah memori yang tersedia untuk menyimpan kelas Java yang dimuatkan.</translation>
+        <translation>Jumlah ingatan yang tersedia untuk menyimpan kelas Java yang dimuatkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
@@ -5481,17 +5481,17 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="514"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Peruntukan memori maksimum anda melebihi kapasiti memori sistem anda.</translation>
+        <translation>Peruntukan ingatan maksimum anda adalah melebihi kapasiti ingatan sistem anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="517"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Peruntukan memori maksimum anda menghampiri kapasiti memori sistem anda.</translation>
+        <translation>Peruntukan ingatan maksimum anda adalah hampir dengan kapasiti ingatan sistem anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="520"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Peruntukan memori maksimum anda adalah lebih kecil daripada nilai minimum</translation>
+        <translation>Peruntukan ingatan maksimum anda adalah lebih kecil daripada nilai minimum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="526"/>
@@ -5609,7 +5609,7 @@ Adakah anda mahu bermain demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Nampaknya kita tidak dapat melancarkan selepas %1 percubaan. Biasanya ini boleh diperbaiki dengan log keluar dan log masuk semula ke akaun Microsoft anda. Jika itu tidak berjaya, server pengesahan Minecraft mungkin mengalami gangguan atau anda mungkin memerlukan VPN di rantau anda. Adakah anda ingin terus mencuba?</translation>
+        <translation>Nampaknya kita tidak dapat melancarkan permainan selepas %1 percubaan. Biasanya ini boleh diperbaiki dengan log keluar dan log masuk semula ke akaun Microsoft anda. Jika itu tidak berjaya, pelayan pengesahan Minecraft mungkin sedang mengalami gangguan atau anda mungkin memerlukan VPN di rantau anda. Adakah anda ingin terus mencuba?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="261"/>
@@ -5668,7 +5668,7 @@ Adakah anda mahu bermain demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation>Semakan profil untuk %1 gagal: %2</translation>
+        <translation>Semakan pemprofil untuk %1 gagal: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="462"/>
@@ -5687,7 +5687,7 @@ Adakah anda mahu bermain demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; tidak lagi wujud pada server. Ia mungkin telah dipindahkan, dalam hal ini sila tambahkan akaun baharu yang anda pindahkan.</translation>
+        <translation>&apos;%1&apos; tidak lagi wujud pada pelayan. Ia mungkin telah dipindahkan, dalam hal ini sila tambahkan akaun baharu yang anda pindahkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="359"/>
@@ -5919,12 +5919,12 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation>Pengisihan Instans</translation>
+        <translation>Pengisihan Pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
         <source>Instance Renaming</source>
-        <translation>Penamaan Semula Instans</translation>
+        <translation>Penamaan Semula Pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
@@ -5969,7 +5969,7 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>Mods and Modpacks</source>
-        <translation>Mod dan Modpacks</translation>
+        <translation>Mod dan Pek Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
@@ -5979,7 +5979,7 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation>Apabila diaktifkan, ia akan mengalihkan sumber yang disekat dan bukannya menyalinnya.</translation>
+        <translation>Apabila didayakan, ia akan mengalihkan sumber yang disekat dan bukannya menyalinnya.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
@@ -6134,12 +6134,12 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation>Apabila mencipta instans modpack baharu, anda disarankan untuk mengemas kini instans sedia ada.</translation>
+        <translation>Apabila mencipta pemasangan pek mod baharu, anda disarankan untuk mengemas kini pemasangan sedia ada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation>Cadangkan untuk mengemas kini instans sedia ada semasa pemasangan modpack</translation>
+        <translation>Cadangkan untuk mengemas kini pemasangan sedia ada semasa pemasangan pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
@@ -6365,17 +6365,17 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="135"/>
         <source>Public Modpack</source>
-        <translation>Modpack Awam</translation>
+        <translation>Pek Mod Awam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="137"/>
         <source>Third Party Modpack</source>
-        <translation>Modpack Pihak Ketiga</translation>
+        <translation>Pek Mod Pihak Ketiga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="139"/>
         <source>Private Modpack</source>
-        <translation>Modpack Peribadi</translation>
+        <translation>Pek Mod Peribadi</translation>
     </message>
 </context>
 <context>
@@ -6406,7 +6406,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation>Mengekstrak modpack</translation>
+        <translation>Mengekstrak pek mod</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
@@ -6415,7 +6415,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Installing modpack</source>
-        <translation>Memasang modpack</translation>
+        <translation>Memasang pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
@@ -6529,7 +6529,7 @@ Patutkah ia dikeluarkan sekarang?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation>Pustaka untuk instance %1</translation>
+        <translation>Pustaka untuk pemasangan %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
@@ -6543,7 +6543,7 @@ Patutkah ia dikeluarkan sekarang?</translation>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>Beberapa artifak yang ditandakan sebagai &apos;local&apos; tiada failnya:
+        <translation>Beberapa artifak yang ditandakan sebagai &apos;local&apos; kehilangan failnya:
 %1
 
 Anda perlu sama ada menambah fail, atau mengalih keluar pakej yang memerlukannya.
@@ -7014,7 +7014,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="605"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation>Buka penjejak bug untuk melaporkan bug dengan %1.</translation>
+        <translation>Buka penjejak pepijat untuk melaporkan pepijat dengan %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="638"/>
@@ -7095,7 +7095,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation>Mencipta pintasan pada folder yang dipilih untuk melancarkan instans yang dipilih.</translation>
+        <translation>Mencipta pintasan pada folder yang dipilih untuk melancarkan pemasangan yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
@@ -7197,7 +7197,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation>Buka folder pack kucing dalam pelayar fail.</translation>
+        <translation>Buka folder pek kucing dalam pelayar fail.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
@@ -7307,7 +7307,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation>Laporkan Bug atau Cadangkan Ciri</translation>
+        <translation>Laporkan Pepijat atau Cadangkan Ciri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
@@ -7564,7 +7564,7 @@ Sila tambah akaun Mojang atau Minecraft anda.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Modpack, mod atau sumber %1 disekat untuk pihak ketiga! Sila muat turun secara manual.</translation>
+        <translation>Pek mod, mod atau sumber %1 disekat untuk pihak ketiga! Sila muat turun secara manual.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
@@ -7574,14 +7574,14 @@ Sila tambah akaun Mojang atau Minecraft anda.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1050"/>
         <source>No instance!</source>
-        <translation>Tiada instans!</translation>
+        <translation>Tiada pemasangan!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1051"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation>Tiada instans tersedia untuk menambah sumber.
-Sila buat instans baharu sebelum cuba memasang sumber ini sekali lagi.</translation>
+        <translation>Tiada pemasangan yang tersedia untuk menambah sumber.
+Sila buat pemasangan baharu sebelum cuba memasang sumber ini sekali lagi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1165"/>
@@ -7602,13 +7602,13 @@ Sila buat instans baharu sebelum cuba memasang sumber ini sekali lagi.</translat
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1207"/>
         <source>Failed to undo trashing instance</source>
-        <translation>Gagal membatalkan penghapusan instans</translation>
+        <translation>Gagal membatalkan penghapusan pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation>Sesetengah contoh dan pintasan tidak dapat dipulihkan.
+        <translation>Sesetengah pemasangan dan pintasan tidak dapat dipulihkan.
 Sila semak tong sampah anda untuk memulihkannya secara manual.</translation>
     </message>
     <message>
@@ -7619,7 +7619,7 @@ Sila semak tong sampah anda untuk memulihkannya secara manual.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation>Pemasangan ini tidak boleh disunting. Ia mungkin rosak, tidak sah atau terlalu lama. Semak log untuk butiran.</translation>
+        <translation>Pemasangan ini tidak boleh disunting. Ia mungkin rosak, tidak sah atau terlalu tua. Semak log untuk butiran.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
@@ -7653,12 +7653,12 @@ Untuk mengosongkan cache metadata secara manual, tekan Folder -&gt; Lihat Folder
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Cannot Delete Running Instance</source>
-        <translation>Tidak Boleh Padamkan Instans Yang Sedang Berjalan</translation>
+        <translation>Tidak Boleh Memadamkan Pemasangan yang Sedang Berjalan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation>Instans yang dipilih sedang berjalan dan tidak boleh dipadamkan. Sila hentikan instans tersebut sebelum cuba memadamkannya.</translation>
+        <translation>Pemasangan yang dipilih sedang berjalan dan tidak boleh dipadamkan. Sila hentikan pemasangan tersebut sebelum cuba memadamkannya.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
@@ -7773,7 +7773,7 @@ This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
         <translation>Anda akan memadamkan &quot;%1&quot;%2.
-Ini mungkin kekal dan akan memadamkan instans ini sepenuhnya.
+Ini mungkin kekal dan akan memadamkan pemasangan ini sepenuhnya.
 
 Adakah anda pasti?</translation>
     </message>
@@ -7864,12 +7864,12 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
-        <translation>Maklumat Pack</translation>
+        <translation>Maklumat Pek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
-        <translation>Nama Pack:</translation>
+        <translation>Nama Pek:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -7894,7 +7894,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="168"/>
         <source>Update From File</source>
-        <translation>Kemas Kini Daripada Fail</translation>
+        <translation>Kemas Kini daripada Fail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="183"/>
@@ -7915,14 +7915,14 @@ Adakah anda pasti?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Ini ialah modpack tempatan.
+        <translation>Ini ialah pek mod tempatan.
 Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="160"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation>Laman Web: &lt;a href=%1&gt;%2&lt;/a&gt; | ID Pack: %3 | ID Versi: %4</translation>
+        <translation>Laman Sesawang: &lt;a href=%1&gt;%2&lt;/a&gt; | ID Pek: %3 | ID Versi: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
@@ -7953,7 +7953,7 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="145"/>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="223"/>
         <source>Update Pack</source>
-        <translation>Kemas Kini Pack</translation>
+        <translation>Kemas Kini Pek</translation>
     </message>
     <message>
         <source>Update pack</source>
@@ -7962,7 +7962,7 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="144"/>
         <source>URL:</source>
-        <translation>Alamat Laman Sesawang:</translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
@@ -7971,9 +7971,9 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation>Ini ialah modpack lokal.
+        <translation>Ini ialah pek mod tempatan.
 Ini boleh dikemas kini sama ada menggunakan fail dalam format %1 atau URL.
-Jangan gunakan format yang berbeza daripada yang dinyatakan kerana ia mungkin merosakkan instans.
+Jangan gunakan format yang berbeza daripada yang dinyatakan kerana ia mungkin merosakkan pemasangan.
 Pastikan anda juga mempercayai URL tersebut.
 </translation>
     </message>
@@ -7985,7 +7985,7 @@ Pastikan anda juga mempercayai URL tersebut.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="237"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>Gagal meminta log perubahan data untuk modpack ini.</translation>
+        <translation>Gagal meminta data log perubahan untuk pek mod ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="239"/>
@@ -8000,7 +8000,7 @@ Pastikan anda juga mempercayai URL tersebut.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="334"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation>Instans tersebut berjaya dikemas kini kepada versi pack %1.</translation>
+        <translation>Pemasangan tersebut berjaya dikemas kini kepada versi pek %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="339"/>
@@ -8010,7 +8010,7 @@ Pastikan anda juga mempercayai URL tersebut.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="340"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation>Instans tersebut gagal dikemas kini kepada versi pack %1. Sila semak log pelancar untuk maklumat lanjut.</translation>
+        <translation>Pemasangan tersebut gagal dikemas kini kepada versi pek %1. Sila semak log pelancar untuk maklumat lanjut.</translation>
     </message>
 </context>
 <context>
@@ -8491,8 +8491,8 @@ Pastikan anda juga mempercayai URL tersebut.
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation>Membenarkan pemasangan data pack di semua dunia jika mod yang berkenaan dipasang.
-Kemungkinan besar anda perlu menukar laluan - sila rujuk laman web mod tersebut.</translation>
+        <translation>Membenarkan pemasangan pek data pada semua dunia jika mod yang berkenaan dipasang.
+Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod tersebut.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
@@ -8502,7 +8502,7 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman web mod tersebut.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation>datapack</translation>
+        <translation>pek data</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
@@ -8696,7 +8696,7 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman web mod tersebut.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="565"/>
         <source>Select Global Data Packs Folder</source>
-        <translation>Pilih Folder Data Pack Global</translation>
+        <translation>Pilih Folder Pek Data Global</translation>
     </message>
 </context>
 <context>
@@ -8875,7 +8875,7 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman web mod tersebut.
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Mengeditnya juga akan menukar yang asal.
+Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Menyuntingnya juga akan mengubah yang asal.
 Laluan Sebenar: %1</translation>
     </message>
     <message>
@@ -8883,7 +8883,7 @@ Laluan Sebenar: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga akan menukar yang asal.</translation>
+Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga akan mengubah yang asal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -8953,7 +8953,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="198"/>
         <source>Is the mod enabled?</source>
-        <translation>Adakah mod telah diaktifkan?</translation>
+        <translation>Adakah mod tersebut didayakan?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="200"/>
@@ -9027,7 +9027,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod akan diaktifkan
+            <numerusform>%n mod akan didayakan
 </numerusform>
         </translation>
     </message>
@@ -9036,7 +9036,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod akan dinyahaktifkan
+            <numerusform>%n mod akan dinyahdayakan
 </numerusform>
         </translation>
     </message>
@@ -9060,14 +9060,14 @@ Mengabaikannya mungkin akan merosakkan permainan.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
         <source>Confirm enable</source>
-        <translation>Sahkan aktif</translation>
+        <translation>Pastikan pendayaan</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
         <translation>
-            <numerusform>Mod yang diaktifkan memerlukan %n mod.
+            <numerusform>Mod yang didayakan memerlukan %n mod.
 </numerusform>
         </translation>
     </message>
@@ -9075,18 +9075,18 @@ Mengabaikannya mungkin akan merosakkan permainan.</translation>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation>Adakah anda ingin mengaktifkannya juga?
+        <translation>Adakah anda ingin mendayakan mereka juga?
 Mengabaikannya mungkin akan merosakkan permainan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
         <source>Only Enable Selected</source>
-        <translation>Hanya Aktifkan Yang Dipilih</translation>
+        <translation>Hanya Dayakan yang Dipilih</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
         <source>Enable Required</source>
-        <translation>Pengaktifan Diperlukan</translation>
+        <translation>Pendayaan Diperlukan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
@@ -9098,7 +9098,7 @@ Mengabaikannya mungkin akan merosakkan permainan.</translation>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
         <translation>
-            <numerusform>Mod yang dinyahaktifkan diperlukan oleh %n mod.
+            <numerusform>Mod yang dinyahdayakan adalah diperlukan oleh %n mod.
 </numerusform>
         </translation>
     </message>
@@ -9106,18 +9106,18 @@ Mengabaikannya mungkin akan merosakkan permainan.</translation>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation>Adakah anda ingin menyahaktifkannya juga?
+        <translation>Adakah anda ingin menyahdayakan mereka juga?
 Mengabaikannya mungkin akan merosakkan permainan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
         <source>Only Disable Selected</source>
-        <translation>Hanya Nyahaktif Yang Dipilih</translation>
+        <translation>Hanya Nyahdayakan yang Dipilih</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Disable Required</source>
-        <translation>Nyahaktif Diperlukan</translation>
+        <translation>Penyahdayaan Diperlukan</translation>
     </message>
 </context>
 <context>
@@ -9170,14 +9170,14 @@ Adakah anda pasti mahu melakukan ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="144"/>
         <source>Confirm Disable</source>
-        <translation>Sahkan Nyahaktif</translation>
+        <translation>Pastikan Penyahdayaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
         <translation>Mod yang anda cuba padamkan diperlukan oleh mod %1.
-Adakah anda ingin menyahaktifkannya?</translation>
+Adakah anda ingin menyahdayakannya?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="185"/>
@@ -9216,7 +9216,7 @@ Adakah anda ingin menyahaktifkannya?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="230"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="335"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation>Kemas kini mod tidak tersedia apabila metadata dinyahaktifkan!</translation>
+        <translation>Kemas kini mod tidak tersedia apabila metadata dinyahdayakan!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="235"/>
@@ -9243,7 +9243,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation>Semua mod yang dipilih adalah terkini! :)</translation>
+        <translation>Semua mod yang dipilih sudah dikemas kini! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="268"/>
@@ -9297,7 +9297,7 @@ Adakah anda pasti?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="263"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation>Semua mod adalah terkini! :)</translation>
+        <translation>Semua mod sudah dikemas kini! :)</translation>
     </message>
     <message>
         <source>Download mods</source>
@@ -9418,14 +9418,14 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>Ralat rangkaian telah berlaku. Tidak dapat memuatkan modpack.</translation>
+        <translation>Ralat rangkaian telah berlaku. Tidak dapat memuatkan pek mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="331"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>Versi API terlalu lama!
+        <translation>Versi API terlalu tua!
 Sila kemas kini %1!</translation>
     </message>
 </context>
@@ -9519,7 +9519,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="270"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation>Fail &apos;%1&apos; tiada pautan muat turun. Ini tidak sah dalam format pack.</translation>
+        <translation>Fail &apos;%1&apos; tidak ada pautan muat turun. Ini adalah tidak sah dalam format pek.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="300"/>
@@ -9545,7 +9545,7 @@ Sila kemas kini %1!</translation>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="473"/>
         <source>Could not understand pack index:
 </source>
-        <translation>Tidak dapat memahami indeks pack:
+        <translation>Tidak dapat memahami indeks pek:
 </translation>
     </message>
 </context>
@@ -10008,7 +10008,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation>Mod yang tidak ditanda akan dinyahaktifkan.</translation>
+        <translation>Mod yang tidak ditanda akan dinyahdayakan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
@@ -11439,14 +11439,14 @@ Nama baharu: %2</translation>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Similar modpack was found!</source>
-        <translation>Modpack serupa ditemui!</translation>
+        <translation>Pek mod serupa ditemui!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Satu atau lebih pemasangan anda adalah daripada pek mod yang sama %1. Adakah anda ingin membuat pemasangan yang berasingan atau mengemas kini yang sedia ada?
+        <translation>Satu atau lebih pemasangan anda adalah daripada pek mod yang sama %1. Adakah anda ingin membuat pemasangan yang berasingan atau mengemas kini pemasangan yang sedia ada?
 
 CATATAN: Pastikan anda membuat sandaran data pemasangan penting anda sebelum mengemas kini, kerana dunia boleh rosak dan beberapa konfigurasi mungkin hilang (disebabkan timpaan pek).</translation>
     </message>
@@ -12363,7 +12363,7 @@ The author likely blocked third-party launchers.</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Mengeditnya juga akan menukar yang asal.
+Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Menyuntingnya juga akan mengubah yang asal.
 Laluan Sebenar: %1</translation>
     </message>
     <message>
@@ -12371,7 +12371,7 @@ Laluan Sebenar: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga akan menukar yang asal.</translation>
+Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga akan mengubah yang asal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="243"/>
@@ -12491,7 +12491,7 @@ Are you sure you want to do this?</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Mengeditnya juga akan menukar yang asal.
+Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Menyuntingnya juga akan mengubah yang asal.
 Laluan Sebenar: %1</translation>
     </message>
     <message>
@@ -12499,7 +12499,7 @@ Laluan Sebenar: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga akan menukar yang asal.</translation>
+Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga akan mengubah yang asal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="156"/>
@@ -13204,7 +13204,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
         <source>Remove</source>
-        <translation>Alih keluar</translation>
+        <translation>Alih Keluar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"/>
@@ -13373,8 +13373,8 @@ Adakah anda pasti?</translation>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Mengemas kini pek pembayang semasa permainan berjalan mungkin menyebabkan pertindihan pek dan ranap permainan.
-Fail lama tidak boleh dipadam kerana ia sedang digunakan.
+        <translation>Mengemas kini pek pembayang semasa permainan sedang berjalan mungkin menyebabkan pertindihan pek dan ranap permainan.
+Fail lama mungkin tidak boleh dipadam kerana ia sedang digunakan.
 Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
@@ -13802,18 +13802,18 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Memuat turun modpack:
+        <translation>Memuat turun pek mod:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation>Muat turun modpack</translation>
+        <translation>Muat turun pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation>Mengekstrak modpack</translation>
+        <translation>Mengekstrak pek mod</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
@@ -13822,7 +13822,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
         <source>Failed to extract modpack</source>
-        <translation>Gagal untuk mengekstrak modpack</translation>
+        <translation>Gagal untuk mengekstrak pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="116"/>
@@ -13841,13 +13841,13 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation>Menyelesaikan fail modpack</translation>
+        <translation>Menyelesaikan fail pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
         <source>Downloading modpack</source>
-        <translation>Memuat turun modpack</translation>
+        <translation>Memuat turun pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
@@ -13859,12 +13859,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
         <source>Extracting modpack</source>
-        <translation>Mengekstrak modpack</translation>
+        <translation>Mengekstrak pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
         <source>Failed to extract modpack</source>
-        <translation>Gagal untuk mengekstrak modpack</translation>
+        <translation>Gagal mengekstrak pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"/>
@@ -13991,7 +13991,7 @@ inheritsFrom is missing</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Menyuntingnya juga akan menukar yang asal.
+Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Menyuntingnya juga akan mengubah yang asal.
 Laluan Sebenar: %1</translation>
     </message>
     <message>
@@ -14560,7 +14560,7 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk pemasangan ini:</
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="228"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>Buka folder pusataka tempatan pemasangan.</translation>
+        <translation>Buka folder pustaka tempatan pemasangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="233"/>
@@ -14933,7 +14933,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>Amaran: Dunia ini dipautkan secara keras di tempat lain. Menyuntingnya juga akan menukar yang asal.</translation>
+        <translation>Amaran: Dunia ini dipautkan secara keras di tempat lain. Menyuntingnya juga akan mengubah yang asal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
