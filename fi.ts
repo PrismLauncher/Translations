@@ -6300,12 +6300,12 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation>Instanssien jaottelu</translation>
+        <translation>Pakettien lajittelu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
         <source>Instance Renaming</source>
-        <translation>Instanssien uudelleennimeäminen</translation>
+        <translation>Pakettien uudelleennimeäminen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
@@ -12818,7 +12818,7 @@ HUOM: Vahvista, että olet luonut varmuuskopion tärkeistä pelipakettitiedoista
 
 Old name: %1
 New name: %2</source>
-        <translation>Haluaisitko uudelleen nimetä tämän pelikansion?
+        <translation>Haluaisitko myös muuttaa paketin kansion nimen?
 
 Vanha nimi: %1
 Uusi nimi: %2</translation>
