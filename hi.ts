@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>पुराना FML लिबरारीस सर्वर</translation>
+        <translation>लिगैसी FML लिबरारीस सर्वर</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>आप इसको दूसरे सर्वर पर सेट कर सकते है अगर आपको पुराने FML लिबरारीस डाउनलोड करने में दिक्कत हो (Minecraft 1.5.2 और पहले)।</translation>
+        <translation>आप इसको दूसरे सर्वर पर सेट कर सकते है अगर आपको लिगैसी FML लिबरारीस डाउनलोड करने में दिक्कत हो (Minecraft 1.5.2 और पहले)।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -80,7 +80,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="346"/>
         <source>&amp;CurseForge</source>
-        <translation>&amp;CurseForge</translation>
+        <translation>&amp;कर्सफोर्ज</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="401"/>
@@ -543,7 +543,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="81"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;खाल का प्रबंधन</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="84"/>
