@@ -62,7 +62,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>如果你在下載舊版 FML 程式庫（Minecraft 1.5.2 及更早版本）時遇到問題，可以將此選項設定為其他伺服器。</translation>
+        <translation>如果您在下載舊版 FML 程式庫（Minecraft 1.5.2 及更早版本）時遇到問題，可以將此選項設定為其他伺服器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -4621,17 +4621,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="84"/>
         <source>Skip</source>
-        <translation type="unfinished">略過</translation>
+        <translation>略過</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>無法下載遊戲檔案：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="105"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>正在下載遊戲檔案</translation>
     </message>
 </context>
 <context>
@@ -6265,62 +6265,67 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="193"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」已過期，需要重新進行驗證</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="196"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>啟動器的用戶端識別碼已變更</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="199"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」已不在伺服器上</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>這個帳號未持有 Minecraft。
+您需要先購買遊戲，才能遊玩完整版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>未選擇要啟動的帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+您想要遊玩試用版嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="244"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>請選擇您在試用模式中的玩家名稱</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>您尚未連線至網際網路，將以離線模式啟動
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>請選擇您在離線模式中的玩家名稱</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>未選取啟動帳號</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1。您想要重新驗證這個帳號嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="485"/>
@@ -6502,12 +6507,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>目前僅顯示未標記為與目前 Minecraft 版本相容的模組。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>偵測並顯示模組不相容項（實驗性）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="462"/>
@@ -9170,7 +9175,7 @@ Do not use a different format than the one mentioned as it may break the instanc
 Make sure you also trust the URL.
 </source>
         <translation>這是本機模組包
-你可以使用 %1 格式的檔案或網址來進行更新。
+您可以使用 %1 格式的檔案或網址來進行更新。
 請勿使用與上述指定格式不同的檔案，否則可能會導致實例毀損。
 此外，請確保該網址是可信任的。
 </translation>
@@ -10766,7 +10771,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="416"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation>在安裝模組前，你需要先一個安裝相容的模組載入器。你想要現在安裝嗎？</translation>
+        <translation>在安裝模組前，您需要先一個安裝相容的模組載入器。您想要現在安裝嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="260"/>
@@ -14110,7 +14115,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="146"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>未標記為與這個實例的遊戲版本相容。</translation>
     </message>
 </context>
 <context>
@@ -16066,7 +16071,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/tasks/Task.cpp" line="134"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>已中止</translation>
     </message>
 </context>
 <context>
