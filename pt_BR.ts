@@ -30,7 +30,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>&amp;URL base</translation>
+        <translation>URL base</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Nota: você provavelmente vai querer trocar ou remover a URL base depois de alterar o serviço de texto.</translation>
+        <translation>Nota: você provavelmente irá querer trocar ou remover a URL base depois de alterar o tipo de serviço.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -2564,7 +2564,7 @@ Tem certeza que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Esta instância não pode ser iniciada porque algumas bibliotecas estão faltando ou ainda não foram baixadas. Tente novamente no modo online com uma conexão de internet ativa</translation>
+        <translation>Esta instância não pode ser iniciada porque algumas bibliotecas estão faltando ou ainda não foram baixadas. Por favor tente novamente no modo online com uma conexão à Internet funcionando</translation>
     </message>
 </context>
 <context>
@@ -4657,17 +4657,17 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="84"/>
         <source>Skip</source>
-        <translation type="unfinished">Pular</translation>
+        <translation>Pular</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível baixar os arquivos do jogo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="105"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixando arquivos do jogo</translation>
     </message>
 </context>
 <context>
@@ -6287,62 +6287,67 @@ Você gostaria de jogar o demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="193"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; expirou e precisa ser reautenticado</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="196"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>A identificação do cliente do launcher mudou</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="199"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; já não existe mais nos servidores</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Essa conta não possui Minecraft.
+Você precisa comprar o jogo primeiro para jogar a versão completa.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma conta foi selecionada para o jogo.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Você quer jogar a versão de demonstração?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="244"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha o seu nome de jogador para a versão de demonstração</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Você não está conectado à Internet, iniciando no modo offline
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha o seu nome de jogador para o modo offline</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma conta foi selecionada para o jogo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. Você quer reautenticar está conta?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="485"/>
@@ -6524,12 +6529,12 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neste momento, isso apenas mostra a lista de mods que não são marcados como compatíveis com a versão atual do Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Detecta e exibe incompatibilidades entre mods (experimental)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="462"/>
@@ -11697,18 +11702,18 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/net/NetRequest.cpp" line="276"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Taxa de Solicitação Limitada por %n segundo: Tente após %1</numerusform>
+            <numerusform>Taxa de Solicitação Limitada por %n segundos: Tente após %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/NetRequest.cpp" line="281"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Taxa Limitada: Esperando %n segundo</numerusform>
+            <numerusform>Taxa Limitada: Esperando %n segundos</numerusform>
         </translation>
     </message>
 </context>
@@ -14163,7 +14168,7 @@ Mensagem de erro: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
         <source>No Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum perfil Minecraft</translation>
     </message>
 </context>
 <context>
@@ -14176,7 +14181,7 @@ Mensagem de erro: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="146"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não marcado como compatível com a versão do jogo da instância.</translation>
     </message>
 </context>
 <context>
@@ -16132,7 +16137,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/tasks/Task.cpp" line="134"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelado</translation>
     </message>
 </context>
 <context>
