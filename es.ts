@@ -5381,7 +5381,7 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="162"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="158"/>
         <source>Detecting Java installations...</source>
         <translation>Detectando instalaciones de Java…</translation>
     </message>

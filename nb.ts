@@ -5092,7 +5092,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="162"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="158"/>
         <source>Detecting Java installations...</source>
         <translation>Finner Java-installasjoner …</translation>
     </message>

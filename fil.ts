@@ -4886,7 +4886,7 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="162"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="158"/>
         <source>Detecting Java installations...</source>
         <translation>Hinahanap ang mga Java installations…</translation>
     </message>

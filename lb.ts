@@ -4351,7 +4351,7 @@ W. e. g nach eng kéier Probeieren.</translation>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="162"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="158"/>
         <source>Detecting Java installations...</source>
         <translation type="unfinished"></translation>
     </message>

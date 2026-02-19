@@ -5374,7 +5374,7 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="162"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="158"/>
         <source>Detecting Java installations...</source>
         <translation>Detekování nainstalovaných verzí Javy…</translation>
     </message>

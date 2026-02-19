@@ -5129,7 +5129,7 @@ Vahvista että enimmäismuistivaraus on alempi.</translation>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="162"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="158"/>
         <source>Detecting Java installations...</source>
         <translation>Tunnistetaan Java-asennuksia...</translation>
     </message>
