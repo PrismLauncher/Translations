@@ -4617,7 +4617,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="84"/>
         <source>Skip</source>
-        <translation type="unfinished">Salta</translation>
+        <translation>Salta</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
@@ -4627,7 +4627,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="105"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Scaricamento file di gioco</translation>
     </message>
 </context>
 <context>
@@ -6223,62 +6223,67 @@ Vuoi giocare alla demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="193"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; è scaduto e ha bisogno di essere riautentificato</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="196"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>l&apos;identificazione del client dal launcher è cambiata</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="199"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; non esiste più nei server</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo acccount non ha acquistato Minecraft.
+Devi acquistare il gioco prima di giocare la versione completa.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun account è stato selezionato per l&apos;avvio.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Vuoi giocare la demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="244"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scegli il tuo nome giocatore per la modalità demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Non sei connesso a internet, avviando in modalità offline
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli il tuo username per la modalità offline</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun account è stato selezionato per l&apos;avvio</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. Vuoi riautentificare questo account?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="485"/>
@@ -6460,12 +6465,12 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al momento questo mostra mods che non sono marcate come compatibili con la versione di Minecraft corrente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rileva e mostra incompatibilità tra mod (sperimentale)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="462"/>
@@ -13963,7 +13968,7 @@ Messaggio d&apos;errore: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="146"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non marcato come compatibile con la versione del gioco dell&apos;istanza</translation>
     </message>
 </context>
 <context>
