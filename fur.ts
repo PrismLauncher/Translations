@@ -760,12 +760,12 @@ Sêstu gnûf/gnove achì? Tu puedis selezionâ il boton &quot;Zonte Microsoft&qu
         <translation type="unfinished">Impussibil visualizâ chest regjistri stant che la lungjece dal regjistri e à superât lis %1 riis.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="898"/>
+        <location filename="src/launcher/Application.cpp" line="900"/>
         <source>Settings</source>
         <translation>Impostazions</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1060"/>
+        <location filename="src/launcher/Application.cpp" line="1062"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -792,12 +792,12 @@ pai detais sul ultin tentatîf di inzornament.
 Par gjavâ chest bloc e continuâ selezione &quot;Ignore&quot; chi sot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1077"/>
+        <location filename="src/launcher/Application.cpp" line="1079"/>
         <source>Update In Progress</source>
         <translation>Inzornament in cors</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1101"/>
+        <location filename="src/launcher/Application.cpp" line="1103"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -812,12 +812,12 @@ Controle il regjistri di inzornament dal inviadôr Prism Launcher achì:·
 pai detais sul ultin tentatîf di inzornament.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1109"/>
+        <location filename="src/launcher/Application.cpp" line="1111"/>
         <source>Update Failed</source>
         <translation>Inzornament falît</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1133"/>
+        <location filename="src/launcher/Application.cpp" line="1135"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -838,12 +838,12 @@ Controle i regjistris dal inzornament dal inviadôr Prism Launcher achì:
 pai detais.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1141"/>
+        <location filename="src/launcher/Application.cpp" line="1143"/>
         <source>Update Succeeded</source>
         <translation>Inzornament lât a bon fin</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1173"/>
+        <location filename="src/launcher/Application.cpp" line="1175"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -856,7 +856,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1179"/>
+        <location filename="src/launcher/Application.cpp" line="1181"/>
         <source>Incompatible system configuration</source>
         <translation>Configurazion di sisteme no compatibile</translation>
     </message>
@@ -865,22 +865,22 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
         <translation>Interot</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1929"/>
+        <location filename="src/launcher/Application.cpp" line="1931"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>A son stâts cjatâts dâts vecjos di %1, ma tu âs bielzà dâts par %2. Magari cussì no, ma tu varâs di migrâ di bessôl. Vûstu che ti impensi de migrazion di dâts la prossime volte che tu inviis %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1933"/>
+        <location filename="src/launcher/Application.cpp" line="1935"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Al somee che tu vedis za doprât %1. Desideristu migrâ i tiei dâts te gnove posizion di %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1939"/>
+        <location filename="src/launcher/Application.cpp" line="1941"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Al somee che tu vedis za doprât %1 su %2. Desideristu migrâ i tiei dâts te gnove posizion di %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1985"/>
+        <location filename="src/launcher/Application.cpp" line="1987"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrazion falide! Motîf: %1</translation>
     </message>
@@ -7816,42 +7816,42 @@ Make sure you also trust the URL.
         <translation>&amp;Nissun profiladôr</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SESSION&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1029"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;GJETON DI ACÈS&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID PROFÎL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1068"/>
         <source>broken</source>
         <translation>rot</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1084"/>
         <source>, last played on %1 for %2</source>
         <translation>, ultime zuiade su %1 par %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, total played for %1</source>
         <translation>, zuiât par un totâl di %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
         <source>, has crashed.</source>
         <translation>, al è colassât.</translation>
     </message>
@@ -9716,12 +9716,12 @@ Inzorne %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="62"/>
         <source>Hide article list</source>
         <translation>Plate liste articui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="60"/>
         <source>Show article list</source>
         <translation>Mostre liste articui</translation>
     </message>
@@ -9903,11 +9903,13 @@ Inzorne %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="478"/>
         <source>Reload the contents of the log from the disk</source>
         <translation>Torne cjame dal disc i contignûts dal regjistri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="477"/>
         <source>&amp;Reload</source>
         <translation>&amp;Torne cjame</translation>
     </message>
@@ -9917,8 +9919,9 @@ Inzorne %1!</translation>
         <translation type="unfinished">Cîr</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="484"/>
         <source>Clear the log</source>
-        <translation type="vanished">Nete il regjistri</translation>
+        <translation>Nete il regjistri</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9946,8 +9949,8 @@ Inzorne %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="437"/>
         <source>Error</source>
         <translation>Erôr</translation>
     </message>
@@ -9966,12 +9969,12 @@ Inzorne %1!</translation>
         <translation type="vanished">Impussibil lei il file %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="379"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="381"/>
         <source>Confirm Deletion</source>
         <translation>Conferme eliminazion</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -9982,49 +9985,59 @@ Al è pussibil che al sedi permanent e che al larà pierdût de cartele dai regj
 Eliminâ pardabon?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="405"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
         <source>Confirm Cleanup</source>
         <translation>Conferme netisie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="409"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>Eliminâ pardabon ducj i files di regjistri?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="412"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>Eliminâ pardabon ducj chescj files?
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="396"/>
         <source>Unable to delete %1: %2</source>
         <translation>Impussibil eliminâ %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="307"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Impussibil visualizâ chest regjistri stant che la lungjece dal regjistri e à superât lis %1 riis.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
+        <source>Current logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="329"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation>Il file (%1) al à cjatât un erôr te leture: %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="437"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="439"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Impussibil eliminâ cualchi file!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="442"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Impussibil eliminâ cualchi file:
 %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
+        <source>Clear</source>
+        <translation type="unfinished">Nete</translation>
     </message>
     <message>
         <source>Other logs</source>
@@ -10196,67 +10209,67 @@ Messaç dal erôr: %3</translation>
         <translation>Verifiche presince inzornaments...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="125"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="146"/>
         <source>Update Check Failed</source>
         <translation>Control inzornaments falît</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="126"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>Inviament falît dopo 5 seconts.
 Motîf: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="147"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>L&apos;inzornadôr al à falît di sierâ 60 seconts
 Motîf: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="172"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="308"/>
         <source>No Update Available</source>
         <translation>Nissun inzornament disponibil</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="172"/>
         <source>You are running the latest version.</source>
         <translation>Tu stâs doprant la ultime version.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="183"/>
         <source>Update Check Error</source>
         <translation>Erôr tal controlâ l&apos;inzornament</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="184"/>
         <source>There was an error running the update check.</source>
         <translation>Al è vignût fûr un erôr tal controlâ l&apos;inzornament.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="211"/>
         <source>Unknown Update Error</source>
         <translation>Erôr di inzornament no cognossût</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>L&apos;inzornadôr al è jessût cuntune cundizion no cognossude.
 Codiç di jessude: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>StdOut: %1
 StdErr: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="308"/>
         <source>There are no new updates available.</source>
         <translation>No son disponibii gnûfs inzornaments.</translation>
     </message>

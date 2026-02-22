@@ -760,12 +760,12 @@ Más duine nua thú anseo, is féidir leat an cnaipe &quot;Cuir Microsoft leis&q
         <translation>Ní féidir a thaispeáint an loga seo toisc gur sháraigh fad an loga %1 líne.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="898"/>
+        <location filename="src/launcher/Application.cpp" line="900"/>
         <source>Settings</source>
         <translation>Socruithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1060"/>
+        <location filename="src/launcher/Application.cpp" line="1062"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -792,12 +792,12 @@ le haghaidh sonraí faoin iarracht nuashonraithe dheireanach.
 Chun an glasáil seo a scriosadh agus leanúint ar aghaidh, roghnaigh &quot;Neamhaird a dhéanamh&quot; thíos.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1077"/>
+        <location filename="src/launcher/Application.cpp" line="1079"/>
         <source>Update In Progress</source>
         <translation>Nuashonrú Ar Siúl</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1101"/>
+        <location filename="src/launcher/Application.cpp" line="1103"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -812,12 +812,12 @@ Seiceáil log nuashonraithe Prism Launcher ag:
 le haghaidh sonraí faoin iarracht nuashonraithe dheireanach.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1109"/>
+        <location filename="src/launcher/Application.cpp" line="1111"/>
         <source>Update Failed</source>
         <translation>Theip Ar Nuashonrú</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1133"/>
+        <location filename="src/launcher/Application.cpp" line="1135"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -838,12 +838,12 @@ Seiceáil log nuashonraithe Prism Launcher ag:
 le haghaidh sonraí.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1141"/>
+        <location filename="src/launcher/Application.cpp" line="1143"/>
         <source>Update Succeeded</source>
         <translation>Nuashonrú Rathúil</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1173"/>
+        <location filename="src/launcher/Application.cpp" line="1175"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -856,7 +856,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1179"/>
+        <location filename="src/launcher/Application.cpp" line="1181"/>
         <source>Incompatible system configuration</source>
         <translation>Cumraíocht córais neamh-chomhoiriúnach</translation>
     </message>
@@ -865,22 +865,22 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
         <translation>Tobscortha</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1929"/>
+        <location filename="src/launcher/Application.cpp" line="1931"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Fuarthas seanshonraí ó %1, ach tá sonraí agat cheana féin do %2. Ar an drochuair, beidh ort aistriú tú féin. Ar mhaith leat meabhrúchán a fháil faoin aistriú sonraí atá ar feitheamh an chéad uair eile a thosóidh tú %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1933"/>
+        <location filename="src/launcher/Application.cpp" line="1935"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Is cosúil gur úsáid tú %1 roimhe seo. Ar mhaith leat do chuid sonraí a aistriú go dtí an suíomh nua %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1939"/>
+        <location filename="src/launcher/Application.cpp" line="1941"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Is cosúil gur úsáid tú %1 ar %2 roimhe seo. Ar mhaith leat do chuid sonraí a aistriú go dtí an suíomh nua %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1985"/>
+        <location filename="src/launcher/Application.cpp" line="1987"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Theip ar an imirce! Cúis: %1</translation>
     </message>
@@ -7793,42 +7793,42 @@ Déan cinnte go bhfuil muinín agat as an URL freisin.
         <translation>Ga&amp;n Próifíleoir</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SEISIÚIN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1029"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;CEADCHOMHARTHA ROCHTANA&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID PRÓIFÍLE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1068"/>
         <source>broken</source>
         <translation>briste</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1084"/>
         <source>, last played on %1 for %2</source>
         <translation>, seinnte go deireanach ar %1 le haghaidh %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, total played for %1</source>
         <translation>, iomlán imrithe do %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
         <source>, has crashed.</source>
         <translation>, tá tuairteáil déanta.</translation>
     </message>
@@ -9646,12 +9646,12 @@ Nuashonraigh %1 le do thoil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="62"/>
         <source>Hide article list</source>
         <translation>Folaigh liosta alt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="60"/>
         <source>Show article list</source>
         <translation>Taispeáin liosta alt</translation>
     </message>
@@ -9833,11 +9833,13 @@ Nuashonraigh %1 le do thoil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="478"/>
         <source>Reload the contents of the log from the disk</source>
         <translation>Athlódáil ábhar an loga ón diosca</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="477"/>
         <source>&amp;Reload</source>
         <translation>Athlódáil</translation>
     </message>
@@ -9847,8 +9849,9 @@ Nuashonraigh %1 le do thoil!</translation>
         <translation>Cuardaigh</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="484"/>
         <source>Clear the log</source>
-        <translation type="vanished">Glan an log</translation>
+        <translation>Glan an log</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9876,8 +9879,8 @@ Nuashonraigh %1 le do thoil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="437"/>
         <source>Error</source>
         <translation>Earráid</translation>
     </message>
@@ -9892,12 +9895,12 @@ Nuashonraigh %1 le do thoil!</translation>
         <translation>Tá an comhad (%1) rómhór. B’fhéidir gur mhaith leat é a oscailt in amharcóir atá optamaithe do chomhaid mhóra.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="379"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="381"/>
         <source>Confirm Deletion</source>
         <translation>Dearbhaigh Scrios</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -9908,45 +9911,55 @@ D’fhéadfadh sé seo a bheith buan agus imeoidh sé as an bhfillteán logaí.
 An bhfuil tú cinnte?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="405"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
         <source>Confirm Cleanup</source>
         <translation>Deimhnigh Glanadh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="409"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>An bhfuil tú cinnte gur mian leat na comhaid loga go léir a scriosadh?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="412"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>An bhfuil tú cinnte gur mian leat na comhaid seo go léir a scriosadh?
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
+        <source>Clear</source>
+        <translation type="unfinished">Glan</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="396"/>
         <source>Unable to delete %1: %2</source>
         <translation>Ní féidir %1 a scriosadh: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="307"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Ní féidir an log seo a thaispeáint ó sháraigh fad an loga %1 líne.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
+        <source>Current logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="329"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation>Tharla earráid sa chomhad (%1) agus é á léamh: %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="437"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="439"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Níorbh fhéidir roinnt comhad a scriosadh!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="442"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Níorbh fhéidir roinnt comhad a scriosadh:
@@ -10126,67 +10139,67 @@ Teachtaireacht earráide: %3</translation>
         <translation>Ag seiceáil le haghaidh nuashonruithe...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="125"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="146"/>
         <source>Update Check Failed</source>
         <translation>Theip ar Sheiceáil Nuashonraithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="126"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>Theip ar thosú tar éis 5 soicind
 Cúis: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="147"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>Theip ar an nuashonraitheoir dúnadh tar éis 60 soicind
 Cúis: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="172"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="308"/>
         <source>No Update Available</source>
         <translation>Níl aon Nuashonrú ar Fáil</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="172"/>
         <source>You are running the latest version.</source>
         <translation>Tá an leagan is déanaí á rith agat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="183"/>
         <source>Update Check Error</source>
         <translation>Earráid Seiceála Nuashonraithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="184"/>
         <source>There was an error running the update check.</source>
         <translation>Tharla earráid agus an seiceáil nuashonraithe á rith.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="211"/>
         <source>Unknown Update Error</source>
         <translation>Earráid Nuashonraithe Anaithnid</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>Scoir an nuashonraitheoir faoi riocht anaithnid.
 Cód Scoir: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>StdOut: %1
 StdErr: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="308"/>
         <source>There are no new updates available.</source>
         <translation>Níl aon nuashonruithe nua ar fáil.</translation>
     </message>

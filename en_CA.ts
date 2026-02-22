@@ -927,12 +927,12 @@ Please update both your operating system and %1.</translation>
         <translation>Cannot display this log since the log length surpassed %1 lines.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="898"/>
+        <location filename="src/launcher/Application.cpp" line="900"/>
         <source>Settings</source>
         <translation>Settings</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1060"/>
+        <location filename="src/launcher/Application.cpp" line="1062"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -959,12 +959,12 @@ for details on the last update attempt.
 To delete this lock and proceed select &quot;Ignore&quot; below.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1077"/>
+        <location filename="src/launcher/Application.cpp" line="1079"/>
         <source>Update In Progress</source>
         <translation>Please wait bud, there&apos;s an update in progress</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1101"/>
+        <location filename="src/launcher/Application.cpp" line="1103"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -979,12 +979,12 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1109"/>
+        <location filename="src/launcher/Application.cpp" line="1111"/>
         <source>Update Failed</source>
         <translation>Update Failed</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1133"/>
+        <location filename="src/launcher/Application.cpp" line="1135"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1005,12 +1005,12 @@ Check the Prism Launcher updater log at:
 for details.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1141"/>
+        <location filename="src/launcher/Application.cpp" line="1143"/>
         <source>Update Succeeded</source>
         <translation>Update Succeeded, Bud</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1173"/>
+        <location filename="src/launcher/Application.cpp" line="1175"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1031,7 +1031,7 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1179"/>
+        <location filename="src/launcher/Application.cpp" line="1181"/>
         <source>Incompatible system configuration</source>
         <translation>Incompatible system configuration</translation>
     </message>
@@ -1040,22 +1040,22 @@ Some versions of Minecraft may not launch.
         <translation>Aborted</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1929"/>
+        <location filename="src/launcher/Application.cpp" line="1931"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1933"/>
+        <location filename="src/launcher/Application.cpp" line="1935"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1939"/>
+        <location filename="src/launcher/Application.cpp" line="1941"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1985"/>
+        <location filename="src/launcher/Application.cpp" line="1987"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration failed! Reason: %1</translation>
     </message>
@@ -8556,12 +8556,12 @@ Make sure you also trust the URL.
         <translation>&amp;No Profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1029"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -8570,22 +8570,22 @@ Make sure you also trust the URL.
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1068"/>
         <source>broken</source>
         <translation>broken</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1084"/>
         <source>, last played on %1 for %2</source>
         <translation>, last played on %1 for %2</translation>
     </message>
@@ -8594,12 +8594,12 @@ Make sure you also trust the URL.
         <translation type="vanished">, last played for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, total played for %1</source>
         <translation>, total played for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
         <source>, has crashed.</source>
         <translation>, has crashed.</translation>
     </message>
@@ -10758,12 +10758,12 @@ Please update %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="62"/>
         <source>Hide article list</source>
         <translation>Hide article list</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="60"/>
         <source>Show article list</source>
         <translation>Show article list</translation>
     </message>
@@ -10956,11 +10956,13 @@ Please update %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="478"/>
         <source>Reload the contents of the log from the disk</source>
         <translation>Reload the contents of the log from the disk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="477"/>
         <source>&amp;Reload</source>
         <translation>&amp;Reload</translation>
     </message>
@@ -10970,8 +10972,9 @@ Please update %1!</translation>
         <translation>Search</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="484"/>
         <source>Clear the log</source>
-        <translation type="vanished">Clear the log</translation>
+        <translation>Clear the log</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10999,8 +11002,8 @@ Please update %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="437"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -11019,12 +11022,12 @@ Please update %1!</translation>
         <translation type="vanished">The file (%1) is not readable.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="379"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="381"/>
         <source>Confirm Deletion</source>
         <translation>Confirm Deletion</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -11035,49 +11038,59 @@ This may be permanent and it will be gone from the logs folder.
 Are you sure?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="405"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
         <source>Confirm Cleanup</source>
         <translation>Confirm Cleanup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="409"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>Are you sure you want to delete all log files?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="412"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>Are you sure you want to delete all these files?
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="396"/>
         <source>Unable to delete %1: %2</source>
         <translation>Unable to delete %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="307"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Cannot display this log since the log length surpassed %1 lines.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
+        <source>Current logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="329"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation>The file (%1) encountered an error when reading: %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="437"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="439"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Couldn&apos;t delete some files!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="442"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Couldn&apos;t delete some files:
 %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
+        <source>Clear</source>
+        <translation type="unfinished">Clear</translation>
     </message>
     <message>
         <source>Other logs</source>
@@ -11249,67 +11262,67 @@ Error message: %3</translation>
         <translation>Checking for updates...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="125"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="146"/>
         <source>Update Check Failed</source>
         <translation>Update Check Failed</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="126"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>Failed to start after 5 seconds
 Reason: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="147"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>Updater failed to close 60 seconds
 Reason: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="172"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="308"/>
         <source>No Update Available</source>
         <translation>No Update Available</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="172"/>
         <source>You are running the latest version.</source>
         <translation>You are running the latest version.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="183"/>
         <source>Update Check Error</source>
         <translation>Update Check Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="184"/>
         <source>There was an error running the update check.</source>
         <translation>There was an error running the update check.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="211"/>
         <source>Unknown Update Error</source>
         <translation>Unknown Update Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>The updater exited with an unknown condition.
 Exit Code: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>StdOut: %1
 StdErr: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="308"/>
         <source>There are no new updates available.</source>
         <translation>There are no new updates available.</translation>
     </message>

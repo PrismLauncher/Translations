@@ -940,12 +940,12 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
         <translation>Seda logi ei saa kuvada, kuna logi pikkus on rohkem kui %1 rida.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="898"/>
+        <location filename="src/launcher/Application.cpp" line="900"/>
         <source>Settings</source>
         <translation>Sätted</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1060"/>
+        <location filename="src/launcher/Application.cpp" line="1062"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -961,12 +961,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1077"/>
+        <location filename="src/launcher/Application.cpp" line="1079"/>
         <source>Update In Progress</source>
         <translation>Uuendus käimas</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1101"/>
+        <location filename="src/launcher/Application.cpp" line="1103"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -976,12 +976,12 @@ for details on the last update attempt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1109"/>
+        <location filename="src/launcher/Application.cpp" line="1111"/>
         <source>Update Failed</source>
         <translation>Uuendus ebaõnnestus</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1133"/>
+        <location filename="src/launcher/Application.cpp" line="1135"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1001,12 +1001,12 @@ Detailide nägemiseks vaata Prism Launcheri uuendaja logi:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1141"/>
+        <location filename="src/launcher/Application.cpp" line="1143"/>
         <source>Update Succeeded</source>
         <translation>Uuendus õnnestus</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1173"/>
+        <location filename="src/launcher/Application.cpp" line="1175"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1015,7 +1015,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1179"/>
+        <location filename="src/launcher/Application.cpp" line="1181"/>
         <source>Incompatible system configuration</source>
         <translation>Ühildumatu süsteemiseadistus</translation>
     </message>
@@ -1024,22 +1024,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>Tühistatud</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1929"/>
+        <location filename="src/launcher/Application.cpp" line="1931"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Leiti vanad %1 andmed, kuid sul on %2 jaoks juba uued andmed. Kahjuks pead käsitsi migreerima. Kas soovid, et migreerimist tuletataks järgmisel %2 käivitusel taas meelde?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1933"/>
+        <location filename="src/launcher/Application.cpp" line="1935"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Tundub, et kasutasid varem %1. Kas soovid oma andmed migreerida %2 uude asukohta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1939"/>
+        <location filename="src/launcher/Application.cpp" line="1941"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Tundub, et kasutasid varem %1 platvormil %2. Kas soovid oma andmed migreerida %3 uude asukohta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1985"/>
+        <location filename="src/launcher/Application.cpp" line="1987"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migreerimine ebaõnnestus! Põhjus: %1</translation>
     </message>
@@ -8854,12 +8854,12 @@ Make sure you also trust the URL.
         <translation>&amp;Profiiler puudub</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SEANSI ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1029"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;PÄÄSUTALONG&gt;</translation>
     </message>
@@ -8868,22 +8868,22 @@ Make sure you also trust the URL.
         <translation type="vanished">&lt;KLIENDITALONG&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFIILI ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1068"/>
         <source>broken</source>
         <translation>katki</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1084"/>
         <source>, last played on %1 for %2</source>
         <translation>, viimati mängitud %1 %2</translation>
     </message>
@@ -8896,12 +8896,12 @@ Make sure you also trust the URL.
         <translation type="vanished">, viimati mängitud %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, total played for %1</source>
         <translation>, kokku mängitud %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
         <source>, has crashed.</source>
         <translation>, jooksis kokku.</translation>
     </message>
@@ -11149,12 +11149,12 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="62"/>
         <source>Hide article list</source>
         <translation>Peida artiklite loend</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="60"/>
         <source>Show article list</source>
         <translation>Kuva artiklite loend</translation>
     </message>
@@ -11362,11 +11362,13 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="478"/>
         <source>Reload the contents of the log from the disk</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="477"/>
         <source>&amp;Reload</source>
         <translation>&amp;Laadi uuesti</translation>
     </message>
@@ -11376,8 +11378,9 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <translation type="unfinished">Otsi</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="484"/>
         <source>Clear the log</source>
-        <translation type="vanished">Tühjenda logi</translation>
+        <translation>Tühjenda logi</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11406,14 +11409,19 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="307"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation type="unfinished">Seda logi ei saa kuvada, kuna logi pikkus on rohkem kui %1 rida.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
+        <source>Current logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="437"/>
         <source>Error</source>
         <translation>Viga</translation>
     </message>
@@ -11432,17 +11440,17 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <translation type="vanished">Fail (%1) ei ole loetav.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="329"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="379"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="381"/>
         <source>Confirm Deletion</source>
         <translation>Kinnita kustutamist</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -11453,28 +11461,33 @@ See võib olla püsiv ning see kaob logide kaustast.
 Kas oled kindel?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="405"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
         <source>Confirm Cleanup</source>
         <translation>Kinnita tühjendamist</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="409"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>Kas soovid kindlasti kõik logifailid kustutada?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="412"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>Kas soovid kindlasti kõik need failid kustutada?
 %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
+        <source>Clear</source>
+        <translation type="unfinished">Tühjenda</translation>
+    </message>
+    <message>
         <source>Do you really want to delete %1?</source>
         <translation type="vanished">Kas soovid tõesti kustutada %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="396"/>
         <source>Unable to delete %1: %2</source>
         <translation>%1 ei saa kustutada: %2</translation>
     </message>
@@ -11493,12 +11506,12 @@ Kas oled kindel?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="437"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="439"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Teatud faile ei saadud kustutada!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="442"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Teatud faile ei saadud kustutada:
@@ -11681,67 +11694,67 @@ Veateade: %3</translation>
         <translation>Uuenduste kontrollimine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="125"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="146"/>
         <source>Update Check Failed</source>
         <translation>Uuenduste kontroll ebaõnnestus</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="126"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>Käivitamine ebaõnnestus peale 5 sekundit
 Põhjus: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="147"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>Uuendaja ei sulgunud 60 sekundi jooksul
 Põhjus: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="172"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="308"/>
         <source>No Update Available</source>
         <translation>Uuendust pole saadaval</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="172"/>
         <source>You are running the latest version.</source>
         <translation>Käitad uusimat versiooni.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="183"/>
         <source>Update Check Error</source>
         <translation>Uuenduste kontrolli viga</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="184"/>
         <source>There was an error running the update check.</source>
         <translation>Uuenduste kontrolli käitamisel esines viga.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="211"/>
         <source>Unknown Update Error</source>
         <translation>Tundmatu uuenduste viga</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>Uuendaja väljus tundmatu olekuga.
 Väljumiskood: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>StdOut: %1
 StdErr: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="308"/>
         <source>There are no new updates available.</source>
         <translation>Uusi uuendusi pole saadaval.</translation>
     </message>

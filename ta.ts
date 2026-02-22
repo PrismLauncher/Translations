@@ -765,12 +765,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <translation>பதிவு நீளம் %1 வரிகளைத் தாண்டியதால் இந்த பதிவைக் காட்ட முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="898"/>
+        <location filename="src/launcher/Application.cpp" line="900"/>
         <source>Settings</source>
         <translation>அமைப்புகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1060"/>
+        <location filename="src/launcher/Application.cpp" line="1062"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -797,12 +797,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
  இந்த பூட்டை நீக்கி, கீழே உள்ள &quot;புறக்கணிக்கவும்&quot; என்பதைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1077"/>
+        <location filename="src/launcher/Application.cpp" line="1079"/>
         <source>Update In Progress</source>
         <translation>புதுப்பிப்பு செயலில் உள்ளது</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1101"/>
+        <location filename="src/launcher/Application.cpp" line="1103"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -817,12 +817,12 @@ for details on the last update attempt.</source>
  கடைசி புதுப்பிப்பு முயற்சி குறித்த விவரங்களுக்கு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1109"/>
+        <location filename="src/launcher/Application.cpp" line="1111"/>
         <source>Update Failed</source>
         <translation>புதுப்பிப்பு தோல்வியடைந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1133"/>
+        <location filename="src/launcher/Application.cpp" line="1135"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -843,12 +843,12 @@ for details.</oldsource>
  விவரங்களுக்கு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1141"/>
+        <location filename="src/launcher/Application.cpp" line="1143"/>
         <source>Update Succeeded</source>
         <translation>புதுப்பிப்பு செய் பெற்றது</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1173"/>
+        <location filename="src/launcher/Application.cpp" line="1175"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -861,7 +861,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1179"/>
+        <location filename="src/launcher/Application.cpp" line="1181"/>
         <source>Incompatible system configuration</source>
         <translation>பொருந்தாத கணினி உள்ளமைவு</translation>
     </message>
@@ -870,22 +870,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1929"/>
+        <location filename="src/launcher/Application.cpp" line="1931"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 இலிருந்து பழைய தரவு கண்டறியப்பட்டது, ஆனால் உங்களிடம் ஏற்கனவே %2 க்கு தரவு உள்ளது. துரதிர்ச்டவசமாக நீங்கள் உங்களை குடிபெயர வேண்டும். அடுத்த முறை நீங்கள் %2 ஐத் தொடங்கும்போது நிலுவையில் உள்ள தரவு இடம்பெயர்வு நினைவூட்டப்பட விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1933"/>
+        <location filename="src/launcher/Application.cpp" line="1935"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>நீங்கள் முன்பு %1 ஐப் பயன்படுத்தியது போல் தெரிகிறது. உங்கள் தரவை %2 இன் புதிய இடத்திற்கு மாற்ற விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1939"/>
+        <location filename="src/launcher/Application.cpp" line="1941"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>இதற்கு முன்பு %2 இல் %1 ஐப் பயன்படுத்தியது போல் தெரிகிறது. உங்கள் தரவை %3 இன் புதிய இடத்திற்கு மாற்ற விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1985"/>
+        <location filename="src/launcher/Application.cpp" line="1987"/>
         <source>Migration failed! Reason: %1</source>
         <translation>இடம்பெயர்வு தோல்வியடைந்தது! காரணம்: %1</translation>
     </message>
@@ -7858,42 +7858,42 @@ Make sure you also trust the URL.
         <translation>&amp; விவரக்குறிப்பு இல்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;அமர்வு ஐடி&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1029"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;அணுகல் டோக்கன்&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;சுயவிவர ஐடி&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1068"/>
         <source>broken</source>
         <translation>உடைந்த</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1084"/>
         <source>, last played on %1 for %2</source>
         <translation>, கடைசியாக %2 க்கு %1 இல் விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, total played for %1</source>
         <translation>, மொத்தம் %1 க்கு விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
         <source>, has crashed.</source>
         <translation>, செயலிழந்தது.</translation>
     </message>
@@ -9747,12 +9747,12 @@ Please update %1!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="62"/>
         <source>Hide article list</source>
         <translation>கட்டுரை பட்டியலை மறைக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="60"/>
         <source>Show article list</source>
         <translation>கட்டுரை பட்டியலைக் காட்டு</translation>
     </message>
@@ -9934,11 +9934,13 @@ Please update %1!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="478"/>
         <source>Reload the contents of the log from the disk</source>
         <translation>வட்டில் இருந்து பதிவின் உள்ளடக்கங்களை மீண்டும் ஏற்றவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="477"/>
         <source>&amp;Reload</source>
         <translation>&amp; மீண்டும் ஏற்றவும்</translation>
     </message>
@@ -9948,8 +9950,9 @@ Please update %1!</source>
         <translation type="unfinished">தேடல்</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="484"/>
         <source>Clear the log</source>
-        <translation type="vanished">பதிவை அழிக்கவும்</translation>
+        <translation>பதிவை அழிக்கவும்</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9977,8 +9980,8 @@ Please update %1!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="437"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
@@ -9997,12 +10000,12 @@ Please update %1!</source>
         <translation type="vanished">கோப்பு (%1) படிக்க முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="379"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="381"/>
         <source>Confirm Deletion</source>
         <translation>நீக்குதலை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10013,49 +10016,59 @@ Are you sure?</source>
  நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="405"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
         <source>Confirm Cleanup</source>
         <translation>தூய்மைப்படுத்தலை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="409"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>எல்லா பதிவு கோப்புகளையும் நீக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="412"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>இந்த கோப்புகள் அனைத்தையும் நீக்க விரும்புகிறீர்களா?
  %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="396"/>
         <source>Unable to delete %1: %2</source>
         <translation>%1: %2 ஐ நீக்க முடியவில்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="307"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>பதிவு நீளம் %1 வரிகளைத் தாண்டியதால் இந்த பதிவைக் காட்ட முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
+        <source>Current logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="329"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation>கோப்பு ( %1) படிக்கும்போது பிழையை எதிர்கொண்டது: %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="437"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="439"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>சில கோப்புகளை நீக்க முடியவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="442"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>சில கோப்புகளை நீக்க முடியவில்லை:
  %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
+        <source>Clear</source>
+        <translation type="unfinished">தெளிவான</translation>
     </message>
     <message>
         <source>Other logs</source>
@@ -10227,67 +10240,67 @@ Error message: %3</source>
         <translation>புதுப்பிப்புகளைச் சரிபார்க்கிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="125"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="146"/>
         <source>Update Check Failed</source>
         <translation>புதுப்பிப்பு காசோலை தோல்வியடைந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="126"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>5 விநாடிகளுக்குப் பிறகு தொடங்குவதில் தோல்வி
  காரணம்: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="147"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>புதுப்பிப்பு 60 வினாடிகளை மூடத் தவறிவிட்டது
  காரணம்: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="172"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="308"/>
         <source>No Update Available</source>
         <translation>புதுப்பிப்பு எதுவும் கிடைக்கவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="172"/>
         <source>You are running the latest version.</source>
         <translation>நீங்கள் அண்மைக் கால பதிப்பை இயக்குகிறீர்கள்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="183"/>
         <source>Update Check Error</source>
         <translation>காசோலை பிழையைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="184"/>
         <source>There was an error running the update check.</source>
         <translation>புதுப்பிப்பு காசோலையை இயக்கும் பிழை இருந்தது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="211"/>
         <source>Unknown Update Error</source>
         <translation>தெரியாத புதுப்பிப்பு பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>புதுப்பிப்பு அறியப்படாத நிபந்தனையுடன் வெளியேறியது.
  வெளியேறு குறியீடு: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>Stdout: %1
  Stderr: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="308"/>
         <source>There are no new updates available.</source>
         <translation>புதிய புதுப்பிப்புகள் எதுவும் கிடைக்கவில்லை.</translation>
     </message>
