@@ -4665,17 +4665,17 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="84"/>
         <source>Skip</source>
-        <translation type="unfinished">Überspringen</translation>
+        <translation>Überspringen</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Spieldateien konnten nicht heruntergeladen werden: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="105"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Spieldateien werden heruntergeldaden</translation>
     </message>
 </context>
 <context>
@@ -6265,14 +6265,14 @@ Möchtest du die Demo starten?</translation>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>Der Start von Minecraft selbst verzögert sich, bis Du eine Taste drückst. Jetzt ist es der richtige Moment, den Profiler einzurichten, weil der Profiler-Server nun läuft.
+        <translation>Der Spielstart ist verzögert, bis Sie den Button drücken. Dies ist der richtige Zeitpunkt, um den Profiler einzurichten, da der Profiler-Server jetzt läuft.
 
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="436"/>
         <source>Waiting.</source>
-        <translation>Warte.</translation>
+        <translation>Warten.</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -6281,7 +6281,7 @@ Möchtest du die Demo starten?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="444"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation>Konnte den Profiler nicht starten: %1</translation>
+        <translation>Der Profiler konnte nicht gestartet werden: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="445"/>
@@ -6292,28 +6292,29 @@ Möchtest du die Demo starten?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="174"/>
         <location filename="src/launcher/LaunchController.cpp" line="472"/>
         <source>Abort</source>
-        <translation>Abbrechen</translation>
+        <translation>Abgebrochen</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="193"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; ist abgelaufen und muss erneut authentifiziert werden</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="196"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Client-Identifikation des Launchers hat sich geändert</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="199"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; existiert nicht mehr auf den Servern</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieser Account besitzt kein Minecraft.
+Du must erst das Spiel kaufen um die Vollversion zu spielen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="220"/>
@@ -6325,7 +6326,9 @@ You need to purchase the game first to play the full version.</source>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Willst du die Demo spielen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="244"/>
@@ -6347,12 +6350,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Konto für den Start ausgewählt</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. Möchten Sie dieses Konto erneut authentifizieren?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="485"/>
