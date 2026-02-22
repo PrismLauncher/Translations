@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy FML-biblioteke Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy kan dit na ’n ander server stel as jy probleme ondervind met die aflaai van legacy FML-biblioteke (Minecraft 1.5.2 en vroeër).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished">Let wel: jy hoef dikwels nie die te stel as aanmelding via Microsoft-verifikasie reeds werk nie.</translation>
+        <translation>Let wel: Jy hoef dit waarskynlik nie te stel as aanmelding via Microsoft-verifikasie reeds werk nie.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -124,7 +124,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Let wel: jy hoef slegs die te stel om toegang tot private data te verkry.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Let wel: Jy hoef dit slegs te stel om toegang tot privaat data te verkry.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
