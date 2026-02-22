@@ -1587,7 +1587,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="80"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kraunami komponentai</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="215"/>
