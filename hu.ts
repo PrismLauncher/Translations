@@ -11948,7 +11948,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>Current logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Jelenlegi napló</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -12012,7 +12012,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
         <source>Clear</source>
-        <translation type="unfinished">Tisztítás</translation>
+        <translation>Tisztítás</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
