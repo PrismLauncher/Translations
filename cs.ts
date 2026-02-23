@@ -8831,17 +8831,17 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1048"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatný odkaz k importu: chybějící parametr „url“.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1063"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatný odkaz k importu: adresa musí být http(s).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Nainstalovat modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
@@ -8850,7 +8850,11 @@ Jste si jisti?</translation>
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete stáhnout a importovat modpack z:
+%1
+
+Adresa:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
