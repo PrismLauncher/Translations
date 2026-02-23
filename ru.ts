@@ -4661,7 +4661,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="84"/>
         <source>Skip</source>
-        <translation type="unfinished">Пропустить</translation>
+        <translation>Пропустить</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
@@ -6310,57 +6310,62 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="196"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификация клиента лаунчера изменилась</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="199"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; больше не существует на серверах</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта учётная запись не владеет Minecraft.
+Вам необходимо сначала приобрести игру, чтобы играть в полную версию.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не выбрана учётная запись для запуска.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Вы хотите поиграть в демо-версию?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="244"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите имя игрока для демо-режима</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Вы не подключены к Интернету, запуск в офлайн-режиме.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите имя игрока для офлайн-режима</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Не выбрана учётная запись для запуска</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. Выполнить повторную аутентификацию этой учётной записи?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="485"/>
@@ -6542,12 +6547,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>На данный момент здесь показаны лишь те моды, которые не отмечены как совместимые с текущей версией Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Обнаруживать и показывать несовместимость модов (экспериментально)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="462"/>
@@ -8921,17 +8926,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1048"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимая ссылка для импорта: отсутствует параметр &apos;url&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1063"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимая ссылка для импорта: URL-адрес должен быть http(s).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить сборку модов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
@@ -8940,7 +8945,11 @@ Are you sure?</source>
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите скачать и импортировать сборку модов из:
+%1
+
+URL:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
@@ -10575,7 +10584,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>Disable Required</source>
-        <translation>Требуется Отключение</translation>
+        <translation>Отключить необходимые</translation>
     </message>
     <message>
         <source>Miecraft Versions</source>
@@ -10929,8 +10938,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation>Моды которые вы пытаетесь удалить требуются %1 mods
-Вы уверены что хотите отключить их?</translation>
+        <translation>Моды которые вы пытаетесь удалить необходимы для %1 модов.
+Вы хотите отключить их?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="263"/>
@@ -11787,19 +11796,19 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>Лимит Запроса На %n секунд: Повторите Через %1</numerusform>
-            <numerusform>Лимит Запросов На %n секунд: Повторите Через %1</numerusform>
-            <numerusform>Лимит Запросов На %n секунд: Повторите Через %1</numerusform>
+            <numerusform>Ограничение скорости запросов на %n секунду: Повторная попытка через %1</numerusform>
+            <numerusform>Ограничение скорости запросов на %n секунды: Повторная попытка через %1</numerusform>
+            <numerusform>Ограничение скорости запросов на %n секунд: Повторная попытка через %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/NetRequest.cpp" line="281"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ограничение скорости: Ожидание %n секунда</numerusform>
+            <numerusform>Ограничение скорости: Ожидание %n секунды</numerusform>
+            <numerusform>Ограничение скорости: Ожидание %n секунд</numerusform>
         </translation>
     </message>
 </context>
@@ -12186,7 +12195,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>Current logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущие журналы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -12250,7 +12259,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
         <source>Clear</source>
-        <translation type="unfinished">Очистить</translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -14274,7 +14283,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
         <source>No Minecraft profile</source>
-        <translation>Minecraft Профиль отсутствует</translation>
+        <translation>Отсутствует профиль Minecraft</translation>
     </message>
 </context>
 <context>
@@ -14287,7 +14296,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="146"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не помечен как совместимый с версией игры данного экземпляра.</translation>
     </message>
 </context>
 <context>
@@ -16247,7 +16256,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/tasks/Task.cpp" line="134"/>
         <source>Aborted</source>
-        <translation type="unfinished">Прервано</translation>
+        <translation>Прервано</translation>
     </message>
 </context>
 <context>
