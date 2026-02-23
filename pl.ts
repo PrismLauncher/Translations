@@ -4657,17 +4657,17 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="84"/>
         <source>Skip</source>
-        <translation type="unfinished">Pomiń</translation>
+        <translation>Pomiń</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można pobrać plików gry: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="105"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie plików gry</translation>
     </message>
 </context>
 <context>
@@ -4676,7 +4676,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/InstanceImportTask.cpp" line="85"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Pobieranie paczki modyfikacji:
+        <translation>Pobieranie paczki modów:
 %1</translation>
     </message>
     <message>
@@ -4692,18 +4692,18 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Extracting modpack</source>
-        <translation>Rozpakowywanie paczki modyfikacji</translation>
+        <translation>Rozpakowywanie paczki modów</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="167"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Nie można rozpakować dostarczonego pliku zip paczki modyfikacji.</translation>
+        <translation>Nie można rozpakować dostarczonego pliku zip paczki modów.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="171"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>Archiwum nie zawiera obsługiwanego typu paczki modyfikacji.</translation>
+        <translation>Archiwum nie zawiera obsługiwanego typu paczki modów.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -5195,7 +5195,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Kliknij &quot;Dodaj instalację&quot; aby zacząć.</translation>
+        <translation>Kliknij &quot;Dodaj instancję&quot; aby zacząć.</translation>
     </message>
 </context>
 <context>
