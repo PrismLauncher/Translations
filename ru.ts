@@ -4666,12 +4666,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось скачать файлы игры:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="105"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачивание файлов игры</translation>
     </message>
 </context>
 <context>
@@ -6305,7 +6305,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="193"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>Срок действия &apos;%1&apos; истек, необходимо повторно пройти аутентификацию</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="196"/>
