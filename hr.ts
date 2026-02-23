@@ -822,7 +822,7 @@ Molim te ažuriraj i svoj operacijski sustav i %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation>Ponovno učitaj sve</translation>
+        <translation>Ponovo učitaj sve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
@@ -2249,7 +2249,7 @@ Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će pr
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation>Preuzmi podatkovne pakete od internetskih mod platformi.</translation>
+        <translation>Preuzmi podatkovne pakete od online platformi modova</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
@@ -3650,7 +3650,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished">Opcije za filtriranje</translation>
+        <translation>Opcije filtra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -8698,7 +8698,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Opcije za filtriranje</translation>
+        <translation>Opcije filtra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -8812,7 +8812,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
         <source>uid</source>
-        <translation type="unfinished"></translation>
+        <translation>uid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
@@ -11543,7 +11543,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Opcije za filtriranje</translation>
+        <translation>Opcije filtra</translation>
     </message>
 </context>
 <context>
