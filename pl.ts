@@ -6301,62 +6301,67 @@ Czy chcesz zagrać w demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="193"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; wygasł i musi być reautoryzowany</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="196"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Identyfikator klienta launchera uległ zmianie</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="199"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; nie istnieje już na serwerach</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>To konto nie posiada legalnej kopii Minecrafta.
+Musisz kupić grę, by zagrać w pełną wersję.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie wybrano konta do uruchomienia gry.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Czy chcesz zagrać w wersję demonstracyjną?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="244"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz nazwę swojej postaci w wersji demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz połączenia z internetem, uruchamianie gry w trybie offline.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz nazwę użytkownika w trybie offline</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie wybrano konta do uruchomienia gry.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. Czy chcesz ponownie uwierzytelnić to konto?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="485"/>
@@ -6538,12 +6543,12 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokazywane są jedynie mody, które nie są oznaczone jako niekompatybilne z obecną wersją Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykryj i pokaż niekompatybilne mody (eksperymentalne)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="462"/>
@@ -8913,17 +8918,17 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1048"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niepoprawny link importu: brakuje parametru &quot;url&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1063"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Niepoprawny link importu: URL musi być http(s).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Zainstaluj paczkę modyfikacji.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
@@ -8932,7 +8937,11 @@ Czy chcesz kontynuować?</translation>
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz pobrać i zaimportować paczkę modyfikacji z:
+%1
+
+URL:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
@@ -12150,7 +12159,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>Current logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Obecne logi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
