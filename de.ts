@@ -6347,7 +6347,7 @@ Willst du die Demo spielen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished">Wähle deinen Offlinemodus-Spielernamen</translation>
+        <translation>Wähle deinen Offlinemodus-Spielernamen aus</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
@@ -6539,12 +6539,12 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished">Derzeitig werden nur Mods angezeigt, welche nicht als kompatibel mit der derzeitigen Minecraft Version markiert sind.</translation>
+        <translation>Derzeit werden hier nur Mods angezeigt, welche nicht als kompatibel mit der aktuellen Minecraft-Version gekennzeichnet sind.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished">Erkenne und zeige Mod Inkompatibilitäten (Experimental)</translation>
+        <translation>Mod-Inkompatibilitäten erkennen und anzeigen (experimentell)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="462"/>
@@ -8899,12 +8899,12 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1048"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished">Ungültig importierter Link: &apos;url&apos; Parameter fehlt.</translation>
+        <translation>Ungültiger importierter Link: Parameter ‚url‘ fehlt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1063"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished">Ungültig importierter Link: URL muss http(s) sein.</translation>
+        <translation>Ungültig importierter Link: URL muss http(s) sein.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
@@ -8918,8 +8918,7 @@ Bist du dir sicher?</translation>
 
 URL:
 %2</source>
-        <translation type="unfinished">Willst du einen Modpack herunterladen und importieren von:
-
+        <translation>Willst du einen Modpack herunterladen und importieren von:
 %1
 
 
@@ -12145,7 +12144,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>Current logs</source>
-        <translation type="unfinished">Derzeitige Aufzeichnungen</translation>
+        <translation>Aktuelle Protokolle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -14243,7 +14242,7 @@ Fehlermeldung: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="146"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
-        <translation type="unfinished">Nicht markiert als Kompatibel mit der Spielversion der Instanz</translation>
+        <translation>Nicht als kompatibel mit der Spielversion der Instanz gekennzeichnet.</translation>
     </message>
 </context>
 <context>
