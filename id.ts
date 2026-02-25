@@ -49,7 +49,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished">Server Library FML Versi Lama</translation>
+        <translation>Server Library FML Versi Lama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -653,12 +653,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished">&amp;Naik</translation>
+        <translation>Gerak Naik (&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished">&amp;Turun</translation>
+        <translation>Gerak T&amp;urun</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -1385,7 +1385,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation>TIdak ada versi Java yang didukung ditemukan. Menggunakan bawaan.</translation>
+        <translation>Tidak ada versi Java yang didukung ditemukan. Menggunakan bawaan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
@@ -1505,7 +1505,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Konfigurasi folder mod global dan folder unduhan default kamu secara otomatis diperiksa untuk mod yang diunduh dan mereka akan disalin ke instance jika ditemukan.&lt;/p&gt;&lt;p&gt;Kamu dapat menyeret dan menjatuhkan mod yang diunduh ke dialog ini atau menambahkan folder untuk melihat jika kamu tidak mengunduh mod ke lokasi default.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; Klik &apos;Buka yang Hilang&apos; untuk membuka semua link download di browser.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Konfigurasi folder mod global dan folder unduhan default kamu secara otomatis diperiksa untuk mod yang diunduh dan mereka akan disalin ke instance jika ditemukan.&lt;/p&gt;&lt;p&gt;Kamu dapat menyeret dan menjatuhkan mod yang diunduh ke dialog ini atau menambahkan folder untuk melihat jika kamu tidak mengunduh mod ke lokasi default.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Klik &apos;Buka yang Hilang&apos; untuk membuka semua link download di browser.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -2532,7 +2532,7 @@ Apakah kamu yakin?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Instan ini tidak dapat dijalankan karena beberapa library hilang atau belum diunduh. Silakan coba lagi dalam mode online dengan koneksi internet yang berfungsi.</translation>
+        <translation>Instansi ini tidak dapat dijalankan karena beberapa pustaka hilang atau belum diunduh. Silakan coba lagi dalam mode online dengan koneksi internet yang berfungsi</translation>
     </message>
 </context>
 <context>
@@ -3448,24 +3448,24 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished">Mendapatkan manifest...</translation>
+        <translation>Mendapatkan manifest...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Gagal menemukan versi pak %1</translation>
+        <translation>Gagal menemukan versi pak %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Tidak dapat memahami manifest paket:
+        <translation>Tidak dapat memahami manifest paket:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished">Memproses mods...</translation>
+        <translation>Mencarikan mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
@@ -3475,17 +3475,17 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
         <source>Blocked files found</source>
-        <translation type="unfinished">Berkas yang diblokir ditemukan</translation>
+        <translation>Berkas yang diblokir ditemukan</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Berkas-berkas berikut tidak tersedia untuk diunduh peluncur pihak ketiga.&lt;br/&gt;Anda harus mengunduh mereka secara manual dan menambahkan ke dalam instansi.</translation>
+        <translation>Berkas-berkas berikut tidak tersedia untuk diunduh peluncur pihak ketiga.&lt;br/&gt;Anda harus mengunduh mereka dan menambahkan ke dalam instansi secara manual.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished">Membuat instance...</translation>
+        <translation>Membuat instansi...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
@@ -3505,7 +3505,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Menyalin Mod-mod diblokir (%1 dari %2 selesai)</translation>
+        <translation>Menyalin Mod-mod Terblokir (%1 dari %2 selesai)</translation>
     </message>
 </context>
 <context>
@@ -3648,7 +3648,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
         <source>Unknown</source>
-        <translation>Tidak DIketahui</translation>
+        <translation>Tidak Diketahui</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -3875,7 +3875,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation>mencari FIle...</translation>
+        <translation>Mencari berkas...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="72"/>
@@ -3906,7 +3906,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="319"/>
         <source>Adding files...</source>
-        <translation>menambahkan FIle..</translation>
+        <translation>Menambahkan berkas...</translation>
     </message>
 </context>
 <context>
@@ -4033,19 +4033,19 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Urutkan berdasarkan dimainkan</translation>
+        <translation>Urutkan berdasarkan Hitung Main</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Urutkan berdasarkan pemasangan</translation>
+        <translation>Urutkan berdasarkan Instal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Urutkan berdasarkan nama</translation>
+        <translation>Urutkan berdasarkan Nama</translation>
     </message>
 </context>
 <context>
@@ -4059,7 +4059,7 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cari dan Filter ...</translation>
+        <translation>Cari dan saring...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
@@ -4525,7 +4525,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="84"/>
         <source>Skip</source>
-        <translation type="unfinished">Lewati</translation>
+        <translation>Lewati</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
@@ -5490,7 +5490,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
+        <translation>Jumlah maksimum memori yang dapat digunakan oleh Minecraft.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -5605,7 +5605,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
+        <translation>Jumlah memori yang digunakan untuk memulai Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="295"/>
@@ -5635,7 +5635,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
+        <translation>Jumlah memori yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -5675,7 +5675,7 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
+        <translation>Alokasi maksimum memori Anda melebihi kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
@@ -5782,27 +5782,27 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
+        <translation>Jumlah maksimum memori yang dapat digunakan oleh Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>Minimum memory allocation:</source>
-        <translation>Alokasi memori (RAM) minimum:</translation>
+        <translation>Alokasi memori minimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Maximum memory allocation:</source>
-        <translation>Alokasi memori (RAM) maksimum:</translation>
+        <translation>Alokasi memori maksimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
+        <translation>Jumlah memori yang digunakan untuk memulai Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
+        <translation>Jumlah memori yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
@@ -5827,17 +5827,17 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="514"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
+        <translation>Alokasi maksimum memori Anda melebihi kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="517"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
+        <translation>Alokasi maksimal memori Anda mendekati kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="520"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
+        <translation>Alokasi memori maksimum Anda lebih kecil dari nilai minimum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="526"/>
@@ -6104,7 +6104,7 @@ Apakah Anda ingin memainkan demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="196"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished">Identifikasi launcher telah berubah.</translation>
+        <translation>Identifikasi klien milik launcher telah berubah</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="199"/>
@@ -6121,16 +6121,16 @@ Anda perlu membeli game tersebut terlebih dahulu untuk memainkan versi lengkapny
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished">Tidak ada akun yang dipilih untuk diluncurkan.</translation>
+        <translation>Tidak ada akun yang dipilih untuk diluncurkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished">
+        <translation>
 
-Apakah Anda ingin memainkan demonya?</translation>
+Apakah Anda ingin memainkan demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="244"/>
@@ -6142,19 +6142,19 @@ Apakah Anda ingin memainkan demonya?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished">Anda tidak terhubung ke Internet, aplikasi akan diluncurkan dalam mode offline.
+        <translation>Anda tidak terhubung ke Internet, aplikasi akan diluncurkan dalam mode luring.
 
 </translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished">Pilih nama pemain mode offline Anda</translation>
+        <translation>Pilih nama pemain mode luring Anda</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished">Tidak ada akun yang dipilih untuk diluncurkan</translation>
+        <translation>Tidak ada akun yang dipilih untuk diluncurkan</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="335"/>
@@ -6218,7 +6218,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished">Sudah mendapatkan token akses Minecraft</translation>
+        <translation>Token akses Minecraft diterima</translation>
     </message>
 </context>
 <context>
@@ -6584,7 +6584,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished">Saat ini, ini hanya menampilkan mods yang tidak ditandai sebagai kompatibel dengan versi Minecraft saat ini.</translation>
+        <translation>Saat ini, fitur hanya menampilkan mod-mod yang tidak ditandai sebagai kompatibel dengan versi Minecraft saat ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
@@ -6814,12 +6814,12 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Memeriksa perpustakaan FML...</translation>
+        <translation>Memeriksa perpustakaan FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Mengunduh perpustakaan FML...</translation>
+        <translation>Mengunduh perpustakaan FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6828,17 +6828,17 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Menyalin perpustakaan FML kedalam instansi...</translation>
+        <translation>Menyalin perpustakaan FML kedalam instansi...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Gagal membuat folder perpustakaan FML didalam instansi.</translation>
+        <translation>Gagal membuat folder perpustakaan FML di dalam instansi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Gagal menyalin perpustakaan FML/Forge: %1.</translation>
+        <translation>Gagal menyalin perpustakaan FML/Forge: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6847,7 +6847,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Gagal untuk mengunduh berkas berikut:
+        <translation>Gagal untuk mengunduh berkas-berkas berikut:
 %1
 
 Alasan:%2
@@ -7423,7 +7423,7 @@ Alasan:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="277"/>
         <source>Got MSA token</source>
-        <translation type="unfinished">Mendapatkan token MSA</translation>
+        <translation>Token MSA diterima</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7514,7 +7514,7 @@ Alasan:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="148"/>
         <source>Got MSA token</source>
-        <translation type="unfinished">Mendapatkan token MSA</translation>
+        <translation>Token MSA diterima</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
@@ -8502,17 +8502,17 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1048"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tautan impor tidak valid: parameter &apos;url&apos; kosong.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1063"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Tautan impor tidak valid: URL harus http(s).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal paket mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
@@ -8521,7 +8521,11 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Apakah Anda ingin mengunduh dan mengimpor paket mod dari:
+%1
+
+URL:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
@@ -9212,7 +9216,7 @@ Pastikan Anda juga mempercayai URL tersebut.
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished">Mendapat profil Minecraft</translation>
+        <translation>Profil Minecraft diterima</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
@@ -9271,7 +9275,7 @@ Pastikan Anda juga mempercayai URL tersebut.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished">Permainan dasar hanya mendukung resolusi. Untuk mensimulasikan perilaku maksimum, implementasi saat ini mendekati ukuran tampilan maksimum.</translation>
+        <translation>Permainan dasar hanya mendukung resolusi. Untuk mensimulasikan perilaku maksimum, implementasi saat ini mengirakan ukuran tampilan maksimum.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
@@ -9516,27 +9520,27 @@ Kemungkinan besar kamu akan perlu mengubah path - silakan merujuk ke situs mod.<
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
         <source>Babric</source>
-        <translation type="unfinished">Babric</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">BTA (Babric)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Fabric Lama</translation>
+        <translation>Fabric Legacy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
         <source>Rift</source>
-        <translation type="unfinished">Rift</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
@@ -9940,17 +9944,17 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="213"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation type="unfinished">Untuk setiap mod, jumlah mods lain yang bergantung padanya.</translation>
+        <translation>Untuk setiap mod, jumlah mod-mod lain yang bergantung padanya.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation type="unfinished">Untuk setiap mod, jumlah mods lain yang bergantung padanya.</translation>
+        <translation>Untuk setiap mod, jumlah mod-mod lain yang bergantung padanya.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="430"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Konfirmasi toggle</translation>
+        <translation>Konfirmasi toggle</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="431"/>
@@ -9963,7 +9967,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="432"/>
         <source>%n mod(s) will be enabled
 </source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n mod akan diaktifkan
 </numerusform>
         </translation>
@@ -9972,7 +9976,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="433"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n mod akan dinonaktifkan
 </numerusform>
         </translation>
@@ -9981,30 +9985,30 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="434"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation type="unfinished">Apakah Anda ingin menerapkan perubahan terkait ini secara otomatis?
-Mengabaikannya dapat menyebabkan permainan tidak berfungsi dengan baik.</translation>
+        <translation>Apakah Anda ingin menerapkan perubahan terkait ini secara otomatis?
+Mengabaikan dapat menyebabkan permainan menjadi bermasalah.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="435"/>
         <source>Only Toggle Selected</source>
-        <translation type="unfinished">Hanya Aktifkan Pilihan yang Terpilih</translation>
+        <translation>Aktifkan Hanya yang Terpilih</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="436"/>
         <source>Toggle Required Mods</source>
-        <translation type="unfinished">Aktifkan/Nonaktifkan Mods yang Diperlukan</translation>
+        <translation>Aktifkan/Nonaktifkan Mod-Mod yang Diperlukan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="438"/>
         <source>Confirm enable</source>
-        <translation type="unfinished">Konfirmasi aktifkan</translation>
+        <translation>Konfirmasi pengaktifan</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="439"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform>Mod yang diaktifkan memerlukan mod %n.
+        <translation>
+            <numerusform>Mod yang diaktifkan memerlukan %n mod.
 </numerusform>
         </translation>
     </message>
@@ -10012,8 +10016,8 @@ Mengabaikannya dapat menyebabkan permainan tidak berfungsi dengan baik.</transla
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="440"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished">Apakah Anda ingin mengaktifkannya juga?
-Mengabaikannya dapat merusak permainan.</translation>
+        <translation>Apakah Anda ingin mengaktifkan mereka juga?
+Mengabaikan dapat menimbulkan masalah.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
@@ -10023,18 +10027,18 @@ Mengabaikannya dapat merusak permainan.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
         <source>Enable Required</source>
-        <translation type="unfinished">Aktifkan yang Diperlukan</translation>
+        <translation>Aktifkan yang Diperlukan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
         <source>Confirm disable</source>
-        <translation type="unfinished">Konfirmasi nonaktifkan</translation>
+        <translation>Konfirmasi penonaktifan</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Mod yang dinonaktifkan diperlukan oleh %n mod.
 </numerusform>
         </translation>
@@ -10043,18 +10047,18 @@ Mengabaikannya dapat merusak permainan.</translation>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="446"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished">Apakah Anda juga ingin menonaktifkannya?
-Mengabaikannya dapat menyebabkan permainan tidak berfungsi.</translation>
+        <translation>Apakah Anda juga ingin menonaktifkan mereka?
+Mengabaikannya dapat menimbulkan masalah.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Only Disable Selected</source>
-        <translation type="unfinished">Hanya Nonaktifkan yang Dipilih</translation>
+        <translation>Hanya Nonaktifkan yang Dipilih</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>Disable Required</source>
-        <translation type="unfinished">Nonaktifkan yang Diperlukan</translation>
+        <translation>Nonaktifkan yang Diperlukan</translation>
     </message>
     <message>
         <source>Miecraft Versions</source>
@@ -10394,14 +10398,14 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="144"/>
         <source>Confirm Disable</source>
-        <translation type="unfinished">Konfirmasi Nonaktifkan</translation>
+        <translation>Konfirmasi Penonaktifan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation type="unfinished">Mods yang Anda coba hapus diperlukan oleh mods %1.
-Apakah Anda ingin menonaktifkannya?</translation>
+        <translation>Mod-mod yang Anda mencoba hapus diperlukan oleh %1 mod.
+Apakah Anda ingin menonaktifkan mereka?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="263"/>
@@ -11036,16 +11040,16 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/net/NetRequest.cpp" line="276"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform>Batas Kecepatan Permintaan untuk %n detik: Coba Lagi Setelah %1</numerusform>
+        <translation>
+            <numerusform>Permintaan dibataslajukan untuk %n detik: Coba Lagi Setelah %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/NetRequest.cpp" line="281"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform>Batasan Kecepatan: Menunggu %n detik</numerusform>
+        <translation>
+            <numerusform>Batas Laju: Menunggu %n detik</numerusform>
         </translation>
     </message>
 </context>
@@ -11425,7 +11429,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>Current logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Daftar peristiwa saat ini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -11489,7 +11493,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
         <source>Clear</source>
-        <translation type="unfinished">Bersihkan</translation>
+        <translation>Bersihkan</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -12551,7 +12555,7 @@ Lanjutkan dengan pemotongan?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;Link untuk mengunggah catatan riwayat&lt;/a&gt;telah disalin ke papan klip anda.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Tautan untuk catatan riwayat yang diunggah&lt;/a&gt;telah disalin ke papan klip Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="376"/>
@@ -12573,7 +12577,7 @@ Lanjutkan dengan pemotongan?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="400"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>Pengetesan Java sukses&lt;br /&gt;Platform dilaporkan: %1&lt;br /&gt;Versi java dilaporkan: %2&lt;br /&gt;</translation>
+        <translation>Pengujian Java sukses!&lt;br /&gt;Platform dilaporkan: %1&lt;br /&gt;Versi java dilaporkan: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
@@ -12808,7 +12812,7 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>Biner java berikut tidak dapat berjalan dengan argumen JVM yang Anda masukkan:&lt;br /&gt;</translation>
+        <translation>Biner java tercantum tidak dapat berjalan dengan argumen yang Anda masukkan:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
@@ -13443,7 +13447,7 @@ Pesan kesalahan: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="146"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
-        <translation type="unfinished">Tidak ditandai sebagai kompatibel dengan versi game.</translation>
+        <translation>Tidak ditandai sebagai kompatibel dengan versi permainan dari instansi.</translation>
     </message>
 </context>
 <context>
@@ -15367,7 +15371,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/tasks/Task.cpp" line="134"/>
         <source>Aborted</source>
-        <translation type="unfinished">Dibatalkan</translation>
+        <translation>Dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -17198,7 +17202,7 @@ Mohon atur akun anda menurut %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished">Respons otentikasi pengguna Xbox tidak dapat dipahami.</translation>
+        <translation>Respons otentikasi pengguna Xbox tidak dapat dipahami.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
