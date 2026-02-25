@@ -54,7 +54,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished">Kamu bisa mengatur ini ke peladen (server) lain jika kamu mengalami masalah saat mengunduh pustaka (library) FML lama (Minecraft 1.5.2 dan versi sebelumnya).</translation>
+        <translation>Anda dapat mengatur ini ke server lain jika Anda mengalami masalah saat mengunduh perpustakaan FML versi lama (Minecraft 1.5.2 dan sebelumnya).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -3500,7 +3500,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Menyalin Mod-mod Diblokir...</translation>
+        <translation>Menyalin Mod yang Diblokir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
@@ -4064,7 +4064,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished">Catatan: Banyak modpack FTB terbaru juga tersedia di CurseForge!</translation>
+        <translation>Catatan: Banyak modpack FTB terbaru juga tersedia di CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4530,7 +4530,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Tidak dapat mengunduh berkas game: %1</translation>
+        <translation>Tidak dapat mengunduh berkas game: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="105"/>
@@ -5913,7 +5913,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished">Sepertinya kami tidak dapat memulai setelah %1 kali mencoba. Biasanya hal ini dapat diatasi dengan keluar dan masuk kembali ke akun Microsoft Anda. Jika itu tidak berhasil, server otentikasi Minecraft mungkin sedang mengalami gangguan atau Anda mungkin memerlukan VPN di wilayah Anda. Apakah Anda ingin mencoba lagi?</translation>
+        <translation>Sepertinya kami tidak dapat memulai setelah %1 kali mencoba. Biasanya hal ini dapat diatasi dengan keluar dan masuk kembali ke akun Microsoft Anda. Jika itu tidak berhasil, server otentikasi Minecraft mungkin sedang mengalami gangguan atau Anda mungkin memerlukan VPN di wilayah Anda. Apakah Anda ingin mencoba lagi?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
