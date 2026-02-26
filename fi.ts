@@ -2479,7 +2479,7 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Tätä instanssia ei voida käynnistää, koska osa kirjastoista ovat kateissa tai niitä ei olla vielä ladattu. Yritä uudelleen online-tilassa toimivan verkkoyhteyden kanssa</translation>
     </message>
 </context>
 <context>
@@ -3158,7 +3158,7 @@ Oletko varma että haluat tehdä näin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
@@ -3367,7 +3367,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Haetaan manifestia...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
@@ -3378,32 +3378,33 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>paketti manifestia ei voitu tulkita
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ratkaistaan modeja...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen manifesti: Tiedoston %1 Lataamiseksi ei löydy tietoa!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Estettyjä tiedostoja löytyi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seuraavia tiedostoja ei voida ladata kolmannen osapuolen käynnistysohjelmasta.&lt;br/&gt;Sinun pitää manuaalisesti ladata ja lisätä ne instanssiin.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Luodaan uutta instanssia...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
@@ -3979,7 +3980,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Huom. Monet uudet FTB modipaketit ovat myös saatavilla CurseForgessa!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4445,12 +4446,12 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pelitiedostoja ei voitu ladata: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="105"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladataan pelitiedostoja</translation>
     </message>
 </context>
 <context>
@@ -5998,7 +5999,7 @@ Haluatko pelata demoa?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="193"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; on vanhentunut ja vaatii uudelleen todentamista</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="196"/>
@@ -6014,46 +6015,51 @@ Haluatko pelata demoa?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä käyttäjä ei omista Minecraftia.&#xa0;
+Sinun pitää ostaa Minecraft pelataksesi koko versiota.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitään käyttäjää ei valittu käynnistykseen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Haluatko pelata demoa?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="244"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse demo moodin pelaaja nimesi</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Et ole yhdistettynä internettiin, käynnistetään offline-tilassa
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse offline moodin pelaaja nimesi</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttäjää käynnistämiseen ei valittu</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. Haluatko uudelleen todentaa tämän käyttäjän?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="485"/>
@@ -6411,7 +6417,7 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source> hours</source>
-        <translation> tunnia</translation>
+        <translation> tuntia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
@@ -6456,12 +6462,12 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tällä hetkellä tämä näyttää vain ne modit, joita ei ole merkattu yhteensopivaksi nykyisen Minecraft version kanssa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tunnista ja näytä modien yhteensopimattomuudet. (kokeellinen)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
