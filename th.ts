@@ -57,12 +57,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>เซิร์ฟเวอร์ไลบรารี FML แบบ ดั้งเดิม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณสามารถตั้งค่าเป็นเซิร์ฟเวอร์อื่นได้ หากคุณมีปัญหาในการดาวน์โหลดไลบรารี FML รุ่นเก่า (Minecraft 1.5.2 และรุ่นก่อนหน้า)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
