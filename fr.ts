@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>&amp;URL de base</translation>
+        <translation>Base &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -45,7 +45,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="411"/>
         <source>Use Default</source>
-        <translation>Utiliser par défault</translation>
+        <translation>Utiliser par défaut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="288"/>
         <source>Mod&amp;rinth</source>
-        <translation>&amp;Modrinth</translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="310"/>
@@ -158,12 +158,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
         <source>User Agent</source>
-        <translation>User agent</translation>
+        <translation>Agent d&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Entrez un user agent personnalisé ici. La chaîne spéciale $LAUNCHER_VER sera remplacée avec la version du launcher.</translation>
+        <translation>Entrez un agent d&apos;utilisateur personnalisé ici. La chaîne spéciale $LAUNCHER_VER sera remplacée avec la version du launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -8870,17 +8870,17 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1048"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lien d&apos;importation non valide&#xa0;: paramètre &apos;url&apos; manquant.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1063"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Lien d&apos;importation non valide&#xa0;: l&apos;URL doit être en http(s).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer le modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
@@ -8889,7 +8889,14 @@ Voulez-vous continuer ?</translation>
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous télécharger et importer un modpack depuis:
+
+%1
+
+
+URL:
+
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
@@ -12074,7 +12081,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>Current logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Journaux actuels</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -12138,7 +12145,7 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
         <source>Clear</source>
-        <translation type="unfinished">Effacer</translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
