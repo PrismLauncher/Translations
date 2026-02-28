@@ -4585,7 +4585,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="84"/>
         <source>Skip</source>
-        <translation type="unfinished">Пропустити</translation>
+        <translation>Пропустити</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
