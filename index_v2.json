@@ -163,12 +163,12 @@
             "untranslated" : 0
         },
         "en_AU" : {
-            "file" : "0333d56b31cdc4f09da2bbf5b2a393666f18eb50.class",
-            "sha1" : "0333d56b31cdc4f09da2bbf5b2a393666f18eb50",
-            "size" : 324282,
-            "translated" : 2270,
-            "fuzzy" : 43,
-            "untranslated" : 26
+            "file" : "c6a0e13be6677277916cbe8efb5dc95e145d2ff8.class",
+            "sha1" : "c6a0e13be6677277916cbe8efb5dc95e145d2ff8",
+            "size" : 329092,
+            "translated" : 2339,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "en_CA" : {
             "file" : "8e5e0dd85e4534d429df031e20808fd1d6196505.class",
@@ -635,12 +635,12 @@
             "untranslated" : 2061
         },
         "sr" : {
-            "file" : "e20da088a609098b32889ab3fae3a258cc223bec.class",
-            "sha1" : "e20da088a609098b32889ab3fae3a258cc223bec",
-            "size" : 128504,
-            "translated" : 679,
-            "fuzzy" : 288,
-            "untranslated" : 1372
+            "file" : "90b2ee183249e486c919956881d4793f45b9e597.class",
+            "sha1" : "90b2ee183249e486c919956881d4793f45b9e597",
+            "size" : 134087,
+            "translated" : 736,
+            "fuzzy" : 274,
+            "untranslated" : 1329
         },
         "sv" : {
             "file" : "d0c39df2556bea3d850fafb71bd6b4e4a2d0517f.class",
@@ -691,12 +691,12 @@
             "untranslated" : 34
         },
         "uk" : {
-            "file" : "a8bbf525fc468f0ab7ed71114a903079fab461cd.class",
-            "sha1" : "a8bbf525fc468f0ab7ed71114a903079fab461cd",
-            "size" : 338654,
-            "translated" : 2281,
-            "fuzzy" : 23,
-            "untranslated" : 35
+            "file" : "b993abf25610032494bc05cb4b9a5382d12387a4.class",
+            "sha1" : "b993abf25610032494bc05cb4b9a5382d12387a4",
+            "size" : 344681,
+            "translated" : 2317,
+            "fuzzy" : 22,
+            "untranslated" : 0
         },
         "ur" : {
             "file" : "0ac2fb5177fd7815c9a1d8d904aed5782b755138.class",
