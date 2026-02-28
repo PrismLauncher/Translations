@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastareli FML Libraries server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovo možeš postaviti na neki drugi server ako imaš problema sa preuzimanjem starih FML biblioteka (Minecraft 1.5.2 i starije).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -640,12 +640,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Idi &amp;gore</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Ide &amp;dole</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -1574,7 +1574,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="80"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>Učitavanje komponenti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="215"/>
@@ -1589,7 +1589,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje metadate za %1 komponenti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="480"/>
@@ -2437,7 +2437,7 @@ Jeste li sigurni?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ova instanca se ne može pokrenuti jer neke biblioteke nedostaju ili još uvek nisu preuzete. Pokušaj ponovo u &quot;onlajn&quot; modu sa ispravnom internet vezom</translation>
     </message>
 </context>
 <context>
@@ -3305,63 +3305,64 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dobijanje manifesta...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije nađena verzija paketa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ne mogu razumeti manifest paketa:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rešavanje modova...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevažeći manifest: Nema dostupnih informacija za preuzimanje datoteke &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Pronađene blokirane datoteke</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Sledeći fajlovi nisu mogući skinuti na druge launcher-e.&lt;br/&gt;Morate da ih samostalno skinete i dodate u instanc.</translation>
+        <translation>Sledeće datoteke nisu dostupne za preuzimanje preko launchera treće strane.&lt;br/&gt;Moraš ih samostalno preuzeti pa ih dodati u instancu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreiranje instance...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje modova...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation type="unfinished">Мод преузимање</translation>
+        <translation>Preuzimanje modova</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Kopiranje blokiranih modova...</translation>
+        <translation>Kopiranje blokiranih modova...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Kopiranje blokiranih modova (%1 od %2 je završeno)</translation>
+        <translation>Kopiranje blokiranih modova (%1 od %2 je završeno)</translation>
     </message>
 </context>
 <context>
@@ -3691,7 +3692,7 @@ Molimo pokušajte ponovo.</translation>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="219"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="282"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Parsovanje API odgovora od CurseForge-a za &apos;%1&apos;...</translation>
+        <translation>Parsiranje API odgovora od CurseForge-a za &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
@@ -3823,18 +3824,18 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortiraj po igranjima</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortiraj po instalacijama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Slaži po imenu</translation>
+        <translation>Sortiraj po imenu</translation>
     </message>
 </context>
 <context>
@@ -3842,18 +3843,18 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Verzija izabrana:</translation>
+        <translation>Verzija izabrana:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Pretraži i filtriraj ...</translation>
+        <translation>Pretraži i filtriraj ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Napomena: Dosta novijih FTB modpekova su takođe dostupni na CurseForge-u!</translation>
     </message>
 </context>
 <context>
@@ -4256,17 +4257,17 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="84"/>
         <source>Skip</source>
-        <translation type="unfinished">Preskoči</translation>
+        <translation>Preskoči</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuspešno preuzimanje datoteke za igricu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="105"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje datoteka za igricu</translation>
     </message>
 </context>
 <context>
@@ -4281,7 +4282,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje modpack-a</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
@@ -4470,12 +4471,12 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dobro došli!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pritisnite &quot;Dodaj instancu&quot; da biste započeli.</translation>
     </message>
 </context>
 <context>
@@ -4483,7 +4484,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="57"/>
         <source>Console window for </source>
-        <translation type="unfinished"></translation>
+        <translation>Konzolni prozor za </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="81"/>
@@ -4493,17 +4494,17 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pokreni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zaustavi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -4513,12 +4514,12 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>Kill the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaustavi pokrenutu instancu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>Launch the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokreni instancu</translation>
     </message>
 </context>
 <context>
@@ -4526,7 +4527,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
         <source>Listening on port: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Slušam port: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
@@ -4539,7 +4540,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM pokrenut</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -4552,22 +4553,22 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="36"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje Jave</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Raspakivanje Jave</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuspešno otvoranje isporučene zip datoteke.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nisu nađene datoteke u isporučenoj zip datoteci.</translation>
     </message>
 </context>
 <context>
@@ -4575,32 +4576,32 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="204"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Osveži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="221"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
         <source>Cancel</source>
-        <translation type="unfinished">Otkaži</translation>
+        <translation>Otkaži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="290"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="296"/>
@@ -4611,13 +4612,13 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="322"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Neuspešno određivanje tipa Java preuzimanja!</translation>
+        <translation>Neuspešno određivanje tipa Java preuzimanja!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="335"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
@@ -4630,7 +4631,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje Jave</translation>
     </message>
 </context>
 <context>
@@ -4679,17 +4680,17 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
         <source>Remove</source>
-        <translation type="unfinished">Ukloni</translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
         <source>Refresh</source>
-        <translation type="unfinished">Osveži</translation>
+        <translation>Osveži</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
@@ -4714,7 +4715,7 @@ Molimo pokušajte ponovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="69"/>
