@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumang FML Libraries Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Maaari mo itong itakda o baguhin sa ibang server kung may problema ka sa pag-download ng mga lumang FML libraries (Minecraft 1.5.2 at mga nauna).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -621,12 +621,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Umakyat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Bumaba</translation>
     </message>
     <message>
         <source>Welcome!
@@ -822,7 +822,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation>Reload All</translation>
+        <translation>I-reload Lahat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
