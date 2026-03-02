@@ -14011,7 +14011,7 @@ Messaggio d&apos;errore: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="146"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
-        <translation>Non marcato come compatibile con la versione del gioco dell&apos;istanza</translation>
+        <translation>Non marcato come compatibile con la versione di gioco dell&apos;istanza.</translation>
     </message>
 </context>
 <context>
