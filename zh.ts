@@ -207,64 +207,64 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>无法解析包清单：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="341"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="346"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>无法获取 %1 的本地元数据索引</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="151"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>无法获取 %1(v%2) 的本地元数据索引</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="141"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="146"/>
         <source>Unsupported installation mode</source>
         <translation>不支持的安装模式</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="182"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
         <translation>正在删除现有文件...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="329"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="334"/>
         <source>Unknown mod type: %1</source>
         <translation>未知的 Mod 类型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="372"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
         <source>Failed to find version for %1 loader</source>
         <translation>无法找到 %1 加载器的合适版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="385"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
         <translation>没有为整合包设置 Mod 加载器版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="515"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="520"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>未知或不支持的下载类型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Downloading configs...</source>
         <translation>正在下载配置文件…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="635"/>
         <source>Config download</source>
         <translation>下载配置文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="671"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="676"/>
         <source>Extracting configs...</source>
         <translation>正在解压配置文件…</translation>
     </message>
@@ -273,17 +273,17 @@
         <translation type="vanished">无法打开包的配置文件 %1！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="695"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="700"/>
         <source>Selecting optional mods...</source>
         <translation>正在选择可选 Mod…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
         <source>Downloading mods...</source>
         <translation>下载 Mod 中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
         <source>Mod download</source>
         <translation>Mod 下载</translation>
     </message>
@@ -292,53 +292,53 @@
         <translation type="vanished">不支持的下载类型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="732"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="862"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="737"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="867"/>
         <source>Unknown download type: %1</source>
         <translation>未知的下载类型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="812"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="817"/>
         <source>Blocked mods found</source>
         <translation>发现被屏蔽的 Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="813"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载它们并将其添加到实例中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="869"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>%1 out of %2 complete</source>
         <translation>已完成 %1/%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="904"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="909"/>
         <source>Failed to extract mods...</source>
         <translation>Mod 解压失败…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="914"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="919"/>
         <source>Extracting mods...</source>
         <translation>正在解压 Mod…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="986"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Installing modpack</source>
         <translation>正在安装整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Failed to create libraries component</source>
         <translation>无法创建库组件</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1024"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Unknown loader type: </source>
         <translation>未知的加载器类型： </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1043"/>
         <source>Failed to create pack component</source>
         <translation>无法创建包组件</translation>
     </message>
@@ -1237,17 +1237,17 @@ Some versions of Minecraft may not launch.
         <translation>全不选</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Select a share code</source>
         <translation>选择分享码</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Share code:</source>
         <translation>分享码：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="357"/>
         <source>No share code specified!</source>
         <translation>未指定分享码！</translation>
     </message>
@@ -1255,12 +1255,12 @@ Some versions of Minecraft may not launch.
 <context>
     <name>AtlOptionalModListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
         <source>Are you sure that you want to enable this mod?</source>
         <translation>确定要启用该 Mod 吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="250"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
@@ -2546,14 +2546,14 @@ Are you sure?</source>
         <translation>正在从 %1 获取“%2”的元数据信息…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="331"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>正在解析 Modrinth 对“%1”的API响应…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="390"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="458"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>正在解析 CurseForge 对“%1”的 API 响应…</translation>
     </message>
@@ -3511,54 +3511,54 @@ Please try again.</source>
         <translation>无法找到包版本 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>无法解析包清单：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
         <translation>解析模组中……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
         <translation>无效清单：下载“%1”文件的信息不可用！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
         <translation>发现了被屏蔽的文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载它们并将其添加到实例中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
         <translation>正在创建实例……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
         <translation>下载 Mod 中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
         <translation>Mod 下载</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="361"/>
         <source>Copying Blocked Mods...</source>
         <translation>正在复制被屏蔽的 Mod…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>正在复制被屏蔽的 Mod（%1 / %2）</translation>
     </message>
@@ -3671,37 +3671,37 @@ Please try again.</source>
         <translation type="vanished">正在获取 CurseForge 对“%1”的 API 响应…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="93"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>正在解析 CurseForge 对“%1”的 API 响应…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="100"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="99"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>未找到此资源的有效版本。它可能不适用于当前游戏版本 / Mod 加载器。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="103"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="102"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>未找到此资源的有效版本。它可能不适用于当前游戏版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="180"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="179"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>正在解析 CurseForge 对“%1”的 API 响应…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="184"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="183"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>资源有新的可用更新，但无法使用 CurseForge 下载。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="118"/>
         <source>Not installed</source>
         <translation>未安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>
@@ -3723,7 +3723,7 @@ Please try again.</source>
     <name>FlameCreationTask</name>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="113"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="334"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>无法解析包清单：
@@ -3759,54 +3759,54 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="248"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="247"/>
         <source>No index file.</source>
         <translation>无索引文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="248"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>我们无法找到适合旧版本的索引文件。这可能导致部分文件重复。是否继续？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="272"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>无法获取 %1 的本地元数据索引</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="306"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="305"/>
         <source>Failed to find version for %1 loader</source>
         <translation>无法找到 %1 加载器的合适版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="310"/>
         <source>No loader version set for modpack!</source>
         <translation>没有设置整合包的 Mod 加载器版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="346"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>无法重命名覆盖的目录：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="352"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="351"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>未找到指定覆盖的目录（%1）。或许这个整合包之前已经用过了？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="380"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>清单中包含未知的 Mod 加载器： %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="395"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>导入包时从 Minecraft 版本移除了神秘的尾随点。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="429"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="428"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>整合包的推荐内存大小超过了系统内存大小的 90%——将其从 %1 MiB 减少至 %2 MiB！</translation>
     </message>
@@ -3815,40 +3815,40 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">无法为 Minecraft %1 映射推荐的 Forge 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="468"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>无法解析 Mod ID：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="548"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"/>
         <source>Blocked mods found</source>
         <translation>找到被屏蔽的 Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="549"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="548"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载它们并将其添加到实例中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="571"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="570"/>
         <source>Mod Download Flame</source>
         <translation>Mod 下载 Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="602"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="601"/>
         <source>%1 out of %2 complete</source>
         <translation>已完成 %1/%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="615"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="614"/>
         <source>Copying Blocked Mods...</source>
         <translation>正在复制被屏蔽的 Mod…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="629"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>正在复制被屏蔽的 Mod（%1 / %2）</translation>
     </message>
@@ -3869,7 +3869,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">无法识别的或未处理的包类型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="606"/>
         <source>Downloading mods...</source>
         <translation>下载 Mod 中…</translation>
     </message>
@@ -4227,7 +4227,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>获取前置项</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>发生网络错误。无法加载前置项：%1</translation>
@@ -4384,40 +4384,40 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">Modrinth 整合包 (*.mrpack)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"/>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
         <translation>整合包 %1 被禁止通过第三方下载！请手动下载。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>This url isn&apos;t a valid modpack !</source>
         <translation>这个 URL 不是一个有效的整合包！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="209"/>
         <source>Supported files</source>
         <translation>支持的文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="212"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
         <translation>Modrinth 整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Choose modpack</source>
         <translation>选择整合包</translation>
     </message>
@@ -7123,17 +7123,17 @@ Please try again.</source>
 <context>
     <name>LegacyFTB::PackFetchTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
         <source>Public Packs</source>
         <translation>公开整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
         <source>Third Party Packs</source>
         <translation>第三方包</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="127"/>
         <source>Failed to download some pack lists: %1</source>
         <translation>下载一些包列表时出错：%1</translation>
     </message>
@@ -8599,7 +8599,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1696"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1694"/>
         <source>No instance selected</source>
         <translation>未选择实例</translation>
     </message>
@@ -8695,8 +8695,8 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1104"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1102"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
@@ -8709,28 +8709,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 请添加一个 Microsoft 账户。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="987"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>整合包、Mod 或资源包 %1 禁用了第三方下载！请手动下载。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1093"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
         <source>Modpack download</source>
         <translation>下载整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1243"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
         <source>Group name</source>
         <translation>群组名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1243"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
         <source>Enter a new group name.</source>
         <translation>输入或选择新群组。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
         <source>Delete group</source>
         <translation>删除群组</translation>
     </message>
@@ -8739,37 +8739,37 @@ Please add your Microsoft or Mojang account.</oldsource>
         <translation type="vanished">您确定要移除实例组 %1 吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1382"/>
         <source>Instance not editable</source>
         <translation>实例不可被编辑</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1385"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>该实例不可被编辑。也许它损坏，无效或太旧？请查看日志了解详情。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1428"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1426"/>
         <source>Successfully added %1 to PATH</source>
         <translation>成功把 %1 添加至 PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1429"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 已成功添加至你的 PATH 环境变量。现在可以运行 `%2` 来启动它。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1432"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1430"/>
         <source>Failed to add %1 to PATH</source>
         <translation>无法把 %1 添加至 PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1433"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1431"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>在把 %1 添加到 PATH 时发生了一个错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1487"/>
         <source>Confirm Deletion</source>
         <translation>确认删除</translation>
     </message>
@@ -8869,22 +8869,22 @@ Are you sure?</source>
         <translation>重命名群组(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1048"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1046"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>无效导入链接：缺少“URL”参数。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1063"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1061"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>无效导入链接：URL 必须是 http(s) 链接。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1069"/>
         <source>Install modpack</source>
         <translation>安装整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -8897,56 +8897,56 @@ URL：
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1126"/>
         <source>No instance!</source>
         <translation>没有实例！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1129"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>没有可以添加资源的实例。
 请先创建新实例，然后再尝试安装该资源。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>你确定要删除分组“%1”吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
         <source>Rename group</source>
         <translation>重命名群组</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Cannot rename group</source>
         <translation>无法重命名群组</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Cannot set empty name.</source>
         <translation>名称不能为空。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Group already exists. :/</source>
         <translation>已存在该组。:/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1283"/>
         <source>Failed to undo trashing instance</source>
         <translation>无法撤销将实例移至回收站的操作</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>一些实例和快捷方式无法还原。
 请查看回收站并手动还原它们。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1406"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1404"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -8955,24 +8955,24 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1474"/>
         <source>Cannot Delete Running Instance</source>
         <translation>无法删除正在运行的实例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>所选实例当前正在运行，无法删除。请停止该实例后再尝试删除它。</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1488"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> 以及它 %n 个注册的快捷方式</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1488"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -8983,7 +8983,7 @@ Are you sure?</source>
 你确定要这样做吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1500"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>Deleting</source>
         <translation>正在删除</translation>
     </message>
@@ -9024,48 +9024,48 @@ Are you sure?</source>
         <translation type="vanished">已在你的应用程序文件夹里为当前实例添加快捷方式！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1700"/>
         <source>Rename Instance</source>
         <translation>重命名实例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1712"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>你的实例文件夹名称包含“!”，这可能会导致 Java 出现问题！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1715"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>你现在有两个选项：&lt;br/&gt; - 在设置中改变实例文件夹 &lt;br/&gt; - 将 %1 的此安装版本移动至其他文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1721"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>发现一个问题：&lt;br/&gt; - 操作系统可能会在没有事先警告的情况下自动删除此启动器 &lt;br/&gt; - 马上关闭启动器并将启动器解压至其他目录，而非临时文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1729"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>你的实例文件夹包含“Rar$”——这意味着你并未解压启动器压缩包！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>实例文件夹位于临时文件夹：“%1”中！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1747"/>
         <source>Total playtime: %1</source>
         <translation>总游戏时长：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="854"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1047"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1062"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1099"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1405"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1045"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1060"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1097"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1403"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -11254,27 +11254,27 @@ Please update %1!</source>
         <translation>正在准备 Modrinth 的资源…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>正在解析 Modrinth 的 API 响应…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
         <source>Not installed</source>
         <translation>未安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>未找到此资源的有效版本。它可能不适用于当前游戏版本 / Mod 加载器。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="226"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>未找到此资源的有效版本。它可能不适用于当前游戏版本。</translation>
     </message>
@@ -12899,34 +12899,34 @@ Choose your name carefully:</source>
         <translation>名称太短——长度必须介于 3 到 16 个字符之间。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="183"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="184"/>
         <source>Minecraft profile with name %1 already exists.</source>
         <translation>名为 %1 的 Minecraft 档案已存在。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="185"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="186"/>
         <source>The name %1 is not allowed.</source>
         <translation>不允许将“%1”作为名称。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="188"/>
         <source>Unhandled profile name status: %1</source>
         <translation>无法处理的个人档案状态：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="191"/>
         <source>Failed to check name availability.</source>
         <translation>无法检查名称可用性。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="270"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
         <translation>网络错误：%1
 HTTP 状态码：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="280"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
         <translation>服务器响应了以下错误：</translation>
     </message>
@@ -13720,59 +13720,59 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <source>Sort by Featured</source>
         <translation>按精选内容排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Popularity</source>
         <translation>按热门度排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
         <source>Sort by Last Updated</source>
         <translation>按最后更新时间排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <source>Sort by Name</source>
         <translation>按名称排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <source>Sort by Author</source>
         <translation>按作者排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Downloads</source>
         <translation>按下载量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
         <source>Sort by Category</source>
         <translation>按分类排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="172"/>
         <source>Sort by Game Version</source>
         <translation>按游戏版本排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Relevance</source>
         <translation>按相关度排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Follows</source>
         <translation>按关注数排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Newest</source>
         <translation>按最近更新排序</translation>
     </message>
@@ -14572,7 +14572,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="550"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="549"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -14581,7 +14581,7 @@ Canonical Path: %1</source>
 规范路径：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="556"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="555"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -14617,50 +14617,50 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="vanished">最后修改</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="268"/>
         <source>Confirm toggle</source>
         <translation>确认启用 / 禁用</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>在游戏运行时启用或禁用此资源，游戏可能会崩溃。
 你确定吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="613"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="612"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>是否启用外部资源？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="615"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="614"/>
         <source>The name of the resource.</source>
         <translation>资源名称。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="617"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="616"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>上次更改（或添加）此资源的日期和时间。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="619"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="618"/>
         <source>The source provider of the resource.</source>
         <translation>资源的来源托管平台。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="621"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="620"/>
         <source>The size of the resource.</source>
         <translation>资源大小。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="712"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="711"/>
         <source>Override Columns Visibility</source>
         <translation>覆盖列可见性</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="725"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="724"/>
         <source>Show / Hide Columns</source>
         <translation>显示/隐藏列</translation>
     </message>
@@ -15956,49 +15956,49 @@ Are you sure?</source>
         <translation>下载用户皮肤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="490"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="487"/>
         <source>failed to get user UUID</source>
         <translation>获取用户UUID失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="497"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="494"/>
         <source>failed to get user profile</source>
         <translation>获取用户个人资料失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="501"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="498"/>
         <source>failed to download skin</source>
         <translation>下载皮肤失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="511"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="525"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="508"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"/>
         <source>failed to parse get user UUID response</source>
         <translation>无法解析获取的用户 UUID 响应</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="520"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="517"/>
         <source>user id is empty</source>
         <translation>user id 是空的</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="534"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="531"/>
         <source>failed to parse get user profile response</source>
         <translation>无法解析获取的用户个人资料响应</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="548"/>
         <source>the skin is invalid</source>
         <translation>这个皮肤是无效的</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="553"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="550"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
         <translation>用户名未找到</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="554"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>无法找到&apos;%1&apos;的皮肤
@@ -16210,35 +16210,35 @@ Are you sure?</source>
         <translation type="vanished">正在下载整合包：</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="87"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="110"/>
         <source>Downloading modpack</source>
         <translation>正在下载整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>无法解析包清单：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
         <translation>正在解压整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="182"/>
         <source>Failed to extract modpack</source>
         <translation>解压整合包时失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="203"/>
         <source>Could not fix permissions for %1</source>
         <translation>无法修复 %1 的权限</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="218"/>
         <source>Instance import has been aborted.</source>
         <translation>实例导入操作被中止。</translation>
     </message>
@@ -16314,13 +16314,13 @@ inheritsFrom is missing</source>
         <translation type="vanished">搜索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="218"/>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="274"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="239"/>
         <source> by </source>
         <translation> 作者 </translation>
     </message>

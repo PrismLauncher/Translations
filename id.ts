@@ -195,64 +195,64 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Tidak dapat memahami manifest paket:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="341"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="346"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Gagal mendapatkan indeks metadata lokal untuk %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="151"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>Gagal mendapatkan indeks metadata lokal untuk &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="141"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="146"/>
         <source>Unsupported installation mode</source>
         <translation>Mode instalasi tidak didukung</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="182"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
         <translation>Menghapus file yang ada...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="329"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="334"/>
         <source>Unknown mod type: %1</source>
         <translation>Jenis mod tidak diketahui: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="372"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Gagal menemukan versi untuk pemuat %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="385"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
         <translation>Versi pemuat tidak terpilih untuk modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="515"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="520"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>Jenis unduhan yang tidak diketahui atau tidak didukung: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Downloading configs...</source>
         <translation>Mengunduh konfigurasi...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="635"/>
         <source>Config download</source>
         <translation>Pengunduhan konfigurasi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="671"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="676"/>
         <source>Extracting configs...</source>
         <translation>Mengekstrak konfigurasi...</translation>
     </message>
@@ -261,17 +261,17 @@
         <translation type="vanished">Gagal membuka konfigurasi paket %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="695"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="700"/>
         <source>Selecting optional mods...</source>
         <translation>Memilih mod opsional...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
         <source>Downloading mods...</source>
         <translation>Mengunduh mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
         <source>Mod download</source>
         <translation>Unduhan Mod</translation>
     </message>
@@ -280,53 +280,53 @@
         <translation type="vanished">Jenis unduhan yang tidak didukung: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="732"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="862"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="737"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="867"/>
         <source>Unknown download type: %1</source>
         <translation>Jenis unduhan tidak diketahui: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="812"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="817"/>
         <source>Blocked mods found</source>
         <translation>Mod yang diblokir ditemukan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="813"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>Berkas-berkas berikut tidak tersedia untuk diunduh peluncur pihak ketiga.&lt;br/&gt;Anda harus mengunduh mereka secara manual dan menambahkan ke dalam instansi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="869"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 dari %2 selesai</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="904"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="909"/>
         <source>Failed to extract mods...</source>
         <translation>Gagal mengekstrak mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="914"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="919"/>
         <source>Extracting mods...</source>
         <translation>Mengekstrak mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="986"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Installing modpack</source>
         <translation>Memasang modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Failed to create libraries component</source>
         <translation>Gagal membuat komponen pustaka</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1024"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Unknown loader type: </source>
         <translation>Jenis pemuat tidak diketahui: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1043"/>
         <source>Failed to create pack component</source>
         <translation>Gagal membuat komponen paket</translation>
     </message>
@@ -1218,17 +1218,17 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <translation>Hapus semua</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Select a share code</source>
         <translation>Pilih kode bagi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Share code:</source>
         <translation>Kode bagi:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="357"/>
         <source>No share code specified!</source>
         <translation>Tidak ada kode bagi yang diberikan!</translation>
     </message>
@@ -1236,12 +1236,12 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
 <context>
     <name>AtlOptionalModListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
         <source>Are you sure that you want to enable this mod?</source>
         <translation>Apakah Anda yakin ingin mengaktifkan mod ini?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="250"/>
         <source>Warning</source>
         <translation>Peringatan</translation>
     </message>
@@ -2515,14 +2515,14 @@ Apakah kamu yakin?</translation>
         <translation>Meminta informasi metadata dari %1 untuk &apos;%2&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="331"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>Mengurai respons API dari Modrinth untuk &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="390"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="458"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Mengurai respons API dari CurseForge untuk &apos;%1&apos;...</translation>
     </message>
@@ -3456,54 +3456,54 @@ Coba ulang lagi.</translation>
         <translation>Gagal menemukan versi pak %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Tidak dapat memahami manifest paket:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
         <translation>Mencarikan mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
         <translation>Manifest tidak valid: Tidak ada informasi yang tersedia untuk mengunduh berkas ‘%1’!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
         <translation>Berkas yang diblokir ditemukan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>Berkas-berkas berikut tidak tersedia untuk diunduh peluncur pihak ketiga.&lt;br/&gt;Anda harus mengunduh mereka dan menambahkan ke dalam instansi secara manual.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
         <translation>Membuat instansi...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
         <translation>Mengunduh mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
         <translation>Unduh mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="361"/>
         <source>Copying Blocked Mods...</source>
         <translation>Menyalin Mod yang Diblokir...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Menyalin Mod-mod Terblokir (%1 dari %2 selesai)</translation>
     </message>
@@ -3616,37 +3616,37 @@ Coba ulang lagi.</translation>
         <translation type="vanished">Mendapatkan respons API dari CurseForge untuk &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="93"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Mengurai respons API dari CurseForge untuk &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="100"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="99"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Tidak ada versi berlaku yang ditemukan untuk sumber daya. Mungkin tidak tersedia untuk versi permainan / pemuat mod saat ini.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="103"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="102"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Tidak ada versi berlaku yang ditemukan untuk sumber daya. Mungkin tidak tersedia untuk versi permainan saat ini.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="180"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="179"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Menulis respons API dari CurseForge untuk &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="184"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="183"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>Pembaruan tersedia untuk sumber daya, tetapi tidak dapat diunduh melalui CurseForge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="118"/>
         <source>Not installed</source>
         <translation>Tidak terinstal</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Unknown</source>
         <translation>Tidak Diketahui</translation>
     </message>
@@ -3668,7 +3668,7 @@ Coba ulang lagi.</translation>
     <name>FlameCreationTask</name>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="113"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="334"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Tidak dapat memahami manifest paket:
@@ -3692,54 +3692,54 @@ Coba ulang lagi.</translation>
         <translation type="vanished">Batal</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="248"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="247"/>
         <source>No index file.</source>
         <translation>Tidak ada berkas indeks.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="248"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Kami tidak dapat menemukan berkas indeks yang cocok untuk versi yang lebih lama. Ini dapat menyebabkan beberapa berkas diduplikasi. Apakah Anda ingin menlanjutkan?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="272"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Gagal mendapatkan indeks metadata lokal untuk %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="306"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="305"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Gagal menemukan versi untuk pemuat %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="310"/>
         <source>No loader version set for modpack!</source>
         <translation>Versi pemuat tidak terpilih untuk modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="346"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Tidak dapat menamai ulang folder pengesampingan:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="352"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="351"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Folder override yang ditentukan (%1) tidak ada. Mungkin modpack sudah pernah digunakan sebelumnya?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="380"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Pemuat mod tidak diketahui dalam manifest: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="395"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Titik jejak misterius dihapus dari versi Minecraft saat mengimpor paket.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="429"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="428"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>Memori yang disarankan dari paket mod melebihi 90% RAM sistem-mu—menguranginya dari %1 MiB ke %2 MiB!</translation>
     </message>
@@ -3748,40 +3748,40 @@ Coba ulang lagi.</translation>
         <translation type="vanished">Tidak dapat memetakan versi Forge yang direkomendasikan untuk Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="468"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Tidak dapat menemukan ID-ID mod:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="548"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"/>
         <source>Blocked mods found</source>
         <translation>Mod yang diblokir ditemukan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="549"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="548"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Berkas-berkas berikut tidak tersedia untuk diunduh peluncur pihak ketiga.&lt;br/&gt;Anda harus mengunduh mereka secara manual dan menambahkan ke dalam instansi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="571"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="570"/>
         <source>Mod Download Flame</source>
         <translation>Unduhan Mod Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="602"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="601"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 dari %2 selesai</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="615"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="614"/>
         <source>Copying Blocked Mods...</source>
         <translation>Menyalin Mod-mod Diblokir...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="629"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Menyalin Mod-mod diblokir (%1 dari %2 selesai)</translation>
     </message>
@@ -3802,7 +3802,7 @@ Coba ulang lagi.</translation>
         <translation type="vanished">PackageType tidak diketahui / tidak tertangani untuk: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="606"/>
         <source>Downloading mods...</source>
         <translation>Mengunduh mod-mod...</translation>
     </message>
@@ -4139,7 +4139,7 @@ Coba ulang lagi.</translation>
         <translation>Dapatkan ketergantungan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Terjadi sebuah kesalahan jaringan. Tidak dapat memuat ketergantungan proyek:%1</translation>
@@ -4292,40 +4292,40 @@ Coba ulang lagi.</translation>
         <translation>Impor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"/>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modpack %1 diblokir bagi pihak-pihak ketiga. Mohon unduh secara manual.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>This url isn&apos;t a valid modpack !</source>
         <translation>Url ini bukanlah modpack yang valid !</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="209"/>
         <source>Supported files</source>
         <translation>Berkas yang didukung</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="212"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
         <translation>Paket Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Choose modpack</source>
         <translation>Pilih modpack</translation>
     </message>
@@ -6890,17 +6890,17 @@ Coba ulang lagi.</translation>
 <context>
     <name>LegacyFTB::PackFetchTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
         <source>Public Packs</source>
         <translation>Pack Publik</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
         <source>Third Party Packs</source>
         <translation>Pack Pihak Ketiga</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="127"/>
         <source>Failed to download some pack lists: %1</source>
         <translation>Gagal mengunduh beberapa daftar paket: %1</translation>
     </message>
@@ -8156,7 +8156,7 @@ Alasan:
         <translation type="vanished">Jalankan secara Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1487"/>
         <source>Confirm Deletion</source>
         <translation>Konfirmasi Penghapusan</translation>
     </message>
@@ -8279,7 +8279,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1696"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1694"/>
         <source>No instance selected</source>
         <translation>Tidak instansi yang dipilih</translation>
     </message>
@@ -8359,8 +8359,8 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1104"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1102"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -8373,28 +8373,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 Mohon menambahkan akun Microsoft Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="987"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modpack, mod, atau sumber daya %1 diblokir dari pihak-pihak ketiga. Mohon unduh secara manual.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1093"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
         <source>Modpack download</source>
         <translation>Unduhan modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1243"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
         <source>Group name</source>
         <translation>Nama grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1243"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
         <source>Enter a new group name.</source>
         <translation>Masukkan nama grup baru.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
         <source>Delete group</source>
         <translation>Hapus grup</translation>
     </message>
@@ -8403,32 +8403,32 @@ Mohon menambahkan akun Microsoft Anda.</translation>
         <translation type="vanished">Apakah Anda yakin untuk menghapus grup %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1382"/>
         <source>Instance not editable</source>
         <translation>Instansi tidak dapat disunting</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1385"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Instansi ini tidak dapat disunting. Kemungkinan karena rusak, tidak valid, atau terlalu tua. Periksa log untuk keterangan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1428"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1426"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Sukses menambahkan %1 ke PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1429"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 sukses ditambahkan ke PATH Anda. Anda sekarang dapat memulainya dengan menjalankan `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1432"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1430"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Gagal menambahkan %1 ke PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1433"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1431"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Sebuah kesalahan terjadi ketika menambahkan %1 ke PATH</translation>
     </message>
@@ -8500,22 +8500,22 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
         <translation>Namakan ulang kelompok (&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1048"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1046"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>Tautan impor tidak valid: parameter &apos;url&apos; kosong.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1063"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1061"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>Tautan impor tidak valid: URL harus http(s).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1069"/>
         <source>Install modpack</source>
         <translation>Instal paket mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -8528,56 +8528,56 @@ URL:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1126"/>
         <source>No instance!</source>
         <translation>Tidak ada Instansi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1129"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Tidak ada instansi yang tersedia untuk menambahkan sumber daya.
 Silahkan buat instansi baru sebelum mencoba menginstal sumber daya ini lagi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Apakah Anda yakin untuk menghapus kelompok &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
         <source>Rename group</source>
         <translation>Nama ulang kelompok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Cannot rename group</source>
         <translation>Tidak dapat memberi nama ulang kelompok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Cannot set empty name.</source>
         <translation>Tidak dapat menyetel nama kosong.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Group already exists. :/</source>
         <translation>Kelompok sudah ada. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1283"/>
         <source>Failed to undo trashing instance</source>
         <translation>Gagal mengembalikan penghapusan instansi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Beberapa instansi dan pintasan tidak bisa dipulihkan.
 Silakan periksa trashbin kamu untuk mengembalikannya secara manual.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1406"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1404"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -8586,24 +8586,24 @@ Untuk menghapus cache metadata secara manual, tekan Folder -&gt; Lihat Folder ro
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1474"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Tidak bisa menghapus Instansi yang sedang berjalan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>Instansi yang dipilih sedang berjalan dan tidak bisa dihapus. Tolong hentikan instansi sebelum mencoba menghapusnya.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1488"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> dan pintasan terdaftar %n mereka</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1488"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -8614,7 +8614,7 @@ Ini mungkin permanen dan akan sepenuhnya menghapus instansi ini.
 Apakah Anda yakin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1500"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>Deleting</source>
         <translation>Menghapus</translation>
     </message>
@@ -8631,48 +8631,48 @@ Apakah Anda yakin?</translation>
         <translation type="vanished">Tidak didukung oleh platform Anda!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1700"/>
         <source>Rename Instance</source>
         <translation>Ubah Nama Instansi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1712"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Folder instansi Anda memiliki &apos;!&apos; dan ini diketahui menyebabkan masalah Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1715"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Anda sekarang memiliki dua opsi: &lt;br/&gt; - ganti folder instansi dalam setelan &lt;br/&gt; - pindahkan instalasi %1 ke folder yang berbeda</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1721"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Ini adalah masalah: &lt;br/&gt; - Peluncur akan mungkin terhapus tanpa peringatan oleh sistem operasi &lt;br/&gt; - tutup peluncur sekarang dan ekstraksikan ke dalam lokasi yang sebenarnya, bukan folder sementara</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1729"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Terdapat &apos;Rar$&apos; di folder Instansi Anda - yang berarti Anda belum mengekstraksi arsip peluncur!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Folder instansi Anda berada dalam folder sementara : &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1747"/>
         <source>Total playtime: %1</source>
         <translation>Waktu main total: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="854"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1047"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1062"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1099"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1405"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1045"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1060"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1097"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1403"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
@@ -10681,27 +10681,27 @@ Mohon perbarui %1!</translation>
         <translation>Mempersiapkan sumber daya untuk Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Mengurai respons API dari Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
         <source>Not installed</source>
         <translation>Tidak terinstal</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Unknown</source>
         <translation>Tidak diketahui</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Tidak ada versi berlaku yang ditemukan untuk sumber daya. Mungkin tidak tersedia untuk versi permainan / pemuat mod saat ini.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="226"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Tidak ada versi berlaku yang ditemukan untuk sumber daya. Mungkin tidak tersedia untuk versi permainan saat ini.</translation>
     </message>
@@ -12244,34 +12244,34 @@ Pilihlah nama Anda dengan hati-hati:</translation>
         <translation>Nama terlalu pendek - harus antara 3 dan 16 karakter.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="183"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="184"/>
         <source>Minecraft profile with name %1 already exists.</source>
         <translation>Profil Minecraft dengan nama %1 sudah ada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="185"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="186"/>
         <source>The name %1 is not allowed.</source>
         <translation>Nama %1 tidak diperbolehkan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="188"/>
         <source>Unhandled profile name status: %1</source>
         <translation>Status nama profil tidak tertangani: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="191"/>
         <source>Failed to check name availability.</source>
         <translation>Gagal untuk memeriksa ketersediaan nama.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="270"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
         <translation>Kesalahan Jaringan: %1
 Status HTTP: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="280"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
         <translation>Server merespon dengan kesalahan berikut:</translation>
     </message>
@@ -13001,59 +13001,59 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
         <translation>tidak diketahui</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <source>Sort by Featured</source>
         <translation>Berdasarkan Difiturkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Popularity</source>
         <translation>Berdasarkan Popularitas</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
         <source>Sort by Last Updated</source>
         <translation>Urutkan Berdasarkan Terakhir Diperbarui</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <source>Sort by Name</source>
         <translation>Urutkan Berdasarkan Nama</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <source>Sort by Author</source>
         <translation>Urutkan Berdasarkan Pembuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Downloads</source>
         <translation>Berdasarkan Unduhan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
         <source>Sort by Category</source>
         <translation>Urutkan berdasarkan Kategori</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="172"/>
         <source>Sort by Game Version</source>
         <translation>Berdasarkan Versi Permainan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Relevance</source>
         <translation>Berdasarkan Relevansi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Follows</source>
         <translation>Berdasarkan Jumlah Pengikut</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Newest</source>
         <translation>Berdasarkan Terbaru</translation>
     </message>
@@ -13853,7 +13853,7 @@ Pencipta mungkin memblokir peluncur pihak ketiga.</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="550"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="549"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13862,7 +13862,7 @@ Peringatan: Sumber daya ini secara simbolis ditaukan dari tempat lain. Menyuntin
 Jalur kanonis: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="556"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="555"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -13894,50 +13894,50 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
         <translation>Penyedia</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="268"/>
         <source>Confirm toggle</source>
         <translation>Konfirmasi toggle</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Mengaktifkan/menonaktifkan sumber daya ini ketika permainan masih berjalan dapat menyebabkan permainan berhenti mendadak.
 Apakah Anda yakin untuk melakukan hal ini?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="613"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="612"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Apakah sumber daya diaktifkan?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="615"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="614"/>
         <source>The name of the resource.</source>
         <translation>Nama dari sumber daya.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="617"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="616"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>Tanggal dan waktu sumber daya ini terakhir diubah (atau ditambahkan).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="619"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="618"/>
         <source>The source provider of the resource.</source>
         <translation>Penyedia sumber dari sumber daya.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="621"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="620"/>
         <source>The size of the resource.</source>
         <translation>Ukuran dari sumber daya.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="712"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="711"/>
         <source>Override Columns Visibility</source>
         <translation>Tindih Visibilitas Kolom</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="725"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="724"/>
         <source>Show / Hide Columns</source>
         <translation>Tampilkan / Sembunyikan kolum</translation>
     </message>
@@ -15205,49 +15205,49 @@ Apakah Anda yakin?</translation>
         <translation>Unduh skin pengguna</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="490"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="487"/>
         <source>failed to get user UUID</source>
         <translation>gagal mendapatkan UUID pengguna</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="497"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="494"/>
         <source>failed to get user profile</source>
         <translation>gagal mendapatkan profil pengguna</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="501"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="498"/>
         <source>failed to download skin</source>
         <translation>gagal mengunduh skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="511"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="525"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="508"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"/>
         <source>failed to parse get user UUID response</source>
         <translation>gagal menguraikan respons get user UUID</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="520"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="517"/>
         <source>user id is empty</source>
         <translation>id pengguna kosong</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="534"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="531"/>
         <source>failed to parse get user profile response</source>
         <translation>gagal menguraikan respons get user profile</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="548"/>
         <source>the skin is invalid</source>
         <translation>skin tidak berlaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="553"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="550"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
         <translation>Nama pengguna tidak ditemukan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="554"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>Tidak dapat menemukan skin untuk &apos;%1&apos;
@@ -15459,35 +15459,35 @@ Apakah Anda yakin?</translation>
         <translation type="vanished">Mengunduh modpack:</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="87"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="110"/>
         <source>Downloading modpack</source>
         <translation>Mengunduh modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Tidak dapat memahami manifest paket:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
         <translation>Mengekstrak Modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="182"/>
         <source>Failed to extract modpack</source>
         <translation>Gagal mengekstrak modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="203"/>
         <source>Could not fix permissions for %1</source>
         <translation>Tidak dapat memperbaiki perizinan untuk %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="218"/>
         <source>Instance import has been aborted.</source>
         <translation>Proses impor instansi telah dibatalkan.</translation>
     </message>
@@ -15563,13 +15563,13 @@ inheritsFrom hilang</translation>
         <translation type="vanished">Telusuri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="218"/>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="274"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="239"/>
         <source> by </source>
         <translation> oleh </translation>
     </message>

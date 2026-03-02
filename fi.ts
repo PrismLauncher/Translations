@@ -195,64 +195,64 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Ei pystytty käsittelemään paketin manifest-tiedostoa:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="341"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="346"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="151"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="141"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="146"/>
         <source>Unsupported installation mode</source>
         <translation>Tukematon asennustila</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="182"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
         <translation>Poistetaan olemassa olevia tiedostoja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="329"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="334"/>
         <source>Unknown mod type: %1</source>
         <translation>Tuntematon modityyppi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="372"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Versiota %1 lataajalle ei löytynyt</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="385"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
         <translation>Lataajan versiota ei ole asetettu modipaketille!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="515"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="520"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>Tuntematon tai ei tuettu lataustyyppi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Downloading configs...</source>
         <translation>Ladataan konfiguraatioita...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="635"/>
         <source>Config download</source>
         <translation>Konfiguraatioiden lataus</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="671"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="676"/>
         <source>Extracting configs...</source>
         <translation>Puretaan konfiguraatioita...</translation>
     </message>
@@ -261,17 +261,17 @@
         <translation type="vanished">Paketin konfiguraatioiden %1 avaus epäonnistui!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="695"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="700"/>
         <source>Selecting optional mods...</source>
         <translation>Valitaan valinnaisia modeja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
         <source>Downloading mods...</source>
         <translation>Ladataan modeja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
         <source>Mod download</source>
         <translation>Modin lataus</translation>
     </message>
@@ -280,53 +280,53 @@
         <translation type="vanished">Lataustyyppiä ei tueta: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="732"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="862"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="737"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="867"/>
         <source>Unknown download type: %1</source>
         <translation>Tuntematon lataustyyppi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="812"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="817"/>
         <source>Blocked mods found</source>
         <translation>Estettyjä modeja löydetty</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="813"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>Seuraavat tiedostot eivät ole ladattavissa kolmannen osapuolen käynnistimissä.&lt;br/&gt;Sinun täytyy ladata tiedostot manuaalisesti ja lisätä ne pelipakettiin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="869"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>%1 out of %2 complete</source>
         <translation>%1/%2 valmiina</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="904"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="909"/>
         <source>Failed to extract mods...</source>
         <translation>Modien purku epäonnistui...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="914"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="919"/>
         <source>Extracting mods...</source>
         <translation>Puretaan modeja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="986"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Installing modpack</source>
         <translation>Asennetaan modipakettia</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Failed to create libraries component</source>
         <translation>Kirjastokomponenttien luonti epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1024"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Unknown loader type: </source>
         <translation>Tuntematon lataajatyyppi: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1043"/>
         <source>Failed to create pack component</source>
         <translation>Pakettikomponentin luonti epäonnistui</translation>
     </message>
@@ -1165,17 +1165,17 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
         <translation>Tyhjennä Kaikki</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Select a share code</source>
         <translation>Valitse jakamiskoodi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Share code:</source>
         <translation>Jakamiskoodi:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="357"/>
         <source>No share code specified!</source>
         <translation>Jakamiskoodia ei ole määritelty!</translation>
     </message>
@@ -1183,12 +1183,12 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
 <context>
     <name>AtlOptionalModListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
         <source>Are you sure that you want to enable this mod?</source>
         <translation>Oletko varma, että haluat ottaa tämän modin käyttöön?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="250"/>
         <source>Warning</source>
         <translation>Varoitus</translation>
     </message>
@@ -2462,14 +2462,14 @@ Oletko varma?</translation>
         <translation>Pyydetään metatietoja %1:ltä &apos;%2:lle&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="331"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>Jäsennetään Modrinth:in API-vastausta &apos;%1&apos;:lle...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="390"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="458"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Jäsennetään CurseForge:n API-vastausta &apos;%1&apos;:lle...</translation>
     </message>
@@ -3375,54 +3375,54 @@ Yritä uudelleen.</translation>
         <translation type="unfinished">Pakettiversiota %1 ei löydy</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>paketti manifestia ei voitu tulkita
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
         <translation>Ratkaistaan modeja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
         <translation>Virheellinen manifesti: Tiedoston %1 Lataamiseksi ei löydy tietoa!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
         <translation>Estettyjä tiedostoja löytyi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>Seuraavia tiedostoja ei voida ladata kolmannen osapuolen käynnistysohjelmasta.&lt;br/&gt;Sinun pitää manuaalisesti ladata ja lisätä ne instanssiin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
         <translation>Luodaan uutta instanssia...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
         <translation type="unfinished">Ladataan modeja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
         <translation type="unfinished">Modin lataus</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="361"/>
         <source>Copying Blocked Mods...</source>
         <translation type="unfinished">Kopioidaan estettyjä modeja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation type="unfinished">Kopioidaan estettyjä modeja (%1/%2 valmiina)</translation>
     </message>
@@ -3535,37 +3535,37 @@ Yritä uudelleen.</translation>
         <translation type="vanished">Odotetaan CurseForge:n API-vastausta &apos;%1&apos;:lle...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="93"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Jäsennetään CurseForge:n API-vastausta &apos;%1&apos;:lle...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="100"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="99"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Tätä resurssia varten ei löytynyt sopivaa versiota. Sitä ei luultavasti ole saatavilla nykyiselle peliversiolle / modilataajalle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="103"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="102"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Tätä resurssia varten ei löytynyt sopivaa versiota. Sitä ei luultavasti ole saatavilla nykyiselle peliversiolle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="180"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="179"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Jäsennetään CurseForgen API-vastausta &apos;%1&apos;:lle...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="184"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="183"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>Resurssilla on uusi päivitys saatavilla, mutta se ei ole ladattavissa CurseForge:sta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="118"/>
         <source>Not installed</source>
         <translation>Ei asennettu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Unknown</source>
         <translation>Tuntematon</translation>
     </message>
@@ -3587,7 +3587,7 @@ Yritä uudelleen.</translation>
     <name>FlameCreationTask</name>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="113"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="334"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Ei pystytty käsittelemään paketin manifest-tiedostoa:
@@ -3603,54 +3603,54 @@ Yritä uudelleen.</translation>
         <translation type="obsolete">Peruuta</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="248"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="247"/>
         <source>No index file.</source>
         <translation>Ei indeksitiedostoa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="248"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Emme löytäneet sopivaa indeksitiedostoa vanhemmalle versiolle. Tämä saattaa aiheuttaa joidenkin tiedostojen päällekkäisyyttä. Haluatko jatkaa?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="272"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="306"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="305"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Versiota ei löytynyt %1 modilataajalle</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="310"/>
         <source>No loader version set for modpack!</source>
         <translation>Modilataajan versiota ei ole asetettu modipaketille!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="346"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Ei voitu uudelleennimetä ohituskansiota:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="352"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="351"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Määritelty ohituskansio (%1) puuttuu. Ehkä modipakettia käytettiin jo aiemmin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="380"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Tuntematon modilataaja manifest-tiedostossa: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="395"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Salaperäiset pistejäljet poistettu Minecraft-versiosta pakettia tuodessa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="429"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="428"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>Modipaketin suositeltu muisti ylittää 90 % järjestelmän RAM-muistista—vähentää sitä %1 MiB:stä %2 MiB:iin!</translation>
     </message>
@@ -3659,40 +3659,40 @@ Yritä uudelleen.</translation>
         <translation type="obsolete">Ei voitu kartoittaa suositeltua Forgen versiota Minecraftille %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="468"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Ei voitu selvittää moditunnisteita:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="548"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"/>
         <source>Blocked mods found</source>
         <translation>Estettyjä modeja löydetty</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="549"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="548"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Seuraavat tiedostot eivät ole ladattavissa kolmannen osapuolen käynnistimissä.&lt;br/&gt; Sinun täytyy ladata tiedostot manuaalisesti ja lisätä ne pelipakettiin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="571"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="570"/>
         <source>Mod Download Flame</source>
         <translation>&quot;Flame&quot;-modilataus</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="602"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="601"/>
         <source>%1 out of %2 complete</source>
         <translation>%1/%2 valmiina</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="615"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="614"/>
         <source>Copying Blocked Mods...</source>
         <translation>Kopioidaan estettyjä modeja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="629"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Kopioidaan estettyjä modeja (%1/%2 valmiina)</translation>
     </message>
@@ -3713,7 +3713,7 @@ Yritä uudelleen.</translation>
         <translation type="obsolete">Tunnistamaton/käsittelemätön PackageType-pakettityyppi kohteelle: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="606"/>
         <source>Downloading mods...</source>
         <translation>Ladataan modeja...</translation>
     </message>
@@ -4055,7 +4055,7 @@ Yritä uudelleen.</translation>
         <translation>Hanki riippuvuudet</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Tapahtui verkkovirhe. Ei voitu ladata projektin riippuvuuksia:%1</translation>
@@ -4208,40 +4208,40 @@ Yritä uudelleen.</translation>
         <translation>Tuo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"/>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>Error</source>
         <translation>Virhe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modipaketin %1 lataaminen on estetty kolmansille osapuolille! Lataa se manuaalisesti.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>This url isn&apos;t a valid modpack !</source>
         <translation>Tämä url ei ole kelvollinen modipaketti!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
         <source>Abort</source>
         <translation>Keskeytä</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="209"/>
         <source>Supported files</source>
         <translation>Tuetut tiedostot</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="212"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
         <translation>Modrinth-paketti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Choose modpack</source>
         <translation>Valitse modipaketti</translation>
     </message>
@@ -6764,17 +6764,17 @@ Yritä uudelleen.</translation>
 <context>
     <name>LegacyFTB::PackFetchTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
         <source>Public Packs</source>
         <translation>Julkiset paketit</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
         <source>Third Party Packs</source>
         <translation>Kolmannen osapuolen paketit</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="127"/>
         <source>Failed to download some pack lists: %1</source>
         <translation>Joidenkin pakettilistojen lataaminen epäonnistui: %1</translation>
     </message>
@@ -7946,7 +7946,7 @@ Syy:
         <translation>Ctrl+G</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1487"/>
         <source>Confirm Deletion</source>
         <translation>Vahvista poisto</translation>
     </message>
@@ -8094,7 +8094,7 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1696"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1694"/>
         <source>No instance selected</source>
         <translation>Pelipakettia ei ole valittu</translation>
     </message>
@@ -8186,33 +8186,33 @@ Oletko varma?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1104"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1102"/>
         <source>Abort</source>
         <translation>Keskeytä</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="987"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modipaketin, modin tai resurssin %1 lataus on estetty kolmansille osapuolille! Lataa se manuaalisesti.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1048"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1046"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1063"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1061"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1069"/>
         <source>Install modpack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -8221,62 +8221,62 @@ URL:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1093"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
         <source>Modpack download</source>
         <translation>Modipaketin lataus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1126"/>
         <source>No instance!</source>
         <translation>Ei pelipakettia!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1129"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Ei pelipakettia saatavilla johon resurssi lisättäisiin.
 Luo uusi pelipaketti ennen kuin yrität asentaa tätä resurssia uudelleen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1243"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
         <source>Group name</source>
         <translation>Ryhmän nimi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1243"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
         <source>Enter a new group name.</source>
         <translation>Syötä uusi nimi ryhmälle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
         <source>Delete group</source>
         <translation>Poista ryhmä</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1283"/>
         <source>Failed to undo trashing instance</source>
         <translation>Instanssin poiston peruutus epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Joitain instansseja ja pikakomentoja ei voitu palauttaa.
 Tarkista roskakorisi palauttaaksesi ne käsin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1382"/>
         <source>Instance not editable</source>
         <translation>Pelipaketti ei ole muokattavissa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1385"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Tämä pelipaketti ei ole muokattavissa. Se voi olla rikki, viallinen tai liian vanha. Lisätietoja lokeissa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1406"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1404"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -8285,22 +8285,22 @@ Tyhjentääksesi metadata-välimuistin manuaalisesti, valitse Kansiot -&gt; Näy
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1428"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1426"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Lisättiin %1 PATH:iin onnistuneesti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1429"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 lisättiin onnistuneesti PATH:iin. Voit nyt käynnistää sen suorittamalla `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1432"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1430"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Ei voitu lisätä %1 PATH:iin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1433"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1431"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Virhe lisättäessä %1 PATH:iin</translation>
     </message>
@@ -8379,42 +8379,42 @@ Haluatko jatkaa?</numerusform>
         <translation>&amp;Nimeä ryhmä uudelleen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Haluatko varmasti poistaa ryhmän &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
         <source>Rename group</source>
         <translation>Nimeä ryhmä uudelleen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Cannot rename group</source>
         <translation>Ryhmän uudelleennimeäminen epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Cannot set empty name.</source>
         <translation>Ei voi asettaa tyhjää nimeä.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Group already exists. :/</source>
         <translation>Ryhmä on jo olemassa. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1474"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Ei voida poistaa käynnissä olevaa peliä</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>Valittu peli on käynnissä eikä ole poistettavissa. Sulje peli ennen kuin yrität poistaa sen.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1488"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> ja sen % rekisteröity oikotie</numerusform>
@@ -8422,7 +8422,7 @@ Haluatko jatkaa?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1488"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -8433,7 +8433,7 @@ Tämä toiminto voi olla pysyvä ja poistaa instanssisi täysin.
 Oletko varma?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1500"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>Deleting</source>
         <translation>Poistetaan</translation>
     </message>
@@ -8446,48 +8446,48 @@ Oletko varma?</translation>
         <translation type="vanished">Ei tuettu järjestelmälläsi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1700"/>
         <source>Rename Instance</source>
         <translation>Nimeä pelipaketti uudelleen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1712"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Pelipaketin kansion polku sisältää &apos;!&apos; ja tämä on tunnettu aiheuttamaan ongelmia Javan kanssa!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1715"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Sinulla on nyt kaksi vaihtoehtoa: &lt;br/&gt; - vaihda pelipakettien kansiota asetuksissa &lt;br/&gt; - siirrä tämä %1:in asennus eri kansioon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1721"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Tämä on ongelma: &lt;br/&gt; - Käyttöjärjestelmä todennäköisesti poistaa käynnistimen ilman varoitusta &lt;br/&gt; - Sulje käynnistin nyt ja pura se oikeaan sijaintiin, eikä väliaikaistiedostojen kansioon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1729"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Pelipakettikansio sisältää &apos;Rar$&apos;:n - meinaten sitä, että et ole purkanut käynnistimen arkistoa!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Pelipakettikansiosi on väliaikaistiedostojen kansiossa: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1747"/>
         <source>Total playtime: %1</source>
         <translation>Kokonaispeliaika: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="854"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1047"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1062"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1099"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1405"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1045"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1060"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1097"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1403"/>
         <source>Error</source>
         <translation>Virhe</translation>
     </message>
@@ -10453,27 +10453,27 @@ Päivitä %1!</translation>
         <translation>Valmistellaan resursseja Modrinth:ille...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Jäsennetään Modrinth:in API-vastausta...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
         <source>Not installed</source>
         <translation>Ei asennettu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Unknown</source>
         <translation>Tuntematon</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Tätä resurssia varten ei löytynyt sopivaa versiota. Sitä ei luultavasti ole saatavilla nykyiselle peliversiolle / modilataajalle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="226"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Tätä resurssia varten ei löytynyt sopivaa versiota. Sitä ei luultavasti ole saatavilla nykyiselle peliversiolle.</translation>
     </message>
@@ -11980,34 +11980,34 @@ Valitse käyttäjänimi huolellisesti:</translation>
         <translation>Nimi on liian lyhyt - sen on oltava 3-16 merkkiä pitkä.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="183"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="184"/>
         <source>Minecraft profile with name %1 already exists.</source>
         <translation>Minecraft-profiili nimellä %1 on jo olemassa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="185"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="186"/>
         <source>The name %1 is not allowed.</source>
         <translation>Nimi %1 ei ole sallittu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="188"/>
         <source>Unhandled profile name status: %1</source>
         <translation>Käsittelemätön profiilin nimen tilanne: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="191"/>
         <source>Failed to check name availability.</source>
         <translation>Ei voitu tarkistaa nimen saatavuutta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="270"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
         <translation>Verkkovirhe: %1
 HTTP-tilakoodi: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="280"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
         <translation>Palvelin vastasi seuraavalla virheilmoituksella:</translation>
     </message>
@@ -12722,59 +12722,59 @@ HUOM: Vahvista, että olet luonut varmuuskopion tärkeistä pelipakettitiedoista
         <translation>tuntematon</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <source>Sort by Featured</source>
         <translation>Lajittele esittelyssä olevien mukaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Popularity</source>
         <translation>Lajittele suosion mukaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
         <source>Sort by Last Updated</source>
         <translation>Lajittele viimeisimmän päivitysajan mukaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <source>Sort by Name</source>
         <translation>Lajittele nimen mukaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <source>Sort by Author</source>
         <translation>Lajittele tekijän mukaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Downloads</source>
         <translation>Lajittele latausten mukaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
         <source>Sort by Category</source>
         <translation>Lajittele kategorian mukaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="172"/>
         <source>Sort by Game Version</source>
         <translation>Lajittele peliversion mukaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Relevance</source>
         <translation>Lajittele osuvuuden mukaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Follows</source>
         <translation>Lajittele seuraajamäärän mukaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Newest</source>
         <translation>Lajittele uutuuden mukaan</translation>
     </message>
@@ -13565,7 +13565,7 @@ Tekijä on todennäköisesti estänyt kolmansien osapuolten käynnistysohjelmat.
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="550"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="549"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13574,7 +13574,7 @@ Varoitus: Tämä resurssi on symbolisesti linkitetty muualta. Sen muokkaaminen v
 Kanoninen polku: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="556"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="555"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -13606,50 +13606,50 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <translation>Tarjoaja</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="268"/>
         <source>Confirm toggle</source>
         <translation>Vahvista päälle/pois kytkeminen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Jos otat käyttöön/poistat käytöstä tämän resurssin pelin ollessa käynnissä, se voi kaataa pelin.
 Oletko varma että haluat tehdä näin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="613"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="612"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Onko resurssi käytössä?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="615"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="614"/>
         <source>The name of the resource.</source>
         <translation>Resurssin nimi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="617"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="616"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>Päivämäärä ja aika, jolloin tätä resurssia viimeksi muokattiin (tai lisättiin).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="619"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="618"/>
         <source>The source provider of the resource.</source>
         <translation>Resurssin lähdetarjoaja.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="621"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="620"/>
         <source>The size of the resource.</source>
         <translation>Resurssin koko.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="712"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="711"/>
         <source>Override Columns Visibility</source>
         <translation>Ylikirjoita Sarakkeiden Näkyvyys</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="725"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="724"/>
         <source>Show / Hide Columns</source>
         <translation>Näytä / Piilota sarakkeet</translation>
     </message>
@@ -14917,49 +14917,49 @@ Oletko varma?</translation>
         <translation>Lataa käyttäjän skini</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="490"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="487"/>
         <source>failed to get user UUID</source>
         <translation>käyttäjän UUID:n hankkiminen epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="497"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="494"/>
         <source>failed to get user profile</source>
         <translation>käyttäjän profiilin hankkiminen epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="501"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="498"/>
         <source>failed to download skin</source>
         <translation>skinin lataaminen epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="511"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="525"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="508"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"/>
         <source>failed to parse get user UUID response</source>
         <translation>käyttäjän UUID-vastauksen jäsentäminen epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="520"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="517"/>
         <source>user id is empty</source>
         <translation>käyttäjätunnus on tyhjä</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="534"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="531"/>
         <source>failed to parse get user profile response</source>
         <translation>käyttäjän profiilipyynnön vastauksen jäsentäminen epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="548"/>
         <source>the skin is invalid</source>
         <translation>virheellinen skini</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="553"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="550"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
         <translation>Käyttäjänimeä ei löydy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="554"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>Ei voitu löytää skiniä &apos;%1&apos;:lle
@@ -15148,35 +15148,35 @@ Oletko varma?</translation>
         <translation type="vanished">Ladataan modipakettia:</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="87"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="110"/>
         <source>Downloading modpack</source>
         <translation>Ladataan modipakettia</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Ei pystytty käsittelemään paketin manifest-tiedostoa:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
         <translation>Puretaan modipakettia</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="182"/>
         <source>Failed to extract modpack</source>
         <translation>Modipaketin purku epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="203"/>
         <source>Could not fix permissions for %1</source>
         <translation>Ei voitu korjata oikeuksia kohteelle %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="218"/>
         <source>Instance import has been aborted.</source>
         <translation>Pelipaketin tuonti keskeytetty.</translation>
     </message>
@@ -15252,13 +15252,13 @@ inheritsFrom puuttuu</translation>
         <translation type="vanished">Hae</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="218"/>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="274"/>
         <source>Error</source>
         <translation>Virhe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="239"/>
         <source> by </source>
         <translation> tehnyt </translation>
     </message>

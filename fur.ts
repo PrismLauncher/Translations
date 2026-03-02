@@ -190,64 +190,64 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Impussibil interpretâ il manifest dal pachet:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="341"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="346"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Impussibil otignî la tabele dai metadâts locâi par %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="151"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>Impussibil otignî la tabele dai metadâts locâi par &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="141"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="146"/>
         <source>Unsupported installation mode</source>
         <translation>Modalitât di instalazion no supuartade</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="182"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
         <translation>Daûr a eliminâ i files esistents...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="329"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="334"/>
         <source>Unknown mod type: %1</source>
         <translation>Gjenar di mod no cognossût: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="372"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Impussibil cjatâ une version pal cjariadôr %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="385"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
         <translation>Nissune version di cjariadôr configurade pal modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="515"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="520"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>Gjenar di contignût discjariât no cognossût o no supuartât: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Downloading configs...</source>
         <translation>Daûr a discjariâ lis configurazions...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="635"/>
         <source>Config download</source>
         <translation>Discjariament des configurazions</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="671"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="676"/>
         <source>Extracting configs...</source>
         <translation>Daûr a tirâ fûr lis configurazions...</translation>
     </message>
@@ -256,68 +256,68 @@
         <translation type="vanished">Impussibil vierzi lis configurazions dal pachet %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="695"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="700"/>
         <source>Selecting optional mods...</source>
         <translation>Daûr a selezionâ lis mods facoltativis...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
         <source>Downloading mods...</source>
         <translation>Daûr a discjariâ lis mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
         <source>Mod download</source>
         <translation>Discjariament des mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="732"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="862"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="737"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="867"/>
         <source>Unknown download type: %1</source>
         <translation>Gjenar di discjariament no cognossût: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="812"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="817"/>
         <source>Blocked mods found</source>
         <translation>Cjatadis mods blocadis</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="813"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>Chescj files no son disponibii di discjariâ midiant inviadôrs di tierçs.&lt;br/&gt;Tu varâs di discjariâju e zontâju a man ae istance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="869"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 di %2 completâts</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="904"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="909"/>
         <source>Failed to extract mods...</source>
         <translation>Impussibil estrai lis mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="914"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="919"/>
         <source>Extracting mods...</source>
         <translation>Daûr a tirâ fûr lis mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="986"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Installing modpack</source>
         <translation>Daûr a instalâ il modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Failed to create libraries component</source>
         <translation>Impussibil creâ il component des librariis</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1024"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Unknown loader type: </source>
         <translation>Gjenar di cjariadôr no cognossût: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1043"/>
         <source>Failed to create pack component</source>
         <translation>Impussibil creâ il component dal pachet</translation>
     </message>
@@ -985,17 +985,17 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
         <translation>Nete dut</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Select a share code</source>
         <translation>Selezione un codiç di condivision</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Share code:</source>
         <translation>Codiç di condivision:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="357"/>
         <source>No share code specified!</source>
         <translation>Nissun codiç di condivision specificât!</translation>
     </message>
@@ -1003,12 +1003,12 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
 <context>
     <name>AtlOptionalModListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
         <source>Are you sure that you want to enable this mod?</source>
         <translation>Desideristu pardabon ativâ cheste mod?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="250"/>
         <source>Warning</source>
         <translation>Avîs</translation>
     </message>
@@ -2205,14 +2205,14 @@ Are you sure?</source>
         <translation>Daûr a domandâ lis informazions dai metadâts di %1 par &apos;%2&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="331"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>Daûr a analizâ la rispueste API di Modrinth par &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="390"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="458"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Daûr a analizâ la rispueste API di CurseForge par &apos;%1&apos;...</translation>
     </message>
@@ -3085,54 +3085,54 @@ Par plasê, prove di gnûf.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
         <translation type="unfinished">Impussibil interpretâ il manifest dal pachet:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="136"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="209"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="210"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation type="unfinished">Chescj files no son disponibii di discjariâ midiant inviadôrs di tierçs.&lt;br/&gt;Tu varâs di discjariâju e zontâju a man ae istance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="232"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="294"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
         <translation type="unfinished">Daûr a discjariâ lis mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
         <translation type="unfinished">Discjariament des mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="358"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="361"/>
         <source>Copying Blocked Mods...</source>
         <translation type="unfinished">Daûr a copiâ lis mods blocadis...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="371"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation type="unfinished">Daûr a copiâ lis mods blocadis (%1 su %2 a son prontis)</translation>
     </message>
@@ -3233,37 +3233,37 @@ Par plasê, prove di gnûf.</translation>
         <translation type="vanished">Daûr a otignî la rispueste API di CurseForge par &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="93"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Daûr a analizâ la rispueste de API di CurseForge par &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="100"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="99"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Nissune version valide cjatade par cheste risorse. Al è probabile che no sedi disponibile pe version corinte dal zûc / dal cjariadôr di mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="103"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="102"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Nissune version valide cjatade par cheste risorse. Al è probabil che no sedi disponibile pe version corinte dal zûc.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="180"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="179"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Daûr a analizâ la rispueste API di CurseForge par &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="184"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="183"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>La risorse e à un gnûf inzornament disponibil, ma nol è pussibil discjariâlu doprant CurseForge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="118"/>
         <source>Not installed</source>
         <translation>No instalât</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Unknown</source>
         <translation>No cognossût</translation>
     </message>
@@ -3284,7 +3284,7 @@ Par plasê, prove di gnûf.</translation>
     <name>FlameCreationTask</name>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="113"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="334"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Impussibil interpretâ il manifest dal pachet:
@@ -3296,97 +3296,97 @@ Par plasê, prove di gnûf.</translation>
         <translation> (version %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="248"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="247"/>
         <source>No index file.</source>
         <translation>Nissun file tabele.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="248"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>No sin rivâts a cjatâ un file tabele adat pe version vecje. Chest al podarès causâ la duplicazion di cualchi file. Desideristu continuâ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="272"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Impussibil otignî la tabele dai metadâts locâi par %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="306"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="305"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Impussibil cjatâ une version pal cjariadôr %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="310"/>
         <source>No loader version set for modpack!</source>
         <translation>Nissune version di cjariadôr configurade pal modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="346"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Impussibil cambiâ non ae cartele des sostituzions:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="352"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="351"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>La cartele des sostituzions specificade (%1) no esist. Forsit il modpack al è za stât doprât prime?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="380"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Cjariadôr di mods no cognossût tal manifest: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="395"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Misteriôs ponts finâi gjavâts de version di Minecraft intant de importazion dal pachet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="429"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="428"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="468"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Impussibil risolvi i IDs des mods:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="548"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"/>
         <source>Blocked mods found</source>
         <translation>Cjatadis mods blocadis</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="549"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="548"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Chescj files no son disponibii di discjariâ midiant inviadôrs di tierçs.&lt;br/&gt;Tu varâs di discjariâju e zontâju a man ae istance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="571"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="570"/>
         <source>Mod Download Flame</source>
         <translation>Discjame Mod Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="602"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="601"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 di %2 completâts</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="615"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="614"/>
         <source>Copying Blocked Mods...</source>
         <translation>Daûr a copiâ lis mods blocadis...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="629"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Daûr a copiâ lis mods blocadis (%1 su %2 a son prontis)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="606"/>
         <source>Downloading mods...</source>
         <translation>Daûr a discjariâ lis mods...</translation>
     </message>
@@ -3663,7 +3663,7 @@ Par plasê, prove di gnûf.</translation>
         <translation>Otignî dipendencis</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Al è capitât un erôr di rêt. Nol è stât pussibil cjariâ lis dipendencis dal progjet: %1</translation>
@@ -3771,40 +3771,40 @@ Par plasê, prove di gnûf.</translation>
         <translation>File locâl o colegament a un discjariament diret:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"/>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>Error</source>
         <translation>Erôr</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Il modpack %1 al è blocât di tierçs! Par plasê discjamilu a man.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>This url isn&apos;t a valid modpack !</source>
         <translation>Chest url nol è un modpack valit!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="209"/>
         <source>Supported files</source>
         <translation>Files supuartâts</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="212"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
         <translation>Pachet Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Choose modpack</source>
         <translation>Sielç modpack</translation>
     </message>
@@ -6146,17 +6146,17 @@ Par plasê, prove di gnûf.</translation>
 <context>
     <name>LegacyFTB::PackFetchTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
         <source>Public Packs</source>
         <translation>Pachets publics</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
         <source>Third Party Packs</source>
         <translation>Pachets di tierçs</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="127"/>
         <source>Failed to download some pack lists: %1</source>
         <translation>Impussibil discjariâ cualchi liste di pachets: %1</translation>
     </message>
@@ -7194,7 +7194,7 @@ Motîf:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1696"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1694"/>
         <source>No instance selected</source>
         <translation>Nissune istance selezionade</translation>
     </message>
@@ -7237,12 +7237,12 @@ Motîf:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="854"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1047"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1062"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1099"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1405"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1045"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1060"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1097"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1403"/>
         <source>Error</source>
         <translation>Erôr</translation>
     </message>
@@ -7263,33 +7263,33 @@ Motîf:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1104"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1102"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="987"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Il modpack, la mod o la risorse %1 a son blocâts pai tierçs! Par plasê discjame a man.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1048"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1046"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1063"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1061"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1069"/>
         <source>Install modpack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -7298,61 +7298,61 @@ URL:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1093"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
         <source>Modpack download</source>
         <translation>Daûr a discjariâ il modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1126"/>
         <source>No instance!</source>
         <translation>Nissune istance!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1129"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Nissune istance disponibile dulà lâ a zontâ cheste risorse.
 Par plasê cree une gnove istance prime di tornâ a instalâ cheste risorse.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1243"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
         <source>Group name</source>
         <translation>Non dal grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1243"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
         <source>Enter a new group name.</source>
         <translation>Inserìs un gnûf non dal grup.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
         <source>Delete group</source>
         <translation>Elimine grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1283"/>
         <source>Failed to undo trashing instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1382"/>
         <source>Instance not editable</source>
         <translation>Istance che no si pues modificâ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1385"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Nol è pussibil modificâ cheste istance. Al è pussibil che e sedi ruvinade, no valide o masse vecje. Controle i regjistris pai detais.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1406"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1404"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -7361,37 +7361,37 @@ Par netâ la cache dai metadâts a man, frache Cartelis -&gt; Visualize cartele 
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1428"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1426"/>
         <source>Successfully added %1 to PATH</source>
         <translation>%1 zontât a PATH cun sucès</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1429"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 al è stât zontât cun sucès a PATH. Cumò tu puedis inviâlu cun `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1432"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1430"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Impussibil zontâ %1 a PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1433"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1431"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Al è capitâ un erôr intant che si cirive di zontâ %1 a PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1474"/>
         <source>Cannot Delete Running Instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1488"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <source> and its %n registered shortcut(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -7399,7 +7399,7 @@ Par netâ la cache dai metadâts a man, frache Cartelis -&gt; Visualize cartele 
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1487"/>
         <source>Confirm Deletion</source>
         <translation>Conferme eliminazion</translation>
     </message>
@@ -7492,32 +7492,32 @@ Desideristu continuâ?</numerusform>
         <translation>&amp;Cambie non al grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Eliminâ pardabon il grup &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
         <source>Rename group</source>
         <translation>Cambie non al grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Cannot rename group</source>
         <translation>Impussibil cambiâ non al grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Cannot set empty name.</source>
         <translation>Impussibil meti un non vueit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Group already exists. :/</source>
         <translation>Il grup al esist za. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1488"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -7525,7 +7525,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1500"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>Deleting</source>
         <translation>Daûr a eliminâ</translation>
     </message>
@@ -7538,37 +7538,37 @@ Are you sure?</source>
         <translation type="vanished">No supuartât te tô plateforme!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1700"/>
         <source>Rename Instance</source>
         <translation>Cambie non ae istance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1712"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>La cartele de istance e conten &apos;!&apos; e ducj a san che cun Java al cause problemis!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1715"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Cumò tu âs dôs opzions: &lt;br/&gt; - cambiâ la cartele de istance tes impostazions &lt;br/&gt; - spostâ cheste instalazion di %1 suntune altre cartele</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1721"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Chest al è un probleme: &lt;br/&gt; - Al è probabil che l&apos;inviadôr al vegni eliminât dal sisteme operatîf cence preavîs &lt;br/&gt; - siere cumò l&apos;inviadôr e tirilu fûr intune posizion reâl, no intune cartele temporanie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1729"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>La cartele de istance e conten &apos;Rar$&apos; - chest al significhe che no tu âs estrat l&apos;archivi dal inviadôr!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>La cartele de istance e je intune cartele temporanie: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1747"/>
         <source>Total playtime: %1</source>
         <translation>Timp di zûc totâl: %1</translation>
     </message>
@@ -9315,27 +9315,27 @@ Inzorne %1!</translation>
         <translation>Daûr a prontâ lis risorsis par Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Daûr a analizâ la rispueste de API di Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
         <source>Not installed</source>
         <translation>No instalât</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Unknown</source>
         <translation>No cognossût</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Nissune version valide cjatade par cheste risorse. Al è probabile che no sedi disponibile pe version corinte dal zûc / dal cjariadôr di mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="226"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Nissune version valide cjatade par cheste risorse. Al è probabil che no sedi disponibile pe version corinte dal zûc.</translation>
     </message>
@@ -10760,34 +10760,34 @@ Sielç cun cure il to non:</translation>
         <translation>Il non al è masse curt - al scugne vê tra 3 e 16 caratars.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="183"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="184"/>
         <source>Minecraft profile with name %1 already exists.</source>
         <translation>Un profîl Minecraft cun non %1 al esist za.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="185"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="186"/>
         <source>The name %1 is not allowed.</source>
         <translation>Il non %1 nol è consintût.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="188"/>
         <source>Unhandled profile name status: %1</source>
         <translation>Stât dal non dal profîl no gjestît: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="191"/>
         <source>Failed to check name availability.</source>
         <translation>Impussibil verificâ la disponibilitât dal non.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="270"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
         <translation>Erôr di rêt: %1
 Stât HTTP: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="280"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
         <translation>Il servidôr al à rispuindût cun chest erôr:</translation>
     </message>
@@ -11439,59 +11439,59 @@ NOTE: Verifiche di vê fat une copie di backup dai tiei dâts impuartants di ist
         <translation>no cognossût</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <source>Sort by Featured</source>
         <translation>Ordene par risalt</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Popularity</source>
         <translation>Ordene par popolaritât</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
         <source>Sort by Last Updated</source>
         <translation>Ordene par ultin inzornament</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <source>Sort by Name</source>
         <translation>Ordene par non</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <source>Sort by Author</source>
         <translation>Ordene par autôr</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Downloads</source>
         <translation>Ordene par voltis discjariât</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
         <source>Sort by Category</source>
         <translation>Ordene par categorie</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="172"/>
         <source>Sort by Game Version</source>
         <translation>Ordene par version di zûc</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Relevance</source>
         <translation>Ordene par pertinence</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Follows</source>
         <translation>Ordene par personis che a stan daûr</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Newest</source>
         <translation>Ordene par date di creazion</translation>
     </message>
@@ -12282,7 +12282,7 @@ Al è facil che l&apos;autôr al vedi blocât i inviadôrs di tierçs.</translat
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="550"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="549"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -12291,7 +12291,7 @@ Atenzion: cheste risorse e je colegade in mût simbolic di cualchi altre bande. 
 Percors canonic: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="556"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="555"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -12323,50 +12323,50 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
         <translation>Furnidôr</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="268"/>
         <source>Confirm toggle</source>
         <translation>Conferme comutazion</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Se tu ativis/disativis cheste risorse intant che il zûc al zire, tu podaressis fâ colassâ il zûc.
 Desideristu pardabon fâlu?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="613"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="612"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Ise ativade la risorse?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="615"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="614"/>
         <source>The name of the resource.</source>
         <translation>Il non de risorse.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="617"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="616"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>La date e la ore di cuant che cheste risorse e je stade modificade (o zontade).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="619"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="618"/>
         <source>The source provider of the resource.</source>
         <translation>Il furnidôr de risorse.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="621"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="620"/>
         <source>The size of the resource.</source>
         <translation>La dimension de risorse.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="712"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="711"/>
         <source>Override Columns Visibility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="725"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="724"/>
         <source>Show / Hide Columns</source>
         <translation>Mostre / Plate lis colonis</translation>
     </message>
@@ -13606,49 +13606,49 @@ Eliminâ pardabon?</translation>
         <translation>Discjame l&apos;aspiet dal utent</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="490"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="487"/>
         <source>failed to get user UUID</source>
         <translation>nol è stât pussibil otignî l&apos;UUID dal utent</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="497"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="494"/>
         <source>failed to get user profile</source>
         <translation>nol è stât pussibil otignî il profîl dal utent</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="501"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="498"/>
         <source>failed to download skin</source>
         <translation>nol è stât pussibil discjariâ l&apos;aspiet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="511"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="525"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="508"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"/>
         <source>failed to parse get user UUID response</source>
         <translation>nol è stât pussibil analizâ la rispueste di get user UUID</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="520"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="517"/>
         <source>user id is empty</source>
         <translation>l&apos;id dal utent al è vueit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="534"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="531"/>
         <source>failed to parse get user profile response</source>
         <translation>nol è stât pussibil analizâ la rispueste di get user profile</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="548"/>
         <source>the skin is invalid</source>
         <translation>l&apos;aspiet nol è valit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="553"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="550"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
         <translation>Non utent no cjatât</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="554"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>Impussibil cjatâ l&apos;aspiet par &apos;%1&apos;
@@ -13754,35 +13754,35 @@ Eliminâ pardabon?</translation>
         <translation>Daûr a risolvi i files dal modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="87"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="110"/>
         <source>Downloading modpack</source>
         <translation>Daûr a discjariâ il modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
         <source>Could not understand pack manifest:
 </source>
         <translation type="unfinished">Impussibil interpretâ il manifest dal pachet:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
         <translation type="unfinished">Daûr a tirâ fûr il modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="182"/>
         <source>Failed to extract modpack</source>
         <translation>Nol è stât pussibil tirâ fûr il modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="203"/>
         <source>Could not fix permissions for %1</source>
         <translation type="unfinished">Impussibil risolvi i permès par %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="218"/>
         <source>Instance import has been aborted.</source>
         <translation>La importazion de istance e je stade interote.</translation>
     </message>
@@ -13850,13 +13850,13 @@ al mancje inheritsFrom</translation>
         <translation type="unfinished">Cîr e filtre...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="218"/>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="274"/>
         <source>Error</source>
         <translation type="unfinished">Erôr</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="239"/>
         <source> by </source>
         <translation type="unfinished"> di </translation>
     </message>
