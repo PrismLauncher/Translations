@@ -782,7 +782,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Do you really want to delete this account?</source>
-        <translation>¿Está seguro de que desea borrar esta cuenta?</translation>
+        <translation>¿Estás seguro de que deseas borrar esta cuenta?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -1091,7 +1091,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/Application.cpp" line="1931"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Antiguos datos del %1 fue encontrada, pero ya existen datos para el %2. Lamentablemente deberás migrarla por tu cuenta. ¿Deseas ser recordado de la migración de tus datos pendientes la próxima vez que inicies %2?</translation>
+        <translation>Se encontraron antiguos datos de %1, pero ya existen datos para %2. Lamentablemente deberás migrarla por tu cuenta. ¿Deseas ser recordado de la migración de tus datos pendientes la próxima vez que inicies %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1935"/>
@@ -2445,7 +2445,7 @@ The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation>Actualizar los data packs mientras el juego está en ejecución puede provocar la duplicación de packs y fallos en el juego.
 Es posible que los archivos antiguos no se eliminen, ya que están en uso.
-¿Está seguro de que desea continuar?</translation>
+¿Estás seguro de que deseas continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
@@ -6940,7 +6940,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
         <source>Do you want to proceed anyway?</source>
-        <translation>¿Desea continuar de todos modos?</translation>
+        <translation>¿Deseas continuar de todos modos?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
@@ -8876,17 +8876,17 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1046"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enlace de importación invalido: falta el parámetro &quot;url&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1061"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Enlace de importación invalido: la URL debe ser http(s).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1069"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
@@ -10440,7 +10440,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="434"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation>¿Desea aplicar automáticamente estos cambios relacionados?
+        <translation>¿Deseas aplicar automáticamente estos cambios relacionados?
 Ignorarlos puede provocar errores en el juego.</translation>
     </message>
     <message>
@@ -13610,9 +13610,9 @@ Nombre nuevo: %2</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Una o más de tus instancias son de este mismo modpack%1. ¿Desea crear una instancia separada o actualizar la existente?
+        <translation>Una o más de tus instancias son de este mismo modpack%1. ¿Deseas crear una instancia separada o actualizar la existente?
 
-NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su instancia antes de actualizar, ya que los mundos pueden corromperse y algunas configuraciones pueden perderse (debido a anulaciones del pack).</translation>
+NOTA: Asegúrate de hacer una copia de seguridad de los datos importantes de tu instancia antes de actualizar, ya que los mundos pueden corromperse y algunas configuraciones pueden perderse (debido a anulaciones del pack).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
@@ -14270,7 +14270,7 @@ Mensaje de error: %3</translation>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
         <translation>Tiene %1 recursos seleccionados.
-Está seguro de que desea cerrar este cuadro de diálogo?</translation>
+¿Estás seguro de que deseas cerrar este cuadro de diálogo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="140"/>
