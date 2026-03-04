@@ -8860,12 +8860,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1061"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>無效的匯入連結：網址必須是 HTTP(S)。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1069"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>安裝模組包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
@@ -8874,7 +8874,11 @@ Are you sure?</source>
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>您是否想要下載並匯入來自下列來源的模組包嗎：
+%1
+
+網址：
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1126"/>
@@ -12068,7 +12072,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>Current logs</source>
-        <translation type="unfinished"></translation>
+        <translation>目前記錄檔</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
