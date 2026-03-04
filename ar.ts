@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;خدمة بيست بن</translation>
+        <translation>&amp;خدمة Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
@@ -29,32 +29,32 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="411"/>
         <source>Use Default</source>
-        <translation>استخدم الافتراضي</translation>
+        <translation>استخدم الإعدادات الافتراضية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>ملاحظة: ستريد على الارجح تغيير او ازالة الرابط الأساسي بعد تغيير نوع خدمة اللصق.</translation>
+        <translation>ملاحظة: من المحتمل أنك ترغب في تغيير أو مسح عنوان URL الأساسي بعد تغيير نوع خدمة اللصق.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation>السيرفر المساعد</translation>
+        <translation>خادم الموارد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>يمكنك تغير هذا الخادم إذا كنت تواجه مشاكل مع تنزيل الممتلكات.</translation>
+        <translation>يمكنك تغيير هذا الإعداد إلى خادم آخر إذا واجهت مشاكل في تنزيل الملفات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>خادم مكتبات إف إم إل الإرثية</translation>
+        <translation>خادم مكتبات FML الإرثية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>يمكنك التغيير إلي خادم آخر إذا واجهتك مشاكل مع تحميل مكتبات إف إم إل الإرثية (ماين كرافت 1.5.2 أو أقدم).</translation>
+        <translation>يمكنك التغيير إلى خادم آخر إذا واجهتك مشاكل مع تحميل مكتبات FML الإرثية (Minecraft 1.5.2 أو أقدم).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -65,27 +65,27 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="233"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>توثيق مايكروسوفت</translation>
+        <translation>مصادقة Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="288"/>
         <source>Mod&amp;rinth</source>
-        <translation>مودرينث</translation>
+        <translation>Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="310"/>
         <source>Use None</source>
-        <translation>لاتستخدم شيء</translation>
+        <translation>لا تستخدم أي شيء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="346"/>
         <source>&amp;CurseForge</source>
-        <translation>&amp;كورسفورج</translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="401"/>
         <source>&amp;Technic</source>
-        <translation>تيكنك</translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -94,7 +94,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>ملاحظة: على الأرجح لا تحتاج إلى تعيين هذا إذا كان تسجيل الدخول عبر توثيق مايكروسوفت يعمل.</translation>
+        <translation>ملاحظة: على الأرجح لا تحتاج إلى تعيين هذا إذا كان تسجيل الدخول عبر مصادقة Microsoft يعمل.</translation>
     </message>
     <message>
         <source>(Default)</source>
