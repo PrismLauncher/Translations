@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>লেগাসি এফএমএল লাইব্রেরিস সার্ভার</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>লেগাসি এফএমএল লাইব্রেরিস নামাতে সমস্যা হলে অন্য সার্ভার নির্ধারণ করতে পারেন (মাইনক্রাফট ১.৫.২ এবং টার আগের জন্য)।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
