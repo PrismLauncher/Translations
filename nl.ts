@@ -2511,7 +2511,7 @@ Weet u dat zeker?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze instantie kan niet worden opgestart omdat er missende of nog niet gedownloade bibliotheken zijn. Probeer het opnieuw in online modus met een werkende internet connectie.</translation>
     </message>
 </context>
 <context>
@@ -3454,7 +3454,8 @@ Probeer het opnieuw.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Kon pack manifest niet begrijpen:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
@@ -3464,22 +3465,22 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished">Ongeldig manifest: Er is geen informatie beschikbaar om bestand &apos;%1&apos; te downloaden!</translation>
+        <translation>Ongeldig manifest: Er is geen informatie beschikbaar om bestand &apos;%1&apos; te downloaden!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
-        <translation type="unfinished">Geblokkeerde bestanden gevonden</translation>
+        <translation>Geblokkeerde bestanden gevonden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>De volgende bestanden zijn niet beschikbaar voor download in een launcher van derde instantie.&lt;br/&gt;U zal ze manueel moeten downloaden en ze toevoegen aan deze instantie.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished">Instantie aanmaken...</translation>
+        <translation>Instantie aan het aanmaken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
@@ -3494,12 +3495,12 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="361"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Geblokkeerde Mods Kopiëren...</translation>
+        <translation>Geblokkeerde Mods aan het Kopiëren...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Geblokkeerde Mods Kopiëren (%1 van de %2 zijn klaar)</translation>
+        <translation>Geblokkeerde Mods aan het Kopiëren (%1 van de %2 zijn klaar)</translation>
     </message>
 </context>
 <context>
@@ -4095,7 +4096,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Notitie: Veel recente FTB modpacks zijn ook beschikbaar op CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4567,12 +4568,12 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="84"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Overslaan</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="101"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon de game bestanden niet downloaden: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="105"/>
