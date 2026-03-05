@@ -13189,7 +13189,7 @@ Pokračovat se zkrácením?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt; Odkaz na nahraný protokol&lt;/a&gt; byl uložen do vaší schránky.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Odkaz na nahraný protokol&lt;/a&gt; byl uložen do vaší schránky.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="376"/>
