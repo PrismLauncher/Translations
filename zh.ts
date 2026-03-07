@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Pastebin 服务 (&amp;P)</translation>
+        <translation type="unfinished">Pastebin 服务 (&amp;P)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,7 +21,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>粘贴服务类型 (&amp;T)</translation>
+        <translation>粘贴服务类型(&amp;T)</translation>
     </message>
     <message>
         <source>Base URL</source>
