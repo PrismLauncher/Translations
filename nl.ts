@@ -2511,7 +2511,7 @@ Weet u dat zeker?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Deze instantie kan niet worden opgestart omdat er missende of nog niet gedownloade bibliotheken zijn. Probeer het opnieuw in online modus met een werkende internet connectie.</translation>
+        <translation>Deze instantie kan niet worden opgestart omdat sommige bibliotheken ontbreken of nog niet gedownload zijn. Probeer het opnieuw in online modus met een werkende internetverbinding</translation>
     </message>
 </context>
 <context>
