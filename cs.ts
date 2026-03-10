@@ -8143,7 +8143,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wiki %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -13578,13 +13578,14 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="89"/>
         <source>Delete Existing Save Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit existující soubory uložení</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="90"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dřívější verze tohoto modpacku nainstalovala soubory uložení.
+Chcete odstranit tyto existující soubory jako součást této aktualizace?</translation>
     </message>
     <message>
         <source>Cancel</source>
