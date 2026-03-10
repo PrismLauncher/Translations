@@ -7910,6 +7910,11 @@ Sebep:
         <translation>Profiller arasında paylaşılan klasörlerden birini açın.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
         <translation>&amp;Widget Temaları</translation>
@@ -8317,7 +8322,6 @@ Sebep:
         <translation>%1 sembolik bağlantısını /usr/local/bin&apos;e kur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1 &amp;Yardım</translation>

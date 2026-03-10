@@ -8182,6 +8182,11 @@ Razão:
         <translation>Ver logs atuais e antigos do launcher</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
         <translation>Temas de &amp;Widgets</translation>
@@ -8374,7 +8379,6 @@ Razão:
         <translation>Instalar um link simbólico do %1 para /usr/local/bin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>Ajuda do %1</translation>

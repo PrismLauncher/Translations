@@ -8204,6 +8204,11 @@ Reason:
         <translation>Просмотр текущего и предыдущего журналов лаунчера</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
         <translation>Те&amp;мы для виджетов</translation>
@@ -8396,7 +8401,6 @@ Reason:
         <translation>Установка символической ссылки на %1 на /usr/local/bin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>Сп&amp;равка %1</translation>

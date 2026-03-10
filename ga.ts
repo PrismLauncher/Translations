@@ -6884,6 +6884,11 @@ Cúis:
         <translation>Féach ar logaí lainseálaí reatha agus roimhe seo</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
         <translation>Téamaí &amp;Giuirléidí</translation>
@@ -7030,7 +7035,6 @@ Cúis:
         <translation>Suiteáil nasc siombalach %1 chuig /usr/local/bin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1 Cab&amp;hair</translation>

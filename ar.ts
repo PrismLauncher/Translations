@@ -7591,6 +7591,11 @@ Reason:
         <translation>عرص سجلات المشغل الحالية و الماضية</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
         <translation>سمات عناصر الواجهة</translation>
@@ -7732,7 +7737,6 @@ Reason:
         <translation>تثبيت وصلة رمزية ل%1 على /usr/local/bin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>مساعدة %1</translation>

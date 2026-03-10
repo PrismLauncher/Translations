@@ -8100,6 +8100,11 @@ Indok:
         <translation>Jelenlegi és korábbi launcher naplók megtekintése</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
         <translation>&amp;Widget témák</translation>
@@ -8292,7 +8297,6 @@ Indok:
         <translation>Egy %1 szimbolikus hivatkozás telepítése a /usr/local/bin mappába</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1 &amp;súgó</translation>

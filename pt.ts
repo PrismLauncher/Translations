@@ -8040,7 +8040,6 @@ Motivo:
         <translation>Instalar um link simbólico %1 em /usr/local/bin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1 &amp;Ajuda</translation>
@@ -8183,6 +8182,11 @@ Motivo:
         <location filename="src/launcher/ui/MainWindow.cpp" line="768"/>
         <source>Accounts</source>
         <translation>Contas</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>

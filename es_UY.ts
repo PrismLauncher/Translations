@@ -7881,6 +7881,11 @@ Motivo:
         <translation type="unfinished">Subir registros de launcher al proveedor de registros seleccionado</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
         <translation>&amp;Temas de Widget</translation>
@@ -8026,7 +8031,6 @@ Motivo:
         <translation>Instalar un symlink de %1 en /usr/local/bin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1 &amp;Ayuda</translation>

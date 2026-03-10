@@ -8155,6 +8155,11 @@ Raison&#xa0;:
         <translation>Voir les journaux d&apos;erreur actuels et passés</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
         <translation>&amp;Thèmes du launcher</translation>
@@ -8347,7 +8352,6 @@ Raison&#xa0;:
         <translation>Installer un lien symbolique %1 vers /usr/local/bin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>&amp;Aide %1</translation>

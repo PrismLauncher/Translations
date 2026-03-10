@@ -8163,6 +8163,11 @@ Reason:
         <translation>查看当前及以前的启动器日志</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
         <translation>控件主题 (&amp;W)</translation>
@@ -8355,7 +8360,6 @@ Reason:
         <translation>在 /usr/local/bin 创建一个 %1 的符号链接</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1 帮助 (&amp;H)</translation>

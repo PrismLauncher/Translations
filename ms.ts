@@ -7233,6 +7233,11 @@ Sebab:
         <translation>Lihat log pelancar semasa dan sebelumnya</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
         <translation>Tema &amp;Widget</translation>
@@ -7383,7 +7388,6 @@ Sebab:
         <translation>Pasang pautan simbolik %1 ke /usr/local/bin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>&amp;Bantuan %1</translation>

@@ -6919,6 +6919,11 @@ Motîf:
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
         <translation>Temis dai &amp;widget</translation>
@@ -7065,7 +7070,6 @@ Motîf:
         <translation>Instale un colegament simbolic di %1 in /usr/local/bin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>Pagjine di &amp;jutori di %1</translation>

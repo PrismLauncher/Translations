@@ -8170,7 +8170,6 @@ Anledning:
         <translation>Installera en symbolisk länk för %1 till /usr/local/bin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>&amp;Hjälp med %1</translation>
@@ -8321,6 +8320,11 @@ Anledning:
         <location filename="src/launcher/ui/MainWindow.cpp" line="768"/>
         <source>Accounts</source>
         <translation>Konton</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>

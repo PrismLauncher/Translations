@@ -7990,7 +7990,6 @@ Reason:
         <translation>%1のシンボリックリンクを/usr/local/binに追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1のヘルプ(&amp;H)</translation>
@@ -8137,6 +8136,11 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="768"/>
         <source>Accounts</source>
         <translation>アカウント</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <source>%1 &amp;Wiki</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
