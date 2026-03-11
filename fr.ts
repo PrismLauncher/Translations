@@ -13628,13 +13628,14 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="89"/>
         <source>Delete Existing Save Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les Fichiers de Sauvegarde Existants</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="90"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Une version antérieure de ce modpack a installé des fichiers de sauvegarde.
+Voulez-vous supprimer ces sauvegardes existantes durant cette mise à jour&#x202f;?</translation>
     </message>
     <message>
         <source>Cancel</source>
