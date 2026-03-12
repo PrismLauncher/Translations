@@ -6292,7 +6292,7 @@ Möchtest du die Demo starten?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="174"/>
         <location filename="src/launcher/LaunchController.cpp" line="472"/>
         <source>Abort</source>
-        <translation>Abgebrochen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="193"/>
