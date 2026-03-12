@@ -1652,7 +1652,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="80"/>
         <source>Loading components</source>
-        <translation>Завантаження компонентів</translation>
+        <translation>Завантажуються компоненти</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="215"/>
@@ -1667,7 +1667,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Downloading metadata for %1 components</source>
-        <translation>Завантажуємо метадані для %1 компонентів</translation>
+        <translation>Завантажуються метадані для%1 компонентів</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="480"/>
@@ -3481,7 +3481,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Не вдалося знайти збірку версії %1</translation>
+        <translation>Не вдалося знайти збірку версії %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
@@ -3493,17 +3493,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
-        <translation>Обробка модів...</translation>
+        <translation>Узгодження модів...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished">Недійсний маніфест: Не надана інформація, щоб завантажити файл &quot;%1&quot;!</translation>
+        <translation>Недійсний маніфест: Не надана інформація, щоб завантажити файл &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
-        <translation type="unfinished">Знайдено заблоковані файли</translation>
+        <translation>Знайдено заблоковані файли</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
@@ -3513,7 +3513,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished">Створення збірки...</translation>
+        <translation>Створення збірки...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
@@ -3533,7 +3533,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Копіювання заблокованих модів (%1 з %2 виконано)</translation>
+        <translation>Копіювання заблокованих модів (%1 з %2 виконано)</translation>
     </message>
 </context>
 <context>
@@ -6946,12 +6946,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Перевірка бібліотек FML...</translation>
+        <translation>Перевірка бібліотек FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Завантаження бібліотек FML...</translation>
+        <translation>Завантаження бібліотек FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6960,7 +6960,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Копіювання бібліотек FML в збірку...</translation>
+        <translation>Копіювання бібліотек FML в збірку...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
@@ -6970,7 +6970,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Не вдалося скопіювати бібліотеку Forge/FML: %1.</translation>
+        <translation>Не вдалося скопіювати бібліотеку Forge/FML: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6979,7 +6979,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Не вдалося завантажити наступні файли:
+        <translation>Не вдалося завантажити наступні файли:
 %1
 
 Причина: %2
@@ -8061,7 +8061,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Wiki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -9551,7 +9551,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation>Базова гра підтримує тільки фіксовані роздільні здатності. Для того щоб симулювати поведінку в повноекранному режимі данна реалізація наближено використовує максимальний розмір дисплею</translation>
+        <translation>Базова гра підтримує лише фіксовану роздільну здатність. Щоб імітувати поведінку розгорнутого вікна, поточна реалізація підлаштовується під максимальний розмір дисплея.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
@@ -9806,17 +9806,17 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Fabric (Застарілий)</translation>
+        <translation>Fabric (Застарілий)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Ornithe</source>
-        <translation type="unfinished">Орніт (Ornithe)</translation>
+        <translation>Орніт (Ornithe)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
         <source>Rift</source>
-        <translation type="unfinished">Рифт (Rift)</translation>
+        <translation>Рифт (Rift)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
@@ -10234,12 +10234,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Requires</source>
-        <translation>Вимагає</translation>
+        <translation>Потребує</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation>Вимагається</translation>
+        <translation>Потрібен для</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="201"/>
@@ -10249,7 +10249,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="213"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation>Для кожного мода, кількість інших модів, які від нього залежать.</translation>
+        <translation>Для кожного мода — кількість інших модів, які від нього залежать.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
@@ -10259,7 +10259,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="429"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Підтвердити перемикання</translation>
+        <translation>Підтвердити перемикання</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="430"/>
@@ -10348,7 +10348,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Confirm disable</source>
-        <translation type="unfinished">Підтвердити вимкнення</translation>
+        <translation>Підтвердити вимкнення</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
@@ -11956,7 +11956,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
         <source>Clear</source>
-        <translation type="unfinished">Очистити</translation>
+        <translation>Очистити</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -13414,13 +13414,14 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="89"/>
         <source>Delete Existing Save Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити існуючі файли збереження</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="90"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Попередня версія цього мод-пакета встановлювала файли збереження.
+Чи хочете ви видалити ці існуючі збереження в рамках цього оновлення?</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -15938,7 +15939,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/tasks/Task.cpp" line="134"/>
         <source>Aborted</source>
-        <translation type="unfinished">Перервано</translation>
+        <translation>Перервано</translation>
     </message>
 </context>
 <context>
