@@ -313,7 +313,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Los siguientes archivos no están disponibles para descargar en launchers de terceros. &lt;br/&gt; Los necesitaras descargar manualmente y añadirlos a la instancia.</translation>
+        <translation>Los siguientes archivos no están disponibles para su descarga en lanzadores de terceros.&lt;br/&gt;Deberá descargarlos manualmente y añadirlos a la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
@@ -1470,13 +1470,13 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;¡Alerta de novedad!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Alerta de nueva función!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>Hemos añadido una función para descargar automáticamente la versión correcta de Java para cada versión de Minecraft (esto se puede cambiar en la configuración de Java). ¿Quieres activar o desactivar esta función?</translation>
+        <translation>Hemos añadido una función para descargar automáticamente la versión correcta de Java para cada versión de Minecraft (esto se puede cambiar en la configuración de Java). ¿Desea habilitar o deshabilitar esta función?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3243,8 +3243,8 @@ Esta acción es permanente y los elementos desaparecerán de la carpeta raíz.
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Si eliminas este recurso mientras el juego se está ejecutando, puede que el juego se bloquee.
-¿Estás seguro de que quieres hacerlo?</translation>
+        <translation>Si eliminas este recurso mientras el juego está en ejecución, es posible que el juego se bloquee.
+¿Estás seguro de que deseas hacerlo?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3536,7 +3536,7 @@ Por favor, inténtelo de nuevo.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Los siguientes documentos no estan disponibles para descargarse en launchers de terceros. &lt;br/&gt; Necesita descargarlos manualmente y añadirlos a la instancia.</translation>
+        <translation>Los siguientes archivos no están disponibles para su descarga en lanzadores de terceros.&lt;br/&gt;Deberá descargarlos manualmente y añadirlos a la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
@@ -3880,7 +3880,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="394"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;¡Hola!&lt;/h1&gt;&lt;h4&gt;Parece que tu Pack ID es nulo. Esto se debe a un error en versiones antiguas del launcher.&lt;br/&gt;Lamentablemente, no podemos realizar las solicitudes de API adecuadas sin esta información.&lt;br/&gt;&lt;br/&gt;Por lo tanto, para que esta función funcione, deberá volver a descargar el modpack desde el descargador integrado.&lt;br/&gt;&lt;br/&gt;Sin embargo, no se preocupe, le pedirá que actualice esta instancia, ¡así que no perderá esta instancia!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Hola!&lt;/h1&gt;&lt;h4&gt;Parece que tu Pack ID es nulo. Esto se debe a un error en versiones anteriores del lanzador.&lt;br/&gt;Lamentablemente, sin esta información no podemos realizar las solicitudes API adecuadas.&lt;br/&gt;&lt;br/&gt;Por lo tanto, para que esta función funcione, tendrás que volver a descargar el modpack desde el descargador integrado.&lt;br/&gt;&lt;br/&gt;Pero no te preocupes, te pedirá que actualices esta instancia, ¡así que no la perderás!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="434"/>
@@ -6021,7 +6021,7 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="63"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>¿No ves tu idioma o la calidad es mala?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;¡Ayúdanos con las traducciones!&lt;/a&gt;</translation>
+        <translation>¿No ves tu idioma o la calidad es mala?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Ayúdanos con las traducciones!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
@@ -6063,12 +6063,12 @@ Puedes cambiar la versión de Java en la configuración más tarde.
         <location filename="src/launcher/LaunchController.cpp" line="97"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation>Para poder jugar a Minecraft, debes tener al menos una cuenta de Microsoft que posea Minecraft iniciada. Quieres abrir el administrador de cuentas para añadir una cuenta ahora?</translation>
+        <translation>Para jugar a Minecraft, debes tener al menos una cuenta de Microsoft que sea propietaria de Minecraft iniciada sesión. ¿Deseas abrir el administrador de cuentas para añadir una cuenta ahora?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="114"/>
         <source>Which account would you like to use?</source>
-        <translation>¿Qué cuenta quieres usar?</translation>
+        <translation>¿Qué cuenta desea utilizar?</translation>
     </message>
     <message>
         <source>No account selected for launch.</source>
@@ -8163,7 +8163,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Wiki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -8899,7 +8899,11 @@ Esto es permanente y borrará completamente la instancia.
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Quieres descargar e importar un paquete de mods? Desde:
+%1
+
+URL:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1126"/>
@@ -12085,7 +12089,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>Current logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Registros actuales</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -12149,7 +12153,7 @@ Esto puede ser permanente y desaparecerá de la carpeta de registros.
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
         <source>Clear</source>
-        <translation type="unfinished">Limpiar</translation>
+        <translation>Vaciar</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -13631,13 +13635,14 @@ NOTA: Asegúrate de hacer una copia de seguridad de los datos importantes de tu 
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="89"/>
         <source>Delete Existing Save Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar archivos guardados existentes</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="90"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Una versión anterior de este modpack instaló archivos de guardado.
+¿Desea eliminar esos archivos guardados existentes como parte de esta actualización?</translation>
     </message>
     <message>
         <source>Cancel</source>
