@@ -13508,13 +13508,14 @@ MEGJEGYZÉS: Győződj meg róla, hogy a frissítés előtt biztonsági másolat
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="89"/>
         <source>Delete Existing Save Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Létező mentésfájlok törlése</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="90"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation type="unfinished"></translation>
+        <translation>A modpack egy korábbi verziója mentési fájlokat telepített.
+El szeretnéd távolítani ezeket a meglévő mentéseket a frissítés alatt?</translation>
     </message>
     <message>
         <source>Cancel</source>
