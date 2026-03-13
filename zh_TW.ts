@@ -13613,7 +13613,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceTask.cpp" line="90"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation type="unfinished"></translation>
+        <translation>此模組包的舊版本已安裝過存檔。
+您想要在此次更新移除這些現有的存檔？</translation>
     </message>
     <message>
         <source>Cancel</source>
