@@ -5840,7 +5840,7 @@ Voit muuttaa Java-version myöhemmin asetuksista.
         <translation type="vanished">Näyttää siltä, että emme onnistuneet käynnistämään %1 yrityksen jälkeen. Haluatko jatkaa yrittämistä?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="258"/>
+        <location filename="src/launcher/LaunchController.cpp" line="260"/>
         <source>Player name</source>
         <translation>Pelaajan nimi</translation>
     </message>
@@ -5857,7 +5857,7 @@ Voit muuttaa Java-version myöhemmin asetuksista.
         <translation>Vastaanotettiin määrittämätön istuntotila kirjauduttaessa sisään.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="217"/>
+        <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>Play demo?</source>
         <translation>Pelaa demoa?</translation>
     </message>
@@ -5872,12 +5872,12 @@ Sinun täytyy ostaa peli ennen kuin voit pelata sitä.
 Haluatko pelata demoa?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="224"/>
+        <location filename="src/launcher/LaunchController.cpp" line="226"/>
         <source>Play Demo</source>
         <translation>Pelaa demoa</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="225"/>
+        <location filename="src/launcher/LaunchController.cpp" line="227"/>
         <source>Cancel</source>
         <translation>Peruuta</translation>
     </message>
@@ -5894,7 +5894,7 @@ Haluatko pelata demoa?</translation>
         <translation type="vanished">Tili on vanhentunut ja sinun täytyy kirjautua manuaalisesti uudelleen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="335"/>
+        <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>Account refresh failed</source>
         <translation>Tilin päivitys epäonnistui</translation>
     </message>
@@ -5927,34 +5927,33 @@ Haluatko pelata demoa?</translation>
         <translation type="vanished">Tili on vanhentunut ja uudelleenkirjautumisyritys epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="359"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>Tili on vanhentunut ja se täytyy autentikoida uudelleen</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="369"/>
-        <location filename="src/launcher/LaunchController.cpp" line="425"/>
+        <location filename="src/launcher/LaunchController.cpp" line="371"/>
+        <location filename="src/launcher/LaunchController.cpp" line="427"/>
         <source>Error!</source>
         <translation>Virhe!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="369"/>
-        <location filename="src/launcher/LaunchController.cpp" line="370"/>
+        <location filename="src/launcher/LaunchController.cpp" line="371"/>
+        <location filename="src/launcher/LaunchController.cpp" line="372"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Ei voitu ladata pelipaketin profiilia.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="376"/>
+        <location filename="src/launcher/LaunchController.cpp" line="378"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Ei voitu instantioida käynnistintä.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="425"/>
+        <location filename="src/launcher/LaunchController.cpp" line="427"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Profiloijan tarkastus %1:lle epäonnistui: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="438"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>&amp;Launch</source>
         <translation>&amp;Käynnistä</translation>
     </message>
@@ -5963,7 +5962,7 @@ Haluatko pelata demoa?</translation>
         <translation type="vanished">Ei voitu käynnistää profiloijaa: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="432"/>
+        <location filename="src/launcher/LaunchController.cpp" line="434"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5972,7 +5971,7 @@ Haluatko pelata demoa?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="436"/>
+        <location filename="src/launcher/LaunchController.cpp" line="438"/>
         <source>Waiting.</source>
         <translation>Odottaa.</translation>
     </message>
@@ -5981,50 +5980,55 @@ Haluatko pelata demoa?</translation>
         <translation type="vanished">Käynnistä</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="444"/>
+        <location filename="src/launcher/LaunchController.cpp" line="446"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Ei voitu käynnistää profiloijaa: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="445"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Error</source>
         <translation>Virhe</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="174"/>
-        <location filename="src/launcher/LaunchController.cpp" line="472"/>
+        <location filename="src/launcher/LaunchController.cpp" line="474"/>
         <source>Abort</source>
         <translation>Keskeytä</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="193"/>
+        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <source>An error occurred while refreshing &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="195"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
         <translation>&apos;%1&apos; on vanhentunut ja vaatii uudelleen todentamista</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="196"/>
+        <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>The launcher&apos;s client identification has changed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="199"/>
+        <location filename="src/launcher/LaunchController.cpp" line="201"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="219"/>
+        <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
         <translation>Tämä käyttäjä ei omista Minecraftia.&#xa0;
 Sinun pitää ostaa Minecraft pelataksesi koko versiota.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="220"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>No account was selected for launch.</source>
         <translation>Mitään käyttäjää ei valittu käynnistykseen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="221"/>
+        <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>
 
 Do you want to play the demo?</source>
@@ -6033,12 +6037,12 @@ Do you want to play the demo?</source>
 Haluatko pelata demoa?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="244"/>
+        <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Choose your demo mode player name</source>
         <translation>Valitse demo moodin pelaaja nimesi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="248"/>
+        <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
@@ -6047,27 +6051,27 @@ Haluatko pelata demoa?</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="250"/>
+        <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>Choose your offline mode player name</source>
         <translation>Valitse offline moodin pelaaja nimesi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="298"/>
+        <location filename="src/launcher/LaunchController.cpp" line="300"/>
         <source>No account selected for launch</source>
         <translation>Käyttäjää käynnistämiseen ei valittu</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="335"/>
+        <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>%1. Do you want to reauthenticate this account?</source>
         <translation>%1. Haluatko uudelleen todentaa tämän käyttäjän?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="485"/>
+        <location filename="src/launcher/LaunchController.cpp" line="487"/>
         <source>Kill Minecraft?</source>
         <translation>Tapa Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="486"/>
+        <location filename="src/launcher/LaunchController.cpp" line="488"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Tämä voi korruptoida pelipaketin ja sitä tulisi käyttää vain jos Minecraft jostain syystä jäätyy</translation>
     </message>
