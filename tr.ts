@@ -7912,7 +7912,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>%1&amp;Viki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -13541,13 +13541,14 @@ NOT: Güncellemeden önce profilinizin önemli verilerini yedeklediğinizden emi
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="89"/>
         <source>Delete Existing Save Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Kayıt Dosyalarını Sil</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="90"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Mod Dizininin eski bir sürümü kayıt dosyaları ekledi.
+Bu güncelleme için eski kayıt dosyalarını silmek ister misiniz?</translation>
     </message>
     <message>
         <source>Cancel</source>
