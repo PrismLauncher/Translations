@@ -6254,7 +6254,7 @@ Chcete si zahrát demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Během obnovování „%1“ došlo k chybě</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
