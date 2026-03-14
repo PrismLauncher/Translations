@@ -6264,7 +6264,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>重新整理「%1」時發生錯誤</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
