@@ -6235,7 +6235,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos;을 새로 고치는 동안 오류가 발생함</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
@@ -8705,7 +8705,7 @@ Microsoft 계정을 추가하세요.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1431"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation>%1을 PATH에 추가하는 중에 오류가 발생함</translation>
+        <translation>%1을 PATH에 추가하는 동안 오류가 발생함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1487"/>
@@ -13833,7 +13833,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>다음 이름 바꾸기 작업을 수행할 때 오류가 발생하였습니다:&lt;br/&gt; - 현재 인스턴스 루트: %1&lt;br/&gt; - 변경할 인스턴스 루트: %2&lt;br/&gt;메타데이터만 이름이 변경됩니다.</translation>
+        <translation>다음 이름 바꾸기 작업을 수행하는 동안 오류가 발생하였습니다:&lt;br/&gt; - 현재 인스턴스 루트: %1&lt;br/&gt; - 변경할 인스턴스 루트: %2&lt;br/&gt;메타데이터만 이름이 변경됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
