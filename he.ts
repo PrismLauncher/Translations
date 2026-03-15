@@ -5343,7 +5343,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">כמות הזיכרון הזמינה לאחסון מחלקות Java טעונות.</translation>
+        <translation>כמות הזיכרון הזמינה לאחסון מחלקות Java טעונות.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -5429,7 +5429,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="242"/>
         <source>No Java version selected</source>
-        <translation type="unfinished">שום גרסת Java לא נבחרה</translation>
+        <translation>לא נבחרה גרסת Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
@@ -5444,7 +5444,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="349"/>
         <source>Find Java executable</source>
-        <translation type="unfinished">איתור קובץ להרצה של Java</translation>
+        <translation>איתור קובץ הרצה של Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="491"/>
