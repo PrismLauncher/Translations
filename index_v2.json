@@ -331,11 +331,11 @@
             "untranslated" : 2633
         },
         "he" : {
-            "file" : "3c665a817d3faea5ded22c0245b0876a1f52f89b.class",
-            "sha1" : "3c665a817d3faea5ded22c0245b0876a1f52f89b",
-            "size" : 168692,
-            "translated" : 1499,
-            "fuzzy" : 40,
+            "file" : "1d8d1655f3305630f5bb02bfc17c4b97c3381580.class",
+            "sha1" : "1d8d1655f3305630f5bb02bfc17c4b97c3381580",
+            "size" : 168682,
+            "translated" : 1502,
+            "fuzzy" : 37,
             "untranslated" : 804
         },
         "hi" : {
