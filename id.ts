@@ -4645,7 +4645,7 @@ Coba ulang lagi.</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>Instansi %1</translation>
     </message>
@@ -4977,12 +4977,12 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Gagal membuat berkas staging</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Gagal melakukan instansi, bahkan setelah percobaan berulang kali. instansi sedang diblokir oleh sesuatu.</translation>
     </message>

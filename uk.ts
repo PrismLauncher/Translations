@@ -4731,7 +4731,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>Збірка %1</translation>
     </message>
@@ -5079,12 +5079,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Не вдалося створити проміжну теку</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Не вдалося створити збірку навіть після декількох спроб. Щось заважає.</translation>
     </message>

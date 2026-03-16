@@ -4768,7 +4768,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>%1 Profili</translation>
     </message>
@@ -5120,12 +5120,12 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Aşama klasörü oluşturulamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Birden fazla denemeye rağmen, profil gönderimi başarısız. Bir şey tarafından engelleniyor.</translation>
     </message>

@@ -4483,7 +4483,7 @@ Bandykite dar kartą.</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>%1 Instancija</translation>
     </message>
@@ -4799,12 +4799,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Nepavyko sukurti laikino aplanko</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Nepavyko patvirtinti instance net po kelių bandymų. Kažkas jį blokuoja.</translation>
     </message>

@@ -4666,7 +4666,7 @@ Por favor tenta de novo.</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>Instância %1</translation>
     </message>
@@ -5014,12 +5014,12 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Não foi possível criar a pasta de staging</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Falha ao fazer o commit da instância, mesmo tentando várias vezes. Alguma coisa está a bloquear isto.</translation>
     </message>

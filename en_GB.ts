@@ -4809,7 +4809,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>%1 Instance</translation>
     </message>
@@ -5161,12 +5161,12 @@ Please make sure that the maximum memory value is lower.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Could not create staging folder</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Failed to commit instance, even after multiple retries. It is being blocked by something.</translation>
     </message>

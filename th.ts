@@ -4513,7 +4513,7 @@ Please try again.</source>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>อินสแตนซ์ %1</translation>
     </message>
@@ -4837,12 +4837,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>ไม่สามารถสร้างโฟลเดอร์สเตจจิ้งได้</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>ไม่สามารถยืนยันอินสแตนซ์ได้ แม้จะลองใหม่หลายครั้งแล้วก็ตาม อินสแตนซ์กำลังถูกบล็อกโดยบางสิ่งบางอย่าง</translation>
     </message>

@@ -4809,7 +4809,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>Instância %1</translation>
     </message>
@@ -5161,12 +5161,12 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Não foi possível criar a pasta temporária</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Falha ao modificar a instância após várias tentativas. Algo está impedindo o commit.</translation>
     </message>

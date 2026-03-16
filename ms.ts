@@ -4353,7 +4353,7 @@ Sila cuba lagi.</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>Pemasangan %1</translation>
     </message>
@@ -4673,12 +4673,12 @@ Sila pastikan nilai memori maximum rendah.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Tidak dapat membuat folder pementasan</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Gagal melakukan pemasangan, walaupun selepas beberapa percubaan semula. Ia sedang disekat oleh sesuatu.</translation>
     </message>

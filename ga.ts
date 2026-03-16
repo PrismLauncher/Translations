@@ -4057,7 +4057,7 @@ Déan iarracht arís.</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>%1 Cás</translation>
     </message>
@@ -4363,12 +4363,12 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Níorbh fhéidir fillteán stáitsithe a chruthú</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Theip ar an sampla a thiomnú, fiú tar éis roinnt iarrachtaí. Tá rud éigin ag cur bac air.</translation>
     </message>

@@ -4678,7 +4678,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>Phiên bản %1</translation>
     </message>
@@ -5014,12 +5014,12 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Không thể tạo thư mục dàn dựng</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Không uỷ thác được phiên bản, ngay cả sau nhiều lần thử lại. Nó đang bị chặn bởi một thứ gì đó.</translation>
     </message>

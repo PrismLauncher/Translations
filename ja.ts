@@ -4649,7 +4649,7 @@ Please try again.</source>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>起動構成 %1</translation>
     </message>
@@ -4985,12 +4985,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>ステージングフォルダを作成できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>何度か再試行しましたが、起動構成をコミットできませんでした。何かによりブロックされているようです。</translation>
     </message>

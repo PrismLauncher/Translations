@@ -4052,7 +4052,7 @@ Par plasê, prove di gnûf.</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>Istance %1</translation>
     </message>
@@ -4364,12 +4364,12 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Impussibil creâ la cartele di imbastidure</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Impussibil comissionâ te istance, ancje dopo plui tentatîfs. E je blocade di alc.</translation>
     </message>

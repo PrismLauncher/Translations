@@ -4585,7 +4585,7 @@ Tiež, ak sa tvoje FTB inštancie nenachádzajú v predvolenom umiestnení, vybe
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>%1 Inštancia</translation>
     </message>
@@ -4909,12 +4909,12 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Nepodarilo sa vytvoriť vývojový priečinok</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Zlyhalo potvrdenie inštancie aj po viacerých pokusoch. Je to niečim blokované.</translation>
     </message>

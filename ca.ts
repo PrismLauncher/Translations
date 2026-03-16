@@ -4572,7 +4572,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>Instància %1</translation>
     </message>
@@ -4900,12 +4900,12 @@ Si us plau, assegura&apos;t que la memòria màxima és inferior.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>No s&apos;ha pogut crear la carpeta de muntatge</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Error al confirmar la instància, fins i tot després de diversos intents. Està sent bloquejat per alguna cosa.</translation>
     </message>

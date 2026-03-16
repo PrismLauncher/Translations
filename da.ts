@@ -4619,7 +4619,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>%1 Instans</translation>
     </message>
@@ -4943,12 +4943,12 @@ Sørg for at den maksimale hukommelsesværdi er lavere.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Kunne ikke oprette staging mappe</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Kunne ikke gemme ændringerne i instansen, selv efter flere forsøg. Der er noget som blokerer.</translation>
     </message>

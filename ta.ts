@@ -4086,7 +4086,7 @@ Please try again.</source>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>%1 நிகழ்வு</translation>
     </message>
@@ -4406,12 +4406,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>ச்டேசிங் கோப்புறையை உருவாக்க முடியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>பல முயற்சிகளுக்குப் பிறகும் சான்று செய்யத் தவறிவிட்டது. அது ஏதோவொன்றால் தடுக்கப்படுகிறது.</translation>
     </message>

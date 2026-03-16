@@ -4635,7 +4635,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>Instancia %1</translation>
     </message>
@@ -4967,12 +4967,12 @@ Verificar que el valor de memoria máxima es inferior.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>No se pudo crear la carpeta de montaje</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Error al confirmar la instancia, incluso después de varios reintentos. Algo lo está bloqueando.</translation>
     </message>

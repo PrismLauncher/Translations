@@ -4714,7 +4714,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>%1 instantie</translation>
     </message>
@@ -5054,12 +5054,12 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Kon geen staging-map aanmaken</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Kan instantie niet wegschrijven, zelfs niet na meerdere pogingen. Het wordt ergens door geblokkeerd.</translation>
     </message>

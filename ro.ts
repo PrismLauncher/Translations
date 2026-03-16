@@ -4683,7 +4683,7 @@ Continuați cu prudență!</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>Instanța %1</translation>
     </message>
@@ -5023,12 +5023,12 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Imposibil de creat dosar de staging</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Nu a reușit să se porneasca instanța, chiar și după multiple incercari. Este blocata de ceva.</translation>
     </message>

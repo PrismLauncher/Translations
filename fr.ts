@@ -4803,7 +4803,7 @@ Procéder avec prudence!</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>Instance %1</translation>
     </message>
@@ -5155,12 +5155,12 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation>Impossible de créer un dossier de transit</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Échec de la validation de l&apos;instance, même après plusieurs tentatives. Quelque chose bloque le processus.</translation>
     </message>

@@ -4483,7 +4483,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>%1 Instance</translation>
     </message>
@@ -4674,12 +4674,12 @@ Lūdzu, mēģiniet vēlreiz.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="951"/>
+        <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="973"/>
+        <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Nevarēja izdarīt instanci, pat pēc vairākiem mēģinājumiem. Tas tiek bloķets ar kaut ko.</translation>
     </message>
