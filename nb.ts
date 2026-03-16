@@ -3598,67 +3598,67 @@ Prøv på nytt.</translation>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="114"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="326"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="115"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Forstod ikke pakkemanifestet:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="120"/>
         <source> (version %1)</source>
         <translation> (versjon %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>No index file.</source>
         <translation>Ingen indeksfil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="241"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Fant ikke en passende indeksfil for den eldre versjonen. Dette kan føre til at noen av filene dupliseres. Vil du fortsette?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Kunne ikke hente lokal metadataindeks for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="297"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Kunne ikke finne versjon for %1-lasteren</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="302"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="303"/>
         <source>No loader version set for modpack!</source>
         <translation>Ingen lasterversjon satt for mod-pakken!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="339"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Kunne ikke endre navn på overrides folder:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="343"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="344"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Den angitte overstyringsmappa (%1) mangler. Kanskje mod-pakken har blitt brukt før?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="372"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Ukjent mod-laster i manifest: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="387"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Ukjente etterfølgende prikker fjernet fra Minecraft-versjonen under import av pakke.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="420"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>Den anbefalte mengden minne for modpacken er over 90% av systemminnet ditt — går ned fra %1 MiB til %2 MiB!</translation>
     </message>
@@ -3667,40 +3667,40 @@ Prøv på nytt.</translation>
         <translation type="obsolete">Kunne ikke tilordne anbefalt Forge-versjon for Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="459"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Kan ikke løse mod-IDer:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="539"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="540"/>
         <source>Blocked mods found</source>
         <translation>Blokkerte mods funnet</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="540"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="541"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Følgende filer er ikke tilgjengelige for nedlasting i tredjeparts launchers.&lt;br/&gt;Du må download manuelt og legge dem til i forekomsten.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="562"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="563"/>
         <source>Mod Download Flame</source>
         <translation>Nedlasting av mod: Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="593"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="594"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 av %2 er fullført</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="606"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
         <source>Copying Blocked Mods...</source>
         <translation>Kopierer blokkerte modifikasjoner …</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="621"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="622"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Kopierer blokkerte modifikasjoner (%1 av %2 er fullført)</translation>
     </message>
@@ -3721,7 +3721,7 @@ Prøv på nytt.</translation>
         <translation type="vanished">Ukjent/uhåndtert PackageType for: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="598"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="599"/>
         <source>Downloading mods...</source>
         <translation>Laster ned modifikasjoner …</translation>
     </message>
@@ -5328,7 +5328,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="229"/>
         <source>Find Java executable</source>
         <translation>Finn Java-kjørefil</translation>
     </message>
@@ -5499,17 +5499,17 @@ Du kan endre Java-versjonen i innstillingene seinere.
         <translation type="vanished">Autooppdag Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="269"/>
         <source>Select a Java version</source>
         <translation>Velg en Java-versjon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
         <source>Confirm Selection</source>
         <translation>Bekreft valg</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="279"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -5518,17 +5518,17 @@ Nedlastningen støtter ikke mer enn 2048MiB med minne
 Pass på at den maksimale minne verdien er lavere.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="297"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Din maksimale minneallokering overskrider systemminnekapasiteten.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="300"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>Din maksimale minneallokering er nærme systemminnekapasiteten.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="303"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>Din maksimale minneallokering er under den minimale minneallokeringen.</translation>
     </message>
@@ -5562,17 +5562,17 @@ Pass på at den maksimale minne verdien er lavere.</translation>
 <context>
     <name>JavaWizardWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="135"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
         <translation>Last ned Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="231"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
         <translation>32-biter Java funnet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
 %1 will not be able to start Minecraft.
 Do you wish to proceed?
@@ -5587,12 +5587,12 @@ Du kan endre Java-versjonen i innstillingene seinere.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="242"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
         <translation>Ingen Java-versjon valgt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
 %1 will not be able to start Minecraft.
 Do you wish to proceed without a functional version of Java?
@@ -5607,77 +5607,77 @@ Du kan endre Java-versjonen i innstillingene seinere.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="349"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="350"/>
         <source>Find Java executable</source>
         <translation>Finn Java-kjørefil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="491"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
         <source>Memory</source>
         <translation>Minne</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="493"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Den maksimale mengden minne Minecraft kan bruke.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="493"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
         <source>Minimum memory allocation:</source>
         <translation>Minimum minne-allokering:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Maximum memory allocation:</source>
         <translation>Maksimal minne-allokering:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Mengden minne Minecraft starter med.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Mengden minne som er tilgjengelig for å lagre lastede Java-klasser.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Browse</source>
         <translation>Bla gjennom</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>Auto-download Mojang Java</source>
         <translation>Last ned Mojang-Java automatisk</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
         <source>Auto-detect Java version</source>
         <translation>Autooppdag Java-versjon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Autodetect Java</source>
         <translation>Autooppdag Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="511"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Din maksimale minneallokering overskrider systemminnekapasiteten.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="514"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Din maksimale minneallokering nærmer seg systemminnekapasiteten.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="517"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Din maksimale minneallokering er mindre enn minimumsverdien</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="523"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="524"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
         <translation>Du overskrider den maksimale tildeltinga støtta av 32-bitersinstallasjonene av Java.</translation>
     </message>
@@ -11758,30 +11758,30 @@ Proceed with truncation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="373"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="374"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="378"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="387"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="388"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="397"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="398"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
         <translation>Java-testen var vellykket!&lt;br /&gt;Plattform rapportert: %1&lt;br /&gt;Java-versjon rapportert: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="406"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="407"/>
         <source>Java test success</source>
         <translation>Java-test vellykket</translation>
     </message>
@@ -11789,7 +11789,7 @@ Proceed with truncation?</source>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
         <location filename="src/launcher/JavaCommon.cpp" line="100"/>
         <location filename="src/launcher/JavaCommon.cpp" line="107"/>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="406"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="407"/>
         <source>Java test failure</source>
         <translation>Java-test mislyktes</translation>
     </message>

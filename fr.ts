@@ -3723,15 +3723,15 @@ Veuillez réessayer.</translation>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="114"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="326"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="115"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Impossible de comprendre le manifeste du pack&#xa0;:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="120"/>
         <source> (version %1)</source>
         <translation> (version %1)</translation>
     </message>
@@ -3760,54 +3760,54 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <translation type="vanished">Annuler</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>No index file.</source>
         <translation>Aucun fichier d&apos;index.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="241"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Nous n&apos;avons pas pu trouver de fichier index approprié pour l&apos;ancienne version. Cela peut entraîner la duplication de certains fichiers. Voulez-vous continuer&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Échec de l’obtention de l’index des métadonnées locales pour %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="297"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
         <source>Failed to find version for %1 loader</source>
         <translation>La version du loader %1 n&apos;a pas pu être trouvée</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="302"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="303"/>
         <source>No loader version set for modpack!</source>
         <translation>Aucune version du chargeur définie pour le modpack&#x202f;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="339"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Impossible de renommer le dossier de remplacement&#xa0;:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="343"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="344"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Le dossier &quot;overrides&quot; spécifié (%1) est manquant. Peut-être que le pack de mods a déjà été utilisé auparavant&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="372"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Chargeur de mods inconnu dans le manifeste&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="387"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>De mystérieux points finaux ont été retirés de la version de Minecraft lors de l&apos;importation du pack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="420"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>La mémoire recommandée du modpack dépasse 90 % de la RAM de votre système, réduction de %1 Mio à %2 Mio&#x202f;!</translation>
     </message>
@@ -3816,40 +3816,40 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <translation type="vanished">Impossible de mapper la version recommandée de Forge pour Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="459"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Impossible de résoudre les IDs du mod&#xa0;:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="539"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="540"/>
         <source>Blocked mods found</source>
         <translation>Mods bloqués trouvés</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="540"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="541"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Les fichiers suivants ne sont pas téléchargeables sur les launchers tiers.&lt;br/&gt; Vous devrez les télécharger manuellement et les ajouter à l&apos;instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="562"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="563"/>
         <source>Mod Download Flame</source>
         <translation>Téléchargement Mod Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="593"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="594"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 sur %2 terminé</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="606"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
         <source>Copying Blocked Mods...</source>
         <translation>Copie des mods bloqués en cours...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="621"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="622"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Copie des mods bloqués en cours... (%1 sur %2 terminés)</translation>
     </message>
@@ -3870,7 +3870,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <translation type="vanished">Type de paquet inconnu ou pas pris en charge pour&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="598"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="599"/>
         <source>Downloading mods...</source>
         <translation>Téléchargement des mods...</translation>
     </message>
@@ -5649,7 +5649,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="229"/>
         <source>Find Java executable</source>
         <translation>Trouver l&apos;exécutable Java</translation>
     </message>
@@ -5824,17 +5824,17 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
         <translation type="vanished">Détecter automatiquement Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="269"/>
         <source>Select a Java version</source>
         <translation>Sélectionner une version de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
         <source>Confirm Selection</source>
         <translation>Confirmer la sélection</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="279"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -5843,17 +5843,17 @@ Cette installation ne supporte pas plus de 2048 MiB de RAM.
 Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="297"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Votre allocation maximale de mémoire excède votre capacité de mémoire système.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="300"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>Votre allocation maximale de mémoire est proche de la capacité de mémoire de votre système.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="303"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>Votre allocation maximale de mémoire est inférieure à l&apos;allocation minimale.</translation>
     </message>
@@ -5895,17 +5895,17 @@ Veuillez sélectionner l&apos;une des options suivantes ou rechercher un fichier
 <context>
     <name>JavaWizardWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="135"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
         <translation>Télécharger Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="231"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
         <translation>Java 32-bit détecté</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
 %1 will not be able to start Minecraft.
 Do you wish to proceed?
@@ -5920,12 +5920,12 @@ Vous pourrez changer les paramètres Java dans les paramètres plus tard.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="242"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
         <translation>Aucune version de Java sélectionnée</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
 %1 will not be able to start Minecraft.
 Do you wish to proceed without a functional version of Java?
@@ -5940,77 +5940,77 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="349"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="350"/>
         <source>Find Java executable</source>
         <translation>Trouver l&apos;exécutable Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="491"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
         <source>Memory</source>
         <translation>Mémoire</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="493"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>La quantité maximale de mémoire que Minecraft est autorisé à utiliser.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="493"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
         <source>Minimum memory allocation:</source>
         <translation>Allocation minimale de mémoire&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Maximum memory allocation:</source>
         <translation>Allocation maximale de mémoire&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>La quantité de mémoire avec laquelle Minecraft démarre.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>La quantité de mémoire disponible pour stocker les classes Java chargées.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Browse</source>
         <translation>Parcourir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>Auto-download Mojang Java</source>
         <translation>Télécharger automatiquement Java depuis Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
         <source>Auto-detect Java version</source>
         <translation>Détecter automatiquement la version de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Autodetect Java</source>
         <translation>Détecter automatiquement Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="511"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Votre allocation maximale de mémoire excède votre capacité de mémoire système.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="514"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>La quantité de mémoire que vous avez allouée s&apos;approche de la quantité de mémoire de votre système.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="517"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>L&apos;allocation maximale de mémoire est inférieure à la valeur minimale</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="523"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="524"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
         <translation>Vous dépassez l&apos;allocation maximale supportée par les installations 32-bits de Java.</translation>
     </message>
@@ -13250,30 +13250,30 @@ Message d&apos;erreur&#xa0;: %1</translation>
         <translation>Le &lt;a href=&quot;%1&quot;&gt;lien vers le journal envoyé&lt;/a&gt; a été copié dans votre presse-papiers.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="373"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="374"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
         <translation>Le fichier spécifié n&apos;existe pas ou n&apos;est pas un exécutable.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="378"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
         <translation>Le binaire Java spécifié ne s&apos;est pas exécuté correctement.&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="387"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="388"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
         <translation>Le binaire Java spécifié a renvoyé des résultats inattendues&#xa0;:&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="397"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="398"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
         <translation>Vérification de Java réussie&#xa0;!&lt;br /&gt;Plateforme détectée&#xa0;: %1&lt;br /&gt;Version de Java détectée&#xa0;: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="406"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="407"/>
         <source>Java test success</source>
         <translation>Vérification de Java réussie</translation>
     </message>
@@ -13281,7 +13281,7 @@ Message d&apos;erreur&#xa0;: %1</translation>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
         <location filename="src/launcher/JavaCommon.cpp" line="100"/>
         <location filename="src/launcher/JavaCommon.cpp" line="107"/>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="406"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="407"/>
         <source>Java test failure</source>
         <translation>Vérification de Java échouée</translation>
     </message>
