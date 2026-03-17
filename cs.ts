@@ -2277,7 +2277,7 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Nerozpoznaný</translation>
+        <translation>Nerozpoznaný</translation>
     </message>
 </context>
 <context>
@@ -16861,7 +16861,8 @@ Instance se kvůli tomu nemusí spustit.</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavní verze Javy je nekompatibilní. Očekávejte rozbité věci.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
