@@ -2297,7 +2297,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">未识别</translation>
+        <translation>未识别</translation>
     </message>
 </context>
 <context>
@@ -16886,13 +16886,14 @@ The instance may not start due to this.</source>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Java 大版本不兼容，可能会出问题。</translation>
+        <translation>Java 主版本不兼容。游戏可能无法正常运行。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Java 主版本不兼容。游戏可能无法正常运行。
+</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
@@ -17462,7 +17463,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation>大版本号</translation>
+        <translation>主版本号</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
@@ -17509,7 +17510,7 @@ Please add your Mojang or Minecraft account.</source>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation>Java 主要版本</translation>
+        <translation>Java 主版本</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
