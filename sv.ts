@@ -4199,7 +4199,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <translation>Hämta beroenden</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="193"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Ett nätverksfel uppstod. Kunde inte läsa in projektberoenden:%1</translation>
@@ -11032,32 +11032,32 @@ Vänligen uppdatera %1!</translation>
         <translation type="vanished">Inaktiverade mods kommer inte att uppdateras för att förhindra problem med modduplicering!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="53"/>
         <source>Preparing resources for Modrinth...</source>
         <translation>Förbereder resurser för Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Tolkar API-svaret från Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>Not installed</source>
         <translation>Inte installerad</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
         <source>Unknown</source>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Ingen giltig version hittad för denna resurs. Den är förmodligen otillgängling för nuvarande spelversion/modladdare.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="226"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Ingen giltig version hittad för denna resurs. Den är förmodligen otillgänglig för nuvarande spelversion.</translation>
     </message>
@@ -11070,7 +11070,7 @@ Vänligen uppdatera %1!</translation>
         <translation type="vanished">Mod har en tom nedladdnings-URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="89"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Väntar på API-svaret från Modrinth...</translation>
     </message>
@@ -13505,7 +13505,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="123"/>
         <source>Sort by Last Updated</source>
         <translation>Sortera efter senast uppdaterad</translation>
     </message>
@@ -13521,7 +13521,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Downloads</source>
         <translation>Sortera efter nedladdningar</translation>
     </message>
@@ -13536,17 +13536,17 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation>Sortera efter spelversion</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Relevance</source>
         <translation>Sortera efter relevans</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Follows</source>
         <translation>Sortera efter följare</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
         <source>Sort by Newest</source>
         <translation>Sortera efter nyaste</translation>
     </message>
@@ -13897,7 +13897,7 @@ Felmeddelande: %3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="137"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
         <source> for %1</source>
         <translation type="unfinished"></translation>
     </message>

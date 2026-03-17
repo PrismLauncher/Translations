@@ -4226,7 +4226,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation>Bağımlılıkları al</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="193"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Bir ağ hatası oluştu. Proje bağımlılıkları yüklenemedi:%1</translation>
@@ -11191,32 +11191,32 @@ Lütfen %1 programını güncelleyin!</translation>
         <translation type="vanished">Mod kopyalanma sorunlarının önlenmesi için devre dışı modlar güncellenmeyecek!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="53"/>
         <source>Preparing resources for Modrinth...</source>
         <translation>Modrinth için kaynaklar hazırlanıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Modrinth&apos;ten API yanıtı çözümleniyor…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>Not installed</source>
         <translation>Yüklü değil</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
         <source>Unknown</source>
         <translation>Bilinmeyen</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Bu kaynak için geçerli bir sürüm bulunamadı. Muhtemelen mevcut oyun sürümü / mod yükleyicisi için kullanılamıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="226"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Bu kaynak için geçerli bir sürüm bulunamadı. Muhtemelen mevcut oyun sürümü için kullanılamıyor.</translation>
     </message>
@@ -11229,7 +11229,7 @@ Lütfen %1 programını güncelleyin!</translation>
         <translation type="vanished">Modun boş indirme URL&apos;si var</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="89"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Modrinth&apos;ten API yanıtı bekleniyor…</translation>
     </message>
@@ -13680,7 +13680,7 @@ Bu güncelleme için eski kayıt dosyalarını silmek ister misiniz?</translatio
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="123"/>
         <source>Sort by Last Updated</source>
         <translation>Son güncellenene göre sırala</translation>
     </message>
@@ -13696,7 +13696,7 @@ Bu güncelleme için eski kayıt dosyalarını silmek ister misiniz?</translatio
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Downloads</source>
         <translation>İndirilmeye Göre Sırala</translation>
     </message>
@@ -13711,17 +13711,17 @@ Bu güncelleme için eski kayıt dosyalarını silmek ister misiniz?</translatio
         <translation>Oyun sürümüne göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Relevance</source>
         <translation>İlgiye göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Follows</source>
         <translation>Takip edilene göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
         <source>Sort by Newest</source>
         <translation>En yeniye göre sırala</translation>
     </message>
@@ -14080,7 +14080,7 @@ Hata mesajı: %3</translation>
         <translation>Veri paketleri</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="137"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
         <source> for %1</source>
         <translation> için 1%</translation>
     </message>

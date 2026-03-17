@@ -4223,7 +4223,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <translation>Scarico le mods necessarie</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="193"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Si è verificato un errore di rete. Non è stato possibile caricare le dipendenze del progetto:%1</translation>
@@ -11118,32 +11118,32 @@ Aggiorna %1!</translation>
         <translation type="vanished">Le mod disabilitate non verranno aggiornate, così da prevenire problemi di duplicazione delle mod!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="53"/>
         <source>Preparing resources for Modrinth...</source>
         <translation>Preparando le risorse per Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Sto ottenendo la risposta API di Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>Not installed</source>
         <translation>Non installato</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
         <source>Unknown</source>
         <translation>Sconosciuto</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Nessuna versione valida trovata per questa risorsa. È probabilmente non disponibile per la versione del gioco attuale / mod loader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="226"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Nessuna versione trovata per questa risorsa. È probabilmente non disponibile per la versione del gioco attuale.</translation>
     </message>
@@ -11156,7 +11156,7 @@ Aggiorna %1!</translation>
         <translation type="vanished">La mod ha un URL di download vuoto</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="89"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>In attesa della risposta API di Modrinth...</translation>
     </message>
@@ -13595,7 +13595,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="123"/>
         <source>Sort by Last Updated</source>
         <translation>Ordina per Ultimo Aggiornamento</translation>
     </message>
@@ -13611,7 +13611,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Downloads</source>
         <translation>Ordina per Numero di Download</translation>
     </message>
@@ -13626,17 +13626,17 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation>Ordina per Versione di Gioco</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Relevance</source>
         <translation>Ordina per Pertinenza</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Follows</source>
         <translation>Ordina per Follows</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
         <source>Sort by Newest</source>
         <translation>Ordina per Data di Creazione</translation>
     </message>
@@ -14002,7 +14002,7 @@ Messaggio d&apos;errore: %3</translation>
         <translation>Pacchetti Dati</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="137"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
         <source> for %1</source>
         <translation> per %1</translation>
     </message>

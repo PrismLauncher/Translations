@@ -4234,7 +4234,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>获取前置项</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="193"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>发生网络错误。无法加载前置项：%1</translation>
@@ -11264,32 +11264,32 @@ Please update %1!</source>
         <translation type="vanished">为避免 Mod 重复的问题，被停用的 Mod 将不会被更新！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="53"/>
         <source>Preparing resources for Modrinth...</source>
         <translation>正在准备 Modrinth 的资源…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>正在解析 Modrinth 的 API 响应…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>Not installed</source>
         <translation>未安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>未找到此资源的有效版本。它可能不适用于当前游戏版本 / Mod 加载器。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="226"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>未找到此资源的有效版本。它可能不适用于当前游戏版本。</translation>
     </message>
@@ -11302,7 +11302,7 @@ Please update %1!</source>
         <translation type="vanished">Mod 的下载链接为空</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="89"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>正在等待 Modrinth API 响应…</translation>
     </message>
@@ -13758,7 +13758,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="123"/>
         <source>Sort by Last Updated</source>
         <translation>按最后更新时间排序</translation>
     </message>
@@ -13774,7 +13774,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Downloads</source>
         <translation>按下载量排序</translation>
     </message>
@@ -13789,17 +13789,17 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation>按游戏版本排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Relevance</source>
         <translation>按相关度排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Follows</source>
         <translation>按关注数排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
         <source>Sort by Newest</source>
         <translation>按最近更新排序</translation>
     </message>
@@ -14158,7 +14158,7 @@ Error message: %3</source>
         <translation>数据包</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="137"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
         <source> for %1</source>
         <translation> 适配版本 %1</translation>
     </message>
