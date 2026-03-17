@@ -27,7 +27,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="411"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
         <source>Use Default</source>
         <translation>Brug Standard</translation>
     </message>
@@ -83,7 +83,12 @@
         <translation>&amp;CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="401"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
+        <source>Enable fallback to Modrinth for blocked mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
         <source>&amp;Technic</source>
         <translation>&amp;Technic</translation>
     </message>
@@ -127,7 +132,7 @@
         <translation type="vanished">Technic klient-id</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bemærk: Du behøver kun at indstille dette for at tilgå private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -956,12 +961,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <translation>Denne log kan ikke vises eftersom loglængden oversteg %1 linjer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="900"/>
+        <location filename="src/launcher/Application.cpp" line="901"/>
         <source>Settings</source>
         <translation>Indstillinger</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1062"/>
+        <location filename="src/launcher/Application.cpp" line="1063"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -988,12 +993,12 @@ for detaljer om det sidste opdateringsforsøg.
 For at slette denne lås og fortsætte skal du vælge &quot;Ignorer&quot; nedenfor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1079"/>
+        <location filename="src/launcher/Application.cpp" line="1080"/>
         <source>Update In Progress</source>
         <translation>Opdatering Igang</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1103"/>
+        <location filename="src/launcher/Application.cpp" line="1104"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -1008,12 +1013,12 @@ Check Prism Launcer updateringsloggen på:
 For flere detalier på sidste opdaterings forsøg.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1111"/>
+        <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update Failed</source>
         <translation>Opdatering Fejlede</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1135"/>
+        <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1034,12 +1039,12 @@ Tjek Prism Launcherens-opdateringsloggen ved:
 for detaljer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1143"/>
+        <location filename="src/launcher/Application.cpp" line="1144"/>
         <source>Update Succeeded</source>
         <translation>Opdatering fuldført</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1175"/>
+        <location filename="src/launcher/Application.cpp" line="1176"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1059,7 +1064,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1181"/>
+        <location filename="src/launcher/Application.cpp" line="1182"/>
         <source>Incompatible system configuration</source>
         <translation>Inkompatibel systemkonfiguration</translation>
     </message>
@@ -1068,22 +1073,22 @@ Nogle versioner af Minecraft starter muligvis ikke.
         <translation>Afbrudt</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1931"/>
+        <location filename="src/launcher/Application.cpp" line="1932"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Gamle data fra %1 blev fundet, men du har allerede eksisterende data for %2. Det betyder desværre, at du må migrere på egen hånd. Vil du mindes om den afventende datamigrering næste gang du starter %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1935"/>
+        <location filename="src/launcher/Application.cpp" line="1936"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Det ser ud til, at du har brugt %1 før. Vil du migrere dine data til den nye placering af %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1941"/>
+        <location filename="src/launcher/Application.cpp" line="1942"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Det ser ud som du tidligere brugt %1 på %2. Vil du migrere din data til det nye sted %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1987"/>
+        <location filename="src/launcher/Application.cpp" line="1988"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration mislykket! Årsag: %1</translation>
     </message>
@@ -3538,18 +3543,18 @@ Prøv venligst igen.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <source>Resolving mod IDs...</source>
         <translation>Behandler mod-ID’er...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="149"/>
         <source>Invalid data returned from the API.</source>
         <translation>Ugyldig data returneret fra API.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="257"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="254"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Fortolker API-svar fra CurseForge for &apos;%1&apos;...</translation>
     </message>

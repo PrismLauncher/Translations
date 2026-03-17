@@ -27,7 +27,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="411"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
         <source>Use Default</source>
         <translation>Përdorni Default</translation>
     </message>
@@ -83,7 +83,12 @@
         <translation>CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="401"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
+        <source>Enable fallback to Modrinth for blocked mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
         <source>&amp;Technic</source>
         <translation>Teknik</translation>
     </message>
@@ -122,7 +127,7 @@
         <translation type="vanished">ID-ja e klientit teknik</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Shënim: duhet ta caktoni këtë vetëm për të pasur akses në të dhënat private.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -760,12 +765,12 @@ Nese jeni i ri ketu, ju mundeni te selektoni &quot;Shto Microsoft&quot; buton qe
         <translation>Nuk mund ta shfaqë këtë regjistër pasi gjatësia e tij tejkaloi %1 rreshta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="900"/>
+        <location filename="src/launcher/Application.cpp" line="901"/>
         <source>Settings</source>
         <translation>Cilesimet</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1062"/>
+        <location filename="src/launcher/Application.cpp" line="1063"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -792,12 +797,12 @@ për detaje mbi përpjekjen e fundit të përditësimit.
 Për të fshirë këtë bllokim dhe për të vazhduar, zgjidhni &quot;Injoro&quot; më poshtë.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1079"/>
+        <location filename="src/launcher/Application.cpp" line="1080"/>
         <source>Update In Progress</source>
         <translation>Përditsimi në vazhdim</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1103"/>
+        <location filename="src/launcher/Application.cpp" line="1104"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -812,12 +817,12 @@ Kontrolloni regjistrin e përditësuesit të Prism Launcher te:
 për detaje mbi përpjekjen e fundit për përditësim.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1111"/>
+        <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update Failed</source>
         <translation>Perditesimi Deshtoi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1135"/>
+        <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -838,12 +843,12 @@ Kontrolloni regjistrin e përditësimit të Prism Launcher në:
 per detajet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1143"/>
+        <location filename="src/launcher/Application.cpp" line="1144"/>
         <source>Update Succeeded</source>
         <translation>Perditesimi ia Doli</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1175"/>
+        <location filename="src/launcher/Application.cpp" line="1176"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -856,7 +861,7 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1181"/>
+        <location filename="src/launcher/Application.cpp" line="1182"/>
         <source>Incompatible system configuration</source>
         <translation>Konfigurim i papajtueshëm i sistemit</translation>
     </message>
@@ -865,22 +870,22 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
         <translation>E ndërprerë</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1931"/>
+        <location filename="src/launcher/Application.cpp" line="1932"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>U gjetën të dhëna të vjetra nga %1, por ju tashmë keni të dhëna ekzistuese për %2. Fatkeqësisht, do t&apos;ju duhet të migroni vetë. Dëshironi të kujtoheni për migrimin e të dhënave në pritje herën tjetër që të nisni %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1935"/>
+        <location filename="src/launcher/Application.cpp" line="1936"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Me sa duket e ke përdorur %1 më parë. Dëshiron të migrosh të dhënat e tua në vendndodhjen e re të %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1941"/>
+        <location filename="src/launcher/Application.cpp" line="1942"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Me sa duket e ke përdorur %1 në %2 më parë. Dëshiron të migrosh të dhënat e tua në vendndodhjen e re të %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1987"/>
+        <location filename="src/launcher/Application.cpp" line="1988"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrimi dështoi! Arsyeja: %1</translation>
     </message>
@@ -3025,18 +3030,18 @@ Please try again.</source>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <source>Resolving mod IDs...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="149"/>
         <source>Invalid data returned from the API.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="257"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="254"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation type="unfinished"></translation>
     </message>

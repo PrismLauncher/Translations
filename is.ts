@@ -27,7 +27,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="411"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
         <source>Use Default</source>
         <translation>Nota sjálfgefið</translation>
     </message>
@@ -83,7 +83,12 @@
         <translation>&amp;CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="401"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
+        <source>Enable fallback to Modrinth for blocked mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
         <source>&amp;Technic</source>
         <translation>&amp;Technic</translation>
     </message>
@@ -127,7 +132,7 @@
         <translation type="vanished">Technic notendaauðkenni</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Athugið: þú þarft aðeins að stilla þetta á aðgang að einkagögnum .&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -872,12 +877,12 @@ Ef þú ert nýr hér geturðu valið hnappinn „Bæta við Microsoft“ til a�
         <translation>Get ekki birt þessa skrá þar sem lengd hennar fór yfir %1 línur.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="900"/>
+        <location filename="src/launcher/Application.cpp" line="901"/>
         <source>Settings</source>
         <translation>Stillingar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1062"/>
+        <location filename="src/launcher/Application.cpp" line="1063"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -904,12 +909,12 @@ fyrir upplýsingar um síðustu uppfærslutilraun.
 Til að eyða þessum lás og halda áfram skaltu velja &quot;Hunsa&quot; fyrir neðan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1079"/>
+        <location filename="src/launcher/Application.cpp" line="1080"/>
         <source>Update In Progress</source>
         <translation>Uppfærsla Í Gangi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1103"/>
+        <location filename="src/launcher/Application.cpp" line="1104"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -924,12 +929,12 @@ Athugaðu uppfærsluskrá Prism Launcher á:
 fyrir upplýsingar um síðustu uppfærslutilraun.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1111"/>
+        <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update Failed</source>
         <translation>Uppfærsla Mistókst</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1135"/>
+        <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -950,12 +955,12 @@ Athugaðu uppfærsluskrá Prism Launcher á:
 fyrir nánari upplýsingar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1143"/>
+        <location filename="src/launcher/Application.cpp" line="1144"/>
         <source>Update Succeeded</source>
         <translation>Uppfærsla Tókst</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1175"/>
+        <location filename="src/launcher/Application.cpp" line="1176"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -972,7 +977,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1181"/>
+        <location filename="src/launcher/Application.cpp" line="1182"/>
         <source>Incompatible system configuration</source>
         <translation>Ósamrýmanlegurkerfisstilling</translation>
     </message>
@@ -981,22 +986,22 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
         <translation>Hætt við</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1931"/>
+        <location filename="src/launcher/Application.cpp" line="1932"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Gömul gögn frá %1 fundust, en þú ert nú þegar með gögn fyrir %2. Því miður þarftu að flytja sjálfur. Viltu vera minntur á gagnaflutninginn sem er í bið næst þegar þú byrjar %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1935"/>
+        <location filename="src/launcher/Application.cpp" line="1936"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Það lítur út fyrir að þú hafir notað %1 áður. Viltu flytja gögnin þín á nýja staðsetningu %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1941"/>
+        <location filename="src/launcher/Application.cpp" line="1942"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Það lítur út fyrir að þú hafir notað %1 á %2 áður. Viltu flytja gögnin þín á nýja staðsetningu %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1987"/>
+        <location filename="src/launcher/Application.cpp" line="1988"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Flutningur mistókst! Ástæða: %1</translation>
     </message>
@@ -3364,18 +3369,18 @@ Vinsamlegast reyndu aftur.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <source>Resolving mod IDs...</source>
         <translation>Greini auðkenni viðbóta…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="149"/>
         <source>Invalid data returned from the API.</source>
         <translation>Ógild gögn skiluð frá API.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="257"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="254"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation type="unfinished">Greini API-svar frá CurseForge fyrir &apos;%1&apos;...</translation>
     </message>

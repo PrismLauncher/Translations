@@ -35,7 +35,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="411"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
         <source>Use Default</source>
         <translation>Varsayılanı Kullan</translation>
     </message>
@@ -91,7 +91,12 @@
         <translation>&amp;CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="401"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
+        <source>Enable fallback to Modrinth for blocked mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
         <source>&amp;Technic</source>
         <translation>&amp;Technic</translation>
     </message>
@@ -135,7 +140,7 @@
         <translation type="vanished">Technic Başlatıcı Kimliği</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Not: Bunu yalnızca özel verilere erişmek için ayarlamanız gerekir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -964,12 +969,12 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <translation>Günlük uzunluğu %1 satırı aştığı için bu günlük görüntülenemiyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="900"/>
+        <location filename="src/launcher/Application.cpp" line="901"/>
         <source>Settings</source>
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1062"/>
+        <location filename="src/launcher/Application.cpp" line="1063"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -996,12 +1001,12 @@ son güncelleme girişimiyle ilgili ayrıntılar için.
 Kilidi silmek ve devam etmek için aşağıdan &quot;Yoksay&quot; seçeneğini seçin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1079"/>
+        <location filename="src/launcher/Application.cpp" line="1080"/>
         <source>Update In Progress</source>
         <translation>Güncelleme Sürüyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1103"/>
+        <location filename="src/launcher/Application.cpp" line="1104"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -1016,12 +1021,12 @@ Prism Launcher güncelleyici günlüğünü şu adresten kontrol edin:
 son güncelleme girişimiyle ilgili ayrıntılar için.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1111"/>
+        <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update Failed</source>
         <translation>Güncelleme Başarısız Oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1135"/>
+        <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1042,12 +1047,12 @@ Prism Launcher güncelleyici günlüğünü şu adresten kontrol edin:
 detaylar için.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1143"/>
+        <location filename="src/launcher/Application.cpp" line="1144"/>
         <source>Update Succeeded</source>
         <translation>Güncelleme Başarılı Oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1175"/>
+        <location filename="src/launcher/Application.cpp" line="1176"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1068,7 +1073,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1181"/>
+        <location filename="src/launcher/Application.cpp" line="1182"/>
         <source>Incompatible system configuration</source>
         <translation>Uyumsuz sistem yapılandırması</translation>
     </message>
@@ -1077,22 +1082,22 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1931"/>
+        <location filename="src/launcher/Application.cpp" line="1932"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1&apos;deki eski veri bulundu, ama hâlihazırda %2 için veriye sahipsin. Kendi başına aktarma yapmak zorundasın. %2&apos;yi sıradaki başlatışında bekleyen veri hakkında hatırlatılmak istiyor musun ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1935"/>
+        <location filename="src/launcher/Application.cpp" line="1936"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Görünüşe bakılırsa %1&apos;i daha önce kullanmışsın. Verilerini %2&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1941"/>
+        <location filename="src/launcher/Application.cpp" line="1942"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Görünüşe bakılırsa daha önceden %1&apos;i %2 de kullanmışsın. Yeni verileri %3&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1987"/>
+        <location filename="src/launcher/Application.cpp" line="1988"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Aktarım başarısız! Hatanın sebebi: %1</translation>
     </message>
@@ -3637,18 +3642,18 @@ Lütfen tekrar deneyin.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <source>Resolving mod IDs...</source>
         <translation>Mod ID&apos;leri çözümleniyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="149"/>
         <source>Invalid data returned from the API.</source>
         <translation>Geçersiz veri API&apos;den geri döndü.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="257"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="254"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>&apos;%1&apos; için CurseForge&apos;dan gelen API yanıtı ayrıştırılıyor...</translation>
     </message>

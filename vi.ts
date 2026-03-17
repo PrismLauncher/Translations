@@ -31,7 +31,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="411"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
         <source>Use Default</source>
         <translation>Sử dụng Mặc định</translation>
     </message>
@@ -87,7 +87,12 @@
         <translation>CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="401"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
+        <source>Enable fallback to Modrinth for blocked mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
         <source>&amp;Technic</source>
         <translation>Technic</translation>
     </message>
@@ -131,7 +136,7 @@
         <translation type="vanished">Client ID của Technic</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: bạn chỉ cần đặt nếu bạn muốn truy cập những thông tin riêng&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -952,12 +957,12 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <translation>Không thể hiển thị văn bản nhật ký này khi độ dài nhật ký vượt quá %1 dòng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="900"/>
+        <location filename="src/launcher/Application.cpp" line="901"/>
         <source>Settings</source>
         <translation>Cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1062"/>
+        <location filename="src/launcher/Application.cpp" line="1063"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -984,12 +989,12 @@ Kiểm tra tệp log cho việc cập nhật Prism Launcher ở:
 Để xóa bỏ khóa này và tiếp tục hãy chọn nút &quot;Bỏ Mặc&quot; ở dưới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1079"/>
+        <location filename="src/launcher/Application.cpp" line="1080"/>
         <source>Update In Progress</source>
         <translation>Đang cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1103"/>
+        <location filename="src/launcher/Application.cpp" line="1104"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -1004,12 +1009,12 @@ Kiểm tra tệp log để cập nhật Prism Launcher ở:
 để hiểu thêm về lượt thử cập nhật cuối.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1111"/>
+        <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update Failed</source>
         <translation>Cập nhật thất bại</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1135"/>
+        <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1030,12 +1035,12 @@ Kiểm tra tệp log để cập nhật Prism Launcher ở:
 để biết thêm.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1143"/>
+        <location filename="src/launcher/Application.cpp" line="1144"/>
         <source>Update Succeeded</source>
         <translation>Cập nhật thành công</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1175"/>
+        <location filename="src/launcher/Application.cpp" line="1176"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1056,7 +1061,7 @@ Một số phiên bản Minecraft có thể không khởi động.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1181"/>
+        <location filename="src/launcher/Application.cpp" line="1182"/>
         <source>Incompatible system configuration</source>
         <translation>Cấu hình hệ thống của bạn không tương thích</translation>
     </message>
@@ -1065,22 +1070,22 @@ Một số phiên bản Minecraft có thể không khởi động.
         <translation>Bị gián đoạn</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1931"/>
+        <location filename="src/launcher/Application.cpp" line="1932"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Dữ liệu cũ từ %1 đã được tìm thấy, nhưng bạn đã có dữ liệu cho %2. Thật buồn khi bạn sẽ phải di chuyển dữ liệu của mình đi. Bạn có muốn được nhắc nhở về việc di chuyển dữ liệu đang chờ xử lý khi bạn bắt đầu % 2 ở lần kế tiếp không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1935"/>
+        <location filename="src/launcher/Application.cpp" line="1936"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Hình như bạn đã dùng %1 trước đây. Bạn có muốn di chuyển dữ liệu của bạn sang vị trí mới ở %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1941"/>
+        <location filename="src/launcher/Application.cpp" line="1942"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Hình như bạn đã dùng %1 trên %2 trước đây. Bạn có muốn di chuyển dữ liệu sang vị trí mới ở %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1987"/>
+        <location filename="src/launcher/Application.cpp" line="1988"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Di chuyển không thành công! Lí do: %1</translation>
     </message>
@@ -3565,18 +3570,18 @@ Vui lòng thử lại.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <source>Resolving mod IDs...</source>
         <translation>Đang giải quyết mod IDs...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="149"/>
         <source>Invalid data returned from the API.</source>
         <translation>Dữ liệu không hợp lệ được trả về từ API.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="257"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="254"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Đang phân tích phản hồi từ CurseForge API cho &apos;%1&apos;...</translation>
     </message>
