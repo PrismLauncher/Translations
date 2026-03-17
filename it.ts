@@ -6229,7 +6229,7 @@ Vuoi giocare alla demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Si è verificato un errore durante l&apos;aggiornamento di &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
@@ -13468,13 +13468,14 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="89"/>
         <source>Delete Existing Save Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina i file di salvataggio esistenti</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="90"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Una versione precedente di questo pacchetto di mod installava dei file di salvataggio.
+Vuoi eliminare quei salvataggi esistenti nell&apos;ambito di questo aggiornamento?</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -16732,7 +16733,8 @@ A causa di questo l&apos;instanza potrebbe non avviarsi.</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>La versione di Java non è compatibile. Potrebbero verificarsi dei bug.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
