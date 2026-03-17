@@ -11458,72 +11458,72 @@ Virheviesti: %3</translation>
 <context>
     <name>PrismExternalUpdater</name>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="97"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="100"/>
         <source>Checking for updates...</source>
         <translation>Tarkistetaan päivityksiä...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="128"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="149"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="132"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="153"/>
         <source>Update Check Failed</source>
         <translation>Päivitystarkistus epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="129"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="133"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>Ei voitu käynnistää 5 sekunnin sisällä
 Syy: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="150"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="154"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>Päivittäjä ei sammunut 60 sekunnissa
 Syy: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="175"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="311"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="179"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>No Update Available</source>
         <translation>Ei päivitystä saatavilla</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="175"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="179"/>
         <source>You are running the latest version.</source>
         <translation>Sinulla on käytössä uusin versio.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="186"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="190"/>
         <source>Update Check Error</source>
         <translation>Virhe päivitystarkistuksessa</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="187"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="191"/>
         <source>There was an error running the update check.</source>
         <translation>Tapahtui virhe päivitystarkistuksessa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="218"/>
         <source>Unknown Update Error</source>
         <translation>Tuntematon päivitysvirhe</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="215"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="219"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>Päivittäjä sammui tuntemattomalla ehdolla.
 Poistumiskoodi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="217"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="221"/>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>Standardituloste (stdout): %1
 Standardivirhe (stderr): %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="311"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>There are no new updates available.</source>
         <translation>Uusia päivityksiä ei ole saatavilla.</translation>
     </message>

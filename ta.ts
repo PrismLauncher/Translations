@@ -10269,72 +10269,72 @@ Error message: %3</source>
 <context>
     <name>PrismExternalUpdater</name>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="97"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="100"/>
         <source>Checking for updates...</source>
         <translation>புதுப்பிப்புகளைச் சரிபார்க்கிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="128"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="149"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="132"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="153"/>
         <source>Update Check Failed</source>
         <translation>புதுப்பிப்பு காசோலை தோல்வியடைந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="129"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="133"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>5 விநாடிகளுக்குப் பிறகு தொடங்குவதில் தோல்வி
  காரணம்: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="150"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="154"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>புதுப்பிப்பு 60 வினாடிகளை மூடத் தவறிவிட்டது
  காரணம்: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="175"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="311"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="179"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>No Update Available</source>
         <translation>புதுப்பிப்பு எதுவும் கிடைக்கவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="175"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="179"/>
         <source>You are running the latest version.</source>
         <translation>நீங்கள் அண்மைக் கால பதிப்பை இயக்குகிறீர்கள்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="186"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="190"/>
         <source>Update Check Error</source>
         <translation>காசோலை பிழையைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="187"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="191"/>
         <source>There was an error running the update check.</source>
         <translation>புதுப்பிப்பு காசோலையை இயக்கும் பிழை இருந்தது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="218"/>
         <source>Unknown Update Error</source>
         <translation>தெரியாத புதுப்பிப்பு பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="215"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="219"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>புதுப்பிப்பு அறியப்படாத நிபந்தனையுடன் வெளியேறியது.
  வெளியேறு குறியீடு: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="217"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="221"/>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>Stdout: %1
  Stderr: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="311"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>There are no new updates available.</source>
         <translation>புதிய புதுப்பிப்புகள் எதுவும் கிடைக்கவில்லை.</translation>
     </message>

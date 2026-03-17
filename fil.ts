@@ -10293,72 +10293,72 @@ Mensahe ng Error: %3</translation>
 <context>
     <name>PrismExternalUpdater</name>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="97"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="100"/>
         <source>Checking for updates...</source>
         <translation>Nag-checheck ng mga update…</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="128"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="149"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="132"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="153"/>
         <source>Update Check Failed</source>
         <translation>Hindi magawa ang Update Check</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="129"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="133"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>Hindi ma-start pagkatapos ng 5 na segundo
 Dahilan: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="150"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="154"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>Hindi ma-sara ang Updater pagkatapos ng isang minuto
 Dahilan: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="175"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="311"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="179"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>No Update Available</source>
         <translation>Walang update na bago</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="175"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="179"/>
         <source>You are running the latest version.</source>
         <translation>Ginagamit mo ang latest na bersyon.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="186"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="190"/>
         <source>Update Check Error</source>
         <translation>Error sa Update Checking</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="187"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="191"/>
         <source>There was an error running the update check.</source>
         <translation>Nagkaroon ng error sa pag-run ng update check.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="218"/>
         <source>Unknown Update Error</source>
         <translation>Unknown Update Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="215"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="219"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>Nag-exit ang updater dahil sa hindi kilalang kondisyon.
 Exit Code: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="217"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="221"/>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>StdOut: %1
 StdErr: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="311"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>There are no new updates available.</source>
         <translation>Walang mahanap na bagong updates.</translation>
     </message>

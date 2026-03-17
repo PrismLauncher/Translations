@@ -12244,72 +12244,72 @@ Error message: %3</source>
 <context>
     <name>PrismExternalUpdater</name>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="97"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="100"/>
         <source>Checking for updates...</source>
         <translation>업데이트 확인 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="128"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="149"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="132"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="153"/>
         <source>Update Check Failed</source>
         <translation>업데이트 확인 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="129"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="133"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>5초 이후에 시작 실패
 이유: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="150"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="154"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>업데이터를 60초 동안 닫지 못했습니다
 이유: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="175"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="311"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="179"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>No Update Available</source>
         <translation>최신 버전입니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="175"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="179"/>
         <source>You are running the latest version.</source>
         <translation>최신 버전을 실행하고 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="186"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="190"/>
         <source>Update Check Error</source>
         <translation>업데이트 확인 오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="187"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="191"/>
         <source>There was an error running the update check.</source>
         <translation>업데이트를 확인하는 중에 오류가 발생했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="218"/>
         <source>Unknown Update Error</source>
         <translation>알 수 없는 업데이트 오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="215"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="219"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>Updater가 알 수 없는 상태로 종료되었습니다.
 종료 코드: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="217"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="221"/>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>StdOut: %1
 StdErr: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="311"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>There are no new updates available.</source>
         <translation>새로운 업데이트가 없습니다.</translation>
     </message>

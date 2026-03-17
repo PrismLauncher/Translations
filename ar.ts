@@ -11029,72 +11029,72 @@ Error message: %3</source>
 <context>
     <name>PrismExternalUpdater</name>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="97"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="100"/>
         <source>Checking for updates...</source>
         <translation>جار التحقق من التحديثات...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="128"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="149"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="132"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="153"/>
         <source>Update Check Failed</source>
         <translation>تعذر التحقق من التحديثات</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="129"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="133"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>تعذر البدء بعد 5 ثواني
 السبب: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="150"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="154"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>تعذر إغلاق المحدث بعد 60 ثانية
 السبب: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="175"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="311"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="179"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>No Update Available</source>
         <translation>لا يوجد تحديثات</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="175"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="179"/>
         <source>You are running the latest version.</source>
         <translation>إنك تشغل احدث إصدار.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="186"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="190"/>
         <source>Update Check Error</source>
         <translation>خطأ في التحقق من التحديثات</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="187"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="191"/>
         <source>There was an error running the update check.</source>
         <translation>حصل خطأ عند التحقق من التحديثات.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="218"/>
         <source>Unknown Update Error</source>
         <translation>خطأ مجهول عند التحديث</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="215"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="219"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>أغلق المحدث لحالة غامضة.
 رمز الخروج: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="217"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="221"/>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>المخرج القياسي: %1
 خطأ القياسي: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="311"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>There are no new updates available.</source>
         <translation>لا توجد تحديثات جديدة.</translation>
     </message>
