@@ -97,7 +97,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>차단된 모드를 Modrinth로 대체하도록 허용</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -2291,7 +2291,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">인식 불가</translation>
+        <translation>인식되지 않음</translation>
     </message>
 </context>
 <context>
@@ -2323,7 +2323,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>인식 불가</translation>
+        <translation>인식되지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -6484,12 +6484,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 다운로드 Java 위치(&amp;A):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher가 자동으로 다운로드한 Java 버전을 저장하는 폴더입니다. 이 항목을 시스템의 Java 설치 경로로 설정하지 마십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
@@ -13238,7 +13238,7 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>메인 JAR을 받을 URL을 결정할 수 없었음 - Mojang이 기존에 파일을 제공하던 서버를 내려 더 이상 찾을 수 없습니다.</translation>
+        <translation>메인 JAR를 받을 URL을 확인할 수 없음 - Mojang에서 기존에 대체 서버로 사용하던 서버를 삭제하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
@@ -14623,7 +14623,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>인식 불가</translation>
+        <translation>인식되지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -16789,7 +16789,8 @@ The instance may not start due to this.</source>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>호환되지 않는 Java 메이저 버전입니다. 문제가 발생할 수 있습니다.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
