@@ -6171,17 +6171,17 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <translation>Priečinky</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
         <source>I&amp;nstances:</source>
         <translation>Inštancie:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="292"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="332"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="328"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="335"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="345"/>
         <source>Browse</source>
         <translation>Prehliadať</translation>
     </message>
@@ -6241,52 +6241,62 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <translation>Každé </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
+        <source>&amp;Auto Java Download:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
+        <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
         <source>&amp;Mods:</source>
         <translation>&amp;Módy:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="358"/>
         <source>&amp;Icons:</source>
         <translation>&amp;Ikony:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
         <translation type="unfinished">V súčasnosti sa tu zobrazujú len modifikácie, ktoré nie sú označené ako kompatibilné s aktuálnou verziou Minecraftu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="430"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
         <translation type="unfinished">Detekcia a zobrazenie nekompatibilít modov (experimentálne)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="462"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="465"/>
         <source>Log History &amp;Limit:</source>
         <translation>Logová História &amp;Limit:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="507"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="510"/>
         <source>Tasks</source>
         <translation>Úlohy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="570"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="573"/>
         <source>Retry Limit:</source>
         <translation>Limit Opakovaných pokusov:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="580"/>
         <source>Concurrent Download Limit:</source>
         <translation>Limit Súbežného Sťahovania:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="587"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="590"/>
         <source>HTTP Timeout:</source>
         <translation>Časový limit HTTP:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="613"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="616"/>
         <source>Concurrent Task Limit:</source>
         <translation>Limit Súbežných Úloh:</translation>
     </message>
@@ -6361,7 +6371,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <translation type="vanished">Zakázať používanie metadát pre módy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="407"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varovanie&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Zakázanie metadát módu môže tiež vypnúť niektoré funkcie QoL, ako napríklad aktualizácie módov!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -6380,7 +6390,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <translation type="obsolete">Farby</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
         <source>&amp;Downloads:</source>
         <translation>&amp;Stiahnutia:</translation>
     </message>
@@ -6401,12 +6411,12 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <translation type="vanished">h</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
         <source>&amp;Skins:</source>
         <translation>&amp;Skiny:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>Ak je táto možnosť povolená, okrem priečinka so stiahnutými súbormi sa pri vyhľadávaní zdrojov (napr. pri vyhľadávaní blokovaných módov na CurseForge) prehľadajú aj jeho podpriečinky.</translation>
     </message>
@@ -6444,7 +6454,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <translation type="vanished">Počet súbežných sťahovaní</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="584"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="587"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>Sekundy čakania na ukončenie požiadaviek</translation>
     </message>
@@ -6453,7 +6463,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <translation type="vanished">Časový limit pre HTTP požiadavku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="563"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="566"/>
         <source>s</source>
         <translation>s</translation>
     </message>
@@ -6462,12 +6472,11 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <translation type="vanished">Počet manuálnych pokusov</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
         <translation>Ak je povolené, blokované zdroje sa presunú namiesto ich kopírovania.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Java:</source>
         <translation>&amp;Java:</translation>
     </message>
@@ -6503,52 +6512,52 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <translation>&amp;Nahradiť panel s nástrojmi s ponukami</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
         <source>Mods and Modpacks</source>
         <translation>Módy a modpacky</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
         <source>Check &amp;subfolders for blocked mods</source>
         <translation>Skontrolujte &amp;podpriečinky, či neobsahujú blokované módy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="390"/>
         <source>Move blocked mods instead of copying them</source>
         <translation>Presunúť blokované módy namiesto ich kopírovania</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <translation>Ukladá informácie o verzii poskytovateľmi módov (ako Modrinth alebo CurseForge) pre módy.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="400"/>
         <source>Keep track of mod metadata</source>
         <translation>Sledovať metadáta módu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
         <translation>Automaticky detekovať, inštalovať a aktualizovať závislosti módov.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="420"/>
         <source>Install dependencies automatically</source>
         <translation>Automaticky inštalovať závislosti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
         <translation>Pri vytváraní novej inštancie modpacku navrhnite aktualizáciu existujúcej inštancie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="440"/>
         <source>Suggest to update an existing instance during modpack installation</source>
         <translation>Navrhujeme aktualizovať existujúciu inštanciu počas inštalácie modpacku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>Console</source>
         <translation>Konzola</translation>
     </message>
@@ -6577,13 +6586,13 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <translation type="vanished">&amp;Limit histórie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="500"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>&amp;Zastavenie logovania pri preplnení záznamu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="478"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="481"/>
         <source> lines</source>
         <translation> Riadky</translation>
     </message>
