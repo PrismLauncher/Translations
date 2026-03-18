@@ -97,7 +97,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>被屏蔽的模组启用 Modrinth 为备份服务器</translation>
+        <translation>为被屏蔽的模组启用 Modrinth 作为备用平台</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -6520,12 +6520,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>自动下载的 Java (&amp;A):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>用于存放 Prism Launcher 自动下载的 Java 版本的文件夹。不要将此项设置为系统的 Java 安装路径。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
