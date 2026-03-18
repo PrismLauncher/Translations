@@ -1664,7 +1664,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>A tranferir metadados para %1 componentes</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="480"/>
@@ -2267,7 +2267,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Não reconhecido</translation>
     </message>
 </context>
 <context>
@@ -3527,7 +3527,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">A transferir mods...</translation>
+        <translation>A transferir mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
@@ -4066,19 +4066,19 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Ordenar por vezes jogadas</translation>
+        <translation>Ordenar por vezes jogadas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Ordenar por instalações</translation>
+        <translation>Ordenar por instalações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordenar por nome</translation>
+        <translation>Ordenar por nome</translation>
     </message>
 </context>
 <context>
@@ -4092,7 +4092,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Procurar e filtrar ...</translation>
+        <translation>Procurar e filtrar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
@@ -4558,17 +4558,17 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="85"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="102"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível transferir os ficheiros do jogo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="106"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>A transferir os ficheiros do jogo</translation>
     </message>
 </context>
 <context>
@@ -4693,7 +4693,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Outros registros</translation>
+        <translation>Outros registos</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
@@ -5966,7 +5966,7 @@ Podes alterar a versão do Java nas definições mais tarde.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished">Parece que não conseguimos iniciar após %1 tentativas. Normalmente, isto pode ser resolvido saindo e voltando a entrar na sua conta Microsoft. Se isto não funcionar, os servidores de autenticação do Minecraft podem estar com problemas ou pode precisar de uma VPN na sua região. Deseja continuar a tentar?</translation>
+        <translation>Parece que não foi possível iniciar o jogo após %1 tentativas. Normalmente, isto pode ser resolvido encerrando e iniciando novamente sessão na tua conta Microsoft. Se isso não funcionar, os servidores de autenticação do Minecraft podem estar em manutenção ou talvez seja necessário utilizar uma VPN na tua região. Queres continuar a tentar?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
@@ -6151,67 +6151,72 @@ Queres jogar a demonstração?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro ao recarregar &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; expirou e precisa de ser reautenticado</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>A identificação do cliente do launcher foi alterada</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="201"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; já não existe nos servidores</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta conta não possui o Minecraft.
+Tens de comprar o jogo primeiro para poderes jogar a versão completa.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi selecionada nenhuma conta para iniciar.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Queres jogar a demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolhe o teu nome na demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Não estás ligado à Internet, a iniciar no modo offline
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolhe o teu nome no modo ofline</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="300"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi selecionada nenhuma conta para iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. Queres reautenticar esta conta?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="487"/>
@@ -6375,12 +6380,12 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tranferência automática do Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta onde o Prism Launcher guarda as versões do Java transferidas automaticamente. NÃO escolhas a instalação Java do teu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
