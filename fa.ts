@@ -11483,32 +11483,32 @@ Proceed with truncation?</source>
         <translation>نسخه فایل دارای هر دو &apos;+libraries&apos; و &apos;libraries&apos; می باشد. این مورد دیگر پشتیبانی نمی شود.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>آدرس اینترنتی فایل jar اصلی قابل تشخیص نیست - موجانگ سروری را که ما از آن برای بارخورد استفاده می کردیم را حذف کرده.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="268"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>نسخه فایل حاوی المان های پشتیبانی نشده‌ای &apos;tweakers&apos; می باشد</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>نسخه فایل حاوی المان های پشتیبانی نشده‌ای &apos;-libraries&apos; می باشد</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="274"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>نسخه فایل حاوی المان های پشتیبانی نشده‌ای &apos;-tweakers&apos; می باشد</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="277"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>نسخه فایل حاوی المان های پشتیبانی نشده‌ای &apos;&apos;-minecraftArguments&apos; می باشد</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="280"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>نسخه فایل حاوی المان های پشتیبانی نشده‌ای &apos;&apos;+minecraftArguments&apos; می باشد</translation>
     </message>

@@ -13236,32 +13236,32 @@ Error message: %1</source>
         <translation>버전 파일이 &apos;+libraries&apos;와 &apos;libraries&apos;를 모두 가지고 있습니다. 이는 더 이상 지원되지 않습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>메인 JAR를 받을 URL을 확인할 수 없음 - Mojang에서 기존에 대체 서버로 사용하던 서버를 삭제하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="268"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>버전 파일이 지원되지 않는 요소 &apos;tweakers&apos;를 지니고 있음</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>버전 파일이 지원되지 않는 요소 &apos;-libraries&apos;를 지니고 있음</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="274"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>버전 파일이 지원되지 않는 요소 &apos;-tweakers&apos;를 지니고 있음</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="277"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>버전 파일이 지원되지 않는 요소 &apos;-minecraftArguments&apos;를 지니고 있음</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="280"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>버전 파일이 지원되지 않는 요소 &apos;+minecraftArguments&apos;를 지니고 있음</translation>
     </message>

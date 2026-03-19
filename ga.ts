@@ -10935,32 +10935,32 @@ Stádas HTTP: %2</translation>
         <translation>Tá &apos;+leabharlanna&apos; agus &apos;leabharlanna&apos; araon sa chomhad leagan. Ní thacaítear leis seo a thuilleadh.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>Níorbh fhéidir URL an phríomh-jar a chinneadh - bhain Mojang an freastalaí a d&apos;úsáideamar mar chúltaca.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="268"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>Tá eilimint neamhthacaithe &apos;tweakers&apos; sa chomhad leagan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>Tá eilimint neamhthacaithe &apos;-libraries&apos; sa chomhad leagan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="274"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>Tá eilimint neamhthacaithe &apos;-tweakers&apos; sa chomhad leagan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="277"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>Tá eilimint neamhthacaithe &apos;-minecraftArguments&apos; sa chomhad leagan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="280"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>Tá eilimint neamhthacaithe &apos;+minecraftArguments&apos; sa chomhad leagan</translation>
     </message>

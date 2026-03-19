@@ -13366,32 +13366,32 @@ Message d&apos;erreur&#xa0;: %1</translation>
         <translation>Le fichier de version comporte à la fois «&#xa0;+libraries&#xa0;» et «&#xa0;libraries&#xa0;». Cela n&apos;est plus pris en charge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>L&apos;URL du fichier jar principal n&apos;a pas pu être déterminée - Mojang a supprimé le serveur que nous utilisions comme solution de secours.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="268"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>Le fichier de version contient un élément non pris en charge&#xa0;: «&#xa0;tweakers&#xa0;»</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>Le fichier de version contient un élément non pris en charge&#xa0;: «&#xa0;-libraries&#xa0;»</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="274"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>Le fichier de version contient un élément non pris en charge&#xa0;: «&#xa0;-tweakers&#xa0;»</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="277"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>Le fichier de version contient un élément non pris en charge&#xa0;: «&#xa0;-minecraftArguments&#xa0;»</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="280"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>Le fichier de version contient un élément non pris en charge&#xa0;: «&#xa0;+minecraftArguments&#xa0;»</translation>
     </message>

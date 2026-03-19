@@ -11113,32 +11113,32 @@ Proceed with truncation?</source>
         <translation>Αρχείο έκδοσης περιέχει και &apos;+libraries&apos; και &apos;libraries&apos;. Αυτό δεν υποστηρίζεται πλέον.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>Η URL για το κύριο jar δεν ήταν δυνατό να καθοριστεί - η Mojang αφαίρεσε τον διακομιστή που χρησιμοποιούσαμε ως εφεδρικό.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="268"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>Αρχείο έκδοσης περιέχει μη υποστηριζόμενο στοιχείο &apos;tweakers&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>Αρχείο έκδοσης περιέχει μη υποστηριζόμενο στοιχείο &apos;-libraries&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="274"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>Αρχείο έκδοσης περιέχει μη υποστηριζόμενο στοιχείο &apos;-tweakers&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="277"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>Αρχείο έκδοσης περιέχει μη υποστηριζόμενο στοιχείο &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="280"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>Αρχείο έκδοσης περιέχει μη υποστηριζόμενο στοιχείο &apos;+minecraftArguments&apos;</translation>
     </message>

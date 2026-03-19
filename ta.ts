@@ -11036,32 +11036,32 @@ HTTP நிலை: %2</translation>
         <translation>பதிப்பு கோப்பில் &apos;+நூலகங்கள்&apos; மற்றும் &apos;நூலகங்கள்&apos; இரண்டும் உள்ளன. இது இனி ஆதரிக்கப்படாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>முதன்மையான சாடிக்கான முகவரி ஐ தீர்மானிக்க முடியவில்லை - நாங்கள் பயன்படுத்திய சேவையகத்தை மோசாங் அகற்றினார்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="268"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>பதிப்பு கோப்பில் ஆதரிக்கப்படாத உறுப்பு &apos;ட்வீக்கர்கள்&apos; உள்ளது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>பதிப்பு கோப்பில் ஆதரிக்கப்படாத உறுப்பு &apos;-லைப்ரரிச்&apos; உள்ளது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="274"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>பதிப்பு கோப்பில் ஆதரிக்கப்படாத உறுப்பு &apos;-பீக்கர்கள்&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="277"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>பதிப்பு கோப்பில் ஆதரிக்கப்படாத உறுப்பு &apos;-minecraftarguments&apos; உள்ளது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="280"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>பதிப்பு கோப்பில் ஆதரிக்கப்படாத உறுப்பு &apos;+minecraftarguments&apos; உள்ளது</translation>
     </message>
