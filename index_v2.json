@@ -371,12 +371,12 @@
             "untranslated" : 2175
         },
         "id" : {
-            "file" : "1cde44315f02eef750d3672725e2f6a673bc12a8.class",
-            "sha1" : "1cde44315f02eef750d3672725e2f6a673bc12a8",
-            "size" : 345244,
-            "translated" : 2341,
-            "fuzzy" : 5,
-            "untranslated" : 2
+            "file" : "3de15208513398e10d8faf9a6c0e57629f29a778.class",
+            "sha1" : "3de15208513398e10d8faf9a6c0e57629f29a778",
+            "size" : 345720,
+            "translated" : 2348,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "is" : {
             "file" : "f47c00af0893a8e98ec81a388a6a68fa0b426653.class",
