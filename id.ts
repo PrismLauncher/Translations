@@ -2271,7 +2271,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Tidak diketahui</translation>
+        <translation>Tidak Dikenal</translation>
     </message>
 </context>
 <context>
@@ -2544,7 +2544,7 @@ Apakah kamu yakin?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Instansi ini tidak dapat dijalankan karena beberapa pustaka hilang atau belum diunduh. Silakan coba lagi dalam mode online dengan koneksi internet yang berfungsi</translation>
+        <translation>Instansi ini tidak dapat dijalankan karena beberapa library hilang atau belum diunduh. Silakan coba lagi dalam mode online dengan koneksi internet yang berfungsi</translation>
     </message>
 </context>
 <context>
@@ -6110,7 +6110,7 @@ Apakah Anda ingin memainkan demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished">Terjadi kesalahan saat memperbarui &apos;%1&apos;</translation>
+        <translation>Terjadi kesalahan saat menyegarkan &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
@@ -6564,12 +6564,12 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Unduh Otom&amp;atis Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder di mana Prism Launcher menyimpan versi Java yang diunduh secara otomatis. JANGAN atur sebagai instalasi Java sistem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
@@ -12949,14 +12949,14 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="89"/>
         <source>Delete Existing Save Files</source>
-        <translation type="unfinished">Hapus File Simpanan yang Sudah Ada</translation>
+        <translation>Hapus Berkas Simpanan yang Sudah Ada</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="90"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation type="unfinished">Versi sebelumnya dari paket mod ini telah menginstal file penyimpanan.
-Apakah Anda ingin menghapus file penyimpanan yang sudah ada sebagai bagian dari pembaruan ini?</translation>
+        <translation>Versi sebelumnya dari paket mod ini telah menginstal berkas penyimpanan.
+Apakah Anda ingin menghapus berkas penyimpanan yang sudah ada sebagai bagian dari pembaruan ini?</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -16123,7 +16123,7 @@ Instansi mungkin tidak dapat dimulai dikarenakan ini.</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished">Versi utama Java tidak kompatibel. Beberapa hal mungkin tidak berfungsi dengan baik.
+        <translation>Versi mayor Java tidak kompatibel. Beberapa hal mungkin rusak
 </translation>
     </message>
     <message>
