@@ -9371,12 +9371,12 @@ Make sure you also trust the URL.
         <translation>無分析器 (&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1028"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1029"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;存取權杖&gt;</translation>
     </message>
@@ -9385,22 +9385,22 @@ Make sure you also trust the URL.
         <translation type="vanished">&lt;用戶端權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;設定檔 ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1067"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1068"/>
         <source>broken</source>
         <translation>損壞</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1078"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1083"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1084"/>
         <source>, last played on %1 for %2</source>
         <translation>，最後遊玩時間為 %1，持續了 %2</translation>
     </message>
@@ -9413,12 +9413,12 @@ Make sure you also trust the URL.
         <translation type="vanished">，上次已遊玩 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, total played for %1</source>
         <translation>，總共遊玩了 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1095"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
         <source>, has crashed.</source>
         <translation>，程式已崩潰。</translation>
     </message>

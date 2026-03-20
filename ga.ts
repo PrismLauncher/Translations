@@ -7852,42 +7852,42 @@ Déan cinnte go bhfuil muinín agat as an URL freisin.
         <translation>Ga&amp;n Próifíleoir</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SEISIÚIN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1028"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1029"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;CEADCHOMHARTHA ROCHTANA&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID PRÓIFÍLE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1067"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1068"/>
         <source>broken</source>
         <translation>briste</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1078"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1083"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1084"/>
         <source>, last played on %1 for %2</source>
         <translation>, seinnte go deireanach ar %1 le haghaidh %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, total played for %1</source>
         <translation>, iomlán imrithe do %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1095"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
         <source>, has crashed.</source>
         <translation>, tá tuairteáil déanta.</translation>
     </message>

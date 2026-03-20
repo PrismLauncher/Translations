@@ -8992,12 +8992,12 @@ Make sure you also trust the URL.
         <translation>プロファイラなし(&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1028"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1029"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -9006,22 +9006,22 @@ Make sure you also trust the URL.
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1067"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1068"/>
         <source>broken</source>
         <translation>破損</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1078"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1083"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1084"/>
         <source>, last played on %1 for %2</source>
         <translation>, 前回 %1 に %2 プレイ</translation>
     </message>
@@ -9034,12 +9034,12 @@ Make sure you also trust the URL.
         <translation type="vanished">, 最後のプレイ時間: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, total played for %1</source>
         <translation>, 総プレイ時間: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1095"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
         <source>, has crashed.</source>
         <translation>, クラッシュしました。</translation>
     </message>

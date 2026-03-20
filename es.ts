@@ -9389,12 +9389,12 @@ Asegúrate también de que la URL es de confianza.
         <translation>&amp;No Perfiladores</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID DE SESIÓN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1028"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1029"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;TOKEN DE ACCESO&gt;</translation>
     </message>
@@ -9403,22 +9403,22 @@ Asegúrate también de que la URL es de confianza.
         <translation type="vanished">&lt;TOKEN DE CLIENTE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID DEL PERFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1067"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1068"/>
         <source>broken</source>
         <translation>roto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1078"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1083"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1084"/>
         <source>, last played on %1 for %2</source>
         <translation>, jugado por última vez el %1 por %2</translation>
     </message>
@@ -9431,12 +9431,12 @@ Asegúrate también de que la URL es de confianza.
         <translation type="vanished">, la última vez se jugó por %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, total played for %1</source>
         <translation>, se ha jugado un total de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1095"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
         <source>, has crashed.</source>
         <translation>, se ha cerrado de forma inesperada.</translation>
     </message>

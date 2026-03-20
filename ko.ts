@@ -9306,12 +9306,12 @@ URL 또한 신뢰할 수 있는지 반드시 확인하십시오.
         <translation>프로파일러 없음(&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1028"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1029"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -9320,22 +9320,22 @@ URL 또한 신뢰할 수 있는지 반드시 확인하십시오.
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1067"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1068"/>
         <source>broken</source>
         <translation>손상됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1078"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
         <source>Minecraft %1</source>
         <translation>마인크래프트 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1083"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1084"/>
         <source>, last played on %1 for %2</source>
         <translation>, 마지막으로 %1에 %2 동안 플레이함</translation>
     </message>
@@ -9348,12 +9348,12 @@ URL 또한 신뢰할 수 있는지 반드시 확인하십시오.
         <translation type="vanished">, %1동안 지난 플레이함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
         <source>, total played for %1</source>
         <translation>, 총 %1 동안 플레이함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1095"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
         <source>, has crashed.</source>
         <translation>, 충돌함.</translation>
     </message>
