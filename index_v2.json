@@ -123,12 +123,12 @@
             "untranslated" : 91
         },
         "de" : {
-            "file" : "5fbdefd4f1c75cd3966ac627739df50c05f4b0b3.class",
-            "sha1" : "5fbdefd4f1c75cd3966ac627739df50c05f4b0b3",
-            "size" : 361247,
-            "translated" : 2341,
-            "fuzzy" : 2,
-            "untranslated" : 5
+            "file" : "4284981c3deba1007ad7dd74648e07ef16aba2f1.class",
+            "sha1" : "4284981c3deba1007ad7dd74648e07ef16aba2f1",
+            "size" : 361847,
+            "translated" : 2346,
+            "fuzzy" : 0,
+            "untranslated" : 2
         },
         "de_CH" : {
             "file" : "9771133e2c3789ee9ed1935fa285c065cecf3f24.class",
@@ -259,12 +259,12 @@
             "untranslated" : 845
         },
         "fr" : {
-            "file" : "52a12df4502067dccbe387257593fd2e955c0042.class",
-            "sha1" : "52a12df4502067dccbe387257593fd2e955c0042",
-            "size" : 371804,
-            "translated" : 2341,
-            "fuzzy" : 1,
-            "untranslated" : 6
+            "file" : "490f9d7b55bea3558df5a8d28e1ab68ab0ad1fe5.class",
+            "sha1" : "490f9d7b55bea3558df5a8d28e1ab68ab0ad1fe5",
+            "size" : 373193,
+            "translated" : 2345,
+            "fuzzy" : 3,
+            "untranslated" : 0
         },
         "fr_CA" : {
             "file" : "4c18d05b04fc2f14a60a7e85b29d3a919c1477a1.class",
@@ -395,12 +395,12 @@
             "untranslated" : 4
         },
         "ja" : {
-            "file" : "4647672ea9af1115d9b659b7d688c36fcf399c51.class",
-            "sha1" : "4647672ea9af1115d9b659b7d688c36fcf399c51",
-            "size" : 270234,
-            "translated" : 2339,
-            "fuzzy" : 1,
-            "untranslated" : 8
+            "file" : "473111207a4b79a2bbf921fa17cd525c339f9cc1.class",
+            "sha1" : "473111207a4b79a2bbf921fa17cd525c339f9cc1",
+            "size" : 271392,
+            "translated" : 2348,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "ja_KANJI" : {
             "file" : "bbcfeb8eb1526e3a050dc2a0d1f55e99fc0c79c2.class",
