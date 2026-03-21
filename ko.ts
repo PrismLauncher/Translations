@@ -5306,24 +5306,29 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>Azul Zulu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="296"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
+        <source>IBM Semeru Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="333"/>
         <source>Install Java</source>
         <translation>Java 설치</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="322"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Could not determine Java download type!</source>
         <translation>Java 다운로드 유형을 확인할 수 없습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>

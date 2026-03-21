@@ -4866,24 +4866,29 @@ Lūdzu, mēģiniet vēlreiz.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="296"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
+        <source>IBM Semeru Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="333"/>
         <source>Install Java</source>
         <translation type="unfinished">Instalējiet Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="322"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Could not determine Java download type!</source>
         <translation type="unfinished">Nevarēja noteikt Java lejupielādes veidu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Error</source>
         <translation type="unfinished">Kļūda</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <source>Abort</source>
         <translation type="unfinished">Pārtraukt</translation>
     </message>

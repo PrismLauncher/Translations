@@ -5219,24 +5219,29 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
         <translation>Azul Zulu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="296"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
+        <source>IBM Semeru Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="333"/>
         <source>Install Java</source>
         <translation>Instalați Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="322"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Could not determine Java download type!</source>
         <translation>Nu s-a putut stabili tipul de descărcare Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <source>Abort</source>
         <translation>Renunță</translation>
     </message>

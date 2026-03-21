@@ -5210,24 +5210,29 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
         <translation>Azul Zulu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="296"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
+        <source>IBM Semeru Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="333"/>
         <source>Install Java</source>
         <translation>Instalar o Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="322"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Could not determine Java download type!</source>
         <translation>Não foi possível determinar o tipo de Download do Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
