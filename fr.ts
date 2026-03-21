@@ -101,7 +101,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Activer le basculement vers Modrinth pour les mods bloqués</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -2303,7 +2303,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Non reconnu</translation>
+        <translation>Non reconnu</translation>
     </message>
 </context>
 <context>
@@ -6280,7 +6280,7 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur s&apos;est produite lors de l&apos;actualisation de « %1 »</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
@@ -6517,12 +6517,12 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Téléchargement &amp;automatique de Java&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier où Prism Launcher stocke les versions Java téléchargées automatiquement. Ne définissez PAS ce dossier comme étant celui de votre installation Java système.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
@@ -8182,7 +8182,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Wiki de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -16922,7 +16922,8 @@ L&apos;instance pourrait ne pas démarrer à cause de cela.</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>La version majeure de Java n&apos;est pas compatible. Cela pourrait entraîner des dysfonctionnements.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
