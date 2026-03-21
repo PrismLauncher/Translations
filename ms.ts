@@ -912,17 +912,17 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="684"/>
+        <location filename="src/launcher/Application.cpp" line="686"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Tidak dapat memaparkan log tersebut kerana panjang log melebihi % 1 baris.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="901"/>
+        <location filename="src/launcher/Application.cpp" line="903"/>
         <source>Settings</source>
         <translation>Tetapan</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1063"/>
+        <location filename="src/launcher/Application.cpp" line="1065"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -949,12 +949,12 @@ untuk butiran tentang percubaan kemas kini terakhir.
 Untuk menghapus lock ini dan melanjutkan pilih &quot;Abaikan&quot; di bawah.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1080"/>
+        <location filename="src/launcher/Application.cpp" line="1082"/>
         <source>Update In Progress</source>
         <translation>Kemas Kini Sedang Dijalankan</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1106"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -969,12 +969,12 @@ Semak log kemas kini Prism Launcher di:
 untuk butiran tentang percubaan kemas kini terakhir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1112"/>
+        <location filename="src/launcher/Application.cpp" line="1114"/>
         <source>Update Failed</source>
         <translation>Kemas Kini Gagal</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1138"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -995,12 +995,12 @@ Semak log pengemas kini Prism Launcher di:
 untuk butiran.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1144"/>
+        <location filename="src/launcher/Application.cpp" line="1146"/>
         <source>Update Succeeded</source>
         <translation>Kemas Kini Berjaya</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1176"/>
+        <location filename="src/launcher/Application.cpp" line="1178"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1021,7 +1021,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1182"/>
+        <location filename="src/launcher/Application.cpp" line="1184"/>
         <source>Incompatible system configuration</source>
         <translation>Konfigurasi sistem tidak serasi</translation>
     </message>
@@ -1030,22 +1030,22 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
         <translation>Dibatalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1932"/>
+        <location filename="src/launcher/Application.cpp" line="1937"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Data lama daripada %1 ditemui, tetapi anda sudah mempunyai data sedia ada untuk %2. Malangnya anda perlu berpindah sendiri. Adakah anda ingin diingatkan tentang pemindahan data yang belum selesai pada kali seterusnya anda memulakan %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1936"/>
+        <location filename="src/launcher/Application.cpp" line="1941"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Nampaknya anda sudah menggunakan %1 sebelum ini. Adakah anda mahu memindahkan data anda ke lokasi baharu %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1942"/>
+        <location filename="src/launcher/Application.cpp" line="1947"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Nampaknya anda sudah menggunakan %1 pada %2 sebelum ini. Adakah anda mahu memindahkan data anda ke lokasi baharu %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1993"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrasi gagal! Alasan: %1</translation>
     </message>
