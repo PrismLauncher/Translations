@@ -2379,7 +2379,7 @@ Avertissement&#xa0;: Cette ressource est directement liée à une autre. L&apos;
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation>Télécharger les Packs</translation>
+        <translation>Télécharger des packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
@@ -14237,7 +14237,7 @@ Message d&apos;erreur&#xa0;: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="176"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>datapacks</translation>
+        <translation>des packs de données</translation>
     </message>
 </context>
 <context>
@@ -14415,7 +14415,7 @@ Veuillez mettre à jour %1&#xa0;!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="125"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>pack de textures</translation>
+        <translation>des packs de textures</translation>
     </message>
 </context>
 <context>
@@ -14569,7 +14569,7 @@ L&apos;auteur a certainement bloqué les launchers tiers.</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="159"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>packs de shaders</translation>
+        <translation>des packs de shaders</translation>
     </message>
 </context>
 <context>
@@ -14593,7 +14593,7 @@ L&apos;auteur a certainement bloqué les launchers tiers.</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="142"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>packs de textures</translation>
+        <translation>des packs de textures</translation>
     </message>
 </context>
 <context>
@@ -17790,7 +17790,7 @@ Chemin canonique : %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
         <source>Manage data packs inside the world.</source>
-        <translation>Gérer les datapacks du monde.</translation>
+        <translation>Gérer les packs de données du monde.</translation>
     </message>
     <message>
         <source>Datapacks</source>
