@@ -7310,7 +7310,7 @@ El legyen most távolítva?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>Könyvtárfájlok beszerzése a Mojangtól…</translation>
+        <translation>Könyvtárfájlok beszerzése Mojangtól…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
