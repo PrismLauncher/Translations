@@ -93,7 +93,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Engllenen modlar için Modrinth&apos;i kullanmaya izin ver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -2299,7 +2299,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Tanınmayan</translation>
+        <translation>Tanımlanamayan</translation>
     </message>
 </context>
 <context>
@@ -6262,7 +6262,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; i yenilerken hata oluştu</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
@@ -6499,12 +6499,12 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Otomatik Java Yüklemesi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher tarafından otomatik yüklenen Java dosyalarının depolanacağı klasör. BUNU ASIL SİSTEM JAVA İNDİRME LOKASYONUNA AYARLAMAYINIZ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
