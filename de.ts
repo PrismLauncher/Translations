@@ -105,7 +105,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Bei blockierten Mods Modrinth als Fallback nutzen</translation>
+        <translation>Bei blockierten Mods Modrinth als Fallback verwenden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -8952,13 +8952,10 @@ Bist du dir sicher?</translation>
 
 URL:
 %2</source>
-        <translation>Willst du einen Modpack herunterladen und importieren von:
+        <translation>Willst du ein Modpack herunterladen und importieren, von:
 %1
 
-
-
 URL:
-
 %2</translation>
     </message>
     <message>
