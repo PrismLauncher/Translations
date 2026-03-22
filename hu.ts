@@ -89,7 +89,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Engedélyezze a Modrinth-ra való átállást blokkolt modok esetén</translation>
+        <translation>Engedélyezi a Modrinth-ra való átállást blokkolt modok esetén</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
