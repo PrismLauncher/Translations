@@ -5377,7 +5377,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -6558,12 +6558,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Автоматическое скачивание Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка, в которой Prism Launcher хранит автоматически скачанные версии Java. НЕ указывайте здесь путь к установленной в системе Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
