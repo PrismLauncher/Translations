@@ -4340,7 +4340,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 %1을(를) 읽기 모드로 열 수 없음: %2</translation>
     </message>
 </context>
 <context>
@@ -12428,7 +12428,12 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이터가 로그 파일을 생성할 수 없음 - %1.
+
+데이터 폴더에 대한 쓰기 권한이 있는지 확인하십시오.
+(%2)
+
+이 문제를 해결할 때까지 업데이터를 계속 진행할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -13960,7 +13965,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>응용 프로그램 아이콘 생성에 실패함: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
@@ -13976,7 +13981,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>바로 가기 아이콘 생성에 실패함: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
@@ -16232,7 +16237,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;version.json&quot;을 열 수 없음: %1</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
