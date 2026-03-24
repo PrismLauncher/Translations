@@ -4267,7 +4267,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル %1 を読み取れませんでした: %2</translation>
     </message>
 </context>
 <context>
@@ -5930,7 +5930,7 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="114"/>
         <source>Which account would you like to use?</source>
-        <translation>どのアカウントを利用しますか？</translation>
+        <translation>どのアカウントを使用しますか？</translation>
     </message>
     <message>
         <source>No account selected for launch.</source>
@@ -11530,7 +11530,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
         <source>Unable to open %1 for reading: %2</source>
-        <translation>%1 を読み込めません: %2</translation>
+        <translation>%1 を読み取れません: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="269"/>
@@ -11941,7 +11941,12 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>アップデーターはログファイルを作成できませんでした (%1)。
+
+データフォルダへの書き込み権限があることを確認してください。
+(%2)
+
+この問題を解決するまで、アップデーターは続行できません。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -12284,7 +12289,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="32"/>
         <source>Use as default?</source>
-        <translation>デフォルトとして使用しますか？</translation>
+        <translation>デフォルトとして使用する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="39"/>
@@ -12728,7 +12733,7 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation>%1 を読み取る際にファイルが開けませんでした: %2</translation>
+        <translation>%1 を読み取れませんでした: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
@@ -13434,7 +13439,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーション用アイコンの作成に失敗しました: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
@@ -13450,7 +13455,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ショートカット用アイコンの作成に失敗しました: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
@@ -13481,7 +13486,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation>アプリケーションのフォルダが見つかりませんか?!</translation>
+        <translation>アプリケーションのフォルダが見つかりませんか？！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
@@ -15690,7 +15695,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>「version.json」を開けません: %1</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
