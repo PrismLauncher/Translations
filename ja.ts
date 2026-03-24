@@ -13359,7 +13359,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>以下の名前変更の実行時にエラーが発生しました:&lt;br/&gt;・古い起動構成のルート:%1&lt;br/&gt;・新しい起動構成のルート:%2&lt;br/&gt;メタデータの名前のみが変更されます。</translation>
+        <translation>以下の名前変更の実行時にエラーが発生しました:&lt;br/&gt;・古い起動構成のルート: %1&lt;br/&gt;・新しい起動構成のルート: %2&lt;br/&gt;メタデータの名前のみが変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
