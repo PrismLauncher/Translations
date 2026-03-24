@@ -4328,7 +4328,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült megnyitni a fájlt (%1) olvasásra: %2</translation>
     </message>
 </context>
 <context>
@@ -5311,7 +5311,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -12443,7 +12443,12 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>A frissítő nem tudott naplófájlt létrehozni – %1.
+
+Győződj meg róla, hogy van írási jogosultságod az adatkönyvtárhoz.
+(%2)
+
+A frissítő nem tud folytatódni, amíg meg nem oldod ezt a problémát.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -13966,7 +13971,7 @@ Szeretnéd folytatni?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült létrehozni az alkalmazás ikonját: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
@@ -13982,7 +13987,7 @@ Szeretnéd folytatni?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült létrehozni a parancsikon ikonját: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
@@ -16238,7 +16243,7 @@ mert: %2.</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült megnyitni a „version.json” fájlt: %1</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
@@ -16248,14 +16253,14 @@ mert: %2.</translation>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="139"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation>Nem sikerült értelmetni &quot;version.json&quot; fájlt:
+        <translation>Nem sikerült értelmezni a &quot;version.json&quot; fájlt:
 inheritsFrom hiányzik</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="195"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation>Nem sikerült megérteni a &quot;version.json&quot; fájlt:
+        <translation>Nem sikerült értelmezni a &quot;version.json&quot; fájlt:
 </translation>
     </message>
 </context>
