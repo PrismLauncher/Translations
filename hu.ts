@@ -1204,7 +1204,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Válassz telepíteni kívánandó modokat</translation>
+        <translation>Telepítendő modok kiválasztása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -1403,7 +1403,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation>Az rendszered (%1-%2) nem kompatibilis a Java automatikus telepítésével. Az alapértelmezett Java elérési útvonal használata.</translation>
+        <translation>A rendszered (%1-%2) nem kompatibilis a Java automatikus telepítésével. Az alapértelmezett Java elérési útvonal használata.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
@@ -1598,7 +1598,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation>Válassz offline nevet</translation>
+        <translation>Offline név kiválasztása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
@@ -1613,7 +1613,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation>Egy felhasználónév csak akkor érvényes, ha hossza 3 és 16 karakter között van, és angol betűket, számokat és aláhúzásjeleket tartalmaz. Egy nem érvényes felhasználónév lehetetlené teheti a szerverekhez és az egyjátékos világokhoz való csatlakozást.</translation>
+        <translation>Egy felhasználónév csak akkor érvényes, ha hossza 3 és 16 karakter között van, és angol betűket, számokat és aláhúzásjeleket tartalmaz. Egy nem érvényes felhasználónév lehetetlenné teheti a szerverekhez és az egyjátékos világokhoz való csatlakozást.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -1636,7 +1636,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Válassz egy mod szolgáltatót</translation>
+        <translation>Mod szolgáltató kiválasztása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
@@ -1661,7 +1661,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Próbálj meg automatikusan más szolgáltatót használni, ha a kiválasztott nem működik</translation>
+        <translation>Más szolgáltató automatikus használata, ha a kiválasztott nem működik</translation>
     </message>
 </context>
 <context>
@@ -1694,12 +1694,12 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="502"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>A példánynak ellentmondó függőségei vannak.</translation>
+        <translation>A példányban ütköző függőségek találhatók.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="508"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>A példány megoldatlan függősége van a betöltés/ellenőrzés során.</translation>
+        <translation>A példánynak feloldatlan függőségei vannak az indítás előtti betöltés/ellenőrzés során.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
@@ -2477,7 +2477,7 @@ Biztosan ezt akarod csinálni?</translation>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation>%1 adatcsomag metaadatainak eltávolításra készülsz.
+        <translation>%1 adatcsomag metaadatainak eltávolítására készülsz.
 Biztos vagy ebben?</translation>
     </message>
 </context>
@@ -2615,7 +2615,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"/>
         <source>&amp;Clear</source>
-        <translation>&amp;Tisztitás</translation>
+        <translation>&amp;Tisztítás</translation>
     </message>
 </context>
 <context>
@@ -3078,7 +3078,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
         <source>View &amp;Configs</source>
-        <translation>&amp;Konfigurációk megnézése</translation>
+        <translation>&amp;Konfigurációk megtekintése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
@@ -4010,7 +4010,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation>Szűrök</translation>
+        <translation>Szűrők</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -4172,7 +4172,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="89"/>
         <source>Survival</source>
-        <translation>Túlélés</translation>
+        <translation>Túlélő</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="91"/>
@@ -7256,7 +7256,7 @@ El legyen most távolítva?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="365"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>Biztosan el szeretnéd távolítani a következőt: %1?</translation>
+        <translation>Biztosan el szeretnéd távolítani a(z) %1 csomagot?</translation>
     </message>
 </context>
 <context>
@@ -7390,7 +7390,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="47"/>
         <source>Keep updating</source>
-        <translation>Folyamatosan frissítse</translation>
+        <translation>Folyamatos frissítés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="57"/>
@@ -7699,7 +7699,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="205"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation>Nyisd meg a(z) %1 linket, vagy szkenneld be a QR-kódot, és add meg a fenti kódot, ha szükséges.</translation>
+        <translation>Nyisd meg a %1 linket, vagy szkenneld be a QR-kódot, és add meg a fenti kódot, ha szükséges.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7825,7 +7825,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Közép modok mappájának megnyitása a fájlkezelőben.</translation>
+        <translation>Központi modok mappájának megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -8083,7 +8083,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>&amp;Central Mods</source>
-        <translation>&amp;Közép modok</translation>
+        <translation>&amp;Központi modok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
@@ -11437,7 +11437,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation>Szűrök</translation>
+        <translation>Szűrők</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -11932,7 +11932,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <source>Keep updating</source>
-        <translation>Folyamatosan frissítse</translation>
+        <translation>Folyamatos frissítés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
@@ -12067,7 +12067,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
         <source>Confirm Cleanup</source>
-        <translation>Tisztitás megerősítése</translation>
+        <translation>Tisztítás megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="409"/>
@@ -12347,8 +12347,8 @@ Oka: %1.</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="219"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation>A frissítő ismeretlen feltételek között zárult be.
-Bezárási kód: %1</translation>
+        <translation>A frissítő ismeretlen hibával állt le.
+Kilépési kód: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="221"/>
@@ -12781,12 +12781,12 @@ Ha szeretnéd felülírni ezt a zárolást, és mindenképpen folytatni szeretn�
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
         <source>Select an Account</source>
-        <translation>Válassz egy fiókot</translation>
+        <translation>Fiók kiválasztása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation>Válassz egy profilt.</translation>
+        <translation>Profil kiválasztása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="32"/>
@@ -14874,7 +14874,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation>Szűrök</translation>
+        <translation>Szűrők</translation>
     </message>
 </context>
 <context>
@@ -14887,7 +14887,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="54"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation>A következő források frissítésére készül:</translation>
+        <translation>A következő források frissítésére készülsz:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="55"/>
@@ -15110,12 +15110,12 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Confirm %1 selection</source>
-        <translation>Erősítse meg a %1 kiválasztását</translation>
+        <translation>A %1 kiválasztásának megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="120"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation>A következő %1 letöltésére készül:</translation>
+        <translation>A következő %1 letöltésére készülsz:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="121"/>
@@ -17472,7 +17472,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
         <source>Choose Version</source>
-        <translation>Válassz verziót</translation>
+        <translation>Verzió kiválasztása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
@@ -17725,7 +17725,7 @@ Akarod folytatni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="333"/>
         <source>No MCEdit found or set up!</source>
-        <translation>MCEdit nem található vagy beállítva!</translation>
+        <translation>Az MCEdit nem található vagy nincs beállítva!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="334"/>
