@@ -291,12 +291,12 @@
             "untranslated" : 2349
         },
         "ga" : {
-            "file" : "45bcc2c74f34bfab3afd466dad434346ce4f6b3a.class",
-            "sha1" : "45bcc2c74f34bfab3afd466dad434346ce4f6b3a",
-            "size" : 362479,
-            "translated" : 2343,
-            "fuzzy" : 1,
-            "untranslated" : 10
+            "file" : "fddabb5634cd3315c82b6aa77f7707dcf91b6911.class",
+            "sha1" : "fddabb5634cd3315c82b6aa77f7707dcf91b6911",
+            "size" : 364966,
+            "translated" : 2354,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "gl" : {
             "file" : "0a6b2d77087cb42c0d994eac843f25a8f931b871.class",
@@ -355,12 +355,12 @@
             "untranslated" : 1250
         },
         "hu" : {
-            "file" : "56aedd2d66f007089a680c69af366a5734ec98ad.class",
-            "sha1" : "56aedd2d66f007089a680c69af366a5734ec98ad",
-            "size" : 351770,
-            "translated" : 2344,
+            "file" : "9500f84a45b92c2b592760aee758ada4ef73007d.class",
+            "sha1" : "9500f84a45b92c2b592760aee758ada4ef73007d",
+            "size" : 353171,
+            "translated" : 2350,
             "fuzzy" : 0,
-            "untranslated" : 10
+            "untranslated" : 4
         },
         "hy" : {
             "file" : "16732699c6862d2c41819f1fcc26f2cbe86a42cc.class",
@@ -395,9 +395,9 @@
             "untranslated" : 10
         },
         "ja" : {
-            "file" : "3e33801c0ecf2ec4d7818e5a334b0aceae64ed9b.class",
-            "sha1" : "3e33801c0ecf2ec4d7818e5a334b0aceae64ed9b",
-            "size" : 272265,
+            "file" : "e70101ffb2288b6ab091f11426afcd9ad5000132.class",
+            "sha1" : "e70101ffb2288b6ab091f11426afcd9ad5000132",
+            "size" : 272269,
             "translated" : 2354,
             "fuzzy" : 0,
             "untranslated" : 0
@@ -443,12 +443,12 @@
             "untranslated" : 2292
         },
         "ko" : {
-            "file" : "a8524080514d15bafa33b0b2fdcce6c39afb800a.class",
-            "sha1" : "a8524080514d15bafa33b0b2fdcce6c39afb800a",
-            "size" : 268479,
-            "translated" : 2349,
+            "file" : "d28ea2f0d1d20f787140ac1559e237f7a936c41f.class",
+            "sha1" : "d28ea2f0d1d20f787140ac1559e237f7a936c41f",
+            "size" : 269399,
+            "translated" : 2354,
             "fuzzy" : 0,
-            "untranslated" : 5
+            "untranslated" : 0
         },
         "kxm" : {
             "file" : "ec6b6114a23b20f6d0c957da77ead9a2bb20d24a.class",
