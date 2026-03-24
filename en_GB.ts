@@ -4380,7 +4380,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not open file %1 for reading: %2</translation>
     </message>
 </context>
 <context>
@@ -12572,7 +12572,12 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>The updater couldn&apos;t create a log file - %1.
+
+Make sure you have write permissions to the data folder.
+(%2)
+
+The updater cannot continue until you fix this problem.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -14113,7 +14118,7 @@ Do you wish to proceed?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to create icon for application: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
@@ -14129,7 +14134,7 @@ Do you wish to proceed?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to create icon for shortcut: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
@@ -16385,7 +16390,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open &quot;version.json&quot;: %1</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
