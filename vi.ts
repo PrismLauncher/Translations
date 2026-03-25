@@ -3492,12 +3492,12 @@ Vui lòng thử lại.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Copy các mods bị chặn...</translation>
+        <translation>Đang sao chép các mods bị chặn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="375"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Copy các mod bị chặn (Hoàn thành %1 trong %2)</translation>
+        <translation>Đang sao chép các mod bị chặn (Hoàn thành %1 trong %2)</translation>
     </message>
 </context>
 <context>
@@ -4264,7 +4264,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể mở tệp %1 để đọc %2</translation>
     </message>
 </context>
 <context>
