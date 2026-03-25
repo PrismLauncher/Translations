@@ -1047,7 +1047,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1185"/>
         <source>Incompatible system configuration</source>
-        <translation>إعدادات النظام جهازك غير متوافقه</translation>
+        <translation>إعدادات نظام جهازك غير متوافق</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2091,7 +2091,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation>لقطات التجريبية</translation>
+        <translation>الإصدارات التجريبية</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
@@ -2264,7 +2264,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="140"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation>هل تم تفعيل حزمة البيانات؟ (صالح فقط للرموز ZIPs)</translation>
+        <translation>هل تم تفعيل حزمة البيانات؟ (صالح فقط لملفات ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="142"/>
@@ -3075,8 +3075,8 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>أنت على وشك إزالة ٪ 1 من العناصر.
-قد يكون هذا دائم وسيحذفون من الملف
+        <translation>أنت على وشك إزالة ٪ 1 عناصر.
+قد يكون هذا دائم وستحذف العناصر من الملف
 
 هل أنت متأكد؟؟</translation>
     </message>
@@ -3382,7 +3382,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تحليل الإضافات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
@@ -3392,7 +3392,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>يوجد ملفات محظورة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
@@ -3407,12 +3407,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم تنزيل الإضافات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل الإضافة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
@@ -3994,7 +3994,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Spectator</source>
-        <translation>طور المشاهدة</translation>
+        <translation>طور المشاهد</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="100"/>
@@ -4321,7 +4321,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>NeoForge</source>
-        <translation>نيوفورج</translation>
+        <translation>نيوفورج (NeoForge)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
@@ -4346,7 +4346,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
-        <translation>تنصيب محمل</translation>
+        <translation>تنصيب المحمل</translation>
     </message>
 </context>
 <context>
@@ -4427,7 +4427,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="106"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل ملفات اللعبة</translation>
     </message>
 </context>
 <context>
@@ -5001,7 +5001,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation>لم يعثر على أي ملف في أرشيف زيب الموفر.</translation>
+        <translation>لم يعثر على أي ملف في ملف ZIP الموفر.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
@@ -5826,7 +5826,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>يبدو أننا لم نتمكن من التصغيل بعد %1 محاولات. غالبا يمكن إصلاح المشكلة بتسجيل الخروج من حساب Microsoft الخاص بك وإعادة تسجيل الدخول. إن لم تعمل الطريقة, فغالبا هناك عطل في خوادم التوثيق الخاصة بماينكرافت أو أنك تحتاج لVPN في دولتك. هل تود المحاولة مجددا؟</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
@@ -5966,19 +5966,22 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا الحساب لايمتلك ماينكرافت.
+تحتاج لشراء اللعبة أولا كي تلعب النسخة الكاملة.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم تختر حسابا للتشغيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+هل تريد لعب النسخة التجريبية؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
@@ -14210,7 +14213,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>حزم التظليل</translation>
     </message>
 </context>
 <context>
@@ -14266,27 +14269,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="39"/>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
         <source>Slim</source>
-        <translation type="unfinished"></translation>
+        <translation>نحيف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>عباءة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة الأجنحة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
@@ -14316,12 +14319,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">حذف السكن</translation>
+        <translation>حذف المظهر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>Deletes selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم حذف المظاهر المختارة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
@@ -14590,7 +14593,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/tasks/Task.cpp" line="134"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>أُلغيت</translation>
     </message>
 </context>
 <context>
@@ -14849,17 +14852,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="126"/>
         <source>Is the texture pack enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل حزمة الرسوميات هذه مفعلة؟</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="128"/>
         <source>The name of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>إسم حزمة الرسوميات.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="130"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>التاريخ والوقت الذي تم فيه تغيير حزمة الرسوميات آخر مرة (أو تمت إضافته).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="132"/>
@@ -14869,7 +14872,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="134"/>
         <source>The size of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>مساحة حزمة الرسوميات.</translation>
     </message>
 </context>
 <context>
@@ -14917,7 +14920,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="192"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>أُنهيت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
@@ -14968,12 +14971,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="176"/>
         <source>All texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>كل حزم الرسوميات محدثة على آخر إصدار :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="178"/>
         <source>All selected texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>كل حزم الرسوميات المحددة محدثة على آخر إصدار :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="181"/>
@@ -15017,7 +15020,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>إختر المظهر والأيقونات المراد إستخدامها</translation>
     </message>
 </context>
 <context>
@@ -15074,12 +15077,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث متوفر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
         <source>A new version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>إصدار جديد متوفر!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
@@ -15095,22 +15098,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطَّ هذا التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>ذكرني لاحقا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>حمل التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>هناك إصدار جديد ل%1 !</translation>
     </message>
 </context>
 <context>
@@ -15452,12 +15455,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="164"/>
         <source>Install Loader</source>
-        <translation type="unfinished">تنصيب محمل</translation>
+        <translation>تنصيب المحمل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="167"/>
         <source>Install a mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>تنصيب محمل الإضافات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="196"/>
@@ -15472,7 +15475,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
         <source>Download all</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل الكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="212"/>
@@ -15798,7 +15801,7 @@ Please add your Mojang or Minecraft account.</oldsource>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>الإسم البديل لإصدار جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
@@ -15852,7 +15855,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation>إ&amp;نعاش</translation>
+        <translation>&amp;إنعاش</translation>
     </message>
 </context>
 <context>
@@ -15871,7 +15874,7 @@ Please add your Mojang or Minecraft account.</oldsource>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>List update failed:
 %1</source>
-        <translation>تحديث القائمة باء بالفشل:
+        <translation>تحديث القائمة فشل:
 %1</translation>
     </message>
 </context>
@@ -15971,7 +15974,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات وتحذيرات عن العالم.</translation>
     </message>
 </context>
 <context>
@@ -15989,7 +15992,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="106"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>إنضمام</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="111"/>
@@ -16043,7 +16046,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>حزم البيانات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
@@ -16241,7 +16244,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="126"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم حظرك لعدم وجود خدمة Xbox Live في دولتك.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
@@ -16272,7 +16275,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="154"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>حساب Microsoft هذا مقيد حاليا لأن ولي أمرك لم يعطك الإذن للعب عبر الشبكة. سجل الدخول إلى %1 واطلب من ولي أمرك تغيير أذوناتك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="161"/>
