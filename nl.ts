@@ -93,7 +93,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet terugval naar Modrinth voor geblokkeerde mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -4295,7 +4295,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan niet openen bestand %1 voor lezen: %2</translation>
     </message>
 </context>
 <context>
@@ -4598,7 +4598,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="106"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Downloading spel bestanden</translation>
     </message>
 </context>
 <context>
@@ -6209,7 +6209,7 @@ Wilt u de demo spelen?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit account heeft geen Minecraft. Je moet het eerst kopen zodat je de volledige game kan spelen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
@@ -16572,7 +16572,8 @@ De instantie kan hierdoor niet starten.</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>De Java-hoofdversie is incompatibel. Dit kan problemen veroorzaken.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
