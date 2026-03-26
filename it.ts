@@ -93,7 +93,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva ripiego a Modrinth per le mod bloccate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -2291,7 +2291,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Non riconosciuto</translation>
+        <translation>Non riconosciuto</translation>
     </message>
 </context>
 <context>
@@ -4340,7 +4340,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile leggere il file %1: %2</translation>
     </message>
 </context>
 <context>
@@ -5315,7 +5315,7 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -6484,12 +6484,12 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Download &amp;automatico di Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella dove Prism Launcher salverà le versioni di Java scaricate automaticamente. NON impostarla all&apos;installazione di sistema di Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
@@ -8133,7 +8133,7 @@ Causa:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wiki di %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -12397,7 +12397,12 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il programma di aggiornamento non è riuscito a creare il file di log - %1.
+
+Assicuratevi di avere i permessi di scrittura per la cartella data.
+(%2)
+
+Il programma di aggiornamento non può continuare finché non risolvi questo problema.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -12437,7 +12442,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Il programma di aggiornamento non poteva creare il log file - la cartella data non è scrivibile.
+        <translation>Il programma di aggiornamento non è riuscito a creare il file di log - la cartella data non è scrivibile.
 
 Assicuratevi di avere i permessi di scrittura per la cartella data.
 (%1)
@@ -13510,8 +13515,8 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <location filename="src/launcher/InstanceTask.cpp" line="90"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation>Una versione precedente di questo pacchetto di mod installava dei file di salvataggio.
-Vuoi eliminare quei salvataggi esistenti nell&apos;ambito di questo aggiornamento?</translation>
+        <translation>Una versione precedente di questo pacchetto di mod ha installato dei file di salvataggio.
+Vuoi eliminare quei salvataggi esistenti durante questo aggiornamento?</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13922,7 +13927,7 @@ Vuoi procedere?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare l&apos;icona per l&apos;applicazione: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
@@ -13938,7 +13943,7 @@ Vuoi procedere?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare l&apos;icona per il collegamento: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
@@ -16190,7 +16195,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aprire &quot;version.json&quot;: %1</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
@@ -16781,7 +16786,7 @@ A causa di questo l&apos;instanza potrebbe non avviarsi.</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation>La versione di Java non è compatibile. Potrebbero verificarsi dei bug.
+        <translation>La versione di Java non è compatibile. Potrebbero verificarsi problemi inaspettati.
 </translation>
     </message>
     <message>
