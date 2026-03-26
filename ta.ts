@@ -2233,6 +2233,29 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>EnsureAvailableMemory</name>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="35"/>
+        <source>Not enough RAM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
+        <source>There is not enough RAM available to launch this instance with the current memory settings.
+
+Required: %1 MiB
+Available: %2 MiB
+
+Continue anyway? This may cause slowdowns in the game and your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
+        <source>Not enough RAM available to launch this instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EnsureMetadataTask</name>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -7891,77 +7914,77 @@ Make sure you also trust the URL.
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
         <source>&amp;Launch</source>
         <translation>&amp; ஏவுதல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>Launch &amp;Offline</source>
         <translation>துவக்க &amp; இணைப்பில்லாத</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+shift+o</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
         <source>Launch &amp;Demo</source>
         <translation>துவக்க &amp; டெமோ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="312"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+alt+o</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="319"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="320"/>
         <source>Profilers</source>
         <translation>சுயவிவரங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="329"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="330"/>
         <source>&amp;No Profiler</source>
         <translation>&amp; விவரக்குறிப்பு இல்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;அமர்வு ஐடி&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1029"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;அணுகல் டோக்கன்&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;சுயவிவர ஐடி&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1068"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
         <source>broken</source>
         <translation>உடைந்த</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1084"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
         <source>, last played on %1 for %2</source>
         <translation>, கடைசியாக %2 க்கு %1 இல் விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>, total played for %1</source>
         <translation>, மொத்தம் %1 க்கு விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
         <source>, has crashed.</source>
         <translation>, செயலிழந்தது.</translation>
     </message>
@@ -9722,6 +9745,54 @@ Please update %1!</source>
         <location filename="src/launcher/net/NetJob.cpp" line="145"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1 பணி (களை) செயல்படுத்துதல் ( %3 இல் %2 செய்யப்படுகிறது)</translation>
+    </message>
+</context>
+<context>
+    <name>NetworkJobFailedDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="14"/>
+        <source>Network error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="29"/>
+        <source>A network operation has failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="65"/>
+        <source>URL</source>
+        <translation type="unfinished">முகவரி</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
+        <source>Error</source>
+        <translation type="unfinished">பிழை</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
+        <source>What would you like to do?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="34"/>
+        <source>All %1 requests have failed after %2 attempts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="37"/>
+        <source>Out of %1 requests, %2 have failed after %3 attempts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="40"/>
+        <source>Out of %1 requests, only %2 succeeded after %3 attempts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <source>Copy URL</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

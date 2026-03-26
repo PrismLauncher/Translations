@@ -2517,6 +2517,29 @@ Jste si jisti?</translation>
     </message>
 </context>
 <context>
+    <name>EnsureAvailableMemory</name>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="35"/>
+        <source>Not enough RAM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
+        <source>There is not enough RAM available to launch this instance with the current memory settings.
+
+Required: %1 MiB
+Available: %2 MiB
+
+Continue anyway? This may cause slowdowns in the game and your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
+        <source>Not enough RAM available to launch this instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
@@ -9311,47 +9334,47 @@ Ujistěte se také, že důvěřujete adrese URL.
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
         <source>&amp;Launch</source>
         <translation>&amp;Spustit</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>Launch &amp;Offline</source>
         <translation>Spustit &amp;offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
         <source>Launch &amp;Demo</source>
         <translation>Spustit &amp;demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="312"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="319"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="320"/>
         <source>Profilers</source>
         <translation>Profilery</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="329"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="330"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Žádný profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1029"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -9360,22 +9383,22 @@ Ujistěte se také, že důvěřujete adrese URL.
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1068"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
         <source>broken</source>
         <translation>rozbitý</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1084"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
         <source>, last played on %1 for %2</source>
         <translation>, naposledy hráno %1 po dobu %2</translation>
     </message>
@@ -9388,12 +9411,12 @@ Ujistěte se také, že důvěřujete adrese URL.
         <translation type="vanished">, naposledy hráno %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>, total played for %1</source>
         <translation>, celkem odehráno %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
         <source>, has crashed.</source>
         <translation>, spadla.</translation>
     </message>
@@ -11736,6 +11759,54 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <location filename="src/launcher/net/NetJob.cpp" line="145"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Vykonávání %1 úloh(y) (dokončeno %2 z %3)</translation>
+    </message>
+</context>
+<context>
+    <name>NetworkJobFailedDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="14"/>
+        <source>Network error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="29"/>
+        <source>A network operation has failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="65"/>
+        <source>URL</source>
+        <translation type="unfinished">URL</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
+        <source>Error</source>
+        <translation type="unfinished">Chyba</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
+        <source>What would you like to do?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="34"/>
+        <source>All %1 requests have failed after %2 attempts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="37"/>
+        <source>Out of %1 requests, %2 have failed after %3 attempts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="40"/>
+        <source>Out of %1 requests, only %2 succeeded after %3 attempts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <source>Copy URL</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
