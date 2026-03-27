@@ -2259,7 +2259,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Nerozpoznané</translation>
+        <translation>Nerozpoznané</translation>
     </message>
 </context>
 <context>
@@ -6279,12 +6279,12 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Automatické stiahnutie Javy:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Priečinok, do ktorého Prism Launcher automaticky ukladá stiahnuté verzie Javy. NENASTAVUJTE sem inštaláciu Javy vo vašom systéme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
@@ -7836,7 +7836,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Wiki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -15400,7 +15400,8 @@ The instance may not start due to this.</source>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavná verzia Javy nie je kompatibilná. Môže dôjsť k poruchám.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
