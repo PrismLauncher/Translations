@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Beillesztési szolgáltatás &amp;típusa</translation>
+        <translation>Beillesztő szolgáltatás &amp;típusa</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -38,27 +38,27 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Megjegyzés: Valószínűleg meg akarod változtatni vagy eltávolítani az alap URL-t miután megváltoztattad a beillesztési szolgáltatás típusát.</translation>
+        <translation>Megjegyzés: érdemes módosítani vagy törölni az alap URL-t miután megváltoztattad a beillesztő szolgáltatás típusát.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation>Erőforrás (Assets) szerver</translation>
+        <translation>Erőforrás (Assets) kiszolgáló</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Ezt beállíthatod egy másik szerverre is, ha problémáid vannak az erőforrások letöltésével.</translation>
+        <translation>Ezt beállíthatod egy másik kiszolgálóra is, ha problémáid vannak az erőforrások letöltésével.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Régi FML könyvtárak szervere</translation>
+        <translation>Régi FML könyvtárak kiszolgálója</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Ha problémád van a régi FML könyvtárak (Minecraft 1.5.2 és korábbi verziók) letöltésével, ezt beállíthatod egy másik szerverre.</translation>
+        <translation>Ha problémád van a régi FML könyvtárak (Minecraft 1.5.2 és korábbi verziók) letöltésével, ezt beállíthatod egy másik kiszolgálóra.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -89,7 +89,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Engedélyezi a Modrinth-ra való átállást blokkolt modok esetén</translation>
+        <translation>Modrinth használata tartalékként blokkolt modok esetén</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -156,12 +156,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Adj meg egy egyéni User Agent-et. A $LAUNCHER_VER speciális karakterlánc helyére a launcher verziója kerül.</translation>
+        <translation>Adj meg egy egyéni User Agentet. A $LAUNCHER_VER speciális karakterlánc helyére a launcher verziója kerül.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>Meta&amp;adat szerver</translation>
+        <translation>Meta&amp;adat-kiszolgáló</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -302,7 +302,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Ezek a fájlok nem tölthetőek le harmadik féltől származó launcher-rel.&lt;br/&gt;Manuálisan kell ezeket letölteni és hozzáadni a példányhoz.</translation>
+        <translation>Ezek a fájlok nem tölthetőek le harmadik féltől származó launcherrel.&lt;br/&gt;Manuálisan kell ezeket letölteni és hozzáadni a példányhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
@@ -1011,7 +1011,7 @@ hogy részletes leírást kapj az utolsó frissítési próbálkozásról.</tran
     <message>
         <location filename="src/launcher/Application.cpp" line="1115"/>
         <source>Update Failed</source>
-        <translation>Sikertelen Frissítés</translation>
+        <translation>Sikertelen frissítés</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1139"/>
@@ -1355,7 +1355,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Nem sikerült kapcsolatot létesíteni a hitelesítési szerverrel.</translation>
+        <translation>Nem sikerült kapcsolatot létesíteni a hitelesítési kiszolgálóval.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
@@ -1710,7 +1710,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="815"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>A komponens metaadat-frissítési feladata nem sikerült a távoli szerverről történő letöltés során:
+        <translation>A komponens metaadat-frissítési feladata nem sikerült a távoli kiszolgálóról történő letöltés során:
 %1</translation>
     </message>
 </context>
@@ -6098,7 +6098,7 @@ A Java-verziót később a beállítások között megváltoztathatod.
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Úgy tűnik, hogy %1 próbálkozás után sem sikerült elindulni. Általában ez a probléma megoldható azzal, hogy kijelentkezel, majd újra bejelentkezel a Microsoft-fiókodba. Ha ez nem segít, akkor a Minecraft hitelesítési szerverei nem működnek, vagy VPN-re van szükséged a régiódban. Akarod folytatni a próbálkozást?</translation>
+        <translation>Úgy tűnik, hogy %1 próbálkozás után sem sikerült elindulni. Általában ez a probléma megoldható azzal, hogy kijelentkezel, majd újra bejelentkezel a Microsoft-fiókodba. Ha ez nem segít, akkor a Minecraft hitelesítési kiszolgálói nem működnek, vagy VPN-re van szükséged a régiódban. Akarod folytatni a próbálkozást?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
@@ -6251,7 +6251,7 @@ Szeretnél játszani a demóval?</translation>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>A játék elindítása késtetve, amíg meg nem nyomod a gombot. Ez a helyes idő a profiler beállításához, mivel a profiler szerver most fut.
+        <translation>A játék elindítása késtetve, amíg meg nem nyomod a gombot. Ez a helyes idő a profiler beállításához, mivel a profiler kiszolgáló most fut.
 
 %1</translation>
     </message>
@@ -6298,7 +6298,7 @@ Szeretnél játszani a demóval?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="201"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation>A(z) &apos;%1&apos; már nem létezik a szervereken</translation>
+        <translation>A(z) &apos;%1&apos; már nem létezik a kiszolgálókon</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
@@ -7444,7 +7444,7 @@ Indok:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="100"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>A napló feltöltése a beállításokban konfigurált beillesztési szolgáltatásba</translation>
+        <translation>A napló feltöltése a beállításokban konfigurált beillesztő szolgáltatásba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -12033,7 +12033,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation>A napló feltöltése a beállításokban konfigurált beillesztési szolgáltatásba</translation>
+        <translation>A napló feltöltése a beállításokban konfigurált beillesztő szolgáltatásba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
@@ -12288,7 +12288,7 @@ Hibaüzenet: %3</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation>Az alapértelmezett beillesztési szolgáltatás mclo.gs-re változott, válaszd ki, mit szeretnél tenni a beállításokkal.</translation>
+        <translation>Az alapértelmezett beillesztő szolgáltatás mclo.gs-re változott, válaszd ki, mit szeretnél tenni a beállításokkal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
@@ -12377,7 +12377,7 @@ Hibaüzenet: %3</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="132"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="153"/>
         <source>Update Check Failed</source>
-        <translation>Sikertelen Frissítés Keresés</translation>
+        <translation>Sikertelen frissítés-keresés</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="133"/>
@@ -12954,7 +12954,7 @@ HTTP állapot: %2</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
-        <translation>A szerver a következő hibával válaszolt:</translation>
+        <translation>A kiszolgáló a következő hibával válaszolt:</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
@@ -13351,7 +13351,7 @@ Hibaüzenet: %1</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>A fő jar URL-jét nem sikerült meghatározni - a Mojang eltávolította a tartalékként használt szervert.</translation>
+        <translation>A fő jar URL-jét nem sikerült meghatározni - a Mojang eltávolította a tartalékként használt kiszolgálót.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="268"/>
@@ -14129,7 +14129,7 @@ Szeretnéd folytatni?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>Nem sikerült feldolgozni a hastebin szerver válaszát: JSON-t vártunk, de érvénytelen választ kaptunk. Hiba: %1</translation>
+        <translation>Nem sikerült feldolgozni a hastebin kiszolgáló válaszát: JSON-t vártunk, de érvénytelen választ kaptunk. Hiba: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="140"/>
@@ -14141,7 +14141,7 @@ Szeretnéd folytatni?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>Nem sikerült feldolgozni az mclogs szerver válaszát: JSON-t vártunk, de érvénytelen választ kaptunk. Hiba: %1</translation>
+        <translation>Nem sikerült feldolgozni az mclogs kiszolgáló válaszát: JSON-t vártunk, de érvénytelen választ kaptunk. Hiba: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
@@ -14151,7 +14151,7 @@ Szeretnéd folytatni?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>Nem sikerült feldolgozni a pasteGG szerver válaszát: JSON-t vártunk, de érvénytelen választ kaptunk. Hiba: %1</translation>
+        <translation>Nem sikerült feldolgozni a pasteGG kiszolgáló válaszát: JSON-t vártunk, de érvénytelen választ kaptunk. Hiba: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
