@@ -916,7 +916,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="262"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[ข้อผิดพลาด] อู้วววววววววววววววว! ข้อผิดพลาดที่น่ากลัว!</translation>
+        <translation>[ข้อผิดพลาด] อู้วววววววววว! ข้อผิดพลาดที่น่ากลัว!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
