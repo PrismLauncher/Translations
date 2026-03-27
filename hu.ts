@@ -2536,7 +2536,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Nincs elegendő RAM. A jelenlegi memóriabeállítások mellett nincs elegendő RAM az adott példány elindításához.
+        <translation>A jelenlegi memóriabeállítások mellett nincs elegendő RAM az adott példány elindításához.
 
 Szükséges: %1 MiB
 Rendelkezésre álló: %2 MiB
