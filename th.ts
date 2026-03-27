@@ -8961,12 +8961,15 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+คำเตือน: ข้อมูลนี้ถูกเชื่อมโยงเชิงสัญลักษณ์จากที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย
+เส้นทางที่เป็นที่ยอมรับ: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+คำเตือน: แหล่งข้อมูลนี้มีการเชื่อมโยงโดยตรงไปยังที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -8996,7 +8999,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">แก้ไขล่าสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -12367,13 +12370,16 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+คำเตือน: ข้อมูลนี้ถูกเชื่อมโยงเชิงสัญลักษณ์จากที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย
+เส้นทางที่เป็นที่ยอมรับ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="555"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+คำเตือน: แหล่งข้อมูลนี้มีการเชื่อมโยงโดยตรงไปยังที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
@@ -12388,7 +12394,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">แก้ไขล่าสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
@@ -12463,7 +12469,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">แก้ไขล่าสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
@@ -12477,7 +12483,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ไม่รู้จัก</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -12490,12 +12496,15 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+คำเตือน: ข้อมูลนี้ถูกเชื่อมโยงเชิงสัญลักษณ์จากที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย
+เส้นทางที่เป็นที่ยอมรับ: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+คำเตือน: แหล่งข้อมูลนี้มีการเชื่อมโยงโดยตรงไปยังที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="144"/>
@@ -12520,7 +12529,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">แพ็กฟอร์แม็ต</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="146"/>
@@ -12538,7 +12547,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ดาวน์โหลดดาตาแพ็ก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -13274,7 +13283,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ดาวน์โหลดดาตาแพ็ก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
@@ -13916,7 +13925,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">แก้ไขล่าสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
@@ -13932,12 +13941,15 @@ inheritsFrom is missing</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+คำเตือน: ข้อมูลนี้ถูกเชื่อมโยงเชิงสัญลักษณ์จากที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย
+เส้นทางที่เป็นที่ยอมรับ: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+คำเตือน: แหล่งข้อมูลนี้มีการเชื่อมโยงโดยตรงไปยังที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="126"/>
@@ -13975,7 +13987,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ดาวน์โหลดดาตาแพ็ก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
