@@ -2530,7 +2530,7 @@ Sei sicuro/a?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="35"/>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>Non abbastanza RAM</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2540,12 +2540,17 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è disponibile abbastanza RAM per avviare questa istanza con le impostazioni di memoria correnti.
+
+Richiesto: %1 MiB
+Disponibile: %1 MiB
+
+Continuare comunque? Questo può causare rallentamenti nel gioco e nel sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Non è disponibile abbastanza RAM per lanciare questa istanza</translation>
     </message>
 </context>
 <context>
