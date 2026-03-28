@@ -6221,7 +6221,7 @@ Wilt u de demo spelen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; is verlopen en moet opnieuw worden geauthenticeerd</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
