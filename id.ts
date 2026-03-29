@@ -5610,7 +5610,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation>P&amp;engaturan Test</translation>
+        <translation>Uji P&amp;engaturan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
