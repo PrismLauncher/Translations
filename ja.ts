@@ -2573,7 +2573,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation>資格を取得しました</translation>
+        <translation>利用資格を取得しました</translation>
     </message>
 </context>
 <context>
@@ -6093,7 +6093,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
         <location filename="src/launcher/LaunchController.cpp" line="372"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>起動構成のプロファイルをロードできませんでした。</translation>
+        <translation>起動構成のプロファイルを読み込めませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="378"/>
@@ -7454,17 +7454,17 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
-        <translation>デバイスの認証に失敗: %1</translation>
+        <translation>デバイスのアクセス許可に失敗しました: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
-        <translation>デバイス認証の取得に失敗しました</translation>
+        <translation>デバイスのアクセス許可を取得できませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation>デバイスの認証に失敗: 必須項目がありません</translation>
+        <translation>デバイスのアクセス許可に失敗しました: 必須項目が抜けています</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="156"/>
@@ -9295,7 +9295,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <source>Got Minecraft profile</source>
-        <translation>Minecraftのプロフィールを取得しました</translation>
+        <translation>Minecraftのプロファイルを取得しました</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
@@ -15502,7 +15502,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinUpload.cpp" line="66"/>
         <source>Uploading skin</source>
-        <translation>スキンをアップロード</translation>
+        <translation>スキンをアップロード中</translation>
     </message>
 </context>
 <context>
@@ -17365,13 +17365,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation>%1 サービスにアクセスするための承認を取得しています。</translation>
+        <translation>%1サービスへのアクセス許可を取得中。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>%1 サービスの認証を取得できませんでした。エラー %2。</translation>
+        <translation>%1サービスのアクセス許可を取得できませんでした。エラー %2。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
@@ -17381,32 +17381,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="75"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation>%1 サービスの認証を取得できませんでした: %2</translation>
+        <translation>%1サービスのアクセス許可を取得できませんでした: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation>%1 サービスにアクセスするための認証レスポンスを解析できませんでした。</translation>
+        <translation>%1サービスへのアクセス許可のレスポンスを解析できませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="89"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation>サーバーは、応答で %1 ユーザー認証ハッシュを変更しました。なにか問題があるようです。</translation>
+        <translation>サーバーが応答内の %1 アクセス許可ユーザーハッシュを変更しました。何か問題があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="95"/>
         <source>Got authorization to access %1</source>
-        <translation>%1 にアクセスする権限を取得しました</translation>
+        <translation>%1へのアクセス許可を取得しました</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="106"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation>%1 認証エラーレスポンスをJSONとして解析できません: %2</translation>
+        <translation>%1アクセス許可のエラーレスポンスをJSONとして解析できません: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="114"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation>%1 認証エラーレスポンスにXErr要素がありません。</translation>
+        <translation>%1アクセス許可のエラーレスポンスにXErr要素がありません。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="120"/>
@@ -17416,7 +17416,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="126"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live は、お住まいの国ではご利用いただけません。あなたはブロックされています。</translation>
+        <translation>Xbox Liveは、お住まいの国ではご利用いただけません。あなたはブロックされています。</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -17474,7 +17474,7 @@ Please set up your account according to %1.</source>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Xbox プロフィールを取得しています。</translation>
+        <translation>Xboxプロフィールを取得中。</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
@@ -17482,7 +17482,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Xbox プロフィールを取得しました</translation>
+        <translation>Xboxプロフィールを取得しました</translation>
     </message>
 </context>
 <context>
@@ -17490,18 +17490,18 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <source>Logging in as an Xbox user.</source>
-        <translation>Xbox ユーザーとしてログインします。</translation>
+        <translation>Xboxユーザーとしてログイン中。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation>XBoxユーザー認証に失敗しました: %1</translation>
+        <translation>Xboxユーザー認証に失敗しました: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation>XBoxユーザー認証のレスポンスを解析できませんでした。</translation>
+        <translation>Xboxユーザー認証のレスポンスを解析できませんでした。</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
@@ -17514,7 +17514,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>Got Xbox user token</source>
-        <translation>Xbox ユーザー トークンを取得しました</translation>
+        <translation>Xboxユーザー トークンを取得しました</translation>
     </message>
 </context>
 <context>
