@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Service pastebin</translation>
+        <translation>&amp;Service Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -101,7 +101,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished">Activer le basculement vers Modrinth pour les mods bloqués</translation>
+        <translation>Activer le retour à Modrinth pour les mods bloqués</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -2542,7 +2542,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="35"/>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>Mémoire RAM insuffisante</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2552,12 +2552,17 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>La mémoire vive disponible est insuffisante pour lancer cette instance avec les paramètres de mémoire actuels.
+
+Requis: %1 MiB
+Disponible: %2 MiB
+
+Poursuivre quand même&#x202f;? Cela pourrait ralentir le jeu et votre système.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>La mémoire RAM disponible est insuffisante pour lancer cette instance</translation>
     </message>
 </context>
 <context>
@@ -5384,7 +5389,7 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -8954,13 +8959,10 @@ Voulez-vous continuer ?</translation>
 
 URL:
 %2</source>
-        <translation>Voulez-vous télécharger et importer un modpack depuis:
-
+        <translation>Souhaitez-vous télécharger et importer un modpack depuis:
 %1
 
-
 URL:
-
 %2</translation>
     </message>
     <message>
