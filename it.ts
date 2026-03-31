@@ -2530,7 +2530,7 @@ Sei sicuro/a?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="35"/>
         <source>Not enough RAM</source>
-        <translation>Non abbastanza RAM</translation>
+        <translation>RAM insufficiente</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2540,17 +2540,17 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Non è disponibile abbastanza RAM per avviare questa istanza con le impostazioni di memoria correnti.
+        <translation>Non è disponibile sufficiente RAM per avviare questa istanza con le impostazioni di memoria attuali.
 
-Richiesto: %1 MiB
-Disponibile: %1 MiB
+Richiesti: %1 MiB
+Disponibili: %2 MiB
 
-Continuare comunque? Questo può causare rallentamenti nel gioco e nel sistema.</translation>
+Continuare ugualmente? Questo può causare rallentamenti del gioco e del sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished">Non è disponibile abbastanza RAM per lanciare questa istanza</translation>
+        <translation>RAM disponibile insufficiente per lanciare questa istanza</translation>
     </message>
 </context>
 <context>
@@ -3837,7 +3837,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>La memoria consigliata del modpack supera il 90% della RAM di sistema—riducendola da %1 MiB a %2 MiB!</translation>
+        <translation>La memoria consigliata del modpack supera il 90% della RAM di sistema—verrà ridotta da %1 MiB a %2 MiB!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -11650,47 +11650,47 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="14"/>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di rete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="29"/>
         <source>A network operation has failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Un&apos;operazione di rete ha fallito: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="65"/>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
         <source>Error</source>
-        <translation type="unfinished">Errore</translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
         <source>What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosa vorresti fare?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="34"/>
         <source>All %1 requests have failed after %2 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutte le %1 richieste sono fallite dopo %2 tentativi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="37"/>
         <source>Out of %1 requests, %2 have failed after %3 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>Di %1 richieste, %2 sono fallite dopo %3 tentativi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="40"/>
         <source>Out of %1 requests, only %2 succeeded after %3 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>Di %1 richieste, solo %2 sono riuscite dopo %3 tentativi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
         <source>Copy URL</source>
-        <translation type="unfinished">Copia URL</translation>
+        <translation>Copia URL</translation>
     </message>
 </context>
 <context>
@@ -13447,7 +13447,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>Hai provato a impostare manualmente un opzione di memoria JVM (usando &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; o &quot;-Xms»).
-Per queste impostazioni esistono dei box dedicati nelle impostazioni (nella scheda Java, nella sezione Memoria in alto).
+Per queste impostazioni esistono dei campi dedicati nelle impostazioni (vedi la scheda Java, sezione Memoria in alto).
 Questo messaggio verrà visualizzato finché non le rimuoverai dagli argomenti JVM.</translation>
     </message>
     <message>
@@ -13850,7 +13850,7 @@ Vuoi eliminare quei salvataggi esistenti durante questo aggiornamento?</translat
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="296"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Errore</translation>
+        <translation>In errore</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
