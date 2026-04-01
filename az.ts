@@ -6676,7 +6676,7 @@ Həmçinin URL-in etibarlı olduğundan əmin olun.
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1:%2 üçün meta-məlumatlar yüklənir</translation>
     </message>
 </context>
 <context>
