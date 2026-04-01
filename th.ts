@@ -8719,12 +8719,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="778"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">ใช้ Zink ซึ่งเป็นไดรเวอร์ OpenGL ของ Mesa ที่ใช้งาน OpenGL บน Vulkan ประสิทธิภาพอาจแตกต่างกันไปขึ้นอยู่กับสถานการณ์ หมายเหตุ: หากไม่พบไดรเวอร์ Vulkan ที่เหมาะสม จะใช้การเรนเดอร์ซอฟต์แวร์</translation>
+        <translation>ใช้ Zink ซึ่งเป็นไดรเวอร์ OpenGL ของ Mesa ที่ใช้งาน OpenGL บน Vulkan ประสิทธิภาพอาจแตกต่างกันไปขึ้นอยู่กับสถานการณ์ หมายเหตุ: หากไม่พบไดรเวอร์ Vulkan ที่เหมาะสม จะใช้การเรนเดอร์ซอฟต์แวร์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="781"/>
         <source>Use Zink</source>
-        <translation type="unfinished">ใช้ Zink</translation>
+        <translation>ใช้ Zink</translation>
     </message>
     <message>
         <source>Launch</source>
