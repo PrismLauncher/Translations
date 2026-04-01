@@ -163,7 +163,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
         <source>User Agent</source>
-        <translation>Пользовательский агент (User Agent)</translation>
+        <translation>User-Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
@@ -418,7 +418,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
-        <translation>Коммит: %1</translation>
+        <translation>Commit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
@@ -974,7 +974,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="687"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation>Не удалось отобразить этот журнал, так как длина журнала превысила %1 строк.</translation>
+        <translation>Не удалось отобразить этот журнал, так его длина превысила %1 строк.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="904"/>
@@ -997,16 +997,17 @@ for details on the last update attempt.
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
         <translation>У этой установки есть файл обновления в %1
 
-Время: %2
+Время создания: %2
 При обновлении с версии %3 до %4
 Путь установки: %5
 Путь данных: %6
-Скорее всего, это означает неудавшуюся попытку обновления. Убедитесь в работоспособности установки, прежде чем продолжить.
+Вероятно, это означает неудачную попытку обновления. Прежде чем продолжить, убедитесь, что ваша установка работает исправно.
 
-Подробности об этой попытке обновления находятся в журнале установки в:
+Проверьте журнал обновлений по адресу:
 %7
+для получения подробностей об этой попытке обновления.
 
-Нажмите «Игнорировать» ниже, чтобы удалить этот файл обновления и продолжить.</translation>
+Чтобы удалить этот файл обновления и продолжить, нажмите «Игнорировать» ниже.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1083"/>
@@ -1023,8 +1024,8 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</source>
         <translation>При обновлении произошла ошибка
 
-Убедитесь в работоспособности установки, прежде чем продолжить.
-Проверьте журнал обновлений Prism Launcher по пути: 
+Перед продолжением убедитесь, что ваша установка работает исправно.
+Проверьте журнал обновлений Prism Launcher по адресу: 
 %1
 для получения подробной информации о последней попытке обновления.</translation>
     </message>
@@ -1052,7 +1053,7 @@ for details.</oldsource>
 Теперь вы используете %1.
 Проверьте журнал установки:
 %2
-для ознакомления с подробной информацией об обновлении.</translation>
+для получения подробной информации об обновлении.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1147"/>
@@ -1107,7 +1108,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1994"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>Выполнить миграцию не удалось! Причина: %1</translation>
+        <translation>Перенос не удался! Причина: %1</translation>
     </message>
 </context>
 <context>
@@ -1954,12 +1955,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation>Reflinks поддерживаются на %1</translation>
+        <translation>Reflinks поддерживается на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation>Reflinks не поддерживаются на %1</translation>
+        <translation>Reflinks не поддерживается на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
@@ -2558,10 +2559,10 @@ Available: %2 MiB
 Continue anyway? This may cause slowdowns in the game and your system.</source>
         <translation>Недостаточно ОЗУ для запуска этого экземпляра с текущими настройками памяти.
 
-Требуется: %1 MiB
-Доступно: %2 MiB
+Требуется: %1 МБ
+Доступно: %2 МБ
 
-Продолжить в любом случае? Это может вызвать замедления в игре и системе.</translation>
+Продолжить в любом случае? Это может привести к замедлению работы игры и системы.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
@@ -2608,7 +2609,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Этот экземпляр не может быть запущенным из-за того что некоторые библиотеки отсутствуют или не установлены. Попробуйте снова в онлайн моде с рабочим интернет-соединением</translation>
+        <translation>Этот экземпляр не может быть запущен, поскольку некоторые библиотеки отсутствуют или ещё не загружены. Попробуйте повторить попытку, подключившись к Интернету</translation>
     </message>
 </context>
 <context>
@@ -2616,12 +2617,12 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation>Проверка наличия лицензии игры.</translation>
+        <translation>Проверка на наличие лицензии.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation>Права получены</translation>
+        <translation>Лицензия получена</translation>
     </message>
 </context>
 <context>
@@ -2678,7 +2679,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>Экспортировать экземпляр</translation>
+        <translation>Экспорт экземпляра</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="137"/>
@@ -2701,7 +2702,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="92"/>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>Ок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
@@ -2832,7 +2833,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation> МиБ</translation>
+        <translation> МБ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -2842,7 +2843,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="209"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation>&amp;Отметить отключённые файлы как необязательные</translation>
+        <translation>&amp;Отметить отключенные файлы как необязательные</translation>
     </message>
     <message>
         <source>Version</source>
@@ -2879,7 +2880,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>Ок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="165"/>
@@ -2974,9 +2975,9 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
 {version}  - Mod version
 {authors}  - Mod authors</source>
         <translation>Этот текст поддерживает следующие заполнители:
-{name}     - Имя мода
-{mod_id}   - ID мода
-{url}      - URL мода
+{name}     - Название мода
+{mod_id}   - Идентификатор мода
+{url}      - URL-адрес мода
 {version}  - Версия мода
 {authors}  - Авторы мода</translation>
     </message>
@@ -3001,7 +3002,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="119"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation>URL-адрес</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="126"/>
@@ -3136,7 +3137,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
         <source>View &amp;Folder</source>
-        <translation>Открыть п&amp;апку</translation>
+        <translation>Открыть &amp;папку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
@@ -3151,7 +3152,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
         <source>Download resources from online mod platforms.</source>
-        <translation>Скачать ресурсы с онлайн-платформ модов.</translation>
+        <translation>Скачать ресурсы с онлайн-платформ для модов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="166"/>
@@ -3205,7 +3206,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Check for &amp;Updates</source>
-        <translation>Проверить о&amp;бновления</translation>
+        <translation>Проверить &amp;обновления</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
@@ -3287,7 +3288,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Удаление этого ресурса при работе игры может привести к её аварийному завершению.
+        <translation>Удаление этого ресурса во время работы игры может привести к её сбою.
 Продолжить?</translation>
     </message>
     <message>
@@ -3303,12 +3304,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="347"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation> (%1 установлен(о), %2 выбран(о))</translation>
+        <translation> (%1 установлено, %2 выбрано)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="349"/>
         <source> (%1 installed)</source>
-        <translation> (%1 установлен(о))</translation>
+        <translation> (%1 установлено)</translation>
     </message>
 </context>
 <context>
@@ -3409,7 +3410,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
@@ -3501,7 +3502,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="75"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Не удалось распаковать нативный jar-файл «%1» в указанное место «%2»</translation>
+        <translation>Не удалось распаковать нативный jar-файл «%1» в «%2»</translation>
     </message>
 </context>
 <context>
@@ -3512,7 +3513,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Скачиванние библиотек FML…</translation>
+        <translation>Скачивание библиотек FML…</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -8041,7 +8042,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="259"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>Это пушистый котёнок :3</translation>
+        <translation>Это пушистый котик :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -8180,7 +8181,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
         <source>&amp;Discord Guild</source>
-        <translation>&amp;Discord-сервер</translation>
+        <translation>&amp; Гильдия в Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
@@ -9199,7 +9200,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open %1 Discord guild.</source>
-        <translation>Открыть сообщество на Discord %1.</translation>
+        <translation>Открыть гильдию %1 в Discord.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
@@ -11669,7 +11670,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Поиск и фильтрация…</translation>
+        <translation>Поиск и фильтр…</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -11730,7 +11731,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Этот проект находится в архиве. Он не будет получать новых обновлений, пока автор не решит его возобновить.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Этот проект архивирован. Он не будет обновляться, пока автор не решит разблокировать его.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="270"/>
@@ -12696,7 +12697,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="96"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation>Только проверить необходимость обновления. Код выхода 100 если ИСТИНА, 0 если ЛОЖЬ (или ненулевое число, если произошла ошибка).</translation>
+        <translation>Проверяет только, если требуется обновление. Возвращает код 100, если требуется, и 0, если нет (или значение, отличное от 0, в случае ошибки).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="97"/>
@@ -14288,7 +14289,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation>Не удалось создать иконку для приложения: %1</translation>
+        <translation>Не удалось создать значок ярлыка: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
@@ -14304,7 +14305,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation>Не удалось создать иконку ярлыка: %1</translation>
+        <translation>Не удалось создать значок ярлыка: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
@@ -15847,7 +15848,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
-        <translation>%1 Быстрая установка</translation>
+        <translation>Быстрая настройка: %1</translation>
     </message>
 </context>
 <context>
@@ -16564,7 +16565,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation>Не удалось открыть &quot;version.json&quot;: %1</translation>
+        <translation>Не удалось открыть «version.json»: %1</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
