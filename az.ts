@@ -1026,7 +1026,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Quraşdırılır</translation>
     </message>
 </context>
 <context>
@@ -1034,62 +1034,62 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="47"/>
         <source>Finished all authentication steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Bütün autentifikasiya addımları tamamlandı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="52"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>Başladılır</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="88"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gözlənilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="94"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daxil olmağa hazırlaşılır...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentifikasiya tapşırığı uğurla tamamlandı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentifikasiya serveri ilə əlaqə saxlanıla bilmədi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Müştəri kimliyi (Client ID) dəyişib. Yeni seans yaradılmalıdır.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentifikasiya zamanı xəta baş verdi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentifikasiya uğursuz oldu. Sessiya müddəti başa çatıb.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentifikasiya uğursuz oldu. Hesab artıq mövcud deyil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Naməlum hesab tapşırıq vəziyyəti: %1</translation>
     </message>
 </context>
 <context>
@@ -1097,52 +1097,52 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avtomatik Java mexanizmi 32-bitlik Java quraşdırması aşkar etdi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uyğun Java versiyası tapılmadı. Standart versiyadan istifadə olunur.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisteminiz (%1-%2) avtomatik Java quraşdırılması ilə uyğun deyil. Standart Java yolundan istifadə olunur.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta məlumatlarınız köhnəlib və ya hansı Java quraşdırmasından istifadə olunacağını müəyyən etmək üçün lazım olan məlumatlara malik deyil. Standart Java yolundan istifadə olunur.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uyğun Java burada tapıldı: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uyğun Java versiyası tapılmadı (binary fayl mövcud deyil). Standart versiyadan istifadə olunur.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="179"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Java yükləmə növü müəyyən edilə bilmədi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-nı quraşdırın</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Sizin əməliyyat sisteminiz üçün heç bir Java versiyası tapılmadı: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uyğun Java versiyası tapılmadı. Standart versiyadan istifadə olunur.</translation>
     </message>
 </context>
 <context>
@@ -1150,28 +1150,28 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Yeni Özəllik Bildirişi!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Biz hər Minecraft versiyası üçün düzgün Java versiyasını avtomatik yükləmə özəlliyini əlavə etdik (bunu Java Ayarlarından dəyişmək olar). Bu özəlliyi aktivləşdirmək, yoxsa deaktiv etmək istəyirsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Avtomatik yükləməni aktivləşdirin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Avtomatik yükləməni deaktiv edin</translation>
     </message>
 </context>
 <context>
@@ -1179,7 +1179,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler dayandırıldı</translation>
     </message>
 </context>
 <context>
@@ -1187,73 +1187,73 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="174"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Bütün modlar tapıldı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zəhmət olmasa, çatışmayan modları yükləyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; %1 ünvanında tapıldı &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaxşı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="180"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Keç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Konfiqurasiya etdiyiniz qlobal modlar qovluğu və standart yükləmələr qovluğu avtomatik olaraq yüklənmiş modlar üçün yoxlanılır və tapıldıqda onlar instansiyaya köçürülür.&lt;/p&gt;&lt;p&gt;İstəyə görə, yüklənmiş modları bu pəncərəyə sürükləyib buraxa və ya modları standart yerə yükləməmisinizsə izləmək üçün bir qovluq əlavə edə bilərsiniz.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight:600;&quot;&gt;&apos;Open Missing&apos; düyməsinə klikləyərək bütün yükləmə keçidlərini brauzerdə aça bilərsiniz.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklanmış modlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Çatışmayanları aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>İzlənilən qovluqlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükləmə qovluğu əlavə et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modları yüklədiyiniz qovluğu seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; Tapılmadı &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
 </context>
 <context>
@@ -1261,12 +1261,12 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Pelerin taxılır</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="51"/>
         <source>Removing cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Pelerin çıxarılır</translation>
     </message>
 </context>
 <context>
@@ -1274,7 +1274,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="74"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java yoxlayıcı kitabxanası tapılmadı. Zəhmət olmasa, quraşdırmanızı yoxlayın.</translation>
     </message>
 </context>
 <context>
@@ -1282,37 +1282,37 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Oflayn ad seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesaj etiketi üçün yer tutucu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>İstifadəçi adı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>İstifadəçi adı yalnız 3-dən 16-ya qədər simvol uzunluğunda olduqda, ingilis hərfləri, rəqəmlər və alt xətlərdən istifadə etdikdə etibarlıdır. Etibarsız istifadəçi adı serverlərə qoşulmağa və tək oyun dünyalarına girməyə mane ola bilər.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Etibarsız istifadəçi adlarına icazə verin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaxşı</translation>
     </message>
 </context>
 <context>
@@ -1320,32 +1320,32 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod təminatçısını(provayder) seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modu keçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamısını keçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamısı üçün təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş təminatçı uğursuz olarsa, avtomatik olaraq digər təminatçılardan istifadə etməyə çalışın</translation>
     </message>
 </context>
 <context>
@@ -1353,27 +1353,27 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="85"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponentlər yüklənir</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ləğv edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bəzi komponent metadatası yükləmə tapşırıqları uğursuz oldu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="249"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 komponent üçün metadata yüklənir</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="485"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation type="unfinished"></translation>
+        <translation>Asılılıqlar yoxlanarkən ziddiyyətli tələblər aşkarlandı!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="502"/>
