@@ -5381,7 +5381,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished">การติดตั้งและใช้งาน Java</translation>
+        <translation>การติดตั้งและใช้งาน Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
@@ -8733,12 +8733,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="380"/>
         <source>Account:</source>
-        <translation type="unfinished">บัญชี:</translation>
+        <translation>บัญชี:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="442"/>
         <source>Server address:</source>
-        <translation type="unfinished">ที่อยู่เซิฟเวอร์:</translation>
+        <translation>ที่อยู่เซิฟเวอร์:</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
@@ -8747,12 +8747,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="809"/>
         <source>Custom Commands</source>
-        <translation type="unfinished">คำสั่งพิเศษ</translation>
+        <translation>คำสั่งพิเศษ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="819"/>
         <source>Environment Variables</source>
-        <translation type="unfinished">ตัวแปรสภาพแวดล้อม</translation>
+        <translation>ตัวแปรสภาพแวดล้อม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
@@ -8772,18 +8772,18 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="136"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">ไม่สามารถหา Feral Interactive&apos;s GameMode เจอได้ในระบบของคุณ</translation>
+        <translation>ไม่สามารถหา GameMode ของ Feral Interactiveเจอได้ในระบบของคุณ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="141"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">ไม่สามารถหา MangoHud เจอได้ในระบบของคุณ</translation>
+        <translation>ไม่สามารถหา MangoHud เจอได้ในระบบของคุณ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="209"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="216"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">เส้นทางไปที่ไฟล์ไลบราลี %1</translation>
+        <translation>เส้นทางไปที่ไฟล์ไลบราลี %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="565"/>
@@ -8807,7 +8807,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">ฟอร์ม</translation>
+        <translation>ฟอร์ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -8832,7 +8832,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">แฟบริค</translation>
+        <translation>แฟบริค (Fabric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
@@ -8937,7 +8937,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"/>
         <source>All Versions</source>
-        <translation type="unfinished">เวอร์ชั่นทั้งหมด</translation>
+        <translation>เวอร์ชั่นทั้งหมด</translation>
     </message>
 </context>
 <context>
@@ -8950,7 +8950,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="100"/>
         <source>File</source>
-        <translation type="unfinished">ไฟล์</translation>
+        <translation>ไฟล์</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -8961,14 +8961,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 คำเตือน: ข้อมูลนี้ถูกเชื่อมโยงเชิงสัญลักษณ์จากที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย
 เส้นทางที่เป็นที่ยอมรับ: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 คำเตือน: แหล่งข้อมูลนี้มีการเชื่อมโยงโดยตรงไปยังที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย</translation>
     </message>
     <message>
@@ -8989,12 +8989,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Enable</source>
-        <translation type="unfinished">เปิด</translation>
+        <translation>เปิด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Image</source>
-        <translation type="unfinished">รูปภาพ</translation>
+        <translation>รูปภาพ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -9004,7 +9004,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Size</source>
-        <translation type="unfinished">ขนาด</translation>
+        <translation>ขนาด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -9171,7 +9171,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Confirm disable</source>
-        <translation type="unfinished">ยืนยันการปิดใช้งาน</translation>
+        <translation>ยืนยันการปิดใช้งาน</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
@@ -9250,7 +9250,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="131"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished">ยืนยันการลบ</translation>
+        <translation>ยืนยันการลบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="132"/>
@@ -9275,14 +9275,14 @@ Do you want to disable them?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="276"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="336"/>
         <source>Error</source>
-        <translation type="unfinished">ข้อผิดพลาด</translation>
+        <translation>ข้อผิดพลาด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="280"/>
         <source>Aborted</source>
-        <translation type="unfinished">ล้มเลิก</translation>
+        <translation>ยกเลิกแล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
@@ -9294,13 +9294,13 @@ Do you want to disable them?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="286"/>
         <source>Warnings</source>
-        <translation type="unfinished">คำเตือน</translation>
+        <translation>คำเตือน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="210"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="296"/>
         <source>Abort</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="231"/>
@@ -9311,7 +9311,7 @@ Do you want to disable them?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">ยืนยันการอัพเดท</translation>
+        <translation>ยืนยันการอัพเดท</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="237"/>
@@ -9341,7 +9341,7 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="310"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">ยืนยันการนำออก</translation>
+        <translation>ยืนยันการนำออก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="311"/>
@@ -9389,7 +9389,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="56"/>
         <source>Mods</source>
-        <translation type="unfinished">ม็อด</translation>
+        <translation>ม็อด</translation>
     </message>
 </context>
 <context>
@@ -9488,7 +9488,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="327"/>
         <source>Error</source>
-        <translation type="unfinished">ข้อผิดพลาด</translation>
+        <translation>ข้อผิดพลาด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
@@ -9518,7 +9518,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>Not installed</source>
-        <translation type="unfinished">ยังไม่ได้ติดตั้ง</translation>
+        <translation>ยังไม่ได้ติดตั้ง</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
@@ -9528,12 +9528,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">ไม่พบเวอร์ชันที่ถูกต้องสำหรับทรัพยากรนี้ อาจไม่พร้อมใช้งานสำหรับเวอร์ชันเกม / ตัวโหลด mod ปัจจุบัน</translation>
+        <translation>ไม่พบเวอร์ชันที่ถูกต้องสำหรับทรัพยากรนี้ อาจไม่พร้อมใช้งานสำหรับเวอร์ชันเกม / ตัวโหลด mod ปัจจุบัน</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">ไม่พบเวอร์ชันที่ถูกต้องสำหรับทรัพยากรนี้ อาจไม่พร้อมใช้งานสำหรับเวอร์ชันเกมปัจจุบัน</translation>
+        <translation>ไม่พบเวอร์ชันที่ถูกต้องสำหรับทรัพยากรนี้ อาจไม่พร้อมใช้งานสำหรับเวอร์ชันเกมปัจจุบัน</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -9550,7 +9550,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="66"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (เวอร์ชัน%1)</translation>
+        <translation> (เวอร์ชัน%1)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9559,18 +9559,18 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="136"/>
         <source>No index file.</source>
-        <translation type="unfinished">ไม่มีไฟล์ดัชนี</translation>
+        <translation>ไม่มีไฟล์ดัชนี</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">เราไม่พบไฟล์ดัชนีที่เหมาะสมสำหรับเวอร์ชันเก่า นี่อาจทำให้ไฟล์บางไฟล์ซ้ำกันได้ คุณต้องการดำเนินการต่อหรือไม่?</translation>
+        <translation>เราไม่พบไฟล์ดัชนีที่เหมาะสมสำหรับเวอร์ชันเก่า นี่อาจทำให้ไฟล์บางไฟล์ซ้ำกันได้ คุณต้องการดำเนินการต่อหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="181"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">ไม่สามารถเปลี่ยนชื่อโฟลเดอร์แทนที่:
+        <translation>ไม่สามารถเปลี่ยนชื่อโฟลเดอร์แทนที่:
 </translation>
     </message>
     <message>
@@ -9598,12 +9598,12 @@ Please update %1!</source>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="285"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="309"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">ติดตั้งเสร็จสิ้น %1 ไฟล์จาก %2 ไฟล์</translation>
+        <translation>ติดตั้งเสร็จสิ้น %1 ไฟล์จาก %2 ไฟล์</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="290"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">กำลังดาวน์โหลดม็อด...</translation>
+        <translation>กำลังดาวน์โหลดม็อด...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="401"/>
@@ -9622,7 +9622,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="288"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (ปัจจุบัน)</translation>
+        <translation>%1 (ปัจจุบัน)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="302"/>
@@ -9632,12 +9632,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="369"/>
         <source>Choose update file</source>
-        <translation type="unfinished">เลือกไฟล์อัปเดต</translation>
+        <translation>เลือกไฟล์อัปเดต</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="369"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">แพ็กModrinth</translation>
+        <translation>แพ็กModrinth</translation>
     </message>
 </context>
 <context>
@@ -9652,22 +9652,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="59"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">กำลังค้นหาไฟล์...</translation>
+        <translation>กำลังค้นหาไฟล์...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="80"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">ไม่สามารถค้นหาไฟล์ได้</translation>
+        <translation>ไม่สามารถค้นหาไฟล์ได้</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="96"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">กำลังค้นหาแฮชไฟล์...</translation>
+        <translation>กำลังค้นหาแฮชไฟล์...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">กำลังค้นหาเวอร์ชันสำหรับแฮช...</translation>
+        <translation>กำลังค้นหาเวอร์ชันสำหรับแฮช...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="193"/>
@@ -9677,7 +9677,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="202"/>
         <source>Adding files...</source>
-        <translation type="unfinished">กำลังเพิ่มแฟ้ม...</translation>
+        <translation>กำลังเพิ่มไฟล์...</translation>
     </message>
 </context>
 <context>
@@ -9693,7 +9693,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">ตัวเลือกตัวกรอง</translation>
+        <translation>ตัวเลือกตัวกรอง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="79"/>
@@ -9704,18 +9704,18 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">ค้นหาและตัวกรอง...</translation>
+        <translation>ค้นหาและตัวกรอง...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished">เรียงตามความเกี่ยวข้อง</translation>
+        <translation>เรียงตามความเกี่ยวข้อง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">เรียงตามจำนวนผู้ติดตาม</translation>
+        <translation>เรียงตามจำนวนผู้ติดตาม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="89"/>
