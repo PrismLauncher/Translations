@@ -85,7 +85,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable fallback to Modrinth for blocked mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -1627,7 +1627,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="249"/>
         <source>Downloading metadata for %1 components</source>
-        <translation>Downloading metadata for &apos;1%&apos; components</translation>
+        <translation>Downloading metadata for %1 components</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="485"/>
@@ -2230,7 +2230,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Unrecognized</translation>
+        <translation>Unrecognized</translation>
     </message>
 </context>
 <context>
@@ -2469,7 +2469,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="35"/>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>Not enough RAM</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2479,12 +2479,17 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>There is not enough RAM available to launch this instance with the current memory settings
+
+Required: %1 MiB
+Available: %2 MiB
+
+Continue anyway? This may cause slowdowns in the game and your system.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Not enough RAM available to launch this instance</translation>
     </message>
 </context>
 <context>
@@ -4210,7 +4215,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not open file %1 for reading: %2</translation>
     </message>
 </context>
 <context>
@@ -5064,7 +5069,7 @@ Please make sure that the maximum memory value is lower.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -5982,7 +5987,7 @@ Do you want to play the demo?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation>This account does not own Minecraft
+        <translation>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</translation>
     </message>
     <message>
@@ -6253,12 +6258,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Auto Java Download:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
@@ -10772,47 +10777,47 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="14"/>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>Network error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="29"/>
         <source>A network operation has failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A network operation has failed: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="65"/>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
         <source>What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation>What would you like to do?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="34"/>
         <source>All %1 requests have failed after %2 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>All %1 requests have failed after %2 attempts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="37"/>
         <source>Out of %1 requests, %2 have failed after %3 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>Out of %1 requests, %2 have failed after %3 attempts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="40"/>
         <source>Out of %1 requests, only %2 succeeded after %3 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>Out of %1 requests, only %2 succeeded after %3 attempts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy URL</translation>
     </message>
 </context>
 <context>
@@ -11555,7 +11560,12 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>The updater couldn&apos;t create a log file - %1.
+
+Make sure you have write permissions to the data folder
+(%2)
+
+The updater cannot continue until you fix this problem.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -12250,7 +12260,7 @@ HTTP Status: %2</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation>Couldn&apos;t parse %1 as JSON: %2</translation>
+        <translation>Couldn&apos;t parse %1 as json: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -13009,7 +13019,7 @@ Do you wish to proceed?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to create icon for application: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
@@ -13025,7 +13035,7 @@ Do you wish to proceed?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to create icon for shortcut: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
@@ -14898,7 +14908,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="411"/>
         <source>Invalid url</source>
-        <translation>Invalid URL</translation>
+        <translation>Invalid url</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="415"/>
@@ -15229,7 +15239,7 @@ because: %2.</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open &quot;version.json&quot;: %1</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
@@ -15771,7 +15781,8 @@ The instance may not start due to this.</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Java major version is incompatible. Things might break.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
