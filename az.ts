@@ -6034,52 +6034,52 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Pəncərəni bağla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="520"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Mövcud pəncərəni bağla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Başladıcının əsas qovluğunu fayl menecerində aç.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Xəta bildir və ya Funksiya təklif et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Matrix məkanını aç.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="686"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>/usr/local/bin qovluğuna %1 simvolik keçidi qur</translation>
     </message>
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Yardım</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 wikisini aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş nümunənin nişanını dəyiş.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
@@ -6089,148 +6089,148 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="366"/>
         <source>Rename the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş nümunənin adını dəyiş.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="402"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qrupu dəyiş...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="262"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Backspace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="441"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="768"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesablar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Silinmiş son nümunəni bərpa et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Redaktə et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="399"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nümunə ayarlarını, modlarını və versiyalarını redaktə et.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Seçiləni sil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçiləni sil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PATH-ə quraşdır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Panelləri sabitlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Temalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="413"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş nümunənin yerləşdiyi qovluğu aç.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopyala...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
         <source>Copy the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş nümunəni kopyala.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Qısayol yarat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
         <source>No instance selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Heç bir nümunə seçilməyib</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>Ümumi oyun müddəti: 0 s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="559"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nümunə yarat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qrupu sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>No accounts added!</source>
-        <translation type="unfinished"></translation>
+        <translation>Heç bir hesab əlavə edilməyib!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="506"/>
         <source>No Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Standart hesab təyin edilməyib</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="854"/>
@@ -6241,49 +6241,49 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1107"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1413"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="858"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Əməliyyat yarımçıq qaldı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapşırıq istifadəçi tərəfindən yarımçıq kəsildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1006"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1112"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Yarımçıq kəs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="995"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 modpaketi, mod və ya resursu üçüncü tərəflər üçün bloklanıb! Zəhmət olmasa, onu əllə yükləyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Daxil etmə linki səhvdir: &apos;url&apos; parametri qeyd olunmayıb.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Daxil etmə linki səhvdir: URL-in əvvəli http(s) olmalıdır.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1079"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpaketini quraşdırın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1080"/>
@@ -6292,67 +6292,75 @@ Reason:
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpaketi aşağıdakı ünvandan yükləyib daxil etmək istəyirsinizmi?
+%1
+
+URL:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpaketi endir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
         <source>No instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Heç bir nümunə yoxdur!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1137"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursu əlavə etmək üçün heç bir nümunə yoxdur.
+Zəhmət olmasa, bu resursu yenidən quraşdırmazdan əvvəl yeni bir nümunə yaradın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1251"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Qrup adı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1251"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni qrup adı daxil edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Qrupu sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
         <source>Failed to undo trashing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nümunəni zibil qutusundan bərpa etmək uğursuz oldu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1294"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bəzi nümunələr və qısayollar bərpa oluna bilmədi.
+Zəhmət olmasa, onları əllə bərpa etmək üçün zibil qutunuzu yoxlayın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Nümunə redaktə edilə bilməz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1393"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nümunə düzəliş edilə bilməz. Ola bilsin ki, o zədələnib, etibarsızdır və ya versiyası çox köhnədir. Ətraflı məlumat üçün qeydlərə (logs) baxın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Meta-məlumat keşinin təmizlənməsi alınmadı!
+Meta-məlumat keşini əllə təmizləmək üçün Qovluqlar -&gt; Başlatıcının Kök Qovluğunu(root) Göstər düyməsinə basın və başlatıcını bağladıqdan sonra &quot;meta&quot; adlı qovluğu silin.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1436"/>
@@ -6567,38 +6575,38 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="206"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="210"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="213"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Əməliyyat ləğv edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Əməliyyat istifadəçi tərəfindən ləğv edildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="218"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Dayandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="226"/>
         <source>Update Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketi yeniləyin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="147"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
@@ -6607,42 +6615,46 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Bu, yerli(local) bir modpaketidir.
+Bu paket %1 formatında bir fayl və ya URL vasitəsilə yenilənə bilər.
+Qeyd olunan formatdan fərqli bir format istifadə etməyin, çünki bu, nümunəni xarab edə bilər.
+Həmçinin URL-in etibarlı olduğundan əmin olun.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="237"/>
         <source>Failed to search for available versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mövcud versiyaların axtarışı alınmadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="240"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpaketinin yeniliklər siyahısını sorğulamaq mümkün olmadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="242"/>
         <source>Cannot update!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeniləmək mümkün deyil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="336"/>
         <source>Update Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Uğurla yeniləndi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="337"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nümunə uğurla %1 paket versiyasına yeniləndi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="342"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeniləmə uğursuz oldu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="343"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nümunə %1 paket versiyasına yenilənə bilmədi. Ətraflı məlumat üçün başlatıcının qeydlərinə (logs) baxmağınız xahiş olunur.</translation>
     </message>
 </context>
 <context>
@@ -6650,7 +6662,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="122"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Yerli fayl yüklənir</translation>
     </message>
 </context>
 <context>
@@ -6658,7 +6670,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ad</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
