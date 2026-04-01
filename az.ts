@@ -3919,12 +3919,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Öldür</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -3934,12 +3934,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>Kill the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>İşləyən instansı öldür</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>Launch the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nümunəni başlat</translation>
     </message>
 </context>
 <context>
@@ -3947,12 +3947,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
         <source>Listening on port: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 portu dinlənilir</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler ləğv edildi</translation>
     </message>
 </context>
 <context>
@@ -3960,12 +3960,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM başladıldı</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler ləğv edildi</translation>
     </message>
 </context>
 <context>
@@ -3973,22 +3973,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="36"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java endirilir</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java çıxarılır</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Təqdim olunan zip faylı açıla bilmədi.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Təqdim olunan zip faylında heç bir fayl tapılmadı.</translation>
     </message>
 </context>
 <context>
@@ -3996,59 +3996,59 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="204"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yenilə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="221"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="290"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="333"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-nı quraşdır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Java yükləmə növü müəyyən edilə bilmədi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Dayandır</translation>
     </message>
 </context>
 <context>
@@ -4056,7 +4056,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java yüklənir</translation>
     </message>
 </context>
 <context>
@@ -4064,27 +4064,27 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Java icra yolu yoxlanılır</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Java icra yolu axtarılır</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Java icra yolu tapılmadı</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Simvolik keçid üçün qovluqlar toplanır</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Java icra yolu üçün simvolik keçid yaradılır</translation>
     </message>
 </context>
 <context>
@@ -4092,7 +4092,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="158"/>
         <source>Detecting Java installations...</source>
-        <translation type="unfinished"></translation>
+        <translation>Java quraşdırmaları aşkar edilir...</translation>
     </message>
 </context>
 <context>
@@ -4100,17 +4100,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Quraşdırmalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüklə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
@@ -4121,13 +4121,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="69"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Heç bir idarə olunan Java versiyası quraşdırılmayıb</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>İdarə olunan Java siyahısı yüklənə bilmədi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="111"/>
@@ -4138,12 +4138,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; adlı Java quraşdırmasını silmək üzrəsiniz. 
+Əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java</translation>
     </message>
 </context>
 <context>
@@ -4151,169 +4152,169 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="229"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Java icra faylını tap</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-ın istifadə edə biləcəyi maksimum yaddaş miqdarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Java Quraşdırılmas&amp;ı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Java versiyasını avto-aşkar e&amp;t</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang tərəfindən tövsiyə olunan Java versiyasını avtomatik yükləyir və seçir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mojang Java-nı avto-yüklə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv edilərsə, proqram açılışda Java tapılmadıqda sizdən versiya seçməyi tələb etməyəcək.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlanğıcda Java quraşdırma sorğusunu keç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv edilərsə, başladıcı nüsxənin seçilmiş Java versiyası ilə uyğun olub-olmadığını yoxlamayacaq.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşkar e&amp;t</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Göz a&amp;t</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation type="unfinished"></translation>
+        <translation>Tənzimləmələri sınaqdan k&amp;eçir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Java Endiricisini A&amp;ç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Java uyğunluq yoxlamalarını keç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Java &amp;Executable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaddaş&amp;ı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="345"/>
         <source>Memory Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaddaş Bildirişi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>(-XX:PermSize)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-XX:PermSize)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="260"/>
         <source>(-Xmx)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xmx)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-ın başladıldığı yaddaş miqdarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="295"/>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermGen Ölçüsü:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="305"/>
         <source>(-Xms)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&amp;ksimum Yaddaş İstifadəsi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="322"/>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>M&amp;inimum Yaddaş İstifadəsi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
         <source>Java Argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Java Arqumen&amp;tləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüklənmiş Java siniflərini saxlamaq üçün mövcud olan yaddaş miqdarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="269"/>
         <source>Select a Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Java versiyasını seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçimi Təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="279"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz Java-nın 32-bitlik versiyasını seçdiniz. Bu quraşdırma 2048 MiB-dan çox RAM-ı dəstəkləmir. Zəhmət olmasa, maksimum yaddaş dəyərinin daha aşağı olduğundan əmin olun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="297"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimum yaddaş ayrılması sisteminizin yaddaş tutumunu aşır.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="300"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimum yaddaş ayrılması sisteminizin yaddaş tutumuna yaxındır.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="303"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimum yaddaş ayrılması minimum yaddaş ayrılmasından aşağıdır.</translation>
     </message>
 </context>
 <context>
@@ -4321,13 +4322,13 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="83"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Zəhmət olmasa, nüsxələrə nə qədər yaddaş ayrılacağını və Prism Launcher-in Java-nı avtomatik, yoxsa əllə idarə edəcəyini seçin.</translation>
     </message>
 </context>
 <context>
@@ -4335,12 +4336,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-nı yüklə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>32-bit Java aşkar edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -4350,12 +4351,18 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Siz Java-nın 32-bitlik versiyasını seçmisiniz, lakin maksimum yaddaş olaraq 2048 MiB-dan çox həcm ayırmısınız.
+
+%1 Minecraft-ı başlada bilməyəcək.
+Davam etmək istəyirsiniz?
+
+Java versiyasını daha sonra tənzimləmələrdən dəyişə bilərsiniz.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Heç bir Java versiyası seçilməyib</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -4365,82 +4372,88 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Siz ya Java versiyasını seçməmisiniz, ya da işləməyən bir versiya seçmisiniz.
+
+%1 Minecraft-ı başlada bilməyəcək.
+Funksional Java versiyası olmadan davam etmək istəyirsiniz?
+
+Java versiyasını daha sonra tənzimləmələrdən dəyişə bilərsiniz.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="350"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Java icra faylını tap</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaddaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="493"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-ın istifadə edə biləcəyi maksimum yaddaş miqdarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum yaddaş ayrılması:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimum yaddaş ayrılması:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-ın başladıldığı yaddaş miqdarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüklənmiş Java siniflərini saxlamaq üçün mövcud olan yaddaş miqdarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Gözdən keçir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang Java-nı avtomatik yüklə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Java versiyasını avtomatik aşkar et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-nı avtomatik aşkar et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimum yaddaş ayrılması sistem yaddaşının tutumunu aşır.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimum yaddaş ayrılması sistem yaddaşının tutumuna yaxınlaşır.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimum yaddaş ayrılması minimum dəyərdən kiçikdir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="524"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilən yaddaş miqdarı 32-bitlik Java-nın dəstəklədiyi maksimum tutumdan çoxdur.</translation>
     </message>
 </context>
 <context>
@@ -4448,7 +4461,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="52"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Dil</translation>
     </message>
 </context>
 <context>
@@ -4456,12 +4469,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="63"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Öz dilinizi görmürsünüz və ya tərcümə keyfiyyəti zəifdir? &lt;a href=&quot;%1&quot;&gt;Tərcümədə bizə kömək edin!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem bölgə ayarlarından istifadə et</translation>
     </message>
 </context>
 <context>
@@ -4469,12 +4482,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Dil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 tətbiqində istifadə ediləcək dili seçin</translation>
     </message>
 </context>
 <context>
@@ -4482,246 +4495,255 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="66"/>
         <source>No instance specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Heç bir nüsxə seçilməyib!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="71"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java arqumentləri xətalıdır. Davam etmək üçün lütfən bunları düzəldin.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>No Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesab tapılmadı</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="114"/>
         <source>Which account would you like to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hansı hesabdan istifadə olunsun?</translation>
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatma üçün hesab təyin edilməyib.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
         <source>Player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyunçu adı</translation>
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oflayn rejim oyunçu adını təyin edin.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Demo rejimi oyunçu adını təyin edin.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş zamanı naməlum sessiya vəziyyəti aşkarlandı.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Demo oynanılsin?</translation>
     </message>
     <message>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu hesab Minecraft-a sahib deyil.
+Oynamaq üçün əvvəlcə oyunu satın almalısınız.
+
+Demo oynamaq istəyirsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="226"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Demo oyna</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="227"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünür, %1 cəhddən sonra oyunu başlatmaq mümkün olmadı. Adətən bu problemi Microsoft hesabınızdan çıxış edib yenidən daxil olmaqla həll etmək olar. Əgər bu işə yaramasa, Minecraft autentifikasiya serverlərində fasilə ola bilər və ya regionunuzda VPN istifadə etməyiniz tələb oluna bilər. Yenidən cəhd etmək istəyirsiniz?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatma ləğv edildi - hesab Minecraft-a sahib deyil.</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Başladıcının (launcher) müştəri identifikasiyası dəyişib. Lütfən, &apos;%1&apos; hesabını silin və yenidən cəhd edin.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; artıq serverlərdə mövcud deyil. Ola bilsin ki, hesab köçürülüb (migrate edilib); bu halda, zəhmət olmasa, köçürdüyünüz yeni hesabı əlavə edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesab yenilənməsi uğursuz oldu</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesab tapılmadı</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatma uğursuz oldu.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesabın vaxtı bitib və yenidən autentifikasiya edilməlidir</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
         <location filename="src/launcher/LaunchController.cpp" line="427"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Xəta!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
         <location filename="src/launcher/LaunchController.cpp" line="372"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstansiya profili yüklənə bilmədi.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="378"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Başladıcını işə salmaq mümkün olmadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="427"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 üçün profayler yoxlanışı uğursuz oldu: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Başlat</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="434"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyunun başladılması siz düyməni sıxana qədər təxirə salındı. Profayler serveri artıq işlədiyi üçün, bu, profayleri quraşdırmaq üçün doğru zamandır.
+%1</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; hesabının vaxtı bitib və yenidən autentifikasiya edilməlidir. Bu hesabı yenidən autentifikasiya etmək istəyirsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="438"/>
         <source>Waiting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gözlənilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="446"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Profayler başladılmadı: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="174"/>
         <location filename="src/launcher/LaunchController.cpp" line="474"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; yenilənərkən xəta baş verdi</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; hesabının vaxtı bitib və yenidən autentifikasiya edilməlidir</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Başladıcının müştəri identifikasiyası dəyişib</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="201"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; artıq serverlərdə mövcud deyil</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu hesab Minecraft-a sahib deyil.
+Tam versiyanı oynamaq üçün əvvəlcə oyunu satın almalısınız.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatmaq üçün heç bir hesab seçilməyib.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Demo versiyanı oynamaq istəyirsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Demo rejimi üçün oyunçu adınızı seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>İnternetə bağlı deyilsiniz, oflayn rejimdə başladılır
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Oflayn rejim üçün oyunçu adınızı seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="300"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatmaq üçün hesab seçilməyib</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. Bu hesabı yenidən autentifikasiya etmək istəyirsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="487"/>
         <source>Kill Minecraft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-ı məcburi dayandırılsın?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="488"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu, nüsxənin zədələnməsinə səbəb ola bilər və yalnız Minecraft hər hansı bir səbəbdən donduqda istifadə edilməlidir</translation>
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatmağa davam edilsin?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Müştəri identifikasiyası dəyişdi</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="97"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft oynamaq üçün daxil olmuş ən azı bir Minecraft-a sahib Microsoft hesabınız olmalıdır. İndi hesab əlavə etmək üçün hesab menecerini açmaq istəyirsiniz?</translation>
     </message>
 </context>
 <context>
@@ -4730,12 +4752,13 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Jurnalın uzunluğu %1 sətri keçdiyi üçün oyun jurnalını izləmək dayandırıldı.
+Modlarınızı düzəltməli ola bilərsiniz, çünki oyun hələ də fayllara yazmağa davam edir və çox güman ki, disk sahəsini həyəcanverici sürətlə doldurur!</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="236"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Log4j Təhlil Xətası] Log4j jurnal hadisəsini təhlil etmək mümkün olmadı: %1</translation>
     </message>
 </context>
 <context>
@@ -4743,23 +4766,23 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft giriş tokeni alınır</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft giriş tokenini almaq mümkün olmadı: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft giriş tokeni cavabını təhlil etmək mümkün olmadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft giriş tokeni alındı</translation>
     </message>
 </context>
 <context>
@@ -4768,63 +4791,63 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Yeniləmələri avtomatik yoxlayın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Qovluqlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nüsxələr:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
         <source>&amp;Mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modlar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Ask what to do</source>
-        <translation type="unfinished"></translation>
+        <translation>Nə ediləcəyini soruşun</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Never rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Qovluğun adını heç vaxt dəyişməyin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="358"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;İkonlar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv edildikdə, resurslar axtarılarkən (məsələn, CurseForge-da bloklanmış modlar axtarılarkən) yükləmələr qovluğu ilə yanaşı, onun alt qovluqları da yoxlanılacaq.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>İstifadəçi İnterfeysi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sonuncu açılışa görə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ada görə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yükləmələr:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"/>
@@ -4834,102 +4857,102 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="335"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="345"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Gözdən keçir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Nüsxələrin sıralanması</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
         <source>Instance Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Nüsxələrin adlandırılması</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Always rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Qovluğun adını həmişə dəyişin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>Updater</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeniləyici</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>How Often?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hansı tezliklə?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Set to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Yalnız açılışda yoxlamaq üçün 0 təyin edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>On Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Açılışda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation> saat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>Hər </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Avtomatik Java yükləməsi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher-in avtomatik yüklənmiş Java versiyalarını saxladığı qovluq. Bunu sisteminizdəki Java qovluğu ilə eyni **təyin etməyin**.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Görünüş:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar və Mod paketləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklanmış modlar üçün &amp;alt qovluqları yoxlayın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv edildikdə, bloklanmış resursları kopyalamaq əvəzinə onları köçürəcək.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hal-hazırda burada yalnız Minecraft-ın cari versiyası ilə uyğun olaraq qeyd edilməmiş modlar göstərilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="430"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod uyğunsuzluqlarını aşkar et və göstər (eksperimental)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="465"/>
         <source>Log History &amp;Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş tarixçəsinin &amp;limiti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="510"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapşırıqlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="573"/>
