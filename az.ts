@@ -2362,7 +2362,7 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="165"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="172"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 ixrac et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="166"/>
@@ -2514,7 +2514,7 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 ixrac et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"/>
@@ -2553,7 +2553,7 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Axtar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
@@ -2633,7 +2633,7 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versiyanı dəyiş daxil et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="204"/>
@@ -3703,7 +3703,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yaxşı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
@@ -3738,7 +3738,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Loader-i quraşdırın</translation>
     </message>
 </context>
 <context>
@@ -5184,12 +5184,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">FML kitabxanaları instansa(instance) kopyalanır...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">İnstans(instance) daxilində FML kitabxana qovluğu yaradıla bilmədi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
@@ -5473,7 +5473,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Axtar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -5687,7 +5687,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Məlumat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="77"/>
@@ -6825,7 +6825,7 @@ Həmçinin URL-in etibarlı olduğundan əmin olun.
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
         <source>Minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minecraft</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -8494,7 +8494,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Axtar</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10383,7 +10383,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="395"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 versiyasını dəyişin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
@@ -11473,12 +11473,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yuxarı daşı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aşağı daşıyın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="180"/>
