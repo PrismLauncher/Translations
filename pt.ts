@@ -11990,7 +11990,7 @@ Código de fechamento: %1</translation>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>StdOut: %1
-StdErr: %2 .</translation>
+StdErr: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
@@ -12872,7 +12872,7 @@ Prosseguir com o truncamento?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation>Não foi possível analisar %1: formato de arquivo inválido.</translation>
+        <translation>Não foi possível analisar %1 : formato de ficheiro inválido</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
@@ -14146,7 +14146,7 @@ Provavelmente o autor bloqueou launchers de terceiros.</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao renomear configuração de shader de &apos;%1&apos; para &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -14472,7 +14472,7 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacotes de Recursos</translation>
     </message>
 </context>
 <context>
@@ -15137,12 +15137,12 @@ Tens a certeza que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao migrar metadados do pacote de shaders do .index</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao remover pasta .index antiga</translation>
     </message>
 </context>
 <context>
@@ -15272,7 +15272,7 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacotes de Shaders</translation>
     </message>
 </context>
 <context>
@@ -15689,7 +15689,7 @@ porque: %2.</translation>
     <message>
         <location filename="src/launcher/tasks/Task.cpp" line="134"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abortado</translation>
     </message>
 </context>
 <context>
@@ -15846,7 +15846,7 @@ porque: %2.</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossível abrir &quot;version.json&quot;: %1</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
@@ -16437,7 +16437,8 @@ A instância pode não iniciar devido a isso.</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Versão principal java é incompatível. Algo pode quebrar.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
@@ -16626,7 +16627,7 @@ Por favor muda para uma das seguintes versões do Java para esta instância:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Procura</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
@@ -17487,12 +17488,12 @@ Tens a certeza de que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="120"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta conta Microsoft não tem perfil Xbox Live. Compre o jogo em %1 primeiro.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="126"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live não está disponível no seu país. Você foi bloqueado.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -17576,12 +17577,12 @@ Por favor, configura a tua conta de acordo com %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticação do usuário Xbox falhou: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resposta à autenticação do usuário Xbox não pôde ser entendida.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
