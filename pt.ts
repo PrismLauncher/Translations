@@ -2521,7 +2521,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
 Necessário: %1 MiB
 Disponível: %2 MiB
 
-Contiuar mesmo assim? Isso pode causar abrandamentos no jogo ou no seu sistema.</translation>
+Continuar mesmo assim? Isso pode causar abrandamentos no jogo ou no seu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
@@ -2934,16 +2934,11 @@ Contiuar mesmo assim? Isso pode causar abrandamentos no jogo ou no seu sistema.<
 {version}  - Mod version
 {authors}  - Mod authors</source>
         <translation>Este texto suporta os seguintes marcadores de posição:
-
-{name} - Nome do Mod
-
+{nome} - Nome do Mod
 {mod_id} - ID do Mod
-
-{url} - URL do Mod
-
-{version} - Versão do Mod
-
-{authors} - Autores do Mod</translation>
+{url} - URL do mod
+{versão} - Versão do Mod
+{autores} - Autores do Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -3794,7 +3789,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>A memória recomendada para o modpack excede 90% da sua RAM - reduzindo de  %1 MiB para %2 MiB!</translation>
+        <translation>A memória recomendada para o modpack excede 90% da sua RAM - reduzindo de %1 MiB para %2 MiB!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4375,7 +4370,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>Este URL não é um modpack válido!</translation>
+        <translation>Este url não é um modpack válido!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
@@ -4391,7 +4386,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="212"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation>Modrinth pack</translation>
+        <translation>Pack Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
@@ -7954,7 +7949,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>&amp;Meow</source>
-        <translation>&amp;Meow</translation>
+        <translation>&amp;Miau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
@@ -8229,7 +8224,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Logs</source>
-        <translation>Logs</translation>
+        <translation>Registos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
@@ -8786,7 +8781,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>Agora tens duas opções&lt;br/&gt; - mudar a pasta da instância nas configurações &lt;br/&gt; - mover esta instalação de %1 para uma pasta diferente</translation>
+        <translation>Agora tens duas opções: &lt;br/&gt; - mudar a pasta da instância nas configurações &lt;br/&gt; - mover esta instalação de %1 para uma pasta diferente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
@@ -12862,7 +12857,7 @@ Prosseguir com o truncamento?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation>Não foi possível analisar %1 como JSON: %2</translation>
+        <translation>Não foi possível analisar %1 como json: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -14865,7 +14860,7 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="463"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>O &lt;a href=&quot;%1&quot;&gt;link  do álbum enviado &lt;/a&gt; foi copiado.</translation>
+        <translation>O &lt;a href=&quot;%1&quot;&gt;link do álbum enviado &lt;/a&gt; foi copiado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="511"/>
@@ -15495,7 +15490,7 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="411"/>
         <source>Invalid url</source>
-        <translation>URL inválido</translation>
+        <translation>url inválido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="415"/>
