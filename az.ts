@@ -491,7 +491,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="107"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>&amp;Sil</translation>
+        <translation>Si&amp;l</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
@@ -2068,7 +2068,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="186"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="259"/>
         <source>Abort</source>
-        <translation>Ləğv et</translation>
+        <translation>Dayandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="121"/>
@@ -2183,7 +2183,7 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="390"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="458"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>&apos;%1&apos; üçün CurseForge-dan gələn API cavabı təhlil edilir...</translation>
+        <translation>&apos;%1&apos; üçün CurseForge-dan gələn API cavabı təhlil edilir..</translation>
     </message>
 </context>
 <context>
@@ -2354,7 +2354,7 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
         <source>Cancel</source>
-        <translation type="unfinished">Ləğv et</translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
@@ -2751,44 +2751,44 @@ Bunu etmək istədiyinizə əminsiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponent JSON fayllarını redaktə etmək üçün istifadə olunur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="206"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="266"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoxla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profilçilər</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilçilərə &quot;Başlat&quot; (Launch) açılan menyusu vasitəsilə daxil olmaq mümkündür.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>J&amp;Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
         <source>&amp;VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;VisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
         <source>JProfiler Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler Qovluğu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
@@ -2798,85 +2798,88 @@ Bunu etmək istədiyinizə əminsiniz?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error</source>
-        <translation type="unfinished">Xəta</translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler quraşdırmasını yoxlayarkən xəta baş verdi:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>OK</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler quraşdırması qaydasında görünür</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
         <source>VisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM İcra Oluna Bilən Faylı (Executable)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM quraşdırmasını yoxlayarkən xəta baş verdi:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM quraşdırması qaydasında görünür</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Mətn Redaktoru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit Tətbiqi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"/>
         <source>MCEdit Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit Qovluğu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit quraşdırmasını yoxlayarkən xəta baş verdi:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit quraşdırması qaydasında görünür</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Keçərsiz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş fayl icra oluna bilən (executable) fayl kimi görünmür</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Alətlər</translation>
     </message>
 </context>
 <context>
@@ -2884,22 +2887,22 @@ Bunu etmək istədiyinizə əminsiniz?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="75"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Yerli(native) &apos;%1&apos; jar faylı &apos;%2&apos; ünvanına çıxarıla bilmədi</translation>
     </message>
 </context>
 <context>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>FML kitabxanaları yoxlanılır...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>FML kitabxanaları yüklənir...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Ləğv edildi</translation>
+        <translation>Ləğv edildi</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
@@ -2911,7 +2914,7 @@ Bunu etmək istədiyinizə əminsiniz?</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge/FML kitabxanasının kopyalanması uğursuz oldu: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -2919,7 +2922,11 @@ Bunu etmək istədiyinizə əminsiniz?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağıdakı faylların yüklənməsi uğursuz oldu:
+%1
+
+Səbəb:%2
+Zəhmət olmasa, yenidən cəhd edin.</translation>
     </message>
 </context>
 <context>
@@ -2927,34 +2934,34 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest əldə edilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketin %1 versiyası tapılmadı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Paket manifesti anlamaq mümkün olmadı:
+        <translation>Paket manifesti anlamaq mümkün olmadı:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar həll edilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yanlış manifest: &apos;%1&apos; faylını yükləmək üçün heç bir məlumat yoxdur!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklanmış fayllar tapıldı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
@@ -2969,22 +2976,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Modlar endirilir...</translation>
+        <translation>Modlar endirilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod endirmə</translation>
+        <translation>Mod endirmə</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklanmış modlar kopyalanır...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="375"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklanmış modlar kopyalanır (%2 moddan %1-i tamamlandı)</translation>
     </message>
 </context>
 <context>
@@ -2992,12 +2999,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="140"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ada görə sırala</translation>
+        <translation>Ada görə sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="141"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Oyun versiyasına görə sırala</translation>
+        <translation>Oyun versiyasına görə sırala</translation>
     </message>
 </context>
 <context>
@@ -3005,7 +3012,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="43"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation>FTB Tətbiqi İdxalı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
@@ -3015,7 +3022,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Axtar və filtrlə...</translation>
+        <translation>Axtar və filtrlə...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
@@ -3030,7 +3037,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="111"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="127"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3038,12 +3045,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayllar kopyalanır...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="50"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayarlar kopyalanır...</translation>
     </message>
 </context>
 <context>
@@ -3051,18 +3058,18 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <source>Resolving mod IDs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod ID-ləri həll edilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="127"/>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="149"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>API-dən yanlış məlumat daxil oldu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="254"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; üçün CurseForge-dan gələn API cavabı təhlil edilir.</translation>
     </message>
 </context>
 <context>
@@ -3071,12 +3078,12 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge üçün resurslar(resources) hazırlanır...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="93"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; üçün CurseForge-dan gələn API cavabı təhlil edilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="99"/>
@@ -3728,27 +3735,27 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="146"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
@@ -3804,22 +3811,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="78"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Köhnə ziddiyyətli faylların silinməsi uğursuz oldu.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="85"/>
         <source>Skip</source>
-        <translation type="unfinished">Keç</translation>
+        <translation>Keç</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="102"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun fayllarını yükləmək mümkün olmadı: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="106"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun faylları yüklənir</translation>
     </message>
 </context>
 <context>
@@ -3828,38 +3835,39 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="85"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod-paket yüklənir:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Modpaketi endir</translation>
+        <translation>Modpaketi endir</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans(instance) növü müəyyən edilməyə çalışılır</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod-paketi çıxarılır</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="167"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Təqdim olunan mod-paket zip faylını açmaq mümkün olmadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="171"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arxivdə tanınan mod-paketi növü yoxdur.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="228"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 üçün icazələri düzəltmək mümkün olmadı</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -3873,7 +3881,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 İnstans(instance)</translation>
     </message>
 </context>
 <context>
@@ -3882,12 +3890,12 @@ Please try again.</source>
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Digər loglar</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
         <source>Edit Instance (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstansı(instance) redaktə et (%1)</translation>
     </message>
 </context>
 <context>
@@ -3899,7 +3907,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="53"/>
         <source>Settings</source>
-        <translation type="unfinished">**Tənzimləmələr**</translation>
+        <translation>Tənzimləmələr</translation>
     </message>
 </context>
 <context>
@@ -3907,12 +3915,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hazırlıq qovluğu yaradıla bilmədi</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="968"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir neçə dəfə yenidən cəhd edilməsinə baxmayaraq instans (instance) təsdiqlənə bilmədi. Nəsə buna mane olur.</translation>
     </message>
 </context>
 <context>
@@ -3920,12 +3928,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Xoş gəlmisiniz!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlamaq üçün &quot;İnstans(instance) əlavə et&quot; düyməsinə klikləyin.</translation>
     </message>
 </context>
 <context>
@@ -3933,17 +3941,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="57"/>
         <source>Console window for </source>
-        <translation type="unfinished"></translation>
+        <translation>üçün konsol pəncərəsi </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="81"/>
         <source>Help</source>
-        <translation type="unfinished">Kömək edin</translation>
+        <translation>Kömək edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Başlat</translation>
+        <translation>&amp;Başlat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
@@ -3958,17 +3966,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
         <source>Close</source>
-        <translation type="unfinished">Bağlamaq</translation>
+        <translation>Bağlamaq</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>Kill the running instance</source>
-        <translation>İşləyən instansı öldür</translation>
+        <translation>İşləyən instansı(instance) öldür</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>Launch the instance</source>
-        <translation>Nümunəni başlat</translation>
+        <translation>İnstansı(instance) başlat</translation>
     </message>
 </context>
 <context>
@@ -4226,7 +4234,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Aktiv edilərsə, başladıcı nüsxənin seçilmiş Java versiyası ilə uyğun olub-olmadığını yoxlamayacaq.</translation>
+        <translation>Aktiv edilərsə, başladıcı (launcher) instansın(instance) seçilmiş Java versiyası ilə uyğun olub-olmadığını yoxlamayacaq.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
@@ -4256,7 +4264,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation>Java &amp;Executable</translation>
+        <translation>Java &amp;İcra faylı (Executable)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
@@ -4359,7 +4367,7 @@ Zəhmət olmasa, maksimum yaddaş dəyərinin daha aşağı olduğundan əmin ol
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Zəhmət olmasa, nüsxələrə nə qədər yaddaş ayrılacağını və Prism Launcher-in Java-nı avtomatik, yoxsa əllə idarə edəcəyini seçin.</translation>
+        <translation>Zəhmət olmasa, instanslara(instances) nə qədər yaddaş ayrılacağını və Prism Launcher-ın Java-nı avtomatik, yoxsa mexaniki idarə edəcəyini seçin.</translation>
     </message>
 </context>
 <context>
@@ -4524,7 +4532,7 @@ Java versiyasını daha sonra tənzimləmələrdən dəyişə bilərsiniz.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="66"/>
         <source>No instance specified!</source>
-        <translation>Heç bir nüsxə seçilməyib!</translation>
+        <translation>Heç bir instans(instance) seçilməyib!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="71"/>
@@ -4759,7 +4767,7 @@ Demo versiyanı oynamaq istəyirsiniz?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="488"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>Bu, nüsxənin zədələnməsinə səbəb ola bilər və yalnız Minecraft hər hansı bir səbəbdən donduqda istifadə edilməlidir</translation>
+        <translation>Bu, instansın(instance) zədələnməsinə səbəb ola bilər və yalnız Minecraft hər hansı bir səbəbdən donduqda istifadə edilməlidir</translation>
     </message>
     <message>
         <source>Continue launch?</source>
@@ -4892,12 +4900,12 @@ Modlarınızı düzəltməli ola bilərsiniz, çünki oyun hələ də fayllara y
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation>Nüsxələrin sıralanması</translation>
+        <translation>İnstansların(instance) sıralanması</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
         <source>Instance Renaming</source>
-        <translation>Nüsxələrin adlandırılması</translation>
+        <translation>İnstansların(instance) adlandırılması</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
@@ -5067,12 +5075,12 @@ Modlarınızı düzəltməli ola bilərsiniz, çünki oyun hələ də fayllara y
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni mod-paket instansı(instance) yaradılarkən, əvəzinə mövcud instansın yenilənməsini təklif et.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="440"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod-paket quraşdırılması zamanı mövcud instansın(instance) yenilənməsini təklif et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
@@ -5093,17 +5101,17 @@ Modlarınızı düzəltməli ola bilərsiniz, çünki oyun hələ də fayllara y
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
         <source>Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans qovluğu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz yolu ən azı bir &quot;!&quot; işarəsi olan instans qovluğunu təyin etməyə çalışırsınız. Belə olan halda Java-da problemlərin yarandığı məlumdur, instanslarınız (böyük ehtimalla) başlamayacaq!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu yolu həqiqətən istifadə etmək istəyirsiniz? &quot;Xeyr&quot; seçimini etmək bunu bağlayacaq və instans yolunuzu dəyişdirməyəcək.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
@@ -5115,7 +5123,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Siz Flatpak vasitəsilə müvəqqəti icazə verilmiş bir instans qovluğunu təyin etməyə çalışırsınız.
+Bu, problemlərə səbəb ola bilər. Yenidən başlatdıqdan sonra başladıcı (launcher) sıradan çıxa bilər, çünki artıq həmin qovluğa giriş icazəsi olmayacaq.
+
+Flatseal vasitəsilə %1-ə həmin qovluğa giriş icazəsi verməyiniz tövsiyə olunur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
@@ -5199,12 +5210,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">FML kitabxanaları instansa(instance) kopyalanır...</translation>
+        <translation>FML kitabxanaları instansa(instance) kopyalanır...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">İnstans(instance) daxilində FML kitabxana qovluğu yaradıla bilmədi.</translation>
+        <translation>İnstans(instance) daxilində FML kitabxana qovluğu yaradıla bilmədi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
@@ -5396,7 +5407,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 instansı üçün kitabxanalar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
@@ -5753,7 +5764,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="341"/>
         <source>Launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş instansı başlat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
@@ -5763,7 +5774,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
         <source>Add a new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni instans əlavə et.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
@@ -5803,7 +5814,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="697"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstanslar arasında paylaşılan qovluqlardan birini açın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="319"/>
@@ -5848,7 +5859,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
         <source>Instance Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans alətlər paneli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
@@ -5894,17 +5905,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş instansı başlatmaq üçün seçilmiş qovluqda qısayol yaradır.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;İnstanslar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="534"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans qovluğunu fayl bələdçisində açın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
@@ -5929,12 +5940,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans ikonları</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="578"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans nişanları qovluğunu fayl bələdçisində açın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
@@ -6067,12 +6078,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>İşləyən instansı məcburi dayandır (Kill).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş instansı dəstəklənən formatlara ixrac et.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
@@ -6132,7 +6143,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation>Seçilmiş nümunənin nişanını dəyiş.</translation>
+        <translation>Seçilmiş instansın ikonunu dəyiş.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
@@ -6142,7 +6153,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="366"/>
         <source>Rename the selected instance.</source>
-        <translation>Seçilmiş nümunənin adını dəyiş.</translation>
+        <translation>Seçilmiş instansın adını dəyiş.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
@@ -6183,7 +6194,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation>Silinmiş son nümunəni bərpa et</translation>
+        <translation>Silinmiş son instansı bərpa et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
@@ -6193,18 +6204,18 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="399"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>Nümunə ayarlarını, modlarını və versiyalarını redaktə et.</translation>
+        <translation>İnstans ayarlarını, modlarını və versiyalarını dəyişdirin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation>Seçiləni sil.</translation>
+        <translation>Seçilmiş instansı sil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation>Seçiləni sil.</translation>
+        <translation>Seçilmiş instansın qrupunu dəyişdirin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
@@ -6224,7 +6235,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="413"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>Seçilmiş nümunənin yerləşdiyi qovluğu aç.</translation>
+        <translation>Seçilmiş instansın kök(root) qovluğunu fayl bələdçisində açın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
@@ -6234,7 +6245,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
         <source>Copy the selected instance.</source>
-        <translation>Seçilmiş nümunəni kopyala.</translation>
+        <translation>Seçilmiş instansın surətini çıxar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
@@ -6246,7 +6257,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
         <source>No instance selected</source>
-        <translation>Heç bir nümunə seçilməyib</translation>
+        <translation>Heç bir instans seçilməyib</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
@@ -6257,7 +6268,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="559"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation>&amp;Nümunə yarat</translation>
+        <translation>&amp;İnstans yarat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
@@ -6359,14 +6370,14 @@ URL:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
         <source>No instance!</source>
-        <translation>Heç bir nümunə yoxdur!</translation>
+        <translation>İnstans yoxdur!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1137"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation>Resursu əlavə etmək üçün heç bir nümunə yoxdur.
-Zəhmət olmasa, bu resursu yenidən quraşdırmazdan əvvəl yeni bir nümunə yaradın.</translation>
+        <translation>Resursu(resource) əlavə etmək üçün mövcud instans yoxdur.
+Lütfən, bu resursu yenidən quraşdırmağa cəhd etməzdən əvvəl yeni instans yaradın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1251"/>
@@ -6387,24 +6398,24 @@ Zəhmət olmasa, bu resursu yenidən quraşdırmazdan əvvəl yeni bir nümunə 
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
         <source>Failed to undo trashing instance</source>
-        <translation>Nümunəni zibil qutusundan bərpa etmək uğursuz oldu</translation>
+        <translation>İnstansın zibil qutusundan çıxarılması alınmadı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1294"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation>Bəzi nümunələr və qısayollar bərpa oluna bilmədi.
-Zəhmət olmasa, onları əllə bərpa etmək üçün zibil qutunuzu yoxlayın.</translation>
+        <translation>Bəzi instanslar və qısayollar bərpa edilə bilmədi.
+Lütfən, onları əllə bərpa etmək üçün zibil qutusunu yoxlayın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
         <source>Instance not editable</source>
-        <translation>Nümunə redaktə edilə bilməz</translation>
+        <translation>İnstans redaktə edilə bilmir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1393"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation>Nümunə düzəliş edilə bilməz. Ola bilsin ki, o zədələnib, etibarsızdır və ya versiyası çox köhnədir. Ətraflı məlumat üçün qeydlərə (logs) baxın.</translation>
+        <translation>Bu instans redaktə edilə bilməz. O, xarab olmuş, yanlış və ya çox köhnə ola bilər. Təfərrüatlar üçün logları yoxlayın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
@@ -6438,12 +6449,12 @@ Meta-məlumat keşini əllə təmizləmək üçün Qovluqlar -&gt; Başlatıcın
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1484"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>İşləyən instansı silmək mümkün deyil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş instans hazırda işləyir və silinə bilməz. Lütfən, silməyə cəhd etməzdən əvvəl instansı dayandırın.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1496"/>
@@ -6494,7 +6505,10 @@ Meta-məlumat keşini əllə təmizləmək üçün Qovluqlar -&gt; Başlatıcın
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;%2 silmək üzrəsiniz.
+Bu proses qalıcı ola bilər və instansı tamamilə siləcəkdir.
+
+Əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1508"/>
@@ -6504,17 +6518,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1710"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstansın adını dəyişdirin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1722"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans qovluğunuzun adında &apos;!&apos; işarəsi var və bu, Java-da problemlərə səbəb ola bilər!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>İndi iki seçiminiz var:&lt;br/&gt; - parametrlərdən instans qovluğunu dəyişdirin &lt;br/&gt; - %1 quraşdırmasını fərqli bir qovluğa köçürün</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
@@ -6524,12 +6538,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1737"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans qovluğunuzun adında &apos;Rar$&apos; var — bu o deməkdir ki, siz başlatma proqramının (launcher) arxivini çıxarmamısınız!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1743"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sizin instans qovluğunuz müvəqqəti qovluqdadır: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1757"/>
@@ -6697,7 +6711,7 @@ Həmçinin URL-in etibarlı olduğundan əmin olun.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="337"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation>Nümunə uğurla %1 paket versiyasına yeniləndi.</translation>
+        <translation>İnstans uğurla %1 paket versiyasına yeniləndi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="342"/>
@@ -6707,7 +6721,7 @@ Həmçinin URL-in etibarlı olduğundan əmin olun.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="343"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation>Nümunə %1 paket versiyasına yenilənə bilmədi. Ətraflı məlumat üçün başlatıcının qeydlərinə (logs) baxmağınız xahiş olunur.</translation>
+        <translation>İnstans %1 paket versiyasına yenilənə bilmədi. Ətraflı məlumat üçün başlatıcının qeydlərinə (logs) baxmağınız xahiş olunur.</translation>
     </message>
 </context>
 <context>
@@ -6755,77 +6769,77 @@ Həmçinin URL-in etibarlı olduğundan əmin olun.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Başlat</translation>
+        <translation>&amp;Başlat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlat və &amp;Oflayn rejimdə aç</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlat və &amp;Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="312"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="320"/>
         <source>Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilçilər</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="330"/>
         <source>&amp;No Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profilçi yoxdur</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>&lt;SESSION ID&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;SESSİYA İD&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;GİRİŞ TOKENİ&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
         <source>&lt;PROFILE ID&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;PROFİL İD&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
         <source>broken</source>
-        <translation type="unfinished"></translation>
+        <translation>xarab olub</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, sonuncu dəfə %1 tarixində %2 müddətinə oynanılıb</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>, total played for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>, cəmi %1 oynanılıb</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
         <source>, has crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>, çökdü.</translation>
     </message>
 </context>
 <context>
@@ -6840,7 +6854,7 @@ Həmçinin URL-in etibarlı olduğundan əmin olun.
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
         <source>Minecraft</source>
-        <translation type="unfinished">Minecraft</translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -6921,17 +6935,17 @@ Həmçinin URL-in etibarlı olduğundan əmin olun.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstansları &amp;oynamağa sərf olunan vaxtı göstər</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;İnstansları oynamağa sərf olunan vaxtı qeyd et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstanslar üzrə oynanılan &amp;ümumi vaxtı göstər</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"/>
@@ -7072,42 +7086,42 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
         <source>Babric</source>
-        <translation type="unfinished">Babric</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">BTA (Babric)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Legacy Fabric</translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
@@ -7197,12 +7211,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
         <source>Show time &amp;playing this instance</source>
-        <translation>Instance-ni oynama vaxtını göstər</translation>
+        <translation>İnstansın oynama &amp;vaxtını göstər</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="69"/>
         <source>&amp;Record time playing this instance</source>
-        <translation>&amp;Bu instance-ni oynama vaxtını qeyd et</translation>
+        <translation>&amp;Bu instansın oynama vaxtını qeyd et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="74"/>
@@ -7296,7 +7310,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
@@ -8098,7 +8112,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="293"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="88"/>
@@ -8124,7 +8138,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
         <source>Modrinth</source>
-        <translation type="unfinished">Modrinth</translation>
+        <translation>Modrinth</translation>
     </message>
 </context>
 <context>
@@ -8284,37 +8298,37 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="192"/>
         <source>New Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni İnstans(instance)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qrup:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="92"/>
         <source>No group</source>
-        <translation type="unfinished">Qrup yoxdur</translation>
+        <translation>Qrup yoxdur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="120"/>
         <source>Cancel</source>
-        <translation type="unfinished">Ləğv et</translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="126"/>
         <source>Help</source>
-        <translation type="unfinished">Kömək edin</translation>
+        <translation>Kömək edin</translation>
     </message>
 </context>
 <context>
@@ -8386,7 +8400,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     <message>
         <location filename="src/launcher/NullInstance.h" line="52"/>
         <source>Unknown instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Naməlum instans növü</translation>
     </message>
 </context>
 <context>
@@ -9164,7 +9178,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="39"/>
         <source>Use as default for this instance only?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yalnız bu instans üçün standart olaraq istifadə edilsin?</translation>
     </message>
     <message>
         <source>Name</source>
@@ -9750,7 +9764,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="13"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans adını dəyişin</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="14"/>
@@ -9758,7 +9772,10 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünür, instansın adında köhnə versiya var. Onu yeniləmək istəyirsiniz?
+
+Köhnə ad: %1
+Yeni ad: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
@@ -9770,17 +9787,19 @@ New name: %2</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modpaketinden bir və ya bir neçə instansınız artıq mövcuddur%1. Yeni bir instans yaratmaq, yoxsa mövcud olanı yeniləmək istəyirsiniz?
+
+QEYD: Yeniləmə etməzdən əvvəl vacib instans məlumatlarınızın ehtiyat nüsxəsini (backup) çıxardığınızdan əmin olun, çünki dünyalar xarab ola bilər və bəzi konfiqurasiyalar (paketin üzərinə yazılması səbəbindən) itə bilər.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Mövcud instansı yeniləyin</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="40"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni instans yaradın</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="89"/>
@@ -10023,12 +10042,12 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="97"/>
         <source>Cannot rename instance</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstansın adını dəyişmək olmur</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni instans kökü(root) (%1) artıq mövcuddur. &lt;br /&gt;Yalnız metaməlumatlar yenidən adlandırılacaq.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
@@ -10038,7 +10057,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="73"/>
         <source>Rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans qovluğunun adını dəyişin</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="74"/>
@@ -10046,7 +10065,10 @@ Would you like to remove those existing saves as part of this update?</source>
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans qovluğunun adını da dəyişmək istərdinizmi?
+
+Köhnə ad: %1
+Yeni ad: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
@@ -10056,12 +10078,12 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağıdakı yenidən adlandırma əməliyyatı zamanı xəta baş verdi: &lt;br/&gt; - Köhnə instans kökü: %1&lt;br/&gt; - Yeni instans kökü: %2&lt;br/&gt;Yalnız metaməlumatlar yenidən adlandırıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlı instanslar var</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
@@ -10072,9 +10094,21 @@ New name: %2</source>
 %2 it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Aşağıdakı instans bu instansdakı fayllara istinad edə bilər:
+
+%1
+
+%2 digər instansın işini poza bilər.
+
+Davam etmək istəyirsiniz?</numerusform>
+            <numerusform>Aşağıdakı instanslar bu instansdakı fayllara istinad edə bilər:
+
+%1
+
+%2 digər instansların işini poza bilər.
+
+Davam etmək istəyirsiniz?</numerusform>
         </translation>
     </message>
     <message>
@@ -10183,7 +10217,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation>Tətbiqlər (Applications) qovluğunda instansiya (instances) qovluğu yaradıla bilmədi!</translation>
+        <translation>Tətbiqlər (Applications) qovluğunda instanslar (instances) qovluğu yaradıla bilmədi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
@@ -10291,7 +10325,7 @@ Xəta mesajı: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="146"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
-        <translation>Nümunənin (instance) oyun versiyası ilə uyğun olaraq qeyd edilməyib.</translation>
+        <translation>İnstansın oyun versiyası ilə uyğun olaraq qeyd edilməyib.</translation>
     </message>
 </context>
 <context>
@@ -10527,7 +10561,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="252"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="273"/>
@@ -12026,7 +12060,9 @@ Are you sure?</source>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>İnstansın yenilənməsi alınmadı, səbəb: %1
+
+</translation>
     </message>
 </context>
 <context>
@@ -12060,7 +12096,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="131"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstansın idxalı ləğv edildi.</translation>
     </message>
 </context>
 <context>
@@ -12102,7 +12138,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="218"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstansın idxalı ləğv edildi.</translation>
     </message>
 </context>
 <context>
@@ -12472,7 +12508,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="20"/>
         <source>Creating instance from version %1</source>
-        <translation>%1 versiyasından instansiya yaradılır</translation>
+        <translation>%1 versiyasından instans yaradılır</translation>
     </message>
 </context>
 <context>
@@ -12482,9 +12518,9 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation>Maksimum yaddaş ayrılması dəstəklənən dəyəri aşır. 
-Seçilmiş Java quraşdırması 32-bitdir və 2048 MiB-dan çox RAM dəstəkləmir.
- Bu səbəbdən instansiya işə düşməyə bilər.</translation>
+        <translation>Maksimum yaddaş ayrılması dəstəklənən dəyəri aşır.
+ Seçilmiş Java quraşdırması 32-bitdir və 2048 MiB-dən çox RAM-ı dəstəkləmir.
+ Bu səbəbdən instans işə düşməyə bilər.</translation>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
@@ -12501,8 +12537,8 @@ Seçilmiş Java quraşdırması 32-bitdir və 2048 MiB-dan çox RAM dəstəkləm
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation>Bu instansiya Java-nın %1 versiyası ilə uyğun deyil.
-Zəhmət olmasa, bu instansiya üçün aşağıdakı Java versiyalarından birinə keçid edin:</translation>
+        <translation>Bu instans Java-nın %1 versiyası ilə uyğun deyil.
+Zəhmət olmasa, bu instans üçün aşağıdakı Java versiyalarından birinə keçid edin:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
@@ -12512,7 +12548,7 @@ Zəhmət olmasa, bu instansiya üçün aşağıdakı Java versiyalarından birin
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>Java versiyasını dəyişmək üçün instansiyanın Java ayarlarını açın və ya nə etdiyinizi bilirsinizsə, Java uyğunluğu yoxlamasını söndürün.</translation>
+        <translation>Java versiyasını dəyişmək üçün instansın Java ayarlarını açın və ya nə etdiyinizi bilirsinizsə, Java uyğunluğu yoxlamasını söndürün.</translation>
     </message>
 </context>
 <context>
@@ -12623,7 +12659,7 @@ Zəhmət olmasa, bu instansiya üçün aşağıdakı Java versiyalarından birin
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="135"/>
         <source>Remove selected component from the instance.</source>
-        <translation>Seçilmiş komponenti instansiyadan silin.</translation>
+        <translation>Seçilmiş komponenti instansdan silin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="143"/>
@@ -12668,7 +12704,7 @@ Zəhmət olmasa, bu instansiya üçün aşağıdakı Java versiyalarından birin
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="212"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation>İnstansiyanı başlatmaq üçün lazım olan faylları indi yükləyin.</translation>
+        <translation>İnstansı başlatmaq üçün lazım olan faylları indi yükləyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
@@ -12678,7 +12714,7 @@ Zəhmət olmasa, bu instansiya üçün aşağıdakı Java versiyalarından birin
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="220"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>İnstansiyanın .minecraft qovluğunu açın.</translation>
+        <translation>İnstansın .minecraft qovluğunu açın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
@@ -12688,7 +12724,7 @@ Zəhmət olmasa, bu instansiya üçün aşağıdakı Java versiyalarından birin
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="228"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>İnstansiyanın yerli kitabxanalar (libraries) qovluğunu açın.</translation>
+        <translation>İnstansın yerli kitabxanalar (libraries) qovluğunu açın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="233"/>
@@ -12739,7 +12775,7 @@ Zəhmət olmasa, bu instansiya üçün aşağıdakı Java versiyalarından birin
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished">İnstansiya profili yüklənə bilmədi.</translation>
+        <translation>İnstansın profili yüklənə bilmədi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
@@ -12833,13 +12869,13 @@ Bu əməliyyat daimidir və xüsusi komponenti tamamilə siləcək.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation>Ən azı bir hesab əlavə etmədən Minecraft-ı yükləmək və ya instansiyaları (instances) yeniləmək mümkün deyil.
+        <translation>Ən azı bir hesab əlavə etmədən Minecraft-ı yükləmək və ya instansları (instances) yeniləmək mümkün deyil.
 Zəhmət olmasa, Microsoft hesabı əlavə edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="507"/>
         <source>Error updating instance</source>
-        <translation>İnstansiyanın yenilənməsi xətası</translation>
+        <translation>İnstansın yenilənməsi xətası</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="567"/>
