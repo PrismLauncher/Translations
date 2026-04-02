@@ -1926,7 +1926,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bəzi yollar kopyalana bilmədi!</translation>
     </message>
 </context>
 <context>
@@ -1934,7 +1934,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanınmadı</translation>
     </message>
 </context>
 <context>
@@ -1942,67 +1942,67 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Enable</source>
-        <translation type="unfinished">Aktivləşdir</translation>
+        <translation>Aktivləşdir</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Image</source>
-        <translation type="unfinished">Təsvir</translation>
+        <translation>Təsvir</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Name</source>
-        <translation type="unfinished">Ad</translation>
+        <translation>Ad</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Paket Formatı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Sonuncu dəyişdirilmə tarixi</translation>
+        <translation>Sonuncu dəyişdirilmə tarixi</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanınmayan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="145"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Məlumat paketi formatı ID-si, həmçinin onun üçün nəzərdə tutulduğu Minecraft versiyaları.</translation>
     </message>
     <message>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Xəbərdarlıq: Bu resurs başqa bir yerdən simvolik olaraq bağlanıb. Onu redaktə etmək orijinalı da dəyişdirəcək.
 Əsas Yol: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link). Onu redaktə etmək orijinalı da dəyişdirəcək.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="140"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Məlumat paketi aktivdir? (Yalnız ZIP faylları üçün keçərlidir)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="142"/>
         <source>The name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Məlumat paketinin adı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="147"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu məlumat paketinin sonuncu dəfə dəyişdirildiyi (və ya əlavə edildiyi) tarix və vaxt.</translation>
     </message>
 </context>
 <context>
@@ -2010,27 +2010,27 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketləri yüklə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlayn mod platformalarından məlumat paketlərini (data packs) yükləyin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş bütün məlumat paketlərini yoxlamağa və ya yeniləməyə çalışın (heç biri seçilməyibsə, bütün məlumat paketlərini)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Məlumat paketinin versiyasını dəyişin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="80"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Məlumat Paketlərini Yüklə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
@@ -2039,7 +2039,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="220"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Error</source>
-        <translation type="unfinished">Xəta</translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="86"/>
@@ -2047,82 +2047,85 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="243"/>
         <source>Aborted</source>
-        <translation type="unfinished">Ləğv edildi</translation>
+        <translation>Ləğv edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="86"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="243"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Yükləmə istifadəçi tərəfindən dayandırıldı.</translation>
+        <translation>Yükləmə istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="92"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="249"/>
         <source>Warnings</source>
-        <translation type="unfinished">Xəbərdarlıqlar</translation>
+        <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="106"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="186"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="259"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="121"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="220"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata söndürüldükdə məlumat paketi yeniləmələri əlçatmaz olur!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="126"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Yeniləməni təsdiqlə</translation>
+        <translation>Yeniləməni təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="127"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun işləyərkən məlumat paketlərini (data packs) yeniləmək paketlərin təkrarlanmasına və oyunun çökməsinə (crash) səbəb ola bilər. 
+Köhnə fayllar istifadədə olduqları üçün silinməyə bilər. 
+Bunu etmək istədiyinizə əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Məlumat paketi yeniləyicisi ləğv edildi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="151"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; güncəldir! :)</translation>
+        <translation>&apos;%1&apos; güncəldir! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bütün məlumat paketləri güncəldir! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="156"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş bütün məlumat paketləri güncəldir! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>Update checker</source>
-        <translation type="unfinished">Güncəlləmə yoxlayıcısı</translation>
+        <translation>Güncəlləmə yoxlayıcısı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="200"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Ləğv etməyi təsdiqlə</translation>
+        <translation>Ləğv etməyi təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1 məlumat paketinin metadatasını silmək üzrəsiniz.
+Əminsiniz?</translation>
     </message>
 </context>
 <context>
@@ -2130,7 +2133,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="35"/>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>Kifayət qədər RAM yoxdur</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2158,29 +2161,29 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursların metadataya malik olub-olmadığı yoxlanılır...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 üzərindən metadata məlumatı sorğulanır...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-dən &apos;%2&apos; üçün metadata məlumatı sorğulanır...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="331"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; üçün Modrinth-dən gələn API cavabı təhlil edilir (parsing)...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="390"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="458"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; üçün CurseForge-dan gələn API cavabı təhlil edilir...</translation>
     </message>
 </context>
 <context>
@@ -2196,12 +2199,12 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun sahibliyi müəyyən edilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>İmtiyazlar əldə edildi</translation>
     </message>
 </context>
 <context>
@@ -2209,37 +2212,37 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
         <source>Name</source>
-        <translation type="unfinished">Ad</translation>
+        <translation>Ad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="110"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Dəyər</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="50"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Əlavə et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">&amp;Qlobal ayarları üstələ</translation>
+        <translation>&amp;Qlobal ayarları üstələ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Təmizlə</translation>
     </message>
 </context>
 <context>
@@ -2252,12 +2255,12 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
         <source>Cancel</source>
-        <translation type="unfinished">Ləğv et</translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="92"/>
         <source>OK</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="137"/>
@@ -2268,7 +2271,7 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="157"/>
         <source>Error</source>
-        <translation type="unfinished">Xəta</translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
@@ -2286,67 +2289,67 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Təsvir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
         <source>&amp;Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Versiya:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
         <source>&amp;Author:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Müəllif:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Xülasə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Seçimlər</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
         <source>&amp;Recommended Memory:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tövsiyə olunan yaddaş:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation type="unfinished"></translation>
+        <translation> MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fayllar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="209"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sıradan çıxarılmış faylları istəyə bağlı olaraq işarələ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="54"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="50"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth paketini ixrac et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge paketini ixrac et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
@@ -2356,43 +2359,43 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>OK</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="165"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="172"/>
         <source>Export %1</source>
-        <translation type="unfinished">%1 ixrac et</translation>
+        <translation>%1 ixrac et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="166"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth paketi</translation>
+        <translation>Modrinth paketi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="173"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge paketi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="200"/>
         <source>Error</source>
-        <translation type="unfinished">Xəta</translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapşırıq dayandırıldı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapşırıq istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="208"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Durdur</translation>
     </message>
 </context>
 <context>
@@ -2400,47 +2403,47 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketi ModList-ə ixrac et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">**Tənzimləmələr**</translation>
+        <translation>Tənzimləmələr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Düz mətn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished">Xüsusi</translation>
+        <translation>Xüsusi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Şablon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
@@ -2450,46 +2453,51 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu mətn aşağıdakı əvəzləyiciləri (placeholders) dəstəkləyir:
+{name} - Modun adı
+{mod_id} - Modun ID-si
+{url} - Modun URL-i
+{version} - Modun versiyası
+{authors} - Modun müəllifləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Könüllü məlumatlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="105"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="133"/>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="112"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="140"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Müəlliflər</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="119"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="126"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="154"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl adı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="173"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="183"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Nəticə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
@@ -2499,27 +2507,27 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
         <source>Copy</source>
-        <translation type="unfinished">Köçürt</translation>
+        <translation>Köçürt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished">Ləğv et</translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Yadda saxla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
         <source>Export %1</source>
-        <translation type="unfinished">%1 ixrac et</translation>
+        <translation>%1 ixrac et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"/>
         <source>File</source>
-        <translation type="unfinished">Fayl</translation>
+        <translation>Fayl</translation>
     </message>
 </context>
 <context>
@@ -2527,144 +2535,144 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
         <source>Actions</source>
-        <translation type="unfinished">Əməliyyatlar</translation>
+        <translation>Əməliyyatlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aktiv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Deaktiv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="117"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş bütün elementləri aktiv et.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished">Axtar</translation>
+        <translation>Axtar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
         <source>&amp;Add File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fayl əlavə et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>Add a locally downloaded file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yerli olaraq endirilmiş faylı əlavə et.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
         <source>Remove all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş bütün elementləri sil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
         <source>Disable all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş bütün elementləri deaktiv et.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Konfiqurasiyalara baxın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem fayl menecerində &apos;config&apos; qovluğunu açın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qovluğa baxın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem fayl menecerində qovluğu açın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yüklə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
         <source>Download resources from online mod platforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlayn mod platformalarından resursları yükləyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="166"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş bütün resursları yoxlamağa və ya yeniləməyə çalışın (heç biri seçilməyibsə, bütün resursları).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeniləmə metaməlumatlarını sıfırla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Asılılıqları yoxla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="190"/>
         <source>Export List</source>
-        <translation type="unfinished"></translation>
+        <translation>Siyahını ixrac et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="193"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursun metaməlumatlarını mətnə ixrac et.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Change Version</source>
-        <translation type="unfinished">Versiyanı dəyiş daxil et</translation>
+        <translation>Versiyanı dəyiş daxil et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="204"/>
         <source>Change a resource&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursun versiyasını dəyişdir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="215"/>
         <source>View Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Ana səhifəyə baxın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="218"/>
         <source>View the homepages of all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş bütün elementlərin ana səhifələrinə baxın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeniləmələri &amp;yoxla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekst menyusu</translation>
+        <translation>Kontekst menyusu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="214"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="244"/>
@@ -2672,7 +2680,10 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1 elementi silmək üzrəsiniz.
+Bu daimi ola bilər və onlar qovluqdan silinəcəklər.
+
+Əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
@@ -2680,33 +2691,37 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz &quot;%1&quot; qovluğunu silmək üzrəsiniz.
+Bu daimi ola bilər və o, ana qovluqdan silinəcək.
+
+Əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="256"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Ləğv etməyi təsdiqlə</translation>
+        <translation>Ləğv etməyi təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Silməni təsdiqlə</translation>
+        <translation>Silməni təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun işləyərkən bu resursu silsəniz, oyununuz çökə bilər.
+Bunu etmək istədiyinizə əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="347"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 quraşdırılıb, %2 seçilib)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="349"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 quraşdırılıb)</translation>
     </message>
     <message>
         <source>Add</source>
@@ -2718,7 +2733,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
         <source>&amp;Editors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Redaktorlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
