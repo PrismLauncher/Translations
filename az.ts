@@ -3914,7 +3914,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="81"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kömək edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
@@ -5646,7 +5646,7 @@ Reason:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zəhmət olmasa, gözləyin...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -5803,7 +5803,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kömək edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="708"/>
@@ -8171,7 +8171,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="145"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 tapşırıq icra edilir (%3 tapşırıqdan %2-si tamamlanıb)</translation>
     </message>
 </context>
 <context>
@@ -8271,7 +8271,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="92"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qrup yoxdur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="114"/>
@@ -8286,7 +8286,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="126"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kömək edin</translation>
     </message>
 </context>
 <context>
@@ -8613,7 +8613,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="49"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kömək edin</translation>
     </message>
 </context>
 <context>
@@ -9223,7 +9223,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zəhmət olmasa, gözləyin...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
