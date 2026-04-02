@@ -1378,23 +1378,24 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="502"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstansiyada ziddiyyətli asılılıqlar var.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="508"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükləmə və ya açılış yoxlanışı zamanı instansiyada həll olunmamış asılılıqlar var.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 üçün metadata yüklənə bilmədi. Zəhmət olmasa versiyanı dəyişin və ya bir az sonra yenidən cəhd edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="815"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponent metadaməlumatlarının yenilənməsi tapşırığı uzaq serverdən endirilərkən uğursuz oldu: 
+%1.</translation>
     </message>
 </context>
 <context>
@@ -1402,48 +1403,49 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>İşləyən bütün tapşırıqların dayandırılması uğursuz oldu.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapşırıq uğursuz oldu</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Çoxsaylı alt tapşırıq uğursuz oldu</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Çoxsaylı alt tapşırıq uğursuz oldu:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 tapşırıq icra edilir (%3 tapşırıqdan %2-si tamamlanıb)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zəhmət olmasa, gözləyin...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapşırığın başlaması gözlənilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>1 tapşırıq icra edilir:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapşırıq bitdi.</translation>
     </message>
 </context>
 <context>
@@ -1451,7 +1453,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nüsxəni yarat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1461,173 +1463,173 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qrup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamısını seç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bunun söndürülməsi mod yükləyicisini (məs: Fabric, Quilt və s.) saxlayacaq, lakin modlar qovluğunu və onların konfiqurasiyalarını siləcəkdir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Nüsxənin Yaradılma Seçimləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modları kopyala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>FOV, maksimum kadr tezliyi və s. kimi oyun daxili seçimləri kopyala.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun seçimlərini kopyala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaddaşları kopyala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Qabaqcıl Kopyalama Seçimləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylları kopyalamaq əvəzinə simvolik və ya sərt keçidlərdən linklerden istifadə edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Simvolik və Sərt Keçid Seçimləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Keçidlər FAT istisna olmaqla əksər fayl sistemlərində dəstəklənir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation type="unfinished"></translation>
+        <translation>Bütün qovluqları birdən keçid etmək əvəzinə hər bir resursu fərdi şəkildə keçid edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylları rekursiv şəkildə keçid edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Yaddaşları kopyala&quot; seçilərsə, dünyaların yaddaş məlumatları keçid edilmək (link) əvəzinə kopyalanacaq və beləliklə instansiyalar arasında paylaşılmayacaq.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaddaşları keçid etmə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylları kopyalamaq əvəzinə sərt keçidlərdən linklerden istifadə edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation type="unfinished"></translation>
+        <translation>Sərt keçidlərdən istifadə edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylları kopyalamaq əvəzinə simvolik keçidlərdən (symbolic links) istifadə edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
         <source>Use symbolic links</source>
-        <translation type="unfinished"></translation>
+        <translation>Simvolik keçidlərdən istifadə edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation type="unfinished"></translation>
+        <translation>CoW (Yazarkən Kopyala) Seçimləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinklər vasitəsilə klonlanmış fayllar dəyişdirilənə qədər əlavə yer tutmur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyalamaq əvəzinə klonlayın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation type="unfinished"></translation>
+        <translation>Sizin fayl sisteminiz və/ya əməliyyat sisteminiz reflinkləri dəstəkləmir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader paketlərini kopyala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverləri kopyala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurs paketlərini kopyala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun müddətini saxla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrinşotları kopyala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation>Qrup yoxdur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinklər %1 tərəfindən dəstəklənir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinklər %1 tərəfindən dəstəklənmir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows-da simvolik keçidlərin (symbolic links) yaradılması üçün admin icazəsi tələb oluna bilər.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kömək edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
@@ -1645,7 +1647,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Əsas Modlar</translation>
     </message>
 </context>
 <context>
@@ -1653,7 +1655,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Əsas oyun qovluğu yaradıla bilmədi</translation>
     </message>
 </context>
 <context>
@@ -1661,17 +1663,17 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstansiya qısayolunu yarat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yadda saxla:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
@@ -1681,68 +1683,68 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Susmaya qoyulmuş (standart) hesabdan fərqli bir hesab istifadə edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Susmaya qoyulmuş hesabı ləğv et (üstələ)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>İşə salınan zaman avtomatik qoşulmaq üçün bir dünya və ya server təyin edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>İşə salınan zaman qoşulmaq üçün hədəf seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünya:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Server ünvanı:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Server ünvanı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qeyd: Əgər qısayol yaradıldıqdan sonra yeri dəyişdirilərsə, instansiya silinən zaman həmin qısayol silinməyəcək.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation>Belə olan halda, onları əllə silməli olacaqsınız.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="85"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>İş masası</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="88"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Tətbiqlər</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="90"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Digər...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [%2] - Sonuncu dəfə oynanılıb: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="112"/>
@@ -13406,7 +13408,7 @@ Hesabınızı %1 ə əsasən düzəldin.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox istifadəçi tokeni alındı</translation>
     </message>
 </context>
 </TS>
