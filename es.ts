@@ -787,7 +787,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Do you really want to delete this account?</source>
-        <translation>¿Estás seguro de que deseas borrar esta cuenta?</translation>
+        <translation>¿De verdad quieres eliminar esta cuenta?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -999,18 +999,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Esta instalación tiene un archivo de bloqueo de actualización presente en: %1
+        <translation>Esta instalación tiene un archivo de bloqueo de actualización en: %1
 
-Marca de tiempo: %2
+Fecha y hora: %2
 Actualización de la versión %3 a %4
 Ruta de instalación de destino: %5
 Ruta de datos: %6
-Esto probablemente significa que un intento de actualización falló. Asegúrese de que su instalación funciona correctamente antes de continuar.
-Compruebe el registro de actualización de Prism Launcher en: 
+Probablemente esto signifique que ha fallado un intento de actualización. Asegúrate de que tu instalación funciona correctamente antes de continuar.
+Consulte el registro del actualizador de Prism Launcher en: 
 %7
-para más detalles sobre el último intento de actualización.
+para obtener detalles sobre el último intento de actualización.
 
-Para borrar este bloqueo y continuar, selecciona «ignorar» a continuación.</translation>
+Para eliminar este bloqueo y continuar, selecciona &quot;Ignorar&quot; a continuación.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1083"/>
@@ -1271,7 +1271,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>¿Estás seguro de que quieres habilitar este mod?</translation>
+        <translation>¿Estás seguro/a de que quieres activar este mod?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="250"/>
@@ -2059,12 +2059,12 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation>Nota: Si un acceso directo se mueve tras ser creado, no se borrará cuando se elimine la instancia.</translation>
+        <translation>Nota: Si se mueve un acceso directo después de crearlo, no se eliminará al borrar la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation>Tendrás que borrarlos manualmente en ese caso.</translation>
+        <translation>En ese caso, tendrás que eliminarlos manualmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="85"/>
@@ -2455,9 +2455,9 @@ Advertencia: Este recurso está vinculado de forma rígida a otra ubicación. Si
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Actualizar los data packs mientras el juego está en ejecución puede provocar la duplicación de packs y fallos en el juego.
+        <translation>Actualizar los data packs mientras el juego está en ejecución puede provocar la duplicación de archivos y fallos en el juego.
 Es posible que los archivos antiguos no se eliminen, ya que están en uso.
-¿Estás seguro de que deseas continuar?</translation>
+¿Estás seguro/a de que deseas continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
@@ -2493,8 +2493,8 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation>Está a punto de eliminar los metadatos de %1 data packs.
-¿Está seguro?</translation>
+        <translation>Estás a punto de eliminar los metadatos de %1 data packs.
+¿Estás seguro/a?</translation>
     </message>
 </context>
 <context>
@@ -3253,10 +3253,10 @@ Disponible: %2 MiB
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Estas a punto de eliminar %1 elementos.
-Esta acción es permanente y los elementos desaparecerán de la carpeta.
+        <translation>Estás a punto de eliminar %1 elementos.
+Esta acción puede ser irreversible y los elementos desaparecerán de la carpeta.
 
-¿Estas seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
@@ -3264,10 +3264,10 @@ Esta acción es permanente y los elementos desaparecerán de la carpeta.
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>Estas a punto de eliminar la capeta &quot;%1&quot;.
-Esta acción es permanente y los elementos desaparecerán de la carpeta raíz.
+        <translation>Estás a punto de eliminar la carpeta «%1».
+Esta acción puede ser definitiva y la carpeta desaparecerá de la carpeta principal.
 
-¿Estas seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="256"/>
@@ -3277,14 +3277,14 @@ Esta acción es permanente y los elementos desaparecerán de la carpeta raíz.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
         <source>Confirm Delete</source>
-        <translation>Confirmar Borrado</translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Si eliminas este recurso mientras el juego está en ejecución, es posible que el juego se bloquee.
-¿Estás seguro de que deseas hacerlo?</translation>
+¿Estás seguro/a de que quieres hacerlo?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -6324,7 +6324,7 @@ Necesitas comprar el juego primero para jugarlo.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation>La identificación del lanzador ha cambiado</translation>
+        <translation>Ha cambiado la identificación del cliente del launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="201"/>
@@ -6335,13 +6335,13 @@ Necesitas comprar el juego primero para jugarlo.
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation>Esta cuenta no pertenece a Minecraft.
-Debes comprar el juego primero para jugar la versión completa.</translation>
+        <translation>Esta cuenta no es propietaria de Minecraft.
+Para jugar a la versión completa, primero debes comprar el juego.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>No account was selected for launch.</source>
-        <translation>No hay cuenta seleccionada para jugar.</translation>
+        <translation>No se ha seleccionado ninguna cuenta para iniciar.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
@@ -6355,7 +6355,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Choose your demo mode player name</source>
-        <translation>Elije tu nombre para el modo demo</translation>
+        <translation>Elige el nombre de tu jugador en el modo demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
@@ -6369,7 +6369,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>Choose your offline mode player name</source>
-        <translation>Elije tu nombre para el modo sin conexión</translation>
+        <translation>Elige tu nombre de jugador para el modo sin conexión</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="300"/>
@@ -6571,7 +6571,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation>Actualmente, esto solo muestra mods que no están marcados como compatibles con la versión actual de Minecraft.</translation>
+        <translation>Actualmente, esto solo muestra los mods que no están marcados como compatibles con la versión actual de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="430"/>
@@ -6986,7 +6986,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>¿Estás seguro/a de que quieres usar esta ruta? Selecciona «No» para cerrar y no modificar la ruta de tu instancia.</translation>
+        <translation>¿De verdad quieres utilizar esta ruta? Si seleccionas &quot;No&quot;, se cerrará esta ventana y no se modificará la ruta de tu instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
@@ -7333,7 +7333,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="365"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>¿Estás seguro de que quieres borrar el pack %1?</translation>
+        <translation>¿Estás seguro/a de que quieres eliminar el pack %1?</translation>
     </message>
 </context>
 <context>
@@ -7665,7 +7665,7 @@ Motivo:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation>Error al analizar el archivo %1</translation>
+        <translation>No se ha podido analizar el archivo %1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -8041,7 +8041,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>Dele&amp;te</source>
-        <translation>Borrar (&amp;T)</translation>
+        <translation>Bo&amp;rrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
@@ -8085,13 +8085,13 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation>Carpetas (&amp;O)</translation>
+        <translation>C&amp;arpetas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>Ajustes...</translation>
+        <translation>Ajuste&amp;s...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
@@ -8946,12 +8946,12 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation>Enlace de importación invalido: falta el parámetro &quot;url&quot;.</translation>
+        <translation>Enlace de importación no válido: falta el parámetro &apos;url&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation>Enlace de importación invalido: la URL debe ser http(s).</translation>
+        <translation>Enlace de importación no válido: la URL debe ser http(s).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1079"/>
@@ -8986,7 +8986,7 @@ Por favor, cree una nueva instancia antes de intentar instalar este recurso de n
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>Estas seguro que quieres borrar el grupo &apos;%1&apos;?</translation>
+        <translation>¿Estás seguro/a de que quieres eliminar el grupo &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
@@ -9053,8 +9053,8 @@ Para borrar la caché de metadatos manualmente, pulsa Carpetas (O) -&gt; Raíz d
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>Estás a punto de eliminar &quot;%1&quot;%2.
-Esto puede ser permanente y eliminará la instancia por completo.
+        <translation>Estás a punto de eliminar «%1»%2.
+Esta acción puede ser irreversible y eliminará por completo la instancia.
 
 ¿Estás seguro/a?</translation>
     </message>
@@ -10493,9 +10493,9 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod estará habilitado
+            <numerusform>%n mod se activará
 </numerusform>
-            <numerusform>%n mods estarán habilitados
+            <numerusform>%n mods se activarán
 </numerusform>
         </translation>
     </message>
@@ -10504,7 +10504,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod estará desactivado
+            <numerusform>%n mod se desactivará
 </numerusform>
             <numerusform>%n mods se desactivarán
 </numerusform>
@@ -10863,9 +10863,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation>Actualizar los mods mientras el juego está en marcha puede provocar la duplicación de mods y el bloqueo del juego.
+        <translation>Actualizar los mods mientras el juego está en marcha puede provocar la duplicación de mods y fallos en el juego.
 Es posible que los archivos antiguos no se eliminen, ya que están en uso.
-¿Estás seguro de que quieres hacerlo?</translation>
+¿Estás seguro/a de que quieres hacerlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
@@ -10891,8 +10891,8 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="311"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>Vas a eliminar los metadatos de %1 mods.
-Estás seguro?</translation>
+        <translation>Estás a punto de eliminar los metadatos de los mods de %1.
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="416"/>
@@ -10935,8 +10935,8 @@ Estás seguro?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="132"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Si eliminas mods mientras el juego se está ejecutando puede que se cuelgue.
-¿Estás seguro de que quieres hacerlo?</translation>
+        <translation>Si eliminas los mods mientras el juego está en marcha, es posible que el juego se cierre.
+¿Estás seguro/a de que quieres hacerlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="144"/>
@@ -12242,8 +12242,8 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation>Estás a punto de borrar &quot;%1&quot;.
-Esto puede ser permanente y desaparecerá de la carpeta de registros.
+        <translation>Estás a punto de eliminar &quot;%1&quot;.
+Esta acción puede ser definitiva y el archivo desaparecerá de la carpeta de registros.
 
 ¿Estás seguro/a?</translation>
     </message>
@@ -12255,13 +12255,13 @@ Esto puede ser permanente y desaparecerá de la carpeta de registros.
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="409"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation>¿Estas seguro de borrar todos los archivos de registro?</translation>
+        <translation>¿Estás seguro/a de que quieres eliminar todos los archivos de registro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="412"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation>¿Estas seguro de borrar todos estos archivos?
+        <translation>¿Estás seguro/a de que quieres eliminar todos estos archivos?
 %1</translation>
     </message>
     <message>
@@ -13315,8 +13315,8 @@ Estado de HTTP: %2</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Estás a punto de subir &quot;%1&quot; a &quot;%2&quot;.
-Deberías revisarlo de nuevo por información personal.
+        <translation>Estás a punto de subir &quot;%1&quot; a %2.
+Comprueba bien que no contenga información personal.
 
 ¿Estás seguro/a?</translation>
     </message>
@@ -13638,8 +13638,8 @@ Este mensaje se mostrará hasta que las quites de los argumentos JVM.</translati
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>Has intentado pasar el argumento de la versión requerida a la JVM (usando &quot;-version:xxx&quot;). Esto no es seguro y no se permite.
-Se mostrará este mensaje hasta que lo quites de los argumentos de la JVM.</translation>
+        <translation>Has intentado pasar el argumento de la versión de Java requerida a la JVM (utilizando &quot;-version:xxx&quot;). Esto no es seguro y no se permitirá.
+Este mensaje seguirá apareciendo hasta que elimines este argumento de los argumentos de la JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
@@ -14425,8 +14425,8 @@ Mensaje de error: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="101"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation>Tiene %1 recursos seleccionados.
-¿Estás seguro de que deseas cerrar este cuadro de diálogo?</translation>
+        <translation>Tienes %1 recursos seleccionados.
+¿Estás seguro/a de que quieres cerrar este cuadro de diálogo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="140"/>
@@ -14800,8 +14800,8 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Si activas/desactivas este recurso mientras el juego se está ejecutando puede bloquear tu juego.
-¿Estás seguro de que quieres hacerlo?</translation>
+        <translation>Si activas o desactivas este recurso mientras el juego está en marcha, es posible que el juego se cuelgue.
+¿Estás seguro/a de que quieres hacerlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="612"/>
@@ -15023,9 +15023,9 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Actualizar los resource packs mientras el juego está en marcha puede provocar la duplicación de los packs y el bloqueo del juego.
+        <translation>Actualizar los resource packs mientras el juego está en marcha puede provocar la duplicación de los archivos y fallos en el juego.
 Es posible que los archivos antiguos no se eliminen, ya que están en uso.
-¿Estás seguro de que quieres hacerlo?</translation>
+¿Estás seguro/a de que quieres hacerlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
@@ -15061,8 +15061,8 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation>Está a punto de eliminar los metadatos de %1 resource packs.
-¿Está seguro?</translation>
+        <translation>Estás a punto de eliminar los metadatos de %1 resource packs.
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
@@ -15413,10 +15413,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Estás a punto de subir %1 imagenes a %2.
-Deberías volver a comprobar la información personal.
+        <translation>Estás a punto de subir %1 capturas de pantalla a %2.
+Comprueba bien que no contengan información personal.
 
-¿Está seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="378"/>
@@ -15424,10 +15424,10 @@ Deberías volver a comprobar la información personal.
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Está a punto de subir la captura de pantalla seleccionada a %1.
-Deberías volver a comprobar la información personal.
+        <translation>Estás a punto de subir la captura de pantalla seleccionada a %1.
+Comprueba que no contenga información personal.
 
-¿Está seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="403"/>
@@ -15480,10 +15480,10 @@ Deberías volver a comprobar la información personal.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Estas a punto de borrar %1 imagenes.
-Esta acción es permanente y los elementos desaparecerán de la carpeta.
+        <translation>Estás a punto de eliminar %1 capturas de pantalla.
+Esta acción puede ser irreversible y desaparecerán de la carpeta.
 
-¿Estas seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="516"/>
@@ -15491,10 +15491,10 @@ Esta acción es permanente y los elementos desaparecerán de la carpeta.
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Está a punto de borrar la captura de pantalla seleccionada.
-Esto puede ser permanente y desaparecerá de la carpeta.
+        <translation>Estás a punto de eliminar la captura de pantalla seleccionada.
+Esta acción puede ser irreversible y la imagen desaparecerá de la carpeta.
 
-¿Está seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="522"/>
@@ -15705,8 +15705,8 @@ Versión instalada actualmente: %1</translation>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>Estás a punto de eliminar &quot;%1&quot;.
-Esto es permanente y el servidor desaparecerá de su lista para siempre (MUCHO TIEMPO).
+        <translation>Estás a punto de eliminar «%1».
+Esta acción es definitiva y el servidor desaparecerá de tu lista para siempre (POR MUCHO TIEMPO).
 
 ¿Estás seguro/a?</translation>
     </message>
@@ -15835,9 +15835,9 @@ Esto es permanente y el servidor desaparecerá de su lista para siempre (MUCHO T
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Actualizar los shader packs mientras el juego está en marcha puede duplicar los shader packs y provocar caídas del juego.
+        <translation>Actualizar los shader packs mientras el juego está en marcha puede provocar la duplicación de archivos y fallos en el juego.
 Es posible que los archivos antiguos no se eliminen, ya que están en uso.
-¿Estás seguro de que quieres hacerlo?</translation>
+¿Estás seguro/a de que quieres hacerlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="161"/>
@@ -15873,8 +15873,8 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation>Está a punto de eliminar los metadatos de %1 shader packs.
-¿Está seguro?</translation>
+        <translation>Estás a punto de eliminar los metadatos de %1 shader packs.
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
@@ -16096,7 +16096,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Estás a punto de borrar &quot;%1&quot;.
+        <translation>Estás a punto de eliminar &quot;%1&quot;.
 ¿Estás seguro/a?</translation>
     </message>
     <message>
@@ -16687,9 +16687,9 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Actualizar los texture packs mientras el juego está en marcha puede provocar la duplicación de texture packs y el bloqueo del juego.
+        <translation>Actualizar los texture packs mientras el juego está en marcha puede provocar la duplicación de archivos y fallos en el juego.
 Es posible que los archivos antiguos no se eliminen, ya que están en uso.
-¿Estás seguro de que quieres hacerlo?</translation>
+¿Estás seguro/a de que quieres hacerlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="169"/>
@@ -16725,8 +16725,8 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="223"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation>Está a punto de eliminar los metadatos de %1 texture packs.
-¿Está seguro?</translation>
+        <translation>Estás a punto de eliminar los metadatos de %1 texture packs.
+¿Estás seguro/a?</translation>
     </message>
 </context>
 <context>
@@ -17399,7 +17399,7 @@ This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
         <translation>Estás a punto de eliminar &quot;%1&quot;.
-Esto es permanente y eliminará por completo el componente personalizado.
+Esta acción es irreversible y eliminará por completo el componente personalizado.
 
 ¿Estás seguro/a?</translation>
     </message>
@@ -17506,7 +17506,7 @@ This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
         <translation>Estás a punto de revertir &quot;%1&quot;.
-Esto es permanente y revertirá sus personalizaciones por completo.
+Esta acción es permanente y eliminará por completo tus personalizaciones.
 
 ¿Estás seguro/a?</translation>
     </message>
@@ -17993,8 +17993,8 @@ Es necesario reinstalarlo.</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation>Cambiar un mundo mientras Minecraft está en ejecución es potencialmente inseguro.
-¿Estás seguro de que quieres continuar?</translation>
+        <translation>Modificar el mundo mientras Minecraft está en ejecución puede ser peligroso.
+¿Deseas continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="194"/>
@@ -18007,8 +18007,8 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>Estás a punto de borrar &quot;%1&quot;.
-El mundo puede desaparecer para siempre (MUCHO TIEMPO).
+        <translation>Estás a punto de eliminar «%1».
+Es posible que el mundo desaparezca para siempre (POR MUCHO TIEMPO).
 
 ¿Estás seguro/a?</translation>
     </message>
