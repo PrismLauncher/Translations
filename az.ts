@@ -342,7 +342,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Minecraft-i idarə etməyi asanlaşdıran və eyni anda bir neçə Minecraft instans (instance) işlətməyə imkan verən xüsusi bir başlatıcı(launcher).&lt;p&gt;&lt;body&gt;&lt;html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Minecraft-i idarə etməyi asanlaşdıran və eyni anda bir neçə Minecraft instans (instance) işlətməyə imkan verən xüsusi bir başlatıcı(launcher).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -787,8 +787,9 @@ for details on the last update attempt.</source>
         <translation>Yeniləmə cəhdi uğursuz oldu
 
 Zəhmət olmasa, davam etməzdən əvvəl quraşdırmanın düzgün işlədiyindən əmin olun.
-Son yeniləmə cəhdi haqqında təfərrüatlar üçün Prism Launcher yeniləyici loguna baxın:
-%1</translation>
+Son yeniləmə cəhdi haqqında təfərrüatlar üçün :
+1%
+Prism Launcher yeniləyici loguna baxın.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1115"/>
@@ -812,8 +813,9 @@ for details.</oldsource>
         <translation>Yeniləmə uğurla başa çatdı
 
 Hal-hazırda %1 versiyasını istifadə edirsiniz.
-Təfərrüatlar üçün Prism Launcher yeniləyici loguna baxın: 
-%2</translation>
+Təfərrüatlar üçün : 
+%2
+Prism Launcher yeniləyici loguna baxın.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1147"/>
@@ -1383,7 +1385,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="508"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Yükləmə və ya açılış yoxlanışı zamanı instansiyada həll olunmamış asılılıqlar var.</translation>
+        <translation>Yükləmə və ya açılış yoxlanışı zamanı instansda(instance) həll olunmamış asılılıqlar var.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
@@ -1395,7 +1397,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Komponent metadaməlumatlarının yenilənməsi tapşırığı uzaq serverdən endirilərkən uğursuz oldu: 
-%1.</translation>
+%1</translation>
     </message>
 </context>
 <context>
@@ -1453,12 +1455,12 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Nüsxəni yarat</translation>
+        <translation>İnstansı(instance) kopyala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished">Ad</translation>
+        <translation>Ad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
@@ -1478,7 +1480,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>Nüsxənin Yaradılma Seçimləri</translation>
+        <translation>İnstans(instance) Kopyalama Seçimləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1498,7 +1500,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation>Yaddaşları kopyala</translation>
+        <translation>Saveləri kopyala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
@@ -1528,17 +1530,17 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation>Faylları rekursiv şəkildə keçid edin.</translation>
+        <translation>Faylları rekursiv şəkildə keçid edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>&quot;Yaddaşları kopyala&quot; seçilərsə, dünyaların yaddaş məlumatları keçid edilmək (link) əvəzinə kopyalanacaq və beləliklə instansiyalar arasında paylaşılmayacaq.</translation>
+        <translation>&quot;Saveləri kopyala&quot; seçilərsə, dünyaların yaddaş məlumatları keçid edilmək (link) əvəzinə kopyalanacaq və beləliklə instansiyalar arasında paylaşılmayacaq.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation>Yaddaşları keçid etmə</translation>
+        <translation>Savelərə keçid etmə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
@@ -1663,7 +1665,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation>İnstansiya qısayolunu yarat</translation>
+        <translation>İnstanın(instance) qısayolunu yarat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
@@ -1719,7 +1721,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation>Qeyd: Əgər qısayol yaradıldıqdan sonra yeri dəyişdirilərsə, instansiya silinən zaman həmin qısayol silinməyəcək.</translation>
+        <translation>Qeyd: Əgər qısayol yaradıldıqdan sonra yeri dəyişdirilərsə, instans(instance) silinən zaman həmin qısayol silinməyəcək.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
@@ -1764,7 +1766,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="196"/>
         <source>instance</source>
-        <translation>nüsxə</translation>
+        <translation>instans(instance)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="200"/>
@@ -2138,12 +2140,17 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu instansı(instance) cari yaddaş tənzimləmələri ilə başlatmaq üçün kifayət qədər RAM yoxdur.
+
+Tələb olunan: %1 MiB
+Mövcud: %2 MiB
+
+Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ola bilər.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu instansı(instance) başlatmaq üçün kifayət qədər RAM yoxdur</translation>
     </message>
 </context>
 <context>
@@ -2181,7 +2188,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu instansı(instance) başlatmaq mümkün deyil, çünki bəzi kitabxanalar çatışmır və ya hələ yüklənməyib. Zəhmət olmasa, işlək internet bağlantısı ilə onlayn rejimdə yenidən cəhd edin</translation>
     </message>
 </context>
 <context>
@@ -2240,7 +2247,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstansı(instance) ixrac et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
@@ -2255,7 +2262,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="137"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ixrac et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
@@ -2266,12 +2273,12 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <source>Unable to export instance</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstansı(instance) ixrac etmək mümkün deyil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Dayandır</translation>
     </message>
 </context>
 <context>
@@ -2487,7 +2494,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu, modların meta-məlumatlarından asılıdır. Bunun əlçatan olduğundan əmin olmaq üçün instansda(instance) yeniləməni işə salın. Yeniləmələri quraşdırmaq vacib deyil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
@@ -2881,11 +2888,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>FML kitabxanaları instansa(instance) kopyalanır...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans(instance) daxilində FML kitabxana qovluğu yaradıla bilmədi.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
@@ -2937,12 +2944,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Aşağıdakı fayllar üçüncü tərəf başladıcılarında (launcher) endirmək üçün mövcud deyil.&lt;br&gt;Onları əl ilə endirməli və instansa əlavə etməli olacaqsınız.</translation>
+        <translation>Aşağıdakı fayllar üçüncü tərəf başladıcılarında (launcher) endirmək üçün mövcud deyil.&lt;br/&gt;Onları əl ilə endirməli və instansa(instance) əlavə etməli olacaqsınız.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans(instance) yaradılır...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
@@ -2988,7 +2995,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qeyd: Bir çox yeni FTB mod-paketləri CurseForge-da da mövcuddur! Həmçinin, əgər FTB instanslarınız(instances) standart məkanda deyilsə, axtarışın yanındakı düymədən istifadə edərək məkannı seçin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -2999,7 +3006,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>FTBApp instansları(instances) qovluğunu seçin</translation>
     </message>
 </context>
 <context>
@@ -3169,7 +3176,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="541"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Aşağıdakı fayllar üçüncü tərəf başladıcılarında (launcher) endirmək üçün mövcud deyil.&lt;br&gt;Onları əl ilə endirməli və instansa əlavə etməli olacaqsınız.</translation>
+        <translation>Aşağıdakı fayllar üçüncü tərəf başladıcılarında (launcher) endirmək üçün mövcud deyil.&lt;br/&gt;Onları əl ilə endirməli və instansa(instance) əlavə etməli olacaqsınız.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="563"/>
@@ -3202,7 +3209,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="394"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Salam!&lt;/h1&gt;&lt;h4&gt;Görünür ki, Pack ID-null-dır. Bu, launcher-in köhnə versiyalarındakı bir səhvdən qaynaqlanır.&lt;br/&gt;Təəssüf ki, bu məlumat olmadan düzgün API sorğularını yerinə yetirə bilmirik.&lt;br/&gt;&lt;br/&gt;Bu funksiyanın işləməsi üçün modpack-i daxili yükləyicidən yenidən yükləməlisiniz.&lt;br/&gt;&lt;br/&gt;Amma narahat olmayın, sistem sizdən bu instansı(instance) yeniləməyinizi istəyəcək, beləliklə instansı itirməyəcəksiniz!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="434"/>
@@ -3561,7 +3568,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- Prism Launcher, PolyMC və ya MultiMC ixrac edilmiş instanslar(intances) (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -3623,17 +3630,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>İdxal üçün instans(instance) seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu resurs(resource) paketini idxal etmək istədiyiniz instansı(instance) seçin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu %1-i idxal etmək istədiyiniz instansı(instance) seçin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -3747,7 +3754,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Copying instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 instansı(instance) kopyalanır</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
@@ -4305,7 +4312,9 @@ Are you sure?</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Siz Java-nın 32-bitlik versiyasını seçdiniz. Bu quraşdırma 2048 MiB-dan çox RAM-ı dəstəkləmir. Zəhmət olmasa, maksimum yaddaş dəyərinin daha aşağı olduğundan əmin olun.</translation>
+        <translation>Siz Java-nın 32-bitlik versiyasını seçdiniz.
+Bu quraşdırma 2048 MiB-dan çox RAM-ı dəstəkləmir.
+Zəhmət olmasa, maksimum yaddaş dəyərinin daha aşağı olduğundan əmin olun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="297"/>
@@ -4358,7 +4367,6 @@ Do you wish to proceed?
 You can change the Java version in the settings later.
 </source>
         <translation>Siz Java-nın 32-bitlik versiyasını seçmisiniz, lakin maksimum yaddaş olaraq 2048 MiB-dan çox həcm ayırmısınız.
-
 %1 Minecraft-ı başlada bilməyəcək.
 Davam etmək istəyirsiniz?
 
@@ -4379,7 +4387,6 @@ Do you wish to proceed without a functional version of Java?
 You can change the Java version in the settings later.
 </source>
         <translation>Siz ya Java versiyasını seçməmisiniz, ya da işləməyən bir versiya seçmisiniz.
-
 %1 Minecraft-ı başlada bilməyəcək.
 Funksional Java versiyası olmadan davam etmək istəyirsiniz?
 
@@ -4454,7 +4461,7 @@ Java versiyasını daha sonra tənzimləmələrdən dəyişə bilərsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Maksimum yaddaş ayrılması minimum dəyərdən kiçikdir.</translation>
+        <translation>Maksimum yaddaş ayrılması minimum dəyərdən kiçikdir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="524"/>
@@ -4475,7 +4482,7 @@ Java versiyasını daha sonra tənzimləmələrdən dəyişə bilərsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="63"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Öz dilinizi görmürsünüz və ya tərcümə keyfiyyəti zəifdir? &lt;a href=&quot;%1&quot;&gt;Tərcümədə bizə kömək edin!&lt;/a&gt;</translation>
+        <translation>Öz dilinizi görmürsünüz və ya tərcümə keyfiyyəti zəifdir?&lt;br/&gt; &lt;a href=&quot;%1&quot;&gt;Tərcümədə bizə kömək edin!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
@@ -4607,7 +4614,7 @@ Demo oynamaq istəyirsiniz?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
         <location filename="src/launcher/LaunchController.cpp" line="372"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>İnstansiya profili yüklənə bilmədi.</translation>
+        <translation>İnstans(instance) profili yüklənə bilmədi.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="378"/>
@@ -4630,6 +4637,7 @@ Demo oynamaq istəyirsiniz?</translation>
 
 %1</source>
         <translation>Oyunun başladılması siz düyməni sıxana qədər təxirə salındı. Profayler serveri artıq işlədiyi üçün, bu, profayleri quraşdırmaq üçün doğru zamandır.
+
 %1</translation>
     </message>
     <message>
@@ -7113,7 +7121,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="748"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>\&lt;html\&gt;\&lt;head/\&gt;\&lt;body\&gt;\&lt;p\&gt;Oyun məhsuldarlığını potensial olaraq artırmaq üçün Feral Interactive-in GameMode rejimini aktivləşdirin.\&lt;/p\&gt;\&lt;/body\&gt;\&lt;/html\&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Oyun məhsuldarlığını potensial olaraq artırmaq üçün Feral Interactive-in GameMode rejimini aktivləşdirin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="751"/>
@@ -7123,7 +7131,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>\&lt;html\&gt;\&lt;head/\&gt;\&lt;body\&gt;\&lt;p\&gt;MangoHud-un təkmil məhsuldarlıq panelini aktivləşdirin.\&lt;/p\&gt;\&lt;/body\&gt;\&lt;/html\&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHud-un təkmil məhsuldarlıq panelini aktivləşdirin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="761"/>
@@ -7133,7 +7141,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="768"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>\&lt;html\&gt;\&lt;head/\&gt;\&lt;body\&gt;\&lt;p\&gt;Əsas GPU əvəzinə diskret GPU-dan istifadə edin.\&lt;/p\&gt;\&lt;/body\&gt;\&lt;/html\&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Əsas GPU əvəzinə diskret GPU-dan istifadə edin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="771"/>
@@ -7183,7 +7191,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="74"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation>\&lt;span style=&quot; font-weight:600; color:\#f5c211;&quot;\&gt;Xəbərdarlıq\&lt;/span\&gt;\&lt;span style=&quot; color:\#f5c211;&quot;\&gt;: Maksimallaşdırılmış pəncərə seçimi bu Minecraft versiyasında tam dəstəklənmir.\&lt;/span\&gt;</translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Xəbərdarlıq&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Maksimallaşdırılmış pəncərə seçimi bu Minecraft versiyasında tam dəstəklənmir.&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="136"/>
@@ -7630,7 +7638,7 @@ Onlara məhəl qoymamaq oyunu poza bilər.</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="80"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>Seçilmiş bütün modları (seçim yoxdursa, hamısını) yoxla və ya yenilə.</translation>
+        <translation>Seçilmiş bütün modları (seçim yoxdursa, hamısını) yoxla və ya yenilə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="108"/>
@@ -8152,7 +8160,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
         <comment>seconds</comment>
         <translation>
             <numerusform>Sorğu tezliyi %n saniyəlik məhdudlaşdırıldı: %1 sonra təkrar cəhd edin</numerusform>
-            <numerusform>Sorğu tezliyi %n saniyəlik məhdudlaşdırıldı: %1 sonra təkrar cəhd edin</numerusform>
+            <numerusform>Sorğu tezliyi %n saniyə məhdudlaşdırıldı: %1 sonra təkrar cəhd edin</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -8160,7 +8168,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>Tezlik məhdudlaşdırıldı: %n saniyə gözlənilir</numerusform>
+            <numerusform>Tezlik məhdudlaşdırıldı: %n saniyəlik gözlənilir</numerusform>
             <numerusform>Tezlik məhdudlaşdırıldı: %n saniyə gözlənilir</numerusform>
         </translation>
     </message>
@@ -12291,7 +12299,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="128"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="208"/>
         <source>Abort</source>
-        <translation>Ləğv et</translation>
+        <translation>Dayandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
@@ -13254,6 +13262,7 @@ The world may be gone forever (A LONG TIME).
 Are you sure?</source>
         <translation>%1 i silməyi təsdiq edirsiniz .
 Dünya sonsuza qədər gedəcək.
+
 Əminsiniz ?</translation>
     </message>
     <message>
