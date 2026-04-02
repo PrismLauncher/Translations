@@ -105,7 +105,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar el uso de Modrinth como alternativa para los mods bloqueados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -2303,7 +2303,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>No reconocido</translation>
     </message>
 </context>
 <context>
@@ -2542,7 +2542,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="35"/>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay suficiente memoria RAM</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2552,12 +2552,17 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay suficiente RAM disponible para iniciar esta instancia con la configuración de memoria actual.
+
+Requerido: %1 MiB
+Disponible: %2 MiB
+
+¿Quieres continuar de todos modos? Esto podría provocar ralentizaciones en el juego y en tu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay suficiente memoria RAM disponible para iniciar esta instancia</translation>
     </message>
 </context>
 <context>
@@ -4378,7 +4383,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido abrir el archivo %1 para su lectura: %2</translation>
     </message>
 </context>
 <context>
@@ -5365,7 +5370,7 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -6309,7 +6314,7 @@ Necesitas comprar el juego primero para jugarlo.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha producido un error al actualizar «%1»</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
@@ -6546,12 +6551,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga &amp;automática de Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta en la que Prism Launcher almacena las versiones de Java descargadas automáticamente. NO la configures con la instalación de Java de tu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
@@ -8829,7 +8834,7 @@ Por favor, añade una cuenta Microsoft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation>Un error ha ocurrido mientras %1 era añadido a PATH</translation>
+        <translation>Se ha producido un error al intentar añadir %1 a la variable PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
@@ -11798,47 +11803,47 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="14"/>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de red</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="29"/>
         <source>A network operation has failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha producido un error en la red: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="65"/>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
         <source>What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Qué te gustaría hacer?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="34"/>
         <source>All %1 requests have failed after %2 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas las solicitudes %1 han fallado tras %2 intentos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="37"/>
         <source>Out of %1 requests, %2 have failed after %3 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>De un total de %1 solicitudes, %2 han fallado tras %3 intentos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="40"/>
         <source>Out of %1 requests, only %2 succeeded after %3 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>De las %1 solicitudes, solo %2 se completaron con éxito tras %3 intentos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar URL</translation>
     </message>
 </context>
 <context>
@@ -12641,7 +12646,12 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>El actualizador no ha podido crear el archivo de registro: %1.
+
+Asegúrate de que tienes permisos de escritura en la carpeta de datos.
+(%2)
+
+El actualizador no podrá continuar hasta que solucione este problema.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -14171,7 +14181,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido crear el icono de la aplicación: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
@@ -14187,7 +14197,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido crear el icono del acceso directo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
@@ -16443,7 +16453,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir «version.json»: %1</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
@@ -17034,7 +17044,8 @@ Es posible que la instancia no se inicie debido a esto.</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>La versión principal de Java es incompatible. Es posible que se produzcan errores.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
