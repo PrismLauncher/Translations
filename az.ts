@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished">Varlıqlar Serveri</translation>
+        <translation>Assetler Serveri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
@@ -552,7 +552,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekst menyusu</translation>
+        <translation>Kontekst menyusu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
@@ -1636,12 +1636,12 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished">Ləğv et</translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
 </context>
 <context>
@@ -1680,7 +1680,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished">Ad</translation>
+        <translation>Ad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
@@ -1844,7 +1844,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation type="unfinished">Yenilə</translation>
+        <translation>Yenilə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
@@ -1899,7 +1899,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1 üçün hazırda heç bir versiya mövcud deyil</translation>
+        <translation>Minecraft %1 üçün hazırda heç bir versiya mövcud deyil</translation>
     </message>
 </context>
 <context>
@@ -1921,7 +1921,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Ləğv edildi</translation>
+        <translation>Ləğv edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -3759,12 +3759,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
         <source>Instance folder copy failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans(instance) qovluğunun kopyalanması uğursuz oldu.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>İnstans(instance) qovluğunun kopyalanması ləğv edildi.</translation>
     </message>
 </context>
 <context>
@@ -3773,17 +3773,18 @@ Please try again.</source>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="47"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni instans(instance) yaradılarkən xəta baş verdi:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="49"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni instans(instance) yaradılarkən xəta baş verdi.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="62"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Köhnə ziddiyyətli fayllar silinir...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="78"/>
@@ -4663,7 +4664,7 @@ Demo oynamaq istəyirsiniz?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="174"/>
         <location filename="src/launcher/LaunchController.cpp" line="474"/>
         <source>Abort</source>
-        <translation>Ləğv et</translation>
+        <translation>Dayandır</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
