@@ -11749,22 +11749,22 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="34"/>
         <source>All %1 requests have failed after %2 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm %1 istekleri %2 denemeden sonra başarısız oldu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="37"/>
         <source>Out of %1 requests, %2 have failed after %3 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 isteğin %2’si, %3 denemeye rağmen başarısız oldu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="40"/>
         <source>Out of %1 requests, only %2 succeeded after %3 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 isteğin yalnızca %2’si, %3 denemeye rağmen başarıyla sonuçlandı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL&apos;yi kopyala</translation>
     </message>
 </context>
 <context>
@@ -12547,7 +12547,12 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncelleyici bir günlük (log) dosyası oluşturamadı - %1.
+
+Veri klasörüne yazma izniniz olduğundan emin olun.
+(%2)
+
+Bu sorunu çözene kadar güncelleyici devam edemez.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -14075,7 +14080,7 @@ Devam etmek istiyor musunuz?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygulama için simge oluşturulamadı: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
@@ -14091,7 +14096,7 @@ Devam etmek istiyor musunuz?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kısayol için simge oluşturulamadı: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
@@ -16347,7 +16352,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;version.json&quot; açılamadı: %1</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
