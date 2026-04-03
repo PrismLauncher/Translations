@@ -10527,7 +10527,7 @@ Ha figyelmen kívül hagyod őket, az megzavarhatja a játék működését.</tr
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>Az mod legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
+        <translation>A mod legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
