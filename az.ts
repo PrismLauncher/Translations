@@ -5170,30 +5170,30 @@ Flatseal vasitəsilə %1-ə həmin qovluğa giriş icazəsi verməyiniz tövsiy�
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="76"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Başladıcı(laucher) kitabxanası tapılmadı. Zəhmət olmasa, quraşdırmanı yoxlayın.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Köhnə (Legacy) başladıcı kitabxanası tapılmadı. Zəhmət olmasa, quraşdırmanı yoxlayın.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; wrapper əmri tapılmadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft başladılmadı!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun çökdü.</translation>
     </message>
 </context>
 <context>
@@ -5201,12 +5201,12 @@ Flatseal vasitəsilə %1-ə həmin qovluğa giriş icazəsi verməyiniz tövsiy�
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">FML kitabxanaları yoxlanılır...</translation>
+        <translation>FML kitabxanaları yoxlanılır...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">FML kitabxanaları yüklənir...</translation>
+        <translation>FML kitabxanaları yüklənir...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
@@ -5221,7 +5221,7 @@ Flatseal vasitəsilə %1-ə həmin qovluğa giriş icazəsi verməyiniz tövsiy�
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Forge/FML kitabxanasının kopyalanması uğursuz oldu: %1.</translation>
+        <translation>Forge/FML kitabxanasının kopyalanması uğursuz oldu: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -5230,7 +5230,7 @@ Flatseal vasitəsilə %1-ə həmin qovluğa giriş icazəsi verməyiniz tövsiy�
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Aşağıdakı faylların yüklənməsi uğursuz oldu:
+        <translation>Aşağıdakı faylların yüklənməsi uğursuz oldu:
 %1
 
 Səbəb:%2
@@ -5243,13 +5243,13 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ada görə sırala</translation>
+        <translation>Ada görə sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="60"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Oyun versiyasına görə sırala</translation>
+        <translation>Oyun versiyasına görə sırala</translation>
     </message>
 </context>
 <context>
@@ -5257,17 +5257,17 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="135"/>
         <source>Public Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>İctimai(public) Modpaketi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="137"/>
         <source>Third Party Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Üçüncü tərəf modpaketi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="139"/>
         <source>Private Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Özəl(private) modpaketi</translation>
     </message>
 </context>
 <context>
@@ -5275,17 +5275,17 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
         <source>Public Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>İctimai(public) paketlər</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
         <source>Third Party Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Üçüncü tərəf paketləri</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="127"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bəzi paket siyahılarını yükləmək mümkün olmadı: %1</translation>
     </message>
 </context>
 <context>
@@ -5293,28 +5293,28 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"/>
         <source>Downloading zip for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 üçün zip faylı yüklənir</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Mod-paketi çıxarılır</translation>
+        <translation>Mod-paketi çıxarılır</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">modpack yüklənir</translation>
+        <translation>modpaketi yüklənir</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Arxivdən çıxarılmış Minecraft köçürülə bilmədi!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
         <source>No installation method found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Quraşdırma üsulu tapılmadı!</translation>
     </message>
 </context>
 <context>
@@ -5322,83 +5322,84 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Axtar və filtrlə...</translation>
+        <translation>Axtar və filtrlə...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
         <source>Public</source>
-        <translation type="unfinished"></translation>
+        <translation>İctimai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="65"/>
         <source>3rd Party</source>
-        <translation type="unfinished"></translation>
+        <translation>Üçüncü tərəf</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="95"/>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Özəl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="117"/>
         <source>Add pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Paket əlavə et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="124"/>
         <source>Remove selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş paketi sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="154"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Seçilmiş versiya:</translation>
+        <translation>Seçilmiş versiya:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="209"/>
         <source>Error</source>
-        <translation type="unfinished">Xəta</translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="214"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapşırıq dayandırıldı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="214"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapşırıq istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>FTB private packs</source>
-        <translation type="unfinished"></translation>
+        <translation>FTB özəl paketləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="225"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kodu üçün paket məlumatlarını yükləmək mümkün olmadı.
+İndi silinsin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="350"/>
         <source>Add FTB pack</source>
-        <translation type="unfinished"></translation>
+        <translation>FTB paketi əlavə et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="350"/>
         <source>Enter pack code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paket kodunu daxil edin:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="365"/>
         <source>Remove pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketi sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="365"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 paketini silmək istədiyinizdən əminsiniz?</translation>
     </message>
 </context>
 <context>
@@ -5407,7 +5408,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tələb olunan kitabxana faylları yüklənir...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -5417,7 +5418,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadatada boş (null) jar faylı qeyd edilib, proses dayandırılır.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -5426,18 +5427,24 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bəzi &apos;lokal&apos; olaraq qeyd edilmiş artefaktların faylları çatışmır:
+%1
+
+Siz ya faylları əlavə etməli, ya da onları tələb edən paketləri silməlisiniz.
+Bu problemi əllə (manual olaraq) düzəltməli olacaqsınız.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Ləğv edildi</translation>
+        <translation>Dayandırıldı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyunun yenilənməsi uğursuz oldu: tələb olunan kitabxanaları əldə etmək mümkün olmadı.
+Səbəb: 
+%1</translation>
     </message>
 </context>
 <context>
@@ -5446,12 +5453,13 @@ Reason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="51"/>
         <source>Updating index for resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurs(resource) üçün indeks yenilənir:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="66"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Yanlış metadata</translation>
     </message>
 </context>
 <context>
@@ -5459,73 +5467,73 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="47"/>
         <source>Keep updating</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeniləməyə davam edilir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="57"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Wrap Sətirləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Sətirləri rəngləndir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Bütün logu mübadilə buferinə (clipboard) kopyalayın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopyala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="100"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Logu tənzimləmələrdə qeyd olunan &quot;paste&quot; xidmətinə yükləyin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Göndər(upload)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="110"/>
         <source>Clear the log</source>
-        <translation type="unfinished"></translation>
+        <translation>Logu təmizlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Təmizlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished">Axtar</translation>
+        <translation>Axtar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Tap</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="141"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Sona qədər aşağı sürüşdür</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="144"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="246"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="68"/>
         <source>Minecraft Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft logu</translation>
     </message>
 </context>
 <context>
@@ -5534,29 +5542,29 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="96"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Proses %1 kodu ilə başa çatdı.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="101"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Proses çökdü.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Proses %1 çıxış kodu ilə çökdü.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="108"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Proses istifadəçi tərəfindən dayandırıldı (öldürüldü).</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosesi başlatmaq mümkün olmadı.</translation>
     </message>
 </context>
 <context>
@@ -5564,22 +5572,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Microsoft hesabı əlavə et&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft oynamaq üçün ən azı bir Microsoft hesabı ilə daxil olmalısınız. İndi daxil olmaq istəyirsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft hesabı əlavə et</translation>
     </message>
 </context>
 <context>
@@ -5587,17 +5595,17 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="37"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Qovluq mövcud deyil</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylı yaratmaq mümkün olmadı</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Əlavə etmək mümkün olmadı:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -8486,7 +8494,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Wrap Sətirləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
@@ -12062,7 +12070,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapşırıq dayandırıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="41"/>
