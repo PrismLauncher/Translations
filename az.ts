@@ -3088,12 +3088,12 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="99"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Bu resurs üçün uyğun versiya tapılmadı. Çox ehtimal ki, hazırkı oyun versiyası və ya mod yükləyicisi üçün mövcud deyil.</translation>
+        <translation>Bu resurs üçün uyğun versiya tapılmadı. Çox ehtimal ki, hazırkı oyun versiyası və ya mod yükləyicisi üçün mövcud deyil.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="102"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Uyğun versiya tapılmadı. Ola bilsin ki, cari oyun versiyası üçün əlçatmazdır.</translation>
+        <translation>Uyğun versiya tapılmadı. Ola bilsin ki, cari oyun versiyası üçün əlçatmazdır.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="179"/>
