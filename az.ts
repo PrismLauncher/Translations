@@ -10441,12 +10441,12 @@ Bu dialoqu bağlamaq istədiyinizə əminsiniz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="175"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Asılılıqlar yoxlanılır...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="395"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">%1 versiyasını dəyişin</translation>
+        <translation>%1 versiyasını dəyişin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
