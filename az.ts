@@ -649,7 +649,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation>Mövzu:</translation>
+        <translation>Tema:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
