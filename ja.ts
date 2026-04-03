@@ -11231,7 +11231,7 @@ Please update %1!</source>
         <translation>%3 回試行しましたが、 %1 のうち、 %2 のみが成功しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
         <translation>URLをコピー</translation>
     </message>

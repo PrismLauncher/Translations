@@ -11288,7 +11288,7 @@ Por favor atualiza %1!</translation>
         <translation>De %1 pedidos, apenas %2 sucederam após %3 tentativas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
         <translation>Copiar URL</translation>
     </message>

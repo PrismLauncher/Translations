@@ -10714,7 +10714,7 @@ Prosím aktualizujte %1!</translation>
         <translation type="unfinished">Z %1 požiadaviek bolo úspešných %2 po %3 pokusoch</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
         <translation type="unfinished">Skopírovať URL</translation>
     </message>

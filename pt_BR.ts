@@ -11886,7 +11886,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <translation>Além de %1 pedido, apenas %2 foram concluídos antes de %3 tentativas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
         <translation>Copiar URL</translation>
     </message>

@@ -10815,7 +10815,7 @@ Please update %1!</translation>
         <translation>Out of %1 requests, only %2 succeeded after %3 attempts</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
         <translation>Copy URL</translation>
     </message>

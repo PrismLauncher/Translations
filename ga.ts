@@ -9698,7 +9698,7 @@ Nuashonraigh %1 le do thoil!</translation>
         <translation>As %1 iarratas, níor éirigh ach le %2 tar éis %3 iarracht</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
         <translation>Cóipeáil URL</translation>
     </message>

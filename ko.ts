@@ -11719,7 +11719,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>총 %1건의 요청 중 %3번의 시도 끝에 %2건만 성공</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
         <translation>URL 복사</translation>
     </message>

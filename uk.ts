@@ -11643,7 +11643,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Із %1 запитів лише %2 були успішними після %3 спроб</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
         <translation>Копіювати URL</translation>
     </message>

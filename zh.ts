@@ -11840,7 +11840,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>经过 %3 次尝试，%1 项请求中只有 %2 项请求成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
         <translation>复制 URL</translation>
     </message>

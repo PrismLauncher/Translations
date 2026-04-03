@@ -11185,7 +11185,7 @@ Mohon perbarui %1!</translation>
         <translation>Dari %1 permintaan, hanya %2 berhasil setelah %3 percobaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
         <translation>Salin tautan</translation>
     </message>

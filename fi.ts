@@ -10964,7 +10964,7 @@ Päivitä %1!</translation>
         <translation>%1:sta pyynnöstä, vain %2 onnistui %3 yrityksen jälkeen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
         <translation>Kopioi URL</translation>
     </message>
