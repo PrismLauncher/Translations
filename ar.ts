@@ -346,7 +346,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;مشغّل مخصّص يجعل إدارة ماين كرافت أسهل بسماحك امتلاك نماذج متعدّدة لماين كرافت في آن واحد&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;مشغل مخصص يجعل إدارة ماين كرافت أسهل عبر السماح لك بامتلاك نسخ متعددة من ماين كرافت في وقت واحد.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -1445,7 +1445,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; إذا وجد النموذج سوف يتم البحث في المجلد المضبوط لكافة الإضافات و مجلد التنزيلات الافتراضي لنسخ الإضافات منهم. &lt;/p&gt;&lt;p&gt; اختياريًا, يمكنك سحب و وضع الإضافات المنزلة في هذه القائمة أو قم بإضافة مجلد إذا لم تضيف الإضافات في مكان التنزيل الافتراضي. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; أنقر &apos;أرني المفقودات&apos; لتفتح كل روابط التنزيل في المتصفح. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;يتم فحص مجلد المودات العام ومجلد التحميلات الافتراضي تلقائياً بحثاً عن المودات المحملة، وسيتم نسخها إلى النسخة في حال العثور عليها.&lt;/p&gt;&lt;p&gt;اختيارياً، يمكنك سحب وإفلات المودات المحملة داخل هذه النافذة، أو إضافة مجلد لمراقبته إذا لم تقم بتحميل المودات في الموقع الافتراضي.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;انقر على &apos;فتح الروابط الناقصة&apos; لفتح جميع روابط التحميل في المتصفح.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -2066,7 +2066,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;أوامر قبل التشغيل يتم تنفيذها قبل تشغيل البرنامج و أوامر بعد الإغلاق تعمل بعد الإغلاق&lt;/p&gt;&lt;p&gt;كلاهما ستعمل في مجلد عمل المشغل مع متغيرات بيئة إضافية:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - إسم الحالة&lt;/li&gt;&lt;li&gt;$INST_ID - ID الخاص بالحالة (هو اسم المجلد)&lt;/li&gt;&lt;li&gt;$INST_DIR -المسار المطلق للحالة&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - المسار الحتمي لماين كرافت&lt;/li&gt;&lt;li&gt;$INST_JAVA -جافا باينيري المستخدمة ل launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - تعليمات سطر الأوامر المستخدمة للتشغيل (تحذير: لن يعمل بشكل صحيح إذا كانت الوسائط تحتوي على مسافات)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;يسمح أمر Wrapper بالتشغيل باستخدام برنامج غلاف إضافي (مثل &quot;optirun&quot; على لينكس)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;يتم تشغيل &quot;أمر ما قبل الإطلاق&quot; قبل بدء النسخة، بينما يتم تشغيل &quot;أمر ما بعد الخروج&quot; بعد إغلاقها.&lt;/p&gt;&lt;p&gt;سيتم تشغيل كلاهما في مجلد العمل الخاص بالمشغل مع توفر متغيرات بيئة إضافية:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - اسم النسخة&lt;/li&gt;&lt;li&gt;$INST_ID - معرف النسخة (اسم المجلد الخاص بها)&lt;/li&gt;&lt;li&gt;$INST_DIR - المسار الكامل لمجلد النسخة&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - المسار الكامل لماين كرافت&lt;/li&gt;&lt;li&gt;$INST_JAVA - ملف الجافا التنفيذي المستخدم للإطلاق&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - معاملات سطر الأوامر المستخدمة للإطلاق (تنبيه: لن يعمل بشكل صحيح إذا كانت المعاملات تحتوي على مسافات)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;يسمح &quot;أمر الغلاف&quot; بالإطلاق باستخدام برنامج غلاف إضافي (مثل &apos;optirun&apos; على نظام لينكس)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2455,12 +2455,17 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا تتوفر ذاكرة رام (RAM) كافية لتشغيل هذه النسخة بإعدادات الذاكرة الحالية.
+
+المطلوب: %1 ميجابايت
+المتوفر: %2 ميجابايت
+
+هل تريد الاستمرار على أي حال؟ قد يؤدي ذلك إلى بطء في اللعبة وفي نظامك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد ذاكرة رام (RAM) كافية لتشغيل هذه النسخة</translation>
     </message>
 </context>
 <context>
@@ -3400,7 +3405,8 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في قراءة ملف تعريف الحزمة:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
@@ -3410,7 +3416,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف تعريف غير صالح: لا توجد معلومات كافية لتنزيل الملف &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
@@ -3420,12 +3426,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النموذج.</translation>
+        <translation>الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النموذج.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>جاري انشاء النسخة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
@@ -3440,12 +3446,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">جار نسخ الإضافات المحظورة...</translation>
+        <translation>جار نسخ الإضافات المحظورة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="375"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">جار نسخ الإضافات المحظورة(تم تحميل %1 من %2)</translation>
+        <translation>جار نسخ الإضافات المحظورة(تم تحميل %1 من %2)</translation>
     </message>
 </context>
 <context>
@@ -3735,7 +3741,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="394"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;أهلاً هنا&lt;/h1&gt;&lt;h4&gt;يبدو أنّ معرف الحزمة خالي. وهذا بسبب خلل في النسخ الأقدم من المشغل &lt;br/&gt;لسوء الحظ لا يمكننا إرسال طلبات واجهة تطبيق سليمة بدون هذه المعلومات&lt;br/&gt;&lt;br/&gt;لكي تعمل هذه الميز يجب عليك أن تنزل حزمة الإضافات من المنزل المدمج &lt;br/&gt;&lt;br/&gt;لا تقلق, سيطلب منك تحديث هذا النموذج لكي لا تخسره&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;أهلاً بك!&lt;/h1&gt;&lt;h4&gt;يبدو أن &quot;مُعرّف الحزمة&quot; فارغ. يعود هذا لخطأ برمجي في إصدارات قديمة من المشغل.&lt;br/&gt;للأسف، لا يمكننا إرسال طلبات البرمجة الصحيحة بدون هذه المعلومات.&lt;br/&gt;&lt;br/&gt;لذا، لكي تعمل هذه الميزة، ستحتاج إلى إعادة تحميل حزمة المودات من خلال أداة التحميل المدمجة.&lt;br/&gt;&lt;br/&gt;لكن لا تقلق، سيطلب منك البرنامج تحديث هذه النسخة بدلاً من ذلك، لذا لن تفقد ملفات هذه النسخة!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="434"/>
@@ -3940,19 +3946,19 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">فرز بحسب مرات اللعب</translation>
+        <translation>فرز بحسب مرات التشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">فرز بحسب التثبيتات</translation>
+        <translation>فرز بحسب عدد مرات التثبيت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">فرز بحسب الاسم</translation>
+        <translation>فرز بحسب الاسم</translation>
     </message>
 </context>
 <context>
@@ -3966,12 +3972,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">بحث وفرز...</translation>
+        <translation>بحث وفرز...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظة: العديد من حزم مودات FTB الحديثة متوفرة أيضاً على CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4158,7 +4164,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر فتح الملف %1 للقراءة: %2</translation>
     </message>
 </context>
 <context>
@@ -4440,12 +4446,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="85"/>
         <source>Skip</source>
-        <translation type="unfinished">تخطي</translation>
+        <translation>تخطي</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="102"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر تحميل ملفات اللعبة: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="106"/>
@@ -5066,7 +5072,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>بيئة تشغيل IBM Semeru المفتوحة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -5968,7 +5974,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ أثناء تحديث &apos;%1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
@@ -6636,22 +6642,22 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">جار التحقق من مكتبات FML...</translation>
+        <translation>جار التحقق من مكتبات FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">جار تنزيل مكتبات FML...</translation>
+        <translation>جار تنزيل مكتبات FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">جار نسخ مكتبات FML إلى النموذج...</translation>
+        <translation>جار نسخ مكتبات FML إلى النسخة...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">فشل في إنشاء مجلد لمكتبة FML داخل النموذج.</translation>
+        <translation>فشل في إنشاء مجلد لمكتبة FML داخل النسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
@@ -8877,7 +8883,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="635"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;.يحاكي استخدام الخدمات القديمة التي توقفت عن العمل &lt;/p&gt;&lt;p&gt;تتضمن الإصلاحات الحالية: دعم المظاهر و الوضع المتصل بالشبكة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;يقوم بمحاكاة استخدام الخدمات القديمة عبر الإنترنت التي لم تعد تعمل حالياً.&lt;/p&gt;&lt;p&gt;الإصلاحات الحالية تشمل: دعم المظاهر (Skins) ووضع اللعب المتصل (Online mode).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="638"/>
@@ -9019,27 +9025,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
         <source>Babric</source>
-        <translation type="unfinished">بابريك</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">بي تي أي(بابريك)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">فابريك تراثي</translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Ornithe</source>
-        <translation type="unfinished">أورنيث</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
         <source>Rift</source>
-        <translation type="unfinished">ريفت</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
@@ -9556,7 +9562,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Confirm disable</source>
-        <translation type="unfinished">تأكيد التعطيل</translation>
+        <translation>‏تأكيد التعطيل</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
@@ -10484,12 +10490,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="65"/>
         <source>URL</source>
-        <translation type="unfinished">موقع الإلكتروني</translation>
+        <translation>رابط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
         <source>Error</source>
-        <translation type="unfinished">خطأ</translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
@@ -10928,7 +10934,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
         <source>Clear</source>
-        <translation type="unfinished">مسح</translation>
+        <translation>مسح</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -12205,7 +12211,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation>هناك برمجيات للجافا لم تعمل. &lt;br /&gt; يجب عليك اختيار &quot;كشف&quot;، أو قم بتحديد مسار تطبيق الجافا. &lt;br /&gt;</translation>
+        <translation>ملف الجافا التنفيذي المحدد لا يعمل.&lt;br /&gt;يجب عليك الضغط على &apos;كشف&apos;، أو تحديد المسار الصحيح لملف الجافا.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -12559,7 +12565,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation>جذر النموذج الجديد (%1) موجود بالفعل. &lt;br /&gt; سنقوم فقط بإعادة تسمية الميتا-داتا.</translation>
+        <translation>مجلد النسخة الجديد (%1) موجود بالفعل. &lt;br /&gt;سيتم تغيير اسم البيانات الوصفية (Metadata) فقط.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
@@ -12590,7 +12596,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>حدث خطأ عند محاولة إعادة التسمية: &lt;br/&gt; - جذر النموذج القديم: %1&lt;br/&gt; - جذر النموذج الجديد: %2&lt;br/&gt; تمت إعادة تسمية بيانات التعريف فقط.</translation>
+        <translation>حدث خطأ أثناء تنفيذ عملية إعادة التسمية التالية:&lt;br/&gt; - مجلد النسخة القديم: %1&lt;br/&gt; - مجلد النسخة الجديد: %2&lt;br/&gt;تم تغيير اسم البيانات الوصفية (Metadata) فقط.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
@@ -12695,7 +12701,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished">إنشاء اختصار</translation>
+        <translation>إنشاء اختصار</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
@@ -12777,12 +12783,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="111"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">خطأ في الشبكة: %1</translation>
+        <translation>خطأ في الشبكة: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="116"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished">خطأ: أعاد %1 رمز حالة غير متوقع %2 %3</translation>
+        <translation>خطأ: أعاد %1 رمز حالة غير متوقع %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
@@ -12794,7 +12800,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/net/PasteUpload.cpp" line="167"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">خطأ: أعاد %1 جسم رد مشوه</translation>
+        <translation>أرجع %1 محتوى استجابة غير صالح</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
@@ -12804,7 +12810,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">خطأ: قد أعاد %1 خطأ: %2</translation>
+        <translation>خطأ: قد أعاد %1 خطأ: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
@@ -12815,7 +12821,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">خطأ: قد أعاد %1 خطأ: %2
+        <translation>خطأ: قد أعاد %1 خطأ: %2
 رسالة الخطأ: %3</translation>
     </message>
     <message>
@@ -12827,7 +12833,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation type="unfinished">حزم البيانات</translation>
+        <translation>حزم البيانات</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
@@ -12917,7 +12923,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished">الإضافة</translation>
+        <translation>مود</translation>
     </message>
 </context>
 <context>
