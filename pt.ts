@@ -3268,7 +3268,7 @@ Tens a certeza de que queres fazer isto?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="349"/>
         <source> (%1 installed)</source>
-        <translation> (% 1 instalado)</translation>
+        <translation> (%1 instalado)</translation>
     </message>
 </context>
 <context>
@@ -4443,7 +4443,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="134"/>
         <source>License: %1</source>
-        <translation>Licença: % 1</translation>
+        <translation>Licença: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="141"/>
