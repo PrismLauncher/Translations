@@ -3098,22 +3098,22 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="179"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge-dan &apos;%1&apos; üçün API cavabı təhlil edilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="183"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursun yeni yeniləməsi mövcuddur, lakin CurseForge vasitəsilə endirilə bilmir.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="118"/>
         <source>Not installed</source>
-        <translation type="unfinished">Yüklənilməyib</translation>
+        <translation>Yüklənilməyib</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Unknown</source>
-        <translation type="unfinished">Naməlum</translation>
+        <translation>Naməlum</translation>
     </message>
 </context>
 <context>
@@ -3123,76 +3123,77 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Paket manifesti anlamaq mümkün olmadı:
+        <translation>Paket manifesti anlamaq mümkün olmadı:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="120"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (version %1)</translation>
+        <translation> (version %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>No index file.</source>
-        <translation type="unfinished">İndeks faylı yoxdur.</translation>
+        <translation>İndeks faylı yoxdur.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="241"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Köhnə versiya üçün uyğun indeks faylı tapılmadı. Bu, bəzi faylların dublikatlaşmasına (təkrarlanmasına) səbəb ola bilər. Davam etmək istəyirsiniz?</translation>
+        <translation>Köhnə versiya üçün uyğun indeks faylı tapılmadı. Bu, bəzi faylların dublikatlaşmasına (təkrarlanmasına) səbəb ola bilər. Davam etmək istəyirsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">%1 üçün yerli metadata indeksi əldə oluna bilmədi</translation>
+        <translation>%1 üçün yerli metadata indeksi əldə oluna bilmədi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">%1 yükləyicisi üçün versiya tapılmadı</translation>
+        <translation>%1 yükləyicisi üçün versiya tapılmadı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="303"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Mod paketi üçün yükləyici versiyası seçilməyib!</translation>
+        <translation>Mod paketi üçün yükləyici versiyası seçilməyib!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="339"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Keçid qovluğunun adını dəyişmək mümkün olmadı:
+        <translation>Keçid qovluğunun adını dəyişmək mümkün olmadı:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="344"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished"></translation>
+        <translation>Göstərilən üst-üstə düşmə qovluğu (%1) çatışmır. Ola bilsin ki, modpak artıq əvvəllər istifadə olunub?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifestdə naməlum mod yükləyicisi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paket idxal edilərkən Minecraft versiyasından naməlum nöqtələr silindi.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpakın tövsiyə olunan yaddaşı sisteminizin RAM-nın 10%-dən çoxunu tutur — %1 MiB-dən %2 MiB-ə endirilir!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Mod ID-lərini həll etmək mümkün deyil:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="540"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Bloklanmış modlar tapıldı</translation>
+        <translation>Bloklanmış modlar tapıldı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="541"/>
@@ -3203,27 +3204,27 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="563"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod Endirmə Alovu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="594"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 / %2 tamamlandı</translation>
+        <translation>%1 / %2 tamamlandı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Bloklanmış modlar kopyalanır...</translation>
+        <translation>Bloklanmış modlar kopyalanır...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="622"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Bloklanmış modlar kopyalanır (%2 moddan %1-i tamamlandı)</translation>
+        <translation>Bloklanmış modlar kopyalanır (%2 moddan %1-i tamamlandı)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="599"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Modlar endirilir...</translation>
+        <translation>Modlar endirilir...</translation>
     </message>
 </context>
 <context>
@@ -3236,17 +3237,17 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="434"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Cari)</translation>
+        <translation>%1 (Cari)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="491"/>
         <source>Choose update file</source>
-        <translation type="unfinished">Yeniləmə faylını seçin</translation>
+        <translation>Yeniləmə faylını seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="491"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished">CurseForge paketi</translation>
+        <translation>CurseForge paketi</translation>
     </message>
 </context>
 <context>
@@ -3254,38 +3255,38 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">Fayllar axtarılır...</translation>
+        <translation>Fayllar axtarılır...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="72"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">Fayllar üçün axtarış etmək mümkün olmadı</translation>
+        <translation>Fayllar üçün axtarış etmək mümkün olmadı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Fayl heşləri (hashes) tapılır...</translation>
+        <translation>Fayl heşləri (hashes) tapılır...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="168"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Heşlər (hashes) üçün versiyalar tapılır...</translation>
+        <translation>Heşlər (hashes) üçün versiyalar tapılır...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="219"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="282"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge-dan &apos;%1&apos; üçün API cavabı təhlil edilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge-dan layihə məlumatları axtarılır...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="319"/>
         <source>Adding files...</source>
-        <translation type="unfinished">Fayllar əlavə edilir...</translation>
+        <translation>Fayllar əlavə edilir...</translation>
     </message>
 </context>
 <context>
@@ -3293,96 +3294,96 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="97"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Seçilmiş versiya:</translation>
+        <translation>Seçilmiş versiya:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Qeyd: CurseForge yaradıcılara Prism Launcher kimi üçüncü tərəf alətlərinə girişi bloklamağa icazə verir. Buna görə də, modpakı quraşdıra bilmək üçün bəzi modları əllə endirməli ola bilərsiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished">Filtr seçimləri</translation>
+        <translation>Filtr seçimləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Axtar və filtrlə...</translation>
+        <translation>Axtar və filtrlə...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ön plana çıxanlara görə sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Populyarlığa görə sırala</translation>
+        <translation>Populyarlığa görə sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Son yenilənməyə görə sırala</translation>
+        <translation>Son yenilənməyə görə sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ada görə sırala</translation>
+        <translation>Ada görə sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Müəllifə görə sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished">Ümumi yükləmə sayına görə sırala</translation>
+        <translation>Ümumi yükləmə sayına görə sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="199"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="221"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiya mövcud deyil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="204"/>
         <source>Error</source>
-        <translation type="unfinished">Xəta</translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
         <source> by </source>
-        <translation type="unfinished"> by </translation>
+        <translation> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="293"/>
         <source>External links:</source>
-        <translation type="unfinished">Xarici keçidlər:</translation>
+        <translation>Xarici keçidlər:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="297"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Problemlər: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problemlər: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="299"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Viki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Viki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="301"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Mənbə kodu: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Mənbə kodu: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3391,7 +3392,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft binar faylları üçün qovluq yaradıla bilmədi.</translation>
     </message>
 </context>
 <context>
@@ -3399,17 +3400,17 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun sayına görə sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
-        <translation type="unfinished"></translation>
+        <translation>Quraşdırma sayına görə sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ada görə sırala</translation>
+        <translation>Ada görə sırala</translation>
     </message>
 </context>
 <context>
@@ -3417,17 +3418,17 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Seçilmiş versiya:</translation>
+        <translation>Seçilmiş versiya:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Axtar və filtrlə...</translation>
+        <translation>Axtar və filtrlə...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Qeyd: Bir çox yeni FTB modpakları CurseForge-da da mövcuddur!</translation>
     </message>
 </context>
 <context>
@@ -3435,7 +3436,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="60"/>
         <source>Game Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun Seçimləri</translation>
     </message>
 </context>
 <context>
@@ -3443,32 +3444,32 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="89"/>
         <source>Survival</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağ qalma</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="91"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaradıcılıq</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Adventure</source>
-        <translation type="unfinished"></translation>
+        <translation>Macəra</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Spectator</source>
-        <translation type="unfinished"></translation>
+        <translation>Müşahidəçi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="100"/>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Naməlum (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="102"/>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>Müəyyən olunmamış</translation>
     </message>
 </context>
 <context>
@@ -3476,7 +3477,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Proses başladıldı: %1</translation>
     </message>
 </context>
 <context>
@@ -3484,13 +3485,13 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="54"/>
         <source>Get dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Asılılıqları əldə et</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="193"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Şəbəkə xətası baş verdi. Layihə asılılıqları yüklənə bilmədi: %1</translation>
     </message>
 </context>
 <context>
@@ -3498,12 +3499,12 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin əldə edilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin əldə edildi</translation>
     </message>
 </context>
 <context>
@@ -3511,48 +3512,48 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="14"/>
         <source>Pick icon</source>
-        <translation type="unfinished"></translation>
+        <translation>İkon seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Axtar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Add Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>İkon əlavə et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
         <source>Remove Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>İkonu sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished">Ləğv et</translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
         <source>OK</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="87"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Qovluğu aç</translation>
+        <translation>Qovluğu aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="118"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>İkonları seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="121"/>
         <source>Icons %1</source>
-        <translation type="unfinished"></translation>
+        <translation>İkonlar %1</translation>
     </message>
 </context>
 <context>
@@ -3560,7 +3561,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 faylı oxunmaq üçün açıla bilmədi: %2</translation>
     </message>
 </context>
 <context>
@@ -3568,23 +3569,23 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished">Gözdən keçir</translation>
+        <translation>Gözdən keçir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağıdakı fayl növləri tətbiq edilib (həm yerli fayllar, həm də URL-lər üçün):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- CurseForge mod paketləri (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modrinth mod paketləri (ZIP və mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -3595,56 +3596,56 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Technic mod paketləri (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yerli fayl və ya birbaşa yükləmə keçidi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="139"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>Error</source>
-        <translation type="unfinished">Xəta</translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 mod paketi üçüncü tərəflər üçün bloklanıb! Zəhmət olmasa, onu əllə yükləyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu url etibarlı mod paketi deyil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Dayandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="209"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation>Dəstəklənən fayllar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="212"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished">Modrinth paketi</translation>
+        <translation>Modrinth paketi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Choose modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod paketini seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>İdxal et</translation>
     </message>
 </context>
 <context>
@@ -3667,17 +3668,17 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished">Ləğv et</translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
 </context>
 <context>
@@ -3685,12 +3686,12 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="134"/>
         <source>License: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisenziya: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="141"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Problemləri bura bildirin: </translation>
     </message>
 </context>
 <context>
@@ -3699,20 +3700,20 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Meta-da hazırda heç bir Java versiyası mövcud deyil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Java versiya siyahıları yüklənə və ya endirilə bilmədi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="64"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Əməliyyat sisteminiz üçün hazırda heç bir Java versiyası mövcud deyil.</translation>
     </message>
 </context>
 <context>
@@ -3720,17 +3721,17 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="103"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Yenilə</translation>
+        <translation>&amp;Yenilə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>Ok</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
         <source>Cancel</source>
-        <translation type="unfinished">Ləğv et</translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
@@ -3760,7 +3761,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
-        <translation type="unfinished">Loader-i quraşdırın</translation>
+        <translation>Loader-i quraşdırın</translation>
     </message>
 </context>
 <context>
@@ -3768,7 +3769,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="40"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1 üçün hazırda heç bir versiya mövcud deyil</translation>
+        <translation>Minecraft %1 üçün hazırda heç bir versiya mövcud deyil</translation>
     </message>
 </context>
 <context>
@@ -4152,7 +4153,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
         <source>Refresh</source>
-        <translation type="unfinished">Yenilə</translation>
+        <translation>Yenilə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="69"/>
@@ -4169,7 +4170,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="111"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Silməyi Təsdiq edin</translation>
+        <translation>Silməyi Təsdiq edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -4995,32 +4996,32 @@ Modlarınızı düzəltməli ola bilərsiniz, çünki oyun hələ də fayllara y
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="573"/>
         <source>Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Təkrar cəhd limiti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="580"/>
         <source>Concurrent Download Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eyni vaxtda yükləmə limiti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="590"/>
         <source>HTTP Timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP vaxt aşımı:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="616"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eyni vaxtda icra edilən tapşırıq limiti:</translation>
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="407"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Tehlüke&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;:Mod meta-məlumatlarının söndürülməsi bəzi QoL (heyat keyfiyyeti) Mod meta-məlumatlarının söndürülməsi bəzi QoL!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -5029,48 +5030,48 @@ Modlarınızı düzəltməli ola bilərsiniz, çünki oyun hələ də fayllara y
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="587"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorğular dayandırılana qədər gözləmə saniyəsi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="566"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menyu paneli klaviatura ilə idarə olunan qarşılıqlı əlaqə üçün daha əlverişlidir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alətlər panelini menyu paneli ilə əvəz et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="390"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklanmış modları kopyalamaq əvəzinə köçürün</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod provayderləri (Modrinth və ya CurseForge kimi) tərəfindən modlar üçün təqdim edilən versiya məlumatlarını yadda saxla.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="400"/>
         <source>Keep track of mod metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod meta-məlumatlarını izləyin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod asılılıqlarını avtomatik aşkar et, quraşdır və yenilə.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="420"/>
         <source>Install dependencies automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Asılılıqları avtomatik quraşdır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
@@ -5085,18 +5086,18 @@ Modlarınızı düzəltməli ola bilərsiniz, çünki oyun hələ də fayllara y
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Konsol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="500"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Log daşdıqda qeydiyyatı dayandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="481"/>
         <source> lines</source>
-        <translation type="unfinished"></translation>
+        <translation> sətirlər</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -5131,37 +5132,37 @@ Flatseal vasitəsilə %1-ə həmin qovluğa giriş icazəsi verməyiniz tövsiy�
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hər halda davam etmək istəyirsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
         <source>Icons Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>İkonlar qovluğu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="147"/>
         <source>Mods Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar qovluğu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükləmələr qovluğu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Java qovluğu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Skinlər qovluğu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ümumi</translation>
     </message>
 </context>
 <context>
@@ -10385,48 +10386,49 @@ Xəta mesajı: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="74"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Nəzərdən keçirin və təsdiqləyin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="75"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="100"/>
         <source>Confirmation Needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Təsdiq lazımdır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="101"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sizin %1 seçilmiş resursunuz var.
+Bu dialoqu bağlamaq istədiyinizə əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="140"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş %1 elementlərinizi nəzərdən keçirmək və seçiminizi təsdiqləmək üçün yeni pəncərə açır. Qısayol: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="152"/>
         <source>Confirm %1 to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükləmək üçün %1 elementini təsdiqləyin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
         <source>Error</source>
-        <translation type="unfinished">Xəta</translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="168"/>
         <source>Warnings</source>
-        <translation type="unfinished">Xəbərdarlıqlar</translation>
+        <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="174"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Dayandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="175"/>
