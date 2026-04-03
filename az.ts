@@ -4148,7 +4148,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
         <source>Remove</source>
-        <translation>Sil</translation>
+        <translation>Silin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
@@ -5610,12 +5610,12 @@ Səbəb:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 oxuna və sıxıla bilmədi</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="72"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Zip xətası baş verdi</translation>
     </message>
 </context>
 <context>
@@ -5623,27 +5623,27 @@ Səbəb:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arxivdəki faylları sadalamaq mümkün olmadı</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="45"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Boş arxivlərin çıxarılması qəribə görünür...</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 faylı təhlil edilə bilmədi</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 çıxarılması ləğv edildi, çünki o, hədəf yolun %2 faktiki olaraq kənarında idi</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 faylını %2 yoluna çıxarmaq mümkün olmadı</translation>
     </message>
 </context>
 <context>
@@ -5651,37 +5651,37 @@ Səbəb:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft hesabı ilə giriş (cihaz kodu).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cihazın avtorizasiyası uğursuz oldu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Cihaz avtorizasiyasını əldə etmək mümkün olmadı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Cihaz avtorizasiyası uğursuz oldu: tələb olunan sahələr çatışmır</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="156"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapşırıq dayandırıldı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="262"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cihaz girişi uğursuz oldu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="277"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSA tokeni əldə edildi</translation>
     </message>
 </context>
 <context>
@@ -5689,54 +5689,54 @@ Səbəb:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft hesabı əlavə edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Zəhmət olmasa, gözləyin...</translation>
+        <translation>Zəhmət olmasa, gözləyin...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="231"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft ilə daxil olun</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Və yaxud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="347"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>KOD</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="360"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodu mübadilə buferinə kopyalayın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished">Məlumat</translation>
+        <translation>Məlumat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished">Ləğv et</translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="205"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ünvanını açın və ya QR kodu skan edin, ehtiyac olarsa, yuxarıdakı kodu daxil edin.</translation>
     </message>
 </context>
 <context>
@@ -5744,32 +5744,32 @@ Səbəb:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="182"/>
         <source>Logging in with Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft hesabı ilə giriş edilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="148"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSA tokeni əldə edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="160"/>
         <source>Microsoft user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft istifadəçi identifikasiyası uğursuz oldu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tokeni yeniləmək mümkün olmadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="190"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft istifadəçi identifikasiyası uğursuz oldu - müştəri identifikasiyası dəyişib.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="194"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft istifadəçi identifikasiyası uğursuz oldu - yeniləmə tokeni (refresh token) boşdur.</translation>
     </message>
 </context>
 <context>
@@ -5782,7 +5782,7 @@ Səbəb:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Əsas alətlər paneli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
@@ -5792,7 +5792,7 @@ Səbəb:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mərkəzi modlar qovluğunu fayl bələdçisində açın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
@@ -6457,7 +6457,7 @@ Meta-məlumat keşini əllə təmizləmək üçün Qovluqlar -&gt; Başlatıcın
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-i PATH-a əlavə etməyə çalışarkən xəta baş verdi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1484"/>
@@ -6472,9 +6472,9 @@ Meta-məlumat keşini əllə təmizləmək üçün Qovluqlar -&gt; Başlatıcın
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1496"/>
         <source> and its %n registered shortcut(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> və onun %n qeydə alınmış qısayolu</numerusform>
+            <numerusform> və onun %n qeydə alınmış qısayolu</numerusform>
         </translation>
     </message>
     <message>
@@ -10888,7 +10888,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
-        <translation type="unfinished">Paket Formatı</translation>
+        <translation>Paket Formatı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="146"/>
@@ -10906,7 +10906,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Paketləri yüklə</translation>
+        <translation>Paketləri yüklə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -10921,7 +10921,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Modun versiyasını dəyişdir.</translation>
+        <translation>Modun versiyasını dəyişdir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
@@ -10929,26 +10929,26 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="183"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="237"/>
         <source>Error</source>
-        <translation type="unfinished">Xəta</translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="187"/>
         <source>Aborted</source>
-        <translation type="unfinished">Ləğv edildi</translation>
+        <translation>Dayandırıldı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="187"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Yükləmə istifadəçi tərəfindən dayandırıldı.</translation>
+        <translation>Yükləmə istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="109"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Warnings</source>
-        <translation type="unfinished">Xəbərdarlıqlar</translation>
+        <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="123"/>
@@ -10965,55 +10965,58 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="143"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Yeniləməni təsdiqlə</translation>
+        <translation>Yeniləməni təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurs paketlərini oyun işlək vəziyyətdə ikən yeniləmək, paketlərin dublikatlaşmasına və oyunun çökməsinə səbəb ola bilər.
+ Köhnə fayllar istifadədə olduğu üçün silinməyə bilər. 
+Bunu etmək istədiyinizdən əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
         <source>The resource pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurs paketinin yenilənməsi dayandırıldı!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="168"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; güncəldir! :)</translation>
+        <translation>&apos;%1&apos; güncəldir! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="171"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bütün resurs paketləri yenilənib! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="173"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş bütün resurs paketləri yenilənib! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="176"/>
         <source>Update checker</source>
-        <translation type="unfinished">Güncəlləmə yoxlayıcısı</translation>
+        <translation>Güncəlləmə yoxlayıcısı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="217"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Ləğv etməyi təsdiqlə</translation>
+        <translation>Ləğv etməyi təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1 resurs paketinin meta-məlumatlarını silmək üzrəsiniz.
+Əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurs paketləri</translation>
     </message>
 </context>
 <context>
@@ -11021,12 +11024,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="72"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Seçilmiş versiya:</translation>
+        <translation>Seçilmiş versiya:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Filtr seçimləri</translation>
+        <translation>Filtr seçimləri</translation>
     </message>
 </context>
 <context>
@@ -11034,37 +11037,37 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="43"/>
         <source>Confirm resources to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Yenilənəcək resursları təsdiqləyin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="54"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağıdakı resursları yeniləmək üzrəsiniz:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="55"/>
         <source>Only resources with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yalnız işarələnmiş resurslar yenilənəcək!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="73"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod adı: %1&lt;br&gt;Fayl adı: %2&lt;br&gt;Sebeb: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta-məlumatların yaradılması uğursuz oldu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="77"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağıdakı resurslar üçün meta-məlumatlar yaradıla bilmədi:&lt;br&gt;Həmin resurslar olmadan davam etmək istəyirsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="90"/>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Yenilənmələr yoxlanılır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="110"/>
@@ -11073,122 +11076,122 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="367"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="423"/>
         <source>Error</source>
-        <translation type="unfinished">Xəta</translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="115"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="214"/>
         <source>Warnings</source>
-        <translation type="unfinished">Xəbərdarlıqlar</translation>
+        <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="121"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="219"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="379"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Dayandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="122"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Yenilənmələr yoxlanılır...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="168"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod adı: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="170"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Səbəb: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mümkün həll yolu: Ən son versiyanın əllə yüklənməsi:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="178"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Yenilənmələri yoxlamaq mümkün olmadı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="179"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağıdakı resurslar üçün yenilənmələri yoxlamaq və ya əldə etmək mümkün olmadı:&lt;br&gt;Həmin resurslar olmadan davam etmək istəyirsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="220"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Asılılıqlar yoxlanılır...</translation>
+        <translation>Asılılıqlar yoxlanılır...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="240"/>
         <source>Not installed</source>
-        <translation type="unfinished">Yüklənilməyib</translation>
+        <translation>Yüklənilməyib</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="276"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta-məlumatlar axtarılır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="321"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; resursunun hələ meta-məlumatı yoxdur. Bu modun yenilənmə qaydasını izləmək üçün meta-məlumat yaratmalıyıq. Bunun üçün, bu modun yenilənmələrini yoxlaya biləcəyimiz bir mod provayderi seçin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="380"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta-məlumatlar yaradılır...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="433"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş mod provayder(lər)ində etibarlı versiya tapılmadı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="444"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mod artıq quraşdırılmış ola biləcəyi üçün sıradan çıxarıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Provayder: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="455"/>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Köhnə versiya: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="459"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni versiya: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="464"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni versiya növü: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="471"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tələb edən: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="474"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tələb edən:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="486"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ən son versiyanın dəyişikliklər siyahısı (Changelog)</translation>
     </message>
 </context>
 <context>
@@ -11196,68 +11199,68 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Geri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished">Ləğv et</translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
         <source>OK</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="64"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mod artıq quraşdırılmış ola biləcəyi üçün sıradan çıxarıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl adı: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Provayder: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="78"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tələb edən: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tələb edən:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="93"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiya növü: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 seçimini təsdiqləyin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="120"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağıdakı %1 yüklənmək üzrədir:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="121"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yalnız işarələnmiş %1 yüklənəcək!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Asılılıqları aç/bağla</translation>
     </message>
 </context>
 <context>
@@ -11265,32 +11268,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="50"/>
         <source>Actions</source>
-        <translation type="unfinished">Əməliyyatlar</translation>
+        <translation>Əməliyyatlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="70"/>
         <source>Upload</source>
-        <translation type="unfinished">Göndər(upload)</translation>
+        <translation>Göndər(upload)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="75"/>
         <source>Delete</source>
-        <translation type="unfinished">Sil</translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="80"/>
         <source>Rename</source>
-        <translation type="unfinished">Adını dəyişdir</translation>
+        <translation>Adını dəyişdir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="85"/>
         <source>View Folder</source>
-        <translation type="unfinished">Qovluqa daxil ol</translation>
+        <translation>Qovluqa daxil ol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="312"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekst menyusu</translation>
+        <translation>Kontekst menyusu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="373"/>
@@ -11298,7 +11301,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %2 platformasına %1 ekran şəkli yükləmək üzrəsiniz.
+Şəxsi məlumatların olub-olmadığını təkrar yoxlamalısınız.
+
+Əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="378"/>
@@ -11306,52 +11312,55 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz seçilmiş ekran şəklini %1 platformasına yükləmək üzrəsiniz.
+Şəxsi məlumatların olub-olmadığını təkrar yoxlamalısınız.
+
+Əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="403"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
         <source>Failed to upload screenshots!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran şəkillərini yükləmək mümkün olmadı!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Naməlum xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="419"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="462"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükləmə başa çatdı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="394"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Dayandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="406"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="447"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran şəkillərinin yüklənməsi dayandırıldı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="406"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="447"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapşırıq istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="420"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüklənmiş ekran şəklinin &lt;a href=&quot;%1&quot;&gt;keçidi&lt;/a&gt; mübadilə buferinə (clipboard) kopyalandı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="463"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüklənmiş albomun &lt;a href=&quot;%1&quot;&gt;keçidi&lt;/a&gt; mübadilə buferinə (clipboard) kopyalandı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="511"/>
@@ -11359,7 +11368,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1 ekran şəklini silmək üzrəsiniz.
+Bu proses geri qaytarılmaya bilər və şəkillər qovluqdan birdəfəlik silinəcək.
+
+Əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="516"/>
@@ -11367,29 +11379,32 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz seçilmiş ekran şəklini silmək üzrəsiniz.
+Bu proses geri qaytarılmaya bilər və şəkil qovluqdan birdəfəlik silinəcək.
+
+Əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="522"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Silməyi Təsdiq edin</translation>
+        <translation>Silməyi Təsdiq edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="68"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran şəkilləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="90"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="93"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Şəkli kopyala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="98"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="101"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl(lar)ı kopyala</translation>
     </message>
 </context>
 <context>
@@ -11397,12 +11412,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="18"/>
         <source>Cancel</source>
-        <translation type="unfinished">Ləğv et</translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="19"/>
         <source>OK</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
 </context>
 <context>
@@ -11410,17 +11425,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Dərc olunma tarixi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quraşdırmaq üçün bir versiya seçin.</translation>
     </message>
 </context>
 <context>
@@ -11428,39 +11443,41 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Quraşdırmaq üçün buraxılışı seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeniləmək istədiyiniz buraxılışı seçin.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Dərc olunma tarixi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="48"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Quraşdırmaq üçün bir versiya seçin. 
+
+Hal-hazırda quraşdırılmış versiya: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished">Ləğv et</translation>
+        <translation>Ləğv et</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
 </context>
 <context>
@@ -11468,7 +11485,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/%2 tapşırıq icra edilir</translation>
     </message>
 </context>
 <context>
@@ -11476,17 +11493,17 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="285"/>
         <source>Name</source>
-        <translation type="unfinished">Ad</translation>
+        <translation>Ad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="287"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Ünvan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlayn</translation>
     </message>
 </context>
 <context>
@@ -11494,82 +11511,82 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="75"/>
         <source>&amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="88"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Ünvan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="101"/>
         <source>Reso&amp;urces</source>
-        <translation type="unfinished"></translation>
+        <translation>Resu&amp;rslar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="112"/>
         <source>Ask to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükləməyə icazə istə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="117"/>
         <source>Always download</source>
-        <translation type="unfinished"></translation>
+        <translation>Həmişə yüklə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="122"/>
         <source>Never download</source>
-        <translation type="unfinished"></translation>
+        <translation>Heç vaxt yükləmə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="133"/>
         <source>Actions</source>
-        <translation type="unfinished">Əməliyyatlar</translation>
+        <translation>Əməliyyatlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
         <source>Add</source>
-        <translation type="unfinished">Əlavə et</translation>
+        <translation>Əlavə et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
         <source>Remove</source>
-        <translation type="unfinished">Sil</translation>
+        <translation>Silin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Up</source>
-        <translation type="unfinished">Yuxarı daşı</translation>
+        <translation>Yuxarı daşı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Move Down</source>
-        <translation type="unfinished">Aşağı daşıyın</translation>
+        <translation>Aşağı daşıyın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="180"/>
         <source>Join</source>
-        <translation type="unfinished">Qoşul</translation>
+        <translation>Qoşul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="185"/>
         <source>Refresh</source>
-        <translation type="unfinished">Yenilə</translation>
+        <translation>Yenilə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverlər</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekst menyusu</translation>
+        <translation>Kontekst menyusu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Ləğv etməyi təsdiqlə</translation>
+        <translation>Ləğv etməyi təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="730"/>
@@ -11577,7 +11594,10 @@ Currently installed version: %1</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz &quot;%1&quot; serverini silmək üzrəsiniz.
+Bu proses daimidir və server siyahınızdan həmişəlik (ÇOX UZUN MÜDDƏTLİK) silinəcəkdir.
+
+Əminsiniz?</translation>
     </message>
 </context>
 <context>
@@ -11585,27 +11605,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Növbəti &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Geri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bitir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Yenilə</translation>
+        <translation>&amp;Yenilə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Sürətli Quraşdırma</translation>
     </message>
 </context>
 <context>
@@ -11613,12 +11633,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>.index faylından shaderpack meta-məlumatlarının köçürülməsi uğursuz oldu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Köhnə .index qovluğunun silinməsi uğursuz oldu</translation>
     </message>
 </context>
 <context>
@@ -11626,22 +11646,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Paketləri yüklə</translation>
+        <translation>Paketləri yüklə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlayn mod platformalarından şeyder paketlərini (shader packs) yükləyin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş bütün şeyder paketlərini yoxlamağa və ya yeniləməyə çalışın (heç biri seçilməyibsə, bütün şeyder paketlərini)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Şeyder paketinin versiyasını dəyişin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="96"/>
@@ -11649,91 +11669,94 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="180"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="234"/>
         <source>Error</source>
-        <translation type="unfinished">Xəta</translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="161"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="184"/>
         <source>Aborted</source>
-        <translation type="unfinished">Ləğv edildi</translation>
+        <translation>Dayandırıldı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="184"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Yükləmə istifadəçi tərəfindən dayandırıldı.</translation>
+        <translation>Yükləmə istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="106"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
         <source>Warnings</source>
-        <translation type="unfinished">Xəbərdarlıqlar</translation>
+        <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="200"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Dayandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="135"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="234"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta-məlumatlar söndürüldükdə şeyder paketi yeniləmələri əlçatmazdır!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="140"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Yeniləməni təsdiqlə</translation>
+        <translation>Yeniləməni təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun işləyərkən şeyder paketlərinin (shader packs) yenilənməsi paketlərin dublikatlaşmasına və oyunun çökməsinə səbəb ola bilər. 
+Köhnə fayllar istifadədə olduğu üçün silinməyə bilər. 
+Bunu etmək istədiyinizə əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="161"/>
         <source>The shader pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Şeyder paketi yeniləyicisi dayandırıldı!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="165"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; güncəldir! :)</translation>
+        <translation>&apos;%1&apos; güncəldir! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="168"/>
         <source>All shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bütün şeyder paketləri güncəldir! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="170"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş bütün şeyder paketləri güncəldir! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="173"/>
         <source>Update checker</source>
-        <translation type="unfinished">Güncəlləmə yoxlayıcısı</translation>
+        <translation>Güncəlləmə yoxlayıcısı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="214"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Ləğv etməyi təsdiqlə</translation>
+        <translation>Ləğv etməyi təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1 şeyder paketinin meta-məlumatlarını silmək üzrəsiniz.
+Əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Şeyder paketləri</translation>
     </message>
 </context>
 <context>
@@ -11741,7 +11764,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinDelete.cpp" line="49"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünüş silinir</translation>
     </message>
 </context>
 <context>
@@ -11749,32 +11772,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="294"/>
         <source>Path is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yol boşdur.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="297"/>
         <source>File doesn&apos;t exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl mövcud deyil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="299"/>
         <source>Not a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl deyil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="301"/>
         <source>File is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl oxunaqlı deyil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="303"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünüş şəkilləri 64x64 və ya 64x32 piksel ölçüsündə PNG faylları olmalıdır.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="307"/>
         <source>Unable to copy file</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylı kopyalamaq mümkün deyil</translation>
     </message>
 </context>
 <context>
@@ -11784,57 +11807,57 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Skin Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünüş yükləmə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="39"/>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
         <source>Slim</source>
-        <translation type="unfinished"></translation>
+        <translation>İncə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Plaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished"></translation>
+        <translation>Elitranı önizlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Qovluğu aç</translation>
+        <translation>Qovluğu aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
         <source>Reset Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünüşü sıfırla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
         <source>Import URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL-i idxal et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"/>
         <source>Import user</source>
-        <translation type="unfinished"></translation>
+        <translation>İstifadəçini idxal et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="145"/>
         <source>Import File</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylı idxal et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
