@@ -658,12 +658,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation>Deslocar para %Cima</translation>
+        <translation>Mover-se &amp;Acima</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation>Deslocar para %baixo</translation>
+        <translation>Mover-se &amp;Abaixo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -1153,7 +1153,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation>Obtendo os ficheiros de ativos de %1...</translation>
+        <translation>A obter os ficheiros de recursos de %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1578,7 +1578,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation>Escolher Nome Offline</translation>
+        <translation>Escolher nome offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
