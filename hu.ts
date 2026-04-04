@@ -697,7 +697,7 @@ Ha új vagy itt, a „Microsoft fiók hozzáadása” gombra kattintva összekap
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
         <source>Context menu</source>
-        <translation>Menü</translation>
+        <translation>Helyi menü</translation>
     </message>
     <message>
         <source>Add account</source>
@@ -3223,7 +3223,7 @@ Mégis folytatni szeretnéd? Ez a játék és a rendszer lelassulását okozhatj
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
         <source>Context menu</source>
-        <translation>Menü</translation>
+        <translation>Helyi menü</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="214"/>
@@ -13030,7 +13030,7 @@ HTTP állapot: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;None</source>
-        <translation>&amp;Semmi</translation>
+        <translation>&amp;Nincs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
@@ -15255,7 +15255,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="329"/>
         <source>Context menu</source>
-        <translation>Menü</translation>
+        <translation>Helyi menü</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots.
@@ -15533,12 +15533,12 @@ Jelenleg telepített verzió: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Up</source>
-        <translation>Feljebb mozgatás</translation>
+        <translation>Mozgatás felfelé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Move Down</source>
-        <translation>Lejjebb mozgatás</translation>
+        <translation>Mozgatás lefelé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="180"/>
@@ -15558,7 +15558,7 @@ Jelenleg telepített verzió: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
         <source>Context menu</source>
-        <translation>Menü</translation>
+        <translation>Helyi menü</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
@@ -17095,7 +17095,7 @@ Válts a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="116"/>
         <source>Move Up</source>
-        <translation>Feljebb mozgatás</translation>
+        <translation>Mozgatás felfelé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="119"/>
@@ -17105,7 +17105,7 @@ Válts a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="124"/>
         <source>Move Down</source>
-        <translation>Lejjebb mozgatás</translation>
+        <translation>Mozgatás lefelé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="127"/>
@@ -17195,7 +17195,7 @@ Válts a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="189"/>
         <source>Context menu</source>
-        <translation>Menü</translation>
+        <translation>Helyi menü</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="205"/>
@@ -17773,7 +17773,7 @@ Kanonikus elérési út: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="145"/>
         <source>Context menu</source>
-        <translation>Menü</translation>
+        <translation>Helyi menü</translation>
     </message>
     <message>
         <source>Are you sure?</source>
