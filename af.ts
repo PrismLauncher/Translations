@@ -1019,18 +1019,18 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarskuwing: Hierdie is steeds &apos;n werk in wording. As jy probleme met die ingevoerde modpak ondervind, kan dit &apos;n fout wees.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="80"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Weergawe geselekteer:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Soek en filtreer...</translation>
     </message>
 </context>
 <context>
@@ -1038,12 +1038,12 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen weergawes beskikbaar op die oomblik vir Minecraft %1 nie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen weergawes is op die oomblik beskikbaar nie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
