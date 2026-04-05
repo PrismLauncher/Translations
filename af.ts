@@ -85,7 +85,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>wysigings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished">Jy kan die stel na &apos;n derde party metadata bediener om &quot;patched&quot; biblioteke of ander &quot;hacks&quot; te gebruik.</translation>
+        <translation>Jy kan dit op &apos;n derdeparty-metadatabediener stel om &apos;gepatchte&apos; biblioteke of ander &apos;hacks&apos; te gebruik.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -224,7 +224,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="334"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Onbekende mod tipe %1</translation>
+        <translation>Onbekende wysiging tipe %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
@@ -234,7 +234,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Geen laaier weergawe gestel vir modpak!</translation>
+        <translation>Geen laaier weergawe gestel vir wysigings-pak!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="520"/>
@@ -289,7 +289,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die volgende vouers is nie beskikbaar vir aflaaing in derdeparty lanseerders nie.&lt;br/&gt;Jy sal hulle moet self aflaai en by die instansie invoeg.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
@@ -337,7 +337,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&apos;n Pasgemaakte laaier wat die bestuur van Minecraft vergemaklik deur jou toe te laat om verskeie gevalle van Minecraft terselfdetyd te hê.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&apos;n Pasgemaakte lanseerder wat die bestuur van Minecraft vergemaklik deur jou toe te laat om verskeie gevalle van Minecraft terselfdetyd te hê.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -353,7 +353,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished">Commit:</translation>
+        <translation>Pleeg:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -363,7 +363,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation type="unfinished">Te danke aan</translation>
+        <translation>Te dank aan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
@@ -533,12 +533,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="81"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished">&amp;Beheer Skins</translation>
+        <translation>&amp;Beheer velle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="84"/>
         <source>Manage Skins</source>
-        <translation type="unfinished">Beheer Skins</translation>
+        <translation>Beheer velle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="89"/>
@@ -555,24 +555,24 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="102"/>
         <source>Refresh the account tokens</source>
-        <translation type="unfinished">Verfris die rekening-tokens</translation>
+        <translation>Verfris die rekeningtokens</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Skuif &amp;Op</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Skuif &amp;Af</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished">Welkom!
-As jy nuut hier is kan jy die &quot;Voeg Microsoft By&quot; knoppie selekteer om jou Microsoft rekening te koppel.</translation>
+        <translation>Welkom!
+As jy nuut hier is kan jy die &quot;Voeg Microsoft By&quot;-knoppie kies om jou Microsoft-rekening te koppel.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
@@ -592,7 +592,7 @@ As jy nuut hier is kan jy die &quot;Voeg Microsoft By&quot; knoppie selekteer om
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished">Wil jy reeeeeeeeeeeeeeeeeeerig die rekening verwyder? (·•᷄∩•᷅ )</translation>
+        <translation>Wil jy rerig die rekening verwyder?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -608,7 +608,7 @@ As jy nuut hier is kan jy die &quot;Voeg Microsoft By&quot; knoppie selekteer om
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
@@ -749,12 +749,12 @@ As jy nuut hier is kan jy die &quot;Voeg Microsoft By&quot; knoppie selekteer om
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="268"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[ONTFOUTING] &apos;n Geheime ontfoutingsboodskap...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="269"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[NOOD] &apos;n skrikwekkende noodlottige fout!</translation>
     </message>
 </context>
 <context>
@@ -762,12 +762,12 @@ As jy nuut hier is kan jy die &quot;Voeg Microsoft By&quot; knoppie selekteer om
     <message>
         <location filename="src/launcher/Application.cpp" line="687"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan nie hierdie log vertoon nie, aangesien die loglengte %1 reëls oorskry het.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="904"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>instellings</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1066"/>
@@ -783,12 +783,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierdie installasie het &apos;n opdateringslotlêer teenwoordig by: %1
+
+Tydstempel: %2
+Opdatering van weergawe %3 na %4
+Teiken installasie pad: %5
+Data Pad: %6
+Dit beteken waarskynlik dat &apos;n opdatering misluk het. Maak asseflief seker dat jou installasie in werkende orde is voordat jy voortgaan.
+Gaan die Prism Launcher opdatering-logboek na by:
+%7
+vir besonderhede in die laaste opdaterings poging
+
+Om hierdie slot te verwyder en voort te gaan, kies &quot;Ignoreer&quot; hieronder.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1083"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering aan die gang</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1107"/>
@@ -798,12 +809,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;n Opdatering poging het misluk
+
+Maak asseblief seke jou installasie is in werkende orde voor jy voortgaan.
+Bestudeer die Prism Launcher opdateerder-log by:
+%1
+vir besonderhede oor die laaste opdaterings-poging.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1115"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering het misluk</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1139"/>
@@ -819,12 +835,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering suksesvol!
+
+Jy gebruik now %1
+Kyk die Prism Launcher opdaterings log by:
+%2
+vir besonderhede.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1147"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering het geslaag</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1179"/>
@@ -833,31 +854,35 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Jou /tmp gids is tans gemonteer met die &apos;noexec&apos;-vlag geaktiveer.
+Party weergawes van Minecraft mag dalk nie begin nie.
+
+Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die java.io.tmpdir JVM-argument na &apos;n skryfbare gids in &apos;n lêerstelsel te stel waar die &apos;exec&apos;-vlag gestel is (bv. /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1185"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Onversoenbare stelsel-konfigurasie</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Afgebreek</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ou data van %1 was gevind, maar jy het wel data vir %2. Ongelukking sal jy jouself moet migreer. Wil jy herinner word aan die hangende datamigrasie die volgende ker as jy %2 begin?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1942"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit lyk asof jy al %1 gebruik het.Wil jy jou data migreer na die nuwe ligging van %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1948"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit lyk asos jy al %1 op %2 gebruik het. Wil jy jou data migreer na die nuwe ligging van %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1994"/>
