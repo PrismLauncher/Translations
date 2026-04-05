@@ -3480,7 +3480,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Následujúce módy nie sú dostupné na stiahnutie v launcheroch tretích strán.&lt;br/&gt;Budete si ich musieť stiahnuť a manuálne pridať do inštancie.</translation>
+        <translation>Následujúce módy nie sú dostupné na stiahnutie v launcheroch tretích strán.&lt;br/&gt;Budete si ich musieť manuálne stiahnuť a pridať do inštancie.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
