@@ -2352,7 +2352,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองตรวจสอบหรืออัปเดต data pack ที่เลือกไว้ทั้งหมด (หากไม่ได้เลือกไว้เลย จะดำเนินการกับ data pack ทั้งหมด)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
@@ -2379,14 +2379,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="243"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>ถูกยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="86"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="243"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>การดาวน์โหลดถูกหยุดโดยผู้ใช้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="92"/>
@@ -2406,7 +2406,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="121"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="220"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถอัปเดต data pack ได้เมื่อปิดใช้งาน metadata!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="126"/>
@@ -2418,32 +2418,34 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>การอัปเดต data pack ขณะที่เกมทำงานอยู่อาจทำให้เกิดปัญหาแพ็กซ้ำซ้อนและเกมแครชได้
+ไฟล์เก่าอาจไม่ถูกลบออกเนื่องจากกำลังถูกใช้งานอยู่
+คุณแน่ใจหรือไม่ว่าต้องการดำเนินการนี้?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>การอัปเดต data pack ได้ถูกยกเลิกแล้ว!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="151"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; อัปเดตเป็นเวอร์ชันล่าสุดแล้ว! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Data pack ทั้งหมดได้อัปเดตเป็นเวอร์ชั่นล่าสุดแล้ว! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="156"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Data pack ที่ถูกเลือกไว้ทั้งหมดได้ถูกอัปเดตเป็นเวอร์ชั่นล่าสุดแล้ว! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>การตรวจสอบอัปเดต</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="200"/>
@@ -2454,7 +2456,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณกำลังจะลบ metadata ของ data pack จำนวน %1 รายการ
+คุณแน่ใจหรือไม่?</translation>
     </message>
 </context>
 <context>
@@ -2494,7 +2497,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="35"/>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>หน่วยความจำ (RAM) ไม่เพียงพอ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2504,12 +2507,17 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>มี RAM ไม่พอที่จะเปิด instance นี้ด้วยการตั้งค่าหน่วยความจำปัจจุบัน
+
+ต้องการ: %1 MiB
+มีอยู่: %2 MiB
+
+จะดำเนินการต่อหรือไม่? การทำเช่นนี้อาจทำให้เกมและเครื่องของคุณทำงานช้าลงได้</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>มี RAM ไม่พอที่จะเปิด instance นี้</translation>
     </message>
 </context>
 <context>
@@ -2727,7 +2735,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation type="unfinished"></translation>
+        <translation> MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
