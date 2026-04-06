@@ -2542,7 +2542,7 @@ Jesteś pewien?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="35"/>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>Za mało pamięci RAM</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2552,12 +2552,17 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie ma wystarczającej ilości pamięci RAM, aby uruchomić tę instancję przy obecnych ustawieniach pamięci.
+
+Wymagane: %1 MiB
+Dostępne: %2 MiB
+
+Kontynuować mimo to? Może to spowodować spowolnienia gry i systemu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie ma wystarczającej ilości pamięci RAM, aby uruchomić tę instancję</translation>
     </message>
 </context>
 <context>
@@ -4403,7 +4408,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć pliku %1 do odczytu: %2</translation>
     </message>
 </context>
 <context>
@@ -5404,7 +5409,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -11872,12 +11877,12 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="14"/>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>Bład sieci</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="29"/>
         <source>A network operation has failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Operacja sieciowa nie powiodła się: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="65"/>
@@ -11892,27 +11897,27 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
         <source>What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Co chciałbyś zrobić?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="34"/>
         <source>All %1 requests have failed after %2 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie %1 żądań nie powiodły się po %2 próbach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="37"/>
         <source>Out of %1 requests, %2 have failed after %3 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>Spośród %1 żądań, %2 nie powiodło się po %3 próbach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="40"/>
         <source>Out of %1 requests, only %2 succeeded after %3 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>Spośród %1 żądań, tylko %2 wykonało się po %3 próbach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Skopiuj URL</translation>
     </message>
 </context>
 <context>
@@ -12707,7 +12712,12 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizator nie mógł utworzyć pliku dziennika - %1
+
+Upewnij się, że masz uprawnienia zapisu do folderu danych
+(%2)
+
+Aktualizator nie może kontynuować, dopóki nie rozwiążesz tego problemu.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -14254,7 +14264,7 @@ Czy chcesz kontynuować?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się utworzyć ikony dla aplikacji: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
@@ -14270,7 +14280,7 @@ Czy chcesz kontynuować?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się utworzyć ikony dla skrótu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
@@ -16526,7 +16536,7 @@ Jesteś pewien?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć pliku &quot;version.json&quot;: %1</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
