@@ -2259,7 +2259,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>לא ידוע</translation>
     </message>
 </context>
 <context>
@@ -2498,7 +2498,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="35"/>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>לא מספיק זיכרון RAM</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2508,12 +2508,17 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>אין מספיק זיכרון RAM פנוי בשביל להפעיל את עותק זה של המשחק עם הגדרות הזיכרון הנוכחיות.
+
+זיכרון נדרש: %1 MiB
+זיכרון פנוי: %2 MiB
+
+להמשיך בכל זאת? המשחק עלול להאט את המערכת.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="46"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>לא מספיק זיכרון RAM בשביל להפעיל את העותק הזה של המשחק</translation>
     </message>
 </context>
 <context>
@@ -3472,7 +3477,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>קובץ מניפסט לא תקין: אין מידע זמין להורדה עבור הקובץ &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
