@@ -171,7 +171,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;দ্রষ্টব্য: ব্যক্তিগত তথ্য অ্যাক্সেস করার জন্য আপনাকে এটি সেট করতে হবে। &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;ডকুমেন্টেশনটি &lt;/a&gt; পড়ুন আরও তথ্যের জন্য .&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;দ্রষ্টব্য: ব্যক্তিগত তথ্য অ্যাক্সেস করার জন্য আপনাকে এটি সেট করতে হবে। আরও তথ্যের জন্য &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;ডকুমেন্টেশনটি &lt;/a&gt; পড়ুন .&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
