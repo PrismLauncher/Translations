@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished">Pastebin 服务 (&amp;P)</translation>
+        <translation>Pastebin 服务 (&amp;P)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,7 +21,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished">Pastebin 服务类型 (&amp;T)</translation>
+        <translation>Pastebin 服务类型 (&amp;T)</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -30,7 +30,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished">根网址 (&amp;U)</translation>
+        <translation>根网址 (&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -41,63 +41,63 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
         <source>Use Default</source>
-        <translation type="unfinished">使用（默认）值</translation>
+        <translation>使用（默认）值</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished">注：更改粘贴服务类型后，你可能需要更改或清除根URL。</translation>
+        <translation>注：更改粘贴服务类型后，你可能需要更改或清除根URL。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished">资源服务器</translation>
+        <translation>资源服务器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished">如果下载资源时遇到问题，你可以将此设置为别的服务器。</translation>
+        <translation>如果下载资源时遇到问题，你可以将此设置为别的服务器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished">旧版 FML 库服务器</translation>
+        <translation>旧版 FML 库服务器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished">如果下载旧版 FML 库（Minecraft 1.5.2 以及更早版本）时遇到问题，你可以将此设置为别的服务器。</translation>
+        <translation>如果下载旧版 FML 库（Minecraft 1.5.2 以及更早版本）时遇到问题，你可以将此设置为别的服务器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
         <source>&amp;API Keys</source>
-        <translation type="unfinished">API 密钥 (&amp;A)</translation>
+        <translation>API 密钥 (&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="233"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">Microsoft 身份验证 (&amp;M)</translation>
+        <translation>Microsoft 身份验证 (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="288"/>
         <source>Mod&amp;rinth</source>
-        <translation type="unfinished">Modrinth (&amp;R)</translation>
+        <translation>Modrinth (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="310"/>
         <source>Use None</source>
-        <translation type="unfinished">使用（无）值</translation>
+        <translation>使用（无）值</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="346"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished">CurseForge (&amp;C)</translation>
+        <translation>CurseForge (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished">为被屏蔽的模组启用 Modrinth 作为备用平台</translation>
+        <translation>为被屏蔽的模组启用 Modrinth 作为备用平台</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -146,7 +146,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问私有数据时需要设置此项。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问私有数据时需要设置此项。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -159,27 +159,27 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
         <source>User Agent</source>
-        <translation type="unfinished">用户代理（UA）</translation>
+        <translation>用户代理（UA）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished">在此处输入自定义用户代理（UA）。可用 $LAUNCHER_VER 替代启动器的版本号。</translation>
+        <translation>在此处输入自定义用户代理（UA）。可用 $LAUNCHER_VER 替代启动器的版本号。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished">元数据服务器 (&amp;D)</translation>
+        <translation>元数据服务器 (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
         <source>Services</source>
-        <translation type="unfinished">服务</translation>
+        <translation>服务</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished">可以将此设置为第三方元数据服务器来使用修改过的库或其他资源。</translation>
+        <translation>可以将此设置为第三方元数据服务器来使用修改过的库或其他资源。</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -188,7 +188,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问私有数据时才需要设置此项。详见&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;官方文档&lt;/a&gt;。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问私有数据时才需要设置此项。详见&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;官方文档&lt;/a&gt;。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -197,7 +197,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished">注：如果 CurseForge 服务已经可以正常工作， 通常不需要设置此项。</translation>
+        <translation>注：如果 CurseForge 服务已经可以正常工作， 通常不需要设置此项。</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -215,28 +215,28 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">无法解析包清单：
+        <translation>无法解析包清单：
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="346"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">无法获取 %1 的本地元数据索引</translation>
+        <translation>无法获取 %1 的本地元数据索引</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">无法获取 %1(v%2) 的本地元数据索引</translation>
+        <translation>无法获取 %1(v%2) 的本地元数据索引</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="146"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">不支持的安装模式</translation>
+        <translation>不支持的安装模式</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">正在删除现有文件...</translation>
+        <translation>正在删除现有文件...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="334"/>
@@ -251,27 +251,27 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">没有为整合包设置 Mod 加载器版本！</translation>
+        <translation>没有为整合包设置 Mod 加载器版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="520"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">未知或不支持的下载类型：%1</translation>
+        <translation>未知或不支持的下载类型：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">正在下载配置文件…</translation>
+        <translation>正在下载配置文件…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="635"/>
         <source>Config download</source>
-        <translation type="unfinished">下载配置文件</translation>
+        <translation>下载配置文件</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="676"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">正在解压配置文件…</translation>
+        <translation>正在解压配置文件…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -280,17 +280,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="700"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">正在选择可选 Mod…</translation>
+        <translation>正在选择可选 Mod…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">下载 Mod 中…</translation>
+        <translation>下载 Mod 中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod 下载</translation>
+        <translation>Mod 下载</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -300,52 +300,52 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="737"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="867"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">未知的下载类型：%1</translation>
+        <translation>未知的下载类型：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="817"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">发现被屏蔽的 Mod</translation>
+        <translation>发现被屏蔽的 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载它们并将其添加到实例中。</translation>
+        <translation>以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载它们并将其添加到实例中。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">已完成 %1/%2</translation>
+        <translation>已完成 %1/%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="909"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Mod 解压失败…</translation>
+        <translation>Mod 解压失败…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="919"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">正在解压 Mod…</translation>
+        <translation>正在解压 Mod…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">正在安装整合包</translation>
+        <translation>正在安装整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">无法创建库组件</translation>
+        <translation>无法创建库组件</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">未知的加载器类型： </translation>
+        <translation>未知的加载器类型： </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1043"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">无法创建包组件</translation>
+        <translation>无法创建包组件</translation>
     </message>
 </context>
 <context>
@@ -353,73 +353,73 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation type="unfinished">关于</translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;一款允许同时拥有多个 Minecraft 实例的自定义启动器，可以更加便利地管理 Minecraft。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;一款允许同时拥有多个 Minecraft 实例的自定义启动器，可以更加便利地管理 Minecraft。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation type="unfinished">平台：</translation>
+        <translation>平台：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">构建日期：</translation>
+        <translation>构建日期：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished">提交：</translation>
+        <translation>提交：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation type="unfinished">通道：</translation>
+        <translation>通道：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation type="unfinished">制作人员</translation>
+        <translation>制作人员</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation type="unfinished">许可证</translation>
+        <translation>许可证</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation type="unfinished">关于 Qt</translation>
+        <translation>关于 Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation type="unfinished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>About %1</source>
-        <translation type="unfinished">关于 %1</translation>
+        <translation>关于 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <source>Platform</source>
-        <translation type="unfinished">平台</translation>
+        <translation>平台</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
-        <translation type="unfinished">提交：%1</translation>
+        <translation>提交：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
-        <translation type="unfinished">构建日期：%1</translation>
+        <translation>构建日期：%1</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -428,7 +428,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="113"/>
         <source>Channel</source>
-        <translation type="unfinished">通道</translation>
+        <translation>通道</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -466,13 +466,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">离线</translation>
+        <translation>离线</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="350"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -512,7 +512,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="391"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished">账户类型（Microsoft 账户或离线账户）</translation>
+        <translation>账户类型（Microsoft 账户或离线账户）</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -547,21 +547,21 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
         <source>Username</source>
-        <translation type="unfinished">Minecraft 用户名</translation>
+        <translation>Minecraft 用户名</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Xbox 用户名</translation>
+        <translation>Xbox 用户名</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
         <source>Status</source>
-        <translation type="unfinished">状态</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <source>Can Migrate?</source>
@@ -570,7 +570,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="389"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished">该账户的 Minecraft Java 版用户名。</translation>
+        <translation>该账户的 Minecraft Java 版用户名。</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -578,7 +578,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation type="unfinished">该账户的用户名。</translation>
+        <translation>该账户的用户名。</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -587,7 +587,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished">该账户的当前状态。</translation>
+        <translation>该账户的当前状态。</translation>
     </message>
     <message>
         <source>Can this account migrate to a Microsoft account?</source>
@@ -606,7 +606,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="107"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">移除 (&amp;V)</translation>
+        <translation>移除 (&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
