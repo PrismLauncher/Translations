@@ -12414,7 +12414,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ผู้ให้บริการ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="268"/>
@@ -12489,7 +12489,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ผู้ให้บริการ</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -13945,7 +13945,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ผู้ให้บริการ</translation>
     </message>
     <message>
         <source>
