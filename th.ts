@@ -3439,7 +3439,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังดึงข้อมูล manifest...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
@@ -3450,32 +3450,33 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถอ่านไฟล์ Manifest ของแพ็กได้
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเตรียมรายการมอด...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest ไม่ถูกต้อง: ไม่พบข้อมูลการดาวน์โหลดของไฟล์ &apos;%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>พบไฟล์ที่ถูกบล็อก</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ต่อไปนี้ไม่สามารถดาวน์โหลดผ่าน third party launchers.&lt;br/&gt;คุณจำเป็นต้องดาวน์โหลดไฟล์เหล่านี้ด้วยตนเอง</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังสร้างอินสแตนซ์...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
@@ -3485,7 +3486,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดมอด</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
@@ -3521,7 +3522,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>หมายเหตุ: มอดแพ็กของ FTB หลายตัวมีให้โหลดใน CurseForge ด้วย! นอกจากนี้ หากอินสแตนซ์ของ FTB ไม่ได้อยู่ในตำแหน่งเริ่มต้น ให้เลือกตำแหน่งที่ตั้งโดยใช้ปุ่มข้างช่องค้นหา</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -4007,7 +4008,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>หมายเหตุ: มอดแพ็กของ FTB หลายตัวมีให้ดาวน์โหลดใน CurseForge</translation>
     </message>
     <message>
         <source>FTB</source>
