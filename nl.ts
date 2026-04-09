@@ -547,7 +547,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Account</translation>
+        <translation type="vanished">Account</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -574,7 +574,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Gebruikersnaam van het account.</translation>
+        <translation type="vanished">Gebruikersnaam van het account.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1067,7 +1067,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Geannuleerd</translation>
+        <translation type="vanished">Geannuleerd</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1104,7 +1104,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Geannuleerd</translation>
+        <translation type="vanished">Geannuleerd</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2237,7 +2237,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Afgebroken</translation>
+        <translation type="vanished">Afgebroken</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2282,7 +2282,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Niet herkend</translation>
+        <translation type="vanished">Niet herkend</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2295,14 +2295,14 @@ Sommige versies van Minecraft starten mogelijk niet op.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Waarschuwing: Deze bron is van ergens anders symbolisch gekoppeld. Aanpassen verandert ook het origineel.
 Canoniek Pad: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Waarschuwing: deze bron is ergens anders hard gekoppeld. Als u deze bewerkt, wordt ook het origineel gewijzigd.</translation>
     </message>
     <message>
@@ -3443,27 +3443,27 @@ Weet u zeker dat je dit wilt doen?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Controle van FML-bibliotheken...</translation>
+        <translation type="vanished">Controle van FML-bibliotheken...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Downloaden van FML-bibliotheken...</translation>
+        <translation type="vanished">Downloaden van FML-bibliotheken...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Geannuleerd</translation>
+        <translation type="vanished">Geannuleerd</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>FML-bibliotheken naar de instantie kopiëren...</translation>
+        <translation type="vanished">FML-bibliotheken naar de instantie kopiëren...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Het maken van de FML-bibliotheekmap in de instantie is mislukt.</translation>
+        <translation type="vanished">Het maken van de FML-bibliotheekmap in de instantie is mislukt.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Kopiëren van de Forge/FML-bibliotheek is mislukt: %1.</translation>
+        <translation type="vanished">Kopiëren van de Forge/FML-bibliotheek is mislukt: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3471,7 +3471,7 @@ Weet u zeker dat je dit wilt doen?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Fout bij het downloaden van de volgende bestanden:
+        <translation type="vanished">Fout bij het downloaden van de volgende bestanden:
 %1
 
 Reden:%2
@@ -6027,23 +6027,23 @@ Je kan de Java-versie later in de instellingen wijzigen.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Geen account gekozen om mee op te starten.</translation>
+        <translation type="vanished">Geen account gekozen om mee op te starten.</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Het lijkt erop dat we na %1 pogingen niet konden starten. Meestal kan dit worden opgelost door af te melden en opnieuw aan te melden bij je Microsoft-account. Als dat niet werkt, zijn de authenticatieservers van Minecraft mogelijk niet beschikbaar of heb je een VPN nodig in jouw regio. Wil je doorgaan met proberen?</translation>
+        <translation type="vanished">Het lijkt erop dat we na %1 pogingen niet konden starten. Meestal kan dit worden opgelost door af te melden en opnieuw aan te melden bij je Microsoft-account. Als dat niet werkt, zijn de authenticatieservers van Minecraft mogelijk niet beschikbaar of heb je een VPN nodig in jouw regio. Wil je doorgaan met proberen?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>De launcher zijn client identificatie is veranderd. Verwijder &apos;%1&apos; en probeer opnieuw.</translation>
+        <translation type="vanished">De launcher zijn client identificatie is veranderd. Verwijder &apos;%1&apos; en probeer opnieuw.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; bestaat niet meer op de servers. Het kan zijn dat dit gemigratet is, in dit geval voeg je het account naar waar dit gemigratet is toe.</translation>
+        <translation type="vanished">&apos;%1&apos; bestaat niet meer op de servers. Het kan zijn dat dit gemigratet is, in dit geval voeg je het account naar waar dit gemigratet is toe.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos; is verlopen en moet terug geauthenticeerd worden. Wil je dit account terug authenticeren?</translation>
+        <translation type="vanished">&apos;%1&apos; is verlopen en moet terug geauthenticeerd worden. Wil je dit account terug authenticeren?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -6051,7 +6051,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Lancering voortzetten?</translation>
+        <translation type="vanished">Lancering voortzetten?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -6064,15 +6064,15 @@ Je kan de Java-versie later in de instellingen wijzigen.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Kies uw spelernaam voor de offline-modus.</translation>
+        <translation type="vanished">Kies uw spelernaam voor de offline-modus.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Kies een speler naam voor demo modus.</translation>
+        <translation type="vanished">Kies een speler naam voor demo modus.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Onbepaalde sessiestatus ontvangen tijdens inloggen.</translation>
+        <translation type="vanished">Onbepaalde sessiestatus ontvangen tijdens inloggen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -6084,7 +6084,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Dit account is niet in bezit van Minecraft.
+        <translation type="vanished">Dit account is niet in bezit van Minecraft.
 U moet het spel eerst kopen om het te kunnen spelen.
 
 Wilt u de demo spelen?</translation>
@@ -6101,7 +6101,7 @@ Wilt u de demo spelen?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Starten geannuleerd - account niet in bezit van Minecraft.</translation>
+        <translation type="vanished">Starten geannuleerd - account niet in bezit van Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6122,7 +6122,7 @@ Wilt u de demo spelen?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Client-identificatie veranderd</translation>
+        <translation type="vanished">Client-identificatie veranderd</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6130,11 +6130,11 @@ Wilt u de demo spelen?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Account is weg</translation>
+        <translation type="vanished">Account is weg</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Starten mislukt.</translation>
+        <translation type="vanished">Starten mislukt.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -6146,7 +6146,7 @@ Wilt u de demo spelen?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Het account is verlopen en moet opnieuw worden geverifieerd</translation>
+        <translation type="vanished">Het account is verlopen en moet opnieuw worden geverifieerd</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6713,7 +6713,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7293,7 +7293,7 @@ Je moet dit probleem handmatig oplossen.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Afgebroken</translation>
+        <translation type="vanished">Afgebroken</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8238,7 +8238,7 @@ Reden:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;Help</translation>
+        <translation type="vanished">%1 &amp;Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8987,7 +8987,7 @@ Weet je het zeker?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Dit is een lokaal modpack.
+        <translation type="vanished">Dit is een lokaal modpack.
 Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
 </translation>
     </message>
@@ -9226,7 +9226,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Geannuleerd</translation>
+        <translation type="vanished">Geannuleerd</translation>
     </message>
 </context>
 <context>
@@ -10100,14 +10100,14 @@ Je gaat hoogst waarschijnlijk het pad moeten veranderen - kijk hiervoor naar de 
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Waarschuwing: Deze bron is ergens anders symbolisch gelinkt. Hem bijwerken zal ook de originele aanpassen.
 Canoniek Pad: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de originele veranderen.</translation>
     </message>
     <message>
@@ -12336,7 +12336,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Het updateprogramma kon geen logbestand maken - de gegevensmap is niet beschrijfbaar.
+        <translation type="vanished">Het updateprogramma kon geen logbestand maken - de gegevensmap is niet beschrijfbaar.
 
 Zorg ervoor dat je schrijfrechten hebt voor de gegevensmap.
 (%1)
@@ -12648,11 +12648,11 @@ Selecteer hieronder &quot;Negeren&quot; om deze vergrendeling te overschrijven e
     </message>
     <message>
         <source>Name</source>
-        <translation>Naam</translation>
+        <translation type="vanished">Naam</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (in gebruik)</translation>
+        <translation type="vanished">%1 (in gebruik)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -13161,11 +13161,11 @@ Doorgaan met inkorten?</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Geen profiel (%1)</translation>
+        <translation type="vanished">Geen profiel (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Offline&gt;</translation>
+        <translation type="vanished">&lt;Offline&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -14503,7 +14503,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Niet herkend</translation>
+        <translation type="vanished">Niet herkend</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -14516,14 +14516,14 @@ Weet je zeker dat je dit wilt doen?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Waarschuwing: Deze bron is al ergens anders symbolisch gelinkt. Hem bijwerken zal ook de originele veranderen.
 Canoniek Pad: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook de originele veranderen.</translation>
     </message>
     <message>
@@ -16168,14 +16168,14 @@ inheritsFrom ontbreekt</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Waarschuwing: Deze bron is al ergens anders symbolisch gelinkt. Hem bijwerken zal ook de originele veranderen.
 Canoniek Pad: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de originele veranderen.</translation>
     </message>
     <message>
@@ -16644,7 +16644,7 @@ De instantie kan hierdoor niet starten.</translation>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>De belangrijke Java versie in niet compatibel. Dingen kunnen kapot gaan.</translation>
+        <translation type="vanished">De belangrijke Java versie in niet compatibel. Dingen kunnen kapot gaan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -17764,11 +17764,11 @@ Stel uw account in volgens %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Xbox profiel ophalen.</translation>
+        <translation type="vanished">Xbox profiel ophalen.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Het ophalen van het Xbox profiel is mislukt: %1</translation>
+        <translation type="vanished">Het ophalen van het Xbox profiel is mislukt: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -17776,7 +17776,7 @@ Stel uw account in volgens %1.</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Xbox profiel verkregen</translation>
+        <translation type="vanished">Xbox profiel verkregen</translation>
     </message>
 </context>
 <context>

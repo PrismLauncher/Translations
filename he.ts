@@ -535,7 +535,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>חשבון</translation>
+        <translation type="vanished">חשבון</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -562,7 +562,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>שם המשתמש של החשבון.</translation>
+        <translation type="vanished">שם המשתמש של החשבון.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1059,7 +1059,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>ננטש</translation>
+        <translation type="vanished">ננטש</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1133,7 +1133,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>ננטש</translation>
+        <translation type="vanished">ננטש</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2246,7 +2246,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>ננטש</translation>
+        <translation type="vanished">ננטש</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2291,7 +2291,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>לא מזוהה</translation>
+        <translation type="vanished">לא מזוהה</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2304,14 +2304,14 @@ Some versions of Minecraft may not launch.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 אזהרה: משאב זה מקושר באופן סמלי ממקום אחר. עריכתו תשנה גם את המקור.
 נתיב קנוני: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 אזהרה: משאב זה מקושר באופן קשיח למקום אחר. עריכתו תשנה גם את המקור.</translation>
     </message>
     <message>
@@ -3415,27 +3415,27 @@ Are you sure you want to do this?</source>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>מתבצעת בדיקה אחר ספריות FML...</translation>
+        <translation type="vanished">מתבצעת בדיקה אחר ספריות FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>ספריות FML מתקבלות...</translation>
+        <translation type="vanished">ספריות FML מתקבלות...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>ננטש</translation>
+        <translation type="vanished">ננטש</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>ספריות FML מועתקות לתוך העותק...</translation>
+        <translation type="vanished">ספריות FML מועתקות לתוך העותק...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>נכשלה יצירת תיקייה של ספריית FML בתוך העותק.</translation>
+        <translation type="vanished">נכשלה יצירת תיקייה של ספריית FML בתוך העותק.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>העתקה של ספריית Forge/FML נכשלה: %1.</translation>
+        <translation type="vanished">העתקה של ספריית Forge/FML נכשלה: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3443,7 +3443,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>הורדת הקבצים הבאים נכשלה:
+        <translation type="vanished">הורדת הקבצים הבאים נכשלה:
 %1
 
 סיבה: %2
@@ -5634,7 +5634,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>לא נבחר חשבון להפעלה.</translation>
+        <translation type="vanished">לא נבחר חשבון להפעלה.</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -5642,7 +5642,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>להמשיך בהפעלה?</translation>
+        <translation type="vanished">להמשיך בהפעלה?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
@@ -5651,15 +5651,11 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>נא בחר שם שחקן למצב הלא מקוון.</translation>
+        <translation type="vanished">נא בחר שם שחקן למצב הלא מקוון.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>נא לבחור שם שחקן למצב ההדגמה.</translation>
-    </message>
-    <message>
-        <source>Received undetermined session status during login.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">נא לבחור שם שחקן למצב ההדגמה.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5671,7 +5667,7 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>לחשבון זה אין עותק של Minecraft
+        <translation type="vanished">לחשבון זה אין עותק של Minecraft
 יש לרכוש את המשחק תחילה בשביל לשחק בו.
 
 האם ברצונך לשחק במצב ההדגמה?</translation>
@@ -5687,20 +5683,8 @@ Do you want to play the demo?</source>
         <translation>ביטול</translation>
     </message>
     <message>
-        <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Play Offline</source>
         <translation type="vanished">משחק במצב לא מקוון</translation>
-    </message>
-    <message>
-        <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -5709,23 +5693,15 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>מזהה הלקוח השתנה</translation>
-    </message>
-    <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">מזהה הלקוח השתנה</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>החשבון נעלם</translation>
+        <translation type="vanished">החשבון נעלם</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>ההפעלה נכשלה.</translation>
-    </message>
-    <message>
-        <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ההפעלה נכשלה.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -5759,10 +5735,6 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6047,7 +6019,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;‏Java:</translation>
+        <translation type="vanished">&amp;‏Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -6653,7 +6625,7 @@ You&apos;ll have to correct this problem manually.</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>ננטש</translation>
+        <translation type="vanished">ננטש</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7503,7 +7475,7 @@ Reason:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>ע&amp;זרה עם %1</translation>
+        <translation type="vanished">ע&amp;זרה עם %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8048,12 +8020,6 @@ Are you sure?</source>
         <translation>טעינה מחדש של העמוד</translation>
     </message>
     <message>
-        <source>This is a local modpack.
-This can be updated only using a file in %1 format
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation type="unfinished"></translation>
@@ -8272,7 +8238,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>ננטש</translation>
+        <translation type="vanished">ננטש</translation>
     </message>
 </context>
 <context>
@@ -8937,14 +8903,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 אזהרה: משאב זה מקושר באופן סמלי ממקום אחר. עריכתו תשנה גם את המקור.
 נתיב קנוני: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 אזהרה: משאב זה מקושר באופן קשיח למקום אחר. עריכתו תשנה גם את המקור.</translation>
     </message>
     <message>
@@ -10713,15 +10679,6 @@ The updater cannot continue until you fix this problem.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The updater couldn&apos;t create a log file - the data folder is not writable.
-
-Make sure you have write permissions to the data folder.
-(%1)
-
-The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="450"/>
         <source>Updating flatpack not supported</source>
         <translation type="unfinished"></translation>
@@ -10975,11 +10932,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="vanished">שם</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (בשימוש)</translation>
+        <translation type="vanished">%1 (בשימוש)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -11443,12 +11400,8 @@ Proceed with truncation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;לא מקוון&gt;</translation>
+        <translation type="vanished">&lt;לא מקוון&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -12652,7 +12605,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>לא מוכר</translation>
+        <translation type="vanished">לא מוכר</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -12665,14 +12618,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 אזהרה: משאב זה מקושר באופן סמלי ממקום אחר. עריכתו תשנה גם את המקור.
 נתיב קנוני: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 אזהרה: משאב זה מקושר באופן קשיח למקום אחר. עריכתו תשנה גם את המקור.</translation>
     </message>
     <message>
@@ -14170,14 +14123,14 @@ inheritsFrom is missing</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 אזהרה: משאב זה מקושר באופן סמלי ממקום אחר. עריכתו תשנה גם את המקור.
 נתיב קנוני: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 אזהרה: משאב זה מקושר באופן קשיח למקום אחר. עריכתו תשנה גם את המקור.</translation>
     </message>
     <message>
@@ -14537,10 +14490,6 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java major version is incompatible. Things might break.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15525,15 +15474,11 @@ Please set up your account according to %1.</source>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>מתקבל פרופיל Xbox.</translation>
-    </message>
-    <message>
-        <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">מתקבל פרופיל Xbox.</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>התקבל פרופיל Xbox</translation>
+        <translation type="vanished">התקבל פרופיל Xbox</translation>
     </message>
 </context>
 <context>

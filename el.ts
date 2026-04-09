@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Λογαριασμός</translation>
+        <translation type="vanished">Λογαριασμός</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Όνομα χρήστη του λογαριασμού.</translation>
+        <translation type="vanished">Όνομα χρήστη του λογαριασμού.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1052,7 +1052,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Ακυρώθηκε</translation>
+        <translation type="vanished">Ακυρώθηκε</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1089,7 +1089,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Ακυρώθηκε</translation>
+        <translation type="vanished">Ακυρώθηκε</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2205,7 +2205,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Ακυρώθηκε</translation>
+        <translation type="vanished">Ακυρώθηκε</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2249,25 +2249,10 @@ Some versions of Minecraft may not launch.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="145"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3267,27 +3252,27 @@ Are you sure you want to do this?</source>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Έλεγχος για βιβλιοθήκες FML...</translation>
+        <translation type="vanished">Έλεγχος για βιβλιοθήκες FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Λήψη των βιβλιοθηκών FML...</translation>
+        <translation type="vanished">Λήψη των βιβλιοθηκών FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Ακυρώθηκε</translation>
+        <translation type="vanished">Ακυρώθηκε</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Αντιγραφή των βιβλιοθηκών FML στην εγκατάσταση...</translation>
+        <translation type="vanished">Αντιγραφή των βιβλιοθηκών FML στην εγκατάσταση...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Αδυναμία δημιουργίας φακέλου βιβλιοθήκης FML στην εγκατάσταση.</translation>
+        <translation type="vanished">Αδυναμία δημιουργίας φακέλου βιβλιοθήκης FML στην εγκατάσταση.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Αδυναμία αντιγραφής βιβλιοθήκης Forge/FML: %1.</translation>
+        <translation type="vanished">Αδυναμία αντιγραφής βιβλιοθήκης Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3295,7 +3280,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>Αδυναμία λήψης των παρακάτω αρχείων:
+        <translation type="vanished">Αδυναμία λήψης των παρακάτω αρχείων:
 %1
 
 Λόγος:%2
@@ -5438,31 +5423,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Δεν έχουν επιλεγεί λογαριασμός για εκκίνηση.</translation>
+        <translation type="vanished">Δεν έχουν επιλεγεί λογαριασμός για εκκίνηση.</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Φαίνεται πως δεν μπορέσαμε να ξεκινήσουμε μετά από %1 προσπάθειες. Συνήθως αυτό μπορεί να λυθεί αποσυνδέοντας και επνασυνδέοντας στον λοργαγιασμό σας στην Microsoft. Αν αυτό δεν λειτουργήσει, οι διακομιστές επαλήθευσης του Minecraft μπορεί να βρίσκονται εκτός λειτουργίας η μπορεί να χρειάζεστε ένα VPN στην περιοχή σας. Θα θέλατε να προσπαθήσετε ξανά;</translation>
-    </message>
-    <message>
-        <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Φαίνεται πως δεν μπορέσαμε να ξεκινήσουμε μετά από %1 προσπάθειες. Συνήθως αυτό μπορεί να λυθεί αποσυνδέοντας και επνασυνδέοντας στον λοργαγιασμό σας στην Microsoft. Αν αυτό δεν λειτουργήσει, οι διακομιστές επαλήθευσης του Minecraft μπορεί να βρίσκονται εκτός λειτουργίας η μπορεί να χρειάζεστε ένα VPN στην περιοχή σας. Θα θέλατε να προσπαθήσετε ξανά;</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
         <translation type="vanished">Ο λογαριασμός σας δεν είναι συνδεδεμένος. Παρακαλώ εισάγετε τον κωδικό πρόσβασής σας για να συνδεθείτε ξανά. &lt;br /&gt; &lt;br /&gt; Αυτό μπορεί να προκληθεί από μια αλλαγή κωδικού πρόσβασης.</translation>
-    </message>
-    <message>
-        <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
@@ -5471,15 +5440,11 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Επιλέξτε ένα όνομα παίκτη για την λειτουργία εκτός σύνδεσης.</translation>
-    </message>
-    <message>
-        <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Επιλέξτε ένα όνομα παίκτη για την λειτουργία εκτός σύνδεσης.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Λήφθηκε απροσδιόριστη κατάσταση συνεδρίας κατά τη σύνδεση.</translation>
+        <translation type="vanished">Λήφθηκε απροσδιόριστη κατάσταση συνεδρίας κατά τη σύνδεση.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5491,7 +5456,7 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Αυτός ο λογαργιασμός δεν κατέχει το Minecraft.
+        <translation type="vanished">Αυτός ο λογαργιασμός δεν κατέχει το Minecraft.
 Πρέπει να αγοράσετε το παιχνίδι πρώτα για να το παίξετε.
 
 Θα θέλατε να παίξετε την δοκιμαστική έκδοση;</translation>
@@ -5508,7 +5473,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Το ξεκίνημα ακυρώθηκε - ο λογαργιασμός δεν κατέχει το Minecraft.</translation>
+        <translation type="vanished">Το ξεκίνημα ακυρώθηκε - ο λογαργιασμός δεν κατέχει το Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5524,24 +5489,16 @@ Do you want to play the demo?</source>
         <translation>Αποτυχία ανανέωσης σύνδεσης λογαριασμού</translation>
     </message>
     <message>
-        <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation type="vanished">Ο λογαριασμός δεν υπάρχει πλέον στους διακομιστές. Μπορεί να έχει μεταφερθεί, οπότε προσθέστε τον νέο λογαριασμό στον οποίο τον μεταφέρατε.</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Ο λογαριασμός χάθηκε</translation>
+        <translation type="vanished">Ο λογαριασμός χάθηκε</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Αδυναμία εκκίνησης.</translation>
-    </message>
-    <message>
-        <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Αδυναμία εκκίνησης.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6024,10 +5981,6 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Java:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6549,7 +6502,7 @@ You&apos;ll have to correct this problem manually.</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Ακυρώθηκε</translation>
+        <translation type="obsolete">Ακυρώθηκε</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7401,11 +7354,6 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 &amp;Help</source>
-        <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
         <source>Open the %1 wiki</source>
         <translation type="unfinished"></translation>
@@ -7941,12 +7889,6 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is a local modpack.
-This can be updated only using a file in %1 format
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation type="unfinished"></translation>
@@ -8162,7 +8104,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Ακυρώθηκε</translation>
+        <translation type="obsolete">Ακυρώθηκε</translation>
     </message>
 </context>
 <context>
@@ -8782,17 +8724,6 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation type="obsolete">Άγνωστο</translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -10517,15 +10448,6 @@ The updater cannot continue until you fix this problem.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The updater couldn&apos;t create a log file - the data folder is not writable.
-
-Make sure you have write permissions to the data folder.
-(%1)
-
-The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="450"/>
         <source>Updating flatpack not supported</source>
         <translation type="unfinished"></translation>
@@ -10778,11 +10700,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>Όνομα</translation>
+        <translation type="vanished">Όνομα</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (σε χρήση)</translation>
+        <translation type="obsolete">%1 (σε χρήση)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -11258,14 +11180,6 @@ Proceed with truncation?</source>
     <message>
         <source>Unable to process the version file %1.</source>
         <translation type="vanished">Αδυναμία επεξεργασίας αρχείου έκδοσης %1.</translation>
-    </message>
-    <message>
-        <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -12491,25 +12405,10 @@ Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="149"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14050,17 +13949,6 @@ inheritsFrom is missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="132"/>
         <source>The source provider of the texture pack.</source>
         <translation type="unfinished"></translation>
@@ -14414,10 +14302,6 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java major version is incompatible. Things might break.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15479,21 +15363,6 @@ Please set up your account according to %1.</source>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>XboxProfileStep</name>
-    <message>
-        <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Got Xbox profile</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

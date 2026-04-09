@@ -543,7 +543,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Compte</translation>
+        <translation type="vanished">Compte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -570,7 +570,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Nom d&apos;usuari/ària del compte.</translation>
+        <translation type="vanished">Nom d&apos;usuari/ària del compte.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1055,7 +1055,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Avortat</translation>
+        <translation type="vanished">Avortat</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1092,7 +1092,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Avortat</translation>
+        <translation type="vanished">Avortat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2213,7 +2213,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Avortat</translation>
+        <translation type="vanished">Avortat</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2258,7 +2258,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>No reconegut</translation>
+        <translation type="vanished">No reconegut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2271,14 +2271,14 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Precaució: Aquest recurs està enllaçat simbòlicament des d&apos;una altra ubicació. Canviar-lo també modificarà l&apos;original.
 Ruta canònica: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Canviar-lo també modificarà l&apos;original.</translation>
     </message>
     <message>
@@ -3369,27 +3369,27 @@ Esteu segur de fer-ho?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Comprovant biblioteques FML...</translation>
+        <translation type="vanished">Comprovant biblioteques FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Baixant biblioteques FML...</translation>
+        <translation type="vanished">Baixant biblioteques FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Interromput</translation>
+        <translation type="vanished">Interromput</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Copiant les biblioteques FML a la instància...</translation>
+        <translation type="vanished">Copiant les biblioteques FML a la instància...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>No s&apos;ha pogut crear la carpeta per guardar les biblioteques FML dins de la instància.</translation>
+        <translation type="vanished">No s&apos;ha pogut crear la carpeta per guardar les biblioteques FML dins de la instància.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>No s&apos;ha pogut copiar les biblioteques de Forge/FML: %1.</translation>
+        <translation type="vanished">No s&apos;ha pogut copiar les biblioteques de Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3397,7 +3397,7 @@ Esteu segur de fer-ho?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>No s&apos;ha pogut baixar els següents fitxers:
+        <translation type="vanished">No s&apos;ha pogut baixar els següents fitxers:
 %1
 
 Raó:%2
@@ -5864,23 +5864,19 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>No s&apos;ha seleccionat cap compte per al llançament.</translation>
-    </message>
-    <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">No s&apos;ha seleccionat cap compte per al llançament.</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>La identificació del client del llançador ha canviat. Si us plau, elimina &apos;%1&apos; i prova de nou.</translation>
+        <translation type="vanished">La identificació del client del llançador ha canviat. Si us plau, elimina &apos;%1&apos; i prova de nou.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>Ja no existeix &apos;%1&apos; als servidors. En el cas que sigui a causa d&apos;una migració, si us plau afegeix el nou compte al qual l&apos;hagis migrat.</translation>
+        <translation type="vanished">Ja no existeix &apos;%1&apos; als servidors. En el cas que sigui a causa d&apos;una migració, si us plau afegeix el nou compte al qual l&apos;hagis migrat.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos; ha expirat i s&apos;ha de tornar a autenticar. Vols tornar a autenticar el compte?</translation>
+        <translation type="vanished">&apos;%1&apos; ha expirat i s&apos;ha de tornar a autenticar. Vols tornar a autenticar el compte?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -5888,7 +5884,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Continuar llançament?</translation>
+        <translation type="vanished">Continuar llançament?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -5901,15 +5897,15 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Tria el teu nom de jugador per a la partida fora de línia.</translation>
+        <translation type="vanished">Tria el teu nom de jugador per a la partida fora de línia.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Escriu el teu nom pel mode demostració.</translation>
+        <translation type="vanished">Escriu el teu nom pel mode demostració.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>S&apos;ha rebut un estat de sessió indeterminat durant l&apos;inici de sessió.</translation>
+        <translation type="vanished">S&apos;ha rebut un estat de sessió indeterminat durant l&apos;inici de sessió.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5921,7 +5917,7 @@ Podràs canviar la versió de Java més tard a la configuració.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Aquest compte no posseeix Minecraft
+        <translation type="vanished">Aquest compte no posseeix Minecraft
 Necessites comprar el joc abans per jugar-lo.
 
 Vols jugar la demo?</translation>
@@ -5938,7 +5934,7 @@ Vols jugar la demo?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Llançament cancel·lat - el compte no posseeix Minecraft.</translation>
+        <translation type="vanished">Llançament cancel·lat - el compte no posseeix Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5959,7 +5955,7 @@ Vols jugar la demo?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>La identificació del client ha canviat</translation>
+        <translation type="vanished">La identificació del client ha canviat</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -5967,15 +5963,15 @@ Vols jugar la demo?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Compte eliminat</translation>
+        <translation type="vanished">Compte eliminat</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Error en iniciar.</translation>
+        <translation type="vanished">Error en iniciar.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>El compte ha expirat i s&apos;ha de tornar a autenticar</translation>
+        <translation type="vanished">El compte ha expirat i s&apos;ha de tornar a autenticar</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6498,7 +6494,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7062,7 +7058,7 @@ Cal corregir aquest problema manualment.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Avortat</translation>
+        <translation type="obsolete">Avortat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7983,7 +7979,7 @@ Motiu:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>A&amp;juda sobre %1</translation>
+        <translation type="vanished">A&amp;juda sobre %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8732,7 +8728,7 @@ Vols continuar?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Això és un paquet de mods local.
+        <translation type="vanished">Això és un paquet de mods local.
 Només pots actualitzar-lo amb un arxiu en format %1
 </translation>
     </message>
@@ -8971,7 +8967,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Avortat</translation>
+        <translation type="obsolete">Avortat</translation>
     </message>
 </context>
 <context>
@@ -9809,14 +9805,14 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Precaució: Aquest recurs està enllaçat simbòlicament des d&apos;una altra ubicació. Canviar-lo també modificarà l&apos;original.
 Ruta canònica: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Canviar-lo també modificarà l&apos;original.</translation>
     </message>
     <message>
@@ -11897,7 +11893,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>L&apos;actualitzador no ha pogut crear un registre - la carpeta de dades no te permisos d&apos;escriptura.
+        <translation type="vanished">L&apos;actualitzador no ha pogut crear un registre - la carpeta de dades no te permisos d&apos;escriptura.
 
 Assegura&apos;t de donar-li aquests permisos a la carpeta de dades.
 (%1)
@@ -12174,11 +12170,11 @@ Per sobreescriure el fitxer lock i continuar amb l&apos;actualització, prem &qu
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation type="vanished">Nom</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (en ús)</translation>
+        <translation type="vanished">%1 (en ús)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -12679,11 +12675,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Cap perfil (%1)</translation>
-    </message>
-    <message>
-        <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Cap perfil (%1)</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -13957,7 +13949,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">No reconegut</translation>
+        <translation type="obsolete">No reconegut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -13970,14 +13962,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Precaució: Aquest recurs està enllaçat simbòlicament des d&apos;una altra ubicació. Canviar-lo també modificarà l&apos;original.
 Ruta canònica: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Canviar-lo també modificarà l&apos;original.</translation>
     </message>
     <message>
@@ -15513,14 +15505,14 @@ falta &quot;inheritsFrom&quot;</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Precaució: Aquest recurs està enllaçat simbòlicament des d&apos;una altra ubicació. Canviar-lo també modificarà l&apos;original.
 Ruta canònica: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Canviar-lo també modificarà l&apos;original.</translation>
     </message>
     <message>
@@ -15927,7 +15919,7 @@ La instal·lació de Java és de 32 bits i no accepta més de 2048 MiB de RAM.
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>La versió major de Java és incompatible. Potser es trenquen les coses.</translation>
+        <translation type="vanished">La versió major de Java és incompatible. Potser es trenquen les coses.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -17021,11 +17013,7 @@ Configureu el vostre compte segons %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>S&apos;està obtenint el perfil de l&apos;Xbox.</translation>
-    </message>
-    <message>
-        <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">S&apos;està obtenint el perfil de l&apos;Xbox.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -17033,7 +17021,7 @@ Configureu el vostre compte segons %1.</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>S&apos;ha obtingut el perfil de l&apos;Xbox</translation>
+        <translation type="vanished">S&apos;ha obtingut el perfil de l&apos;Xbox</translation>
     </message>
 </context>
 <context>

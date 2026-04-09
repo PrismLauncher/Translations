@@ -551,7 +551,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>계정</translation>
+        <translation type="vanished">계정</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -578,7 +578,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>계정의 사용자명입니다.</translation>
+        <translation type="vanished">계정의 사용자명입니다.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1075,7 +1075,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>중단됨</translation>
+        <translation type="vanished">중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1149,7 +1149,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>중단됨</translation>
+        <translation type="vanished">중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2278,7 +2278,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>중단됨</translation>
+        <translation type="vanished">중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2323,7 +2323,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>인식되지 않음</translation>
+        <translation type="vanished">인식되지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2336,14 +2336,14 @@ Some versions of Minecraft may not launch.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 경고: 이 리소스는 다른 곳에서 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
 표준 경로: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 경고: 이 리소스는 다른 곳에 하드 링크되어 있습니다. 이 리소스를 편집하면 원본도 변경됩니다.</translation>
     </message>
     <message>
@@ -3492,27 +3492,27 @@ Are you sure you want to do this?</source>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>FML 라이브러리를 확인하는 중...</translation>
+        <translation type="vanished">FML 라이브러리를 확인하는 중...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>FML 라이브러리를 다운로드하는 중...</translation>
+        <translation type="vanished">FML 라이브러리를 다운로드하는 중...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>중단됨</translation>
+        <translation type="vanished">중단됨</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>FML 라이브러리를 인스턴스에 복사하는 중...</translation>
+        <translation type="vanished">FML 라이브러리를 인스턴스에 복사하는 중...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>인스턴스 안에 FML 라이브러리 폴더를 생성하지 못하였습니다.</translation>
+        <translation type="vanished">인스턴스 안에 FML 라이브러리 폴더를 생성하지 못하였습니다.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Forge/FML 라이브러리를 복사하지 못함: %1.</translation>
+        <translation type="vanished">Forge/FML 라이브러리를 복사하지 못함: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3520,7 +3520,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>다음 파일을 다운로드하지 못함:
+        <translation type="vanished">다음 파일을 다운로드하지 못함:
 %1
 
 이유:%2
@@ -6099,23 +6099,23 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>실행에 사용될 계정이 선택되지 않음.</translation>
+        <translation type="vanished">실행에 사용될 계정이 선택되지 않음.</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>%1번 시도 후에도 실행되지 않은 것 같습니다. 일반적으로 Microsoft 계정에서 로그아웃 후 다시 로그인하면 해결됩니다. 그래도 문제가 지속되면 마인크래프트 인증 서버 장애일 수 있거나, 해당 지역에서 VPN이 필요할 수 있습니다. 계속 시도하시겠습니까?</translation>
+        <translation type="vanished">%1번 시도 후에도 실행되지 않은 것 같습니다. 일반적으로 Microsoft 계정에서 로그아웃 후 다시 로그인하면 해결됩니다. 그래도 문제가 지속되면 마인크래프트 인증 서버 장애일 수 있거나, 해당 지역에서 VPN이 필요할 수 있습니다. 계속 시도하시겠습니까?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>런처의 클라이언트 ID가 변경되었습니다. &apos;%1&apos;을 제거하고 다시 시도하십시오.</translation>
+        <translation type="vanished">런처의 클라이언트 ID가 변경되었습니다. &apos;%1&apos;을 제거하고 다시 시도하십시오.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos;이(가) 더 이상 서버에 존재하지 않습니다. 마이그레이션되었을 수 있으며, 이 경우 이 계정을 마이그레이션한 새 계정을 추가하세요.</translation>
+        <translation type="vanished">&apos;%1&apos;이(가) 더 이상 서버에 존재하지 않습니다. 마이그레이션되었을 수 있으며, 이 경우 이 계정을 마이그레이션한 새 계정을 추가하세요.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos;이(가) 만료되었으므로 다시 인증하여야 합니다. 이 계정을 다시 인증하시겠습니까?</translation>
+        <translation type="vanished">&apos;%1&apos;이(가) 만료되었으므로 다시 인증하여야 합니다. 이 계정을 다시 인증하시겠습니까?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -6123,7 +6123,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>실행하시겠습니까?</translation>
+        <translation type="vanished">실행하시겠습니까?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -6136,15 +6136,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>오프라인 모드에서의 플레이어 이름을 고르십시오.</translation>
+        <translation type="vanished">오프라인 모드에서의 플레이어 이름을 고르십시오.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>데모 모드에서의 플레이어 이름을 고르십시오.</translation>
+        <translation type="vanished">데모 모드에서의 플레이어 이름을 고르십시오.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>로그인 과정에서 불분명한 세션 상태를 수신함.</translation>
+        <translation type="vanished">로그인 과정에서 불분명한 세션 상태를 수신함.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -6156,7 +6156,7 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>이 계정은 마인크래프트를 소유하고 있지 않습니다.
+        <translation type="vanished">이 계정은 마인크래프트를 소유하고 있지 않습니다.
 게임을 구매해야 플레이할 수 있습니다.
 
 먼저 데모를 플레이하시겠습니까?</translation>
@@ -6173,7 +6173,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>실행 취소됨 - 계정이 마인크래프트를 소유하고 있지 않습니다.</translation>
+        <translation type="vanished">실행 취소됨 - 계정이 마인크래프트를 소유하고 있지 않습니다.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6194,7 +6194,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>클라이언트 ID 변경됨</translation>
+        <translation type="vanished">클라이언트 ID 변경됨</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6202,11 +6202,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>계정이 없어짐</translation>
+        <translation type="vanished">계정이 없어짐</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>실행하지 못하였습니다.</translation>
+        <translation type="vanished">실행하지 못하였습니다.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -6218,7 +6218,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>계정의 인증이 만료되었으며 다시 인증하여야 함</translation>
+        <translation type="vanished">계정의 인증이 만료되었으며 다시 인증하여야 함</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6788,7 +6788,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>Java(&amp;J):</translation>
+        <translation type="vanished">Java(&amp;J):</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7372,7 +7372,7 @@ You&apos;ll have to correct this problem manually.</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>중단됨</translation>
+        <translation type="vanished">중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8363,7 +8363,7 @@ Reason:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 도움말(&amp;H)</translation>
+        <translation type="vanished">%1 도움말(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -9153,7 +9153,7 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>이것은 로컬 모드 팩입니다.
+        <translation type="vanished">이것은 로컬 모드 팩입니다.
 %1 포맷을 사용한 파일을 사용해야만 업데이트할 수 있습니다
 </translation>
     </message>
@@ -9403,7 +9403,7 @@ URL 또한 신뢰할 수 있는지 반드시 확인하십시오.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>중단됨</translation>
+        <translation type="vanished">중단됨</translation>
     </message>
 </context>
 <context>
@@ -10297,14 +10297,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 경고: 이 리소스는 다른 곳에서 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
 표준 경로: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 경고: 이 리소스는 다른 곳에 하드 링크되어 있습니다. 이 리소스를 편집하면 원본도 변경됩니다.</translation>
     </message>
     <message>
@@ -12549,7 +12549,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>업데이터가 로그 파일을 만들지 못했습니다 - 데이터 폴더에 쓸 수 없습니다.
+        <translation type="vanished">업데이터가 로그 파일을 만들지 못했습니다 - 데이터 폴더에 쓸 수 없습니다.
 
 데이터 폴더에 쓰기 권한이 있는지 확인하십시오.
 (%1)
@@ -12861,11 +12861,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>이름</translation>
+        <translation type="vanished">이름</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1(계정 이용 중)</translation>
+        <translation type="vanished">%1(계정 이용 중)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -13394,11 +13394,11 @@ Error message: %1</source>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>프로필 없음(%1)</translation>
+        <translation type="vanished">프로필 없음(%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;오프라인&gt;</translation>
+        <translation type="vanished">&lt;오프라인&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -14734,7 +14734,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>인식되지 않음</translation>
+        <translation type="vanished">인식되지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -14747,14 +14747,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 경고: 이 리소스는 다른 곳에서 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
 표준 경로: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 경고: 이 리소스는 다른 곳에 하드 링크되어 있습니다. 이 리소스를 편집하면 원본도 변경됩니다.</translation>
     </message>
     <message>
@@ -16422,14 +16422,14 @@ inheritsFrom 누락됨</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 경고: 해당 리소스는 다른 곳에서 심볼릭 링크되어 있습니다. 수정할 경우 원본도 영향을 받습니다.
 경로: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 경고: 이 리소스는 다른 곳에 하드 링크되어 있습니다. 수정할 경우 원본도 영향을 받습니다.</translation>
     </message>
     <message>
@@ -16898,7 +16898,7 @@ The instance may not start due to this.</source>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Java의 주 버전이 호환되지 않습니다. 작동하지 않을 수도 있습니다.</translation>
+        <translation type="vanished">Java의 주 버전이 호환되지 않습니다. 작동하지 않을 수도 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -18018,11 +18018,11 @@ Please set up your account according to %1.</source>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Xbox 프로필을 가져오는 중.</translation>
+        <translation type="vanished">Xbox 프로필을 가져오는 중.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Xbox 프로필을 받아올 수 없습니다: %1</translation>
+        <translation type="vanished">Xbox 프로필을 받아올 수 없습니다: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -18030,7 +18030,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Xbox 프로필 가져옴</translation>
+        <translation type="vanished">Xbox 프로필 가져옴</translation>
     </message>
 </context>
 <context>

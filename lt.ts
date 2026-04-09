@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Paskyra</translation>
+        <translation type="vanished">Paskyra</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Paskyros naudotojo vardas.</translation>
+        <translation type="vanished">Paskyros naudotojo vardas.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1043,7 +1043,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Nutraukta</translation>
+        <translation type="vanished">Nutraukta</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1092,7 +1092,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Nutraukta</translation>
+        <translation type="vanished">Nutraukta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2197,7 +2197,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Nutraukta</translation>
+        <translation type="vanished">Nutraukta</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2242,7 +2242,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Neatpažinta</translation>
+        <translation type="vanished">Neatpažinta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2255,14 +2255,14 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Įspėjimas: šis išteklius yra susietas simboline nuoroda iš kitos vietos. Redaguojant jį, bus pakeistas ir originalas.
 Kanoninis kelias: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Įspėjimas: šis išteklius yra susietas kitoje vietoje naudojant kietąją nuorodą. Redaguojant jį, bus pakeistas ir originalas.</translation>
     </message>
     <message>
@@ -3397,27 +3397,27 @@ Ar tikrai norite tai padaryti?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Tikrinamos FML bibliotekos...</translation>
+        <translation type="vanished">Tikrinamos FML bibliotekos...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Atsisiunčiamos FML bibliotekos...</translation>
+        <translation type="vanished">Atsisiunčiamos FML bibliotekos...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Nutraukta</translation>
+        <translation type="vanished">Nutraukta</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Kopijuojamos FML bibliotekos į egzempliorių...</translation>
+        <translation type="vanished">Kopijuojamos FML bibliotekos į egzempliorių...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Nepavyko sukurti FML bibliotekos aplanko egzemplioriuje.</translation>
+        <translation type="vanished">Nepavyko sukurti FML bibliotekos aplanko egzemplioriuje.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Nepavyko nukopijuoti Forge/FML biliotekos: %1.</translation>
+        <translation type="vanished">Nepavyko nukopijuoti Forge/FML biliotekos: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3425,7 +3425,7 @@ Ar tikrai norite tai padaryti?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Nepavyko atsisiųsti sekančių failų:
+        <translation type="vanished">Nepavyko atsisiųsti sekančių failų:
 %1
 
 Priežastis:%2
@@ -5733,11 +5733,11 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Nepasirinkta paskyra startui.</translation>
+        <translation type="vanished">Nepasirinkta paskyra startui.</translation>
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Tęsti startą?</translation>
+        <translation type="vanished">Tęsti startą?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -5750,15 +5750,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Pasirinkti offline mode žaidėjo vardą.</translation>
+        <translation type="vanished">Pasirinkti offline mode žaidėjo vardą.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Pasirinkti demo mode žaidėjo vardą.</translation>
+        <translation type="vanished">Pasirinkti demo mode žaidėjo vardą.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Gautas nenustatytas sesijos statusas per prisijungimą.</translation>
+        <translation type="vanished">Gautas nenustatytas sesijos statusas per prisijungimą.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5770,7 +5770,7 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Ši paskyra neturi Minecraft.
+        <translation type="vanished">Ši paskyra neturi Minecraft.
 Žaisti reikalingas nupirktas žaidimas.
 
 Ar norite žaisti demo?</translation>
@@ -5787,19 +5787,11 @@ Ar norite žaisti demo?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Startas atšauktas - paskyra neturi Minecraft.</translation>
+        <translation type="vanished">Startas atšauktas - paskyra neturi Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
         <translation type="vanished">Žaisti neprisijungus</translation>
-    </message>
-    <message>
-        <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -5807,24 +5799,12 @@ Ar norite žaisti demo?</translation>
         <translation>Paskyros atnaujimas nepavyko</translation>
     </message>
     <message>
-        <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Account gone</source>
-        <translation>Paskyros nebėra</translation>
+        <translation type="vanished">Paskyros nebėra</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Nepavyko paleisti.</translation>
-    </message>
-    <message>
-        <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Nepavyko paleisti.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -5858,10 +5838,6 @@ Ar norite žaisti demo?</translation>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6201,10 +6177,6 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Java:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6739,7 +6711,7 @@ You&apos;ll have to correct this problem manually.</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Nutraukta</translation>
+        <translation type="obsolete">Nutraukta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7560,11 +7532,6 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 &amp;Help</source>
-        <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
         <source>Open the %1 wiki</source>
         <translation type="unfinished"></translation>
@@ -8074,12 +8041,6 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is a local modpack.
-This can be updated only using a file in %1 format
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation type="unfinished"></translation>
@@ -8287,7 +8248,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Nutraukta</translation>
+        <translation type="obsolete">Nutraukta</translation>
     </message>
 </context>
 <context>
@@ -8965,14 +8926,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Įspėjimas: šis išteklius yra susietas simboline nuoroda iš kitos vietos. Redaguojant jį, bus pakeistas ir originalas.
 Kanoninis kelias: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Įspėjimas: šis išteklius yra susietas kitoje vietoje naudojant kietąją nuorodą. Redaguojant jį, bus pakeistas ir originalas.</translation>
     </message>
     <message>
@@ -10641,15 +10602,6 @@ The updater cannot continue until you fix this problem.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The updater couldn&apos;t create a log file - the data folder is not writable.
-
-Make sure you have write permissions to the data folder.
-(%1)
-
-The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="450"/>
         <source>Updating flatpack not supported</source>
         <translation type="unfinished"></translation>
@@ -10902,11 +10854,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Pavadinimas</translation>
+        <translation type="obsolete">Pavadinimas</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (naudojama)</translation>
+        <translation type="obsolete">%1 (naudojama)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -11343,12 +11295,8 @@ Proceed with truncation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Neprisijungęs&gt;</translation>
+        <translation type="vanished">&lt;Neprisijungęs&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -12540,7 +12488,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Neatpažinta</translation>
+        <translation type="obsolete">Neatpažinta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -12553,14 +12501,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Įspėjimas: šis išteklius yra susietas simboline nuoroda iš kitos vietos. Redaguojant jį, bus pakeistas ir originalas.
 Kanoninis kelias: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Įspėjimas: šis išteklius yra susietas kitoje vietoje naudojant kietąją nuorodą. Redaguojant jį, bus pakeistas ir originalas.</translation>
     </message>
     <message>
@@ -14012,14 +13960,14 @@ inheritsFrom is missing</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Įspėjimas: šis išteklius yra susietas simboline nuoroda iš kitos vietos. Redaguojant jį, bus pakeistas ir originalas.
 Kanoninis kelias: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Įspėjimas: šis išteklius yra susietas kitoje vietoje naudojant kietąją nuorodą. Redaguojant jį, bus pakeistas ir originalas.</translation>
     </message>
     <message>
@@ -14328,10 +14276,6 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java major version is incompatible. Things might break.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15235,21 +15179,6 @@ Please set up your account according to %1.</source>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>XboxProfileStep</name>
-    <message>
-        <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Got Xbox profile</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

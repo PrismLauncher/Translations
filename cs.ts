@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Účet</translation>
+        <translation type="vanished">Účet</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Uživatelské jméno účtu.</translation>
+        <translation type="vanished">Uživatelské jméno účtu.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1062,7 +1062,7 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Přerušeno</translation>
+        <translation type="vanished">Přerušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1136,7 +1136,7 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Přerušeno</translation>
+        <translation type="vanished">Přerušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2269,7 +2269,7 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Přerušeno</translation>
+        <translation type="vanished">Přerušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2314,7 +2314,7 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Nerozpoznaný</translation>
+        <translation type="vanished">Nerozpoznaný</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2327,14 +2327,14 @@ Některé verze Minecraftu se nemusí spustit.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Varování: Tento zdroj je symbolicky propojen odjinud. Jeho úpravou se změní i originál.
 Opravdová cesta: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i originál.</translation>
     </message>
     <message>
@@ -3483,27 +3483,27 @@ Jste si jisti, že to chcete udělat?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Kontrola FML knihoven...</translation>
+        <translation type="vanished">Kontrola FML knihoven...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Stahuji knihovny pro FML...</translation>
+        <translation type="vanished">Stahuji knihovny pro FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Přerušeno</translation>
+        <translation type="vanished">Přerušeno</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Kopíruji FML knihovny do instance...</translation>
+        <translation type="vanished">Kopíruji FML knihovny do instance...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Vytváření složky FLM uvnitř instance se nezdařilo.</translation>
+        <translation type="vanished">Vytváření složky FLM uvnitř instance se nezdařilo.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Kopírování Forge/FML knihoven selhalo: %1.</translation>
+        <translation type="vanished">Kopírování Forge/FML knihoven selhalo: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3511,7 +3511,7 @@ Jste si jisti, že to chcete udělat?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Stahování následujících souborů selhalo:
+        <translation type="vanished">Stahování následujících souborů selhalo:
 %1
 
 Důvod:%2
@@ -6118,23 +6118,23 @@ Verzi Javy můžete později změnit v nastavení.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Žádný účet nebyl vybrán pro spuštění.</translation>
+        <translation type="vanished">Žádný účet nebyl vybrán pro spuštění.</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Hru se nám ani po %1 pokusech nepodařilo spustit. Tento problém lze obvykle vyřešit odhlášením a opětovným přihlášením k vašemu Microsoft účtu. Pokud to nefunguje, mohou mít ověřovací servery Minecraftu výpadek nebo ve vaší oblasti možná potřebujete VPN. Chcete pokračovat v pokoušení o spuštění?</translation>
+        <translation type="vanished">Hru se nám ani po %1 pokusech nepodařilo spustit. Tento problém lze obvykle vyřešit odhlášením a opětovným přihlášením k vašemu Microsoft účtu. Pokud to nefunguje, mohou mít ověřovací servery Minecraftu výpadek nebo ve vaší oblasti možná potřebujete VPN. Chcete pokračovat v pokoušení o spuštění?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Identifikační údaje tohoto spouštěče se změnily. Prosím odstraňte &apos;%1&apos; a zkuste to znovu.</translation>
+        <translation type="vanished">Identifikační údaje tohoto spouštěče se změnily. Prosím odstraňte &apos;%1&apos; a zkuste to znovu.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; již neexistuje na serverech. Tento údaj mohl být přemigrován, v takovém případě si prosím přidejte do aplikace účet, na který byl tento údaj přemigrován.</translation>
+        <translation type="vanished">&apos;%1&apos; již neexistuje na serverech. Tento údaj mohl být přemigrován, v takovém případě si prosím přidejte do aplikace účet, na který byl tento údaj přemigrován.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos; vypršel a musí být reautentizován. Chcete tento účet reautentizovat?</translation>
+        <translation type="vanished">&apos;%1&apos; vypršel a musí být reautentizován. Chcete tento účet reautentizovat?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -6142,7 +6142,7 @@ Verzi Javy můžete později změnit v nastavení.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Pokračovat ve spouštění?</translation>
+        <translation type="vanished">Pokračovat ve spouštění?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -6155,15 +6155,15 @@ Verzi Javy můžete později změnit v nastavení.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Zvolte si jméno.</translation>
+        <translation type="vanished">Zvolte si jméno.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Zvolte jméno hráče v demo režimu.</translation>
+        <translation type="vanished">Zvolte jméno hráče v demo režimu.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Byl přijat neurčený stav relace během přihlášení.</translation>
+        <translation type="vanished">Byl přijat neurčený stav relace během přihlášení.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -6175,7 +6175,7 @@ Verzi Javy můžete později změnit v nastavení.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Tento účet nevlastní Minecraft.
+        <translation type="vanished">Tento účet nevlastní Minecraft.
 Chcete-li si hru zahrát, musíte si ji nejprve zakoupit.
 
 Chcete si zahrát demo?</translation>
@@ -6192,7 +6192,7 @@ Chcete si zahrát demo?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Spouštění zrušeno - tento účet nevlastní Minecraft.</translation>
+        <translation type="vanished">Spouštění zrušeno - tento účet nevlastní Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6213,7 +6213,7 @@ Chcete si zahrát demo?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Identifikace klienta změněna</translation>
+        <translation type="vanished">Identifikace klienta změněna</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6221,11 +6221,11 @@ Chcete si zahrát demo?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Účet je pryč</translation>
+        <translation type="vanished">Účet je pryč</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Spuštění se nezdařilo.</translation>
+        <translation type="vanished">Spuštění se nezdařilo.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -6237,7 +6237,7 @@ Chcete si zahrát demo?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Účet vypršel a je třeba jej znovu ověřit</translation>
+        <translation type="vanished">Účet vypršel a je třeba jej znovu ověřit</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6831,7 +6831,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7411,7 +7411,7 @@ Tento problém budete muset opravit ručně.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Přerušeno</translation>
+        <translation type="vanished">Přerušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8382,7 +8382,7 @@ Důvod:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>Nápověda programu %1</translation>
+        <translation type="vanished">Nápověda programu %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -9180,7 +9180,7 @@ Opravdu?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Toto je místní modpack.
+        <translation type="vanished">Toto je místní modpack.
 Lze jej aktualizovat pouze pomocí souboru ve formátu %1
 </translation>
     </message>
@@ -9430,7 +9430,7 @@ Ujistěte se také, že důvěřujete adrese URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Přerušeno</translation>
+        <translation type="vanished">Přerušeno</translation>
     </message>
 </context>
 <context>
@@ -10336,14 +10336,14 @@ Nejspíše budete muset změnit cestu – pro více informací viz web modifikac
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Varování: Tento zdroj je symbolicky propojen odjinud. Jeho úpravou se změní i originál.
 Opravdová cesta: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i originál.</translation>
     </message>
     <message>
@@ -12639,7 +12639,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Aktualizačnímu programu se nepodařilo vytvořit soubor protokolu - složka s daty není zapisovatelná.
+        <translation type="vanished">Aktualizačnímu programu se nepodařilo vytvořit soubor protokolu - složka s daty není zapisovatelná.
 
 Ujistěte se, že máte oprávnění k zápisu do složky s daty.
 (%1)
@@ -12951,11 +12951,11 @@ Pro odstranění tohoto uzamčení a pokračování klikněte na „Ignorovat“
     </message>
     <message>
         <source>Name</source>
-        <translation>Název</translation>
+        <translation type="vanished">Název</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (používáno)</translation>
+        <translation type="vanished">%1 (používáno)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -13474,11 +13474,11 @@ Pokračovat se zkrácením?</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Žádný profil (%1)</translation>
+        <translation type="vanished">Žádný profil (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Offline&gt;</translation>
+        <translation type="vanished">&lt;Offline&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -14824,7 +14824,7 @@ Opravdu to chcete udělat?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Nerozpoznaný</translation>
+        <translation type="vanished">Nerozpoznaný</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -14837,14 +14837,14 @@ Opravdu to chcete udělat?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Varování: Tento zdroj je symbolicky propojen odjinud. Jeho úpravou se změní i originál.
 Opravdová cesta: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i originál.</translation>
     </message>
     <message>
@@ -16512,14 +16512,14 @@ chybí inheritsFrom</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Varování: Tento zdroj je symbolicky propojen odjinud. Jeho úpravou se změní i originál.
 Opravdová cesta: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i originál.</translation>
     </message>
     <message>
@@ -16984,7 +16984,7 @@ Instance se kvůli tomu nemusí spustit.</translation>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Major verze Javy je nekompatibilní. Věci nemusí fungovat správně.</translation>
+        <translation type="vanished">Major verze Javy je nekompatibilní. Věci nemusí fungovat správně.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -18104,11 +18104,11 @@ Nastavte prosím svůj účet podle %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Získávám Xbox profil.</translation>
+        <translation type="vanished">Získávám Xbox profil.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Nepodařilo se načíst profil Xbox: %1</translation>
+        <translation type="vanished">Nepodařilo se načíst profil Xbox: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -18116,7 +18116,7 @@ Nastavte prosím svůj účet podle %1.</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Mám Xbox profil</translation>
+        <translation type="vanished">Mám Xbox profil</translation>
     </message>
 </context>
 <context>

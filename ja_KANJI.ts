@@ -510,7 +510,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>帳戸情報</translation>
+        <translation type="vanished">帳戸情報</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -537,7 +537,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>帳戸の使用者名。</translation>
+        <translation type="vanished">帳戸の使用者名。</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -975,10 +975,6 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Aborted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation type="unfinished"></translation>
@@ -1010,10 +1006,6 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
         <translation>%1 の資源文件(asset)の索引</translation>
-    </message>
-    <message>
-        <source>Aborted</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2128,10 +2120,6 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Aborted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
         <source>Some paths could not be copied!</source>
         <translation type="unfinished"></translation>
@@ -2173,25 +2161,10 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="145"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3173,27 +3146,23 @@ Are you sure you want to do this?</source>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>FML 庫を検査中...</translation>
+        <translation type="vanished">FML 庫を検査中...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>FML 庫を受信中...</translation>
-    </message>
-    <message>
-        <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">FML 庫を受信中...</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>FML 庫を構成実例に複製中...</translation>
+        <translation type="vanished">FML 庫を構成実例に複製中...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>構成実例の文件集に庫文件集の作成に失敗しました。</translation>
+        <translation type="vanished">構成実例の文件集に庫文件集の作成に失敗しました。</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Forge/FML 庫の複製に失敗しました: %1。</translation>
+        <translation type="vanished">Forge/FML 庫の複製に失敗しました: %1。</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3201,7 +3170,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>以下の文件の受信に失敗しました:
+        <translation type="vanished">以下の文件の受信に失敗しました:
 %1
 
 理由: %2
@@ -5319,31 +5288,11 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>起動用の帳戸が未選択しています。</translation>
-    </message>
-    <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">起動用の帳戸が未選択しています。</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
         <translation type="vanished">あなたの帳戸はまだ未登入です。暗証文字を入力して，再登入してください。&lt;br /&gt; &lt;br /&gt;この状況は，暗証文字の変更などによって発生します。</translation>
-    </message>
-    <message>
-        <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
@@ -5352,26 +5301,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>脱機模式の遊戯者名前を決定してください。</translation>
-    </message>
-    <message>
-        <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">脱機模式の遊戯者名前を決定してください。</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>登入中に未確認の会話状態を受信しました。</translation>
+        <translation type="vanished">登入中に未確認の会話状態を受信しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This account does not own Minecraft.
-You need to purchase the game first to play it.
-
-Do you want to play the demo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5382,10 +5320,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="227"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Launch cancelled - account does not own Minecraft.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5402,24 +5336,16 @@ Do you want to play the demo?</source>
         <translation>帳戸状態の更新に失敗しました</translation>
     </message>
     <message>
-        <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation type="vanished">この帳戸はもう伺伝機から消えました，移行された可能性があります。この場合は，移行先の新しい帳戸を追加してください。</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>帳戸が消去されました</translation>
+        <translation type="vanished">帳戸が消去されました</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>起動に失敗しました。</translation>
-    </message>
-    <message>
-        <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">起動に失敗しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -5868,10 +5794,6 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Java:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6394,10 +6316,6 @@ You&apos;ll have to correct this problem manually.</source>
 
 必要な文件を追加するか，それらを必要とするの Mod 包を列表から消去してください。
 この問題は手動で修正する必要があります。</translation>
-    </message>
-    <message>
-        <source>Aborted</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7248,11 +7166,6 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 &amp;Help</source>
-        <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
         <source>Open the %1 wiki</source>
         <translation type="unfinished"></translation>
@@ -7787,12 +7700,6 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is a local modpack.
-This can be updated only using a file in %1 format
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation type="unfinished"></translation>
@@ -8006,13 +7913,6 @@ Make sure you also trust the URL.
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
         <source>, has crashed.</source>
         <translation>, クラッシュしました。</translation>
-    </message>
-</context>
-<context>
-    <name>MinecraftLoadAndCheck</name>
-    <message>
-        <source>Aborted</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8638,17 +8538,6 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="100"/>
         <source>File</source>
         <translation>ファイル</translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -10348,15 +10237,6 @@ The updater cannot continue until you fix this problem.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The updater couldn&apos;t create a log file - the data folder is not writable.
-
-Make sure you have write permissions to the data folder.
-(%1)
-
-The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="450"/>
         <source>Updating flatpack not supported</source>
         <translation type="unfinished"></translation>
@@ -10609,11 +10489,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>名前</translation>
+        <translation type="vanished">名前</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (使用中)</translation>
+        <translation type="vanished">%1 (使用中)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -11089,14 +10969,6 @@ Proceed with truncation?</source>
     <message>
         <source>Unable to process the version file %1.</source>
         <translation type="vanished">バージョンファイル %1を処理できません。</translation>
-    </message>
-    <message>
-        <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -12326,25 +12198,10 @@ Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="149"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13892,17 +13749,6 @@ inheritsFrom is missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="132"/>
         <source>The source provider of the texture pack.</source>
         <translation type="unfinished"></translation>
@@ -14264,10 +14110,6 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java major version is incompatible. Things might break.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15327,21 +15169,6 @@ Please set up your account according to %1.</source>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>XboxProfileStep</name>
-    <message>
-        <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Got Xbox profile</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -478,7 +478,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Account</translation>
+        <translation type="vanished">Account</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Ainm úsáideora an chuntais.</translation>
+        <translation type="vanished">Ainm úsáideora an chuntais.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
@@ -867,7 +867,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Tobscortha</translation>
+        <translation type="vanished">Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -904,7 +904,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Tobscortha</translation>
+        <translation type="vanished">Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -1997,7 +1997,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Tobscortha</translation>
+        <translation type="vanished">Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2042,7 +2042,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Gan aitheantas</translation>
+        <translation type="vanished">Gan aitheantas</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2055,14 +2055,14 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Rabhadh: Tá nasc siombalach idir an acmhainn seo agus áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.
 Cosán Canónach: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.</translation>
     </message>
     <message>
@@ -3083,27 +3083,27 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Ag seiceáil le haghaidh leabharlanna FML...</translation>
+        <translation type="vanished">Ag seiceáil le haghaidh leabharlanna FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Ag íoslódáil leabharlanna FML...</translation>
+        <translation type="vanished">Ag íoslódáil leabharlanna FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Tobscortha</translation>
+        <translation type="vanished">Tobscortha</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Ag cóipeáil leabharlanna FML isteach sa chás...</translation>
+        <translation type="vanished">Ag cóipeáil leabharlanna FML isteach sa chás...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Theip ar chruthú fillteán leabharlainne FML laistigh den chás.</translation>
+        <translation type="vanished">Theip ar chruthú fillteán leabharlainne FML laistigh den chás.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Theip ar chóipeáil leabharlann Forge/FML: %1.</translation>
+        <translation type="vanished">Theip ar chóipeáil leabharlann Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3111,7 +3111,7 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Theip ar na comhaid seo a leanas a íoslódáil:
+        <translation type="vanished">Theip ar na comhaid seo a leanas a íoslódáil:
 %1
 
 Cúis:%2
@@ -5278,7 +5278,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Níl aon chuntas roghnaithe le seoladh.</translation>
+        <translation type="vanished">Níl aon chuntas roghnaithe le seoladh.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
@@ -5287,15 +5287,15 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Roghnaigh ainm d’imreora mód as líne.</translation>
+        <translation type="vanished">Roghnaigh ainm d’imreora mód as líne.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Roghnaigh ainm d’imreora mód taispeána.</translation>
+        <translation type="vanished">Roghnaigh ainm d’imreora mód taispeána.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Fuarthas stádas seisiúin neamhchinnte le linn logála isteach.</translation>
+        <translation type="vanished">Fuarthas stádas seisiúin neamhchinnte le linn logála isteach.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5307,7 +5307,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Ní leis an gcuntas seo Minecraft.
+        <translation type="vanished">Ní leis an gcuntas seo Minecraft.
 Ní mór duit an cluiche a cheannach ar dtús le go mbeidh tú in ann é a imirt.
 
 Ar mhaith leat an taispeántas a imirt?</translation>
@@ -5324,19 +5324,19 @@ Ar mhaith leat an taispeántas a imirt?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Is cosúil nárbh fhéidir linn an cluiche a sheoladh tar éis %1 iarracht. De ghnáth is féidir é seo a shocrú trí logáil amach agus logáil isteach i do chuntas Microsoft arís. Mura n-oibríonn sé sin, b&apos;fhéidir go bhfuil briseadh seirbhíse ag freastalaithe fíordheimhnithe Minecraft nó b&apos;fhéidir go bhfuil VPN ag teastáil uait i do réigiún. Ar mhaith leat leanúint ar aghaidh ag iarraidh?</translation>
+        <translation type="vanished">Is cosúil nárbh fhéidir linn an cluiche a sheoladh tar éis %1 iarracht. De ghnáth is féidir é seo a shocrú trí logáil amach agus logáil isteach i do chuntas Microsoft arís. Mura n-oibríonn sé sin, b&apos;fhéidir go bhfuil briseadh seirbhíse ag freastalaithe fíordheimhnithe Minecraft nó b&apos;fhéidir go bhfuil VPN ag teastáil uait i do réigiún. Ar mhaith leat leanúint ar aghaidh ag iarraidh?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Lainse ceallaithe - ní leis an gcuntas seo Minecraft.</translation>
+        <translation type="vanished">Lainse ceallaithe - ní leis an gcuntas seo Minecraft.</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Tá aitheantas cliant an lainseálaí athraithe. Bain &apos;%1&apos; agus déan iarracht arís.</translation>
+        <translation type="vanished">Tá aitheantas cliant an lainseálaí athraithe. Bain &apos;%1&apos; agus déan iarracht arís.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>Níl &apos;%1&apos; ar na freastalaithe a thuilleadh. B&apos;fhéidir gur aistríodh é, agus sa chás sin cuir an cuntas nua leis ar aistrigh tú an ceann seo chuige.</translation>
+        <translation type="vanished">Níl &apos;%1&apos; ar na freastalaithe a thuilleadh. B&apos;fhéidir gur aistríodh é, agus sa chás sin cuir an cuntas nua leis ar aistrigh tú an ceann seo chuige.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -5345,15 +5345,15 @@ Ar mhaith leat an taispeántas a imirt?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Cuntas imithe</translation>
+        <translation type="vanished">Cuntas imithe</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Theip ar lainseáil.</translation>
+        <translation type="vanished">Theip ar lainseáil.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Tá an cuntas imithe in éag agus ní mór é a athfhíordheimhniú</translation>
+        <translation type="vanished">Tá an cuntas imithe in éag agus ní mór é a athfhíordheimhniú</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -5393,7 +5393,7 @@ Ar mhaith leat an taispeántas a imirt?</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>Tá &apos;%1&apos; imithe in éag agus ní mór é a athfhíordheimhniú. Ar mhaith leat an cuntas seo a athfhíordheimhniú?</translation>
+        <translation type="vanished">Tá &apos;%1&apos; imithe in éag agus ní mór é a athfhíordheimhniú. Ar mhaith leat an cuntas seo a athfhíordheimhniú?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="438"/>
@@ -5498,7 +5498,7 @@ Ar mhaith leat an taispeántas a sheinm?</translation>
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Leanúint leis an seoladh?</translation>
+        <translation type="vanished">Leanúint leis an seoladh?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -5506,7 +5506,7 @@ Ar mhaith leat an taispeántas a sheinm?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Athraíodh aitheantas an chliaint</translation>
+        <translation type="vanished">Athraíodh aitheantas an chliaint</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="97"/>
@@ -5857,7 +5857,7 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="407"/>
@@ -6343,7 +6343,7 @@ Beidh ort an fhadhb seo a cheartú de láimh.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Tobscortha</translation>
+        <translation type="vanished">Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7103,7 +7103,7 @@ Cúis:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 Cab&amp;hair</translation>
+        <translation type="vanished">%1 Cab&amp;hair</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -7705,7 +7705,7 @@ An bhfuil tú cinnte?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Is modpack áitiúil é seo. 
+        <translation type="vanished">Is modpack áitiúil é seo. 
 Ní féidir é seo a nuashonrú ach amháin trí chomhad i bhformáid %1 a úsáid.
 </translation>
     </message>
@@ -7937,7 +7937,7 @@ Déan cinnte go bhfuil muinín agat as an URL freisin.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Tobscortha</translation>
+        <translation type="vanished">Tobscortha</translation>
     </message>
 </context>
 <context>
@@ -8645,14 +8645,14 @@ Is dóichí go mbeidh ort an cosán a athrú - féach ar shuíomh Gréasáin an 
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Rabhadh: Tá nasc siombalach idir an acmhainn seo agus áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.
 Cosán Canónach: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.</translation>
     </message>
     <message>
@@ -10477,7 +10477,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Ní raibh an nuashonraitheoir in ann comhad loga a chruthú - ní féidir scríobh san fhillteán sonraí.
+        <translation type="vanished">Ní raibh an nuashonraitheoir in ann comhad loga a chruthú - ní féidir scríobh san fhillteán sonraí.
 
 Déan cinnte go bhfuil ceadanna scríbhneoireachta agat chuig an bhfillteán sonraí.
 (%1)
@@ -10777,11 +10777,11 @@ Chun an glasáil seo a athscríobh agus leanúint ar aghaidh leis an nuashonrú 
     </message>
     <message>
         <source>Name</source>
-        <translation>Ainm</translation>
+        <translation type="vanished">Ainm</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (in úsáid)</translation>
+        <translation type="vanished">%1 (in úsáid)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -11079,11 +11079,11 @@ Stádas HTTP: %2</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Gan phróifíl (%1)</translation>
+        <translation type="vanished">Gan phróifíl (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;As Líne&gt;</translation>
+        <translation type="vanished">&lt;As Líne&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
@@ -12493,7 +12493,7 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Gan aitheantas</translation>
+        <translation type="vanished">Gan aitheantas</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -12506,14 +12506,14 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Rabhadh: Tá nasc siombalach idir an acmhainn seo agus áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.
 Cosán Canónach: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.</translation>
     </message>
     <message>
@@ -13993,14 +13993,14 @@ tá inheritsFrom ar iarraidh</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Rabhadh: Tá nasc siombalach idir an acmhainn seo agus áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.
 Cosán Canónach: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur in eagar, athrófar an bunleagan freisin.</translation>
     </message>
     <message>
@@ -14327,7 +14327,7 @@ B’fhéidir nach dtosóidh an sampla mar gheall air seo.</translation>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Tá an príomhleagan de Java neamh-chomhoiriúnach. D’fhéadfadh rudaí briseadh.</translation>
+        <translation type="vanished">Tá an príomhleagan de Java neamh-chomhoiriúnach. D’fhéadfadh rudaí briseadh.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -15271,15 +15271,15 @@ Socraigh do chuntas de réir %1 le do thoil.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Ag fáil próifíl Xbox.</translation>
+        <translation type="vanished">Ag fáil próifíl Xbox.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Theip ar phróifíl Xbox a aisghabháil: %1</translation>
+        <translation type="vanished">Theip ar phróifíl Xbox a aisghabháil: %1</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Fuair mé próifíl Xbox</translation>
+        <translation type="vanished">Fuair mé próifíl Xbox</translation>
     </message>
 </context>
 <context>

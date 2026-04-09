@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Tili</translation>
+        <translation type="vanished">Tili</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Tilin käyttäjänimi.</translation>
+        <translation type="vanished">Tilin käyttäjänimi.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1047,7 +1047,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Keskeytetty</translation>
+        <translation type="vanished">Keskeytetty</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1084,7 +1084,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Keskeytetty</translation>
+        <translation type="vanished">Keskeytetty</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2205,7 +2205,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Keskeytetty</translation>
+        <translation type="vanished">Keskeytetty</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2250,7 +2250,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Tunnistamaton</translation>
+        <translation type="vanished">Tunnistamaton</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2263,14 +2263,14 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Varoitus: Tämä resurssi on symbolisesti linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.
 Kanoninen Polku: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
     </message>
     <message>
@@ -3367,27 +3367,27 @@ Oletko varma että haluat tehdä näin?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Tarkistetaan FML-kirjastoja...</translation>
+        <translation type="vanished">Tarkistetaan FML-kirjastoja...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Ladataan FML-kirjastoja...</translation>
+        <translation type="vanished">Ladataan FML-kirjastoja...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Keskeytetty</translation>
+        <translation type="vanished">Keskeytetty</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Kopioidaan FML-kirjastoja peliversioon...</translation>
+        <translation type="vanished">Kopioidaan FML-kirjastoja peliversioon...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>FML-kirjastokansion luonti peliversioon epäonnistui.</translation>
+        <translation type="vanished">FML-kirjastokansion luonti peliversioon epäonnistui.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Forge/FML-kirjaston kopiointi epäonnistui: %1.</translation>
+        <translation type="vanished">Forge/FML-kirjaston kopiointi epäonnistui: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3395,7 +3395,7 @@ Oletko varma että haluat tehdä näin?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Seuraavien tiedostojen lataus epäonnistui:
+        <translation type="vanished">Seuraavien tiedostojen lataus epäonnistui:
 %1
 
 Syy:%2
@@ -5862,23 +5862,23 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Käynnistykseen ei ole valittu tiliä.</translation>
+        <translation type="vanished">Käynnistykseen ei ole valittu tiliä.</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Näyttää siltä, että käynnistys epäonnistui %1 yrityksen jälkeen. Yleensä tämä voidaan korjata kirjautumalla ulos ja kirjautumalla takaisin sisään Microsoft-tilillesi. Jos tämä ei auta, Minecraftin todennuspalveluissa voi olla häiriö tai alueellasi saatetaan tarvita VPN-yhteyttä. Haluatko jatkaa yrittämistä?</translation>
+        <translation type="vanished">Näyttää siltä, että käynnistys epäonnistui %1 yrityksen jälkeen. Yleensä tämä voidaan korjata kirjautumalla ulos ja kirjautumalla takaisin sisään Microsoft-tilillesi. Jos tämä ei auta, Minecraftin todennuspalveluissa voi olla häiriö tai alueellasi saatetaan tarvita VPN-yhteyttä. Haluatko jatkaa yrittämistä?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Käynnistimen asiakastunnus on muuttunut. Poista &apos;%1&apos; ja yritä uudelleen.</translation>
+        <translation type="vanished">Käynnistimen asiakastunnus on muuttunut. Poista &apos;%1&apos; ja yritä uudelleen.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; ei ole enää olemassa palvelimilla. Jos se on siirretty, lisää uusi tili, johon olet siirtynyt.</translation>
+        <translation type="vanished">&apos;%1&apos; ei ole enää olemassa palvelimilla. Jos se on siirretty, lisää uusi tili, johon olet siirtynyt.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos; on vanhentunut ja se täytyy todentaa uudelleen. Haluatko todentaa tämän tilin uudelleen?</translation>
+        <translation type="vanished">&apos;%1&apos; on vanhentunut ja se täytyy todentaa uudelleen. Haluatko todentaa tämän tilin uudelleen?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -5886,7 +5886,7 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Jatka käynnistämistä?</translation>
+        <translation type="vanished">Jatka käynnistämistä?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -5899,15 +5899,15 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Valitse pelaajanimesi offline-tilassa.</translation>
+        <translation type="vanished">Valitse pelaajanimesi offline-tilassa.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Valitse pelaajanimesi demo-tilassa.</translation>
+        <translation type="vanished">Valitse pelaajanimesi demo-tilassa.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Vastaanotettiin määrittämätön istuntotila kirjauduttaessa sisään.</translation>
+        <translation type="vanished">Vastaanotettiin määrittämätön istuntotila kirjauduttaessa sisään.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5919,7 +5919,7 @@ Voit muuttaa Java-version myöhemmin asetuksista.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Tämä tili ei omista Minecraft:ia.
+        <translation type="vanished">Tämä tili ei omista Minecraft:ia.
 Sinun täytyy ostaa peli ennen kuin voit pelata sitä.
 
 Haluatko pelata demoa?</translation>
@@ -5936,7 +5936,7 @@ Haluatko pelata demoa?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Käynnistäminen peruttu - tili ei omista Minecraft:ia.</translation>
+        <translation type="vanished">Käynnistäminen peruttu - tili ei omista Minecraft:ia.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5957,7 +5957,7 @@ Haluatko pelata demoa?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Asiakastunnus on muuttunut</translation>
+        <translation type="vanished">Asiakastunnus on muuttunut</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -5965,11 +5965,11 @@ Haluatko pelata demoa?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Tili poistettu</translation>
+        <translation type="vanished">Tili poistettu</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Käynnistys epäonnistui.</translation>
+        <translation type="vanished">Käynnistys epäonnistui.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -5981,7 +5981,7 @@ Haluatko pelata demoa?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Tili on vanhentunut ja se täytyy autentikoida uudelleen</translation>
+        <translation type="vanished">Tili on vanhentunut ja se täytyy autentikoida uudelleen</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6392,7 +6392,7 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7061,7 +7061,7 @@ Tämä on korjattava manuaalisesti.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Keskeytetty</translation>
+        <translation type="vanished">Keskeytetty</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7961,7 +7961,7 @@ Syy:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;Ohje</translation>
+        <translation type="vanished">%1 &amp;Ohje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8656,7 +8656,7 @@ Oletko varma?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Tämä on paikallinen modipaketti.
+        <translation type="vanished">Tämä on paikallinen modipaketti.
 Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
 </translation>
     </message>
@@ -8888,7 +8888,7 @@ Varmista luottamuksesi URL:ään.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Keskeytetty</translation>
+        <translation type="vanished">Keskeytetty</translation>
     </message>
 </context>
 <context>
@@ -9744,14 +9744,14 @@ Sinun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Varoitus: Tämä resurssi on symbolisesti linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.
 Kanoninen polku: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
     </message>
     <message>
@@ -11784,7 +11784,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Päivittäjä ei voinut luoda lokitiedostoa - data-kansioon ei voi kirjoittaa.
+        <translation type="vanished">Päivittäjä ei voinut luoda lokitiedostoa - data-kansioon ei voi kirjoittaa.
 
 Vahvista että sinulla on kirjoitusoikeudet data-kansioon.
 (%1)
@@ -12084,11 +12084,11 @@ Ohittaaksesi tämän lukon ja jatkaaksesi päivityksellä silti, valitse &quot;O
     </message>
     <message>
         <source>Name</source>
-        <translation>Nimi</translation>
+        <translation type="vanished">Nimi</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (käytössä)</translation>
+        <translation type="vanished">%1 (käytössä)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -12602,11 +12602,11 @@ Virhe viesti: %1</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Ei profiilia (%1)</translation>
+        <translation type="vanished">Ei profiilia (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Offline&gt;</translation>
+        <translation type="vanished">&lt;Offline&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -13861,7 +13861,7 @@ Oletko varma että haluat tehdä näin?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Tunnistamaton</translation>
+        <translation type="vanished">Tunnistamaton</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -13874,14 +13874,14 @@ Oletko varma että haluat tehdä näin?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Varoitus: Tämä resurssi on symbolisesti linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.
 Kanoninen polku: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
     </message>
     <message>
@@ -15498,14 +15498,14 @@ inheritsFrom puuttuu</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Varoitus: Tämä resurssi on symbolisesti linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.
 Kanoninen polku: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
     </message>
     <message>
@@ -15939,7 +15939,7 @@ Pelipaketti ei ehkä käynnisty tämän takia.</translation>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Javan &quot;major&quot;-versio ei ole yhteensopiva. Asiat saattavat hajota.</translation>
+        <translation type="vanished">Javan &quot;major&quot;-versio ei ole yhteensopiva. Asiat saattavat hajota.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -17045,15 +17045,15 @@ Säädä tilisi ohjeiden mukaan osoitteessa %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Haetaan Xbox-profiilia.</translation>
+        <translation type="vanished">Haetaan Xbox-profiilia.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Xbox-profiilin hakeminen epäonnistui: %1</translation>
+        <translation type="vanished">Xbox-profiilin hakeminen epäonnistui: %1</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Saatiin Xbox-profiili</translation>
+        <translation type="vanished">Saatiin Xbox-profiili</translation>
     </message>
 </context>
 <context>

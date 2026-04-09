@@ -512,7 +512,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Account</translation>
+        <translation type="vanished">Account</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -535,7 +535,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Username ng account.</translation>
+        <translation type="vanished">Username ng account.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1033,7 +1033,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Pinigil</translation>
+        <translation type="vanished">Pinigil</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1107,7 +1107,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Pinigil</translation>
+        <translation type="vanished">Pinigil</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2208,7 +2208,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Pinigil</translation>
+        <translation type="vanished">Pinigil</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2253,7 +2253,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Hindi kinikilala</translation>
+        <translation type="vanished">Hindi kinikilala</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2266,14 +2266,14 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit nito ay mababago rin sa original.
 Totoong Path: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit nito ay mababago rin sa original.</translation>
     </message>
     <message>
@@ -3316,27 +3316,27 @@ Sigurado ka ba sa gagawin mo?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Sinusuri ang mga FML libraries…</translation>
+        <translation type="vanished">Sinusuri ang mga FML libraries…</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Nagdo-download ng FML libraries...</translation>
+        <translation type="vanished">Nagdo-download ng FML libraries...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Pinigil</translation>
+        <translation type="vanished">Pinigil</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Kinokopya ang mga FML libraries sa instance…</translation>
+        <translation type="vanished">Kinokopya ang mga FML libraries sa instance…</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Hindi ma-gawa ang folder ng FML library sa loob ng instace.</translation>
+        <translation type="vanished">Hindi ma-gawa ang folder ng FML library sa loob ng instace.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Nabigo ang pag-kopya ng Forge/FML library: %1.</translation>
+        <translation type="vanished">Nabigo ang pag-kopya ng Forge/FML library: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3344,7 +3344,7 @@ Sigurado ka ba sa gagawin mo?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Nabigo ang pag-download ng mga sumusunod na file:
+        <translation type="vanished">Nabigo ang pag-download ng mga sumusunod na file:
 %1
 
 Dahilan: %2
@@ -5596,7 +5596,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Walang piniling account para sa pag-launch.</translation>
+        <translation type="vanished">Walang piniling account para sa pag-launch.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
@@ -5605,15 +5605,15 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Piliin ang name ng offline mode na player.</translation>
+        <translation type="vanished">Piliin ang name ng offline mode na player.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Piliin mo ang demo mode na player name.</translation>
+        <translation type="vanished">Piliin mo ang demo mode na player name.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Naka-tanggap ng hindi masuring status ng session habang naglologin.</translation>
+        <translation type="vanished">Naka-tanggap ng hindi masuring status ng session habang naglologin.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5625,7 +5625,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Ang account na ito ay hindi nag-aari ng Minecraft.
+        <translation type="vanished">Ang account na ito ay hindi nag-aari ng Minecraft.
 Kailangan mo muna bilhin ito bago laruin.
 
 Gusto mo ba laruin ang demo?</translation>
@@ -5641,12 +5641,8 @@ Gusto mo ba laruin ang demo?</translation>
         <translation>I-cancel</translation>
     </message>
     <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Ini-cancel ang launch - Hindi nagaari ang account na ito ng Minecraft.</translation>
+        <translation type="vanished">Ini-cancel ang launch - Hindi nagaari ang account na ito ng Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5667,15 +5663,15 @@ Gusto mo ba laruin ang demo?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Nawawalang account</translation>
+        <translation type="vanished">Nawawalang account</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Hindi ma-launch.</translation>
+        <translation type="vanished">Hindi ma-launch.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished">Nag-expire na ang account at kina-kailangang muli i-authenticate</translation>
+        <translation type="obsolete">Nag-expire na ang account at kina-kailangang muli i-authenticate</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -5715,11 +5711,11 @@ Gusto mo ba laruin ang demo?</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished">Wala na ang &apos;%1&apos; sa mga server. Maaaring na-migrate na ito, kung gayon, pakidagdag ang bangong account na na-migrate mo nito.</translation>
+        <translation type="obsolete">Wala na ang &apos;%1&apos; sa mga server. Maaaring na-migrate na ito, kung gayon, pakidagdag ang bangong account na na-migrate mo nito.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished">Nag-expire na ang &apos;%1&apos; at kailangang muling i-authenticate. Gusto mo bang i-authenticate ang account na ito?</translation>
+        <translation type="obsolete">Nag-expire na ang &apos;%1&apos; at kailangang muling i-authenticate. Gusto mo bang i-authenticate ang account na ito?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="438"/>
@@ -5827,7 +5823,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>I-continue ang launch?</translation>
+        <translation type="vanished">I-continue ang launch?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -5835,11 +5831,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Nabago ang client identification ng launcher. Pakitanggal ang &apos;%1&apos; at subukan ito uli.</translation>
+        <translation type="vanished">Nabago ang client identification ng launcher. Pakitanggal ang &apos;%1&apos; at subukan ito uli.</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Napaltan ang Client Identification</translation>
+        <translation type="vanished">Napaltan ang Client Identification</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="97"/>
@@ -6122,7 +6118,7 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
@@ -6670,7 +6666,7 @@ Kailangan mo i-correct ng sarili ang problema.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Pinigil</translation>
+        <translation type="vanished">Pinigil</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7448,7 +7444,7 @@ Reason:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;Help</translation>
+        <translation type="vanished">%1 &amp;Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8067,7 +8063,7 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Local modpack ito.
+        <translation type="vanished">Local modpack ito.
 Ma-uupdate lang ito gamit ng file sa format ng %1
 </translation>
     </message>
@@ -8290,7 +8286,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Pinigil</translation>
+        <translation type="vanished">Pinigil</translation>
     </message>
 </context>
 <context>
@@ -8967,14 +8963,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit nito ay mababago rin sa original.
 Totoong Path: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit nito ay mababago rin sa original.</translation>
     </message>
     <message>
@@ -10588,7 +10584,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Hindi makakagawa ang updater ng log file - hindi nasusulatan ang data folder.
+        <translation type="vanished">Hindi makakagawa ang updater ng log file - hindi nasusulatan ang data folder.
 
 Suriin na may permission ka sa pagsulat sa data folder.
 (%1)
@@ -10850,11 +10846,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>Pangalan</translation>
+        <translation type="vanished">Pangalan</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (ginagamit)</translation>
+        <translation type="obsolete">%1 (ginagamit)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -11141,14 +11137,6 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;Offline&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12491,7 +12479,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Hindi kinikilala</translation>
+        <translation type="obsolete">Hindi kinikilala</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -12504,14 +12492,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit nito ay mababago rin sa original.
 Totoong Path: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit nito ay mababago rin sa original.</translation>
     </message>
     <message>
@@ -13981,14 +13969,14 @@ inheritsFrom is missing</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit nito ay mababago rin sa original.
 Totoong Path: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit nito ay mababago rin sa original.</translation>
     </message>
     <message>
@@ -14279,10 +14267,6 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java major version is incompatible. Things might break.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15202,21 +15186,6 @@ Please set up your account according to %1.</source>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>XboxProfileStep</name>
-    <message>
-        <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Got Xbox profile</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

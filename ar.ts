@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>الحساب</translation>
+        <translation type="vanished">الحساب</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>اسم المستخدم في الحساب.</translation>
+        <translation type="vanished">اسم المستخدم في الحساب.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1051,7 +1051,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>إلغاء المهمة</translation>
+        <translation type="vanished">إلغاء المهمة</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1088,7 +1088,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>إلغاء المهمة</translation>
+        <translation type="vanished">إلغاء المهمة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2193,7 +2193,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>تم إلغاء العملية</translation>
+        <translation type="vanished">تم إلغاء العملية</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2238,7 +2238,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>غير معترف</translation>
+        <translation type="vanished">غير معترف</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2251,14 +2251,14 @@ Some versions of Minecraft may not launch.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 تحذير: هذا المورد مرتبط رمزيًا من مصدر آخر. تعديله سيُغيّر المصدر الأصلي أيضًا.
 المسار الأساسي: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 تحذير: هذا المورد مُرتبط ارتباطًا وثيقًا بمكان آخر. تعديله سيُغيّر المصدر الأصلي أيضًا.</translation>
     </message>
     <message>
@@ -3354,27 +3354,27 @@ Are you sure you want to do this?</source>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>جار التحقق من مكتبات FML...</translation>
+        <translation type="vanished">جار التحقق من مكتبات FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>جار تنزيل مكتبات FML...</translation>
+        <translation type="vanished">جار تنزيل مكتبات FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>أُلغيت</translation>
+        <translation type="vanished">أُلغيت</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>جار نسخ مكتبات FML إلى النموذج...</translation>
+        <translation type="vanished">جار نسخ مكتبات FML إلى النموذج...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>فشل في إنشاء مجلد لمكتبة FML داخل النموذج.</translation>
+        <translation type="vanished">فشل في إنشاء مجلد لمكتبة FML داخل النموذج.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>فشل في نسخ مكتبة Forge/FML: %1.</translation>
+        <translation type="vanished">فشل في نسخ مكتبة Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3382,7 +3382,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>فشل في تنزيل الملفات الآتية:
+        <translation type="vanished">فشل في تنزيل الملفات الآتية:
 %1
 
 السبب: %2
@@ -5797,7 +5797,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>لا يوجد حساب محدد للتشغيل.</translation>
+        <translation type="vanished">لا يوجد حساب محدد للتشغيل.</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -5805,7 +5805,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>هل تريد متابعة التشغيل؟</translation>
+        <translation type="vanished">هل تريد متابعة التشغيل؟</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -5818,15 +5818,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>اختر اسم اللاعب في وضع عدم الاتصال.</translation>
+        <translation type="vanished">اختر اسم اللاعب في وضع عدم الاتصال.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>اختر اسم اللاعب للوضع التجريبي.</translation>
+        <translation type="vanished">اختر اسم اللاعب للوضع التجريبي.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>لم يتم تحديد حالة الجلسة أثناء عملية تسجيل الدخول.</translation>
+        <translation type="vanished">لم يتم تحديد حالة الجلسة أثناء عملية تسجيل الدخول.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5838,7 +5838,7 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>لا يملك هذا الحساب ماين كرافت.
+        <translation type="vanished">لا يملك هذا الحساب ماين كرافت.
 يجب عليك أن تشتري اللعبة أولا.
 
 هل تريد لعب النسخة التجريبية؟</translation>
@@ -5855,11 +5855,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>يبدو أننا لم نتمكن من التصغيل بعد %1 محاولات. غالبا يمكن إصلاح المشكلة بتسجيل الخروج من حساب Microsoft الخاص بك وإعادة تسجيل الدخول. إن لم تعمل الطريقة, فغالبا هناك عطل في خوادم التوثيق الخاصة بماينكرافت أو أنك تحتاج لVPN في دولتك. هل تود المحاولة مجددا؟</translation>
+        <translation type="vanished">يبدو أننا لم نتمكن من التصغيل بعد %1 محاولات. غالبا يمكن إصلاح المشكلة بتسجيل الخروج من حساب Microsoft الخاص بك وإعادة تسجيل الدخول. إن لم تعمل الطريقة, فغالبا هناك عطل في خوادم التوثيق الخاصة بماينكرافت أو أنك تحتاج لVPN في دولتك. هل تود المحاولة مجددا؟</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>تم إلغاء التشغيل - الحساب لا يملك ماين كرافت.</translation>
+        <translation type="vanished">تم إلغاء التشغيل - الحساب لا يملك ماين كرافت.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5867,11 +5867,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>تم تغيير تعريف العميل للمشغل. يرجى إزالة ’%1’ وإعادة المحاولة.</translation>
+        <translation type="vanished">تم تغيير تعريف العميل للمشغل. يرجى إزالة ’%1’ وإعادة المحاولة.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>’%1’لم يعد موجودا على الخوادم. يحتمل أن تم نقله, في هذا الحال يجب عليك إضافة حساب جديد الذي نقلت هذا إليه.</translation>
+        <translation type="vanished">’%1’لم يعد موجودا على الخوادم. يحتمل أن تم نقله, في هذا الحال يجب عليك إضافة حساب جديد الذي نقلت هذا إليه.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -5880,7 +5880,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>’%1’ قد انتهت صلاحيته ويجب توثيقه مرة أخرى. هل تريد توثيق الحساب؟</translation>
+        <translation type="vanished">’%1’ قد انتهت صلاحيته ويجب توثيقه مرة أخرى. هل تريد توثيق الحساب؟</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
@@ -5888,7 +5888,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>تم تغيير تعريف العميل</translation>
+        <translation type="vanished">تم تغيير تعريف العميل</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -5896,15 +5896,15 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>ضاع الحساب</translation>
+        <translation type="vanished">ضاع الحساب</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>فشل التشغيل.</translation>
+        <translation type="vanished">فشل التشغيل.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>قد انتهت صلاحية الحساب ويجب توثيقه مرة أخرى</translation>
+        <translation type="vanished">قد انتهت صلاحية الحساب ويجب توثيقه مرة أخرى</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6389,7 +6389,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>جافا:</translation>
+        <translation type="vanished">جافا:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -6945,7 +6945,7 @@ You&apos;ll have to correct this problem manually.</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>إلغاء المهمة</translation>
+        <translation type="vanished">إلغاء المهمة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7809,7 +7809,7 @@ Reason:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>مساعدة %1</translation>
+        <translation type="vanished">مساعدة %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8361,7 +8361,7 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>هذه حزمة إضافات محلية.
+        <translation type="vanished">هذه حزمة إضافات محلية.
 ويمكن تحديثها فقط بإستخدام ملف بصيغة %1
 </translation>
     </message>
@@ -8581,7 +8581,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>ألغيت</translation>
+        <translation type="vanished">ألغيت</translation>
     </message>
 </context>
 <context>
@@ -9333,14 +9333,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 تحذير: هذا المورد مرتبط رمزيًا من مصدر آخر. تعديله سيُغيّر المصدر الأصلي أيضًا.
 المسار الأساسي: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 تحذير: هذا المورد مُرتبط ارتباطًا وثيقًا بمكان آخر. تعديله سيُغيّر المصدر الأصلي أيضًا.</translation>
     </message>
     <message>
@@ -11333,7 +11333,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>لم يتمكن المحدث من إنشاء ملف سجل - مجلد معلومات غير قابل للكتابة.
+        <translation type="vanished">لم يتمكن المحدث من إنشاء ملف سجل - مجلد معلومات غير قابل للكتابة.
 
 تأكد من إعطائك أذونات التغيير للمجلد.
 (%1)
@@ -11608,11 +11608,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>الاسم</translation>
+        <translation type="vanished">الاسم</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (قيد الاستخدام)</translation>
+        <translation type="vanished">%1 (قيد الاستخدام)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -12102,11 +12102,11 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>لا ملف تعريف (%1)</translation>
+        <translation type="vanished">لا ملف تعريف (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;غير متصل&gt;</translation>
+        <translation type="vanished">&lt;غير متصل&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -13375,7 +13375,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">غير معترف</translation>
+        <translation type="obsolete">غير معترف</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -13388,14 +13388,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 تحذير: هذا المورد مرتبط رمزيًا من مصدر آخر. تعديله سيُغيّر المصدر الأصلي أيضًا.
 المسار الأساسي: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 تحذير: هذا المورد مُرتبط ارتباطًا وثيقًا بمكان آخر. تعديله سيُغيّر المصدر الأصلي أيضًا.</translation>
     </message>
     <message>
@@ -14916,14 +14916,14 @@ inheritsFrom is missing</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 تحذير: هذا المورد مرتبط رمزيًا من مصدر آخر. تعديله سيُغيّر المصدر الأصلي أيضًا.
 المسار الأساسي: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 تحذير: هذا المورد مُرتبط ارتباطًا وثيقًا بمكان آخر. تعديله سيُغيّر المصدر الأصلي أيضًا.</translation>
     </message>
     <message>
@@ -15287,10 +15287,6 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java major version is incompatible. Things might break.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16370,16 +16366,8 @@ Please set up your account according to %1.</source>
 <context>
     <name>XboxProfileStep</name>
     <message>
-        <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Got Xbox profile</source>
-        <translation>حصلت على ملف Xbox الشخصي</translation>
+        <translation type="vanished">حصلت على ملف Xbox الشخصي</translation>
     </message>
 </context>
 <context>

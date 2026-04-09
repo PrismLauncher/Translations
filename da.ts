@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Konto</translation>
+        <translation type="vanished">Konto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Kontoens brugernavn.</translation>
+        <translation type="vanished">Kontoens brugernavn.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1070,7 +1070,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Afbrudt</translation>
+        <translation type="vanished">Afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1119,7 +1119,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Afbrudt</translation>
+        <translation type="vanished">Afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2240,7 +2240,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Afbrudt</translation>
+        <translation type="vanished">Afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2285,7 +2285,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Ikke genkendt</translation>
+        <translation type="vanished">Ikke genkendt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2298,14 +2298,14 @@ Nogle versioner af Minecraft starter muligvis ikke.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Advarsel: Denne resource er symbolsk forbundet fra andre steder. Redigering vil også ændre originalen.
 Kanonisk Sti: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Advarsel: Denne resurse er hårdt forbundet andre steder. Redigering vil også ændre originalen.</translation>
     </message>
     <message>
@@ -3397,27 +3397,27 @@ Er du sikker på at du fortsætte?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Kontrollerer FML-biblioteker...</translation>
+        <translation type="vanished">Kontrollerer FML-biblioteker...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Henter FML-biblioteker...</translation>
+        <translation type="vanished">Henter FML-biblioteker...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Afbrudt</translation>
+        <translation type="vanished">Afbrudt</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Kopierer FML-biblioteker ind i instansen...</translation>
+        <translation type="vanished">Kopierer FML-biblioteker ind i instansen...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Det lykkedes ikke at oprette en mappe til FML-biblioteker i instansen.</translation>
+        <translation type="vanished">Det lykkedes ikke at oprette en mappe til FML-biblioteker i instansen.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Kopiering af Forge/FML-bibliotek mislykkedes: %1.</translation>
+        <translation type="vanished">Kopiering af Forge/FML-bibliotek mislykkedes: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3425,7 +3425,7 @@ Er du sikker på at du fortsætte?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Det lykkedes ikke at hente følgende filer:
+        <translation type="vanished">Det lykkedes ikke at hente følgende filer:
 %1
 
 Årsag:%2
@@ -5915,23 +5915,19 @@ Du kan ændre Java versionen i indstillingerne senere.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Ingen konto valgt for start.</translation>
-    </message>
-    <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Ingen konto valgt for start.</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Launcheren&apos;s klient identifikation er ændret. Fjern venligst &apos;%1&apos; og prøv igen.</translation>
+        <translation type="vanished">Launcheren&apos;s klient identifikation er ændret. Fjern venligst &apos;%1&apos; og prøv igen.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; findes ikke længere på serverne. Det kan være blevet migreret, i så fald skal du tilføje den nye konto, du migrerede denne til.</translation>
+        <translation type="vanished">&apos;%1&apos; findes ikke længere på serverne. Det kan være blevet migreret, i så fald skal du tilføje den nye konto, du migrerede denne til.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos; er udløbet og skal godkendes igen. Vil du gengodkende denne konto?</translation>
+        <translation type="vanished">&apos;%1&apos; er udløbet og skal godkendes igen. Vil du gengodkende denne konto?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -5939,7 +5935,7 @@ Du kan ændre Java versionen i indstillingerne senere.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Vil du fortsætte start?</translation>
+        <translation type="vanished">Vil du fortsætte start?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -5952,15 +5948,15 @@ Du kan ændre Java versionen i indstillingerne senere.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Vælg et spillernavn til offline tilstand.</translation>
+        <translation type="vanished">Vælg et spillernavn til offline tilstand.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Vælg dit spiller navn i demotilstand.</translation>
+        <translation type="vanished">Vælg dit spiller navn i demotilstand.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Modtog uafklaret sessionsstatus under login.</translation>
+        <translation type="vanished">Modtog uafklaret sessionsstatus under login.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5972,7 +5968,7 @@ Du kan ændre Java versionen i indstillingerne senere.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Denne konto ejer ikke Minecraft.
+        <translation type="vanished">Denne konto ejer ikke Minecraft.
 Du skal først købe spillet for at spille det.
 
 Vil du spille demoen?</translation>
@@ -5989,7 +5985,7 @@ Vil du spille demoen?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Start annulleret - kontoen ejer ikke Minecraft.</translation>
+        <translation type="vanished">Start annulleret - kontoen ejer ikke Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6010,7 +6006,7 @@ Vil du spille demoen?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Klient identifikation ændret</translation>
+        <translation type="vanished">Klient identifikation ændret</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6018,11 +6014,11 @@ Vil du spille demoen?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Kontoen er væk</translation>
+        <translation type="vanished">Kontoen er væk</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Opstart mislykkedes.</translation>
+        <translation type="vanished">Opstart mislykkedes.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -6034,7 +6030,7 @@ Vil du spille demoen?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Kontoen er udløbet og skal godkendes igen</translation>
+        <translation type="vanished">Kontoen er udløbet og skal godkendes igen</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6581,7 +6577,7 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7141,7 +7137,7 @@ Problemet skal løses manuelt.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Afbrudt</translation>
+        <translation type="vanished">Afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8049,7 +8045,7 @@ Reason:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;Hjælp</translation>
+        <translation type="vanished">%1 &amp;Hjælp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8732,7 +8728,7 @@ Er du sikker?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Dette er en lokal modpack.
+        <translation type="vanished">Dette er en lokal modpack.
 Dette kan kun opdateres med en fil i %1 format
 </translation>
     </message>
@@ -8963,7 +8959,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Afbrudt</translation>
+        <translation type="vanished">Afbrudt</translation>
     </message>
 </context>
 <context>
@@ -9821,14 +9817,14 @@ Du skal sandsynligvis ændre stien - se mod’ets hjemmeside for vejledning.</tr
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Advarsel: Denne resource er symbolsk forbundet fra andre steder. Redigering vil også ændre originalen.
 Kanonisk sti: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også ændre originalen.</translation>
     </message>
     <message>
@@ -11855,7 +11851,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Opdatering kunne ikke oprette en log fil - data mappen kan ikke skrives til.
+        <translation type="vanished">Opdatering kunne ikke oprette en log fil - data mappen kan ikke skrives til.
 
 Sørg for at du har skrive tilladelser til data mappen.
 (%1)
@@ -12155,11 +12151,11 @@ For at overskrive denne lås og fortsætte med denne opdatering alligevel, vælg
     </message>
     <message>
         <source>Name</source>
-        <translation>Navn</translation>
+        <translation type="vanished">Navn</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (i brug)</translation>
+        <translation type="vanished">%1 (i brug)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -12653,11 +12649,11 @@ Fejlmeddelelse: %1</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Ingen profil (%1)</translation>
+        <translation type="vanished">Ingen profil (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Offline&gt;</translation>
+        <translation type="vanished">&lt;Offline&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -13914,7 +13910,7 @@ Er du sikker på at du vil gøre dette?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Ikke genkendt</translation>
+        <translation type="vanished">Ikke genkendt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -13927,14 +13923,14 @@ Er du sikker på at du vil gøre dette?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Advarsel: Denne resource er symbolsk forbundet fra andre steder. Redigering vil også ændre originalen.
 Kanonisk sti: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også ændre originalen.</translation>
     </message>
     <message>
@@ -15445,14 +15441,14 @@ inheritsFrom mangler</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Advarsel: Denne resource er symbolsk forbundet fra andre steder. Redigering vil også ændre originalen.
 Kanonisk sti: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også ændre originalen.</translation>
     </message>
     <message>
@@ -15837,7 +15833,7 @@ Instance starter muligvis ikke på grund af dette.</translation>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Java hoved versionen er inkompatibel. Tingene kan gå i stykker.</translation>
+        <translation type="vanished">Java hoved versionen er inkompatibel. Tingene kan gå i stykker.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -16858,15 +16854,15 @@ Indstil din konto i henhold til %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Henter Xbox profil.</translation>
+        <translation type="vanished">Henter Xbox profil.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Kunne ikke hente Xbox profilen: %1</translation>
+        <translation type="vanished">Kunne ikke hente Xbox profilen: %1</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Fik Xbox profil</translation>
+        <translation type="vanished">Fik Xbox profil</translation>
     </message>
 </context>
 <context>

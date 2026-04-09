@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Konts</translation>
+        <translation type="vanished">Konts</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Konta lietotājvārds.</translation>
+        <translation type="vanished">Konta lietotājvārds.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1043,7 +1043,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Pārtraukts</translation>
+        <translation type="vanished">Pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1117,7 +1117,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Pārtraukts</translation>
+        <translation type="vanished">Pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2234,7 +2234,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Pārtraukts</translation>
+        <translation type="vanished">Pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2278,25 +2278,10 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="145"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3329,27 +3314,27 @@ Are you sure you want to do this?</source>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Pārbauda FML bibliotēkas...</translation>
+        <translation type="vanished">Pārbauda FML bibliotēkas...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Lejupielādē FML...</translation>
+        <translation type="vanished">Lejupielādē FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Pārtraukts</translation>
+        <translation type="vanished">Pārtraukts</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Notiek FML bibliotēku kopēšana instancē...</translation>
+        <translation type="vanished">Notiek FML bibliotēku kopēšana instancē...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Neizdevās izveidot FML bibliotēkas mapi instancē.</translation>
+        <translation type="vanished">Neizdevās izveidot FML bibliotēkas mapi instancē.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Neizdevās nokopēt Forge/FML bibliotēku: %1.</translation>
+        <translation type="vanished">Neizdevās nokopēt Forge/FML bibliotēku: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3357,7 +3342,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>Neizdevās lejuplādēt šos failus:
+        <translation type="vanished">Neizdevās lejuplādēt šos failus:
 %1
 
 Iemesls:%2
@@ -5492,31 +5477,11 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Nav izvēlēts konts priekš palaišanas.</translation>
-    </message>
-    <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Nav izvēlēts konts priekš palaišanas.</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
         <translation type="vanished">Jūsu konts pagaidām nav pieslēdzies. Lūdzu, ievadiet paroli, lai vēlreiz pieslēgtos. &lt;br /&gt; &lt;br /&gt; Šī problēma varētu būt izraisīta dēļ paroles maiņas.</translation>
-    </message>
-    <message>
-        <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
@@ -5525,26 +5490,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Izvēlaties Bezsaistes Spēlētaja Vārdu.</translation>
-    </message>
-    <message>
-        <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Izvēlaties Bezsaistes Spēlētaja Vārdu.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Saņemts nenoteikts sesijas statuss pieslēgšanās laikā.</translation>
+        <translation type="vanished">Saņemts nenoteikts sesijas statuss pieslēgšanās laikā.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This account does not own Minecraft.
-You need to purchase the game first to play it.
-
-Do you want to play the demo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5556,10 +5510,6 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="227"/>
         <source>Cancel</source>
         <translation>Atcelt</translation>
-    </message>
-    <message>
-        <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5575,24 +5525,16 @@ Do you want to play the demo?</source>
         <translation>Konta atjaunināšana neizdevās</translation>
     </message>
     <message>
-        <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation type="vanished">Šis konts vairs neatrodās serveros. Tas var būt migrēts, kurā gadijumā lūdzu pievienojiet jauno kontu jūs šito kontu migrējāt uz.</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Konts pazudis</translation>
+        <translation type="vanished">Konts pazudis</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Neizdevās palaist.</translation>
-    </message>
-    <message>
-        <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Neizdevās palaist.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6040,10 +5982,6 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Java:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6539,7 +6477,7 @@ Jums vajadzēs šo kļūdu salabot manuāli.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Pārtraukts</translation>
+        <translation type="obsolete">Pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7383,11 +7321,6 @@ Iemesls:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 &amp;Help</source>
-        <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
         <source>Open the %1 wiki</source>
         <translation type="unfinished"></translation>
@@ -7924,12 +7857,6 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is a local modpack.
-This can be updated only using a file in %1 format
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation type="unfinished"></translation>
@@ -8156,7 +8083,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Pārtraukts</translation>
+        <translation type="obsolete">Pārtraukts</translation>
     </message>
 </context>
 <context>
@@ -8787,17 +8714,6 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation type="obsolete">Nezināms</translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -10550,15 +10466,6 @@ The updater cannot continue until you fix this problem.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The updater couldn&apos;t create a log file - the data folder is not writable.
-
-Make sure you have write permissions to the data folder.
-(%1)
-
-The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="450"/>
         <source>Updating flatpack not supported</source>
         <translation type="unfinished"></translation>
@@ -10811,11 +10718,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>Vārds</translation>
+        <translation type="vanished">Vārds</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (Tiek izmantots)</translation>
+        <translation type="vanished">%1 (Tiek izmantots)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -11261,14 +11168,6 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="133"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;Offline&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12457,25 +12356,10 @@ Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="149"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13941,17 +13825,6 @@ inheritsFrom is missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="130"/>
         <source>The date and time this texture pack was last changed (or added).</source>
         <translation type="unfinished"></translation>
@@ -14287,10 +14160,6 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java major version is incompatible. Things might break.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15226,21 +15095,6 @@ Please set up your account according to %1.</source>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>XboxProfileStep</name>
-    <message>
-        <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Got Xbox profile</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

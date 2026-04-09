@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Konto</translation>
+        <translation type="vanished">Konto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Konto kasutajanimi.</translation>
+        <translation type="vanished">Konto kasutajanimi.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1026,7 +1026,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Tühistatud</translation>
+        <translation type="vanished">Tühistatud</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1100,7 +1100,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Tühistatud</translation>
+        <translation type="vanished">Tühistatud</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2220,7 +2220,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Tühistatud</translation>
+        <translation type="vanished">Tühistatud</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2265,24 +2265,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Tuvastamata</translation>
+        <translation type="vanished">Tuvastamata</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="145"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3405,27 +3394,27 @@ Kas soovid kindlasti seda teha?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>FML-teekide kontrollimine...</translation>
+        <translation type="vanished">FML-teekide kontrollimine...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>FML-teekide allalaadimine...</translation>
+        <translation type="vanished">FML-teekide allalaadimine...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Tühistatud</translation>
+        <translation type="vanished">Tühistatud</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>FML-teekide eksemplari kopeerimine...</translation>
+        <translation type="vanished">FML-teekide eksemplari kopeerimine...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Eksemplari FML-teekide kausta loomine ebaõnnestus.</translation>
+        <translation type="vanished">Eksemplari FML-teekide kausta loomine ebaõnnestus.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Forge/FML-teegi kopeerimine ebaõnnestus: %1.</translation>
+        <translation type="vanished">Forge/FML-teegi kopeerimine ebaõnnestus: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3433,7 +3422,7 @@ Kas soovid kindlasti seda teha?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Järgnevate failide allalaadimine ebaõnnestus:
+        <translation type="vanished">Järgnevate failide allalaadimine ebaõnnestus:
 %1
 
 Põhjus: %2
@@ -5911,23 +5900,7 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Käivitamiseks pole kontot valitud.</translation>
-    </message>
-    <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Käivitamiseks pole kontot valitud.</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -5935,7 +5908,7 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Jätkad käivitusega?</translation>
+        <translation type="vanished">Jätkad käivitusega?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -5948,15 +5921,15 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Vali oma võrguta režiimi mängijanimi.</translation>
+        <translation type="vanished">Vali oma võrguta režiimi mängijanimi.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Vali oma demorežiimi mängijanimi.</translation>
+        <translation type="vanished">Vali oma demorežiimi mängijanimi.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Määramata seansiolek sisselogimisel vastuvõetud.</translation>
+        <translation type="vanished">Määramata seansiolek sisselogimisel vastuvõetud.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5968,7 +5941,7 @@ Java versiooni saab pärast seadetes muuta.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Sellel kontol pole Minecrafti.
+        <translation type="vanished">Sellel kontol pole Minecrafti.
 Mängimiseks pead mängu eelnevalt ostma.
 
 Kas soovid proovirežiimi mängida?</translation>
@@ -5985,7 +5958,7 @@ Kas soovid proovirežiimi mängida?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Käivitamine tühistatud - konto ei oma Minecrafti.</translation>
+        <translation type="vanished">Käivitamine tühistatud - konto ei oma Minecrafti.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6006,7 +5979,7 @@ Kas soovid proovirežiimi mängida?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Käivitaja kliendi-ID on muutunud</translation>
+        <translation type="vanished">Käivitaja kliendi-ID on muutunud</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6014,15 +5987,11 @@ Kas soovid proovirežiimi mängida?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Konto kadunud</translation>
+        <translation type="vanished">Konto kadunud</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Käivitamine ebaõnnestus.</translation>
-    </message>
-    <message>
-        <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Käivitamine ebaõnnestus.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6550,7 +6519,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7111,7 +7080,7 @@ You&apos;ll have to correct this problem manually.</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Tühistatud</translation>
+        <translation type="vanished">Tühistatud</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8058,7 +8027,7 @@ Põhjus:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;abi</translation>
+        <translation type="vanished">%1 &amp;abi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8766,7 +8735,7 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>See on kohalik modipakk.
+        <translation type="vanished">See on kohalik modipakk.
 Seda saab uuendada vaid %1-vormingus failiga
 </translation>
     </message>
@@ -9001,7 +8970,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Tühistatud</translation>
+        <translation type="vanished">Tühistatud</translation>
     </message>
 </context>
 <context>
@@ -9833,17 +9802,6 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation type="vanished">Tundmatu</translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -12012,15 +11970,6 @@ The updater cannot continue until you fix this problem.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The updater couldn&apos;t create a log file - the data folder is not writable.
-
-Make sure you have write permissions to the data folder.
-(%1)
-
-The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="450"/>
         <source>Updating flatpack not supported</source>
         <translation>Flatpaki uuendamine pole toetatud</translation>
@@ -12279,11 +12228,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>Nimi</translation>
+        <translation type="vanished">Nimi</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (kasutuses)</translation>
+        <translation type="vanished">%1 (kasutuses)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -12787,11 +12736,11 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Profiil puudub (%1)</translation>
+        <translation type="vanished">Profiil puudub (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Võrguta&gt;</translation>
+        <translation type="vanished">&lt;Võrguta&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -14069,24 +14018,13 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Tuvastamata</translation>
+        <translation type="vanished">Tuvastamata</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="149"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15665,17 +15603,6 @@ inheritsFrom is missing</source>
         <translation type="unfinished">Pakkuja</translation>
     </message>
     <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="126"/>
         <source>Is the texture pack enabled?</source>
         <translation type="unfinished"></translation>
@@ -16122,10 +16049,6 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java major version is incompatible. Things might break.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17219,15 +17142,15 @@ Please set up your account according to %1.</source>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Xboxi profiili hankimine.</translation>
+        <translation type="vanished">Xboxi profiili hankimine.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Xboxi profiili hankimine ebaõnnestus: %1</translation>
+        <translation type="vanished">Xboxi profiili hankimine ebaõnnestus: %1</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Xboxi profiil saadud</translation>
+        <translation type="vanished">Xboxi profiil saadud</translation>
     </message>
 </context>
 <context>

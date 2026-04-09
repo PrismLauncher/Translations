@@ -547,7 +547,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Hesap</translation>
+        <translation type="vanished">Hesap</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -574,7 +574,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Hesabın kullanıcı adı.</translation>
+        <translation type="vanished">Hesabın kullanıcı adı.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1079,7 +1079,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>İptal edildi</translation>
+        <translation type="vanished">İptal edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1153,7 +1153,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>İptal edildi</translation>
+        <translation type="vanished">İptal edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2286,7 +2286,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>İptal edildi</translation>
+        <translation type="vanished">İptal edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2331,7 +2331,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Tanınmayan</translation>
+        <translation type="vanished">Tanınmayan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2344,14 +2344,14 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Uyarı: Bu kaynak başka bir yerden sembolik olarak bağlıdır. Düzenlenmesi orijinali de değiştirecektir.
 Orijinal Yol: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Uyarı: Bu kaynak başka bir yerde sert bağlantılıdır. Düzenlenmesi orijinali de değiştirecektir.</translation>
     </message>
     <message>
@@ -3500,27 +3500,27 @@ Bunu yapmak istediğinize emin misiniz?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>FML kütüphaneleri denetleniyor...</translation>
+        <translation type="vanished">FML kütüphaneleri denetleniyor...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>FML kütüphaneleri indiriliyor...</translation>
+        <translation type="vanished">FML kütüphaneleri indiriliyor...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>İptal edildi</translation>
+        <translation type="vanished">İptal edildi</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Profil dosyasına FML kütüphaneleri kopyalanıyor...</translation>
+        <translation type="vanished">Profil dosyasına FML kütüphaneleri kopyalanıyor...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Profilin içine FML kütüphane klasörü oluşturulamadı.</translation>
+        <translation type="vanished">Profilin içine FML kütüphane klasörü oluşturulamadı.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Forge/FML kütüphanesi kopyalanırken hata: %1.</translation>
+        <translation type="vanished">Forge/FML kütüphanesi kopyalanırken hata: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3528,7 +3528,7 @@ Bunu yapmak istediğinize emin misiniz?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Belirtilen dosyalar indirilemedi:
+        <translation type="vanished">Belirtilen dosyalar indirilemedi:
 %1
 
 Sebep:%2
@@ -6109,23 +6109,23 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Başlatmak için hiçbir profil seçilmedi.</translation>
+        <translation type="vanished">Başlatmak için hiçbir profil seçilmedi.</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>%1 denemeden sonra başlatamadık. Bu genelde Microsoft hesabınıza çıkış yapıp tekrar giriş yaparak düzeltilebilir. Eğer bu çalışmazsa Minecraft doğrulama sunucuları kesinti yaşıyor olabilir veya bölgenizde bir VPN kullanmanız gerekiyor olabilir. Denemeye devam etmek ister misiniz?</translation>
+        <translation type="vanished">%1 denemeden sonra başlatamadık. Bu genelde Microsoft hesabınıza çıkış yapıp tekrar giriş yaparak düzeltilebilir. Eğer bu çalışmazsa Minecraft doğrulama sunucuları kesinti yaşıyor olabilir veya bölgenizde bir VPN kullanmanız gerekiyor olabilir. Denemeye devam etmek ister misiniz?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Prism Launcher&apos;ın kullanıcı kimliği değişti. Lütfen &apos;%1&apos; ifadesini kaldırıp yeniden deneyin.</translation>
+        <translation type="vanished">Prism Launcher&apos;ın kullanıcı kimliği değişti. Lütfen &apos;%1&apos; ifadesini kaldırıp yeniden deneyin.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; artık sunucularda bulunmuyor. Entegre edilmiş olabilir, eğer öyleyse lütfen buna entegre edilmiş hesabınızı ekleyin.</translation>
+        <translation type="vanished">&apos;%1&apos; artık sunucularda bulunmuyor. Entegre edilmiş olabilir, eğer öyleyse lütfen buna entegre edilmiş hesabınızı ekleyin.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos; zaman aşımına uğradı ve yeniden doğrulanması gerek. Bu hesabı yeniden doğrulamak ister misiniz?</translation>
+        <translation type="vanished">&apos;%1&apos; zaman aşımına uğradı ve yeniden doğrulanması gerek. Bu hesabı yeniden doğrulamak ister misiniz?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -6133,7 +6133,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Başlatmaya devam et?</translation>
+        <translation type="vanished">Başlatmaya devam et?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -6146,15 +6146,15 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Çevrimdışı oyuncu adınızı seçin.</translation>
+        <translation type="vanished">Çevrimdışı oyuncu adınızı seçin.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Demo modu oyuncu ismi seç.</translation>
+        <translation type="vanished">Demo modu oyuncu ismi seç.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Giriş sırasında belirsiz oturum durumu görüldü.</translation>
+        <translation type="vanished">Giriş sırasında belirsiz oturum durumu görüldü.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -6166,7 +6166,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Bu hesapta Minecraft mevcut değil.
+        <translation type="vanished">Bu hesapta Minecraft mevcut değil.
 Oyunu oynamak için onu satın almış olmalısınız.
 
 Deneme sürümünü oynamak ister misiniz?</translation>
@@ -6183,7 +6183,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Başlatma iptal edildi - hesapta Minecraft mevcut değil.</translation>
+        <translation type="vanished">Başlatma iptal edildi - hesapta Minecraft mevcut değil.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6204,7 +6204,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>İstemci tanılama değişti</translation>
+        <translation type="vanished">İstemci tanılama değişti</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6212,11 +6212,11 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Hesap yok</translation>
+        <translation type="vanished">Hesap yok</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Başlatılamadı.</translation>
+        <translation type="vanished">Başlatılamadı.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -6228,7 +6228,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Hesabın süresi doldu ve yeniden kimlik doğrulaması yapılması gerekiyor</translation>
+        <translation type="vanished">Hesabın süresi doldu ve yeniden kimlik doğrulaması yapılması gerekiyor</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6814,7 +6814,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7402,7 +7402,7 @@ Bu sorunu elle düzeltmelisiniz.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>İptal edildi</translation>
+        <translation type="vanished">İptal edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8390,7 +8390,7 @@ Sebep:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;Yardım</translation>
+        <translation type="vanished">%1 &amp;Yardım</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -9191,7 +9191,7 @@ Emin misiniz?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Bu yerel bir mod paketidir.
+        <translation type="vanished">Bu yerel bir mod paketidir.
 Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
 </translation>
     </message>
@@ -9441,7 +9441,7 @@ URL&apos;ye güvendiğinizden emin olun.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>İptal edildi</translation>
+        <translation type="vanished">İptal edildi</translation>
     </message>
 </context>
 <context>
@@ -10347,14 +10347,14 @@ Büyük ihtimalle dizini değiştirmeniz gerekecek — lütfen modun web sitesin
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Uyarı: Bu kaynak başka bir yerden sembolik olarak bağlantılıdır. Bunu değiştirmek orijinalini de değiştirir.
 Standart Yol: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinali de değiştirir.</translation>
     </message>
     <message>
@@ -12592,7 +12592,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Güncelleyici bir günlük dosyası oluşturamadı - veri klasörü yazılabilir değil.
+        <translation type="vanished">Güncelleyici bir günlük dosyası oluşturamadı - veri klasörü yazılabilir değil.
 
 Veri klasörüne yazma izniniz olduğundan emin olun.
 (%1)
@@ -12904,11 +12904,11 @@ Bu kilidin üzerine yazmak ve yine de bu güncellemeye devam etmek için aşağ�
     </message>
     <message>
         <source>Name</source>
-        <translation>İsim</translation>
+        <translation type="vanished">İsim</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (kullanımda)</translation>
+        <translation type="vanished">%1 (kullanımda)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -13437,11 +13437,11 @@ Hata mesajı: %1</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Profil yok (%1)</translation>
+        <translation type="vanished">Profil yok (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Çevrim dışı&gt;</translation>
+        <translation type="vanished">&lt;Çevrim dışı&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -14773,7 +14773,7 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Tanınmayan</translation>
+        <translation type="vanished">Tanınmayan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -14786,14 +14786,14 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Uyarı: Bu kaynak başka bir yerden sembolik olarak bağlanmıştır. Bunu düzenlemek orijinali de değiştirecektir.
 Kanonik Yol: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinali de değiştirecektir.</translation>
     </message>
     <message>
@@ -16461,14 +16461,14 @@ inheritsFrom eksik</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Uyarı: Bu kaynak başka bir yerden sembolik olarak bağlanmıştır. Bunu düzenlemek orijinali de değiştirecektir.
 Kanonik Yol: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinali de değiştirecektir.</translation>
     </message>
     <message>
@@ -16937,7 +16937,7 @@ Profil bu nedenle başlatılamayabilir.</translation>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Önemli Java sürümü uyumsuz. Bazı şeyler bozulabilir.</translation>
+        <translation type="vanished">Önemli Java sürümü uyumsuz. Bazı şeyler bozulabilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -18057,11 +18057,11 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Xbox profili alınıyor.</translation>
+        <translation type="vanished">Xbox profili alınıyor.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Xbox profil elde edimi başarısız: %1</translation>
+        <translation type="vanished">Xbox profil elde edimi başarısız: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -18069,7 +18069,7 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Xbox profili alındı</translation>
+        <translation type="vanished">Xbox profili alındı</translation>
     </message>
 </context>
 <context>

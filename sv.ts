@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Konto</translation>
+        <translation type="vanished">Konto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Användarnamn för kontot.</translation>
+        <translation type="vanished">Användarnamn för kontot.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1063,7 +1063,7 @@ Vissa versioner av Minecraft kanske inte startar.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Avbruten</translation>
+        <translation type="vanished">Avbruten</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1137,7 +1137,7 @@ Vissa versioner av Minecraft kanske inte startar.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Avbruten</translation>
+        <translation type="vanished">Avbruten</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2262,7 +2262,7 @@ Vissa versioner av Minecraft kanske inte startar.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Avbruten</translation>
+        <translation type="vanished">Avbruten</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2307,24 +2307,13 @@ Vissa versioner av Minecraft kanske inte startar.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Okänt</translation>
+        <translation type="obsolete">Okänt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="145"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3467,27 +3456,27 @@ Are you sure you want to do this?</source>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Kollar efter FML-bibliotek...</translation>
+        <translation type="vanished">Kollar efter FML-bibliotek...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Laddar ner FML-bibliotek...</translation>
+        <translation type="vanished">Laddar ner FML-bibliotek...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Avbruten</translation>
+        <translation type="vanished">Avbruten</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Kopierar FML-bibliotek till instansen...</translation>
+        <translation type="vanished">Kopierar FML-bibliotek till instansen...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Misslyckades att skapa FML-biblioteksmapp i instansen.</translation>
+        <translation type="vanished">Misslyckades att skapa FML-biblioteksmapp i instansen.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Misslyckades att kopiera Forge/FML-bibliotek: %1.</translation>
+        <translation type="vanished">Misslyckades att kopiera Forge/FML-bibliotek: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3495,7 +3484,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>Misslyckades att ladda ner följande filer:
+        <translation type="vanished">Misslyckades att ladda ner följande filer:
 %1
 
 Anledning:%2
@@ -6077,23 +6066,19 @@ Du kan ändra Java-versionen i inställningarna senare.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Inget konto har valts för start.</translation>
-    </message>
-    <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Inget konto har valts för start.</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Launcherns klientidentifiering har ändrats. Ta bort &apos;%1&apos; och försök igen.</translation>
+        <translation type="vanished">Launcherns klientidentifiering har ändrats. Ta bort &apos;%1&apos; och försök igen.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; finns inte längre på servrarna. Det kan ha migrerats. I så fall bör du lägga till kontot du migrerade detta till.</translation>
+        <translation type="vanished">&apos;%1&apos; finns inte längre på servrarna. Det kan ha migrerats. I så fall bör du lägga till kontot du migrerade detta till.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos; har utgått och måste återautentiseras. Vill du återautentisera detta konto?</translation>
+        <translation type="vanished">&apos;%1&apos; har utgått och måste återautentiseras. Vill du återautentisera detta konto?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -6101,7 +6086,7 @@ Du kan ändra Java-versionen i inställningarna senare.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Fortsätt starta?</translation>
+        <translation type="vanished">Fortsätt starta?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -6114,15 +6099,15 @@ Du kan ändra Java-versionen i inställningarna senare.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Välj vilket spelarnamn du vill använda för att spela offline.</translation>
+        <translation type="vanished">Välj vilket spelarnamn du vill använda för att spela offline.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Välj spelarnamn för demoläget.</translation>
+        <translation type="vanished">Välj spelarnamn för demoläget.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Mottog obestämd sessions-status under inloggning.</translation>
+        <translation type="vanished">Mottog obestämd sessions-status under inloggning.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -6134,7 +6119,7 @@ Du kan ändra Java-versionen i inställningarna senare.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Detta konto äger inte Minecraft.
+        <translation type="vanished">Detta konto äger inte Minecraft.
 Du måste först köpa spelet för att kunna spela det.
 
 Vill du spela i demoläget?</translation>
@@ -6151,7 +6136,7 @@ Vill du spela i demoläget?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Start avbruten - kontot äger inte Minecraft.</translation>
+        <translation type="vanished">Start avbruten - kontot äger inte Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6172,7 +6157,7 @@ Vill du spela i demoläget?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Klientidentifiering har ändrats</translation>
+        <translation type="vanished">Klientidentifiering har ändrats</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6180,11 +6165,11 @@ Vill du spela i demoläget?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Konto borta</translation>
+        <translation type="vanished">Konto borta</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Kunde inte starta.</translation>
+        <translation type="vanished">Kunde inte starta.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -6196,7 +6181,7 @@ Vill du spela i demoläget?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Kontot har utgått och måste återautentiseras</translation>
+        <translation type="vanished">Kontot har utgått och måste återautentiseras</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6787,7 +6772,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7355,7 +7340,7 @@ Du måste rätta till detta problem manuellt.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Avbruten</translation>
+        <translation type="vanished">Avbruten</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8237,7 +8222,7 @@ Anledning:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>&amp;Hjälp med %1</translation>
+        <translation type="vanished">&amp;Hjälp med %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -9070,7 +9055,7 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Detta är ett lokalt modpaket.
+        <translation type="vanished">Detta är ett lokalt modpaket.
 Detta kan endast uppdateras med en fil i formatet %1
 </translation>
     </message>
@@ -9316,7 +9301,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Avbruten</translation>
+        <translation type="vanished">Avbruten</translation>
     </message>
 </context>
 <context>
@@ -10197,14 +10182,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Varning: Denna resurs är symboliskt länkad från en annan plats. Ändringar till den kommer också ändra originalet.
 Ursprunglig sökväg: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den kommer också ändra originalet.</translation>
     </message>
     <message>
@@ -12427,7 +12412,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Uppdateraren kunde inte skapa en loggfil - datamappen är inte skrivbar.
+        <translation type="vanished">Uppdateraren kunde inte skapa en loggfil - datamappen är inte skrivbar.
 
 Se till att du har skrivbehörigheter till datamappen.
 (%1)
@@ -12739,11 +12724,11 @@ För att skriva över detta lås och fortsätta med denna uppdatering ändå, v�
     </message>
     <message>
         <source>Name</source>
-        <translation>Namn</translation>
+        <translation type="vanished">Namn</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (används)</translation>
+        <translation type="vanished">%1 (används)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -13257,11 +13242,11 @@ Felmeddelande: %1</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Ingen profil (%1)</translation>
+        <translation type="vanished">Ingen profil (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Offline&gt;</translation>
+        <translation type="vanished">&lt;Offline&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -14583,7 +14568,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Okänt</translation>
+        <translation type="vanished">Okänt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -14596,14 +14581,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Varning: Denna resurs är symboliskt länkad från en annan plats. Ändringar till den kommer också ändra originalet.
 Ursprunglig sökväg: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den kommer också ändra originalet.</translation>
     </message>
     <message>
@@ -16265,14 +16250,14 @@ inheritsFrom saknas</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Varning: Denna resurs är symboliskt länkad från någon annanstans. Om du redigerar den ändras också originalet.
 Ursprunglig sökväg: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Varning: Denna resurs är hårt länkad någon annanstans. Om du redigerar den ändras också originalet.</translation>
     </message>
     <message>
@@ -16734,7 +16719,7 @@ Instansen kanske inte startar på grund av detta.</translation>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Större numret på Java-versionen är inkompatibelt. Saker kan sluta fungera.</translation>
+        <translation type="vanished">Större numret på Java-versionen är inkompatibelt. Saker kan sluta fungera.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -17855,15 +17840,15 @@ Vänligen ställ in ditt konto enligt %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Hämtar Xbox-profil.</translation>
+        <translation type="vanished">Hämtar Xbox-profil.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Kunde inte hämta Xbox-profil: %1</translation>
+        <translation type="vanished">Kunde inte hämta Xbox-profil: %1</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Hämtade Xbox-profil</translation>
+        <translation type="vanished">Hämtade Xbox-profil</translation>
     </message>
 </context>
 <context>

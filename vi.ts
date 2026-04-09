@@ -543,7 +543,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Tài khoản</translation>
+        <translation type="vanished">Tài khoản</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -570,7 +570,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Tên người dùng của tài khoản.</translation>
+        <translation type="vanished">Tên người dùng của tài khoản.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1067,7 +1067,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Bị gián đoạn</translation>
+        <translation type="vanished">Bị gián đoạn</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1141,7 +1141,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Bị gián đoạn</translation>
+        <translation type="vanished">Bị gián đoạn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2266,7 +2266,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Bị gián đoạn</translation>
+        <translation type="vanished">Bị gián đoạn</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2311,7 +2311,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Không thể nhận dạng</translation>
+        <translation type="vanished">Không thể nhận dạng</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2324,14 +2324,14 @@ Một số phiên bản Minecraft có thể không khởi động.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Cảnh báo: Tài nguyên này được liên kết mềm từ một nơi khác. Việc chỉnh sửa nó cũng sẽ ảnh hưởng đến bản gốc.
 Đường dẫn gốc: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Cảnh báo: Tài nguyên này được liên kết cứng cùng với một nơi khác. Việc chỉnh sửa nó cũng sẽ ảnh hưởng đến bản gốc.</translation>
     </message>
     <message>
@@ -3428,27 +3428,27 @@ Bạn có chắc bạn muốn làm điều này?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Đang kiểm tra thư viện FML...</translation>
+        <translation type="vanished">Đang kiểm tra thư viện FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Đang tải thư viện FML...</translation>
+        <translation type="vanished">Đang tải thư viện FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Bị gián đoạn</translation>
+        <translation type="vanished">Bị gián đoạn</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Đang sao chép thư viện FML vào phiên bản...</translation>
+        <translation type="vanished">Đang sao chép thư viện FML vào phiên bản...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Thất bại trong việc tạo thư mục thư viện FML vào phiên bản.</translation>
+        <translation type="vanished">Thất bại trong việc tạo thư mục thư viện FML vào phiên bản.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Sao chép thư viện Forge/FML thất bại: %1.</translation>
+        <translation type="vanished">Sao chép thư viện Forge/FML thất bại: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3456,7 +3456,7 @@ Bạn có chắc bạn muốn làm điều này?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Thất bại khi tải những tập tin sau đây:
+        <translation type="vanished">Thất bại khi tải những tập tin sau đây:
 %1
 
 Nguyên nhân:%2
@@ -5991,23 +5991,23 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Không có tài khoản nào được chọn để chạy.</translation>
+        <translation type="vanished">Không có tài khoản nào được chọn để chạy.</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Có vẻ như chúng tôi không thể khởi chạy sau %1 thử. Thông thường, bạn có thể khắc phục sự cố này bằng cách đăng xuất và đăng nhập lại vào tài khoản Microsoft của mình . Nếu cách đó không hiệu quả, có thể máy chủ xác thực Minecraft đang gặp sự cố hoặc bạn cần sử dụng VPN trong khu vực của mình. Bạn có muốn tiếp tục thử không?</translation>
+        <translation type="vanished">Có vẻ như chúng tôi không thể khởi chạy sau %1 thử. Thông thường, bạn có thể khắc phục sự cố này bằng cách đăng xuất và đăng nhập lại vào tài khoản Microsoft của mình . Nếu cách đó không hiệu quả, có thể máy chủ xác thực Minecraft đang gặp sự cố hoặc bạn cần sử dụng VPN trong khu vực của mình. Bạn có muốn tiếp tục thử không?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Mã định danh máy khách của trình khởi chạy đã thay đổi. Vui lòng xóa &apos;%1&apos; và thử lại.</translation>
+        <translation type="vanished">Mã định danh máy khách của trình khởi chạy đã thay đổi. Vui lòng xóa &apos;%1&apos; và thử lại.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; không còn tồn tại trên máy chủ nữa. Có thể nó đã được di chuyển, trong trường hợp đó, vui lòng thêm tài khoản mới mà bạn đã di chuyển tài khoản này sang.</translation>
+        <translation type="vanished">&apos;%1&apos; không còn tồn tại trên máy chủ nữa. Có thể nó đã được di chuyển, trong trường hợp đó, vui lòng thêm tài khoản mới mà bạn đã di chuyển tài khoản này sang.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&quot; đã hết hạn và cần xác minh lại. Bạn có muốn xác minh lại tài khoản này không?</translation>
+        <translation type="vanished">&apos;%1&quot; đã hết hạn và cần xác minh lại. Bạn có muốn xác minh lại tài khoản này không?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -6015,7 +6015,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Tiếp tục chạy ?</translation>
+        <translation type="vanished">Tiếp tục chạy ?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -6028,15 +6028,15 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Chọn tên người chơi ngoại tuyến của bạn.</translation>
+        <translation type="vanished">Chọn tên người chơi ngoại tuyến của bạn.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Chọn tên người chơi cho chế độ demo.</translation>
+        <translation type="vanished">Chọn tên người chơi cho chế độ demo.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Đã nhận được trạng thái phiên không xác định trong khi đăng nhập.</translation>
+        <translation type="vanished">Đã nhận được trạng thái phiên không xác định trong khi đăng nhập.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -6048,7 +6048,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Tài khoản này không sở hữu Minecraft.
+        <translation type="vanished">Tài khoản này không sở hữu Minecraft.
 Bạn phải mua game này trước để có thể bắt đầu chơi.
 
 Bạn có muốn chơi bản demo không?</translation>
@@ -6065,7 +6065,7 @@ Bạn có muốn chơi bản demo không?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Hủy bỏ khởi động - tài khoản không sở hữu Minecraft.</translation>
+        <translation type="vanished">Hủy bỏ khởi động - tài khoản không sở hữu Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6086,7 +6086,7 @@ Bạn có muốn chơi bản demo không?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Đã thay đổi tài khoản</translation>
+        <translation type="vanished">Đã thay đổi tài khoản</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6094,11 +6094,11 @@ Bạn có muốn chơi bản demo không?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Tài khoản đã biến mất</translation>
+        <translation type="vanished">Tài khoản đã biến mất</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Thất bại trong việc khởi động.</translation>
+        <translation type="vanished">Thất bại trong việc khởi động.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -6110,7 +6110,7 @@ Bạn có muốn chơi bản demo không?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Tài khoản đã quá hạn và cần được xác thực lại</translation>
+        <translation type="vanished">Tài khoản đã quá hạn và cần được xác thực lại</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6640,7 +6640,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7220,7 +7220,7 @@ Bạn phải khắc phục sự cố này bằng cách thủ công.</translation
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Bị hủy bỏ</translation>
+        <translation type="vanished">Bị hủy bỏ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8095,7 +8095,7 @@ Lý do:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1&amp;Hỗ trợ</translation>
+        <translation type="vanished">%1&amp;Hỗ trợ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8815,7 +8815,7 @@ Bạn có chắc chắn không ?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Đây là modpack cục bộ.
+        <translation type="vanished">Đây là modpack cục bộ.
 Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
 </translation>
     </message>
@@ -9061,7 +9061,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Bị hủy bỏ</translation>
+        <translation type="vanished">Bị hủy bỏ</translation>
     </message>
 </context>
 <context>
@@ -9894,14 +9894,14 @@ Bạn có thể sẽ phải thay đổi đường dẫn - vui lòng tham khảo 
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Cảnh báo: Tài nguyên này đã được liên kết từ đâu đó. Chỉnh sửa tài nguyên này cũng sẽ thay đổi bản gốc.
 Đường dẫn chuẩn: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu đó. Chỉnh sửa tài nguyên này cũng sẽ thay đổi bản gốc.</translation>
     </message>
     <message>
@@ -11980,7 +11980,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Trình cập nhật không thể khởi tạo nhật ký - file dữ liệu không cho phep ghi.
+        <translation type="vanished">Trình cập nhật không thể khởi tạo nhật ký - file dữ liệu không cho phep ghi.
 
 Đảm bảo bạn đã cấp quyền ghi cho thư mục 
 (%1)
@@ -12292,11 +12292,11 @@ Chi tiết cho lần cập nhật gần đây nhất.
     </message>
     <message>
         <source>Name</source>
-        <translation>Tên</translation>
+        <translation type="vanished">Tên</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (đang sử dụng)</translation>
+        <translation type="vanished">%1 (đang sử dụng)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -12805,11 +12805,11 @@ Xác nhận cắt bớt?</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Không có hồ sơ (%1)</translation>
+        <translation type="vanished">Không có hồ sơ (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Ngoại tuyến&gt;</translation>
+        <translation type="vanished">&lt;Ngoại tuyến&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -14104,7 +14104,7 @@ Bạn có chắc muốn làm điều này?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Không thể nhận dạng</translation>
+        <translation type="vanished">Không thể nhận dạng</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -14117,14 +14117,14 @@ Bạn có chắc muốn làm điều này?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Cảnh báo: Tài nguyên này đã được liên kết từ đâu đó. Chỉnh sửa tài nguyên này cũng sẽ thay đổi bản gốc.
 Đường dẫn gốc: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu đó. Chỉnh sửa tài nguyên này cũng sẽ thay đổi bản gốc.</translation>
     </message>
     <message>
@@ -15737,14 +15737,14 @@ Thiếu inheritFrom</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Cảnh báo: Tài nguyên này đã được liên kết tượng trưng từ đâu đó. Chỉnh sửa tài nguyên này cũng sẽ thay đổi bản gốc.
 Đường dẫn gốc: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Cảnh báo: Tài nguyên này đã được liên kết cứng ở đâu đó. Chỉnh sửa tài nguyên này cũng sẽ thay đổi bản gốc.</translation>
     </message>
     <message>
@@ -16181,7 +16181,7 @@ Bản cài đặt có thể không khởi động vì điều này.</translation
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Phiên bản Java không phù hợp. Một số thứ có thể bị lỗi.</translation>
+        <translation type="vanished">Phiên bản Java không phù hợp. Một số thứ có thể bị lỗi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -17276,11 +17276,11 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Đang tìm nạp hồ sơ Xbox.</translation>
+        <translation type="vanished">Đang tìm nạp hồ sơ Xbox.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Truy cập thông tin tài khoản Xbox thất bại: %1</translation>
+        <translation type="vanished">Truy cập thông tin tài khoản Xbox thất bại: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -17288,7 +17288,7 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Đã lấy được hồ sơ Xbox</translation>
+        <translation type="vanished">Đã lấy được hồ sơ Xbox</translation>
     </message>
 </context>
 <context>

@@ -483,7 +483,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>கணக்கு</translation>
+        <translation type="vanished">கணக்கு</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -502,7 +502,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>கணக்கின் பயனர் பெயர்.</translation>
+        <translation type="vanished">கணக்கின் பயனர் பெயர்.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
@@ -872,7 +872,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Aborted</source>
-        <translation>கருக்கலைப்பு</translation>
+        <translation type="vanished">கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -909,7 +909,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Aborted</source>
-        <translation>கருக்கலைப்பு</translation>
+        <translation type="vanished">கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2002,7 +2002,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Aborted</source>
-        <translation>கருக்கலைப்பு</translation>
+        <translation type="vanished">கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2047,7 +2047,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>அங்கீகரிக்கப்படாத</translation>
+        <translation type="vanished">அங்கீகரிக்கப்படாத</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2060,14 +2060,14 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 எச்சரிக்கை: இந்த சான்று குறியீடாக வேறு இடங்களிலிருந்து இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும். 
 நியமன பாதை: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 எச்சரிக்கை: இந்த சான்று வேறு இடங்களில் கடினமாக இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.</translation>
     </message>
     <message>
@@ -3106,27 +3106,27 @@ Are you sure you want to do this?</source>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>எஃப்எம்எல் நூலகங்களை சரிபார்க்கிறது ...</translation>
+        <translation type="vanished">எஃப்எம்எல் நூலகங்களை சரிபார்க்கிறது ...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>FML நூலகங்களை பதிவிறக்குகிறது ...</translation>
+        <translation type="vanished">FML நூலகங்களை பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>கருக்கலைப்பு</translation>
+        <translation type="vanished">கருக்கலைப்பு</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>எஃப்.எம்.எல் நூலகங்களை உதாரணமாக நகலெடுக்கிறது ...</translation>
+        <translation type="vanished">எஃப்.எம்.எல் நூலகங்களை உதாரணமாக நகலெடுக்கிறது ...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>நிகழ்வுக்குள் எஃப்எம்எல் நூலக கோப்புறையை உருவாக்குவது தோல்வி.</translation>
+        <translation type="vanished">நிகழ்வுக்குள் எஃப்எம்எல் நூலக கோப்புறையை உருவாக்குவது தோல்வி.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>ஃபோர்ச்/எஃப்எம்எல் நூலகத்தை நகலெடுப்பதில் தோல்வி: %1.</translation>
+        <translation type="vanished">ஃபோர்ச்/எஃப்எம்எல் நூலகத்தை நகலெடுப்பதில் தோல்வி: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3134,7 +3134,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>பின்வரும் கோப்புகளைப் பதிவிறக்குவதில் தோல்வி:
+        <translation type="vanished">பின்வரும் கோப்புகளைப் பதிவிறக்குவதில் தோல்வி:
  %1
 
  காரணம்:%2
@@ -5325,7 +5325,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>துவக்க எந்த கணக்கு தேர்ந்தெடுக்கப்படவில்லை.</translation>
+        <translation type="vanished">துவக்க எந்த கணக்கு தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
@@ -5334,15 +5334,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>உங்கள் இணைப்பில்லாத பயன்முறை வீரர் பெயரைத் தேர்வுசெய்க.</translation>
+        <translation type="vanished">உங்கள் இணைப்பில்லாத பயன்முறை வீரர் பெயரைத் தேர்வுசெய்க.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>உங்கள் டெமோ பயன்முறை பிளேயர் பெயரைத் தேர்வுசெய்க.</translation>
+        <translation type="vanished">உங்கள் டெமோ பயன்முறை பிளேயர் பெயரைத் தேர்வுசெய்க.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>உள்நுழைவின் போது தீர்மானிக்கப்படாத அமர்வு நிலையைப் பெற்றது.</translation>
+        <translation type="vanished">உள்நுழைவின் போது தீர்மானிக்கப்படாத அமர்வு நிலையைப் பெற்றது.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5354,7 +5354,7 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>இந்த கணக்கில் மின்கிராஃப்ட் இல்லை.
+        <translation type="vanished">இந்த கணக்கில் மின்கிராஃப்ட் இல்லை.
  அதை விளையாட முதலில் விளையாட்டை வாங்க வேண்டும்.
 
  நீங்கள் டெமோ விளையாட விரும்புகிறீர்களா?</translation>
@@ -5370,12 +5370,8 @@ Do you want to play the demo?</source>
         <translation>ரத்துசெய்</translation>
     </message>
     <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>ஏவுதல் ரத்து செய்யப்பட்டது - கணக்கில் Minecraft இல்லை.</translation>
+        <translation type="vanished">ஏவுதல் ரத்து செய்யப்பட்டது - கணக்கில் Minecraft இல்லை.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5383,11 +5379,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>துவக்கியின் கிளையன்ட் அடையாளம் மாறிவிட்டது. தயவுசெய்து &apos;%1&apos; ஐ அகற்றி மீண்டும் முயற்சிக்கவும்.</translation>
+        <translation type="vanished">துவக்கியின் கிளையன்ட் அடையாளம் மாறிவிட்டது. தயவுசெய்து &apos;%1&apos; ஐ அகற்றி மீண்டும் முயற்சிக்கவும்.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; இனி சேவையகங்களில் இல்லை. இது இடம்பெயர்ந்திருக்கலாம், இந்த விசயத்தில் நீங்கள் இதை இடம்பெயர்ந்த புதிய கணக்கைச் சேர்க்கவும்.</translation>
+        <translation type="vanished">&apos;%1&apos; இனி சேவையகங்களில் இல்லை. இது இடம்பெயர்ந்திருக்கலாம், இந்த விசயத்தில் நீங்கள் இதை இடம்பெயர்ந்த புதிய கணக்கைச் சேர்க்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -5400,11 +5396,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>கணக்கு போய்விட்டது</translation>
+        <translation type="vanished">கணக்கு போய்விட்டது</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>தொடங்கத் தவறிவிட்டது.</translation>
+        <translation type="vanished">தொடங்கத் தவறிவிட்டது.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -5416,7 +5412,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>கணக்கு காலாவதியானது மற்றும் மறு ஏற்பு பெற வேண்டும்</translation>
+        <translation type="vanished">கணக்கு காலாவதியானது மற்றும் மறு ஏற்பு பெற வேண்டும்</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -5456,7 +5452,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos; காலாவதியானது மற்றும் மறு ஏற்பு பெற வேண்டும். இந்த கணக்கை மீண்டும் அங்கீகரிக்க விரும்புகிறீர்களா?</translation>
+        <translation type="vanished">&apos;%1&apos; காலாவதியானது மற்றும் மறு ஏற்பு பெற வேண்டும். இந்த கணக்கை மீண்டும் அங்கீகரிக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="438"/>
@@ -5560,7 +5556,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>தொடங்கத் தொடரவா?</translation>
+        <translation type="vanished">தொடங்கத் தொடரவா?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -5568,7 +5564,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>வாடிக்கையாளர் அடையாளம் மாற்றப்பட்டது</translation>
+        <translation type="vanished">வாடிக்கையாளர் அடையாளம் மாற்றப்பட்டது</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="97"/>
@@ -5867,7 +5863,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp; சாவா:</translation>
+        <translation type="vanished">&amp; சாவா:</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
@@ -6411,7 +6407,7 @@ You&apos;ll have to correct this problem manually.</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>கருக்கலைப்பு</translation>
+        <translation type="vanished">கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7171,7 +7167,7 @@ Reason:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp; உதவி</translation>
+        <translation type="vanished">%1 &amp; உதவி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -7777,7 +7773,7 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>இது ஒரு உள்ளக மோட்பேக்.
+        <translation type="vanished">இது ஒரு உள்ளக மோட்பேக்.
  %1 வடிவத்தில் ஒரு கோப்பைப் பயன்படுத்தி மட்டுமே இதை புதுப்பிக்க முடியும்
 </translation>
     </message>
@@ -7993,7 +7989,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>கருக்கலைப்பு</translation>
+        <translation type="vanished">கருக்கலைப்பு</translation>
     </message>
 </context>
 <context>
@@ -8760,14 +8756,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 எச்சரிக்கை: இந்த சான்று குறியீடாக வேறு இடங்களிலிருந்து இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.
  நியமன பாதை: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 எச்சரிக்கை: இந்த சான்று வேறு இடங்களில் கடினமாக இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.</translation>
     </message>
     <message>
@@ -10564,7 +10560,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>புதுப்பிப்பாளரால் ஒரு பதிவு கோப்பை உருவாக்க முடியவில்லை - தரவு கோப்புறை எழுத முடியாதது.
+        <translation type="vanished">புதுப்பிப்பாளரால் ஒரு பதிவு கோப்பை உருவாக்க முடியவில்லை - தரவு கோப்புறை எழுத முடியாதது.
 
  தரவு கோப்புறையில் உங்களிடம் எழுதும் அனுமதிகள் இருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.
  (%1)
@@ -10864,11 +10860,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>பெயர்</translation>
+        <translation type="vanished">பெயர்</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (பயன்பாட்டில்)</translation>
+        <translation type="vanished">%1 (பயன்பாட்டில்)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -11170,11 +11166,11 @@ HTTP நிலை: %2</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>சுயவிவரம் இல்லை (%1)</translation>
+        <translation type="vanished">சுயவிவரம் இல்லை (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;ஆஃப்லைன்&gt;</translation>
+        <translation type="vanished">&lt;ஆஃப்லைன்&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
@@ -12573,7 +12569,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>அங்கீகரிக்கப்படாத</translation>
+        <translation type="vanished">அங்கீகரிக்கப்படாத</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -12586,14 +12582,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 எச்சரிக்கை: இந்த சான்று குறியீடாக வேறு இடங்களிலிருந்து இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.
  நியமன பாதை: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 எச்சரிக்கை: இந்த சான்று வேறு இடங்களில் கடினமாக இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.</translation>
     </message>
     <message>
@@ -14073,14 +14069,14 @@ inheritsFrom is missing</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 எச்சரிக்கை: இந்த சான்று குறியீடாக வேறு இடங்களிலிருந்து இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.
  நியமன பாதை: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 எச்சரிக்கை: இந்த சான்று வேறு இடங்களில் கடினமாக இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.</translation>
     </message>
     <message>
@@ -14407,7 +14403,7 @@ The instance may not start due to this.</source>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>சாவா முக்கிய பதிப்பு பொருந்தாது. விசயங்கள் உடைந்து போகக்கூடும்.</translation>
+        <translation type="vanished">சாவா முக்கிய பதிப்பு பொருந்தாது. விசயங்கள் உடைந்து போகக்கூடும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -15350,15 +15346,15 @@ Please set up your account according to %1.</source>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>எக்ச்பாக்ச் சுயவிவரத்தைப் பெறுதல்.</translation>
+        <translation type="vanished">எக்ச்பாக்ச் சுயவிவரத்தைப் பெறுதல்.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>எக்ச்பாக்ச் சுயவிவரத்தை மீட்டெடுப்பதில் தோல்வி: %1</translation>
+        <translation type="vanished">எக்ச்பாக்ச் சுயவிவரத்தை மீட்டெடுப்பதில் தோல்வி: %1</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>எக்ச்பாக்ச் சுயவிவரம் கிடைத்தது</translation>
+        <translation type="vanished">எக்ச்பாக்ச் சுயவிவரம் கிடைத்தது</translation>
     </message>
 </context>
 <context>

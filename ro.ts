@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Cont</translation>
+        <translation type="vanished">Cont</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Numele de utilizator al contului.</translation>
+        <translation type="vanished">Numele de utilizator al contului.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1063,7 +1063,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Anulat</translation>
+        <translation type="vanished">Anulat</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1100,7 +1100,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Anulat</translation>
+        <translation type="vanished">Anulat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2225,7 +2225,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Anulat</translation>
+        <translation type="vanished">Anulat</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2270,7 +2270,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Nerecunoscut</translation>
+        <translation type="vanished">Nerecunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2283,14 +2283,14 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Avertizare: Această resursă este legată simbolic din altă parte. Editarea ei va schimba și originalul.
 Cale Canonică: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Avertizare: Această resursă este legată strâns în altă parte. Editarea ei va schimba și originalul.</translation>
     </message>
     <message>
@@ -3430,27 +3430,27 @@ Sunteți sigur că vreți face asta?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Se caută bibliotecile FML...</translation>
+        <translation type="vanished">Se caută bibliotecile FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Se descarcă librăriile FML...</translation>
+        <translation type="vanished">Se descarcă librăriile FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Anulat</translation>
+        <translation type="vanished">Anulat</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Se copiază bibliotecile FML în instanță...</translation>
+        <translation type="vanished">Se copiază bibliotecile FML în instanță...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Nu s-a reușit crearea folderului bibliotecii FML în interiorul instanței.</translation>
+        <translation type="vanished">Nu s-a reușit crearea folderului bibliotecii FML în interiorul instanței.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Nu s-a putut copia biblioteca Forge/FML: %1.</translation>
+        <translation type="vanished">Nu s-a putut copia biblioteca Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3458,7 +3458,7 @@ Sunteți sigur că vreți face asta?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Descărcarea următoarelor fișiere a eșuat:
+        <translation type="vanished">Descărcarea următoarelor fișiere a eșuat:
 %1
 
 Motiv:%2
@@ -5991,23 +5991,23 @@ Puteți schimba versiunea de Java din setări ulterior.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Niciun cont nu a fost selectat pentru pornire.</translation>
+        <translation type="vanished">Niciun cont nu a fost selectat pentru pornire.</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Se pare că nu am putut lansa după %1 încercări. De obicei, acest lucru poate fi remediat prin deconectare și conectare din nou la contul Microsoft. Dacă aceasta nu funcționează, este posibil ca serverele de autentificare Minecraft să aibă o întrerupere sau este posibil să aveți nevoie de un VPN în regiunea dvs. Doriți să continuați să încercați?</translation>
+        <translation type="vanished">Se pare că nu am putut lansa după %1 încercări. De obicei, acest lucru poate fi remediat prin deconectare și conectare din nou la contul Microsoft. Dacă aceasta nu funcționează, este posibil ca serverele de autentificare Minecraft să aibă o întrerupere sau este posibil să aveți nevoie de un VPN în regiunea dvs. Doriți să continuați să încercați?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Identificarea clientului launcher-ului s-a schimbat. Vă rugăm să eliminați &apos;%1&apos; și să încercați din nou.</translation>
+        <translation type="vanished">Identificarea clientului launcher-ului s-a schimbat. Vă rugăm să eliminați &apos;%1&apos; și să încercați din nou.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; nu mai există pe servere. Este posibil să fi fost migrat; în acest caz, vă rugăm să adăugați noul cont la care ați migrat acest cont.</translation>
+        <translation type="vanished">&apos;%1&apos; nu mai există pe servere. Este posibil să fi fost migrat; în acest caz, vă rugăm să adăugați noul cont la care ați migrat acest cont.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos; a expirat și trebuie reautentificat. Doriți să reautentificați acest cont?</translation>
+        <translation type="vanished">&apos;%1&apos; a expirat și trebuie reautentificat. Doriți să reautentificați acest cont?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -6015,7 +6015,7 @@ Puteți schimba versiunea de Java din setări ulterior.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Continuă lansarea?</translation>
+        <translation type="vanished">Continuă lansarea?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -6028,15 +6028,15 @@ Puteți schimba versiunea de Java din setări ulterior.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Alegeți-vă numele de jucător pentru modul offline.</translation>
+        <translation type="vanished">Alegeți-vă numele de jucător pentru modul offline.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Alegeți numele jucătorului pentru modul demo.</translation>
+        <translation type="vanished">Alegeți numele jucătorului pentru modul demo.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>S-a primit o stare nedeterminată a sesiunii în timpul autentificării.</translation>
+        <translation type="vanished">S-a primit o stare nedeterminată a sesiunii în timpul autentificării.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -6048,7 +6048,7 @@ Puteți schimba versiunea de Java din setări ulterior.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Acest cont nu deține Minecraft.
+        <translation type="vanished">Acest cont nu deține Minecraft.
 Trebuie să achiziționați jocul înainte de a-l juca.
 
 Doriți să jucați demo-ul?</translation>
@@ -6065,7 +6065,7 @@ Doriți să jucați demo-ul?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Lansare anulată - contul nu deține Minecraft.</translation>
+        <translation type="vanished">Lansare anulată - contul nu deține Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6086,7 +6086,7 @@ Doriți să jucați demo-ul?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Identificatorul clientului s-a schimbat</translation>
+        <translation type="vanished">Identificatorul clientului s-a schimbat</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6094,15 +6094,15 @@ Doriți să jucați demo-ul?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Contul a dispărut</translation>
+        <translation type="vanished">Contul a dispărut</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Lansare eșuată.</translation>
+        <translation type="vanished">Lansare eșuată.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Contul a expirat și trebuie reautentificat.</translation>
+        <translation type="vanished">Contul a expirat și trebuie reautentificat.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6608,7 +6608,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7176,7 +7176,7 @@ Această problemă trebuie corectată manual.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Anulat</translation>
+        <translation type="vanished">Anulat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8088,7 +8088,7 @@ Motiv:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;Ajutor</translation>
+        <translation type="vanished">%1 &amp;Ajutor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8732,7 +8732,7 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Acesta este un modpack local.
+        <translation type="vanished">Acesta este un modpack local.
 Acesta pate fi actualizat doar cu un fisier cu formatul %1.
 </translation>
     </message>
@@ -8948,7 +8948,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Anulat</translation>
+        <translation type="vanished">Anulat</translation>
     </message>
 </context>
 <context>
@@ -9749,14 +9749,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Avertizare: Această resursă este legată simbolic din altă parte. Editarea ei va schimba și originalul.
 Cale Canonică: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Avertizare: Această resursă este legată strâns în altă parte. Editarea ei va schimba și originalul.</translation>
     </message>
     <message>
@@ -11711,7 +11711,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Actualizatorul nu a putut crea un fișier de jurnal - dosarul de date nu este inscriptibil.
+        <translation type="vanished">Actualizatorul nu a putut crea un fișier de jurnal - dosarul de date nu este inscriptibil.
 
 Asigură-te că ai permisiuni de scriere la fișierul de date.
 (%1)
@@ -12023,11 +12023,11 @@ Pentru a suprascrie acest blocaj și continuare actualizării oricum, selecteaz�
     </message>
     <message>
         <source>Name</source>
-        <translation>Nume</translation>
+        <translation type="vanished">Nume</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (în folosire)</translation>
+        <translation type="vanished">%1 (în folosire)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -12501,11 +12501,11 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Niciun profil (%1)</translation>
+        <translation type="vanished">Niciun profil (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Offline&gt;</translation>
+        <translation type="vanished">&lt;Offline&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="33"/>
@@ -13758,7 +13758,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Nerecunoscut</translation>
+        <translation type="vanished">Nerecunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -13771,14 +13771,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Avertizare: Această resursă este legată simbolic din altă parte. Editarea ei va schimba și originalul.
 Cale Canonică: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Avertizare: Această resursă este legată strâns în altă parte. Editarea ei va schimba și originalul.</translation>
     </message>
     <message>
@@ -15337,14 +15337,14 @@ inheritsFrom lipsește</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Avertizare: Această resursă este legată simbolic din altă parte. Editarea ei va schimba și originalul.
 Cale Canonică: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Avertizare: Această resursă este legată strâns în altă parte. Editarea ei va schimba și originalul.</translation>
     </message>
     <message>
@@ -15742,7 +15742,7 @@ The instance may not start due to this.</source>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Versiunea Java majoră este incompatibilă. Unele lucruri s-ar putea să se strice.</translation>
+        <translation type="vanished">Versiunea Java majoră este incompatibilă. Unele lucruri s-ar putea să se strice.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -16713,15 +16713,15 @@ Vă rugăm configurați-vă contul conform %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Preluarea profilului Xbox.</translation>
+        <translation type="vanished">Preluarea profilului Xbox.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Nu s-a putut prelua profilul Xbox: %1</translation>
+        <translation type="vanished">Nu s-a putut prelua profilul Xbox: %1</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Am primit profilul Xbox</translation>
+        <translation type="vanished">Am primit profilul Xbox</translation>
     </message>
 </context>
 <context>

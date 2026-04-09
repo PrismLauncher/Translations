@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Conta</translation>
+        <translation type="vanished">Conta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Nome de utilizador da conta.</translation>
+        <translation type="vanished">Nome de utilizador da conta.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1063,7 +1063,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Cancelado</translation>
+        <translation type="vanished">Cancelado</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1137,7 +1137,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Cancelado</translation>
+        <translation type="vanished">Cancelado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2254,7 +2254,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Cancelado</translation>
+        <translation type="vanished">Cancelado</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2299,7 +2299,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Não reconhecido</translation>
+        <translation type="vanished">Não reconhecido</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2312,14 +2312,14 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Aviso: Este recurso está simbolicamente ligado a partir de outro local. A sua edição também altera o original.
 Caminho canónico: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Aviso: Este recurso está ligado a outro sítio. A sua edição também irá alterar o original.</translation>
     </message>
     <message>
@@ -3468,27 +3468,27 @@ Tens a certeza de que queres fazer isto?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>A procurar bibliotecas do FML...</translation>
+        <translation type="vanished">A procurar bibliotecas do FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>A transferir bibliotecas FML...</translation>
+        <translation type="vanished">A transferir bibliotecas FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Cancelado</translation>
+        <translation type="vanished">Cancelado</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>A copiar bibliotecas do FML para a instância...</translation>
+        <translation type="vanished">A copiar bibliotecas do FML para a instância...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Falha ao criar a pasta da biblioteca do FML dentro da instância.</translation>
+        <translation type="vanished">Falha ao criar a pasta da biblioteca do FML dentro da instância.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Falha na cópia da biblioteca do Forge/FML: %1.</translation>
+        <translation type="vanished">Falha na cópia da biblioteca do Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3496,7 +3496,7 @@ Tens a certeza de que queres fazer isto?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Falha na transferência dos seguintes ficheiros:
+        <translation type="vanished">Falha na transferência dos seguintes ficheiros:
 %1
 
 Razão: %2
@@ -5998,23 +5998,23 @@ Podes alterar a versão do Java nas definições mais tarde.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Nenhuma conta selecionada para arranque.</translation>
+        <translation type="vanished">Nenhuma conta selecionada para arranque.</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Parece que não foi possível iniciar o jogo após %1 tentativas. Normalmente, isto pode ser resolvido encerrando e iniciando novamente sessão na tua conta Microsoft. Se isso não funcionar, os servidores de autenticação do Minecraft podem estar em manutenção ou talvez seja necessário utilizar uma VPN na tua região. Queres continuar a tentar?</translation>
+        <translation type="vanished">Parece que não foi possível iniciar o jogo após %1 tentativas. Normalmente, isto pode ser resolvido encerrando e iniciando novamente sessão na tua conta Microsoft. Se isso não funcionar, os servidores de autenticação do Minecraft podem estar em manutenção ou talvez seja necessário utilizar uma VPN na tua região. Queres continuar a tentar?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>A identificação do cliente do launcher foi alterada. Por favor remova &apos;%1&apos; e tente novamente.</translation>
+        <translation type="vanished">A identificação do cliente do launcher foi alterada. Por favor remova &apos;%1&apos; e tente novamente.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; já não existe nos servidores. Pode ter sido migrado, nesse caso por favor adicione a nova conta da qual migrou a antiga.</translation>
+        <translation type="vanished">&apos;%1&apos; já não existe nos servidores. Pode ter sido migrado, nesse caso por favor adicione a nova conta da qual migrou a antiga.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>‘%1’ expirou e precisa ser reautenticada. Quer reautenticar esta conta?</translation>
+        <translation type="vanished">‘%1’ expirou e precisa ser reautenticada. Quer reautenticar esta conta?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -6022,7 +6022,7 @@ Podes alterar a versão do Java nas definições mais tarde.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Continuar inicialização do jogo?</translation>
+        <translation type="vanished">Continuar inicialização do jogo?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -6035,15 +6035,15 @@ Podes alterar a versão do Java nas definições mais tarde.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Escolhe o teu nome para o modo off-line.</translation>
+        <translation type="vanished">Escolhe o teu nome para o modo off-line.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Escolhe o nome do teu jogador no modo demonstração.</translation>
+        <translation type="vanished">Escolhe o nome do teu jogador no modo demonstração.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Estado de sessão indeterminado recebido durante o login.</translation>
+        <translation type="vanished">Estado de sessão indeterminado recebido durante o login.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -6055,7 +6055,7 @@ Podes alterar a versão do Java nas definições mais tarde.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Esta conta não comprou Minecraft.
+        <translation type="vanished">Esta conta não comprou Minecraft.
 Precisas de comprar o jogo primeiro para poderes jogar.
 
 Queres jogar a demonstração?</translation>
@@ -6072,7 +6072,7 @@ Queres jogar a demonstração?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Ínicio cancelado - conta não possui Minecraft.</translation>
+        <translation type="vanished">Ínicio cancelado - conta não possui Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6093,7 +6093,7 @@ Queres jogar a demonstração?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Identificação do cliente mudou</translation>
+        <translation type="vanished">Identificação do cliente mudou</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6101,11 +6101,11 @@ Queres jogar a demonstração?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Conta terminada</translation>
+        <translation type="vanished">Conta terminada</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Falha no arranque.</translation>
+        <translation type="vanished">Falha no arranque.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -6117,7 +6117,7 @@ Queres jogar a demonstração?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>A conta expirou e precisa de ser reautenticada</translation>
+        <translation type="vanished">A conta expirou e precisa de ser reautenticada</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6663,7 +6663,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7243,7 +7243,7 @@ Isto vai ter que ser corrigido manualmente.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Cancelado</translation>
+        <translation type="vanished">Cancelado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8108,7 +8108,7 @@ Motivo:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;Ajuda</translation>
+        <translation type="vanished">%1 &amp;Ajuda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8898,7 +8898,7 @@ Tem certeza?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Este é um modpack local.
+        <translation type="vanished">Este é um modpack local.
 Ele somente poderá ser atualizado usando um arquivo no formato %1
 </translation>
     </message>
@@ -9148,7 +9148,7 @@ Tenha a certeza de que confia no URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Cancelado</translation>
+        <translation type="vanished">Cancelado</translation>
     </message>
 </context>
 <context>
@@ -10025,14 +10025,14 @@ Será bem provável que deverá mudar o caminho do ficheiro ‐ por favor, leia 
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Aviso: Este recurso tem um link simbólico de outro lado. Editá-lo também altera o original.
 Caminho Canónico: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá mudar o original.</translation>
     </message>
     <message>
@@ -12118,7 +12118,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>O atualizador não conseguiu criar um ficheiro de registro - a pasta de dados não é gravável.
+        <translation type="vanished">O atualizador não conseguiu criar um ficheiro de registro - a pasta de dados não é gravável.
 
 Verifica se tens permissões de escrita para a pasta de dados.
 (%1)
@@ -12422,11 +12422,11 @@ Para reescrever o ficheiro de bloqueio e prosseguir com esta atualização de qu
     </message>
     <message>
         <source>Name</source>
-        <translation>Nome</translation>
+        <translation type="vanished">Nome</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (em uso)</translation>
+        <translation type="vanished">%1 (em uso)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -12935,11 +12935,11 @@ Prosseguir com o truncamento?</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Nenhum perfil (%1)</translation>
+        <translation type="vanished">Nenhum perfil (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Offline&gt;</translation>
+        <translation type="vanished">&lt;Offline&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -14274,7 +14274,7 @@ Tens a certeza de que queres fazer isto?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Desconhecido</translation>
+        <translation type="vanished">Desconhecido</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -14287,14 +14287,14 @@ Tens a certeza de que queres fazer isto?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Aviso: Este recurso tem um link simbólico com outro lugar. Editá-lo também irá editar o original.
 Caminho canónico: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Aviso: Este recurso tem um link forte em outro lado. Editá-lo também irá editar o original.</translation>
     </message>
     <message>
@@ -15950,14 +15950,14 @@ inheritsFrom está a faltar</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Aviso: Este recurso está ligado simbolicamente a partir de outro local. Editá-lo irá também alterar o original.
 Caminho Canónico: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Aviso: Este recurso está ligado por ligação rígida a partir de outro local. Editá-lo irá também alterar o original.</translation>
     </message>
     <message>
@@ -16426,7 +16426,7 @@ A instância pode não iniciar devido a isso.</translation>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Versão maior do Java é incompatível. Coisas podem correr mal.</translation>
+        <translation type="vanished">Versão maior do Java é incompatível. Coisas podem correr mal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -17546,11 +17546,11 @@ Por favor, configura a tua conta de acordo com %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>A obter perfil Xbox.</translation>
+        <translation type="vanished">A obter perfil Xbox.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Erro ao obter o perfil Xbox: %1</translation>
+        <translation type="vanished">Erro ao obter o perfil Xbox: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -17558,7 +17558,7 @@ Por favor, configura a tua conta de acordo com %1.</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Obteve o perfil Xbox</translation>
+        <translation type="vanished">Obteve o perfil Xbox</translation>
     </message>
 </context>
 <context>

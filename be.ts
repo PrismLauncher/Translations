@@ -502,7 +502,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Уліковы запіс</translation>
+        <translation type="vanished">Уліковы запіс</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -525,7 +525,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Імя карыстальніка ўліковага запісу.</translation>
+        <translation type="vanished">Імя карыстальніка ўліковага запісу.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1023,7 +1023,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Спынена</translation>
+        <translation type="vanished">Спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1097,7 +1097,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Спынена</translation>
+        <translation type="vanished">Спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2198,7 +2198,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Спынена</translation>
+        <translation type="vanished">Спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2243,7 +2243,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Нераспазнанае</translation>
+        <translation type="vanished">Нераспазнанае</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2256,14 +2256,14 @@ Some versions of Minecraft may not launch.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Папярэджанне: Гэты рэсурс звязаны з іншымі праз сімвалічную спасылку. Яго рэдагаванне зменіць арыгінал.
 Кананічны шлях: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Папярэджанне: гэты рэсурс звязаны з іншымі праз цвёрдыя спасылкі. Яго рэдагаванне зменіць арыгінал.</translation>
     </message>
     <message>
@@ -3334,27 +3334,27 @@ Are you sure you want to do this?</source>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Праверка FML бібліятэк...</translation>
+        <translation type="vanished">Праверка FML бібліятэк...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Спампоўка FML бібліятэк...</translation>
+        <translation type="vanished">Спампоўка FML бібліятэк...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Спынена</translation>
+        <translation type="vanished">Спынена</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Капіяванне FML бібліятэк у зборку...</translation>
+        <translation type="vanished">Капіяванне FML бібліятэк у зборку...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Не атрымалася стварыць папку FML бібліятэк унутры зборкі.</translation>
+        <translation type="vanished">Не атрымалася стварыць папку FML бібліятэк унутры зборкі.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Не атрымалася капіяваць Forge/FML бібліятэку: %1.</translation>
+        <translation type="vanished">Не атрымалася капіяваць Forge/FML бібліятэку: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3362,7 +3362,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>Не атрымалася спампаваць наступныя файлы:
+        <translation type="vanished">Не атрымалася спампаваць наступныя файлы:
 %1
 
 Прычына:%2
@@ -5612,7 +5612,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Не абраны ўліковы запіс для запуску.</translation>
+        <translation type="vanished">Не абраны ўліковы запіс для запуску.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
@@ -5621,15 +5621,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Выберыце нік гульца для па-за сеткавага рэжыму.</translation>
+        <translation type="vanished">Выберыце нік гульца для па-за сеткавага рэжыму.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Выберыце ваш нік у дэмаверсіі.</translation>
+        <translation type="vanished">Выберыце ваш нік у дэмаверсіі.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Атрыманы невядомы статус падчас увахода.</translation>
+        <translation type="vanished">Атрыманы невядомы статус падчас увахода.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5641,7 +5641,7 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Гэты ўліковы запіс не мае Minecraft.
+        <translation type="vanished">Гэты ўліковы запіс не мае Minecraft.
 Каб пагуляць, вам варта набыць гульню.
 
 Хаціце пагуляць у дэмаверсію?</translation>
@@ -5657,12 +5657,8 @@ Do you want to play the demo?</source>
         <translation>Адхіліць</translation>
     </message>
     <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Запуск скасаваны: уліковы запіс не валодае Minecraft.</translation>
+        <translation type="vanished">Запуск скасаваны: уліковы запіс не валодае Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5683,15 +5679,15 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Уліковы запіс знік</translation>
+        <translation type="vanished">Уліковы запіс знік</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Не атрымалася запусціць.</translation>
+        <translation type="vanished">Не атрымалася запусціць.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Тэрмін дзеяння ўліковага запісу скончыўся і патрабуе паўторнай аўтэнтыфікацыі</translation>
+        <translation type="vanished">Тэрмін дзеяння ўліковага запісу скончыўся і патрабуе паўторнай аўтэнтыфікацыі</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -5731,11 +5727,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; больш не існуе на серверах. Магчыма, ён быў перанесены, у такім выпадку дадайце новы ўліковы запіс, у які вы перанеслі гэты.</translation>
+        <translation type="vanished">&apos;%1&apos; больш не існуе на серверах. Магчыма, ён быў перанесены, у такім выпадку дадайце новы ўліковы запіс, у які вы перанеслі гэты.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>Тэрмін дзеяння «%1» скончыўся і патрабуе паўторнай аўтэнтыфікацыі. Вы жадаеце паўторна аўтэнтыфікаваць гэты ўліковы запіс?</translation>
+        <translation type="vanished">Тэрмін дзеяння «%1» скончыўся і патрабуе паўторнай аўтэнтыфікацыі. Вы жадаеце паўторна аўтэнтыфікаваць гэты ўліковы запіс?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="438"/>
@@ -5843,7 +5839,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Працягнуць запуск?</translation>
+        <translation type="vanished">Працягнуць запуск?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -5851,11 +5847,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Ідэнтыфікацыя кліента праграмы запуску змянілася. Калі ласка, выдаліце &quot;%1&quot; і паўтарыце спробу.</translation>
+        <translation type="vanished">Ідэнтыфікацыя кліента праграмы запуску змянілася. Калі ласка, выдаліце &quot;%1&quot; і паўтарыце спробу.</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Ідэнтыфікацыя кліента зменена</translation>
+        <translation type="vanished">Ідэнтыфікацыя кліента зменена</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="97"/>
@@ -6150,10 +6146,6 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="616"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Java:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6670,7 +6662,7 @@ You&apos;ll have to correct this problem manually.</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Спынена</translation>
+        <translation type="vanished">Спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7426,7 +7418,7 @@ Reason:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>&amp;Даведка %1</translation>
+        <translation type="vanished">&amp;Даведка %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -7936,12 +7928,6 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is a local modpack.
-This can be updated only using a file in %1 format
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation type="unfinished"></translation>
@@ -8156,7 +8142,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Спынена</translation>
+        <translation type="vanished">Спынена</translation>
     </message>
 </context>
 <context>
@@ -8823,14 +8809,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Папярэджанне: Гэты рэсурс звязаны з іншымі праз сімвалічную спасылку. Яго рэдагаванне зменіць арыгінал.
 Кананічны шлях: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Папярэджанне: гэты рэсурс звязаны з іншымі праз цвёрдыя спасылкі. Яго рэдагаванне зменіць арыгінал.</translation>
     </message>
     <message>
@@ -10383,15 +10369,6 @@ The updater cannot continue until you fix this problem.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The updater couldn&apos;t create a log file - the data folder is not writable.
-
-Make sure you have write permissions to the data folder.
-(%1)
-
-The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="450"/>
         <source>Updating flatpack not supported</source>
         <translation type="unfinished"></translation>
@@ -10644,11 +10621,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>Назва</translation>
+        <translation type="vanished">Назва</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1</translation>
+        <translation type="obsolete">%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -10931,14 +10908,6 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;Offline&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12278,7 +12247,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Нераспазнанае</translation>
+        <translation type="obsolete">Нераспазнанае</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -12291,14 +12260,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Папярэджанне: Гэты рэсурс звязаны з іншымі праз сімвалічную спасылку. Яго рэдагаванне зменіць арыгінал.
 Кананічны шлях: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Папярэджанне: гэты рэсурс звязаны з іншымі праз цвёрдыя спасылкі. Яго рэдагаванне зменіць арыгінал.</translation>
     </message>
     <message>
@@ -13724,14 +13693,14 @@ inheritsFrom is missing</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Папярэджанне: Гэты рэсурс звязаны з іншымі праз сімвалічную спасылку. Яго рэдагаванне зменіць арыгінал.
 Кананічны шлях: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Папярэджанне: гэты рэсурс звязаны з іншымі праз цвёрдыя спасылкі. Яго рэдагаванне зменіць арыгінал.</translation>
     </message>
     <message>
@@ -13998,10 +13967,6 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java major version is incompatible. Things might break.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14898,21 +14863,6 @@ Please set up your account according to %1.</source>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>XboxProfileStep</name>
-    <message>
-        <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Got Xbox profile</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

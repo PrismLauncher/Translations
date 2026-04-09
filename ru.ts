@@ -555,7 +555,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Учётная запись</translation>
+        <translation type="vanished">Учётная запись</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -582,7 +582,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Имя учётной записи.</translation>
+        <translation type="vanished">Имя учётной записи.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1088,7 +1088,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Прервано</translation>
+        <translation type="vanished">Прервано</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1162,7 +1162,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Прервано</translation>
+        <translation type="vanished">Прервано</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2295,7 +2295,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Прервано</translation>
+        <translation type="vanished">Прервано</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2340,7 +2340,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Нераспознано</translation>
+        <translation type="vanished">Нераспознано</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2353,14 +2353,14 @@ Some versions of Minecraft may not launch.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Внимание: Этот ресурс связан с другими ресурсами при помощи символических ссылок. Его редактирование приведёт к изменению оригинала.
 Канонический путь: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Внимание: Этот ресурс связан с другими ресурсами при помощи жёстких ссылок. Его редактирование приведёт к изменению оригинала.</translation>
     </message>
     <message>
@@ -3509,27 +3509,27 @@ Are you sure you want to do this?</source>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Проверка библиотек FML…</translation>
+        <translation type="vanished">Проверка библиотек FML…</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Скачивание библиотек FML…</translation>
+        <translation type="vanished">Скачивание библиотек FML…</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Прервано</translation>
+        <translation type="vanished">Прервано</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Копирование библиотек FML в каталог экземпляра…</translation>
+        <translation type="vanished">Копирование библиотек FML в каталог экземпляра…</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Не удалось создать папку библиотек FML в каталоге экземпляра.</translation>
+        <translation type="vanished">Не удалось создать папку библиотек FML в каталоге экземпляра.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Не удалось скопировать библиотеку Forge/FML: %1.</translation>
+        <translation type="vanished">Не удалось скопировать библиотеку Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3537,7 +3537,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>Не удалось получить следующие файлы:
+        <translation type="vanished">Не удалось получить следующие файлы:
 %1
 
 Причина: %2
@@ -6169,23 +6169,23 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Не выбрана учётная запись для запуска.</translation>
+        <translation type="vanished">Не выбрана учётная запись для запуска.</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Похоже, что не удалось выполнить запуск после %1 попыток. Обычно это можно исправить, выйдя и снова войдя в учётную запись Microsoft. Если это не сработает, возможно, серверы аутентификации Minecraft не работают или вам может понадобиться VPN в вашем регионе. Вы хотите продолжить попытки?</translation>
+        <translation type="vanished">Похоже, что не удалось выполнить запуск после %1 попыток. Обычно это можно исправить, выйдя и снова войдя в учётную запись Microsoft. Если это не сработает, возможно, серверы аутентификации Minecraft не работают или вам может понадобиться VPN в вашем регионе. Вы хотите продолжить попытки?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Идентификация клиента лаунчера изменилась. Удалите «%1» и попробуйте снова.</translation>
+        <translation type="vanished">Идентификация клиента лаунчера изменилась. Удалите «%1» и попробуйте снова.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>«%1» больше не существует на серверах. Возможно, она была перенесена. В этом случае необходимо добавить новую учётную запись, на которую она был перенесена.</translation>
+        <translation type="vanished">«%1» больше не существует на серверах. Возможно, она была перенесена. В этом случае необходимо добавить новую учётную запись, на которую она был перенесена.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>Истёк срок действия «%1» и требуется повторная авторизация. Повторно пройти аутентификацию для этой учётной записи?</translation>
+        <translation type="vanished">Истёк срок действия «%1» и требуется повторная авторизация. Повторно пройти аутентификацию для этой учётной записи?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -6193,7 +6193,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Продолжить запуск?</translation>
+        <translation type="vanished">Продолжить запуск?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -6206,15 +6206,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Выберите имя игрока для игры в автономном режиме.</translation>
+        <translation type="vanished">Выберите имя игрока для игры в автономном режиме.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Выберите имя игрока в демо-режиме.</translation>
+        <translation type="vanished">Выберите имя игрока в демо-режиме.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Получен неизвестный статус сессии во время входа.</translation>
+        <translation type="vanished">Получен неизвестный статус сессии во время входа.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -6226,7 +6226,7 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Данная учётная запись не имеет прав на Minecraft.
+        <translation type="vanished">Данная учётная запись не имеет прав на Minecraft.
 Для запуска игры необходимо сначала купить её.
 
 Сыграть в демо-версию?</translation>
@@ -6243,7 +6243,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Запуск отменён: учётная запись не имеет права на Minecraft.</translation>
+        <translation type="vanished">Запуск отменён: учётная запись не имеет права на Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6264,7 +6264,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Идентификация клиента изменена</translation>
+        <translation type="vanished">Идентификация клиента изменена</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6272,11 +6272,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Учётная запись исчезла</translation>
+        <translation type="vanished">Учётная запись исчезла</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Не удалось запустить.</translation>
+        <translation type="vanished">Не удалось запустить.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -6288,7 +6288,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Истёк срок действия учётной записи и необходима повторная аутентификация</translation>
+        <translation type="vanished">Истёк срок действия учётной записи и необходима повторная аутентификация</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6882,7 +6882,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7470,7 +7470,7 @@ You&apos;ll have to correct this problem manually.</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Прервано</translation>
+        <translation type="vanished">Прервано</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8470,7 +8470,7 @@ Reason:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>Сп&amp;равка %1</translation>
+        <translation type="vanished">Сп&amp;равка %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -9292,7 +9292,7 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Это локальная сборка
+        <translation type="vanished">Это локальная сборка
 Её можно обновить только файлом в формате %1
 </translation>
     </message>
@@ -9542,7 +9542,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Прервано</translation>
+        <translation type="vanished">Прервано</translation>
     </message>
 </context>
 <context>
@@ -10448,14 +10448,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Внимание: Этот ресурс связан с другими ресурсами при помощи символических ссылок. Его редактирование приведёт к изменению оригинала.
 Канонический путь: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Внимание: Этот ресурс связан с другими ресурсами посредством жёстких ссылок. Его редактирование приведёт к изменению оригинала.</translation>
     </message>
     <message>
@@ -12782,7 +12782,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Службе обновлений не удалось создать файл лога, так как папка данных не разрешена для записи.
+        <translation type="vanished">Службе обновлений не удалось создать файл лога, так как папка данных не разрешена для записи.
 
 Убедитесь в наличии прав записи в папку данных.
 (%1)
@@ -13094,11 +13094,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation type="vanished">Имя</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (используется)</translation>
+        <translation type="vanished">%1 (используется)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -13632,11 +13632,11 @@ Error message: %1</source>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Нет профиля (%1)</translation>
+        <translation type="vanished">Нет профиля (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Не в сети&gt;</translation>
+        <translation type="vanished">&lt;Не в сети&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -14982,7 +14982,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Нераспознано</translation>
+        <translation type="vanished">Нераспознано</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -14995,14 +14995,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Внимание: Этот ресурс связан с другими ресурсами при помощи символических ссылок. Его редактирование приведёт к изменению оригинала.
 Канонический путь: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Внимание: Этот ресурс связан с другими ресурсами посредством жёстких ссылок. Его редактирование приведёт к изменению оригинала.</translation>
     </message>
     <message>
@@ -16674,14 +16674,14 @@ inheritsFrom отсутствует</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Внимание: Этот ресурс связан с другими ресурсами при помощи символических ссылок. Его редактирование приведёт к изменению оригинала.
 Оригинальный путь: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Внимание: Этот ресурс связан с другими ресурсами посредством жёстких ссылок. Его редактирование приведёт к изменению оригинала.</translation>
     </message>
     <message>
@@ -17150,7 +17150,7 @@ The instance may not start due to this.</source>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Основная версия Java несовместима. Возможно возникновение проблем.</translation>
+        <translation type="vanished">Основная версия Java несовместима. Возможно возникновение проблем.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -18270,11 +18270,11 @@ Please set up your account according to %1.</source>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Получение профиля Xbox.</translation>
+        <translation type="vanished">Получение профиля Xbox.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Не удалось получить информацию о профиле Xbox: «%1»</translation>
+        <translation type="vanished">Не удалось получить информацию о профиле Xbox: «%1»</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -18282,7 +18282,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Получен профиль Xbox</translation>
+        <translation type="vanished">Получен профиль Xbox</translation>
     </message>
 </context>
 <context>

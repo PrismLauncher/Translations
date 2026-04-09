@@ -512,7 +512,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Račun</translation>
+        <translation type="vanished">Račun</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -535,7 +535,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Korisničko ime računa.</translation>
+        <translation type="vanished">Korisničko ime računa.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1033,7 +1033,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Prekinuto</translation>
+        <translation type="vanished">Prekinuto</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1070,7 +1070,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Prekinuto</translation>
+        <translation type="vanished">Prekinuto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2167,7 +2167,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Prekinuto</translation>
+        <translation type="vanished">Prekinuto</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2212,7 +2212,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Neprepoznato</translation>
+        <translation type="vanished">Neprepoznato</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2225,14 +2225,14 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Upozorenje: Ovaj resurs je simbolično povezan negdje drugdje. Uređivanje resursa će promijeniti original.
 Kanonski Put: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će promijeniti original.</translation>
     </message>
     <message>
@@ -3251,36 +3251,8 @@ Jeste li sigurni da to želite napraviti?</translation>
 <context>
     <name>FMLLibrariesTask</name>
     <message>
-        <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Aborted</source>
-        <translation>Prekinuto</translation>
-    </message>
-    <message>
-        <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to download the following files:
-%1
-
-Reason:%2
-Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Prekinuto</translation>
     </message>
 </context>
 <context>
@@ -4956,36 +4928,13 @@ You can change the Java version in the settings later.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No account selected for launch.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
         <source>Player name</source>
         <translation>Ime igrača</translation>
     </message>
     <message>
-        <source>Choose your offline mode player name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Received undetermined session status during login.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This account does not own Minecraft.
-You need to purchase the game first to play it.
-
-Do you want to play the demo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4999,37 +4948,13 @@ Do you want to play the demo?</source>
         <translation>Odustani</translation>
     </message>
     <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>Account refresh failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Account gone</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Failed to launch.</source>
-        <translation>Neuspjelo pokretanje.</translation>
-    </message>
-    <message>
-        <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Neuspjelo pokretanje.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -5063,10 +4988,6 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5171,15 +5092,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Nastavi pokretanje?</translation>
+        <translation type="vanished">Nastavi pokretanje?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation type="vanished">Izgleda da nismo uspjeli pokrenuti nakon %1 pokušaja. Želite li nastaviti pokušavati?</translation>
-    </message>
-    <message>
-        <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="97"/>
@@ -5438,10 +5355,6 @@ Možda ćete morati popraviti svoje modove jer se igra i dalje logira u datoteke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="616"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Java:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5858,7 +5771,7 @@ You&apos;ll have to correct this problem manually.</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Prekinuto</translation>
+        <translation type="vanished">Prekinuto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -6568,11 +6481,6 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 &amp;Help</source>
-        <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
         <source>Open the %1 wiki</source>
         <translation type="unfinished"></translation>
@@ -7118,12 +7026,6 @@ Are you sure?</source>
         <translation>Ponovo učitaj stranicu</translation>
     </message>
     <message>
-        <source>This is a local modpack.
-This can be updated only using a file in %1 format
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation>Web-stranica: &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID paketa: %3    |    ID verzije: %4</translation>
@@ -7335,7 +7237,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Prekinuto</translation>
+        <translation type="vanished">Prekinuto</translation>
     </message>
 </context>
 <context>
@@ -7916,14 +7818,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Upozorenje: Ovaj resurs je simbolično povezan negdje drugdje. Uređivanje resursa će promijeniti original.
 Kanonski Put: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će promijeniti original.</translation>
     </message>
     <message>
@@ -9602,15 +9504,6 @@ The updater cannot continue until you fix this problem.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The updater couldn&apos;t create a log file - the data folder is not writable.
-
-Make sure you have write permissions to the data folder.
-(%1)
-
-The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="450"/>
         <source>Updating flatpack not supported</source>
         <translation type="unfinished"></translation>
@@ -9863,11 +9756,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>Ime</translation>
+        <translation type="vanished">Ime</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (koristi se)</translation>
+        <translation type="obsolete">%1 (koristi se)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -10152,14 +10045,6 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;Offline&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11495,7 +11380,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Neprepoznato</translation>
+        <translation type="obsolete">Neprepoznato</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -11508,14 +11393,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Upozorenje: Ovaj resurs je simbolično povezan negdje drugdje. Uređivanje resursa će promijeniti original.
 Kanonski Put: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će promijeniti original.</translation>
     </message>
     <message>
@@ -12945,14 +12830,14 @@ inheritsFrom is missing</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Upozorenje: Ovaj resurs je simbolično povezan negdje drugdje. Uređivanje resursa će promijeniti original.
 Kanonski Put: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će promijeniti original.</translation>
     </message>
     <message>
@@ -13231,10 +13116,6 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Java major version is incompatible. Things might break.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14167,15 +14048,15 @@ Molimo postavite svoj račun prema %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Dohvaćanje Xbox profila.</translation>
+        <translation type="vanished">Dohvaćanje Xbox profila.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Neuspješno dohvaćanje Xbox profila: %1</translation>
+        <translation type="vanished">Neuspješno dohvaćanje Xbox profila: %1</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Dohvaćen Xbox profil</translation>
+        <translation type="vanished">Dohvaćen Xbox profil</translation>
     </message>
 </context>
 <context>

@@ -517,7 +517,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Account</translation>
+        <translation type="vanished">Account</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -540,7 +540,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>User name of the account.</translation>
+        <translation type="vanished">User name of the account.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1042,7 +1042,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Aborted</translation>
+        <translation type="vanished">Aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1116,7 +1116,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Aborted</translation>
+        <translation type="vanished">Aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2217,7 +2217,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Aborted</translation>
+        <translation type="vanished">Aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2262,7 +2262,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Unrecognized</translation>
+        <translation type="vanished">Unrecognized</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2275,14 +2275,14 @@ Some versions of Minecraft may not launch.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</translation>
     </message>
     <message>
@@ -3431,27 +3431,27 @@ Are you sure you want to do this?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Checking for FML libraries...</translation>
+        <translation type="vanished">Checking for FML libraries...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Downloading FML libraries...</translation>
+        <translation type="vanished">Downloading FML libraries...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Aborted</translation>
+        <translation type="vanished">Aborted</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Copying FML libraries into the instance...</translation>
+        <translation type="vanished">Copying FML libraries into the instance...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Failed creating FML library folder inside the instance.</translation>
+        <translation type="vanished">Failed creating FML library folder inside the instance.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Failed copying Forge/FML library: %1.</translation>
+        <translation type="vanished">Failed copying Forge/FML library: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3459,7 +3459,7 @@ Are you sure you want to do this?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Failed to download the following files:
+        <translation type="vanished">Failed to download the following files:
 %1
 
 Reason:%2
@@ -5801,7 +5801,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>No account selected for launch.</translation>
+        <translation type="vanished">No account selected for launch.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
@@ -5810,15 +5810,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Choose your offline mode player name.</translation>
+        <translation type="vanished">Choose your offline mode player name.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Choose your demo mode player name.</translation>
+        <translation type="vanished">Choose your demo mode player name.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Received undetermined session status during login.</translation>
+        <translation type="vanished">Received undetermined session status during login.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5830,7 +5830,7 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>This account does not own Minecraft.
+        <translation type="vanished">This account does not own Minecraft.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</translation>
@@ -5847,11 +5847,11 @@ Do you want to play the demo?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</translation>
+        <translation type="vanished">It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Launch cancelled - account does not own Minecraft.</translation>
+        <translation type="vanished">Launch cancelled - account does not own Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5859,11 +5859,11 @@ Do you want to play the demo?</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</translation>
+        <translation type="vanished">&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</translation>
+        <translation type="vanished">&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
@@ -5880,11 +5880,11 @@ Do you want to play the demo?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Account gone</translation>
+        <translation type="vanished">Account gone</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Failed to launch.</translation>
+        <translation type="vanished">Failed to launch.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -5896,7 +5896,7 @@ Do you want to play the demo?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>The account has expired and needs to be reauthenticated</translation>
+        <translation type="vanished">The account has expired and needs to be reauthenticated</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6049,7 +6049,7 @@ Do you want to play the demo?</translation>
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Continue launch?</translation>
+        <translation type="vanished">Continue launch?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -6057,11 +6057,11 @@ Do you want to play the demo?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</translation>
+        <translation type="vanished">The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Client identification changed</translation>
+        <translation type="vanished">Client identification changed</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="97"/>
@@ -6330,7 +6330,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
@@ -6940,7 +6940,7 @@ You&apos;ll have to correct this problem manually.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Aborted</translation>
+        <translation type="vanished">Aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7781,7 +7781,7 @@ Reason:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;Help</translation>
+        <translation type="vanished">%1 &amp;Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8467,7 +8467,7 @@ Are you sure?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>This is a local modpack.
+        <translation type="vanished">This is a local modpack.
 This can be updated only using a file in %1 format
 </translation>
     </message>
@@ -8713,7 +8713,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Aborted</translation>
+        <translation type="vanished">Aborted</translation>
     </message>
 </context>
 <context>
@@ -9582,14 +9582,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</translation>
     </message>
     <message>
@@ -11605,7 +11605,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>The updater couldn&apos;t create a log file - the data folder is not writable.
+        <translation type="vanished">The updater couldn&apos;t create a log file - the data folder is not writable.
 
 Make sure you have write permissions to the data folder.
 (%1)
@@ -11917,11 +11917,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation type="vanished">Name</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (in use)</translation>
+        <translation type="vanished">%1 (in use)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -12227,11 +12227,11 @@ HTTP Status: %2</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>No profile (%1)</translation>
+        <translation type="vanished">No profile (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Offline&gt;</translation>
+        <translation type="vanished">&lt;Offline&gt;</translation>
     </message>
     <message>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
@@ -13699,7 +13699,7 @@ Are you sure you want to do this?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Unrecognized</translation>
+        <translation type="vanished">Unrecognized</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -13712,14 +13712,14 @@ Are you sure you want to do this?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</translation>
     </message>
     <message>
@@ -15325,14 +15325,14 @@ inheritsFrom is missing</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</translation>
     </message>
     <message>
@@ -15775,7 +15775,7 @@ The instance may not start due to this.</translation>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Java major version is incompatible. Things might break.</translation>
+        <translation type="vanished">Java major version is incompatible. Things might break.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -16871,15 +16871,15 @@ Please set up your account according to %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Fetching Xbox profile.</translation>
+        <translation type="vanished">Fetching Xbox profile.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Failed to retrieve the Xbox profile: %1</translation>
+        <translation type="vanished">Failed to retrieve the Xbox profile: %1</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Got Xbox profile</translation>
+        <translation type="vanished">Got Xbox profile</translation>
     </message>
 </context>
 <context>

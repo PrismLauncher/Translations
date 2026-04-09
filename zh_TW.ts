@@ -547,7 +547,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>帳號</translation>
+        <translation type="vanished">帳號</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -574,7 +574,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>該帳號的使用者名稱。</translation>
+        <translation type="vanished">該帳號的使用者名稱。</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1071,7 +1071,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>中止</translation>
+        <translation type="vanished">中止</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1145,7 +1145,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>中止</translation>
+        <translation type="vanished">中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2274,7 +2274,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>中止</translation>
+        <translation type="vanished">中止</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2319,7 +2319,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>無法識別</translation>
+        <translation type="vanished">無法識別</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2332,14 +2332,14 @@ Some versions of Minecraft may not launch.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 警告：這個資源已從其他位置建立符號連結。編輯它也會修改原始檔案。
 規範路徑：%1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 警告：這個資源已從其他位置建立硬連結。編輯它也會修改原始檔案。</translation>
     </message>
     <message>
@@ -3488,27 +3488,27 @@ Are you sure you want to do this?</source>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>正在檢查 FML 程式庫…</translation>
+        <translation type="vanished">正在檢查 FML 程式庫…</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>正在下載 FML 程式庫…</translation>
+        <translation type="vanished">正在下載 FML 程式庫…</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>中止</translation>
+        <translation type="vanished">中止</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>正在將 FML 程式庫複製至實例…</translation>
+        <translation type="vanished">正在將 FML 程式庫複製至實例…</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>在實例中建立 FML 程式庫資料夾時失敗。</translation>
+        <translation type="vanished">在實例中建立 FML 程式庫資料夾時失敗。</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>複製 Forge/FML 程式庫時失敗：%1。</translation>
+        <translation type="vanished">複製 Forge/FML 程式庫時失敗：%1。</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3516,7 +3516,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>下載下列檔案時發生錯誤：
+        <translation type="vanished">下載下列檔案時發生錯誤：
 %1
 
 原因：%2
@@ -6128,23 +6128,23 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>未選擇用來啟動 Minecarft 的帳號。</translation>
+        <translation type="vanished">未選擇用來啟動 Minecarft 的帳號。</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>我們在嘗試 %1 次後仍無法啟動遊戲。通常登出並重新登入您的 Microsoft 帳戶即可解決此問題。如果仍然無效，可能是 Minecraft 驗證伺服器發生故障，或者您所在的地區可能需要使用 VPN。您要繼續嘗試嗎？</translation>
+        <translation type="vanished">我們在嘗試 %1 次後仍無法啟動遊戲。通常登出並重新登入您的 Microsoft 帳戶即可解決此問題。如果仍然無效，可能是 Minecraft 驗證伺服器發生故障，或者您所在的地區可能需要使用 VPN。您要繼續嘗試嗎？</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>啟動器的用戶端識別碼已變更。請移除「%1」然後再試一次。</translation>
+        <translation type="vanished">啟動器的用戶端識別碼已變更。請移除「%1」然後再試一次。</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>伺服器上已不存在「%1」。它可能已被遷移，若已遷移，請新增您將這個帳號遷移至的新帳號。</translation>
+        <translation type="vanished">伺服器上已不存在「%1」。它可能已被遷移，若已遷移，請新增您將這個帳號遷移至的新帳號。</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>「%1」已經過期，需要重新驗證。您想要重新驗證這個帳號嗎？</translation>
+        <translation type="vanished">「%1」已經過期，需要重新驗證。您想要重新驗證這個帳號嗎？</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -6152,7 +6152,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>繼續啟動嗎？</translation>
+        <translation type="vanished">繼續啟動嗎？</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -6165,15 +6165,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>選擇您在離線模式的玩家名稱。</translation>
+        <translation type="vanished">選擇您在離線模式的玩家名稱。</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>選擇您的試玩模式玩家名稱。</translation>
+        <translation type="vanished">選擇您的試玩模式玩家名稱。</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>在登入時接收到無法確定的 Session 狀態。</translation>
+        <translation type="vanished">在登入時接收到無法確定的 Session 狀態。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -6185,7 +6185,7 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>這個帳號尚未擁有 Minecraft。
+        <translation type="vanished">這個帳號尚未擁有 Minecraft。
 您需要先購買遊戲才能遊玩。
 
 您想遊玩試玩版嗎？</translation>
@@ -6202,7 +6202,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>已取消啟動──此帳號尚未擁有 Minecraft。</translation>
+        <translation type="vanished">已取消啟動──此帳號尚未擁有 Minecraft。</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6223,7 +6223,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>用戶端識別碼已變更</translation>
+        <translation type="vanished">用戶端識別碼已變更</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6231,11 +6231,11 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>帳號遺失</translation>
+        <translation type="vanished">帳號遺失</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>啟動失敗。</translation>
+        <translation type="vanished">啟動失敗。</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -6247,7 +6247,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>帳號的工作階段已過期，需要重新驗證</translation>
+        <translation type="vanished">帳號的工作階段已過期，需要重新驗證</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6837,7 +6837,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>Java(&amp;J)：</translation>
+        <translation type="vanished">Java(&amp;J)：</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7421,7 +7421,7 @@ You&apos;ll have to correct this problem manually.</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>中止</translation>
+        <translation type="vanished">中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8416,7 +8416,7 @@ Reason:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 說明(&amp;H)</translation>
+        <translation type="vanished">%1 說明(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -9218,7 +9218,7 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>這是本機模組包
+        <translation type="vanished">這是本機模組包
 這只能用在 %1 的檔案格式更新
 </translation>
     </message>
@@ -9468,7 +9468,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>中止</translation>
+        <translation type="vanished">中止</translation>
     </message>
 </context>
 <context>
@@ -10374,14 +10374,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 警告：這個資源已從其他位置建立符號連結。編輯它也會修改原始檔案。
 原始路徑：%1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 警告：這個資源已硬連結至其他位置，編輯將同步修改原始資源。</translation>
     </message>
     <message>
@@ -12658,7 +12658,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>更新程式無法建立紀錄檔—資料夾不可寫入。
+        <translation type="vanished">更新程式無法建立紀錄檔—資料夾不可寫入。
 
 請確保您有資料夾的寫入權限。
 (%1)
@@ -12970,11 +12970,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Name</source>
-        <translation>名稱</translation>
+        <translation type="vanished">名稱</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1（使用中）</translation>
+        <translation type="vanished">%1（使用中）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -13503,11 +13503,11 @@ Error message: %1</source>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>沒有個人檔案（%1）</translation>
+        <translation type="vanished">沒有個人檔案（%1）</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;離線&gt;</translation>
+        <translation type="vanished">&lt;離線&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -14843,7 +14843,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>無法識別</translation>
+        <translation type="vanished">無法識別</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -14856,14 +14856,14 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 警告：這個資源已從其他位置建立符號連結。編輯它也會修改原始檔案。
 原始路徑：%1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 警告：這個資源已在其他位置建立硬連結。編輯它也會修改原始檔案。</translation>
     </message>
     <message>
@@ -16531,14 +16531,14 @@ inheritsFrom 引數缺失</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 警告：這個資源已從其他位置建立符號連結。編輯它也會修改原始檔案。
 原始路徑：%1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 警告：這個資源已硬連結至其他位置，編輯將同步修改原始資源。</translation>
     </message>
     <message>
@@ -17007,7 +17007,7 @@ The instance may not start due to this.</source>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>不相容於該 Java 版本。可能會發生錯誤。</translation>
+        <translation type="vanished">不相容於該 Java 版本。可能會發生錯誤。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -18127,11 +18127,11 @@ Please set up your account according to %1.</source>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>正在取得 Xbox 個人檔案。</translation>
+        <translation type="vanished">正在取得 Xbox 個人檔案。</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>無法擷取 Xbox 個人檔案：%1</translation>
+        <translation type="vanished">無法擷取 Xbox 個人檔案：%1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -18139,7 +18139,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>已取得 Xbox 個人檔案</translation>
+        <translation type="vanished">已取得 Xbox 個人檔案</translation>
     </message>
 </context>
 <context>

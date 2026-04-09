@@ -478,7 +478,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Account</translation>
+        <translation type="vanished">Account</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Non utent dal account.</translation>
+        <translation type="vanished">Non utent dal account.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
@@ -867,7 +867,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Interot</translation>
+        <translation type="vanished">Interot</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -904,7 +904,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Interot</translation>
+        <translation type="vanished">Interot</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -1997,7 +1997,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Interot</translation>
+        <translation type="vanished">Interot</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2042,7 +2042,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">No ricognossût</translation>
+        <translation type="obsolete">No ricognossût</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2053,14 +2053,8 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>
-Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
-Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La sô modifiche e cambiarà ancje l&apos;origjinâl.</translation>
     </message>
     <message>
@@ -3072,27 +3066,27 @@ Vuelistu pardabon fâlu?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Daûr a verificâ lis librariis FML...</translation>
+        <translation type="vanished">Daûr a verificâ lis librariis FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Daûr a discjariâ lis librariis FML...</translation>
+        <translation type="vanished">Daûr a discjariâ lis librariis FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Interot</translation>
+        <translation type="vanished">Interot</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Daûr a copiâ lis librariis FML te istance...</translation>
+        <translation type="vanished">Daûr a copiâ lis librariis FML te istance...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Impussibil creâ la cartele des librariis FML te istance.</translation>
+        <translation type="vanished">Impussibil creâ la cartele des librariis FML te istance.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Impussibil copiâ la librarie Forge/FML: %1.</translation>
+        <translation type="vanished">Impussibil copiâ la librarie Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3100,7 +3094,7 @@ Vuelistu pardabon fâlu?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Impussibil discjariâ chescj files:
+        <translation type="vanished">Impussibil discjariâ chescj files:
 %1
 
 Motîf: %2
@@ -5287,7 +5281,7 @@ Tu puedis cambiâ la version di Java tes impostazions plui indevant.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Nissune account selezionât pal inviament.</translation>
+        <translation type="vanished">Nissune account selezionât pal inviament.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
@@ -5296,15 +5290,15 @@ Tu puedis cambiâ la version di Java tes impostazions plui indevant.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Sielç il non dal to personaç in modalitât fûr rêt.</translation>
+        <translation type="vanished">Sielç il non dal to personaç in modalitât fûr rêt.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Sielç il non dal to personaç de modalitât dimostrative.</translation>
+        <translation type="vanished">Sielç il non dal to personaç de modalitât dimostrative.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Ricevût un stât di session indeterminât dilunc l&apos;acès.</translation>
+        <translation type="vanished">Ricevût un stât di session indeterminât dilunc l&apos;acès.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5316,7 +5310,7 @@ Tu puedis cambiâ la version di Java tes impostazions plui indevant.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Il to account nol è in possès di Minecraft. 
+        <translation type="vanished">Il to account nol è in possès di Minecraft. 
 Tu scugnis prime comprâ il zûc par zuiâlu.
 
 Desideristu zuiâ ae dimostrazion?</translation>
@@ -5332,12 +5326,8 @@ Desideristu zuiâ ae dimostrazion?</translation>
         <translation>Anule</translation>
     </message>
     <message>
-        <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Inviament anulât - l&apos;account nol è in possès di Minecraft.</translation>
+        <translation type="vanished">Inviament anulât - l&apos;account nol è in possès di Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5345,11 +5335,11 @@ Desideristu zuiâ ae dimostrazion?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>La identificazion dal client dal inviadôr e je cambiade. Elimine &apos;%1&apos; e torne prove.</translation>
+        <translation type="vanished">La identificazion dal client dal inviadôr e je cambiade. Elimine &apos;%1&apos; e torne prove.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; nol esist plui sui servidôrs. Al è pussibil che al sedi migrât; in chest câs par plasê zonte il to gnûf account là che tu âs migrât chel achì.</translation>
+        <translation type="vanished">&apos;%1&apos; nol esist plui sui servidôrs. Al è pussibil che al sedi migrât; in chest câs par plasê zonte il to gnûf account là che tu âs migrât chel achì.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -5362,15 +5352,15 @@ Desideristu zuiâ ae dimostrazion?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Account migrât</translation>
+        <translation type="vanished">Account migrât</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Impussibil inviâ.</translation>
+        <translation type="vanished">Impussibil inviâ.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>L&apos;account al è scjadût e al covente tornâ a autenticâlu</translation>
+        <translation type="vanished">L&apos;account al è scjadût e al covente tornâ a autenticâlu</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -5410,7 +5400,7 @@ Desideristu zuiâ ae dimostrazion?</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos; al è scjadût e al covente tornâ a autenticâlu. Desideristu tornâ a autenticâ chest account?</translation>
+        <translation type="vanished">&apos;%1&apos; al è scjadût e al covente tornâ a autenticâlu. Desideristu tornâ a autenticâ chest account?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="438"/>
@@ -5514,7 +5504,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Continuâ l&apos;inviament?</translation>
+        <translation type="vanished">Continuâ l&apos;inviament?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -5522,7 +5512,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Identificazion dal client modificade</translation>
+        <translation type="vanished">Identificazion dal client modificade</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="97"/>
@@ -5829,7 +5819,7 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
@@ -6373,7 +6363,7 @@ Tu scugnis comedâ chest probleme a man.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Interot</translation>
+        <translation type="vanished">Interot</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7133,7 +7123,7 @@ Motîf:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>Pagjine di &amp;jutori di %1</translation>
+        <translation type="vanished">Pagjine di &amp;jutori di %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -7735,7 +7725,7 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Chest al è un modpack locâl.
+        <translation type="vanished">Chest al è un modpack locâl.
 Al è pussibil inzornâlu nome doprant un file in formât %1
 </translation>
     </message>
@@ -7951,7 +7941,7 @@ Make sure you also trust the URL.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Interot</translation>
+        <translation type="vanished">Interot</translation>
     </message>
 </context>
 <context>
@@ -8729,14 +8719,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Atenzion: cheste risorse e je colegade in mût simbolic di cualchi altre bande. La sô modifiche e cambiarà ancje chê origjinâl.
 Percors canonic: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La sô modifiche e cambiarà ancje l&apos;origjinâl.</translation>
     </message>
     <message>
@@ -10533,7 +10523,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>L&apos;inzornadôr nol è rivât a creâ un file di regjistri - nol è pussibil scrivi te cartele dai dâts.
+        <translation type="vanished">L&apos;inzornadôr nol è rivât a creâ un file di regjistri - nol è pussibil scrivi te cartele dai dâts.
 
 Verifiche di vê i permès di scriture pe cartele &quot;data&quot;.
 (%1)
@@ -10833,11 +10823,11 @@ Par sorescrivi chest bloc e lâ indevant distès cul inzornament, selezione “I
     </message>
     <message>
         <source>Name</source>
-        <translation>Non</translation>
+        <translation type="vanished">Non</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (in ûs)</translation>
+        <translation type="vanished">%1 (in ûs)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -11139,11 +11129,11 @@ Stât HTTP: %2</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Nissun profîl (%1)</translation>
+        <translation type="vanished">Nissun profîl (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Fûr rêt&gt;</translation>
+        <translation type="vanished">&lt;Fûr rêt&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
@@ -12541,7 +12531,7 @@ Desideristu pardabon fâlu?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>No ricognossût</translation>
+        <translation type="vanished">No ricognossût</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -12554,14 +12544,14 @@ Desideristu pardabon fâlu?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Atenzion: cheste risorse e je colegade in mût simbolic di cualchi altre bande. La sô modifiche e cambiarà ancje chê origjinâl.
 Percors canonic: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La sô modifiche e cambiarà ancje l&apos;origjinâl.</translation>
     </message>
     <message>
@@ -14041,14 +14031,14 @@ al mancje inheritsFrom</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Atenzion: cheste risorse e je colegade in mût simbolic di cualchi altre bande. La sô modifiche e cambiarà ancje l&apos;origjinâl.
 Percors canonic: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La sô modifiche e cambiarà ancje l&apos;origjinâl.</translation>
     </message>
     <message>
@@ -14375,7 +14365,7 @@ Par vie di chest motîf al è pussibil che la istance no si invii.</translation>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>La version principâl di Java no je compatibile. Lis robis a podaressin no funzionâ.</translation>
+        <translation type="vanished">La version principâl di Java no je compatibile. Lis robis a podaressin no funzionâ.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -15318,15 +15308,15 @@ Par plasê configure il to account secont di %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Daûr a recuperâ il profîl Xbox.</translation>
+        <translation type="vanished">Daûr a recuperâ il profîl Xbox.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Impussibil recuperâ il profîl Xbox: %1</translation>
+        <translation type="vanished">Impussibil recuperâ il profîl Xbox: %1</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Profîl Xbox otignût</translation>
+        <translation type="vanished">Profîl Xbox otignût</translation>
     </message>
 </context>
 <context>

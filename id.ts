@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Account</source>
-        <translation>Akun</translation>
+        <translation type="vanished">Akun</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation>Nama pengguna akun.</translation>
+        <translation type="vanished">Nama pengguna akun.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -1063,7 +1063,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Dibatalkan</translation>
+        <translation type="vanished">Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1938"/>
@@ -1137,7 +1137,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Dibatalkan</translation>
+        <translation type="vanished">Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -2258,7 +2258,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Dibatalkan</translation>
+        <translation type="vanished">Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2303,7 +2303,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Tidak diketahui</translation>
+        <translation type="vanished">Tidak diketahui</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
@@ -2316,14 +2316,14 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Peringatan: Sumber daya ini secara simbolis terkait dari tempat lain. Menyuntingnya juga akan mengubah aslinya.
 Canonical Path: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan mengubah yang asli.</translation>
     </message>
     <message>
@@ -3448,27 +3448,27 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation>Memeriksa perpustakaan FML...</translation>
+        <translation type="vanished">Memeriksa perpustakaan FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation>Mengunduh perpustakaan FML...</translation>
+        <translation type="vanished">Mengunduh perpustakaan FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Dibatalkan</translation>
+        <translation type="vanished">Dibatalkan</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Menyalin perpustakaan FML kedalam instansi...</translation>
+        <translation type="vanished">Menyalin perpustakaan FML kedalam instansi...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Gagal membuat folder perpustakaan FML didalam instansi.</translation>
+        <translation type="vanished">Gagal membuat folder perpustakaan FML didalam instansi.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Gagal menyalin perpustakaan FML/Forge: %1.</translation>
+        <translation type="vanished">Gagal menyalin perpustakaan FML/Forge: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3476,7 +3476,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Gagal untuk mengunduh berkas berikut:
+        <translation type="vanished">Gagal untuk mengunduh berkas berikut:
 %1
 
 Alasan:%2
@@ -5962,23 +5962,23 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation>Tidak ada akun terpilih yang akan digunakan untuk menjalankan.</translation>
+        <translation type="vanished">Tidak ada akun terpilih yang akan digunakan untuk menjalankan.</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Usually this can be fixed by logging out and logging back in your Microsoft account. If that doesn&apos;t work, Minecraft authentication servers may be having an outage or you may need a VPN in your region. Do you want to continue trying?</source>
-        <translation>Sepertinya kami tidak dapat memulai setelah %1 kali mencoba. Biasanya hal ini dapat diatasi dengan keluar dan masuk kembali ke akun Microsoft Anda. Jika itu tidak berhasil, server otentikasi Minecraft mungkin sedang mengalami gangguan atau Anda mungkin memerlukan VPN di wilayah Anda. Apakah Anda ingin mencoba lagi?</translation>
+        <translation type="vanished">Sepertinya kami tidak dapat memulai setelah %1 kali mencoba. Biasanya hal ini dapat diatasi dengan keluar dan masuk kembali ke akun Microsoft Anda. Jika itu tidak berhasil, server otentikasi Minecraft mungkin sedang mengalami gangguan atau Anda mungkin memerlukan VPN di wilayah Anda. Apakah Anda ingin mencoba lagi?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Identifikasi dari peluncur klien telah berubah. Tolong hapus&apos;%1&apos; dan coba lagi.</translation>
+        <translation type="vanished">Identifikasi dari peluncur klien telah berubah. Tolong hapus&apos;%1&apos; dan coba lagi.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; sudah tidak ada lagi di server. Mungkin sudah dipindah, jika benar mohon tambahkan akun baru yang telah kamu pindahkan dari sini.</translation>
+        <translation type="vanished">&apos;%1&apos; sudah tidak ada lagi di server. Mungkin sudah dipindah, jika benar mohon tambahkan akun baru yang telah kamu pindahkan dari sini.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&apos;%1&apos; sudah kadaluarsa dan memerlukan autentikasi ulang. Apakah anda ingin mengautentikasikan ulang akun ini?</translation>
+        <translation type="vanished">&apos;%1&apos; sudah kadaluarsa dan memerlukan autentikasi ulang. Apakah anda ingin mengautentikasikan ulang akun ini?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -5986,7 +5986,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation>Lanjutkan peluncuran?</translation>
+        <translation type="vanished">Lanjutkan peluncuran?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
@@ -5999,15 +5999,15 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation>Pilih nama offline karakter Anda.</translation>
+        <translation type="vanished">Pilih nama offline karakter Anda.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation>Pilih nama pemain mode demo Anda.</translation>
+        <translation type="vanished">Pilih nama pemain mode demo Anda.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation>Menerima status sesi yang tidak diketahui selama proses masuk.</translation>
+        <translation type="vanished">Menerima status sesi yang tidak diketahui selama proses masuk.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -6019,7 +6019,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Akun ini tidak memiliki Minecraft.
+        <translation type="vanished">Akun ini tidak memiliki Minecraft.
 Anda harus membeli game terlebih dahulu untuk memainkannya.
 
 Apakah Anda ingin memainkan demo?</translation>
@@ -6036,7 +6036,7 @@ Apakah Anda ingin memainkan demo?</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Peluncuran dibatalkan - akun tidak memiliki Minecraft.</translation>
+        <translation type="vanished">Peluncuran dibatalkan - akun tidak memiliki Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -6057,7 +6057,7 @@ Apakah Anda ingin memainkan demo?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation>Identifikasi klien telah berubah</translation>
+        <translation type="vanished">Identifikasi klien telah berubah</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6065,11 +6065,11 @@ Apakah Anda ingin memainkan demo?</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation>Akun hilang</translation>
+        <translation type="vanished">Akun hilang</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation>Gagal menjalankan.</translation>
+        <translation type="vanished">Gagal menjalankan.</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -6081,7 +6081,7 @@ Apakah Anda ingin memainkan demo?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Akun telah kedaluwarsa dan harus diautentikasi ulang</translation>
+        <translation type="vanished">Akun telah kedaluwarsa dan harus diautentikasi ulang</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -6506,7 +6506,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation type="vanished">&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -7195,7 +7195,7 @@ Anda harus memperbaiki masalah ini secara manual.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Dibatalkan</translation>
+        <translation type="vanished">Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -8064,7 +8064,7 @@ Alasan:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>Bantuan %1 (&amp;H)</translation>
+        <translation type="vanished">Bantuan %1 (&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8830,7 +8830,7 @@ Apakah Anda yakin?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Ini adalah paket mod lokal
+        <translation type="vanished">Ini adalah paket mod lokal
 Ini hanya dapat diperbarui menggunakan berkas berformat %1
 </translation>
     </message>
@@ -9080,7 +9080,7 @@ Pastikan Anda juga mempercayai URL tersebut.
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation>Dibatalkan</translation>
+        <translation type="vanished">Dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -9937,14 +9937,14 @@ Kemungkinan besar kamu akan perlu mengubah path - silakan merujuk ke situs mod.<
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Peringatan: Resource ini secara simbolis ditautkan dari tempat lain. Menyunting akan juga mengubah yang asli.
 Path kanonis: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan mengubah yang asli.</translation>
     </message>
     <message>
@@ -12015,7 +12015,7 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Pembaru tidak dapat membuat berkas log - folder data tidak dapat ditulis.
+        <translation type="vanished">Pembaru tidak dapat membuat berkas log - folder data tidak dapat ditulis.
 
 Pastikan Anda memiliki hak penulisan terhadap folder data.
 (%1)
@@ -12327,11 +12327,11 @@ Untuk menimpa lock ini dan melanjutkan pembaruan, pilih &quot;Abaikan&quot; di b
     </message>
     <message>
         <source>Name</source>
-        <translation>Nama</translation>
+        <translation type="vanished">Nama</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (sedang digunakan)</translation>
+        <translation type="vanished">%1 (sedang digunakan)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -12840,11 +12840,11 @@ Lanjutkan dengan pemotongan?</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation>Tidak ada profil (%1)</translation>
+        <translation type="vanished">Tidak ada profil (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Luring&gt;</translation>
+        <translation type="vanished">&lt;Luring&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -14128,7 +14128,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation>Tidak diketahui</translation>
+        <translation type="vanished">Tidak diketahui</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -14141,14 +14141,14 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Peringatan: Resource ini secara simbolis ditautkan dari tempat lain. Menyunting akan juga mengubah yang asli.
 Path kanonis: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan mengubah yang asli.</translation>
     </message>
     <message>
@@ -15783,14 +15783,14 @@ inheritsFrom hilang</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>
+        <translation type="vanished">
 Peringatan: Resource ini secara simbolis ditautkan dari tempat lain. Menyuntingnya akan juga mengubah yang asli.
 Path kanonis: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>
+        <translation type="vanished">
 Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan mengubah yang asli.</translation>
     </message>
     <message>
@@ -16232,7 +16232,7 @@ Instansi mungkin tidak dapat dimulai dikarenakan ini.</translation>
     </message>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Versi mayor Java tidak kompatibel. Hal-hal dapat rusak.</translation>
+        <translation type="vanished">Versi mayor Java tidak kompatibel. Hal-hal dapat rusak.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -17332,11 +17332,11 @@ Mohon atur akun anda menurut %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation>Mendapatkan profil Xbox.</translation>
+        <translation type="vanished">Mendapatkan profil Xbox.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Gagal mendapatkan profil Xbox: %1</translation>
+        <translation type="vanished">Gagal mendapatkan profil Xbox: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -17344,7 +17344,7 @@ Mohon atur akun anda menurut %1.</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation>Profil Xbox didapatkan</translation>
+        <translation type="vanished">Profil Xbox didapatkan</translation>
     </message>
 </context>
 <context>
