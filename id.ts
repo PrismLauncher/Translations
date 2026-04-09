@@ -606,7 +606,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="76"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>Tidak Ada Bawaa&amp;n</translation>
+        <translation>Kosongkan Bawaa&amp;n</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -658,12 +658,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation>Gerak Naik (&amp;U)</translation>
+        <translation>Bawa Naik (&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation>Gerak T&amp;urun</translation>
+        <translation>Bawa Turun (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -5625,7 +5625,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation>Java &amp;Executable</translation>
+        <translation>&amp;Eksekutabel Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
@@ -12933,7 +12933,7 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>Pengetesan Java sukses!&lt;br /&gt;Platform dilaporkan: %1&lt;br /&gt;Versi Java dilaporkan: %2&lt;br /&gt;Vendor Java dilaporkan: %3&lt;br /&gt;</translation>
+        <translation>Pengujian Java sukses!&lt;br /&gt;Platform terlaporkan: %1&lt;br /&gt;Versi Java terlaporkan: %2&lt;br /&gt;Vendor Java terlaporkan: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
@@ -12949,7 +12949,7 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation>Java binary yang dipilih tidak berkerja.&lt;br /&gt;Kamu sebaiknya tekan &apos;Deteksi&apos;, atau atur path ke Java executable-nya.&lt;br /&gt;</translation>
+        <translation>Biner Java terpilih tidak berfungsi.&lt;br /&gt;Anda disarankan untuk klik tombol &apos;Deteksi&apos;, atau atur path ke eksekutabel Java-nya.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
