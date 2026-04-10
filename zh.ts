@@ -3922,22 +3922,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="395"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;你好！ &lt;/h1&gt;&lt;h4&gt;由于旧版本启动器中存在的漏洞，你的 Pack ID 为空。 &lt;br/&gt;不幸的是，执行正确的 API 请求需要此信息。 &lt;br/&gt;&lt;br/&gt;为了使该功能正常工作， 需要用内置下载器重新下载整合包。 &lt;br/&gt;&lt;br/&gt;不用担心，下载器会让你更新该实例，所以该实例不会丢失！ &lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="434"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="435"/>
         <source>%1 (Current)</source>
         <translation>%1（当前）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="491"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="492"/>
         <source>Choose update file</source>
         <translation>选择更新文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="491"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="492"/>
         <source>CurseForge pack</source>
         <translation>CurseForge 整合包</translation>
     </message>
@@ -5204,7 +5204,7 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>无法创建临时文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="968"/>
+        <location filename="src/launcher/InstanceList.cpp" line="966"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>多次重试后提交实例失败。更新被某因素阻止。</translation>
     </message>
@@ -9264,23 +9264,23 @@ This can be updated only using a file in %1 format
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Task aborted</source>
         <translation>任务已中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>The task has been aborted by the user.</source>
         <translation>任务已被用户中止。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="219"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="148"/>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="226"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
         <source>Update Pack</source>
         <translation>更新整合包</translation>
     </message>
@@ -9307,37 +9307,37 @@ Make sure you also trust the URL.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="237"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
         <source>Failed to search for available versions.</source>
         <translation>搜索可用版本失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="241"/>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>无法获取此整合包的更新日志数据。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="242"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="243"/>
         <source>Cannot update!</source>
         <translation>无法更新！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="337"/>
         <source>Update Successful</source>
         <translation>更新成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="338"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>实例已成功升级到整合包版本 %1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="343"/>
         <source>Update Failed</source>
         <translation>更新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="343"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>无法将实例升级到整合包版本 %1。请查看启动器日志以获取更多信息。</translation>
     </message>
@@ -11481,22 +11481,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="289"/>
         <source>%1 (Current)</source>
         <translation>%1（当前）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="303"/>
         <source>Fetching changelogs...</source>
         <translation>正在获取更新日志…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="369"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="370"/>
         <source>Choose update file</source>
         <translation>选择更新文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="369"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="370"/>
         <source>Modrinth pack</source>
         <translation>Modrinth 整合包</translation>
     </message>

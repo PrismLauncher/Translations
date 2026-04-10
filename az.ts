@@ -3235,22 +3235,22 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="395"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Salam!&lt;/h1&gt;&lt;h4&gt;Görünür ki, Pack ID-null-dır. Bu, launcher-in köhnə versiyalarındakı bir səhvdən qaynaqlanır.&lt;br/&gt;Təəssüf ki, bu məlumat olmadan düzgün API sorğularını yerinə yetirə bilmirik.&lt;br/&gt;&lt;br/&gt;Bu funksiyanın işləməsi üçün modpack-i daxili yükləyicidən yenidən yükləməlisiniz.&lt;br/&gt;&lt;br/&gt;Amma narahat olmayın, sistem sizdən bu profili yeniləməyinizi istəyəcək, beləliklə profili itirməyəcəksiniz!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="434"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="435"/>
         <source>%1 (Current)</source>
         <translation>%1 (Cari)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="491"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="492"/>
         <source>Choose update file</source>
         <translation>Yeniləmə faylını seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="491"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="492"/>
         <source>CurseForge pack</source>
         <translation>CurseForge paketi</translation>
     </message>
@@ -3924,7 +3924,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
         <translation>Hazırlıq qovluğu yaradıla bilmədi</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="968"/>
+        <location filename="src/launcher/InstanceList.cpp" line="966"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Bir neçə dəfə yenidən cəhd edilməsinə baxmayaraq profil təsdiqlənə bilmədi. Nəsə buna mane olur.</translation>
     </message>
@@ -6675,23 +6675,23 @@ Bu, yalnız %1 formatındakı fayl vasitəsilə yenilənə bilər
         <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Task aborted</source>
         <translation>Əməliyyat ləğv edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>The task has been aborted by the user.</source>
         <translation>Əməliyyat istifadəçi tərəfindən ləğv edildi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="219"/>
         <source>Abort</source>
         <translation>Dayandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="148"/>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="226"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
         <source>Update Pack</source>
         <translation>Paketi yeniləyin</translation>
     </message>
@@ -6714,37 +6714,37 @@ Həmçinin URL-in etibarlı olduğundan əmin olun.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="237"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
         <source>Failed to search for available versions.</source>
         <translation>Mövcud versiyaların axtarışı alınmadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="241"/>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>Modpaketinin yeniliklər siyahısını sorğulamaq mümkün olmadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="242"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="243"/>
         <source>Cannot update!</source>
         <translation>Yeniləmək mümkün deyil!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="337"/>
         <source>Update Successful</source>
         <translation>Uğurla yeniləndi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="338"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>Profil uğurla %1 paket versiyasına yeniləndi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="343"/>
         <source>Update Failed</source>
         <translation>Yeniləmə uğursuz oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="343"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>Profil %1 paket versiyasına yenilənə bilmədi. Ətraflı məlumat üçün başlatıcının qeydlərinə (logs) baxmağınız xahiş olunur.</translation>
     </message>
@@ -8017,22 +8017,22 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="289"/>
         <source>%1 (Current)</source>
         <translation>%1 (Cari)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="303"/>
         <source>Fetching changelogs...</source>
         <translation>Dəyişikliklər siyahısı (changelogs) gətirilir...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="369"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="370"/>
         <source>Choose update file</source>
         <translation>Yeniləmə faylını seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="369"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="370"/>
         <source>Modrinth pack</source>
         <translation>Modrinth paketi</translation>
     </message>
