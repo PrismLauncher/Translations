@@ -2189,9 +2189,14 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
 <context>
     <name>EnsureOfflineLibraries</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
         <translation>Bu profili başlatmaq mümkün deyil, çünki bəzi kitabxanalar çatışmır və ya hələ yüklənməyib. Zəhmət olmasa, işlək internet bağlantısı ilə onlayn rejimdə yenidən cəhd edin</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
+        <source>
+This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

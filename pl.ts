@@ -2602,9 +2602,14 @@ Kontynuować mimo to? Może to spowodować spowolnienia gry i systemu.</translat
 <context>
     <name>EnsureOfflineLibraries</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
         <translation>Nie można uruchomić tej instancji, ponieważ nie znaleziono lub nie pobrano niektórych bibliotek. Spróbuj ponownie w trybie online z działającym połączeniem z Internetem</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
+        <source>
+This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

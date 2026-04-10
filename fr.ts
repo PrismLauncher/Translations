@@ -2602,9 +2602,14 @@ Poursuivre quand même&#x202f;? Cela pourrait ralentir le jeu et votre système.
 <context>
     <name>EnsureOfflineLibraries</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
         <translation>Cette instance ne peut pas être lancée car certaines bibliothèques sont manquantes ou n&apos;ont pas encore été téléchargées. Veuillez réessayer en mode en ligne avec une connexion Internet fonctionnelle</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
+        <source>
+This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

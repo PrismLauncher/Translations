@@ -2570,9 +2570,14 @@ Tetap lanjutkan? Ini dapat memperlambat permainan dan sistem Anda.</translation>
 <context>
     <name>EnsureOfflineLibraries</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
         <translation>Instansi ini tidak dapat dijalankan karena beberapa library hilang atau belum diunduh. Silakan coba lagi dalam mode online dengan koneksi internet yang berfungsi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
+        <source>
+This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

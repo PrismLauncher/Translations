@@ -2558,9 +2558,14 @@ Chcete napriek tomu pokračovať? Toto môže spôsobiť spomalenia v hre a vá�
 <context>
     <name>EnsureOfflineLibraries</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="33"/>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
         <translation>Táto inštancia nemôže byť spustená, pretože niektoré knižnice chýbajú alebo ešte neboli stiahnuté. Prosím, skúste to znova v online režime a s funkčným internetovým pripojením</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
+        <source>
+This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
