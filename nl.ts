@@ -3862,22 +3862,22 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="402"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Hé!&lt;/h1&gt;&lt;h4&gt;Het lijkt alsof het Pakket-ID null is. Dit komt door een bug in oudere versies van de Minecraft launcher.&lt;br/&gt;Helaas kunnen wij niet het juiste API-verzoek doen zonder deze informatie.&lt;br/&gt;&lt;br/&gt;Om dit onderdeel te laten werken zult u de modpack opnieuw moeten downloaden vanuit de ingebouwde downloader.&lt;br/&gt;&lt;br/&gt;Maar maakt u zich geen zorgen, er zal gevraagd worden om deze instantie bij te werken zodat u deze instantie niet zult verliezen!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="444"/>
         <source>%1 (Current)</source>
         <translation>%1 (huidig)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="492"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
         <source>Choose update file</source>
         <translation>Kies bijwerk bestand</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="492"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
         <source>CurseForge pack</source>
         <translation>CurseForge pakket</translation>
     </message>
@@ -9071,22 +9071,22 @@ Make sure you also trust the URL.
         <translation>Kan niet bijwerken!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <source>Update Successful</source>
         <translation>Update Gelukt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="338"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="345"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>De instantie is succesvol geüpdate naar versie %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="343"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>Update Failed</source>
         <translation>Bijwerken mislukt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>De instantie is er niet in geslaagd om te updaten naar packversie %1. Controleer aub launcherlogbestanden voor meer informatie.</translation>
     </message>
@@ -11154,22 +11154,22 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
         <source>%1 (Current)</source>
         <translation>%1 (Huidig)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="303"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="310"/>
         <source>Fetching changelogs...</source>
         <translation>Wijzigingslijsten ophalen...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>Choose update file</source>
         <translation>Kies bijwerk bestand</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>Modrinth pack</source>
         <translation>Modrinth pakket</translation>
     </message>

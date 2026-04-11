@@ -3931,22 +3931,22 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="402"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Hallo du da!&lt;/h1&gt;&lt;h4&gt; Es scheint, als ob deine Pack ID null ist. Dies liegt an einem Fehler in älteren Versionen des Launchers.&lt;br/&gt;Leider können wir ohne diese Informationen keine korrekten API-Anfragen stellen,.&lt;br/&gt;&lt;br/&gt;Damit diese Funktion funktioniert, müsst ihr das Modpack über den integrierten Downloader erneut herunterladen.&lt;br/&gt;&lt;br/&gt;Aber keine Sorge, er wird dich bitten, stattdessen diese Instanz zu aktualisieren, so dass du diese Instanz nicht verlieren wirst!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="444"/>
         <source>%1 (Current)</source>
         <translation>%1 (Aktuell)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="492"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
         <source>Choose update file</source>
         <translation>Wähle Update-Datei</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="492"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
         <source>CurseForge pack</source>
         <translation>CurseForge Paket</translation>
     </message>
@@ -9351,22 +9351,22 @@ Stellen Sie sicher, dass Sie der URL vertrauen können.
         <translation>Aktualisierung nicht möglich!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <source>Update Successful</source>
         <translation>Aktualisierung erfolgreich</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="338"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="345"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>Die Instanz wurde erfolgreich auf Pack-Version %1 aktualisiert.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="343"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>Update Failed</source>
         <translation>Aktualisierung fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>Die Aktualisierung der Instanz auf Pack-Version %1 ist fehlgeschlagen. Bitte überprüfe die Logs des Launchers für weitere Informationen.</translation>
     </message>
@@ -11516,22 +11516,22 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished"> (Aktuell)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
         <source>%1 (Current)</source>
         <translation>%1 (Aktuell)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="303"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="310"/>
         <source>Fetching changelogs...</source>
         <translation>Änderungsprotokolle abrufen...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>Choose update file</source>
         <translation>Wähle Update-Datei</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>Modrinth pack</source>
         <translation>Modrinth Paket</translation>
     </message>

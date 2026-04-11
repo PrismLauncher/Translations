@@ -3444,22 +3444,22 @@ Déan iarracht arís.</translation>
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="402"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Dia duit!&lt;/h1&gt;&lt;h4&gt;Is cosúil go bhfuil do ID Beartáin neamhnitheach. Seo é mar fabht a raibh i leagáin níos sine an leanseálaí.&lt;br/&gt;Faraor, ní féidir linn na iarratais API ceart a dhéanamh seachas an t-eolas seo.&lt;br/&gt;&lt;br/&gt;Dá bhrí sin, leis an gné seo a bheith in ordú, beidh an beartán leasaithe a athíoslódáil de dhíth ort ón íoslódálái ionsuite.&lt;br/&gt;&lt;br/&gt;Ach ná bí buartha, fiafródh sé duit an ásc seo a nuashonrú in ionad sa chaoi ní chaillfidh tú an ásc!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="444"/>
         <source>%1 (Current)</source>
         <translation>%1 (na Linne)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="492"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
         <source>Choose update file</source>
         <translation>Roghnaigh comhad nuashonraithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="492"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
         <source>CurseForge pack</source>
         <translation>Bearta CurseForge</translation>
     </message>
@@ -7789,22 +7789,22 @@ Déan cinnte go bhfuil muinín agat as an URL freisin.
         <translation>Ní féidir nuashonrú a dhéanamh!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <source>Update Successful</source>
         <translation>Nuashonrú Rathúil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="338"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="345"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>Nuashonraíodh an sampla chun leagan %1 a phacáil go rathúil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="343"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>Update Failed</source>
         <translation>Theip ar an Nuashonrú</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>Theip ar an sampla a nuashonrú go leagan %1 den phacáiste. Seiceáil logaí an lainseálaí le haghaidh tuilleadh eolais.</translation>
     </message>
@@ -9438,22 +9438,22 @@ Nuashonraigh %1 le do thoil!</translation>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
         <source>%1 (Current)</source>
         <translation>%1 (Reatha)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="303"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="310"/>
         <source>Fetching changelogs...</source>
         <translation>Ag fáil logaí athraithe...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>Choose update file</source>
         <translation>Roghnaigh comhad nuashonraithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>Modrinth pack</source>
         <translation>Pacáiste Modrinth</translation>
     </message>

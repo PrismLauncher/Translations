@@ -3928,22 +3928,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="402"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Привет!&lt;/h1&gt;&lt;h4&gt;Похоже, что у данного набора отсутствует идентификатор. Это связано с ошибкой в старых версиях лаунчера.&lt;br/&gt;К сожалению, без этой информации выполнять правильные запросы к API невозможно.&lt;br/&gt;&lt;br/&gt;Для работы этой функции необходимо повторно скачать сборку из встроенного загрузчика.&lt;br/&gt;&lt;br/&gt;Только не волнуйтесь! Вместо загрузки будет предложено обновить данный экземпляр, и он не будет потерян!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="444"/>
         <source>%1 (Current)</source>
         <translation>%1 (Текущая)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="492"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
         <source>Choose update file</source>
         <translation>Выберите файл обновления</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="492"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
         <source>CurseForge pack</source>
         <translation>Сборка CurseForge</translation>
     </message>
@@ -9380,22 +9380,22 @@ Make sure you also trust the URL.
         <translation>Нельзя обновить!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <source>Update Successful</source>
         <translation>Обновление выполнено успешно</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="338"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="345"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>Экземпляр успешно обновлён до версии пакета %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="343"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>Update Failed</source>
         <translation>Сбой обновления</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>Не удалось обновить экземпляр до версии пакета %1. Проверьте журналы запуска для получения дополнительной информации.</translation>
     </message>
@@ -11565,22 +11565,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
         <source>%1 (Current)</source>
         <translation>%1 (Текущая)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="303"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="310"/>
         <source>Fetching changelogs...</source>
         <translation>Получение логов обновлений…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>Choose update file</source>
         <translation>Выберите файл обновления</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>Modrinth pack</source>
         <translation>Сборка Modrinth</translation>
     </message>
