@@ -2605,7 +2605,8 @@ Yine de devam edilsin mi? Bu, oyunda ve sisteminizde yavaşlamalara neden olabil
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Bazı kütüphaneler eksik veya indirilmemiş olduğundan bu profil başlatılamaz. Lütfen çevrim içi modda internete bağlıyken tekrar deneyin</translation>
     </message>
 </context>
 <context>
