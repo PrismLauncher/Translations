@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Librării FML Vechi pentru Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Poti schimba la alt server dacă ai probleme cu descărcarea librăriilor FML vechi (Minecraft 1.5.2 și mai devreme).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="310"/>
         <source>Use None</source>
-        <translation>Nu utilizați niciunul</translation>
+        <translation type="unfinished">Nefolosite</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="346"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite utilizarea Modrinth-ului pentru moduri blocate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -99,7 +99,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Notă: probabil nu este nevoie să setați aceasta dacă logarea prin Autentificare Microsoft merge deja.</translation>
+        <translation>Notă: probabil nu este nevoie să setați lucrul ăsta dacă logarea prin Autentificare Microsoft merge deja.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -134,7 +134,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Notă: trebuie să setezi numai asta pentru a accesa date private.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Notă: trebuie să setezi asta doar pentru a accesa date private.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -147,12 +147,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
         <source>User Agent</source>
-        <translation>Agent de Utilizator</translation>
+        <translation>Agent Utilizator</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Introduceți aici un agent utilizator personalizat. Șirul special $LAUNCHER_VER va fi înlocuit cu versiunea programului de lansare.</translation>
+        <translation>Introduceți aici un agent utilizator personalizat. Șirul special $LAUNCHER_VER va fi înlocuit cu versiunea lansatorului.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -167,7 +167,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Puteți seta acest câmp cu un server de metadate terț pentru a folosi librării modificate sau hack-uri diverse.</translation>
+        <translation>Puteți seta acest câmp la un server de metadate terț pentru a folosi librării modificate sau hack-uri diverse.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -176,7 +176,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Notă: aceasta trebuie setată doar pentru a putea accesa datele private. Citește documentația &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt; &lt;/a&gt; pentru mai multe informații.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Notă: aceasta trebuie setată doar pentru a putea accesa datele private. Citește &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentația&lt;/a&gt; pentru mai multe informații.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -185,7 +185,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Notă: probabil nu trebuie sa modificați acest câmp dacă CurseForge merge deja.</translation>
+        <translation>Notă: probabil nu trebuie sa modificați acest câmp dacă CurseForge funcționează deja.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -293,7 +293,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="817"/>
         <source>Blocked mods found</source>
-        <translation>S-au găsit mod-uri blocate</translation>
+        <translation>Moduri blocate găsite</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
@@ -658,12 +658,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută &amp;Sus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută &amp;Jos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -1304,7 +1304,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="94"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparare pentru logare...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
@@ -1620,7 +1620,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="85"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcare componente</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
@@ -1635,7 +1635,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="249"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>Descărcarea metadatelor pentru %1 componente</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="485"/>
@@ -2477,7 +2477,7 @@ Sigur doriți să continuați?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="38"/>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>RAM insuficient</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="39"/>
@@ -2487,12 +2487,17 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu există destul RAM pentru a porni instanța cu setările curente de memorie.
+
+Cerut: %1 MiB
+Disponibil: %2 MiB
+
+Continui oricum? Asta ar putea cauza încetiniri ale jocului si ale sistemului tău.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="51"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Insuficient RAM disponibil pentru a lansa instanța</translation>
     </message>
 </context>
 <context>
@@ -2533,13 +2538,14 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <name>EnsureOfflineLibraries</name>
     <message>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Această instanță nu poate fi pornită deoarece unele librării lipsesc sau nu au fost încă descărcate. Va rugăm încercați din nou în modul online sau cu o conexiune de internet funcțională</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Această instanță nu a putut fi lansată deoarece unele librării lipsesc sau nu au fost descărcate încă. Vă rugăm încercați din nou in modul online sau cu o conexiune de internet funcțională</translation>
     </message>
 </context>
 <context>
@@ -3475,12 +3481,12 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Obținerea manifestului...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Găsirea versiunii pachetului %1 a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
@@ -3492,27 +3498,27 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezolvarea modurilor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest invalid: Nu există vreo informație disponibilă pentru descărcarea fișierului &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Au fost găsite fișiere blocate</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarele fișiere nu sunt disponibile pentru descărcare din lansatoare terțe. &lt;br/&gt;Veți fi nevoit(ă) să le descărcați manual și să le adăugați la instanță.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Crearea instanței...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
@@ -4087,7 +4093,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Notă: Multe modpack-uri recente FTB sunt disponibile și de pe CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4274,7 +4280,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut deschide fișierul %1 pentru citire: %2</translation>
     </message>
 </context>
 <context>
@@ -4576,12 +4582,12 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="102"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au putut descărca fișierele de joc: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="106"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Descărcarea fișierelor de joc</translation>
     </message>
 </context>
 <context>
@@ -5257,7 +5263,7 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -5673,7 +5679,7 @@ Puteți schimba versiunea de Java din setări ulterior.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertizează când nu e destulă memorie disponibilă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
@@ -6182,67 +6188,72 @@ Doriți să jucați demo-ul?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>O eroare a apărut în timpul reîmprospătării &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; a expirat și trebuie reautentificat</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificarea clientului a lansatorului s-a schimbat</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="201"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; nu mai există pe servere</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest cont nu deține Minecraft.
+Va trebui să cumperi jocul mai întâi pentru a putea juca versiunea întreagă.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niciun cont selectat pentru lansare.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Dorești să joci versiunea demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Alege-ți numele de jucător din modul demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nu ești conectat la internet, lansare in modul offline
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Alege-ți numele de jucător din modul offline</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="300"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Niciun cont selectat pentru lansare</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. Dorești să reautentifici acest cont?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="487"/>
@@ -6400,12 +6411,12 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Descărcare %Automată Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosarul unde Prism Launcher stochează versiunile de Java descărcate automat. NU setați această versiune de Java ca fiind a sistemului dumneavoastră.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
@@ -6420,12 +6431,12 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deocamdată sunt arătate doar modurile care nu sunt marcate drept compatibile cu versiunea curentă de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="430"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Detectează și arată incompatibilități între moduri (experimental)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="465"/>
@@ -7902,7 +7913,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>%Rădăcina Lansatorului</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
@@ -7912,7 +7923,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>%Skin-uri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
@@ -7953,13 +7964,13 @@ Motiv:
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizează jurnale</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizeaza jurnale de lansator curente și mai vechi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
@@ -7969,12 +7980,12 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Wiki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Teme &amp;Widget-uri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="738"/>
@@ -7984,7 +7995,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Teme I&amp;conițe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
@@ -7994,12 +8005,12 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachete de Pisici</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide dosarul de pachete de pisici întru browser de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
@@ -8375,17 +8386,17 @@ Vă rugăm să adăugați un cont Microsoft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Link de import invalid: lipsește parametrul &apos;url&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Link de import invalid: URL-ul trebuie să fie http(s).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1079"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalează modpack-ul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1080"/>
@@ -8394,7 +8405,11 @@ Vă rugăm să adăugați un cont Microsoft.</translation>
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dorești să descarci și să importezi un modpack de la:
+%1
+
+URL:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
@@ -8404,13 +8419,14 @@ URL:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
         <source>No instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicio instanță!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1137"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicio instanță disponibilă la care să se adauge resurse.
+Vă rugăm creați o instanță înainte de a încerca să instalați această resursă din nou.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1251"/>
@@ -8431,13 +8447,14 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
         <source>Failed to undo trashing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Reversarea ștergerii instanței a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1294"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unele instanțe și scurtături nu au putut fi restaurate.
+Vă rugăm verificați coșul dumneavoastră de gunoi și restaurați-le manual.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
@@ -8454,7 +8471,9 @@ Please check your trashbin to manually restore them.</source>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Curățarea stocării temporare de metadata a eșuat!
+Pentru a curăța manual stocarea temporară de metadate, apasă pe Dosare -&gt; Vezi Dosarul de Rădăcină a Lansatorului și, după închiderea lansatorului, șterge dosarul numit &quot;meta&quot;
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1436"/>
@@ -8581,12 +8600,12 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1484"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate șterge în timpul rulării instanței</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanța selectată nu poate fi ștearsă deoarece este în starea de rulare. Vă rugăm opriți instanța înainte de încercarea ștergerii acesteia.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1496"/>
@@ -8603,12 +8622,15 @@ Doresti sa continui?</numerusform>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ești pe cale de a șterge &quot;%1&quot;%2.
+Lucrul acesta va fi permanent și va șterge complet instanța.
+
+Sunteți sigur(ă)?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1508"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Se șterge</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
