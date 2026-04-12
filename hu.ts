@@ -103,7 +103,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Megjegyzés: Valószínűleg nem kell ezt beállítanod, ha a Microsoft Authentication-on keresztüli bejelentkezés már működik.</translation>
+        <translation>Megjegyzés: Valószínűleg nem kell ezt beállítanod, ha a Microsoft Authenticationön keresztüli bejelentkezés már működik.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -1843,7 +1843,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation>Az egyes erőforrásokat külön-külön kapcsolja össze, ahelyett, hogy egyszerre egész mappákat kapcsolna össze</translation>
+        <translation>Erőforrások egyenkénti linkelése egész mappák helyett</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
@@ -2147,7 +2147,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Az indítás előtti parancs a példány indítása előtt, a kilépés utáni parancs pedig a példány becsukódása után fut le.&lt;/p&gt;&lt;p&gt;Mindkettő a launcher munkamappájában fog futni extra környezeti változókkal:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME – Példány neve&lt;/li&gt;&lt;li&gt;$INST_ID – Példány azonosítója (mappa neve)&lt;/li&gt;&lt;li&gt;$INST_DIR – Példány abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_JAVA - Indításhoz használt Java bináris fájl&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Indításhoz használt parancssori paraméterek (figyelmeztetés: nem működik megfelelően, ha az argumentumok szóközt tartalmaznak)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A Wrapper parancs lehetővé teszi az indítást egy extra wrapper program használatával (például „optirun” Linuxon)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Az indítás előtti parancs a példány indítása előtt, a kilépés utáni parancs pedig a példány bezáródása után fut le.&lt;/p&gt;&lt;p&gt;Mindkettő a launcher munkamappájában fog futni extra környezeti változókkal:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME – Példány neve&lt;/li&gt;&lt;li&gt;$INST_ID – Példány azonosítója (mappa neve)&lt;/li&gt;&lt;li&gt;$INST_DIR – Példány abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_JAVA - Indításhoz használt Java bináris fájl&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Indításhoz használt parancssori paraméterek (figyelmeztetés: nem működik megfelelően, ha az argumentumok szóközt tartalmaznak)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A Wrapper parancs lehetővé teszi az indítást egy extra wrapper program használatával (például „optirun” Linuxon)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -3839,7 +3839,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>A modcsomag ajánlott memóriája meghaladja a rendszer memóriájának 90%-át - %1 MiB-ról %2 MiB-ra csökkentve azt!</translation>
+        <translation>A modcsomag ajánlott memóriája meghaladja a rendszer memóriájának 90%-át - ezért automatikusan lecsökkentettük %1 MiB-ról %2 MiB-ra!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -5202,7 +5202,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
-        <translation>Megölés</translation>
+        <translation>&amp;Megszakítás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
@@ -7489,7 +7489,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="141"/>
         <source>Scroll all the way to bottom</source>
-        <translation>Görgessen egészen az aljáig</translation>
+        <translation>Görgetés teljesen az aljára</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="144"/>
@@ -11989,7 +11989,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <source>Scroll all the way to bottom</source>
-        <translation>Görgessen egészen az aljáig</translation>
+        <translation>Görgetés teljesen az aljára</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
