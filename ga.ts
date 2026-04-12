@@ -2276,7 +2276,8 @@ Lean ar aghaidh ar aon nós? D’fhéadfadh sé seo moilliú a chur ar an gcluic
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ní féidir an sampla seo a sheoladh mar gheall ar easpa leabharlann nó nár íoslódáladh iad fós. Déan iarracht arís i mód ar líne le nasc Idirlín atá ag obair</translation>
     </message>
 </context>
 <context>
@@ -4974,7 +4975,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>Rabhadh nuair nach bhfuil dóthain cuimhne ar fáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
