@@ -2597,7 +2597,8 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+일부 라이브러리가 누락되었거나 아직 다운로드되지 않아 이 인스턴스를 실행할 수 없습니다. 인터넷 연결이 정상적으로 작동하는 상태에서 온라인 모드로 다시 시도하여 주십시오</translation>
     </message>
 </context>
 <context>
@@ -5777,7 +5778,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>사용 가능한 메모리가 부족할 때 경고 표시</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
