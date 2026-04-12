@@ -2565,7 +2565,8 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+一部のライブラリが不足しているか、まだダウンロードされていないため、この起動構成を起動できません。インターネットに接続した状態で、オンラインモードにして再度お試しください</translation>
     </message>
 </context>
 <context>
@@ -5640,7 +5641,7 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>利用可能なメモリが不足している場合に警告する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
@@ -17406,7 +17407,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="95"/>
         <source>Got authorization to access %1</source>
-        <translation>%1へのアクセス許可を取得しました</translation>
+        <translation>%1 へのアクセス許可を取得しました</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="106"/>
@@ -17524,7 +17525,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>Got Xbox user token</source>
-        <translation>Xboxユーザー トークンを取得しました</translation>
+        <translation>Xboxユーザートークンを取得しました</translation>
     </message>
 </context>
 <context>
