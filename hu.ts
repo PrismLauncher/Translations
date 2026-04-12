@@ -2593,7 +2593,8 @@ Mégis folytatni szeretnéd? Ez a játék és a rendszer lelassulását okozhatj
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ez a példány nem indítható el, mert néhány könyvtár hiányzik, vagy még nem töltődött le. Próbáld újra online módban, megfelelő internetkapcsolattal</translation>
     </message>
 </context>
 <context>
@@ -5772,7 +5773,7 @@ A Java verziót később a beállítások között megváltoztathatod.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>Figyelmeztetés, ha nincs elegendő memória</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
