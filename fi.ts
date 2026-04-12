@@ -2518,7 +2518,7 @@ Jatka siitä huolimatta? Tämä voi aiheuttaa tietokoneesi tai pelin hitautta.</
     <name>EnsureOfflineLibraries</name>
     <message>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Tätä instanssia ei voida käynnistää, koska osa kirjastoista ovat kateissa tai niitä ei olla vielä ladattu. Yritä uudelleen online-tilassa toimivan verkkoyhteyden kanssa</translation>
+        <translation type="vanished">Tätä instanssia ei voida käynnistää, koska osa kirjastoista ovat kateissa tai niitä ei olla vielä ladattu. Yritä uudelleen online-tilassa toimivan verkkoyhteyden kanssa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>

@@ -2559,7 +2559,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <name>EnsureOfflineLibraries</name>
     <message>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>一部のライブラリが不足しているか、まだダウンロードされていないため、この起動構成を起動できません。インターネットに接続して、オンラインモードで再度お試しください</translation>
+        <translation type="vanished">一部のライブラリが不足しているか、まだダウンロードされていないため、この起動構成を起動できません。インターネットに接続して、オンラインモードで再度お試しください</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>

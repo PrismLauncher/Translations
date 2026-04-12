@@ -2602,7 +2602,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <name>EnsureOfflineLibraries</name>
     <message>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>该实例无法启动，因为部分库文件缺失或未下载。请在有互联网连接的在线模式下再试一次</translation>
+        <translation type="vanished">该实例无法启动，因为部分库文件缺失或未下载。请在有互联网连接的在线模式下再试一次</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>

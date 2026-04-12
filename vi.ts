@@ -2579,7 +2579,7 @@ Tiếp tục không? Việc này có thể gây chậm đi trong game và thiế
     <name>EnsureOfflineLibraries</name>
     <message>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Không thể khởi chạy phiên bản này vì một số thư viện bị thiếu hoặc chưa được tải xuống. Vui lòng thử lại ở chế độ trực tuyến với kết nối Internet hoạt động bình thường.</translation>
+        <translation type="vanished">Không thể khởi chạy phiên bản này vì một số thư viện bị thiếu hoặc chưa được tải xuống. Vui lòng thử lại ở chế độ trực tuyến với kết nối Internet hoạt động bình thường.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>

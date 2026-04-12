@@ -2530,7 +2530,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</translat
     <name>EnsureOfflineLibraries</name>
     <message>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</translation>
+        <translation type="vanished">This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>

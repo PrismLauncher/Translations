@@ -2471,7 +2471,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
     <name>EnsureOfflineLibraries</name>
     <message>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Ova instanca se ne može pokrenuti jer neke biblioteke nedostaju ili još uvek nisu preuzete. Pokušaj ponovo u &quot;onlajn&quot; modu sa ispravnom internet vezom</translation>
+        <translation type="vanished">Ova instanca se ne može pokrenuti jer neke biblioteke nedostaju ili još uvek nisu preuzete. Pokušaj ponovo u &quot;onlajn&quot; modu sa ispravnom internet vezom</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>

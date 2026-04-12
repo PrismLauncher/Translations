@@ -2591,7 +2591,7 @@ Continuare ugualmente? Questo può causare rallentamenti del gioco e del sistema
     <name>EnsureOfflineLibraries</name>
     <message>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>L&apos;istanza non può essere avviata perché alcune librerie sono mancanti o non scaricate. Riprovare in modalità online e con una connessione a Internet</translation>
+        <translation type="vanished">L&apos;istanza non può essere avviata perché alcune librerie sono mancanti o non scaricate. Riprovare in modalità online e con una connessione a Internet</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>

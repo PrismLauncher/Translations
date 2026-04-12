@@ -2567,7 +2567,7 @@ Continuar mesmo assim? Isso pode causar abrandamentos no jogo ou no seu sistema.
     <name>EnsureOfflineLibraries</name>
     <message>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Esta instância não pode ser iniciada porque algumas bibliotecas estão em falta ou ainda não foram descarregadas. Tente novamente no modo online com uma conexão de internet ativa</translation>
+        <translation type="vanished">Esta instância não pode ser iniciada porque algumas bibliotecas estão em falta ou ainda não foram descarregadas. Tente novamente no modo online com uma conexão de internet ativa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>

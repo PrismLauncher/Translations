@@ -2587,7 +2587,7 @@ Mégis folytatni szeretnéd? Ez a játék és a rendszer lelassulását okozhatj
     <name>EnsureOfflineLibraries</name>
     <message>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Ez a példány nem indítható el, mert néhány könyvtár hiányzik vagy még nem lett letöltve. Kérlek, próbáld meg újra online módban, működő internetkapcsolattal</translation>
+        <translation type="vanished">Ez a példány nem indítható el, mert néhány könyvtár hiányzik vagy még nem lett letöltve. Kérlek, próbáld meg újra online módban, működő internetkapcsolattal</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>

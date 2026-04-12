@@ -2538,7 +2538,7 @@ Continui oricum? Asta ar putea cauza încetiniri ale jocului si ale sistemului t
     <name>EnsureOfflineLibraries</name>
     <message>
         <source>This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation>Această instanță nu poate fi pornită deoarece unele librării lipsesc sau nu au fost încă descărcate. Va rugăm încercați din nou în modul online sau cu o conexiune de internet funcțională</translation>
+        <translation type="vanished">Această instanță nu poate fi pornită deoarece unele librării lipsesc sau nu au fost încă descărcate. Va rugăm încercați din nou în modul online sau cu o conexiune de internet funcțională</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
