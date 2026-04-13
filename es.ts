@@ -2609,7 +2609,8 @@ Disponible: %2 MiB
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+No se puede iniciar esta instancia porque faltan algunas bibliotecas o aún no se han descargado. Inténtalo de nuevo en modo en línea con una conexión a Internet que funcione</translation>
     </message>
 </context>
 <context>
@@ -5803,7 +5804,7 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>Avisar cuando no haya suficiente memoria disponible</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
