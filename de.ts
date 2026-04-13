@@ -2617,7 +2617,8 @@ Trotzdem Fortfahren? Dies sorgt eventuell für Verlangsamungen des Spiels und Sy
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Dieses Profil kann nicht gestartet werden, da eine oder mehrere Bibliotheken fehlen oder noch nicht runtergeladen wurden. Bitte versuche es erneut im Online-Modus mit verbundenen Internet</translation>
     </message>
 </context>
 <context>
@@ -5838,7 +5839,7 @@ Sie können die Java-Version in den Einstellungen später ändern.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnen, wenn nicht genug Arbeitsspeicher verfügbar ist</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
