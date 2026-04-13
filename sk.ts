@@ -85,7 +85,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Povoliť prechod na Modrinth v prípade zablokovaných módov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
@@ -1329,7 +1329,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="94"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Príprava na prihlásenie...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
@@ -2565,7 +2565,8 @@ Chcete napriek tomu pokračovať? Toto môže spôsobiť spomalenia v hre a vá�
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Túto inštanciu nie je možné spustiť, pretože chýbajú niektoré knižnice alebo ešte neboli stiahnuté. Skúste to prosím znovu v online režime s fungujúcim pripojením k internetu</translation>
     </message>
 </context>
 <context>
@@ -3470,7 +3471,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Načítavanie módov...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
@@ -3536,8 +3537,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Poznámka: Mnohé novšie FTB modpacky sú dostupné aj na CurseForge!
-Tiež, ak sa tvoje FTB inštancie nenachádzajú v predvolenom umiestnení, vyber ich pomocou tlačidla vedľa vyhľadávania.</translation>
+        <translation type="unfinished">Poznámka: Mnohé novšie FTB modpacky sú dostupné aj na CurseForge! Tiež, ak sa tvoje FTB inštancie nenachádzajú v predvolenom umiestnení, vyber ich pomocou tlačidla vedľa vyhľadávania.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -5561,7 +5561,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>Upozorniť, ak nie je k dispozícii dostatok pamäte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
@@ -10077,7 +10077,8 @@ Ste si istí, že to chcete spraviť?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modifikácie, ktoré sa snažíte odstrániť, sú potrebné pre %1 modifikácií.
+Chcete ich deaktivovať?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"/>
@@ -10138,7 +10139,7 @@ Ste si istí, že to chcete spraviť?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
         <source>The mod updater was aborted!</source>
-        <translation>Aktualizovač módov bol prerušený</translation>
+        <translation type="unfinished">Aktualizovač módov bol prerušený!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
@@ -10793,7 +10794,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="126"/>
         <source>Help</source>
-        <translation type="unfinished">Pomoc</translation>
+        <translation>Pomoc</translation>
     </message>
 </context>
 <context>
@@ -11207,7 +11208,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="49"/>
         <source>Help</source>
-        <translation type="unfinished">Pomoc</translation>
+        <translation>Pomoc</translation>
     </message>
 </context>
 <context>
@@ -11372,7 +11373,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>There are no new updates available.</source>
-        <translation>Žiadne nové aktualizácie niesú dostupné</translation>
+        <translation>Žiadne nové aktualizácie nie sú dostupné.</translation>
     </message>
 </context>
 <context>
@@ -11380,7 +11381,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="89"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation>Použite vlastnú cestu ako root aplikácie (použite &quot;.&quot; pre tento adresár)</translation>
+        <translation type="unfinished">Použite vlastnú cestu ako root aplikácie (použite &quot;.&quot; pre tento adresár).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="89"/>
@@ -11415,8 +11416,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="96"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation>Iba skontroluje, či je potrebná aktualizácia.
-Návratový kód je 100, ak áno, 0 ak nie (alebo nenulový kód, ak nastala chyba).</translation>
+        <translation>Iba skontroluje, či je potrebná aktualizácia. Návratový kód je 100, ak áno, 0 ak nie (alebo nenulový kód, ak nastala chyba).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="97"/>
@@ -11441,7 +11441,7 @@ Návratový kód je 100, ak áno, 0 ak nie (alebo nenulový kód, ak nastala chy
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="101"/>
         <source>Select the version to install with a GUI.</source>
-        <translation>Vyberte verziu pre inštalovanie s GUI</translation>
+        <translation type="unfinished">Vyberte verziu pre inštalovanie s GUI.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
@@ -13212,7 +13212,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="252"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="273"/>
