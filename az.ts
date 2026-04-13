@@ -2196,7 +2196,9 @@ Yenə də davam edilsin? Bu, oyunda və sisteminizdə ləngimələrə səbəb ol
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Bəzi kitabxanalar çatışmadığı və ya hələ 
+yüklənmədiyi üçün bu nümunə işə salına bilməz. Zəhmət olmasa, işləyən internet bağlantısı ilə onlayn rejimdə yenidən cəhd edin</translation>
     </message>
 </context>
 <context>
@@ -4280,7 +4282,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>Kifayət qədər yaddaş olmadıqda xəbərdarlıq edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
