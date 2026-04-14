@@ -23,11 +23,11 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="125"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="157"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="164"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>Use Default</source>
         <translation>पूर्वनिर्धारित इस्तेमाल करे</translation>
     </message>
@@ -37,63 +37,68 @@
         <translation>नोट: आप शायद पेस्ट सेवा प्रकार बदलने के बाद बेस यूआरएल को बदलना या साफ़ करना चाहते हैं।</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
+        <source>Refresh on launch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
         <translation>संपत्तियों का सर्वर</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
         <translation>यदि आपको एसेट्स डाउनलोड करने में समस्या हो रही है तो आप इसे किसी अन्य सर्वर पर सेट कर सकते हैं।</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
         <translation>लिगैसी FML लिबरारीस सर्वर</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
         <translation>आप इसको दूसरे सर्वर पर सेट कर सकते है अगर आपको लिगैसी FML लिबरारीस डाउनलोड करने में दिक्कत हो (Minecraft 1.5.2 और पहले)।</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
         <translation>&amp;API कुंजियाँ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="233"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
         <translation>&amp;Microsoft प्रमाणीकरण</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="288"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
         <source>Mod&amp;rinth</source>
         <translation>&amp;मॉडरीनतः</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="310"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>Use None</source>
         <translation>कोई भी उपयोग न करें</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="346"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
         <source>&amp;CurseForge</source>
         <translation>&amp;कर्सफोर्ज</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
         <translation>अवरुद्ध मॉड के लिए मॉड्रिंथ पर फ़ॉलबैक इनैबल करे</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
         <source>&amp;Technic</source>
         <translation>तकनिकी</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>ध्यान दे : अगर Microsoft प्रमाणीकरण पहले से ही काम करता है, तो आपको शायद इसे सेट करने की आवश्यकता नहीं है।।</translation>
     </message>
@@ -128,7 +133,7 @@
         <translation type="vanished">तकनिकी ग्राहक ID</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;नोट: निजी डेटा तक पहुँचने के लिए इसे सेट करें।&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -141,12 +146,12 @@
         <translation type="vanished">मिश्रित</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
         <translation>उपयोगकर्ता एजेंट</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
         <translation>यहां एक कस्टम उपयोगकर्ता एजेंट दर्ज करें। विशेष स्ट्रिंग $LAUNCHER_VER को लॉन्चर के संस्करण से बदल दिया जाएगा।</translation>
     </message>
@@ -170,7 +175,7 @@
         <translation type="vanished">यहां मेटा के लिए एक कस्टम यूआरएल दर्ज करें।</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt;नोट: आपको केवल निजी डेटा तक पहुंचने के लिए इसे सेट करना होगा। अधिक जानकारी के लिए &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;दस्तावेज़ीकरण&lt;/a&gt;पढ़े।&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -179,7 +184,7 @@
         <translation type="vanished">&amp;CurseForge कोर एपीआई</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation>नोट: यदि कर्सफोर्ज पहले से ही काम करता है तो आपको संभवतः इसे सेट करने की आवश्यकता नहीं है।</translation>
     </message>
@@ -843,12 +848,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="905"/>
+        <location filename="src/launcher/Application.cpp" line="906"/>
         <source>Settings</source>
         <translation>सेटिंग्स</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1067"/>
+        <location filename="src/launcher/Application.cpp" line="1068"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -875,12 +880,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 इस लॉक को हटाने और आगे बढ़ने के लिए &quot;अनदेखा&quot; नीचे का चयन करें।</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1084"/>
+        <location filename="src/launcher/Application.cpp" line="1085"/>
         <source>Update In Progress</source>
         <translation>अपडेट प्रगति में है</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1108"/>
+        <location filename="src/launcher/Application.cpp" line="1109"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -895,12 +900,12 @@ for details on the last update attempt.</source>
 %1 ।</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1116"/>
+        <location filename="src/launcher/Application.cpp" line="1117"/>
         <source>Update Failed</source>
         <translation>अपडेट असफल रहा</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1140"/>
+        <location filename="src/launcher/Application.cpp" line="1141"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -921,12 +926,12 @@ for details.</oldsource>
 %1 ।</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1148"/>
+        <location filename="src/launcher/Application.cpp" line="1149"/>
         <source>Update Succeeded</source>
         <translation>अपडेट सफल रहा</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1180"/>
+        <location filename="src/launcher/Application.cpp" line="1181"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -943,7 +948,7 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1186"/>
+        <location filename="src/launcher/Application.cpp" line="1187"/>
         <source>Incompatible system configuration</source>
         <translation>सिस्टम configuration is incompatible</translation>
     </message>
@@ -952,22 +957,22 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">रद्धित (Aborted)</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1939"/>
+        <location filename="src/launcher/Application.cpp" line="1940"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 से पुराना डेटा मिला, लेकिन आपके पास पहले से ही %2 के लिए मौजूदा डेटा है। दुर्भाग्यवश, आपको खुद ही migration करना होगा। क्या आप चाहेंगे कि आपको अगली बार जब आप %2 को शुरू करें तो लंबित डेटा अंतर्निहित की जाने वाली स्मरण दिलाई जाए?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1943"/>
+        <location filename="src/launcher/Application.cpp" line="1944"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>ऐसा लगता है कि आपने पहले %1 का उपयोग किया था। क्या आप अपने डेटा को %2 के नए स्थान पर स्थानांतरित करना चाहेंगे?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1949"/>
+        <location filename="src/launcher/Application.cpp" line="1950"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>ऐसा लगता है कि आपने पहले %2 पर %1 का उपयोग किया था। क्या आप अपने डेटा को %3 के नए स्थान पर स्थानांतरित करना चाहेंगे?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1995"/>
+        <location filename="src/launcher/Application.cpp" line="1996"/>
         <source>Migration failed! Reason: %1</source>
         <translation>स्थानांतरण विफल रहा! कारण: %1</translation>
     </message>
@@ -4208,7 +4213,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="158"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="159"/>
         <source>Detecting Java installations...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6693,7 +6698,7 @@ Make sure you also trust the URL.
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="122"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="124"/>
         <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6701,12 +6706,12 @@ Make sure you also trust the URL.
 <context>
     <name>Meta::Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <location filename="src/launcher/meta/Index.cpp" line="72"/>
         <source>Name</source>
         <translation type="unfinished">नाम</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="144"/>
+        <location filename="src/launcher/meta/Index.cpp" line="145"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation type="unfinished"></translation>
@@ -9288,7 +9293,7 @@ HTTP Status: %2</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="156"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="158"/>
         <source>Download of meta file %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11144,12 +11149,12 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="338"/>
         <source>Context menu</source>
         <translation type="unfinished">संदर्भ मेनू</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="406"/>
         <source>You are about to upload %1 screenshots to %2.
 You should double-check for personal information.
 
@@ -11157,7 +11162,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="411"/>
         <source>You are about to upload the selected screenshot to %1.
 You should double-check for personal information.
 
@@ -11165,52 +11170,52 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="420"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="472"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="438"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="479"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
         <source>Failed to upload screenshots!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="472"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
         <source>Unknown error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="436"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="479"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="497"/>
         <source>Upload finished</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="429"/>
         <source>Abort</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="423"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="464"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>Screenshots upload aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="423"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="464"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>The task has been aborted by the user.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="437"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="498"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="528"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="546"/>
         <source>You are about to delete %1 screenshots.
 This may be permanent and they will be gone from the folder.
 
@@ -11218,7 +11223,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="533"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="552"/>
         <source>You are about to delete the selected screenshot.
 This may be permanent and it will be gone from the folder.
 
@@ -11226,7 +11231,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="539"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="558"/>
         <source>Confirm Deletion</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11916,7 +11921,7 @@ Are you sure?</source>
 <context>
     <name>Task</name>
     <message>
-        <location filename="src/launcher/tasks/Task.cpp" line="134"/>
+        <location filename="src/launcher/tasks/Task.cpp" line="141"/>
         <source>Aborted</source>
         <translation type="unfinished"></translation>
     </message>

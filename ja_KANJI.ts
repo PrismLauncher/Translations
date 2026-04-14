@@ -23,11 +23,11 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="125"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="157"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="164"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>Use Default</source>
         <translation>使用既定</translation>
     </message>
@@ -37,58 +37,63 @@
         <translation>注意: 貼付板服務の提供先を変更した後，根網址も変更する可能性があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
+        <source>Refresh on launch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
         <translation>&amp;API 鍵</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="233"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
         <translation type="unfinished">&amp;Microsoft 認証</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="288"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
         <source>Mod&amp;rinth</source>
         <translation>Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="310"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>Use None</source>
         <translation>不使用</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="346"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
         <source>&amp;CurseForge</source>
         <translation>CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
         <source>&amp;Technic</source>
         <translation>Technic</translation>
     </message>
@@ -97,7 +102,7 @@
         <translation type="vanished">API 認証鍵</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>注意: 既にMicrosoft認証により登入可能の場合は，おそらくこれを設定する必要はありません。</translation>
     </message>
@@ -127,7 +132,7 @@
         <translation type="vanished">Technic 位案戸ID</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意: 汝必要此之設定秘密出ー他二悪瀬洲摺時&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -140,12 +145,12 @@
         <translation type="vanished">その他</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
         <translation>使用者代理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
         <translation>ここに特定の使用者代理を入力してください。変数文字列&quot;$LAUNCHER_VER&quot;は起動器の版次に置き換えられます。</translation>
     </message>
@@ -169,7 +174,7 @@
         <translation type="vanished">此処二目他可酢他無URL入力。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意: 汝必要此之設定秘密出ー他二悪瀬洲摺時。必読更成情報乃為二&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;乎&lt;/a&gt;必読。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -178,7 +183,7 @@
         <translation type="vanished">CurseForge乃核API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation>注意: 正常二CurseForge稼働摺時、汝不必要設定之。</translation>
     </message>
@@ -894,12 +899,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <translation>此乃記録超過 %1 行故、不可表示此乃記録。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="905"/>
+        <location filename="src/launcher/Application.cpp" line="906"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1067"/>
+        <location filename="src/launcher/Application.cpp" line="1068"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -915,12 +920,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1084"/>
+        <location filename="src/launcher/Application.cpp" line="1085"/>
         <source>Update In Progress</source>
         <translation>更新中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1108"/>
+        <location filename="src/launcher/Application.cpp" line="1109"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -930,12 +935,12 @@ for details on the last update attempt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1116"/>
+        <location filename="src/launcher/Application.cpp" line="1117"/>
         <source>Update Failed</source>
         <translation>更新失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1140"/>
+        <location filename="src/launcher/Application.cpp" line="1141"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -956,12 +961,12 @@ for details.</oldsource>
 也。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1148"/>
+        <location filename="src/launcher/Application.cpp" line="1149"/>
         <source>Update Succeeded</source>
         <translation>更新成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1180"/>
+        <location filename="src/launcher/Application.cpp" line="1181"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -970,27 +975,27 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1186"/>
+        <location filename="src/launcher/Application.cpp" line="1187"/>
         <source>Incompatible system configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1939"/>
+        <location filename="src/launcher/Application.cpp" line="1940"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1943"/>
+        <location filename="src/launcher/Application.cpp" line="1944"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1949"/>
+        <location filename="src/launcher/Application.cpp" line="1950"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1995"/>
+        <location filename="src/launcher/Application.cpp" line="1996"/>
         <source>Migration failed! Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4760,7 +4765,7 @@ Please try again.</source>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="158"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="159"/>
         <source>Detecting Java installations...</source>
         <translation>Java の装入状況を検出中...</translation>
     </message>
@@ -7794,7 +7799,7 @@ Make sure you also trust the URL.
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="122"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="124"/>
         <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7802,12 +7807,12 @@ Make sure you also trust the URL.
 <context>
     <name>Meta::Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <location filename="src/launcher/meta/Index.cpp" line="72"/>
         <source>Name</source>
         <translation type="unfinished">名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="144"/>
+        <location filename="src/launcher/meta/Index.cpp" line="145"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation type="unfinished"></translation>
@@ -11092,7 +11097,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="156"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="158"/>
         <source>Download of meta file %1</source>
         <translation>メタファイル %1 のダウンロード</translation>
     </message>
@@ -12661,12 +12666,12 @@ Are you sure?</source>
         <translation>スクリーンショット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="338"/>
         <source>Context menu</source>
         <translation>コンテキストメニュー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="406"/>
         <source>You are about to upload %1 screenshots to %2.
 You should double-check for personal information.
 
@@ -12674,7 +12679,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="411"/>
         <source>You are about to upload the selected screenshot to %1.
 You should double-check for personal information.
 
@@ -12682,52 +12687,52 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="420"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="472"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="438"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="479"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
         <source>Failed to upload screenshots!</source>
         <translation>スクリーンショットをアップロードできませんでした!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="472"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
         <source>Unknown error</source>
         <translation>不明なエラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="436"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="479"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="497"/>
         <source>Upload finished</source>
         <translation>アップロード完了</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="429"/>
         <source>Abort</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="423"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="464"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>Screenshots upload aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="423"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="464"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>The task has been aborted by the user.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="437"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;アップロードされたスクリーンショットのリンク&lt;/a&gt;がクリップボードに保存されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="498"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;アップロードされたアルバムのリンク&lt;/a&gt;がクリップボードに保存されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="528"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="546"/>
         <source>You are about to delete %1 screenshots.
 This may be permanent and they will be gone from the folder.
 
@@ -12735,7 +12740,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="533"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="552"/>
         <source>You are about to delete the selected screenshot.
 This may be permanent and it will be gone from the folder.
 
@@ -12743,7 +12748,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="539"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="558"/>
         <source>Confirm Deletion</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13491,7 +13496,7 @@ Are you sure?</source>
 <context>
     <name>Task</name>
     <message>
-        <location filename="src/launcher/tasks/Task.cpp" line="134"/>
+        <location filename="src/launcher/tasks/Task.cpp" line="141"/>
         <source>Aborted</source>
         <translation type="unfinished"></translation>
     </message>

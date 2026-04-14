@@ -27,11 +27,11 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="125"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="157"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="164"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>Use Default</source>
         <translation>Sử dụng Mặc định</translation>
     </message>
@@ -41,58 +41,63 @@
         <translation>Lưu ý: Bạn nên đổi hoặc xóa URL gốc sau khi thay đổi loại dịch vụ lưu trữ văn bản.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
+        <source>Refresh on launch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
         <translation>Tài nguyên máy chủ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
         <translation>Bạn có thể cài đặt điều này ở máy chủ khác Nếu bạn có vấn đề với việc tải tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
         <translation>Máy chủ thư viện FML cũ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
         <translation>Bạn có thể thiết lập máy chủ khác nếu gặp sự cố khi tải xuống các thư viện FML cũ ( Minecraft 1.5.2 trở xuống).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
         <translation>&amp;Khóa API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="233"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
         <translation>&amp;Xác thực qua Microsoft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="288"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
         <source>Mod&amp;rinth</source>
         <translation>Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="310"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>Use None</source>
         <translation>Không sử dụng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="346"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
         <source>&amp;CurseForge</source>
         <translation>CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="385"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
         <translation>Bật chế độ dự phòng sang Modrinth cho các mod bị chặn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
         <source>&amp;Technic</source>
         <translation>Technic</translation>
     </message>
@@ -101,7 +106,7 @@
         <translation type="vanished">Khoá API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>Lưu ý: Bạn có thể không cần đặt cái này nếu việc đăng nhập qua Microsoft hoạt động bình thường.</translation>
     </message>
@@ -136,7 +141,7 @@
         <translation type="vanished">Client ID của Technic</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lưu ý: bạn chỉ cần đặt nếu bạn muốn truy cập những thông tin riêng tư&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -149,12 +154,12 @@
         <translation type="vanished">Khác</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
         <translation>Tác nhân người dùng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
         <translation>Nhập Tác nhân người dùng tùy chỉnh tại đây. Chuỗi đặc biệt $LAUNCHER_VER sẽ được thay thế bằng phiên bản của trình khởi chạy.</translation>
     </message>
@@ -178,7 +183,7 @@
         <translation type="vanished">Điền một URL tùy chỉnh cho máy chủ metadata ở đây.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ghi chú: bạn chỉ cần cài đặt này để truy cập dữ liệu riêng tư. Đọc &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;tài liệu&lt;/a&gt; này để biết thêm thông tin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -187,7 +192,7 @@
         <translation type="vanished">&amp;CurseForge Core API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation>Lưu ý: Bạn không cần đổi cái này nếu CurseForge hoạt động bình thường.</translation>
     </message>
@@ -957,12 +962,12 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <translation>Không thể hiển thị văn bản nhật ký này khi độ dài nhật ký vượt quá %1 dòng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="905"/>
+        <location filename="src/launcher/Application.cpp" line="906"/>
         <source>Settings</source>
         <translation>Cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1067"/>
+        <location filename="src/launcher/Application.cpp" line="1068"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -989,12 +994,12 @@ Kiểm tra tệp log cho việc cập nhật Prism Launcher ở:
 Để xóa bỏ khóa này và tiếp tục hãy chọn nút &quot;Bỏ Mặc&quot; ở dưới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1084"/>
+        <location filename="src/launcher/Application.cpp" line="1085"/>
         <source>Update In Progress</source>
         <translation>Đang cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1108"/>
+        <location filename="src/launcher/Application.cpp" line="1109"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -1009,12 +1014,12 @@ Kiểm tra tệp log để cập nhật Prism Launcher ở:
 để hiểu thêm về lượt thử cập nhật cuối.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1116"/>
+        <location filename="src/launcher/Application.cpp" line="1117"/>
         <source>Update Failed</source>
         <translation>Cập nhật thất bại</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1140"/>
+        <location filename="src/launcher/Application.cpp" line="1141"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1035,12 +1040,12 @@ Kiểm tra tệp log để cập nhật Prism Launcher ở:
 để biết thêm.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1148"/>
+        <location filename="src/launcher/Application.cpp" line="1149"/>
         <source>Update Succeeded</source>
         <translation>Cập nhật thành công</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1180"/>
+        <location filename="src/launcher/Application.cpp" line="1181"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1061,7 +1066,7 @@ Một số phiên bản Minecraft có thể không khởi động.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1186"/>
+        <location filename="src/launcher/Application.cpp" line="1187"/>
         <source>Incompatible system configuration</source>
         <translation>Cấu hình hệ thống của bạn không tương thích</translation>
     </message>
@@ -1070,22 +1075,22 @@ Một số phiên bản Minecraft có thể không khởi động.
         <translation type="vanished">Bị gián đoạn</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1939"/>
+        <location filename="src/launcher/Application.cpp" line="1940"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Dữ liệu cũ từ %1 đã được tìm thấy, nhưng bạn đã có dữ liệu cho %2. Thật buồn khi bạn sẽ phải di chuyển dữ liệu của mình đi. Bạn có muốn được nhắc nhở về việc di chuyển dữ liệu đang chờ xử lý khi bạn bắt đầu % 2 ở lần kế tiếp không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1943"/>
+        <location filename="src/launcher/Application.cpp" line="1944"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Hình như bạn đã dùng %1 trước đây. Bạn có muốn di chuyển dữ liệu của bạn sang vị trí mới ở %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1949"/>
+        <location filename="src/launcher/Application.cpp" line="1950"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Hình như bạn đã dùng %1 trên %2 trước đây. Bạn có muốn di chuyển dữ liệu sang vị trí mới ở %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1995"/>
+        <location filename="src/launcher/Application.cpp" line="1996"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Di chuyển không thành công! Lí do: %1</translation>
     </message>
@@ -5318,7 +5323,7 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="158"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="159"/>
         <source>Detecting Java installations...</source>
         <translation>Đang nhận diện trình cài đặt Java...</translation>
     </message>
@@ -8938,7 +8943,7 @@ Hãy đảm bảo rằng bạn tin tưởng cái URL
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="122"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="124"/>
         <source>Loading local file</source>
         <translation>Đang tải tệp cục bộ</translation>
     </message>
@@ -8946,12 +8951,12 @@ Hãy đảm bảo rằng bạn tin tưởng cái URL
 <context>
     <name>Meta::Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <location filename="src/launcher/meta/Index.cpp" line="72"/>
         <source>Name</source>
         <translation>Tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="144"/>
+        <location filename="src/launcher/meta/Index.cpp" line="145"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation>Tải meta cho %1:%2</translation>
@@ -12981,7 +12986,7 @@ Thông báo này sẽ tiếp tục hiển thị cho đến khi bạn gỡ bỏ n
         <translation>Không thể tìm thấy thư viện của trình kiểm tra Java. Vui lòng kiểm tra cài đặt của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="156"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="158"/>
         <source>Download of meta file %1</source>
         <translation>Tải xuống tệp meta %1</translation>
     </message>
@@ -14639,12 +14644,12 @@ Bạn có chắc?</translation>
         <translation>Ảnh chụp màn hình</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="338"/>
         <source>Context menu</source>
         <translation>Danh mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="406"/>
         <source>You are about to upload %1 screenshots to %2.
 You should double-check for personal information.
 
@@ -14655,7 +14660,7 @@ Bạn nên kiểm tra lại phần thông tin cá nhận.
 Bạn có chắc không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="411"/>
         <source>You are about to upload the selected screenshot to %1.
 You should double-check for personal information.
 
@@ -14666,52 +14671,52 @@ Bạn nên kiểm tra lại phần thông tin cá nhân.
 Bạn có chắc không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="420"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="472"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="438"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="479"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
         <source>Failed to upload screenshots!</source>
         <translation>Không thể tải ảnh chụp màn hình!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="472"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
         <source>Unknown error</source>
         <translation>Lỗi không xác định</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="436"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="479"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="497"/>
         <source>Upload finished</source>
         <translation>Tải lên hoàn tất</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="429"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="423"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="464"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>Screenshots upload aborted</source>
         <translation>Đã hủy tải lên ảnh chụp màn hình</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="423"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="464"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>The task has been aborted by the user.</source>
         <translation>Tác vụ đã bị huỷ bởi người dùng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="437"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Liên kết đến ảnh chụp màn hình được tải lên&lt;/a&gt; đã được đặt trong khay nhớ tạm của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="498"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Liên kết đến album được tải lên&lt;/a&gt; đã được đặt trong khay nhớ tạm của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="528"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="546"/>
         <source>You are about to delete %1 screenshots.
 This may be permanent and they will be gone from the folder.
 
@@ -14722,7 +14727,7 @@ Nó chắc chắn sẽ biến mất vĩnh viễn.
 Bạn chắc chứ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="533"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="552"/>
         <source>You are about to delete the selected screenshot.
 This may be permanent and it will be gone from the folder.
 
@@ -14733,7 +14738,7 @@ Nó chắc chắn sẽ biến mất vĩnh viễn.
 Bạn chắc chứ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="539"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="558"/>
         <source>Confirm Deletion</source>
         <translation>Xác nhận xóa</translation>
     </message>
@@ -15503,7 +15508,7 @@ Bạn có chắc?</translation>
 <context>
     <name>Task</name>
     <message>
-        <location filename="src/launcher/tasks/Task.cpp" line="134"/>
+        <location filename="src/launcher/tasks/Task.cpp" line="141"/>
         <source>Aborted</source>
         <translation>Đã hủy</translation>
     </message>
