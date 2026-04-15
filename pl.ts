@@ -197,7 +197,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Uwaga: Musisz to ustawić tylko jeśli chcesz uzyskać dostęp do prywatnych danych. Przeczytaj &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentacje &lt;/a&gt; by dowiedzieć się więcej. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Uwaga: wystarczy ustawić to tylko w celu uzyskania dostępu do danych prywatnych. Przeczytaj &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentację&lt;/a&gt;, aby uzyskać więcej informacji.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -2168,7 +2168,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Komenda poprzedzająca uruchomienie startuje przed włączeniem instancji, a komenda następująca po zamknięciu działa po jej zakończeniu.&lt;/p&gt;&lt;p&gt;Obie zostaną uruchomione z poziomu folderu roboczego launchera z dodatkowymi zmiennymi środowiskowymi:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nazwa instancji&lt;/li&gt;&lt;li&gt;$INST_ID - ID instancji (jej nazwa folderu)&lt;/li&gt;&lt;li&gt;$INST_DIR - ścieżka absolutna instancji&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - ścieżka absolutna Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - plik binarny Java używany do startu&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parametry wiersza poleceń używane do uruchomienia&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Polecenie wrappera pozwala na uruchamianie przy użyciu dodatkowego wrappera (jak &apos;optirun&apos; na Linuksie)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Komenda poprzedzająca uruchomienie startuje przed włączeniem instancji, a komenda następująca po zamknięciu działa po jej zakończeniu.&lt;/p&gt;&lt;p&gt;Obie zostaną uruchomione z poziomu folderu roboczego launchera z dodatkowymi zmiennymi środowiskowymi:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nazwa instancji&lt;/li&gt;&lt;li&gt;$INST_ID - ID instancji (jej nazwa folderu)&lt;/li&gt;&lt;li&gt;$INST_DIR - ścieżka absolutna instancji&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - ścieżka absolutna Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - plik binarny Java używany do startu&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parametry wiersza poleceń używane do uruchomienia(ostrzeżenie: nie będzie działać poprawnie, jeśli argumenty zawierają spacje)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Polecenie wrappera pozwala na uruchamianie przy użyciu dodatkowego wrappera (jak &apos;optirun&apos; na Linuksie)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -6374,7 +6374,7 @@ Czy chcesz zagrać w demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation>&apos;%1&apos; wygasł i musi być reautoryzowany</translation>
+        <translation>&apos;%1&apos; wygasł i wymaga ponownego uwierzytelnienia</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
@@ -6384,7 +6384,7 @@ Czy chcesz zagrać w demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="201"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation>&quot;%1&quot; nie istnieje już na serwerach</translation>
+        <translation>&apos;%1&apos; nie istnieje już na serwerach</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
@@ -6405,19 +6405,19 @@ Musisz kupić grę, by zagrać w pełną wersję.</translation>
 Do you want to play the demo?</source>
         <translation>
 
-Czy chcesz zagrać w wersję demonstracyjną?</translation>
+Czy chcesz zagrać w demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Choose your demo mode player name</source>
-        <translation>Wybierz nazwę swojej postaci w wersji demo</translation>
+        <translation>Wybierz swoją nazwę gracza dla trybu demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Nie masz połączenia z internetem, uruchamianie gry w trybie offline.
+        <translation>Nie masz połączenia z internetem, uruchamianie w trybie offline.
 
 </translation>
     </message>
@@ -6429,7 +6429,7 @@ Czy chcesz zagrać w wersję demonstracyjną?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="300"/>
         <source>No account selected for launch</source>
-        <translation>Nie wybrano konta do uruchomienia gry.</translation>
+        <translation>Nie wybrano konta do uruchomienia gry</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -6493,7 +6493,7 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
         <source>Got Minecraft access token</source>
-        <translation>Pobrano token dostępu Minecraft</translation>
+        <translation>Uzyskano token dostępu do Minecraft</translation>
     </message>
 </context>
 <context>
@@ -6606,7 +6606,7 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation>Automatyczne pobieranie Javy</translation>
+        <translation>&amp;Automatyczne pobieranie Javy:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
@@ -7771,7 +7771,7 @@ Powód:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="277"/>
         <source>Got MSA token</source>
-        <translation>Pobrano token MSA</translation>
+        <translation>Uzyskano token MSA</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7862,7 +7862,7 @@ Powód:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="148"/>
         <source>Got MSA token</source>
-        <translation>Pobrano token MSA</translation>
+        <translation>Uzyskano token MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
@@ -9014,7 +9014,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1079"/>
         <source>Install modpack</source>
-        <translation>Zainstaluj paczkę modyfikacji.</translation>
+        <translation>Zainstaluj paczkę modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1080"/>
@@ -9762,7 +9762,7 @@ Upewnij się też że ufasz adresowi URL
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <source>Got Minecraft profile</source>
-        <translation>Pobrano profil Minecraft</translation>
+        <translation>Uzyskano profil Minecraft</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -9853,7 +9853,7 @@ Upewnij się też że ufasz adresowi URL
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Ostrzeżenie&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Opcja maksymalizacji może nie być w pełni wspierana dla obecnej wersji Minecrafta&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Ostrzeżenie&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Opcja maksymalizacji może nie być w pełni wspierana dla obecnej wersji Minecrafta.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -11893,7 +11893,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="14"/>
         <source>Network error</source>
-        <translation>Bład sieci</translation>
+        <translation>Błąd sieci</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="29"/>
@@ -13752,7 +13752,7 @@ Ten komunikat będzie wyświetlany, dopóki nie usuniesz tego argumentu JVM.</tr
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation>Określone pliki binarne Javy nie zadziałały. &lt;br /&gt; Wciśnij &quot;Wykryj&quot;, lub ustal ścieżkę dla pliku wykonawczego Java.&lt;br /&gt;</translation>
+        <translation>Określone pliki binarne Javy nie zadziałały.&lt;br /&gt;Wciśnij &quot;Wykryj&quot;, lub ustal ścieżkę dla pliku wykonawczego Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
