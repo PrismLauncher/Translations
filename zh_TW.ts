@@ -2553,7 +2553,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>系統記憶體將會不足。
+這可能會導致系統卡頓或運作緩慢。
+如果可以，請先關閉其他應用程式再繼續。
+
+仍然啟動？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2562,7 +2566,11 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>您的系統記憶體嚴重不足。
+這可能會導致系統運作速度嚴重變慢、崩潰或不穩定。
+建議您關閉其他應用程式或重新啟動系統。
+
+仍然啟動？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
