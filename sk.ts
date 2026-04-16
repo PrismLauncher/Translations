@@ -70,7 +70,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>&amp;Overenie Microsoft</translation>
+        <translation>&amp;Overenie Microsoft účtu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished">Povoliť prechod na Modrinth v prípade zablokovaných módov</translation>
+        <translation>Povoliť prechod na Modrinth v prípade zablokovaných módov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -139,7 +139,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;POZOR: Toto potrebuješ nastaviť len na prístup k súkromným údajom.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Poznámka: Toto potrebuješ nastaviť len na prístup k súkromným údajom.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -152,7 +152,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
-        <translation>User Agent</translation>
+        <translation>Agent Používateľa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
@@ -663,12 +663,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Posunúť &amp;Hore</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Posunúť &amp;Dole</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -2525,7 +2525,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>System je pod zvýšeným zaťažením pamäte.
+Toto môže viesť k lagom alebo spomaleniam.
+Ak je možné, zatvorte ostatné aplikácie pred pokračovaním.
+
+Spustiť aj tak?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2534,22 +2538,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Váš system je pod kritickým zaťažením pamäte.
+Toto môže viesť k rôznym spomaleniam, spadnutiam alebo systemovým nestabilitám.
+Odporúča sa zavrieť ostatné aplikácie alebo reštartovať váš system.
+
+Spustiť aj tak?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Vysoké zaťaženie pamäte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>System má nedostatok pamäte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Nízka voľná pamäť</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -3547,7 +3555,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnuť mód</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
@@ -4570,7 +4578,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="102"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Nepodarilo sa stiahnuť súbory hry: %1</translation>
+        <translation>Nepodarilo sa stiahnuť súbory hry: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="106"/>
@@ -5191,7 +5199,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -6137,7 +6145,7 @@ Chcete si zahrať demo?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished">Tento účet nevlastní hru Minecraft.
+        <translation>Tento účet nevlastní hru Minecraft.
 Aby ste mohli hrať plnú verziu, musíte si hru najskôr zakúpiť.</translation>
     </message>
     <message>
@@ -6171,12 +6179,12 @@ Chcete hrať demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished">Vyberte si meno hráča v režime offline</translation>
+        <translation>Vyberte si meno hráča v režime offline</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="300"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished">Na spustenie nebol vybraný žiadny účet</translation>
+        <translation>Na spustenie nebol vybraný žiadny účet</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -6343,12 +6351,12 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished">&amp;Automatické stiahnutie Javy:</translation>
+        <translation>&amp;Automatické stiahnutie Javy:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished">Priečinok, do ktorého Prism Launcher automaticky ukladá stiahnuté verzie Javy. NENASTAVUJTE sem inštaláciu Javy vo vašom systéme.</translation>
+        <translation>Priečinok, do ktorého Prism Launcher automaticky ukladá stiahnuté verzie Javy. NENASTAVUJTE sem inštaláciu Javy vo vašom systéme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
@@ -6363,12 +6371,12 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished">V súčasnosti sa tu zobrazujú len modifikácie, ktoré nie sú označené ako kompatibilné s aktuálnou verziou Minecraftu.</translation>
+        <translation>V súčasnosti sa tu zobrazujú len modifikácie, ktoré nie sú označené ako kompatibilné s aktuálnou verziou Minecraftu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="430"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished">Detekcia a zobrazenie nekompatibilít modov (experimentálne)</translation>
+        <translation>Detekcia a zobrazenie nekompatibilít modov (experimentálne)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="465"/>
@@ -6854,12 +6862,12 @@ Odporúča sa udeliť %1 prístup k nemu prostredníctvom Flatsealu.</translatio
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Zlyhalo vytvorenie adresára pre FML knižnicu v inštancii.</translation>
+        <translation>Vytvorenie adresára pre FML knižnicu v inštancii zlyhalo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Zlyhalo kopírovanie Forge/FML knižnice: %1.</translation>
+        <translation>Kopírovanie Forge/FML knižnice zlyhalo: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6868,7 +6876,7 @@ Odporúča sa udeliť %1 prístup k nemu prostredníctvom Flatsealu.</translatio
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Zlyhalo sťahovanie týchto súborov:
+        <translation>Sťahovanie týchto súborov zlyhalo:
 %1
 
 Dôvod:%2
@@ -7427,7 +7435,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="156"/>
         <source>Task aborted</source>
-        <translation>Úloha zrušená</translation>
+        <translation>Úloha prerušená</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="262"/>
@@ -7699,7 +7707,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="259"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>To je chlpatá mačička :3</translation>
+        <translation>To je huňatá mačička :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -8317,7 +8325,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Úloha bola zastavená použivateľom.</translation>
+        <translation>Úloha bola prerušená použivateľom.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
@@ -8750,7 +8758,7 @@ Môže byť aktualizovaný iba pomocou súboru vo formáte %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="219"/>
         <source>Abort</source>
-        <translation>Zrušiť</translation>
+        <translation>Prerušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="148"/>
@@ -8871,7 +8879,7 @@ Taktiež buďte istý, že adrese URL dôverujete.
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="123"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="138"/>
         <source>Aborted</source>
-        <translation>Zrušené</translation>
+        <translation>Prerušené</translation>
     </message>
 </context>
 <context>
@@ -9815,7 +9823,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Requires</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrebuje</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -9975,23 +9983,27 @@ Ich ignorovanie môže rozbiť hru.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Confirm disable</source>
-        <translation type="unfinished">Potvrdiť vypnutie</translation>
+        <translation>Potvrdiť vypnutie</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Deaktivovaný mód je vyžadovaný módom %n
+</numerusform>
+            <numerusform>Deaktivované módy sú vyžadované módmi %n
+</numerusform>
+            <numerusform>Deaktivované módy sú vyžadované módmi %n
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chceli by ste ich deaktivovať taktiež?
+Ignorovanie môže zníčiť hru.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="446"/>
@@ -10001,7 +10013,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Disable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivovanie Potrebné</translation>
     </message>
 </context>
 <context>
@@ -10117,13 +10129,13 @@ Ste si istí, že to chcete spraviť?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="144"/>
         <source>Confirm Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdte Deaktivovanie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation type="unfinished">Modifikácie, ktoré sa snažíte odstrániť, sú potrebné pre %1 modifikácií.
+        <translation>Modifikácie, ktoré sa snažíte odstrániť, sú potrebné pre %1 modifikácií.
 Chcete ich deaktivovať?</translation>
     </message>
     <message>
@@ -10390,12 +10402,12 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Nebola nájdená žiadna platná verzia pre tento zdroj. Je pravdepodobne nedostupný pre túto verziu hry / mod loader.</translation>
+        <translation>Nebola nájdená žiadna platná verzia pre tento zdroj. Je pravdepodobne nedostupný pre túto verziu hry / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Nebola nájdená žiadna platná verzia pre tento zdroj. Je pravdepodobne nedostupný pre túto verziu hry.</translation>
+        <translation>Nebola nájdená žiadna platná verzia pre tento zdroj. Je pravdepodobne nedostupný pre túto verziu hry.</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -10422,13 +10434,13 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Nemôžeme nájsť vhodný indexový súbor pre staršiu verziu. To môže spôsobiť aby niektoré súbory boli duplikované. Chcete pokračovať?</translation>
+        <translation>Nemôžeme nájsť vhodný indexový súbor pre staršiu verziu. To môže spôsobiť aby niektoré súbory boli duplikované. Chcete pokračovať?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="181"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Nepodarilo sa premenovať priečinok:
+        <translation>Nepodarilo sa premenovať priečinok:
 </translation>
     </message>
     <message>
@@ -10637,7 +10649,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
         <source> by </source>
-        <translation type="unfinished"> od </translation>
+        <translation> od </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
@@ -10725,7 +10737,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="145"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Vykonávanie %1 úloh(y) (%2 z %3 hotovo)</translation>
+        <translation>Vykonávanie %1 úloh(y) (%2 z %3 hotovo)</translation>
     </message>
 </context>
 <context>
@@ -10733,7 +10745,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="14"/>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba siete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="29"/>
@@ -10743,37 +10755,37 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="65"/>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
         <source>What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Čo by ste chceli spraviť?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="34"/>
         <source>All %1 requests have failed after %2 attempts</source>
-        <translation type="unfinished">Všetkých %1 zlyhalo po %2 pokusoch</translation>
+        <translation>Všetkých %1 zlyhalo po %2 pokusoch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="37"/>
         <source>Out of %1 requests, %2 have failed after %3 attempts</source>
-        <translation type="unfinished">Z %1 požiadaviek %2 zlyhalo po %3 pokusoch</translation>
+        <translation>Z %1 požiadaviek %2 zlyhalo po %3 pokusoch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="40"/>
         <source>Out of %1 requests, only %2 succeeded after %3 attempts</source>
-        <translation type="unfinished">Z %1 požiadaviek bolo úspešných %2 po %3 pokusoch</translation>
+        <translation>Z %1 požiadaviek bolo úspešných %2 po %3 pokusoch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
-        <translation type="unfinished">Skopírovať URL</translation>
+        <translation>Skopírovať URL</translation>
     </message>
 </context>
 <context>
@@ -10796,7 +10808,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
@@ -10835,7 +10847,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="120"/>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="126"/>
@@ -10975,12 +10987,12 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10997,7 +11009,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Presunúť na spodok</translation>
+        <translation>Presunúť na spodok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
@@ -11037,7 +11049,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
         <source>Color lines</source>
-        <translation type="unfinished">Farebné čiary</translation>
+        <translation>Farebné riadky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
@@ -11074,12 +11086,12 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished">Hľadať</translation>
+        <translation>Hľadať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="484"/>
         <source>Clear the log</source>
-        <translation type="unfinished">Vyčistiť log</translation>
+        <translation>Vyčistiť log</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11110,12 +11122,12 @@ Prosím aktualizujte %1!</translation>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="307"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Nemôžem zobraziť tento log od kedy dĺžka logu prekročila 1% riadku.</translation>
+        <translation>Nemôžem zobraziť tento log od kedy dĺžka logu prekročila 1% riadku.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>Current logs</source>
-        <translation type="unfinished">Aktuálne protokoly</translation>
+        <translation>Aktuálne logy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -11146,7 +11158,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="381"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Potvrdiť odstránenie</translation>
+        <translation>Potvrdiť odstránenie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
@@ -11179,7 +11191,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="483"/>
         <source>Clear</source>
-        <translation type="unfinished">Vyčistiť</translation>
+        <translation>Vyčistiť</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -11269,7 +11281,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulár</translation>
+        <translation>Formulár</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
@@ -11363,25 +11375,27 @@ Ste si istí?</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="132"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="153"/>
         <source>Update Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola aktualizácie zlýhala</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="133"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa spustiť po 5 sekundách
+Dôvod: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="154"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktualizovač zlyhal pri zatvorení 60 sekúnd
+Dôvod: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="179"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenašla sa žiadna aktualizácia</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="179"/>
@@ -11391,17 +11405,17 @@ Reason: %1.</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="190"/>
         <source>Update Check Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba kontroly aktualizácie</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="191"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastala chyba pri kontrolovaní aktualizácie.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="218"/>
         <source>Unknown Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznáma Chyba Aktualizácie</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="219"/>
@@ -11427,7 +11441,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="89"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished">Použite vlastnú cestu ako root aplikácie (použite &quot;.&quot; pre tento adresár).</translation>
+        <translation>Použite vlastnú cestu ako root aplikácie (použite &quot;.&quot; pre tento adresár).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="89"/>
@@ -11487,7 +11501,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="101"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished">Vyberte verziu pre inštalovanie s GUI.</translation>
+        <translation>Vyberte verziu pre inštalovanie s GUI.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
