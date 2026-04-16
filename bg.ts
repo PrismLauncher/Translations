@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Забележка: Вероятно ще искате да промените или изчистите базовия URL, след като промените типа на пейстбин услугата.</translation>
+        <translation>Забележка: най-вероятно ще желаете да смените или изчистите базовият URL след промяната на типа на услугата за поставяне.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
