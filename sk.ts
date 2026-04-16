@@ -3591,7 +3591,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished">Poznámka: Mnohé novšie FTB modpacky sú dostupné aj na CurseForge! Tiež, ak sa tvoje FTB inštancie nenachádzajú v predvolenom umiestnení, vyber ich pomocou tlačidla vedľa vyhľadávania.</translation>
+        <translation>Poznámka: Mnohé novšie FTB modpacky sú dostupné aj na CurseForge! Tiež, ak sa tvoje FTB inštancie nenachádzajú v predvolenom umiestnení, vyber ich pomocou tlačidla vedľa vyhľadávania.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
