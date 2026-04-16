@@ -54,12 +54,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Staršia verzia serveru FML knižníc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Toto môžete nastaviť na iný server, ak máte problémy so sťahovaním starších verzií FML knižníc (Minecraft 1.5.2 a skoršie).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -10185,7 +10185,7 @@ Ste si istí, že to chcete spraviť?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished">Aktualizovač módov bol prerušený!</translation>
+        <translation>Aktualizovanie módov bolo prerušené!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
