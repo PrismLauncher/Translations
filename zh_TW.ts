@@ -47,7 +47,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>啟動時自動更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -189,7 +189,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：您只需要在存取私人資料時才需要設定此設定。請參閱&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;文件&lt;/a&gt;以取得更多資訊。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：您只需設定此項目即可存取私有資料。請閱讀&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;文件&lt;/a&gt;以了解更多資訊。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -2152,7 +2152,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;預啟動指令會在實例啟動前執行，而結束後指令則會在其結束後執行。&lt;/p&gt;&lt;p&gt;此兩者會在啟動器的工作目錄中執行並附加額外的環境變數：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME──實例的名稱&lt;/li&gt;&lt;li&gt;$INST_ID──實例的 ID（其資料夾名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR──實例的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_MC_DIR──Minecraft 的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA──啟動所用的 Java 執行檔&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS──啟動所用的命令列引數&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝指令允許啟動時使用額外的包裝程式（如 Linux 中的「optirun」）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;啟動前指令在實例啟動前執行，退出後指令在實例退出後執行。 &lt;/p&gt;&lt;p&gt;這兩個命令都會在啟動器的工作資料夾中運行，並帶有額外的環境變數：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 實例名稱&lt;/li&gt;&lt;li&gt;$INST_ID - 實例 ID（即其資料夾名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR - 實例的絕對路徑&lt;/li&gt;的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA - 用於啟動的 Java 二進位檔案&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 用於啟動的命令列參數（警告：如果參數包含空格，則無法正常工作）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝器命令允許使用額外的包裝程式（例如 Linux 上的「optirun」）啟動。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2567,17 +2567,17 @@ Launch anyway?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>記憶體不足</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>系統記憶體不足</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>可用記憶體不足</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2587,7 +2587,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>當前記憶體設定可能不無法足以啟動此實例。
+
+最大分配記憶體：1 MiB
+
+可用記憶體：2 MiB（總計 3 MiB）
+繼續然啟動？這可能會導致遊戲和系統運作緩慢。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -2639,7 +2644,8 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+由於缺少某些程式庫或庫尚未下載，因此無法啟動此實例，請使用可用網路並重試</translation>
     </message>
 </context>
 <context>
@@ -3392,7 +3398,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation>JProfiler(&amp;P)</translation>
+        <translation>JProfiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
@@ -5852,7 +5858,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>記憶體不足時發出警告</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
