@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovení při spuštění</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -2548,7 +2548,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Váš systém čelí zvýšenému nedostatku paměti.
+To může vést k zásekům nebo zpomalení.
+Před pokračováním doporučujeme zavřít ostatní aplikace.
+
+Chcete přesto hru spustit?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2557,22 +2561,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Váš systém čelí kritickému nedostatku paměti.
+To může vést k výraznému zpomalení, pádům nebo nestabilitě systému.
+Před pokračováním doporučujeme zavřít ostatní aplikace nebo restartovat váš systém.
+
+Chcete přesto hru spustit?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvýšený nedostatek paměti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Váš systém čelí vysokému nedostatku paměti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Málo volné paměti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2582,7 +2590,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro spuštění této instance s aktuálním nastavením paměti nemusí být k dispozici dostatek paměti RAM.
+
+Maximální přidělená: %1 MiB
+Volná: %2 MiB (z celkových %3 MiB)
+
+Chcete hru přesto spustit? Můžete se setkat se zpomalením vaší hry a vašeho systému.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
