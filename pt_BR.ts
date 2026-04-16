@@ -700,7 +700,7 @@ Se você é novo aqui, pode selecionar os botões “Adicionar Microsoft” ou �
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Bem-vindo!
-Se você é novo aqui, pode selecionar o botão “Adicionar Microsoft” para vincular sua conta da Microsoft.</translation>
+Se você é novo aqui, pode selecionar o botão “Adicionar conta Microsoft” para vincular sua conta da Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
@@ -2569,7 +2569,10 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>O sistema está sob pressão de memória.
+Isso pode causar lags ou reduzir a velocidade.
+Se possível, feche outros aplicativos antes de continuar.
+Iniciar mesmo assim?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2593,7 +2596,7 @@ Launch anyway?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Memória livre baixa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2603,7 +2606,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pode não haver RAM livre suficiente para iniciar esta instância com as configurações de memória atuais.
+
+Máximo alocado: %1 MiB
+Gratuito: %2 MiB (em %3 MiB total)
+
+Lançar mesmo assim? Isso pode causar lentidões no jogo e seu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -5874,7 +5882,7 @@ Você pode alterar a versão do Java nas configurações posteriormente.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>Avise quando não houver memória suficiente disponível</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
