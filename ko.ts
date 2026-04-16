@@ -51,7 +51,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>실행 시 새로 고침</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -2557,7 +2557,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템의 메모리 부하가 증가하고 있습니다.
+이로 인해 지연이나 속도 저하가 발생할 수 있습니다.
+가능하다면 계속하기 전에 다른 애플리케이션을 닫으십시오.
+
+그래도 실행하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2566,22 +2570,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템의 메모리 사용량이 매우 높습니다.
+이로 인해 시스템이 극도로 느려지거나, 충돌이 발생하거나, 불안정해질 수 있습니다.
+다른 응용 프로그램을 닫거나 시스템을 다시 시작하는 것이 좋습니다.
+
+그래도 실행하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>메모리 부족</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템의 메모리 사용량이 매우 높음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>사용 가능한 메모리 부족</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2591,7 +2599,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>현재 메모리 설정으로는 이 인스턴스를 실행할 수 있는 여유 RAM이 충분하지 않을 수 있습니다.
+
+최대 할당량: %1 MiB
+여유 공간: %2 MiB (총 %3 MiB 중)
+
+그래도 실행하시겠습니까? 이 경우 게임 및 시스템 성능이 저하될 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
