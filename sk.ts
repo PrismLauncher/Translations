@@ -11595,7 +11595,7 @@ Aktualizátor nemôže pokračovať, kým tento problém neopravíte.</translati
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="529"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="536"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Inštalácia z 1 %</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="541"/>
