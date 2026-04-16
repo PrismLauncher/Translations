@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Athnuachan ar an seoladh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -2236,7 +2236,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá brú méadaithe cuimhne ar an gcóras.
+D’fhéadfadh sé seo moill nó moilliú a bheith mar thoradh air.
+Más féidir, dún feidhmchláir eile sula leanann tú ar aghaidh.
+
+Lainseáil ar aon nós?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2245,22 +2249,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá brú criticiúil cuimhne ar do chóras.
+D’fhéadfadh sé seo moilliú tromchúiseach, tuairteanna nó éagobhsaíocht chórais a bheith mar thoradh air.
+Moltar feidhmchláir eile a dhúnadh nó do chóras a atosú.
+
+Lainseáil ar aon nós?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Brú ardchuimhne</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá brú ard cuimhne ar an gcóras</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuimhne saor íseal</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2270,7 +2278,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>B’fhéidir nach bhfuil dóthain RAM saor in aisce ann chun an t-eiseamláir seo a sheoladh leis na socruithe cuimhne reatha.
+
+Uasmhéid leithdháilte: %1 MiB
+Saor in aisce: %2 MiB (as %3 MiB san iomlán)
+
+Lainseáil ar aon nós? D’fhéadfadh sé seo moilliú sa chluiche agus i do chóras a chur faoi deara.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
