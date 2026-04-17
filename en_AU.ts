@@ -11100,12 +11100,12 @@ Please update %1!</translation>
 <context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="119"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="124"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Failed to abort all tasks in the NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="145"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="150"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Executing %1 task(s) (%2 out of %3 are done)</translation>
     </message>
@@ -12510,7 +12510,7 @@ You will have to repair %1 manually.
 Please let us know why and how this happened.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="158"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="160"/>
         <source>Download of meta file %1</source>
         <translation>Download of meta file %1</translation>
     </message>

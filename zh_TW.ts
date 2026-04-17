@@ -11845,12 +11845,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="119"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="124"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>未能停止所有 NetJob 的任務！</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="145"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="150"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>正在執行 %1 項任務（已完成 %2 項，共 %3 項）</translation>
     </message>
@@ -13716,7 +13716,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>找不到 Java 檢查程式庫。請檢查您的安裝。</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="158"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="160"/>
         <source>Download of meta file %1</source>
         <translation>下載更新檔案 %1</translation>
     </message>

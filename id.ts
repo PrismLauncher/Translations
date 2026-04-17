@@ -11188,12 +11188,12 @@ Mohon perbarui %1!</translation>
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="119"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="124"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Gagal menghentikan semua tugas dalam NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="145"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="150"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Menjalankan %1 tugas (%2 dari %3 selesai)</translation>
     </message>
@@ -13019,7 +13019,7 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
         <translation>Pemeriksa Pustaka java tidak dapat ditemukan. Mohon cek instalasi Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="158"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="160"/>
         <source>Download of meta file %1</source>
         <translation>Mengunduh meta file %1</translation>
     </message>

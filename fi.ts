@@ -10967,12 +10967,12 @@ Päivitä %1!</translation>
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="119"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="124"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Ei voitu peruuttaa kaikki tehtäviä NetJob:issa!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="145"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="150"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Suoritetaan %1-tehtävä(ä) (%2/%3 suoritettu)</translation>
     </message>
@@ -12781,7 +12781,7 @@ Tämä viesti näytetään kunnes poistat tämän JVM-argumenteista.</translatio
         <translation>Java-tarkistuskirjastoa ei löytynyt. Tarkista asennuksesi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="158"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="160"/>
         <source>Download of meta file %1</source>
         <translation>Metatiedoston %1 lataus</translation>
     </message>

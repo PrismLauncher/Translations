@@ -9578,12 +9578,12 @@ Please update %1!</source>
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="119"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="124"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="145"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="150"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation type="unfinished">Изпълнява се задача(и) %1 (%2 от %3 са изпълнени)</translation>
     </message>
@@ -11148,7 +11148,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation type="unfinished">Не беше намерена библиотека за проверка на Java. Моля, проверете инсталацията си.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="158"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="160"/>
         <source>Download of meta file %1</source>
         <translation type="unfinished"></translation>
     </message>

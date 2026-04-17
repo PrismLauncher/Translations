@@ -11068,12 +11068,12 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
 <context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="119"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="124"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Kunne ikke afbryde alle opgaver i NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="145"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="150"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Udfører %1 opgave(r) (%2 ud af %3 er udført)</translation>
     </message>
@@ -12812,7 +12812,7 @@ Denne meddelelse vil blive vist indtil du fjerner denne fra JVM argumenterne.</t
         <translation>Java checker-bibliotek kunne ikke findes. Kontroller venligst din installation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="158"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="160"/>
         <source>Download of meta file %1</source>
         <translation>Hentning af metafil %1</translation>
     </message>
