@@ -43,12 +43,12 @@
             "untranslated" : 1069
         },
         "bg" : {
-            "file" : "99a3d8ca192a774149e92b331692ed14562e7f2b.class",
-            "sha1" : "99a3d8ca192a774149e92b331692ed14562e7f2b",
-            "size" : 143623,
-            "translated" : 726,
+            "file" : "36f3511657639a36cc8f8de48192e2c081340617.class",
+            "sha1" : "36f3511657639a36cc8f8de48192e2c081340617",
+            "size" : 144433,
+            "translated" : 730,
             "fuzzy" : 357,
-            "untranslated" : 1240
+            "untranslated" : 1236
         },
         "bn" : {
             "file" : "bd99bfd36e85a1fcd616734085a0354317e2625a.class",
@@ -179,12 +179,12 @@
             "untranslated" : 9
         },
         "en_GB" : {
-            "file" : "3f76fc06e9ae9ca4afad704e3983ed70435866ff.class",
-            "sha1" : "3f76fc06e9ae9ca4afad704e3983ed70435866ff",
-            "size" : 323182,
-            "translated" : 2314,
+            "file" : "52219cc0b55879fa974824d1904a9dcad9f34ea9.class",
+            "sha1" : "52219cc0b55879fa974824d1904a9dcad9f34ea9",
+            "size" : 326262,
+            "translated" : 2323,
             "fuzzy" : 0,
-            "untranslated" : 9
+            "untranslated" : 0
         },
         "en_NZ" : {
             "file" : "26806623f92f9da4a58bddcd874a169b28bde0d0.class",
@@ -587,12 +587,12 @@
             "untranslated" : 7
         },
         "pt_BR" : {
-            "file" : "4ceae86fdc657b07f1a0e60c2761e0f5b286e9d5.class",
-            "sha1" : "4ceae86fdc657b07f1a0e60c2761e0f5b286e9d5",
-            "size" : 345304,
-            "translated" : 2314,
+            "file" : "f163a98b787e9aae4ec9213b29ced64941ec6cbf.class",
+            "sha1" : "f163a98b787e9aae4ec9213b29ced64941ec6cbf",
+            "size" : 346890,
+            "translated" : 2318,
             "fuzzy" : 0,
-            "untranslated" : 9
+            "untranslated" : 5
         },
         "ro" : {
             "file" : "93e5fc18205ed6d7f839a511af837b24ad74add5.class",
