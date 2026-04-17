@@ -2568,7 +2568,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>系统目前承受着较大的内存压力。
+启动游戏可能会导致系统卡顿或者运行缓慢。
+最好关闭其他应用程序再继续。
+
+仍要启动吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2577,22 +2581,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>系统目前承受着较为严重的内存压力。
+启动游戏可能会导致运行极为缓慢，出现崩溃或者系统不稳定。
+推荐关闭其他应用程序或者重启系统。
+
+仍要启动吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>内存压力较高</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>系统内存压力较高</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>可用内存较低</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2602,7 +2610,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前内存设置下，可能没有足够的可用内存能用于启动该实例。
+
+最大分配内存：%1 MiB
+可用内存：%2 MiB（总共 %3 MiB）
+
+仍要启动吗？这可能会减缓你的游戏和系统的运行速度。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
