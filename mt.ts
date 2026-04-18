@@ -2807,7 +2807,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ma stajtx nifhem il-manifest tal-pakkett:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
@@ -2984,7 +2985,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ma stajtx nifhem il-manifest tal-pakkett:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="120"/>
@@ -11805,7 +11807,8 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ma stajtx nifhem il-manifest tal-pakkett:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
