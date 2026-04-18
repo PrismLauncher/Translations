@@ -87,7 +87,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
         <source>Mod&amp;rinth</source>
-        <translation>Mod&amp;rinth</translation>
+        <translation>Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
@@ -2669,7 +2669,7 @@ Lançar mesmo assim? Isso pode causar lentidões no jogo e seu sistema.</transla
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
         <translation>
-Está instância não pode ser iniciada porque alguns arquivos estão faltando ou não tenham sido baixados ainda. Por favor tente novamente no modo online</translation>
+Essa instância não pode ser iniciada porque algumas bibliotecas estão faltando ou não foram baixadas ainda. Por favor, tente novamente no modo online com conexão de Internet funcionando</translation>
     </message>
 </context>
 <context>
