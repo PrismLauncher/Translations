@@ -2586,7 +2586,7 @@ Launch anyway?</source>
 Ceci risque de causer de sévère ralentissements, instabilités ou des fermetures inattendue.
 Il est recommandé de fermer les autres applications ou de redémarrer votre système.
 
-Poursuivre quand même?</translation>
+Poursuivre quand même&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
@@ -2596,12 +2596,12 @@ Poursuivre quand même?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>La mémoire du système est sous pression accrue</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Mémoire libre potentiellement insuffisante</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
