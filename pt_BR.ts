@@ -21,7 +21,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>&amp;Tipo de Serviço para Textos</translation>
+        <translation>Colar Serviço &amp;Type</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -51,7 +51,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Recarregar ao iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -2572,6 +2572,7 @@ Launch anyway?</source>
         <translation>O sistema está sob pressão de memória.
 Isso pode causar lags ou reduzir a velocidade.
 Se possível, feche outros aplicativos antes de continuar.
+
 Iniciar mesmo assim?</translation>
     </message>
     <message>
@@ -2581,17 +2582,21 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Seu sistema esta sob muita demanda de memória.
+Isso pode causar lentidão, interrompimentos ou instabilidades no sistema.
+É recomendado que feche os aplicativos e reinicie o sistema.
+
+Iniciar mesmo assim?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Demanda muito alta de memória</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>O sistema está com alta demanda de memória</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
@@ -2663,7 +2668,8 @@ Lançar mesmo assim? Isso pode causar lentidões no jogo e seu sistema.</transla
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Está instância não pode ser iniciada porque alguns arquivos estão faltando ou não tenham sido baixados ainda. Por favor tente novamente no modo online</translation>
     </message>
 </context>
 <context>
