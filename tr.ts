@@ -47,7 +47,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Yenileyip başlat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -2565,7 +2565,13 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemde artan bellek baskısı var.
+
+Bu durum gecikmelere veya yavaşlamalara yol açabilir.
+
+Mümkünse, devam etmeden önce diğer uygulamaları kapatın.
+
+Yine de başlatılsın mı?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2574,22 +2580,29 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemde artan bellek baskısı var.
+
+Bu durum gecikmelere veya yavaşlamalara yol açabilir.
+
+Mümkünse, devam etmeden önce diğer uygulamaları kapatın.
+
+Yine de başlatılsın mı?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüksek bellek baskısı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem yüksek bellek baskısı altında
+Not:Sistem altında oyunu veya herhangi bir uygulamayı çalıştırmanız önerilmez</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Düşük boş bellek. Lütfen oyun için daha fazla bellek ayırın</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2599,7 +2612,13 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mevcut bellek ayarlarıyla bu örneği başlatmak için yeterli boş RAM olmayabilir.
+
+Maksimum ayrılan: %1 MiB
+
+Boş: %2 MiB (toplam %3 MiB&apos;den)
+
+Yine de başlatılsın mı? Bu, oyunda ve sisteminizde yavaşlamalara neden olabilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -5391,7 +5410,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Mojang</source>
-        <translation>Mojang</translation>
+        <translation>Tembel Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
@@ -5406,7 +5425,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation>IBM Semeru Open</translation>
+        <translation>IBM Semeru aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -5428,7 +5447,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <source>Abort</source>
-        <translation>Durdur</translation>
+        <translation>İptal etmek</translation>
     </message>
 </context>
 <context>
