@@ -1698,7 +1698,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="85"/>
         <source>Loading components</source>
-        <translation>Laden von Komponenten</translation>
+        <translation>Ladekomponente</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
@@ -2604,7 +2604,7 @@ Trotzdem starten?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Das System steht unter hohem Speicherdruck</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
@@ -2619,7 +2619,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Möglicherweise ist nicht genügend Arbeitsspeicher (RAM) verfügbar, um diese Instanz mit den aktuellen Speichereinstellungen zu starten.
+
+Maximal zugewiesen: 1 MiB
+Frei: 2 MiB (von insgesamt 3 MiB)
+
+Trotzdem starten? Dies kann zu Leistungseinbußen im Spiel und auf Ihrem System führen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
