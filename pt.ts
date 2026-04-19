@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar ao iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -2533,7 +2533,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>O sistema está sobrecarregado de memória.
+Isso pode causar lag ou abrandamentos.
+Se possível, feche outras aplicações antes de continuar.
+
+Iniciar mesmo assim?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2542,22 +2546,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>O sistema está em sobrecarregemento de memória crítico.
+Isso pode causar abrandamentos severos, crashes, ou instabilidade no sistema.
+É recomendado fechar outras aplicações ou reiniciar o seu sistema.
+
+Iniciar mesmo assim?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Pressão da memória alta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>O sistema está em alta pressão de memória</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Memória livre baixa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2567,7 +2575,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pode não haver RAM suficiente para iniciar esta instância com as definições de memória atuais.
+
+Máxima alocada: %1 MiB
+Livre: %2 MiB (de %3 MiB total)
+
+Iniciar mesmo assim? Isso pode causar abrandamentos no teu jogo ou no teu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
