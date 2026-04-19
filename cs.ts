@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation>Obnovení při spuštění</translation>
+        <translation>Obnovit při spuštění</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -2570,7 +2570,7 @@ Chcete přesto hru spustit?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation>Zvýšený nedostatek paměti</translation>
+        <translation>Vysoká paměťová náročnost</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
@@ -2600,7 +2600,7 @@ Chcete hru přesto spustit? Můžete se setkat se zpomalením vaší hry a vaše
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation>Není dostupný dostatek RAM ke spuštění této instance</translation>
+        <translation>Není dostupný dostatek RAM k spuštění této instance</translation>
     </message>
 </context>
 <context>
@@ -5856,7 +5856,7 @@ Verzi Javy můžete později změnit v nastavení.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation>Varování při nedostatku dostupné paměti</translation>
+        <translation>Varovat při nedostatku dostupné paměti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
