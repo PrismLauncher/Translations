@@ -2569,7 +2569,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>System ma coraz mniej pamięci.
+To może doprowadzić do spowolnienia lub lagów
+Jeżeli możesz, zamknij pozostałe okna
+
+Czy chcesz nadal kontynuuować?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
