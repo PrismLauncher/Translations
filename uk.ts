@@ -2541,7 +2541,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Система перебуває під підвищеним навантаженням на пам&apos;ять
+Це може призвести до затримки або уповільнення
+Якщо можливо, закрийте інші програми, перш ніж продовжити
+
+Усе одно запустити?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2637,7 +2641,7 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
         <translation>
-Цей екземпляр неможливо запустити, оскільки деякі бібліотеки відсутні або ще не завантажені. Спробуйте ще раз в онлайн-режимі з робочим підключенням до Інтернету.</translation>
+Цей екземпляр неможливо запустити, оскільки деякі бібліотеки відсутні або ще не завантажені. Будь ласка спробуйте ще раз в онлайн-режимі з робочим підключенням до Інтернету</translation>
     </message>
 </context>
 <context>
@@ -8116,7 +8120,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation type="unfinished"></translation>
+        <translation>Керувати &amp;скінами...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
