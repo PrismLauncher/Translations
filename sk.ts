@@ -13472,7 +13472,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="268"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrdiť prepnutie</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
