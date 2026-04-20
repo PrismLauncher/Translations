@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnoviť pri spustení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -181,7 +181,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;POZOR: Toto potrebuješ nastaviť len na prístup k súkromným údajom. Prečítaj si &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentáciu&lt;/a&gt;pre viac informácií.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pozor: Toto potrebujete nastaviť len na prístup k súkromným údajom. Prečítajte si &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentáciu&lt;/a&gt;pre viac informácií.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -2020,7 +2020,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation>POZOR: Ak skratka je presunutá po vytvorení, nebude to odstranené pri odstránení inštancie.</translation>
+        <translation>Pozor: Ak je skratka presunutá po vytvorení, nebude odstránená pri odstránení inštancie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
@@ -2527,7 +2527,7 @@ If possible, close other applications before continuing.
 Launch anyway?</source>
         <translation>System je pod zvýšeným zaťažením pamäte.
 Toto môže viesť k lagom alebo spomaleniam.
-Ak je možné, zatvorte ostatné aplikácie pred pokračovaním.
+Ak je to možné, zatvorte ostatné aplikácie pred pokračovaním.
 
 Spustiť aj tak?</translation>
     </message>
@@ -2539,8 +2539,8 @@ It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
         <translation>Váš system je pod kritickým zaťažením pamäte.
-Toto môže viesť k rôznym spomaleniam, spadnutiam alebo systemovým nestabilitám.
-Odporúča sa zavrieť ostatné aplikácie alebo reštartovať váš system.
+Toto môže viesť k rôznym spomaleniam, spadnutiam alebo nestabilitám systému.
+Odporúča sa zavrieť ostatné aplikácie alebo reštartovať váš systém.
 
 Spustiť aj tak?</translation>
     </message>
@@ -2552,12 +2552,12 @@ Spustiť aj tak?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation>System má nedostatok pamäte</translation>
+        <translation type="unfinished">System má nedostatok pamäte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation>Nízka voľná pamäť</translation>
+        <translation>Nedostatok voľnej pamäte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2567,7 +2567,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri aktuálnych nastaveniach pamäte nemusí byť k dispozícii dostatok voľnej pamäte RAM na spustenie tejto inštancie.
+
+Maximálne pridelené: %1 MiB
+Voľné: %2 MiB (z celkových %3 MiB)
+
+Spustiť aj tak? Môže to spôsobiť spomalenie hry a vášho systému.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -3508,7 +3513,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítavanie zoznamu...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
@@ -9833,7 +9838,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Požaduje</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
@@ -9898,7 +9903,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="429"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrdiť prepnutie</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="430"/>
@@ -10007,8 +10012,8 @@ Ich ignorovanie môže rozbiť hru.</translation>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation>Chceli by ste ich deaktivovať taktiež?
-Ignorovanie môže zníčiť hru.</translation>
+        <translation>Chceli by ste ich taktiež deaktivovať?
+Ignorovanie môže zničiť hru.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="446"/>
@@ -10709,10 +10714,10 @@ Prosím aktualizujte %1!</translation>
         <location filename="src/launcher/net/NetRequest.cpp" line="276"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Počet požiadaviek je obmedzený na %n sekundu: Opakovať po %1</numerusform>
+            <numerusform>Počet požiadaviek je obmedzený na %n sekundy: Opakovať po %1</numerusform>
+            <numerusform>Počet požiadaviek je obmedzený na %n sekúnd: Opakovať po %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -10755,7 +10760,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="29"/>
         <source>A network operation has failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Operácia siete zlyhala: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="65"/>
