@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished">Базовый URL</translation>
+        <translation>Базовый URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -65,7 +65,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>&amp;Сервис Pastebin</translation>
+        <translation>Вы можете указать другой сервер, если у вас возникнут проблемы с загрузкой ресурсов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
@@ -8266,7 +8266,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление &amp;скинами...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
