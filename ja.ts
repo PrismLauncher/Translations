@@ -7682,7 +7682,7 @@ Reason:
         <translation type="vanished">起動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="341"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
         <source>Launch the selected instance.</source>
         <translation>選択中の起動構成を起動します。</translation>
     </message>
@@ -7715,7 +7715,7 @@ Reason:
         <translation type="vanished">Central Modsフォルダを開く(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>Open the central mods folder in a file browser.</source>
         <translation>ファイルブラウザでCentral Modsフォルダを開きます。</translation>
     </message>
@@ -7725,17 +7725,17 @@ Reason:
         <translation>アカウント(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
         <translation>選択したフォルダに、この起動構成を起動するためのショートカットを作成します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="702"/>
         <source>Folders</source>
         <translation>フォルダ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="697"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
         <source>Open one of the folders shared between instances.</source>
         <translation>起動構成間で共有されているフォルダの1つを開きます。</translation>
     </message>
@@ -7753,7 +7753,7 @@ Reason:
         <translation type="vanished">バグを報告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="605"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>%1のバグを報告するためのバグトラッカーを開きます。</translation>
     </message>
@@ -7772,7 +7772,7 @@ Reason:
         <translation type="obsolete">Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="638"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
         <source>Open %1 subreddit.</source>
         <translation>%1のsubredditを開きます。</translation>
     </message>
@@ -7781,17 +7781,17 @@ Reason:
         <translation type="obsolete">%1について</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="649"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="657"/>
         <source>View information about %1.</source>
         <translation>%1に関する情報を表示します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="713"/>
         <source>Help</source>
         <translation>ヘルプ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="708"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>Minecraftまたは%1に関するヘルプ。</translation>
     </message>
@@ -7832,27 +7832,27 @@ Reason:
         <translation>開発ブログを開いて、%1に関するお知らせを確認します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
         <source>&amp;Edit...</source>
         <translation>編集(&amp;E)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="418"/>
         <source>&amp;Folder</source>
         <translation>フォルダー(&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="457"/>
         <source>E&amp;xport...</source>
         <translation>エクスポート(&amp;X)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="429"/>
         <source>Dele&amp;te</source>
         <translation>削除(&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="443"/>
         <source>Cop&amp;y...</source>
         <translation>複製(&amp;Y)...</translation>
     </message>
@@ -7862,17 +7862,17 @@ Reason:
         <translation>起動構成のツールバー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="393"/>
         <source>Change Icon</source>
         <translation>アイコンの変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
         <source>&amp;Kill</source>
         <translation>強制終了(&amp;K)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>&amp;Launch</source>
         <translation>起動(&amp;L)</translation>
     </message>
@@ -7906,17 +7906,17 @@ Reason:
         <translation type="vanished">ランチャーのフォルダを開く(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="660"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
         <source>&amp;Clear Metadata Cache</source>
         <translation>メタデータキャッシュを削除(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="663"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="671"/>
         <source>Clear cached metadata</source>
         <translation>キャッシュされたメタデータをすべて削除します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
         <source>Install to &amp;PATH</source>
         <translation>PATHに追加(&amp;P)</translation>
     </message>
@@ -7925,22 +7925,22 @@ Reason:
         <translation type="vanished">バグを報告…(&amp;B)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="624"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>&amp;Matrix Space</source>
         <translation>Matrixスペース(&amp;M)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
         <source>&amp;Discord Guild</source>
         <translation>Discordサーバー(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="643"/>
         <source>Sub&amp;reddit</source>
         <translation>Subreddit(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
         <source>&amp;About %1</source>
         <translation>%1について(&amp;A)</translation>
     </message>
@@ -7955,7 +7955,7 @@ Reason:
         <translation>にゃーん(&amp;M)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
         <source>&amp;Manage Accounts...</source>
         <translation>アカウント管理(&amp;M)...</translation>
     </message>
@@ -7965,7 +7965,7 @@ Reason:
         <translation>ツールバーをロック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Themes</source>
         <translation>テーマ</translation>
     </message>
@@ -8000,27 +8000,32 @@ Reason:
         <translation>ステータスバー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
+        <source>Manage &amp;Skins...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
         <source>Kill the running instance.</source>
         <translation>実行中の起動構成を強制終了します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
         <source>Export the selected instance to supported formats.</source>
         <translation>選択中の起動構成を対応している形式でエクスポートします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
         <source>Prism Launcher (zip)</source>
         <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>Modrinth (mrpack)</source>
         <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <source>CurseForge (zip)</source>
         <translation>CurseForge (zip)</translation>
     </message>
@@ -8029,42 +8034,42 @@ Reason:
         <translation type="vanished">Modリスト</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
         <source>Close &amp;Window</source>
         <translation>ウィンドウを閉じる(&amp;W)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="520"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="528"/>
         <source>Close the current window</source>
         <translation>現在のウィンドウを閉じます</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="743"/>
         <source>&amp;Widget Themes</source>
         <translation>ウィジェットのテーマ(&amp;W)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="738"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>Open the widget themes folder in a file browser.</source>
         <translation>ファイルブラウザでウィジェットのテーマフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
         <source>I&amp;con Theme</source>
         <translation>アイコンのテーマ(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Open the icon theme folder in a file browser.</source>
         <translation>ファイルブラウザでアイコンのテーマフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
         <source>Cat Packs</source>
         <translation>猫パック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
         <source>Open the cat packs folder in a file browser.</source>
         <translation>ファイルブラウザで猫パックフォルダを開きます。</translation>
     </message>
@@ -8093,22 +8098,22 @@ Reason:
         <translation type="vanished">ランチャーのルートフォルダーを開く (&amp;V)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
         <translation>ファイルブラウザでランチャールートフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="610"/>
         <source>Report a Bug or Suggest a Feature</source>
         <translation>バグを報告 / 機能を提案</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
         <source>Open %1 Matrix space.</source>
         <translation>%1のMatrixスペースを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="686"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
         <translation>%1のシンボリックリンクを/usr/local/binに追加</translation>
     </message>
@@ -8118,22 +8123,22 @@ Reason:
         <translation type="vanished">%1のヘルプ(&amp;H)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>Open the %1 wiki</source>
         <translation>%1のWikiを開きます</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>選択中の起動構成のアイコンを変更します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="371"/>
         <source>Rename</source>
         <translation>名前を編集</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="366"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>Rename the selected instance.</source>
         <translation>選択中の起動構成の名前を変更します。</translation>
     </message>
@@ -8150,22 +8155,22 @@ Reason:
         <translation type="vanished">この起動構成をデモ版で起動します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="402"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="382"/>
         <source>&amp;Change Group...</source>
         <translation>グループを変更(&amp;C)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
         <source>Ctrl+G</source>
         <translation>Ctrl+G</translation>
     </message>
@@ -8174,17 +8179,17 @@ Reason:
         <translation type="vanished">Ctrl+E</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="262"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="263"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="441"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="492"/>
         <source>Create Shortcut</source>
         <translation>ショートカットを作成</translation>
     </message>
@@ -8193,85 +8198,85 @@ Reason:
         <translation type="vanished">選択した起動構成のショートカットをデスクトップに作成します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="539"/>
         <source>&amp;Instances</source>
         <translation>起動構成(&amp;I)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="534"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Open the instances folder in a file browser.</source>
         <translation>ファイルブラウザで起動構成のフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
         <source>Launcher &amp;Root</source>
         <translation>ランチャーのルートフォルダ(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="561"/>
         <source>&amp;Central Mods</source>
         <translation>Central Mod(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>&amp;Skins</source>
         <translation>スキン(&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the skins folder in a file browser.</source>
         <translation>ファイルブラウザでスキンフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
         <source>Instance Icons</source>
         <translation>起動構成のアイコン</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="578"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Open the instance icons folder in a file browser.</source>
         <translation>ファイルブラウザで起動構成のアイコンフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Logs</source>
         <translation>ログ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="597"/>
         <source>Open the logs folder in a file browser.</source>
         <translation>ファイルブラウザでログフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
         <translation>ログを表示</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
         <translation>ランチャーの現在および過去のログを表示します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="768"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
         <source>Accounts</source>
         <translation>アカウント</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
         <source>%1 &amp;Wiki</source>
         <translation>%1のWiki(&amp;W)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="771"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
         <translation>ファイルブラウザでJavaフォルダを開きます。組み込みのJavaダウンローダーが使用されている場合にのみ利用可能です。</translation>
@@ -8281,7 +8286,7 @@ Reason:
         <translation type="vanished">オフラインプレイ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>Confirm Deletion</source>
         <translation>削除の確認</translation>
     </message>
@@ -8308,7 +8313,7 @@ Are you sure?</oldsource>
         <translation type="vanished">インスタンスの編集</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="399"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
         <source>Change the instance settings, mods and versions.</source>
         <translation>起動構成の設定、Modやバージョンを変更します。</translation>
     </message>
@@ -8325,7 +8330,7 @@ Are you sure?</oldsource>
         <translation type="vanished">ワールドを表示</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="432"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
         <translation>選択中の起動構成を削除します。</translation>
@@ -8343,7 +8348,7 @@ Are you sure?</oldsource>
         <translation type="vanished">グループ変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
         <source>Change the selected instance&apos;s group.</source>
         <translation>選択中の起動構成のグループを変更します。</translation>
     </message>
@@ -8369,7 +8374,7 @@ Are you sure?</oldsource>
         <translation type="vanished">インスタンスのフォルダ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="413"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>選択中の起動構成のルートフォルダをファイルブラウザで開きます。</translation>
     </message>
@@ -8391,7 +8396,7 @@ Are you sure?</oldsource>
         <translation type="vanished">インスタンスをコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="446"/>
         <source>Copy the selected instance.</source>
         <translation>選択中の起動構成をコピーします。</translation>
     </message>
@@ -8401,14 +8406,14 @@ Are you sure?</oldsource>
         <translation type="vanished"> on %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
         <source>No instance selected</source>
         <translation>起動構成が選択されていません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Total playtime: 0s</source>
         <translation>総プレイ時間: 0秒</translation>
     </message>
@@ -8417,13 +8422,13 @@ Are you sure?</oldsource>
         <translation type="vanished">プロファイル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="559"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>起動構成の作成(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>グループを削除(&amp;D)</translation>
@@ -8453,54 +8458,54 @@ Are you sure?</oldsource>
         <translation type="vanished">プロファイラーが正しくセットアップされていません。設定の、「外部ツール」に移動します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="503"/>
         <source>No accounts added!</source>
         <translation>アカウントは追加されていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="698"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="506"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="514"/>
         <source>No Default Account</source>
         <translation>デフォルトアカウントなし</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="804"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="810"/>
         <source>Loading news...</source>
         <translation>お知らせをロード中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="814"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="820"/>
         <source>No news available.</source>
         <translation>お知らせはありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="858"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="864"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>Task aborted</source>
         <translation>タスクは中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>The task has been aborted by the user.</source>
         <translation>タスクはユーザーによって中断されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1006"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1112"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1103"/>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
@@ -8513,28 +8518,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 Microsoftアカウントを追加してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="995"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>「%1」はサードパーティのランチャーでのダウンロードを無効化しています。手動でダウンロードしてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1092"/>
         <source>Modpack download</source>
         <translation>Modパックのダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1251"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
         <source>Group name</source>
         <translation>グループ名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1251"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
         <source>Enter a new group name.</source>
         <translation>グループ名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
         <source>Delete group</source>
         <translation>グループを削除</translation>
     </message>
@@ -8543,32 +8548,32 @@ Microsoftアカウントを追加してください。</translation>
         <translation type="vanished">%1 を削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
         <source>Instance not editable</source>
         <translation>起動構成は編集できません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1393"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>この起動構成は編集できません。壊れている、形式が違う、または、古すぎます。詳細はログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1436"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
         <source>Successfully added %1 to PATH</source>
         <translation>正常に %1 をPATHに追加しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 はPATHに追加されました。`%2`を実行することで起動できます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1440"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
         <source>Failed to add %1 to PATH</source>
         <translation>%1 のPATHへの追加に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>%1 のPATHへの追加中にエラーが発生しました</translation>
     </message>
@@ -8635,27 +8640,27 @@ Do you wish to proceed?</source>
         <translation type="vanished">ランチャーが間違った設定のAppImageとして実行されていませんか？（$APPIMAGE環境変数が見つかりません）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
         <source>&amp;Rename group</source>
         <translation>グループ名の変更(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>無効なインポートリンク: &apos;url&apos; パラメータがありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>無効なインポートリンク: URLはhttp(s)である必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1079"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
         <source>Install modpack</source>
         <translation>Modパックをインストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1080"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1074"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -8668,56 +8673,56 @@ URL:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
         <source>No instance!</source>
         <translation>起動構成がありません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1137"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>リソースを追加できる起動構成がありません。
 このリソースを再度インストールしようとする前に、新しい起動構成を作成してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>本当にグループ「%1」を削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
         <source>Rename group</source>
         <translation>グループ名の変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
         <source>Cannot rename group</source>
         <translation>グループ名を変更できません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
         <source>Cannot set empty name.</source>
         <translation>空の名前は設定できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
         <source>Group already exists. :/</source>
         <translation>グループ名はすでに存在します。(´・ω・｀)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
         <source>Failed to undo trashing instance</source>
         <translation>ごみ箱に移動した起動構成を元に戻せませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1294"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>一部の起動構成とショートカットを復元できませんでした。
 ごみ箱を確認し、手動で復元してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1415"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -8726,24 +8731,24 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1484"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
         <source>Cannot Delete Running Instance</source>
         <translation>実行中の起動構成を削除できません｡</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>この起動構成は現在実行中であるため、削除できません。削除する前に起動構成を停止してください。</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1496"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> 、および登録済みの%n個のショートカット</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1499"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -8754,7 +8759,7 @@ Are you sure?</source>
 本当によろしいですか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1508"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
         <source>Deleting</source>
         <translation>削除中</translation>
     </message>
@@ -8771,53 +8776,53 @@ Are you sure?</source>
         <translation type="vanished">ご利用のプラットフォームではサポートされていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1710"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
         <source>Rename Instance</source>
         <translation>起動構成の名前を編集</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1722"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>この起動構成は「!」を含んでおり、Javaが問題を起こします！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1724"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>&lt;br/&gt;起動構成のフォルダを変更するか、&lt;br/&gt;%1のインストール場所を別の場所にしてください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>&lt;br/&gt;ランチャーはOSによって警告なしに削除される可能性があります。&lt;br/&gt;ランチャーを閉じて、一時フォルダではない適切な場所に展開してください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1737"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1738"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>起動構成のフォルダに「Rar$」が含まれています。ランチャーアーカイブを展開してください！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1743"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>起動構成のフォルダが一時フォルダ「%1」にあります！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1757"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1758"/>
         <source>Total playtime: %1</source>
         <translation>総プレイ時間: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="854"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="980"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="994"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1107"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1413"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1098"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="624"/>
         <source>Open %1 Discord guild.</source>
         <translation>%1のDiscordサーバーを開きます。</translation>
     </message>
@@ -11235,12 +11240,12 @@ Please update %1!</source>
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="124"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="128"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>NetJobのすべてのタスクの中断に失敗しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="150"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="154"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1件のタスクを実行中 (%2 / %3 完了)</translation>
     </message>
@@ -12718,7 +12723,7 @@ HTTPステータス: %2</translation>
         <translation type="vanished">謝辞</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="141"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="142"/>
         <source>%1 (in use)</source>
         <translation>%1 (使用中)</translation>
     </message>
@@ -17130,78 +17135,78 @@ Please add your Mojang or Minecraft account.</oldsource>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation>このワールドは他の場所からシンボリックリンクされています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="205"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="206"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
 このワールドは他の場所とハードリンクされています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="221"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>警告: このワールドは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
 絶対パス: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="226"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>警告: このワールドは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
         <source>Game Mode</source>
         <translation>ゲームモード</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
         <source>Last Played</source>
         <translation>最後のプレイ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="270"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>サイズ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>情報</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="281"/>
         <source>The name of the world.</source>
         <translation>ワールドの名前。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="283"/>
         <source>Game mode of the world.</source>
         <translation>ワールドのゲームモード。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
         <source>Date and time the world was last played.</source>
         <translation>ワールドが最後にプレイされた日時。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
         <source>Size of the world on disk.</source>
         <translation>ディスク上のワールドのサイズ。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Information and warnings about the world.</source>
         <translation>ワールドに関する情報と警告。</translation>
     </message>

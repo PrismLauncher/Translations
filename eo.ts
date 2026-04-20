@@ -6558,7 +6558,7 @@ Reason:
         <translation type="vanished">Lanĉi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="341"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
         <source>Launch the selected instance.</source>
         <translation>Lanĉi la elektitan instancon.</translation>
     </message>
@@ -6577,7 +6577,7 @@ Reason:
         <translation>Aldoni novan instancon.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>Open the central mods folder in a file browser.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6587,12 +6587,12 @@ Reason:
         <translation>Kontoj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="702"/>
         <source>Folders</source>
         <translation>Dosierujoj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="697"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
         <source>Open one of the folders shared between instances.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6606,7 +6606,7 @@ Reason:
         <translation>Ŝanĝi agordojn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="605"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>Malfermi la cimspuradilon por raporti cimon kun %1.</translation>
     </message>
@@ -6616,7 +6616,7 @@ Reason:
         <translation type="obsolete">Discord</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="638"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
         <source>Open %1 subreddit.</source>
         <translation>Malfermi %1 subreddit-on.</translation>
     </message>
@@ -6625,17 +6625,17 @@ Reason:
         <translation type="obsolete">Pri %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="649"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="657"/>
         <source>View information about %1.</source>
         <translation>Montri informojn pri %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="713"/>
         <source>Help</source>
         <translation>Helpo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="708"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>Serĉi helpon pri %1 aŭ Minecraft.</translation>
     </message>
@@ -6672,27 +6672,27 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
         <source>&amp;Edit...</source>
         <translation>R&amp;edakti...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="418"/>
         <source>&amp;Folder</source>
         <translation>Dosierujo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="457"/>
         <source>E&amp;xport...</source>
         <translation>Eksporti...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="429"/>
         <source>Dele&amp;te</source>
         <translation>F&amp;origi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="443"/>
         <source>Cop&amp;y...</source>
         <translation>K&amp;opii...</translation>
     </message>
@@ -6702,17 +6702,17 @@ Reason:
         <translation>Instanca ilobreto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="393"/>
         <source>Change Icon</source>
         <translation>Ŝanĝi bildeton</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
         <source>&amp;Kill</source>
         <translation>Ĉe&amp;sigi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lanĉi</translation>
     </message>
@@ -6738,22 +6738,22 @@ Reason:
         <translation>Malfari last&amp;an forigon de instanco</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="660"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
         <source>&amp;Clear Metadata Cache</source>
         <translation>Malplenigi metadatuman kaŝmemoron</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="663"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="671"/>
         <source>Clear cached metadata</source>
         <translation>Malplenigi kaŝmemorigitan metadatumojn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
         <source>Install to &amp;PATH</source>
         <translation>Instali al &amp;PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="624"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>&amp;Matrix Space</source>
         <translation>&amp;Matrix-babilejo</translation>
     </message>
@@ -6768,129 +6768,134 @@ Reason:
         <translation>Stata breto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
+        <source>Manage &amp;Skins...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="539"/>
         <source>&amp;Instances</source>
         <translation>&amp;Instancoj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="534"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Open the instances folder in a file browser.</source>
         <translation>Malfermi la dosierujon de instancoj per dosieresplorilo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
         <source>Launcher &amp;Root</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="561"/>
         <source>&amp;Central Mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>&amp;Skins</source>
         <translation>&amp;Haŭtoj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the skins folder in a file browser.</source>
         <translation>Malfermi la dosierujon de haŭtoj per dosieresplorilo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
         <source>Instance Icons</source>
         <translation>Instancaj bildetoj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="578"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Open the instance icons folder in a file browser.</source>
         <translation>Malfermi la dosierujon de bildetoj per dosieresplorilo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Logs</source>
         <translation>Protokoloj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="597"/>
         <source>Open the logs folder in a file browser.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
         <source>&amp;Discord Guild</source>
         <translation>Gildo ĉe &amp;Discord</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="643"/>
         <source>Sub&amp;reddit</source>
         <translation type="unfinished">Sub&amp;reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
         <source>&amp;About %1</source>
         <translation>Pri %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
         <translation>Rigardi protokolojn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
         <translation>Rigardi aktualajn kaj pasintajn lanĉilajn protokolojn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
         <source>%1 &amp;Wiki</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="743"/>
         <source>&amp;Widget Themes</source>
         <translation type="unfinished">Aplikaĵaj etosoj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="738"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>Open the widget themes folder in a file browser.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
         <source>I&amp;con Theme</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Open the icon theme folder in a file browser.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
         <source>Cat Packs</source>
         <translation>Katujoj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
         <source>Open the cat packs folder in a file browser.</source>
         <translation>Malfermi la dosierujon de katujoj per dosieresplorilo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="771"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
         <translation>Malfermi la Java-dosierujon per dosieresplorilo. Nur disponebla se la integrita Java-elŝutilo estas uzata.</translation>
@@ -6906,7 +6911,7 @@ Reason:
         <translation>&amp;Miaŭ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
         <source>&amp;Manage Accounts...</source>
         <translation>Ad&amp;ministri kontojn...</translation>
     </message>
@@ -6916,7 +6921,7 @@ Reason:
         <translation>Ŝlosi ilobretojn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Themes</source>
         <translation>Etosoj</translation>
     </message>
@@ -6941,57 +6946,57 @@ Reason:
         <translation>&amp;Helpo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
         <source>Kill the running instance.</source>
         <translation>Ĉesigi la rulantan instancon.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
         <source>Export the selected instance to supported formats.</source>
         <translation>Eksporti la elektitan instancon al subtenata dosierformo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
         <source>Prism Launcher (zip)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>Modrinth (mrpack)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <source>CurseForge (zip)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
         <source>Close &amp;Window</source>
         <translation>Fermi fenestron</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="520"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="528"/>
         <source>Close the current window</source>
         <translation>Fermi la nunan fenestron</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
         <translation>Malfermi la lanĉilan radikan dosierujon per dosieresplorilo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="610"/>
         <source>Report a Bug or Suggest a Feature</source>
         <translation>Raporti cimon aŭ proponi funkcion</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
         <source>Open %1 Matrix space.</source>
         <translation>Malfermi %1 Matrix-babilejon.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="686"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
         <translation>Instali %1 simbolan ligilon al /usr/local/bin</translation>
     </message>
@@ -7001,57 +7006,57 @@ Reason:
         <translation type="vanished">%1 &amp;Helpo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>Open the %1 wiki</source>
         <translation>Malfermi la %1-vikion</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>Ŝanĝi la bildeton de la elektita instanco.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="371"/>
         <source>Rename</source>
         <translation>Renomi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="366"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>Rename the selected instance.</source>
         <translation>Ŝanĝi la nomon de elektita instanco.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="402"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="382"/>
         <source>&amp;Change Group...</source>
         <translation>Ŝanĝi grupon...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
         <source>Ctrl+G</source>
         <translation>Ctrl+G</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="262"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="263"/>
         <source>Backspace</source>
         <translation>Retropaŝo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="441"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="492"/>
         <source>Create Shortcut</source>
         <translation>Krei simbolan ligilon</translation>
     </message>
@@ -7060,8 +7065,8 @@ Reason:
         <translation type="vanished">Kreas ligilon sur via labortablo por lanĉi la elektitan instancon.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="768"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
         <source>Accounts</source>
         <translation>Kontoj</translation>
     </message>
@@ -7070,7 +7075,7 @@ Reason:
         <translation type="vanished">Lanĉi eksterrete</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>Confirm Deletion</source>
         <translation>Konfirmi forigon</translation>
     </message>
@@ -7093,7 +7098,7 @@ Are you sure?</oldsource>
         <translation type="vanished">Redakti instancon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="399"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
         <source>Change the instance settings, mods and versions.</source>
         <translation>Ŝanĝi agordojn, modifaĵojn kaj versiojn de la instanco.</translation>
     </message>
@@ -7110,7 +7115,7 @@ Are you sure?</oldsource>
         <translation type="vanished">Vidi mondojn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="432"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
         <translation>Forigi la elektitan instancon.</translation>
@@ -7120,7 +7125,7 @@ Are you sure?</oldsource>
         <translation type="vanished">Ŝanĝi grupon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
         <source>Change the selected instance&apos;s group.</source>
         <translation>Ŝanĝi la grupon de la elektita instanco.</translation>
     </message>
@@ -7137,7 +7142,7 @@ Are you sure?</oldsource>
         <translation type="obsolete">Instanco-dosierujo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="413"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>Malfermi la radikan dosierujon de la instanco per dosieresplorilo.</translation>
     </message>
@@ -7155,108 +7160,108 @@ Are you sure?</oldsource>
         <translation type="obsolete">Kopii instancon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="446"/>
         <source>Copy the selected instance.</source>
         <translation>Kopii la elektitan instancon.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
         <source>No instance selected</source>
         <translation>Neniu instanco elektita</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Total playtime: 0s</source>
         <translation>Kompleta ludtempo: 0s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="559"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>&amp;Krei instancon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>Forigi grupon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="503"/>
         <source>No accounts added!</source>
         <translation>Neniuj kontoj aldonitaj!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="698"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="506"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="514"/>
         <source>No Default Account</source>
         <translation>Neniu defaŭlta konto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="804"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="810"/>
         <source>Loading news...</source>
         <translation>Ŝargante novaĵojn...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="814"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="820"/>
         <source>No news available.</source>
         <translation>Neniuj novaĵoj disponeblaj.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="858"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="864"/>
         <source>Warnings</source>
         <translation>Avertoj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>Task aborted</source>
         <translation type="unfinished">Tasko ĉesigita</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>The task has been aborted by the user.</source>
         <translation type="unfinished">La tasko estis ĉesigita de la uzanto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1006"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1112"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1103"/>
         <source>Abort</source>
         <translation type="unfinished">Aborti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="995"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1079"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
         <source>Install modpack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1080"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1074"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -7265,128 +7270,128 @@ URL:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1092"/>
         <source>Modpack download</source>
         <translation>Modifaĵara elŝutaĵo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
         <source>No instance!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1137"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1251"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
         <source>Group name</source>
         <translation>Nomo de grupo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1251"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
         <source>Enter a new group name.</source>
         <translation>Enigu novan nomon de grupo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
         <source>Delete group</source>
         <translation>Forigi grupon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
         <source>Failed to undo trashing instance</source>
         <translation>Malsukcesis malfari forigon de instanco</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1294"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Kelkaj instancoj kaj ligiloj ne povis esti restaŭrigitaj.
 Bonvolu kontroli vian rubujon por restaŭri ilin permane.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
         <source>Instance not editable</source>
         <translation>Instanco ne estas redaktebla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1393"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Tiu ĉi instanco ne estas redaktebla. Ĝi povas esti difektita, nevalida aŭ tro malnova. Kontrolu protokolon por pli da detaloj.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1415"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1436"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Sukcese aldonis %1 al PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 estis sukcese aldonita al via PATH. Vi nun povas lanĉi ĝin per ruli `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1440"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Malsukcesis aldoni %1 al PATH.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation type="unfinished">Eraro okazis kiam provis aldoni %1 al PATH.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
         <source>&amp;Rename group</source>
         <translation>Renomi grupon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Ĉu vi vere volas forigi la grupon &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
         <source>Rename group</source>
         <translation>Renomi grupon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
         <source>Cannot rename group</source>
         <translation>La grupo ne povis esti renomita.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
         <source>Cannot set empty name.</source>
         <translation>Ne eblas enigi malplenan nomon.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
         <source>Group already exists. :/</source>
         <translation>Grupo jam ekzistas. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1484"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Ne eblas forigi rulantan instancon.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>La elektita instanco estas nun rulanta kaj ne povas esti forigita. Bonvolu ĉesigi la instancon antaŭ provi forigi ĝin.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1496"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
         <source> and its %n registered shortcut(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -7394,7 +7399,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1499"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -7405,58 +7410,58 @@ Tio povus esti konstanta kaj tute forigos la instancon.
 Ĉu vi certas?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1508"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
         <source>Deleting</source>
         <translation>Forigante</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1710"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
         <source>Rename Instance</source>
         <translation>Renomi Instancon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1722"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Via instanca dosierujo enhavas &quot;!&quot; kaj tio povus kaŭzi problemojn kun Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1724"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Vi nun havas du rimedojn: &lt;br/&gt; - ŝanĝi la instancan dosierujon en la agordoj &lt;br/&gt; - movi tiun ĉi instalaĵon de %1 al alia dosierujo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Tio estas problemo: &lt;br/&gt; - la operaciumo verŝajne forigos la lanĉilon sen averto &lt;br/&gt; - fermu la lanĉilon nun kaj maldensigi ĝin en realan lokon kaj ne en portempan dosierujon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1737"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1738"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Via instanca dosierujo enhavas &apos;Rar$&apos; - tio signifas ke vi ne malkompaktigis la lanĉilan arĥivon!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1743"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Via instanca dosierujo estas en portempa dosierujo: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1757"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1758"/>
         <source>Total playtime: %1</source>
         <translation>Kompleta ludtempo: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="854"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="980"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="994"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1107"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1413"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1098"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="624"/>
         <source>Open %1 Discord guild.</source>
         <translation>Malfermi Discord-gildon de %1.</translation>
     </message>
@@ -9270,12 +9275,12 @@ Please update %1!</source>
 <context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="124"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="128"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="150"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="154"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation type="unfinished">Plenumas %1 tasko(j)n (%2 el %3 estas finitaj)</translation>
     </message>
@@ -10540,7 +10545,7 @@ HTTP Status: %2</source>
         <translation type="vanished">%1 Programistoj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="141"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="142"/>
         <source>%1 (in use)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14314,76 +14319,76 @@ Are you sure?</source>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="205"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="206"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="221"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="226"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
         <source>Name</source>
         <translation type="unfinished">Nomo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
         <source>Game Mode</source>
         <translation>Ludreĝimo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
         <source>Last Played</source>
         <translation>Laste Ludis</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="270"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Grandeco</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>Informo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="281"/>
         <source>The name of the world.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="283"/>
         <source>Game mode of the world.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
         <source>Date and time the world was last played.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
         <source>Size of the world on disk.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Information and warnings about the world.</source>
         <translation type="unfinished"></translation>
     </message>

@@ -7888,7 +7888,7 @@ Indok:
         <translation type="vanished">Indítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="341"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
         <source>Launch the selected instance.</source>
         <translation>A kiválasztott példány indítása.</translation>
     </message>
@@ -7921,7 +7921,7 @@ Indok:
         <translation type="vanished">Közép modok mappájának megnézése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>Open the central mods folder in a file browser.</source>
         <translation>Központi modok mappájának megnyitása a fájlkezelőben.</translation>
     </message>
@@ -7930,12 +7930,12 @@ Indok:
         <translation type="vanished">Példány &amp;törlése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="702"/>
         <source>Folders</source>
         <translation>Mappák</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="697"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
         <source>Open one of the folders shared between instances.</source>
         <translation>A példányok közötti egyik megosztott mappának megnyitása.</translation>
     </message>
@@ -7953,7 +7953,7 @@ Indok:
         <translation type="vanished">Hiba jelentése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="605"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>A hibakövető megnyitása a %1 hibájának bejelentéséhez.</translation>
     </message>
@@ -7972,22 +7972,22 @@ Indok:
         <translation type="obsolete">Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="638"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
         <source>Open %1 subreddit.</source>
         <translation>A %1 subreddit oldalának megnyitása.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="649"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="657"/>
         <source>View information about %1.</source>
         <translation>A %1 névjegyének megtekintése.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="713"/>
         <source>Help</source>
         <translation>Súgó</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="708"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>Segítség kérése a %1 vagy a Minecraft használatához.</translation>
     </message>
@@ -8028,37 +8028,37 @@ Indok:
         <translation>A %1 fejlesztési blog megnyitása további hírekért.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
         <source>Kill the running instance.</source>
         <translation>A futó példány megszakítása.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
         <source>&amp;Edit...</source>
         <translation>&amp;Szerkesztés…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="418"/>
         <source>&amp;Folder</source>
         <translation>&amp;Mappa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="457"/>
         <source>E&amp;xport...</source>
         <translation>&amp;Exportálás…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="429"/>
         <source>Dele&amp;te</source>
         <translation>&amp;Törlés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="443"/>
         <source>Cop&amp;y...</source>
         <translation>&amp;Másolás…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="492"/>
         <source>Create Shortcut</source>
         <translation>Parancsikon</translation>
     </message>
@@ -8072,17 +8072,17 @@ Indok:
         <translation>Példány eszköztár</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="393"/>
         <source>Change Icon</source>
         <translation>Ikon megváltoztatása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
         <source>&amp;Kill</source>
         <translation>&amp;Megszakítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>&amp;Launch</source>
         <translation>&amp;Indítás</translation>
     </message>
@@ -8116,17 +8116,17 @@ Indok:
         <translation type="vanished">Launcher gyöké&amp;rmappájának megtekintése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="660"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
         <source>&amp;Clear Metadata Cache</source>
         <translation>&amp;Metaadat-gyorsítótár törlése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="663"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="671"/>
         <source>Clear cached metadata</source>
         <translation>A gyorsítótárazott metaadatok törlése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
         <source>Install to &amp;PATH</source>
         <translation>Telepítés ide: &amp;PATH</translation>
     </message>
@@ -8139,12 +8139,12 @@ Indok:
         <translation type="vanished">Jelentsen be egy &amp;hibát...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="624"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>&amp;Matrix Space</source>
         <translation>&amp;Matrix Space</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
         <source>&amp;Discord Guild</source>
         <translation>&amp;Discord szerver</translation>
     </message>
@@ -8159,124 +8159,129 @@ Indok:
         <translation>Állapotsor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
+        <source>Manage &amp;Skins...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
         <translation>Parancsikon létrehozása a kiválasztott mappában a kiválasztott példány elindításához.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="539"/>
         <source>&amp;Instances</source>
         <translation>&amp;Példányok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="534"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Open the instances folder in a file browser.</source>
         <translation>Példánymappa megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
         <source>Launcher &amp;Root</source>
         <translation>&amp;Launcher gyökér</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="561"/>
         <source>&amp;Central Mods</source>
         <translation>&amp;Központi modok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>&amp;Skins</source>
         <translation>&amp;Skinek</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the skins folder in a file browser.</source>
         <translation>Skinek mappájának megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
         <source>Instance Icons</source>
         <translation>Példányikonok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="578"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Open the instance icons folder in a file browser.</source>
         <translation>Példányikonok mappájának megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Logs</source>
         <translation>Naplók</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="597"/>
         <source>Open the logs folder in a file browser.</source>
         <translation>Naplók mappájának megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="643"/>
         <source>Sub&amp;reddit</source>
         <translation>Sub&amp;reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
         <source>&amp;About %1</source>
         <translation>%1 &amp;névjegye</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
         <translation>Naplók megtekintése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
         <translation>Jelenlegi és korábbi launcher naplók megtekintése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
         <source>%1 &amp;Wiki</source>
         <translation>%1 &amp;Wiki</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="743"/>
         <source>&amp;Widget Themes</source>
         <translation>&amp;Widget témák</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="738"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>Open the widget themes folder in a file browser.</source>
         <translation>Widget témák mappájának megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
         <source>I&amp;con Theme</source>
         <translation>&amp;Ikon téma</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Open the icon theme folder in a file browser.</source>
         <translation>Ikon téma mappájának megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
         <source>Cat Packs</source>
         <translation>Cica csomagok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
         <source>Open the cat packs folder in a file browser.</source>
         <translation>Cica csomagok mappájának megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="771"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
         <translation>Java mappájának megnyitása a fájlkezelőben. Csak a beépített Java letöltő használata esetén érhető el.</translation>
@@ -8316,7 +8321,7 @@ Indok:
         <translation>&amp;Miáúú</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
         <source>&amp;Manage Accounts...</source>
         <translation>&amp;Fiókok kezelése…</translation>
     </message>
@@ -8326,7 +8331,7 @@ Indok:
         <translation>Eszköztárak zárolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Themes</source>
         <translation>Témák</translation>
     </message>
@@ -8355,22 +8360,22 @@ Indok:
         <translation>&amp;Súgó</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
         <source>Export the selected instance to supported formats.</source>
         <translation>A kiválasztott példány exportálása a támogatott formátumokba.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
         <source>Prism Launcher (zip)</source>
         <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>Modrinth (mrpack)</source>
         <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <source>CurseForge (zip)</source>
         <translation>CurseForge (zip)</translation>
     </message>
@@ -8379,12 +8384,12 @@ Indok:
         <translation type="vanished">Mod Lista</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
         <source>Close &amp;Window</source>
         <translation>Ablak bezárása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="520"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="528"/>
         <source>Close the current window</source>
         <translation>Aktuális ablak bezárása</translation>
     </message>
@@ -8413,22 +8418,22 @@ Indok:
         <translation type="vanished">&amp;Launcher gyökérmappájának megtekintése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
         <translation>Launcher gyökérmappájának megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="610"/>
         <source>Report a Bug or Suggest a Feature</source>
         <translation>Hiba bejelentése vagy funkciójavaslat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
         <source>Open %1 Matrix space.</source>
         <translation>A %1 Matrix space oldalának megnyitása.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="686"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
         <translation>Egy %1 szimbolikus hivatkozás telepítése a /usr/local/bin mappába</translation>
     </message>
@@ -8438,7 +8443,7 @@ Indok:
         <translation type="vanished">%1 &amp;súgó</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>Open the %1 wiki</source>
         <translation>A %1 wiki megnyitása</translation>
     </message>
@@ -8447,17 +8452,17 @@ Indok:
         <translation type="vanished">%1 &amp;Hírek</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>Kiválasztott példány ikonjának változtatása.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="371"/>
         <source>Rename</source>
         <translation>Átnevezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="366"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>Rename the selected instance.</source>
         <translation>A kiválasztott példány átnevezése.</translation>
     </message>
@@ -8474,7 +8479,7 @@ Indok:
         <translation type="vanished">Indítsa el a kiválasztott példányt demo módban.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
@@ -8483,7 +8488,7 @@ Indok:
         <translation type="vanished">Példány szerkesztése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="402"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
@@ -8504,12 +8509,12 @@ Indok:
         <translation type="vanished">Képernyőképek kezelése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="382"/>
         <source>&amp;Change Group...</source>
         <translation>&amp;Csoportváltás…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
         <source>Ctrl+G</source>
         <translation>Ctrl+G</translation>
     </message>
@@ -8542,7 +8547,7 @@ Indok:
         <translation type="vanished">Példány törlése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="262"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="263"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
@@ -8551,7 +8556,7 @@ Indok:
         <translation type="vanished">Példány másolása...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="441"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
@@ -8568,7 +8573,7 @@ Indok:
         <translation type="vanished">Példány szerkesztése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="399"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
         <source>Change the instance settings, mods and versions.</source>
         <translation>Módosítd a példány beállításait, modjait és verzióit.</translation>
     </message>
@@ -8589,7 +8594,7 @@ Indok:
         <translation type="vanished">Világok megnézése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="432"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
         <translation>A kiválasztott példány törlése.</translation>
@@ -8607,7 +8612,7 @@ Indok:
         <translation type="vanished">Csoport változtatása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
         <source>Change the selected instance&apos;s group.</source>
         <translation>A kiválasztott példány csoportjának megváltoztatása.</translation>
     </message>
@@ -8633,7 +8638,7 @@ Indok:
         <translation type="vanished">Példánymappa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="413"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>A kiválasztott példány gyökérmappájának megnyitása a fájlkezelőben.</translation>
     </message>
@@ -8655,7 +8660,7 @@ Indok:
         <translation type="vanished">Példány másolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="446"/>
         <source>Copy the selected instance.</source>
         <translation>A kiválasztott példány másolása.</translation>
     </message>
@@ -8665,14 +8670,14 @@ Indok:
         <translation type="vanished"> ezen: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
         <source>No instance selected</source>
         <translation>Nincs példány kiválasztva</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Total playtime: 0s</source>
         <translation>Teljes játékidő: 0 mp</translation>
     </message>
@@ -8681,13 +8686,13 @@ Indok:
         <translation type="vanished">Profilok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="559"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>Példány létrehozása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>&amp;Csoport törlése</translation>
@@ -8717,54 +8722,54 @@ Indok:
         <translation type="vanished">A Profiler nem megfelelően van beállítva. Menjen a &quot;Külső eszközök&quot; menübe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="503"/>
         <source>No accounts added!</source>
         <translation>Nincsenek fiókok hozzáadva!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="698"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="506"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="514"/>
         <source>No Default Account</source>
         <translation>Ne legyen alapértelmezett fiók</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="804"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="810"/>
         <source>Loading news...</source>
         <translation>Hírek betöltése…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="814"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="820"/>
         <source>No news available.</source>
         <translation>Nincs hír.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="858"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="864"/>
         <source>Warnings</source>
         <translation>Figyelmeztetések</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>Task aborted</source>
         <translation>Feladat megszakítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>The task has been aborted by the user.</source>
         <translation>A feladatot a felhasználó megszakította.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1006"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1112"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1103"/>
         <source>Abort</source>
         <translation>Megszakítás</translation>
     </message>
@@ -8777,28 +8782,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 Adjon hozzá egy Microsoft-fiókot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="995"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>A(z) %1 modcsomag, mod vagy erőforrás le van tiltva harmadik felek számára, töltsd le manuálisan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1092"/>
         <source>Modpack download</source>
         <translation>Modcsomag letöltése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1251"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
         <source>Group name</source>
         <translation>Csoport név</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1251"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
         <source>Enter a new group name.</source>
         <translation>Adj meg egy új csoportnevet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
         <source>Delete group</source>
         <translation>Csoport törlése</translation>
     </message>
@@ -8807,37 +8812,37 @@ Adjon hozzá egy Microsoft-fiókot.</translation>
         <translation type="vanished">Biztosan törli a(z) &quot;%1&quot; csoportot?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
         <source>Instance not editable</source>
         <translation>A példány nem szerkeszthető</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1393"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Ez a példány nem szerkeszthető. Lehet, hogy sérült, érvénytelen vagy túl régi. A részletekért ellenőrizd a naplókat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1436"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
         <source>Successfully added %1 to PATH</source>
         <translation>%1 sikeresen hozzáadva ehhez: PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 sikeresen hozzáadva a PATH-hoz. Most elindíthatod a(z) „%2” futtatásával.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1440"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
         <source>Failed to add %1 to PATH</source>
         <translation>%1 hozzáadása a PATH-hoz nem sikerült</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Hiba történt a %1 a PATH-hoz történő hozzáadása közben</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>Confirm Deletion</source>
         <translation>Törlés megerősítése</translation>
     </message>
@@ -8928,27 +8933,27 @@ Biztos vagy benne?</translation>
         <translation type="vanished">A Snapshotok jelenleg nem támogatottak a CurseForge modcsomagok által.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
         <source>&amp;Rename group</source>
         <translation>&amp;Csoport átnevezése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>Érvénytelen import link: hiányzik az &apos;url&apos; paraméter.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>Érvénytelen import link: az URL-nek http(s) formátumúnak kell lennie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1079"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
         <source>Install modpack</source>
         <translation>Modcsomag telepítése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1080"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1074"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -8961,56 +8966,56 @@ URL:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
         <source>No instance!</source>
         <translation>Nincs példány!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1137"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Nincs elérhető példány az erőforrás hozzáadásához.
 Hozz létre egy új példányt, mielőtt újra megpróbálnád telepíteni ezt az erőforrást.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Biztosan törlöd a(z) „%1” csoportot?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
         <source>Rename group</source>
         <translation>Csoport átnevezése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
         <source>Cannot rename group</source>
         <translation>Nem lehet átnevezni a csoportot</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
         <source>Cannot set empty name.</source>
         <translation>A név nem lehet üres.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
         <source>Group already exists. :/</source>
         <translation>A csoport már létezik. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
         <source>Failed to undo trashing instance</source>
         <translation>Nem sikerült visszavonni a törlést</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1294"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Egyes példányok és parancsikonok nem voltak visszaállíthatók.
 Ellenőrizd a lomtárat, hogy manuálisan visszaállíthasd őket.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1415"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -9019,24 +9024,24 @@ A metaadat gyorsítótár manuális törléséhez nyomd meg a Mappák -&gt; Laun
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1484"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Nem lehet törölni a futó példányt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>A kiválasztott példány jelenleg fut, és nem törölhető. Állítsd le a példányt, mielőtt megpróbálnád törölni.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1496"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> és annak %n regisztrált parancsikonja</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1499"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -9047,7 +9052,7 @@ Ez végleges lehet, és teljesen törli a példányt.
 Biztos vagy ebben?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1508"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
         <source>Deleting</source>
         <translation>Törlés</translation>
     </message>
@@ -9088,53 +9093,53 @@ Biztos vagy ebben?</translation>
         <translation type="vanished">Létrehozott egy parancsikont ehhez a példányhoz az alkalmazások mappájában!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1710"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
         <source>Rename Instance</source>
         <translation>Példány átnevezése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1722"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>A példánymappád a következőt tartalmazza: „!” és ez köztudottan Java problémákat okoz!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1724"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Most két lehetőséged van: 1&lt;br/&gt; - módosítod a példány mappáját a beállításokban &lt;br/&gt; - áthelyezed a(z) %1 telepítését egy másik mappába</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Ez egy probléma: &lt;br/&gt; - A launcher valószínűleg figyelmeztetés nélkül törölve lesz az operációs rendszer által &lt;br/&gt; - zárd be a launchert, és csomagold ki egy valós helyre, ne egy ideiglenes mappába</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1737"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1738"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>A példány mappában „Rar$” szerepel - ez azt jelenti, hogy nem csomagoltad ki a launcher archívumot!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1743"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>A példánymappád egy ideiglenes mappában található: „%1”!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1757"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1758"/>
         <source>Total playtime: %1</source>
         <translation>Teljes játékidő: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="854"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="980"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="994"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1107"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1413"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1098"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="624"/>
         <source>Open %1 Discord guild.</source>
         <translation>Nyisd meg a %1 Discord szerverét.</translation>
     </message>
@@ -9144,8 +9149,8 @@ Biztos vagy ebben?</translation>
         <translation>&amp;Fiókok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="768"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
         <source>Accounts</source>
         <translation>Fiókok</translation>
     </message>
@@ -11750,12 +11755,12 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="124"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="128"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Nem sikerült megszakítani a NetJob összes feladatát!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="150"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="154"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1 feladat végrehajtása (%2/%3 kész)</translation>
     </message>
@@ -13243,7 +13248,7 @@ HTTP állapot: %2</translation>
         <translation type="vanished">Köszönettel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="141"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="142"/>
         <source>%1 (in use)</source>
         <translation>%1 (használatban)</translation>
     </message>
@@ -17675,78 +17680,78 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation>Ez a világ szimbolikusan van összekapcsolva máshonnan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="205"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="206"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
 Ez a világ hard linkelve van máshova.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="221"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>Figyelmeztetés: Ez a világ szimbolikusan van összekapcsolva máshonnan. A szerkesztéssel az eredeti is megváltozik.
 Kanonikus elérési út: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="226"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>Figyelmeztetés: Ez a világ hard linkelve van máshova. A szerkesztéssel az eredeti is megváltozik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
         <source>Name</source>
         <translation>Név</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
         <source>Game Mode</source>
         <translation>Játékmód</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
         <source>Last Played</source>
         <translation>Utoljára játszva</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="270"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Méret</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>Információ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="281"/>
         <source>The name of the world.</source>
         <translation>A világ neve.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="283"/>
         <source>Game mode of the world.</source>
         <translation>A világ játékmódja.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
         <source>Date and time the world was last played.</source>
         <translation>A világ legutóbbi játszásának dátuma és ideje.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
         <source>Size of the world on disk.</source>
         <translation>Világ mérete a lemezen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Information and warnings about the world.</source>
         <translation>Információk és figyelmeztetések a világról.</translation>
     </message>
