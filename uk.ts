@@ -2550,7 +2550,11 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша система перебуває під критичним навантаженням на пам&apos;ять.
+Це може призвести до серйозних уповільнень, збоїв або нестабільності системи.
+Рекомендується закрити інші програми або перезавантажити систему.
+
+Все одно запустити?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
@@ -2560,7 +2564,7 @@ Launch anyway?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Система перебуває під високим навантаженням на пам&apos;ять</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
@@ -2575,7 +2579,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Можливо, недостатньо вільної оперативної пам&apos;яті для запуску цього екземпляра з поточними налаштуваннями пам&apos;яті.
+
+Максимально виділено: %1 МіБ
+Вільно: %2 МіБ (із загальної кількості %3 МіБ)
+
+Все одно запустити? Це може спричинити уповільнення гри та вашої системи.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -2627,7 +2636,8 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Цей екземпляр неможливо запустити, оскільки деякі бібліотеки відсутні або ще не завантажені. Спробуйте ще раз в онлайн-режимі з робочим підключенням до Інтернету.</translation>
     </message>
 </context>
 <context>
