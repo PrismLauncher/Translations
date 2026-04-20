@@ -2611,7 +2611,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il n&apos;y a peut-être pas assez de RAM disponible pour lancer cette instance avec les paramètres de mémoire actuels
+
+Maximum alloué&#xa0;: %1 Mio
+Disponible&#xa0;: %2 Mio (sur %3 Mio au total)
+
+Lancer quand même&#x202f;? Cela pourrait causer des ralentissements du jeu et du système.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -15204,7 +15209,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="219"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="379"/>
         <source>Abort</source>
-        <translation>Avorter</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="122"/>
