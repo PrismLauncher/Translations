@@ -8283,7 +8283,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
         <source>%1 &amp;Wiki</source>
-        <translation>%1 &amp;Wiki</translation>
+        <translation>&amp;Wiki %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
