@@ -3264,7 +3264,7 @@ Esteu segur de fer-ho?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation>Es pot accedir als perfiladors a través del menú desplegable Llençar.</translation>
+        <translation>Es pot accedir als perfiladors a través del menú desplegable Llançar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
@@ -5028,7 +5028,7 @@ Si us plau, assegura&apos;t que la memòria màxima és inferior.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Llençar</translation>
+        <translation>&amp;Llançar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
@@ -6050,7 +6050,7 @@ Vols jugar la demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Llençar</translation>
+        <translation>&amp;Llançar</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -6793,7 +6793,7 @@ Es recomana que li donis permisos a PolyMC a través de Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>No s&apos;ha pogut llençar Minecraft!</translation>
+        <translation>No s&apos;ha pogut llançar el Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7872,7 +7872,7 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>&amp;Launch</source>
-        <translation>&amp;Llençar</translation>
+        <translation>&amp;Llançar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
@@ -8935,12 +8935,12 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Llençar</translation>
+        <translation>&amp;Llançar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished">Llençar fora de &amp;línia</translation>
+        <translation>Llança fora de &amp;línia</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
