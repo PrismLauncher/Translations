@@ -3364,12 +3364,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="347"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation> (%1 installé, %2 sélectionné)</translation>
+        <translation> (%1 installé(s), %2 sélectionné(s))</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="349"/>
         <source> (%1 installed)</source>
-        <translation> (%1 installé)</translation>
+        <translation> (%1 installé(s))</translation>
     </message>
 </context>
 <context>
@@ -3417,7 +3417,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation>Les profileurs sont accessibles depuis le menu déroulant &quot;Launch&quot;.</translation>
+        <translation>Les profileurs sont accessibles depuis le menu déroulant &quot;Lancer&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
@@ -10034,7 +10034,7 @@ Il est fort probable que vous deviez modifier le chemin d&apos;accès - veuillez
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation>packs de données</translation>
+        <translation>datapacks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
@@ -18080,7 +18080,7 @@ Ce monde pourrait disparaître pour toujours (C&apos;EST TRÈS LONG).
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="223"/>
         <source>Manage Data Packs</source>
-        <translation>Gérer les Packs de Données</translation>
+        <translation>Gérer les packs de données</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="230"/>
