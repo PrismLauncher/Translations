@@ -10724,10 +10724,10 @@ Prosím aktualizujte %1!</translation>
         <location filename="src/launcher/net/NetRequest.cpp" line="281"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Obmedzenie rýchlosti: Čakanie %n sekundu</numerusform>
+            <numerusform>Obmedzenie rýchlosti: Čakanie %n sekundy</numerusform>
+            <numerusform>Obmedzenie rýchlosti: Čakanie %n sekúnd</numerusform>
         </translation>
     </message>
 </context>
@@ -11296,7 +11296,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Predvolená služba na vkladanie sa zmenila na mclo.gs. Vyberte, ako chcete naložiť so svojimi nastaveniami.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
@@ -11431,7 +11431,8 @@ Dôvod: %1.</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="219"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizačný program sa ukončil z neznámeho dôvodu.
+Kód ukončenia: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="221"/>
@@ -11461,7 +11462,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="91"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished"></translation>
+        <translation>Túto verziu použite ako verziu nainštalovaného launchera. (uvádza sa preto, lebo vo Windowse nie je možné spoľahlivo zachytiť výstup na štandardný výstup)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="92"/>
@@ -11526,7 +11527,12 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Program na aktualizáciu nedokázal vytvoriť súbor protokolu – %1.
+
+Uistite sa, že máte oprávnenie na zápis do priečinka s dátami.
+(%2)
+
+Program na aktualizáciu nemôže pokračovať, kým tento problém nevyriešite.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -11588,7 +11594,7 @@ Aktualizátor nemôže pokračovať, kým tento problém neopravíte.</translati
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="507"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="960"/>
         <source>Reading manifest from %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čítanie manifestu z %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="519"/>
@@ -11599,7 +11605,8 @@ Aktualizátor nemôže pokračovať, kým tento problém neopravíte.</translati
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="525"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Inštalácia nasledujúcich súborov do %1 :
+ %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="529"/>
@@ -11610,28 +11617,28 @@ Aktualizátor nemôže pokračovať, kým tento problém neopravíte.</translati
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="541"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Inštaluje sa %1 z %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="545"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovanie súboru %1 do %2 sa nepodarilo</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="560"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1035"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Súbor neexistuje, ignorujem: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="573"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri inštalácii aktualizácie došlo k chybám.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="577"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizácia prebehla úspešne.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="738"/>
