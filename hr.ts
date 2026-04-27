@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Osvježi pri pokretanju</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -59,7 +59,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovo možete postaviti na drugi server ukoliko ima problema s preuzimanjem nasljednih FML biblioteka. (Minecraft 1.5.2 i predhodne verzije)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući pričuvni prijelaz na Modrinth za blokirane modove.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -1755,7 +1755,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation type="unfinished">Ako je &quot;Kopiraj save datoteku&quot; selektirano, save svijeta će biti kopiran umjesto povezan te samim time nije dijeljen među instancama.</translation>
+        <translation>Ako je &quot;Kopiraj save datoteku&quot; odabrano, save datoteka svijeta će biti kopirana umjesto povezana te samim time ne djeljena među instancama.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
@@ -2337,12 +2337,14 @@ Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će pr
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadogradnja podatkovnih paketa tijekom trajanja igre može dovesti to duplikacije paketa ili pada igre.
+Stare datoteke možda neće biti izbrisane jer se koriste.
+Jeste li sigurni da želite nastaviti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Program za ažuriranje podatkovnih paketa je prekinut!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="151"/>
@@ -2404,7 +2406,7 @@ Jeste li sigurni?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedovoljno radne memorije.</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
