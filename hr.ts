@@ -2406,7 +2406,7 @@ Jeste li sigurni?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Nedovoljno radne memorije.</translation>
+        <translation>Nedovoljno radne memorije</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2415,7 +2415,12 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedovoljno radne memorije za pokretanje ove instance sa trenutačnim postavkama memorije.
+
+Potrebno: %1 MiB
+Dostupno: %2 MiB
+
+Želite li ipak nastaviti? Nastavljanje bi moglo uzrokovati usporavanje igre i vašeg sustava.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2424,7 +2429,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sustav je pod povećanim opterećenjem memorije.
+To može uzrokovati lag i usporavanje.
+Ako je moguće, zatvorite ostale aplikacije prije nastavljanja.
+
+Želite li ipak nastaviti?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2433,22 +2442,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše sustav je pod opasnim opterećenjem memorije.
+To može dovesti do snažnijeg usporavanja, padova ili nestabilnost sustava.
+Preporučeno je da zatvorite ostale aplikacije ili ponovno pokrenete računalo.
+
+Želite li ipak nastaviti?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Visoko opterećenje memorije</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Sustav je pod velikim opterećenjem memorije</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Malo slobodne radne memorije</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2458,12 +2471,17 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Možda nema dovoljno slobodne memroje za pokretanje ove instance sa trenutnim postavkama memorije.
+
+Maksimalno alocirano: %1 MiB
+Slobodno: %2 MiB
+
+Želite li ipak nastaviti? To bi moglo uzrokovati usporavanja igre i sustava.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedovoljno radne memorije za pokretanje ove instance</translation>
     </message>
 </context>
 <context>
@@ -2487,7 +2505,7 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="331"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Raščlanjivanje API odgovora od Modrintha za &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="390"/>
@@ -2506,7 +2524,8 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ova instanca nemože biti pokrenuta jer neke biblioteke nedostaju ili nisu još preuzete. Molimo da probate ponovno u online modu sa uspostavljenom internetskom vezom</translation>
     </message>
 </context>
 <context>
