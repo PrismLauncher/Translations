@@ -2582,22 +2582,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Twój system jest pod ciężkim obciążeniem pamięci.
+To może powodować poważne spowolnienia, awarie lub niestabilności systemu.
+Rekomendowane jest zamknięcie innych aplikacji lub ponowne uruchomienie systemu.
+
+Uruchomić mimo to?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Duże obciążenie pamięci</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>System jest pod dużym obciążeniem pamięci</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Niska ilość wolnej pamięci</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2607,7 +2611,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Może nie być wystarczająco wolnego RAM by uruchomić tą instancje z obecnymi ustawieniami pamięci.
+
+Maksymalne zalokowane: %1 MiB
+Wolne: %2 MiB (z %3 MiB łącznej)
+
+Uruchomić mimo to? Może to spowodować spowolnienia w grze i twoim systemie.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -8248,7 +8257,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzaj &amp;skórkami...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
