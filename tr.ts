@@ -10946,7 +10946,7 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="184"/>
         <source>Download Mods</source>
-        <translation>Modu İndir</translation>
+        <translation>Mod İndir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="102"/>
