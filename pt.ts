@@ -9540,7 +9540,7 @@ Tenha a certeza de que confia no URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation>Jogo &amp;tTempo</translation>
+        <translation>Jogo &amp;Tempo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
@@ -14115,7 +14115,7 @@ Por favor atualiza %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation>Nenhuma versão de &apos;%s&apos; está disponível.
+        <translation>Nenhuma versão de &apos;%1&apos; está disponível.
 Provavelmente o autor bloqueou launchers de terceiros.</translation>
     </message>
     <message>
