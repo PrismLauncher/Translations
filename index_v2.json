@@ -203,12 +203,12 @@
             "untranslated" : 1203
         },
         "es" : {
-            "file" : "89b3d6371e8f2b6a412aaed44f2dfa4aad08bfdf.class",
-            "sha1" : "89b3d6371e8f2b6a412aaed44f2dfa4aad08bfdf",
-            "size" : 353791,
-            "translated" : 2317,
+            "file" : "6ccc75cdb12e7c8ea5994570b29e791593600cc2.class",
+            "sha1" : "6ccc75cdb12e7c8ea5994570b29e791593600cc2",
+            "size" : 355081,
+            "translated" : 2319,
             "fuzzy" : 0,
-            "untranslated" : 7
+            "untranslated" : 5
         },
         "es_UY" : {
             "file" : "b90ff320320920d8f749e1fbb6d10b18bf4c84c7.class",
@@ -331,12 +331,12 @@
             "untranslated" : 2633
         },
         "he" : {
-            "file" : "29dae8385775b76737f23b5276da022991e5aade.class",
-            "sha1" : "29dae8385775b76737f23b5276da022991e5aade",
-            "size" : 163834,
-            "translated" : 1473,
+            "file" : "4a6ae90911ebc488c4e5965e13499dfd9f76c548.class",
+            "sha1" : "4a6ae90911ebc488c4e5965e13499dfd9f76c548",
+            "size" : 163990,
+            "translated" : 1474,
             "fuzzy" : 33,
-            "untranslated" : 818
+            "untranslated" : 817
         },
         "hi" : {
             "file" : "5111bf300242bb8b3349f739e61fccbea52f5774.class",
@@ -395,12 +395,12 @@
             "untranslated" : 1
         },
         "ja" : {
-            "file" : "0aaf45168c4784c8a556c71d5cce0bd2cfea5388.class",
-            "sha1" : "0aaf45168c4784c8a556c71d5cce0bd2cfea5388",
-            "size" : 266009,
-            "translated" : 2316,
+            "file" : "c5d5626adf7e19e654606e5bc16e78b80531d535.class",
+            "sha1" : "c5d5626adf7e19e654606e5bc16e78b80531d535",
+            "size" : 266474,
+            "translated" : 2318,
             "fuzzy" : 0,
-            "untranslated" : 8
+            "untranslated" : 6
         },
         "ja_KANJI" : {
             "file" : "aa6cb9470953dc82e79b0079835163bd50a75061.class",
