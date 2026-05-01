@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>לאפשר נסיגה אל Modrinth עבור מודים חסומים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -2264,7 +2264,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation>לא ידוע</translation>
+        <translation>לא מזוהה</translation>
     </message>
 </context>
 <context>
@@ -3528,7 +3528,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>קובץ מניפסט לא תקין: אין מידע זמין להורדה עבור הקובץ &apos;%1&apos;!</translation>
+        <translation>קובץ מניפסט לא תקני: אין מידע זמין להורדת הקובץ ‚%1’‏!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
