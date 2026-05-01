@@ -2569,7 +2569,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>El sistema esta bajo aumento de la presión de la memoria.
+Esto podría causar problemas de rendimiento.
+Si es posible, cierre otras aplicaciones antes de continuar.
+
+Abrir de todos modos?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2578,7 +2582,11 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>La RAM esta bajo presión severa por parte del sistema.
+Esto podría causar severos problemas de rendimiento, bloqueos o inestabilidad del sistema.
+Es recomendado cerrar otras aplicaciones o reiniciar su sistema.
+
+Abrir de todos modos?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
