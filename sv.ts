@@ -2129,7 +2129,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>K&amp;ommando efter avslut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
