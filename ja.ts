@@ -2525,11 +2525,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation>コンピューターのメモリ使用量が増加しています。
+        <translation>システムのメモリ使用量が増加しています。
 これにより、ラグや動作の遅延が発生する可能性があります。
 可能であれば、続行する前に他のアプリケーションを終了してください。
 
-続行しますか?</translation>
+それでも起動しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2538,22 +2538,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>システムのメモリが非常に不足しています。
+このままでは動作が著しく遅くなったり、強制終了したり、システムが不安定になる可能性があります。
+他のアプリケーションを終了するか、システムを再起動することをお勧めします。
+
+それでも起動しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>メモリ不足</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>システムはメモリ不足の状態にあります</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>空きメモリが少ない</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2563,7 +2567,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>現在のメモリ設定では、この起動構成を起動するのに十分な空きメモリがない可能性があります。
+
+最大割り当て量: %1 MiB
+空き容量: %2 MiB (合計 %3 MiB 中)
+
+それでも起動しますか？ ゲームやシステムの動作が遅くなる可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -8006,7 +8015,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation type="unfinished"></translation>
+        <translation>スキン管理(&amp;S)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
