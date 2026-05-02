@@ -2319,12 +2319,12 @@ Vissa versioner av Minecraft kanske inte startar.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="145"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Datapaketets format-ID, samt de Minecraft versioner det vad avsett för.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="140"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Är datapaketet aktiverat? (Endast giltigt för ZIP-filer)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="142"/>
