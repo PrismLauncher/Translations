@@ -481,7 +481,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="350"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation>Неизвестна</translation>
+        <translation type="unfinished">Неизвестно</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -1518,7 +1518,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
         <source>Please download the missing mods.</source>
-        <translation>Скачайте отсутствующие моды.</translation>
+        <translation type="unfinished">Пожалуйста скачайте отсутствующие моды.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
