@@ -9908,7 +9908,7 @@ Stellen Sie sicher, dass Sie der URL vertrauen können.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation>Insgesamte Spielzeit aller In&amp;tanzen anzeigen</translation>
+        <translation>Insgesamte Spielzeit aller Instanzen anzeigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"/>
