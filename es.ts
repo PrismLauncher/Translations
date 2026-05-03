@@ -59,7 +59,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation>Reiniciar al lanzar</translation>
+        <translation>Actualizar al iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -2569,11 +2569,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation>El sistema esta bajo aumento de la presión de la memoria.
-Esto podría causar problemas de rendimiento.
-Si es posible, cierre otras aplicaciones antes de continuar.
+        <translation>El sistema está sometido a una mayor carga de memoria.
+Esto puede provocar retrasos o ralentizaciones.
+Si es posible, cierra otras aplicaciones antes de continuar.
 
-Abrir de todos modos?</translation>
+¿Quieres iniciar la instancia de todos modos?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2582,26 +2582,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation>La RAM esta bajo presión severa por parte del sistema.
-Esto podría causar severos problemas de rendimiento, bloqueos o inestabilidad del sistema.
-Es recomendado cerrar otras aplicaciones o reiniciar su sistema.
+        <translation>Tu sistema está sufriendo una falta de memoria grave.
+Esto puede provocar ralentizaciones importantes, fallos o inestabilidad del sistema.
+Se recomienda cerrar otras aplicaciones o reiniciar el sistema.
 
-Abrir de todos modos?</translation>
+¿Quieres continuar de todos modos?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Gran demanda de memoria</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>El sistema está sometido a una gran demanda de memoria</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Poca memoria libre</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2611,7 +2611,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es posible que no haya suficiente RAM libre para iniciar esta instancia con la configuración de memoria actual.
+
+Máximo asignado: %1 MiB
+Espacio libre: %2 MiB (de un total de %3 MiB)
+
+¿Quieres continuar de todos modos? Esto podría ralentizar el juego y tu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -8217,7 +8222,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestionar &amp;Skins...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
