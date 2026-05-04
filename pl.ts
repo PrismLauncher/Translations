@@ -2546,7 +2546,7 @@ Jesteś pewien?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Za mało pamięci RAM</translation>
+        <translation>Niewystarczająco pamięci RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2555,12 +2555,12 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Nie ma wystarczającej ilości pamięci RAM, aby uruchomić tę instancję przy obecnych ustawieniach pamięci.
+        <translation>Dostępna jest niewystarczająca ilość pamięci RAM, aby uruchomić tę instancję przy obecnych ustawieniach pamięci.
 
 Wymagane: %1 MiB
 Dostępne: %2 MiB
 
-Kontynuować mimo to? Może to spowodować spowolnienia gry i systemu.</translation>
+Kontynuować mimo to? Może to spowodować spowolnienia gry i twojego systemu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -5829,7 +5829,7 @@ Możesz później zmienić wersję Javy w ustawieniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation>Auto-&amp;wykrycie wersji Java</translation>
+        <translation>Automatycznie &amp;wykryj wersję Javy</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
@@ -5847,7 +5847,7 @@ Możesz później zmienić wersję Javy w ustawieniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation>Auto-pobieranie &amp;Mojang Java</translation>
+        <translation>Automatycznie pobierz Javę od &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
@@ -5877,7 +5877,7 @@ Możesz później zmienić wersję Javy w ustawieniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation>Testuj u&amp;stawienia</translation>
+        <translation>Testuj U&amp;stawienia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
@@ -5955,7 +5955,7 @@ Możesz później zmienić wersję Javy w ustawieniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>
         <source>Java Argumen&amp;ts</source>
-        <translation>Java Argutmen&amp;ty</translation>
+        <translation>Argumen&amp;ty Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="315"/>
@@ -5986,7 +5986,7 @@ Możesz później zmienić wersję Javy w ustawieniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="281"/>
         <source>Confirm Selection</source>
-        <translation>Potwierdź wybór</translation>
+        <translation>Potwierdź Wybór</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="282"/>
@@ -6142,7 +6142,7 @@ Możesz później zmienić wersję Javy w ustawieniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
         <source>Auto-detect Java version</source>
-        <translation>Auto-Wykryj Wersję Java</translation>
+        <translation>Automatycznie wykryj wersję Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
@@ -13557,7 +13557,7 @@ Komunikat błędu: %1</translation>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="407"/>
         <source>Java test success</source>
-        <translation>Test Java&apos;y zakończony sukcesem</translation>
+        <translation>Test Javy zakończony sukcesem</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
@@ -13565,7 +13565,7 @@ Komunikat błędu: %1</translation>
         <location filename="src/launcher/JavaCommon.cpp" line="107"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="407"/>
         <source>Java test failure</source>
-        <translation>Test Java&apos;y zakończony porażką</translation>
+        <translation>Test Javy zakończony niepowodzeniem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="65"/>
