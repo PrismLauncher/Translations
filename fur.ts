@@ -3975,9 +3975,13 @@ Par plasê, prove di gnûf.</translation>
         <translation>&amp;Inzorne</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>Ok</source>
         <translation>Va ben</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
+        <source>OK</source>
+        <translation type="unfinished">Va ben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
@@ -14928,8 +14932,12 @@ Pardabon tornâ indaûr?</translation>
 <context>
     <name>VersionSelectDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>Ok</source>
+        <translation type="unfinished">Va ben</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
+        <source>OK</source>
         <translation type="unfinished">Va ben</translation>
     </message>
     <message>
