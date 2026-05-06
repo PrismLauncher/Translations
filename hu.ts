@@ -6956,17 +6956,17 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>Instance Creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány létrehozása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>A szükséges játékfájlok letöltése a példány létrehozásakor történik. Tiltsd le, ha ki szeretnéd hagyni a kezdeti letöltést, és inkább a példány indításakor töltenéd le a fájlokat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Játékfájlok letöltése a példány létrehozásakor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
@@ -13593,7 +13593,7 @@ There are dedicated boxes for these in the settings (Java tab, in the Memory gro
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>Megpróbáltad kézzel beállítani a JVM memória opciót („-XX: PermSize”, „-XX-MaxHeapSize”, „-XX: InitialHeapSize”, „-Xmx” vagy „-Xms”) használatával.
 Ezekhez külön dobozok vannak a beállításoknál (Java fül, a memóriacsoport felső részén).
-Ez az üzenet addig lesz megjelenítve, amíg el nem távolítod el őket a JVM argumentumokból.</translation>
+Ez az üzenet addig lesz megjelenítve, amíg el nem távolítod el őket a JVM-argumentumokból.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="53"/>
@@ -13606,7 +13606,7 @@ Ez az üzenet addig lesz megjelenítve, amíg el nem távolítod el őket a JVM 
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
         <translation>Megpróbáltad átadni a szükséges Java-verzió argumentumot a JVM-nek (a „-version:xxx” használatával). Ez nem biztonságos, és nem megengedett.
-Ez az üzenet addig jelenik meg, amíg el nem távolítod ezt a JVM-argumentumokból.</translation>
+Ez az üzenet addig lesz megjelenítve, amíg el nem távolítod ezt a JVM-argumentumokból.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
