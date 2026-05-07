@@ -5650,7 +5650,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Стартирай</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="434"/>
@@ -7024,12 +7024,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Прекрати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Стартирай</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
@@ -7338,7 +7338,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
@@ -7938,7 +7938,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Стартирай</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
