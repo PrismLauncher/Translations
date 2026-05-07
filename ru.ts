@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Сервис для отправки логов</translation>
+        <translation>&amp;Сервис Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -25,7 +25,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>&amp;Тип сервиса отправки логов</translation>
+        <translation>Почтовый сервис &amp;Type</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished">Base &amp;URL</translation>
+        <translation>https://github.com/PrismLauncher/PrismLauncher/blob/develop/launcher/ui/pages/global/APIPage.ui#L70</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -50,7 +50,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Примечание: возможно, вам потребуется изменить или очистить базовый URL-адрес после изменения типа сервиса публикации логов.</translation>
+        <translation>Примечание: вы, вероятно, хотите изменить или очистить базовый URL после изменения типа службы пасты.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
@@ -65,53 +65,53 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Вы можете указать другой сервер, если у вас возникнут проблемы с загрузкой ресурсов.</translation>
+        <translation>Вы можете настроить это на другой сервер, если у вас есть проблемы с загрузкой активов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Сервер устаревших библиотек FML</translation>
+        <translation>Legacy FML Сервер библиотек</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Вы можете указать другой сервер, если у вас возникли проблемы с загрузкой устаревших библиотек FML (Minecraft 1.5.2 и более ранних версий).</translation>
+        <translation>Вы можете настроить это на другой сервер, если у вас есть проблемы с загрузкой устаревших библиотек FML (Minecraft 1.5.2 и ранее).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
-        <translation>Ключи API</translation>
+        <translation>API ключи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>Аутентификация с помощью Microsoft</translation>
+        <translation>&amp;Microsoft Authication</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
         <source>Mod&amp;rinth</source>
-        <translation>Mod&amp;rinth</translation>
+        <translation>Модринт</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>Use None</source>
-        <translation>Не использовать</translation>
+        <translation>Использовать</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
         <source>&amp;CurseForge</source>
-        <translation>&amp;CurseForge</translation>
+        <translation>CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Включить переключение на Modrinth для заблокированных модов</translation>
+        <translation>Включить возврат к Modrinth для заблокированных мод</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
         <source>&amp;Technic</source>
-        <translation>&amp;Technic</translation>
+        <translation>Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -120,7 +120,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Примечание: если аутентификация через Microsoft уже работает, то необходимость в установке этого параметра вероятнее всего отсутствует.</translation>
+        <translation>Примечание: вам, вероятно, не нужно устанавливать это, если регистрация через Microsoft Authentication уже работает.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -155,7 +155,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: этот параметр необходим только для доступа к личным данным.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: нужно только установить это для доступа к частным данным.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -168,27 +168,27 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
-        <translation>User-Agent</translation>
+        <translation>Агент Пользователя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Введите здесь имя своего пользовательского агента. Спецстрока $LAUNCHER_VER заменяется на версию лаунчера.</translation>
+        <translation>Введите пользовательского агента пользователя здесь. Специальная строка $LAUNCHER_VER будет заменена версией пусковой установки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>Сервер метаданных</translation>
+        <translation>Meta&amp;data Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
         <source>Services</source>
-        <translation>Службы</translation>
+        <translation>Услуги</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Можно установить этот параметр для стороннего сервера метаданных, чтобы использовать другие библиотеки.</translation>
+        <translation>Вы можете настроить это на сторонний сервер метаданных для использования исправленных библиотек или других взломов.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -197,7 +197,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: этот параметр необходим только для доступа к личным данным. Ознакомьтесь с &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;документацией&lt;/a&gt; для получения дополнительной информации.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: вам нужно только установить это для доступа к частным данным. Прочтите &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;документацию &lt;/a&gt; для получения дополнительной информации.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -206,7 +206,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Примечание: если CurseForge уже работает, то задавать этот параметр, скорее всего, не нужно.</translation>
+        <translation>Примечание: вам, вероятно, не нужно устанавливать это, если CurseForge уже работает.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -224,7 +224,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Не удалось разобрать манифест пакета:
+        <translation>Не удалось разобраться в манифесте набора:
 </translation>
     </message>
     <message>
@@ -235,7 +235,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Не удалось получить локальный индекс метаданных для &apos;%1&apos; v%2</translation>
+        <translation>Не удалось получить локальный индекс метаданных для «%1» v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="146"/>
@@ -2104,7 +2104,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="179"/>
         <source>%1 - %2</source>
-        <translation>%1 - %2</translation>
+        <translation>%1 - %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="181"/>
@@ -6197,7 +6197,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>Use system regional standard</translation>
     </message>
     <message>
         <source>Use system locales</source>
