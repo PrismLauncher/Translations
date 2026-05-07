@@ -10242,7 +10242,7 @@ Ignoring them may break the game.</source>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
         <translation>
-            <numerusform>無効化されるModは %n 個のModを必要とします。
+            <numerusform>無効化しようとしているModに %n 個のModが依存しています。
 </numerusform>
         </translation>
     </message>
