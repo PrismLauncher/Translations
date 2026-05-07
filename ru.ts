@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>https://github.com/PrismLauncher/PrismLauncher/blob/develop/launcher/ui/pages/global/APIPage.ui#L70</translation>
+        <translation>Base</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
