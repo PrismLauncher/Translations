@@ -7037,17 +7037,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>Instance Creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание экземпляра</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Время ожидания до прерывания запроса в секундах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка игровых файлов во время создания экземпляра игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
@@ -17900,7 +17900,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>хорошо</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
