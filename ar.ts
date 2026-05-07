@@ -2571,7 +2571,8 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+لا يمكن تشغيل هذه النسخة بسبب فقدان بعض المكتبات أو عدم تحميلها بعد. يرجى المحاولة مرة أخرى في وضع الاتصال مع وجود اتصال إنترنت فعال.</translation>
     </message>
 </context>
 <context>
@@ -5542,7 +5543,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>تحذير عند عدم توفر ذاكرة كافية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
@@ -5824,7 +5825,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام المعايير الإقليمية للنظام</translation>
     </message>
     <message>
         <source>Use system locales</source>
@@ -6056,12 +6057,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهت صلاحية &apos;%1&apos; ويلزم إعادة المصادقة</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>تغير تعريف العميل الخاص بمشغل اللعبة</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="201"/>
