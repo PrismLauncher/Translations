@@ -6146,7 +6146,7 @@ Verzi Javy můžete později změnit v nastavení.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít systémové regionální standardy</translation>
     </message>
     <message>
         <source>Use system locales</source>
