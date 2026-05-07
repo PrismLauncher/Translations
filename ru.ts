@@ -423,7 +423,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
-        <translation>Commit: %1</translation>
+        <translation>Коммит: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
@@ -481,7 +481,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="350"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Неизвестно</translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -4545,7 +4545,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>Этот URL ссылается на недопустимую сборку!</translation>
+        <translation>Этот URL ссылается на недоступную сборку!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
@@ -7042,12 +7042,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation>Время ожидания до прерывания запроса в секундах</translation>
+        <translation>При создании экземпляра игры загружаются необходимые игровые файлы. Отключите эту опцию, чтобы пропустить первоначальную загрузку и получить файлы при запуске экземпляра.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Download game files during instance creation</source>
-        <translation>Загрузка игровых файлов во время создания экземпляра игры.</translation>
+        <translation>Загрузка игровых файлов во время создания экземпляра игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
@@ -14289,7 +14289,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>Произошла ошибка при выполнении следующей операции переименования:&lt;br/&gt; - Старый корневой каталог экземпляра: %1&lt;br/&gt; - Новый корневой каталог экземпляра: %2&lt;br/&gt; Будут переименованы только метаданные.</translation>
+        <translation>Произошла ошибка при выполнении следующей операции переименования:&lt;br/&gt; - Старый корневой каталог экземпляра: %1&lt;br/&gt; - Новый корневой каталог экземпляра: %2&lt;br/&gt;Будут переименованы только метаданные.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
@@ -17900,7 +17900,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation>хорошо</translation>
+        <translation>Потвердить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
