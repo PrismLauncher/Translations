@@ -654,7 +654,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Премести &amp;Нагоре</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -2452,7 +2452,12 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма достатъчно RAM памет за стартиране на тази инстанция с текущите настройки на паметта.
+
+Необходими: %1 MiB
+Налични: %2 MiB
+
+Да продължи ли въпреки това? Това може да забави играта и системата ви.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2461,7 +2466,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Системата изпитва повишено натоварване на паметта.
+Това може да причини лаг или забавяния.
+Ако е възможно, затворете други приложения, преди да продължите.
+
+Все пак да се стартира ли?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2470,7 +2479,11 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Системата изпитва критично натоварване на паметта.
+Това може да доведе до сериозни забавяния, сривове или нестабилност на системата.
+Препоръчително е да затворите други приложения или да рестартирате системата.
+
+Все пак да се стартира ли?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
@@ -2495,7 +2508,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Възможно е да няма достатъчно свободна RAM памет, за да се стартира тази инстанция с текущите настройки на паметта.
+
+Максимално заделена: %1 MiB
+Свободна: %2 MiB (от общо %3 MiB)
+
+Да се стартира ли въпреки това? Това може да доведе до забавяния в играта и системата ви.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -2865,12 +2883,12 @@ This instance cannot be launched because some libraries are missing or have not 
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished">Този текс поддържа следните заместители:
-{name}     - Име на мод
-{mod_id}   - Идентификационен номер на мод
-{url}      - URL адрес към мод
-{version}  - Версия на мод
-{authors}  - Автор на мод</translation>
+        <translation>Този текст поддържа следните заместители:
+{name} – Име на мода
+{mod_id} – ID на мода
+{url} – URL адрес на мода
+{version} – Версия на мода
+{authors} – Автори на мода</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -3226,7 +3244,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактира JSON файлове на компоненти.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
@@ -3311,7 +3329,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
         <source>VisualVM Executable</source>
-        <translation type="unfinished">VisualVM Executable</translation>
+        <translation>Изпълним файл на VisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
@@ -3440,58 +3458,59 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Извличане на манифеста...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно намиране на версията на пакета %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно разчитане на манифеста на пакета:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешаване на модовете...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Невалиден манифест: Липсва информация за изтегляне на файла „%1“!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Намерени блокирани файлове</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Следните файлове не са достъпни за изтегляне чрез launchers от трети страни.&lt;br/&gt;Ще трябва да ги изтеглите ръчно и да ги добавите към инстанцията.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Създава се инстанцията...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтегляне на модове...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтегляне на мод</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Копиране на блокирани модификации...</translation>
+        <translation>Копиране на блокирани модификации...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="375"/>
@@ -3522,7 +3541,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Забележка: Много от най-новите FTB модпакове са налични и в CurseForge! Също така, ако вашите FTB инстанции не са в стандартното местоположение, изберете го чрез бутона до полето за търсене.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -3620,7 +3639,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="179"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Анализ на API отговор от CurseForge за &apos;%1&apos;...</translation>
+        <translation>Анализ на API отговор от CurseForge за &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="183"/>
@@ -3684,7 +3703,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Неуспешно намиране на версия за зареждач %1</translation>
+        <translation>Неуспешно намиране на версия за зареждач %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="303"/>
@@ -4015,7 +4034,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Забележка: Много от най-новите FTB модпакове са налични и в CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4198,7 +4217,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно отваряне на файла %1 за четене: %2</translation>
     </message>
 </context>
 <context>
@@ -4489,12 +4508,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="109"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно изтегляне на файловете на играта: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="113"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтегляне на файловете на играта</translation>
     </message>
 </context>
 <context>
@@ -4832,12 +4851,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно създаване на staging папка.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="966"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно записване на инстанцията, дори след няколко опита. Вероятно е блокирана от нещо.</translation>
     </message>
 </context>
 <context>
@@ -4845,12 +4864,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Добре дошли!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Натиснете „Добавяне на инстанция“, за да започнете.</translation>
     </message>
 </context>
 <context>
@@ -4868,17 +4887,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Стартирай</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Прекрати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
