@@ -4499,7 +4499,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
@@ -6695,17 +6695,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>Instance Creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance Creation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Download game files during instance creation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
@@ -16934,7 +16934,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
