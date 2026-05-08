@@ -1692,7 +1692,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1840,23 +1840,23 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ishga tushirishdan oldin buyruq</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;ost-chiqish buyrug&apos;i</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;O&apos;rash buyrug&apos;i</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ishga tushirishdan oldingi buyruq namuna ishga tushirilgunga qadar ishlaydi va u chiqqandan keyin chiqishdan keyingi buyruq ishlaydi.&lt;/p&gt;&lt;p&gt;Ikkisi ham qo‘shimcha muhit o‘zgaruvchilari bilan ishga tushirgichning ishchi papkasida ishga tushadi:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Namuna nomi&lt;/li&gt;&lt;li&gt;$INST_ID - papkaning identifikatori -$li&gt;$INST_ID&lt;/i&gt;ST_ID -$liD&gt; misolning mutlaq yo&apos;li&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft&apos;ning mutlaq yo&apos;li&lt;/li&gt;&lt;li&gt;$INST_JAVA - ishga tushirish uchun ishlatiladigan Java ikkilik fayli&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - ishga tushirish uchun ishlatiladigan buyruq qatori parametrlari (ogohlantirish: agar argumentlarda bo&apos;sh joy bo&apos;lsa, to&apos;g&apos;ri ishlamaydi)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wpper qo&apos;shimcha buyruq yordamida ishga tushirishga imkon beradi. Linuxda &quot;optirun&quot;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1864,93 +1864,93 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Relizlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Suratlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation type="unfinished"></translation>
+        <translation>Betalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <source>Alphas</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
         <source>Experiments</source>
-        <translation type="unfinished"></translation>
+        <translation>Tajribalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod yuklovchi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>hech qaysi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Mato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorgan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxsus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft versiyasi tanlanmagan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hech qanday mod yuklovchi tanlanmagan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1 uchun hozircha hech qanday versiya mavjud emas</translation>
     </message>
 </context>
 <context>
@@ -1958,17 +1958,17 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="23"/>
         <source>Scanning files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayllar skanerlanmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="41"/>
         <source>Failed to scan source path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Manba yo‘lini skanerlab bo‘lmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="54"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 nusxalanmoqda…</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -1977,7 +1977,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayrim yoʻllarni nusxalab boʻlmadi!</translation>
     </message>
 </context>
 <context>
@@ -1985,7 +1985,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanilmagan</translation>
     </message>
 </context>
 <context>
@@ -1993,49 +1993,49 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoqish</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ism</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Paket formati</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Oxirgi tahrirlangan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="145"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ma&apos;lumotlar to&apos;plami formatining identifikatori, shuningdek, u ishlab chiqilgan Minecraft versiyalari.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="140"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&apos;lumotlar to&apos;plami yoqilganmi? (Faqat ZIP uchun amal qiladi)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="142"/>
         <source>The name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&apos;lumotlar to&apos;plamining nomi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="147"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu ma&apos;lumotlar to&apos;plami oxirgi marta o&apos;zgartirilgan (yoki qo&apos;shilgan) sana va vaqt.</translation>
     </message>
 </context>
 <context>
@@ -2043,27 +2043,27 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketlarni yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlayn mod platformalaridan ma&apos;lumotlar paketlarini yuklab oling</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha tanlangan maʼlumotlar paketlarini tekshirish yoki yangilashga harakat qiling (agar hech biri tanlanmagan boʻlsa, barcha maʼlumotlar paketlari)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&apos;lumotlar paketi versiyasini o&apos;zgartiring.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="81"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&apos;lumotlar paketlarini yuklab oling</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="83"/>
@@ -2087,75 +2087,78 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuklab olish foydalanuvchi tomonidan to&apos;xtatildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="93"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="182"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="260"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogohlantirishlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="192"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="271"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="125"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Metamaʼlumotlar oʻchirilgan boʻlsa, maʼlumotlar toʻplamini yangilab boʻlmaydi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilashni tasdiqlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="131"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>O&apos;yin ishlayotgan vaqtda ma&apos;lumotlar paketlarini yangilash paketlarni takrorlash va o&apos;yin ishdan chiqishiga olib kelishi mumkin.
+Eski fayllar ishlatilayotganligi sababli ularni o&apos;chirib bo&apos;lmaydi.
+Haqiqatan ham buni qilmoqchimisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="153"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Maʼlumotlar toʻplamini yangilash toʻxtatildi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;% 1&apos; yangilangan! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="160"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha ma&apos;lumotlar paketlari yangilangan! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha tanlangan ma&apos;lumotlar paketlari yangilangan! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="165"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilash tekshiruvi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="207"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>O&apos;chirishni tasdiqlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="208"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1 maʼlumotlar paketi uchun metamaʼlumotlarni oʻchirib tashlamoqchisiz.
+Ishonchingiz komilmi?</translation>
     </message>
 </context>
 <context>
@@ -2169,7 +2172,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>RAM yetarli emas</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2178,7 +2181,12 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Joriy xotira sozlamalari bilan ushbu misolni ishga tushirish uchun RAM yetarli emas.
+
+Majburiy: %1 MiB
+Mavjud: %2 MiB
+
+Baribir davom ettirilsinmi? Bu o&apos;yin va tizimingizda sekinlashuvga olib kelishi mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2187,7 +2195,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tizim yuqori xotira bosimi ostida.
+Bu kechikish yoki sekinlashuvga olib kelishi mumkin.
+Iloji bo&apos;lsa, davom etishdan oldin boshqa ilovalarni yoping.
+
+Baribir ishga tushirilsinmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2196,22 +2208,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tizimingiz muhim xotira bosimi ostida.
+Bu jiddiy sekinlashuvlarga, buzilishlarga yoki tizimning beqarorligiga olib kelishi mumkin.
+Boshqa ilovalarni yopish yoki tizimni qayta ishga tushirish tavsiya etiladi.
+
+Baribir ishga tushirilsinmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuqori xotira bosimi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Tizim yuqori xotira bosimi ostida</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Kam bo&apos;sh xotira</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2221,12 +2237,17 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Joriy xotira sozlamalari bilan ushbu misolni ishga tushirish uchun bo&apos;sh RAM yetarli bo&apos;lmasligi mumkin.
+
+Maksimal ajratilgan: %1 MiB
+Bepul: %2 MiB (jami %3 MiBdan)
+
+Baribir ishga tushirilsinmi? Bu o&apos;yin va tizimingizda sekinlashuvga olib kelishi mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu misolni ishga tushirish uchun RAM yetarli emas</translation>
     </message>
 </context>
 <context>
@@ -2234,29 +2255,29 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurslarda metama’lumotlar bor-yo‘qligi tekshirilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dan metadata maʼlumotlari soʻralmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>“% 2” uchun %1 dan metadata maʼlumotlari soʻralmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="331"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinthdan &quot;% 1&quot; uchun API javobi tahlil qilinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="390"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="458"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;% 1&quot; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
     </message>
 </context>
 <context>
@@ -2265,7 +2286,8 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Bu misolni ishga tushirib boʻlmaydi, chunki baʼzi kutubxonalar yoʻq yoki hali yuklab olinmagan. Iltimos, ishlaydigan Internet aloqasi bilan onlayn rejimda qayta urinib ko&apos;ring</translation>
     </message>
 </context>
 <context>
@@ -2273,12 +2295,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation>O&apos;yinga egalik huquqini aniqlash.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>Huquqlar oldi</translation>
     </message>
 </context>
 <context>
@@ -2286,37 +2308,37 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ism</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="110"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Qiymat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="50"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qoʻshish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Global sozlamalarni bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oʻchirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tozalash</translation>
     </message>
 </context>
 <context>
@@ -2324,7 +2346,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport namunasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
@@ -2334,12 +2356,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="92"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="137"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport % 1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
