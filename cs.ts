@@ -232,11 +232,11 @@
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Nepodařilo se najít verzi pro %1 loader</translation>
+        <translation>Nepodařilo se najít verzi pro zavaděč %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Není nastavena žádná verze pro modpack!</translation>
+        <translation>Není nastavena žádná zavaděče verze pro modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
@@ -1767,7 +1767,7 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Zakázáním tohoto ponecháte mod loader (např. Fabric, Quilt, atd.), ale smažete složku s mody a jejich nastavení.</translation>
+        <translation>Zakázáním tohoto ponecháte zavaděč modů (např. Fabric, Quilt, atd.), ale smažete složku s mody a jejich konfigurace.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -2176,7 +2176,7 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation>Mod loader</translation>
+        <translation>Zavaděč modů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
@@ -2221,7 +2221,7 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
         <source>No mod loader is selected.</source>
-        <translation>Není vybrán žádný mod loader.</translation>
+        <translation>Není vybrán žádný zavaděč modů.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
@@ -3737,7 +3737,7 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="99"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nenalezena žádná platná verze tohoto zdroje. Nejspíš je pro aktuální verzi hry nebo mod loader nedostupný.</translation>
+        <translation>Nenalezena žádná platná verze této položky. Nejspíš je pro aktuální verzi hry nebo zavaděč modů nedostupná.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="102"/>
@@ -3835,12 +3835,12 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Nepodařilo se najít verzi pro loader %1</translation>
+        <translation>Nepodařilo se najít verzi pro zavaděč %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="303"/>
         <source>No loader version set for modpack!</source>
-        <translation>Není nastavena žádná verze pro modpack!</translation>
+        <translation>Není nastavena žádná verze zavaděče pro modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="339"/>
@@ -3857,7 +3857,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Neznámý mod loader v manifestu: %1</translation>
+        <translation>Neznámý zavaděč modů v manifestu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
@@ -4631,7 +4631,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
-        <translation>Nainstalovat Loader</translation>
+        <translation>Nainstalovat zavaděč</translation>
     </message>
 </context>
 <context>
@@ -4639,7 +4639,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="40"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>Pro Minecraft %1 aktuálně nejsou dostupné žádné verze</translation>
+        <translation>Pro Minecraft %1 nejsou aktuálně dostupné žádné verze</translation>
     </message>
 </context>
 <context>
@@ -10002,7 +10002,7 @@ Nejspíše budete muset změnit cestu – pro více informací viz web modifikac
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="475"/>
         <source>Override Mod Download &amp;Loaders</source>
-        <translation>Přepsat &amp;loadery stahování modů</translation>
+        <translation>Přepsat &amp;zavaděče stahování modů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
@@ -10264,7 +10264,7 @@ Nejspíše budete muset změnit cestu – pro více informací viz web modifikac
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation>Loadery</translation>
+        <translation>Zavaděče</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
@@ -10465,7 +10465,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Loaders</source>
-        <translation>Loadery</translation>
+        <translation>Zavaděče</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -10663,7 +10663,7 @@ Jejich ignorování může rozbít hru.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
         <source>The mod loader.</source>
-        <translation>Mod loader.</translation>
+        <translation>Zavaděč modů.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="207"/>
@@ -11379,7 +11379,7 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nenalezena žádná platná verze tohoto zdroje. Nejspíš je pro aktuální verzi hry nebo mod loader nedostupný.</translation>
+        <translation>Nenalezena žádná platná verze této položky. Nejspíš je pro aktuální verzi hry nebo zavaděč modů nedostupná.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
@@ -12355,128 +12355,129 @@ Jste si jisti?</translation>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se pochopit manifest balíčku:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Nepodporovaný režim instalace</translation>
+        <translation>Nepodporovaný režim instalace</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Nepodařilo se získat index lokálních metadat pro „%1“ v%2</translation>
+        <translation>Nepodařilo se získat index lokálních metadat pro „%1“ v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Mazání existujících souborů...</translation>
+        <translation>Mazání existujících souborů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Neznámý typ modu: %1</translation>
+        <translation>Neznámý typ modu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Nepodařilo se získat index lokálních metadat pro %1</translation>
+        <translation>Nepodařilo se získat index lokálních metadat pro %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se nalézt verzi pro zavaděč %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Není nastavena žádná verze pro modpack!</translation>
+        <translation>Není nastavena žádná verze zavaděče pro modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Neznámý nebo nepodporovaný typ stahování: %1</translation>
+        <translation>Neznámý nebo nepodporovaný typ stahování: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Stahování konfigurací...</translation>
+        <translation>Stahování konfigurací...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
         <source>Config download</source>
-        <translation type="unfinished">Konfigurace stahování</translation>
+        <translation>Stažení konfigurace</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Extrahování konfigurací...</translation>
+        <translation>Rozbalování konfigurací...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Výběr volitelných modů...</translation>
+        <translation>Výběr volitelných modů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Stahování modů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Stažení modu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Neznámý typ stahování: %1</translation>
+        <translation>Neznámý typ stahování: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalezeny blokované mody</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Následující soubory nejsou dostupné ke stažení v launcehrech třetích stran.&lt;br/&gt;Budete je muset ručně stáhnout a přidat do instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">Dokončeno %1 z %2</translation>
+        <translation>Dokončeno %1 z %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Nepodařilo se rozbalit mody...</translation>
+        <translation>Nepodařilo se rozbalit mody...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Rozbalování modů...</translation>
+        <translation>Rozbalování modů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Instalace modpacku</translation>
+        <translation>Instalace modpacku</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Nepodařilo se vytvořit komponent knihoven</translation>
+        <translation>Nepodařilo se vytvořit komponentu knihoven</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Neznámý typ zavaděče: </translation>
+        <translation>Neznámý typ zavaděče: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Nepodařilo se vytvořit komponent balíku</translation>
+        <translation>Nepodařilo se vytvořit komponentu balíku</translation>
     </message>
 </context>
 <context>
@@ -17436,12 +17437,12 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="164"/>
         <source>Install Loader</source>
-        <translation>Nainstalovat loader</translation>
+        <translation>Nainstalovat zavaděč</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="167"/>
         <source>Install a mod loader.</source>
-        <translation>Nainstalovat modloader.</translation>
+        <translation>Nainstalovat zavaděč modů.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="196"/>
