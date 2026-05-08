@@ -205,64 +205,52 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Forstod ikke pakkemanifest:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="346"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Kunne ikke hente det lokale metadataindeks for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>Kunne ikke hente det lokale metadataindeks for &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="146"/>
         <source>Unsupported installation mode</source>
         <translation>Ikke-understøttet installationstilstand</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
         <translation>Sletter eksisterende filer...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="334"/>
         <source>Unknown mod type: %1</source>
         <translation>Ukendt mod-type: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Kunne ikke finde version for %1 loader</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
         <translation>Ingen loader version angivet for modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="520"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>Ukendt eller ikke-understøttet downloadtype: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Downloading configs...</source>
         <translation>Henter konfigurationer...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="635"/>
         <source>Config download</source>
         <translation>Konfigurationsdownload</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="676"/>
         <source>Extracting configs...</source>
         <translation>Udpakker konfigurationer...</translation>
     </message>
@@ -271,17 +259,14 @@
         <translation type="vanished">Kunne ikke åbne pakkekonfigurationer %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="700"/>
         <source>Selecting optional mods...</source>
         <translation>Vælger valgfrie mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
         <source>Downloading mods...</source>
         <translation>Henter mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
         <source>Mod download</source>
         <translation>Mod-download</translation>
     </message>
@@ -290,53 +275,42 @@
         <translation type="vanished">Ikke understøttet downloadtype: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="737"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="867"/>
         <source>Unknown download type: %1</source>
         <translation>Ukendt downloadtype: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="817"/>
         <source>Blocked mods found</source>
         <translation>Blokerede mods fundet</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>Følgende filer er ikke tilgængelige til hentning i tredjeparts launchers.&lt;br/&gt;Du skal hente dem manuelt og føje dem til instansen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 ud af %2 fuldført</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="909"/>
         <source>Failed to extract mods...</source>
         <translation>Kunne ikke udpakke mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="919"/>
         <source>Extracting mods...</source>
         <translation>Udpakker mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Installing modpack</source>
         <translation>Installerer modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Failed to create libraries component</source>
         <translation>Kunne ikke oprette bibliotekskomponent</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Unknown loader type: </source>
         <translation>Ukendt loader type: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1043"/>
         <source>Failed to create pack component</source>
         <translation>Kunne ikke oprette pakkekomponent</translation>
     </message>
@@ -8197,7 +8171,7 @@ Reason:
         <translation type="vanished">Start offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
         <source>Confirm Deletion</source>
         <translation>Bekræft Sletning</translation>
     </message>
@@ -8319,7 +8293,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>No instance selected</source>
         <translation>Ingen instans valgt</translation>
     </message>
@@ -8403,8 +8377,8 @@ Er du sikker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1103"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1013"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
         <source>Abort</source>
         <translation>Afbryd</translation>
     </message>
@@ -8417,27 +8391,27 @@ Please add your Microsoft or Mojang account.</oldsource>
 Tilføj din Mojang- eller Minecraft-konto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modpakken, mod, eller resource %1 er blokeret for tredje parter! Hent det venligst manuelt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
         <source>Install modpack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1074"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -8446,77 +8420,77 @@ URL:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1092"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1095"/>
         <source>Modpack download</source>
         <translation>Modpack download</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1135"/>
         <source>No instance!</source>
         <translation>Ingen instance!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Ingen instance tilgængelig at tilføje resource til.
 Opret en ny instance før du forsøger at installere denne resource igen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
         <source>Group name</source>
         <translation>Gruppe navn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Enter a new group name.</source>
         <translation>Indtast et nyt gruppe navn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Delete group</source>
         <translation>Slet gruppe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
         <source>Failed to undo trashing instance</source>
         <translation>Fortrudt sletning af instans mislykkedes</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Nogle instanser og genveje kunne ikke gendannes.
 Kontrollér din papirkurv for manuelt at gendanne dem.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1391"/>
         <source>Instance not editable</source>
         <translation>Instance kan ikke redigeres</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Denne instance kan ikke redigeres. Det kan være ødelagt, ugyldigt eller for gammelt. Tjek logfiler for detaljer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Føjet %1 til PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 blev føjet til din PATH. Du kan nu starte den ved at køre `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Kunne ikke tilføje %1 til PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1450"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Der opstod en fejl under forsøg på at tilføje %1 til PATH</translation>
     </message>
@@ -8595,32 +8569,32 @@ Sletning kan ødelægge de andre instances,
         <translation>&amp;Omdøb gruppe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Er du sikker på at du vil slette gruppen &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Rename group</source>
         <translation>Omdøb gruppe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Cannot rename group</source>
         <translation>Gruppen kan ikke omdøbes</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Cannot set empty name.</source>
         <translation>Kan ikke angive tomt navn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Group already exists. :/</source>
         <translation>Gruppen eksisterer allerede. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1415"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1423"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -8629,17 +8603,17 @@ For at rydde metadatacachen manuelt, skal du trykke på Mapper -&gt; Vis Launche
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Kan ikke slette kørende instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>Den valgte instans kører i øjeblikket og kan ikke slettes. Stop den, før du forsøger at slette den.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> og dens registrerede genvej %n</numerusform>
@@ -8647,7 +8621,7 @@ For at rydde metadatacachen manuelt, skal du trykke på Mapper -&gt; Vis Launche
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1499"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1507"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -8658,7 +8632,7 @@ Dette kan være permanent og vil fuldt ud slette instansen.
 Er du sikker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
         <source>Deleting</source>
         <translation>Sletter</translation>
     </message>
@@ -8683,48 +8657,48 @@ Er du sikker?</translation>
         <translation type="vanished">Oprettet en genvej til denne instans i applikationsmappen!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>Rename Instance</source>
         <translation>Omdøb Instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Din instance mappe indeholder &apos;!&apos; og dette er kendt for at forårsage Java problemer!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Du har nu to muligheder: &lt;br/&gt; - ændre instansmappen i indstillingerne &lt;br/&gt; - flytte denne installation af %1 til en anden mappe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Dette er et problem: &lt;br/&gt; - launcheren vil sandsynligvis blive slettet uden varsel af operativsystemet &lt;br/&gt; - luk launcheren nu og udpak den til en rigtig placering, ikke en midlertidig mappe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1738"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1746"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Din instance mappe indeholder &apos;Rar$&apos; - det betyder, at du ikke har udpakket launcher arkivet!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1752"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Din instance mappe er i en midlertidig mappe: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1758"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1766"/>
         <source>Total playtime: %1</source>
         <translation>Samlet spilletid: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1098"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="987"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1001"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
@@ -11579,6 +11553,136 @@ Er du sikker?</translation>
     <message>
         <source>Other logs</source>
         <translation type="vanished">Andre logs</translation>
+    </message>
+</context>
+<context>
+    <name>PackInstallTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
+        <source>Unsupported installation mode</source>
+        <translation type="unfinished">Ikke-understøttet installationstilstand</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
+        <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
+        <translation type="unfinished">Kunne ikke hente det lokale metadataindeks for &apos;%1&apos; v%2</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
+        <source>Deleting existing files...</source>
+        <translation type="unfinished">Sletter eksisterende filer...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
+        <source>Unknown mod type: %1</source>
+        <translation type="unfinished">Ukendt mod-type: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
+        <source>Failed to get local metadata index for %1</source>
+        <translation type="unfinished">Kunne ikke hente det lokale metadataindeks for %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
+        <source>Failed to find version for %1 loader</source>
+        <translation type="unfinished">Kunne ikke finde version for %1 loader</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
+        <source>Unknown or unsupported download type: %1</source>
+        <translation type="unfinished">Ukendt eller ikke-understøttet downloadtype: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
+        <source>Downloading configs...</source>
+        <translation type="unfinished">Henter konfigurationer...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
+        <source>Config download</source>
+        <translation type="unfinished">Konfigurationsdownload</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
+        <source>Extracting configs...</source>
+        <translation type="unfinished">Udpakker konfigurationer...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
+        <source>Selecting optional mods...</source>
+        <translation type="unfinished">Vælger valgfrie mods...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
+        <source>Mod download</source>
+        <translation type="unfinished">Mod-download</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
+        <source>Unknown download type: %1</source>
+        <translation type="unfinished">Ukendt downloadtype: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
+        <source>Blocked mods found</source>
+        <translation type="unfinished">Blokerede mods fundet</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
+        <source>Failed to extract mods...</source>
+        <translation type="unfinished">Kunne ikke udpakke mods...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
+        <source>Extracting mods...</source>
+        <translation type="unfinished">Udpakker mods...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
+        <source>Installing modpack</source>
+        <translation type="unfinished">Installerer modpack</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
+        <source>Failed to create libraries component</source>
+        <translation type="unfinished">Kunne ikke oprette bibliotekskomponent</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
+        <source>Unknown loader type: </source>
+        <translation type="unfinished">Ukendt loader type: </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
+        <source>Failed to create pack component</source>
+        <translation type="unfinished">Kunne ikke oprette pakkekomponent</translation>
     </message>
 </context>
 <context>

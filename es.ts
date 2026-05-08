@@ -225,64 +225,52 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>No se pudo comprender el manifiesto del modpack:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="346"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Error al obtener el índice de metadatos local para %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>Error al obtener el índice de metadatos local para &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="146"/>
         <source>Unsupported installation mode</source>
         <translation>Modo de instalación no admitido</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
         <translation>Eliminando archivos existentes...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="334"/>
         <source>Unknown mod type: %1</source>
         <translation>Tipo de modificación desconocido: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Error al encontrar la versión para el loader %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
         <translation>¡No se ha establecido una versión del loader para el modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="520"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>Tipo de descarga desconocido o no soportado: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Downloading configs...</source>
         <translation>Descargando configuraciones...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="635"/>
         <source>Config download</source>
         <translation>Descargar configuración</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="676"/>
         <source>Extracting configs...</source>
         <translation>Extrayendo configuraciones...</translation>
     </message>
@@ -291,17 +279,14 @@
         <translation type="vanished">¡No se pudo abrir las configuraciones del modpack %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="700"/>
         <source>Selecting optional mods...</source>
         <translation>Seleccionando modificaciones opcionales...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
         <source>Downloading mods...</source>
         <translation>Descargando mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
         <source>Mod download</source>
         <translation>Descarga del mod</translation>
     </message>
@@ -310,53 +295,42 @@
         <translation type="vanished">Tipo de descarga no soportada: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="737"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="867"/>
         <source>Unknown download type: %1</source>
         <translation>Tipo de descarga desconocido: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="817"/>
         <source>Blocked mods found</source>
         <translation>Se han encontrado mods bloqueados</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>Los siguientes archivos no están disponibles para su descarga en lanzadores de terceros.&lt;br/&gt;Deberá descargarlos manualmente y añadirlos a la instancia.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 de %2 completado</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="909"/>
         <source>Failed to extract mods...</source>
         <translation>Error al extraer los mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="919"/>
         <source>Extracting mods...</source>
         <translation>Extrayendo mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Installing modpack</source>
         <translation>Instalando modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Failed to create libraries component</source>
         <translation>Error al crear el componente de librerías</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Unknown loader type: </source>
         <translation>Tipo de loader desconocido: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1043"/>
         <source>Failed to create pack component</source>
         <translation>Error al crear el componente del pack</translation>
     </message>
@@ -8765,7 +8739,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>No instance selected</source>
         <translation>No hay una instancia seleccionada</translation>
     </message>
@@ -8861,8 +8835,8 @@ Motivo:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1103"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1013"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -8875,28 +8849,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 Por favor, añade una cuenta Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>El pack de mods, mod, o recurso %1 está bloqueado para terceros! Por favor, descargalo manualmente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1092"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1095"/>
         <source>Modpack download</source>
         <translation>Descarga de Modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
         <source>Group name</source>
         <translation>Nombre del grupo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Enter a new group name.</source>
         <translation>Entra un nuevo nombre de grupo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Delete group</source>
         <translation>Borrar grupo</translation>
     </message>
@@ -8905,37 +8879,37 @@ Por favor, añade una cuenta Microsoft.</translation>
         <translation type="vanished">¿Estás seguro de que quieres borrar el grupo %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1391"/>
         <source>Instance not editable</source>
         <translation>Instancia no editable</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Esta instancia no es editable. Puede estar rota, no ser válida o ser demasiado antigua. Compruebe los registros para más detalles.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Añadido exitosamente %1 a %PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 fue añadido exitosamente a %PATH . Ahora puedes iniciarlo ejecutando `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Error al añadir %1 a PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1450"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Se ha producido un error al intentar añadir %1 a la variable PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
         <source>Confirm Deletion</source>
         <translation>Confirmar Borrado</translation>
     </message>
@@ -9042,22 +9016,22 @@ Esto es permanente y borrará completamente la instancia.
         <translation>&amp;Renombrar grupo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>Enlace de importación no válido: falta el parámetro &apos;url&apos;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>Enlace de importación no válido: la URL debe ser http(s).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
         <source>Install modpack</source>
         <translation>Instalar modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1074"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -9070,56 +9044,56 @@ URL:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1135"/>
         <source>No instance!</source>
         <translation>¡No hay instancia!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>No hay ninguna instancia disponible para añadir el recurso.
 Por favor, cree una nueva instancia antes de intentar instalar este recurso de nuevo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>¿Estás seguro/a de que quieres eliminar el grupo &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Rename group</source>
         <translation>Renombrar grupo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Cannot rename group</source>
         <translation>No puedes renombrar el grupo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Cannot set empty name.</source>
         <translation>No puedes poner un nombre vació.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Group already exists. :/</source>
         <translation>Ese grupo ya existe. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
         <source>Failed to undo trashing instance</source>
         <translation>No se pudo deshacer la eliminación de la instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Algunos elementos y accesos directos no se han podido restaurar.
 Comprueba la papelera de reciclaje para restaurarlos manualmente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1415"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1423"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -9128,17 +9102,17 @@ Para borrar la caché de metadatos manualmente, pulsa Carpetas (O) -&gt; Raíz d
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
         <source>Cannot Delete Running Instance</source>
         <translation>No se puede eliminar la instancia en ejecución</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>La instancia seleccionada se está ejecutando actualmente y no se puede eliminar. Por favor, detén la instancia antes de intentar eliminarla.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> y su acceso directo registrado %n</numerusform>
@@ -9146,7 +9120,7 @@ Para borrar la caché de metadatos manualmente, pulsa Carpetas (O) -&gt; Raíz d
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1499"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1507"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -9157,7 +9131,7 @@ Esta acción puede ser irreversible y eliminará por completo la instancia.
 ¿Estás seguro/a?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
         <source>Deleting</source>
         <translation>Eliminando</translation>
     </message>
@@ -9198,48 +9172,48 @@ Esta acción puede ser irreversible y eliminará por completo la instancia.
         <translation type="vanished">¡Se creó un acceso directo a esta instancia en tu carpeta de aplicaciones!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>Rename Instance</source>
         <translation>Cambiar nombre de instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Su carpeta de instancia contiene &apos;!&apos;, ¡se sabe que esto causa problemas en Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Ahora tienes dos opciones: &lt;br/&gt; - cambiar la carpeta de la instancia en la configuración &lt;br/&gt; - mover esta instalación de %1 a una carpeta diferente</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Este es un problema: &lt;br/&gt; - Es probable que el sistema operativo borre el launcher sin previo aviso &lt;br/&gt; - cierra el launcher ahora y extráelo a una carpeta real, no a una carpeta temporal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1738"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1746"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Su carpeta de instancia contiene &apos;Rar$&apos; - ¡eso significa que no ha extraído el archivo del launcher!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1752"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>¡Su instancia está en una carpeta temporal: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1758"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1766"/>
         <source>Total playtime: %1</source>
         <translation>Tiempo de juego total: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1098"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="987"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1001"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -12405,6 +12379,136 @@ Esta acción puede ser definitiva y el archivo desaparecerá de la carpeta de re
     <message>
         <source>Other logs</source>
         <translation type="vanished">Otros registros</translation>
+    </message>
+</context>
+<context>
+    <name>PackInstallTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
+        <source>Unsupported installation mode</source>
+        <translation type="unfinished">Modo de instalación no admitido</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
+        <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
+        <translation type="unfinished">Error al obtener el índice de metadatos local para &apos;%1&apos; v%2</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
+        <source>Deleting existing files...</source>
+        <translation type="unfinished">Eliminando archivos existentes...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
+        <source>Unknown mod type: %1</source>
+        <translation type="unfinished">Tipo de modificación desconocido: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
+        <source>Failed to get local metadata index for %1</source>
+        <translation type="unfinished">Error al obtener el índice de metadatos local para %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
+        <source>Failed to find version for %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
+        <source>Unknown or unsupported download type: %1</source>
+        <translation type="unfinished">Tipo de descarga desconocido o no soportado: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
+        <source>Downloading configs...</source>
+        <translation type="unfinished">Descargando configuraciones...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
+        <source>Config download</source>
+        <translation type="unfinished">Descargar configuración</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
+        <source>Extracting configs...</source>
+        <translation type="unfinished">Extrayendo configuraciones...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
+        <source>Selecting optional mods...</source>
+        <translation type="unfinished">Seleccionando modificaciones opcionales...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
+        <source>Downloading mods...</source>
+        <translation type="unfinished">Descargando mods...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
+        <source>Mod download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
+        <source>Unknown download type: %1</source>
+        <translation type="unfinished">Tipo de descarga desconocido: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
+        <source>Blocked mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
+        <source>Failed to extract mods...</source>
+        <translation type="unfinished">Error al extraer los mods...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
+        <source>Extracting mods...</source>
+        <translation type="unfinished">Extrayendo mods...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
+        <source>Installing modpack</source>
+        <translation type="unfinished">Instalando modpack</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
+        <source>Failed to create libraries component</source>
+        <translation type="unfinished">Error al crear el componente de librerías</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
+        <source>Unknown loader type: </source>
+        <translation type="unfinished">Tipo de loader desconocido: </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
+        <source>Failed to create pack component</source>
+        <translation type="unfinished">Error al crear el componente del pack</translation>
     </message>
 </context>
 <context>

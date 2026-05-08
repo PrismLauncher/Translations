@@ -205,64 +205,52 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>パックのマニフェストを解釈できませんでした:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="346"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>%1 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="146"/>
         <source>Unsupported installation mode</source>
         <translation>非対応のインストールモードです</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
         <translation>既存ファイルを削除中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="334"/>
         <source>Unknown mod type: %1</source>
         <translation>不明なModの種類:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
         <source>Failed to find version for %1 loader</source>
         <translation>%1ローダーのバージョンを見つけられませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
         <translation>ModパックにModローダーのバージョンが設定されていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="520"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>不明または非対応なダウンロードの種類です: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Downloading configs...</source>
         <translation>コンフィグをダウンロード中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="635"/>
         <source>Config download</source>
         <translation>構成データのダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="676"/>
         <source>Extracting configs...</source>
         <translation>コンフィグを展開中…</translation>
     </message>
@@ -271,17 +259,14 @@
         <translation type="vanished">パックのコンフィグを開くのに失敗しました %1！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="700"/>
         <source>Selecting optional mods...</source>
         <translation>オプションのModを選択中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
         <source>Downloading mods...</source>
         <translation>Modをダウンロード中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
         <source>Mod download</source>
         <translation>Mod のダウンロード</translation>
     </message>
@@ -290,53 +275,42 @@
         <translation type="vanished">対応していないダウンロードのタイプです:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="737"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="867"/>
         <source>Unknown download type: %1</source>
         <translation>不明なダウンロードの種類です: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="817"/>
         <source>Blocked mods found</source>
         <translation>ブロックされたModが見つかりました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>以下のファイルはサードパーティのランチャーでのダウンロードができません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 / %2 完了</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="909"/>
         <source>Failed to extract mods...</source>
         <translation>Modの展開に失敗しました…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="919"/>
         <source>Extracting mods...</source>
         <translation>Modを展開中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Installing modpack</source>
         <translation>Modパックをインストール中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Failed to create libraries component</source>
         <translation>ライブラリコンポーネントの作成に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Unknown loader type: </source>
         <translation>不明なModローダーの種類です: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1043"/>
         <source>Failed to create pack component</source>
         <translation>パックコンポーネントの作成に失敗しました</translation>
     </message>
@@ -8322,7 +8296,7 @@ Reason:
         <translation type="vanished">オフラインプレイ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
         <source>Confirm Deletion</source>
         <translation>削除の確認</translation>
     </message>
@@ -8444,7 +8418,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>No instance selected</source>
         <translation>起動構成が選択されていません</translation>
     </message>
@@ -8540,8 +8514,8 @@ Are you sure?</oldsource>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1103"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1013"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
@@ -8554,28 +8528,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 Microsoftアカウントを追加してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>「%1」はサードパーティのランチャーでのダウンロードを無効化しています。手動でダウンロードしてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1092"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1095"/>
         <source>Modpack download</source>
         <translation>Modパックのダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
         <source>Group name</source>
         <translation>グループ名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Enter a new group name.</source>
         <translation>グループ名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Delete group</source>
         <translation>グループを削除</translation>
     </message>
@@ -8584,32 +8558,32 @@ Microsoftアカウントを追加してください。</translation>
         <translation type="vanished">%1 を削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1391"/>
         <source>Instance not editable</source>
         <translation>起動構成は編集できません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>この起動構成は編集できません。壊れている、形式が違う、または、古すぎます。詳細はログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
         <source>Successfully added %1 to PATH</source>
         <translation>正常に %1 をPATHに追加しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 はPATHに追加されました。`%2`を実行することで起動できます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
         <source>Failed to add %1 to PATH</source>
         <translation>%1 のPATHへの追加に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1450"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>%1 のPATHへの追加中にエラーが発生しました</translation>
     </message>
@@ -8681,22 +8655,22 @@ Do you wish to proceed?</source>
         <translation>グループ名の変更(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>無効なインポートリンク: &apos;url&apos; パラメータがありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>無効なインポートリンク: URLはhttp(s)である必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
         <source>Install modpack</source>
         <translation>Modパックをインストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1074"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -8709,56 +8683,56 @@ URL:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1135"/>
         <source>No instance!</source>
         <translation>起動構成がありません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>リソースを追加できる起動構成がありません。
 このリソースを再度インストールしようとする前に、新しい起動構成を作成してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>本当にグループ「%1」を削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Rename group</source>
         <translation>グループ名の変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Cannot rename group</source>
         <translation>グループ名を変更できません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Cannot set empty name.</source>
         <translation>空の名前は設定できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Group already exists. :/</source>
         <translation>グループ名はすでに存在します。(´・ω・｀)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
         <source>Failed to undo trashing instance</source>
         <translation>ごみ箱に移動した起動構成を元に戻せませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>一部の起動構成とショートカットを復元できませんでした。
 ごみ箱を確認し、手動で復元してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1415"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1423"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -8767,24 +8741,24 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
         <source>Cannot Delete Running Instance</source>
         <translation>実行中の起動構成を削除できません｡</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>この起動構成は現在実行中であるため、削除できません。削除する前に起動構成を停止してください。</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> 、および登録済みの%n個のショートカット</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1499"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1507"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -8795,7 +8769,7 @@ Are you sure?</source>
 本当によろしいですか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
         <source>Deleting</source>
         <translation>削除中</translation>
     </message>
@@ -8812,48 +8786,48 @@ Are you sure?</source>
         <translation type="vanished">ご利用のプラットフォームではサポートされていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>Rename Instance</source>
         <translation>起動構成の名前を編集</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>この起動構成は「!」を含んでおり、Javaが問題を起こします！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>&lt;br/&gt;起動構成のフォルダを変更するか、&lt;br/&gt;%1のインストール場所を別の場所にしてください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>&lt;br/&gt;ランチャーはOSによって警告なしに削除される可能性があります。&lt;br/&gt;ランチャーを閉じて、一時フォルダではない適切な場所に展開してください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1738"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1746"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>起動構成のフォルダに「Rar$」が含まれています。ランチャーアーカイブを展開してください！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1752"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>起動構成のフォルダが一時フォルダ「%1」にあります！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1758"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1766"/>
         <source>Total playtime: %1</source>
         <translation>総プレイ時間: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1098"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="987"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1001"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
@@ -11796,6 +11770,136 @@ Are you sure?</source>
     <message>
         <source>Other logs</source>
         <translation type="vanished">その他のログ</translation>
+    </message>
+</context>
+<context>
+    <name>PackInstallTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
+        <source>Unsupported installation mode</source>
+        <translation type="unfinished">非対応のインストールモードです</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
+        <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
+        <translation type="unfinished">&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
+        <source>Deleting existing files...</source>
+        <translation type="unfinished">既存ファイルを削除中…</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
+        <source>Unknown mod type: %1</source>
+        <translation type="unfinished">不明なModの種類:%1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
+        <source>Failed to get local metadata index for %1</source>
+        <translation type="unfinished">%1 のローカル メタデータインデックスの取得に失敗しました</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
+        <source>Failed to find version for %1 loader</source>
+        <translation type="unfinished">%1ローダーのバージョンを見つけられませんでした</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished">ModパックにModローダーのバージョンが設定されていません！</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
+        <source>Unknown or unsupported download type: %1</source>
+        <translation type="unfinished">不明または非対応なダウンロードの種類です: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
+        <source>Downloading configs...</source>
+        <translation type="unfinished">コンフィグをダウンロード中…</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
+        <source>Config download</source>
+        <translation type="unfinished">構成データのダウンロード</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
+        <source>Extracting configs...</source>
+        <translation type="unfinished">コンフィグを展開中…</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
+        <source>Selecting optional mods...</source>
+        <translation type="unfinished">オプションのModを選択中…</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
+        <source>Mod download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
+        <source>Unknown download type: %1</source>
+        <translation type="unfinished">不明なダウンロードの種類です: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
+        <source>Blocked mods found</source>
+        <translation type="unfinished">ブロックされたModが見つかりました</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished">%1 / %2 完了</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
+        <source>Failed to extract mods...</source>
+        <translation type="unfinished">Modの展開に失敗しました…</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
+        <source>Extracting mods...</source>
+        <translation type="unfinished">Modを展開中…</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
+        <source>Installing modpack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
+        <source>Failed to create libraries component</source>
+        <translation type="unfinished">ライブラリコンポーネントの作成に失敗しました</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
+        <source>Unknown loader type: </source>
+        <translation type="unfinished">不明なModローダーの種類です: </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
+        <source>Failed to create pack component</source>
+        <translation type="unfinished">パックコンポーネントの作成に失敗しました</translation>
     </message>
 </context>
 <context>

@@ -209,64 +209,52 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>No s&apos;entén el manifest del paquet:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="346"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="146"/>
         <source>Unsupported installation mode</source>
         <translation>Mode d&apos;instal·lació no admès</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
         <translation>Eliminant fitxers existents...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="334"/>
         <source>Unknown mod type: %1</source>
         <translation>Tipus de mod desconegut: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
         <source>Failed to find version for %1 loader</source>
         <translation>No s&apos;ha pogut trobar la versió pel carregador de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
         <translation>No s&apos;ha seleccionat cap versió per al carregador del paquet de mods!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="520"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>Tipus de baixada desconeguda o no admesa: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Downloading configs...</source>
         <translation>Baixant configuracions...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="635"/>
         <source>Config download</source>
         <translation>Baixada de configuracions</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="676"/>
         <source>Extracting configs...</source>
         <translation>Extraient configuracions...</translation>
     </message>
@@ -275,17 +263,14 @@
         <translation type="vanished">No s&apos;han pogut obrir les configuracions del paquet %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="700"/>
         <source>Selecting optional mods...</source>
         <translation>Triant mods opcionals...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
         <source>Downloading mods...</source>
         <translation>Baixant mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
         <source>Mod download</source>
         <translation>Baixada de mods</translation>
     </message>
@@ -294,53 +279,42 @@
         <translation type="vanished">Tipus de baixada desconeguda o no suportada: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="737"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="867"/>
         <source>Unknown download type: %1</source>
         <translation>Tipus de baixada desconeguda: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="817"/>
         <source>Blocked mods found</source>
         <translation>S&apos;han trobat mods bloquejats</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>La baixada dels següents arxius està bloquejada a llançadors de tercers. &lt;br/&gt; Haureu de baixar-los i afegir-los a la instància manualment.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 de %2 completat</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="909"/>
         <source>Failed to extract mods...</source>
         <translation>No s&apos;han pogut extreure els mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="919"/>
         <source>Extracting mods...</source>
         <translation>Extraient els mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Installing modpack</source>
         <translation>Instal·lant el paquet de mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Failed to create libraries component</source>
         <translation>Error al crear component de les llibreries</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Unknown loader type: </source>
         <translation>Tipus de carregador desconegut: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1043"/>
         <source>Failed to create pack component</source>
         <translation>Fallida en crear un component del paquet</translation>
     </message>
@@ -8288,7 +8262,7 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>No instance selected</source>
         <translation>Cap instància seleccionada</translation>
     </message>
@@ -8372,8 +8346,8 @@ Motiu:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1103"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1013"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
         <source>Abort</source>
         <translation>Cancel·lar</translation>
     </message>
@@ -8386,28 +8360,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 Si us plau, afegeix un compte de Mojang o Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>El paquet de mods, mod o recurs %1 està bloquejat a tercers! Si us plau, descarrega&apos;l manualment.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1092"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1095"/>
         <source>Modpack download</source>
         <translation type="unfinished">Descàrrega del paquet de mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
         <source>Group name</source>
         <translation>Nom del grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Enter a new group name.</source>
         <translation>Introdueix el nom del nou grup.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Delete group</source>
         <translation>Elimina el grup</translation>
     </message>
@@ -8416,37 +8390,37 @@ Si us plau, afegeix un compte de Mojang o Minecraft.</translation>
         <translation type="vanished">Estàs segur que vols esborrar el grup %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1391"/>
         <source>Instance not editable</source>
         <translation>Instància no editable</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>La instància no és editable. Pot estar corrupta, ser invàlida o massa vella. Revisa els registres per a més informació.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
         <source>Successfully added %1 to PATH</source>
         <translation>S&apos;ha afegit %1 a PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>S&apos;ha afegit %1 a PATH. El pots inicialitzar executant `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
         <source>Failed to add %1 to PATH</source>
         <translation>No s&apos;ha pogut afegir %1 a PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1450"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Hi ha hagut un error en afegir %1 a PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
         <source>Confirm Deletion</source>
         <translation type="unfinished">Confirmar eliminació</translation>
     </message>
@@ -8541,22 +8515,22 @@ Estàs segur?</translation>
         <translation>&amp;Canviar nom de grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
         <source>Install modpack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1074"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -8565,56 +8539,56 @@ URL:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1135"/>
         <source>No instance!</source>
         <translation>No hi ha cap instància!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>No hi ha cap instància on afegir el recurs.
 Si us plau, crea una nova instància abans d&apos;instal·lar el recurs de nou.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>De veritat vols esborrar el grup &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Rename group</source>
         <translation>Canviar de nom de grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Cannot rename group</source>
         <translation>No s&apos;ha pogut canviar el nom del grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Cannot set empty name.</source>
         <translation>No es pot posar un nom buit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Group already exists. :/</source>
         <translation>Aquest grup ja existeix :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
         <source>Failed to undo trashing instance</source>
         <translation>No s&apos;ha pogut desfer l&apos;eliminació de la instància</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>No s&apos;han pogut recuperar algunes instàncies i enllaços directes.
 Si us plau, revisa la paperera de reciclatge per fer-ho manualment.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1415"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1423"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -8623,17 +8597,17 @@ Per fer-ho manualment, ves a Carpetes -&gt; Veure carpeta arrel del llançador, 
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
         <source>Cannot Delete Running Instance</source>
         <translation>No es pot esborrar una instància en execució</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>La instància escollida s&apos;està executant i no es pot esborrar. Si us plau, atura la instància abans d&apos;esborrar-la.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> i el seu %n enllaç directe registrat</numerusform>
@@ -8641,7 +8615,7 @@ Per fer-ho manualment, ves a Carpetes -&gt; Veure carpeta arrel del llançador, 
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1499"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1507"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -8652,7 +8626,7 @@ L&apos;acció pot ser permanent i esborrar la instància.
 Vols continuar?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
         <source>Deleting</source>
         <translation>Esborrant</translation>
     </message>
@@ -8677,48 +8651,48 @@ Vols continuar?</translation>
         <translation type="vanished">S&apos;ha creat l&apos;enllaç directe d&apos;aquesta instància!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>Rename Instance</source>
         <translation>Canvia el nom a la instància</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>El nom de la capeta de la instància conte un &apos;!&apos; i això és conegut de causar problemes amb el Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Tens dues opcions: &lt;br/&gt; - canviar la carpeta de la instància a les opcions &lt;br/&gt; - moure aquesta instal·lació de %1 a una carpeta diferent</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Això és un problema: &lt;br/&gt; - El llançador probablement serà eliminat sense comunicar-ho al sistema operatiu &lt;br/&gt; - tanca el llançador ara i extreu-ho a una carpeta real, no una temporal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1738"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1746"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>La teva carpeta de la instància conté &apos;Rar$&apos; - això significa que no has extret el llançador encara!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1752"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>La teva instància es troba en una carpeta temporal: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1758"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1766"/>
         <source>Total playtime: %1</source>
         <translation>Temps de joc total: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1098"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="987"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1001"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -11621,6 +11595,136 @@ Vols continuar?</translation>
     <message>
         <source>Other logs</source>
         <translation type="vanished">Altres registres</translation>
+    </message>
+</context>
+<context>
+    <name>PackInstallTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
+        <source>Unsupported installation mode</source>
+        <translation type="unfinished">Mode d&apos;instal·lació no admès</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
+        <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
+        <translation type="unfinished">No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per &apos;%1&apos; v%2</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
+        <source>Deleting existing files...</source>
+        <translation type="unfinished">Eliminant fitxers existents...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
+        <source>Unknown mod type: %1</source>
+        <translation type="unfinished">Tipus de mod desconegut: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
+        <source>Failed to get local metadata index for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
+        <source>Failed to find version for %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
+        <source>Unknown or unsupported download type: %1</source>
+        <translation type="unfinished">Tipus de baixada desconeguda o no admesa: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
+        <source>Downloading configs...</source>
+        <translation type="unfinished">Baixant configuracions...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
+        <source>Config download</source>
+        <translation type="unfinished">Baixada de configuracions</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
+        <source>Extracting configs...</source>
+        <translation type="unfinished">Extraient configuracions...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
+        <source>Selecting optional mods...</source>
+        <translation type="unfinished">Triant mods opcionals...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
+        <source>Mod download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
+        <source>Unknown download type: %1</source>
+        <translation type="unfinished">Tipus de baixada desconeguda: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
+        <source>Blocked mods found</source>
+        <translation type="unfinished">S&apos;han trobat mods bloquejats</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished">%1 de %2 completat</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
+        <source>Failed to extract mods...</source>
+        <translation type="unfinished">No s&apos;han pogut extreure els mods...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
+        <source>Extracting mods...</source>
+        <translation type="unfinished">Extraient els mods...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
+        <source>Installing modpack</source>
+        <translation type="unfinished">Instal·lant el paquet de mods</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
+        <source>Failed to create libraries component</source>
+        <translation type="unfinished">Error al crear component de les llibreries</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
+        <source>Unknown loader type: </source>
+        <translation type="unfinished">Tipus de carregador desconegut: </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
+        <source>Failed to create pack component</source>
+        <translation type="unfinished">Fallida en crear un component del paquet</translation>
     </message>
 </context>
 <context>

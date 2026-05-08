@@ -213,64 +213,52 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>無法解析模組包資訊：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="346"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>無法取得 %1 的本機中繼資料索引</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>無法取得「%1」v%2 的本機中繼資料索引</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="146"/>
         <source>Unsupported installation mode</source>
         <translation>不支援的安裝模式</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
         <translation>正在刪除現有的檔案…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="334"/>
         <source>Unknown mod type: %1</source>
         <translation>未知的模組類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
         <source>Failed to find version for %1 loader</source>
         <translation>無法找到 %1 載入器的版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
         <translation>沒有為模組包設定載入器版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="520"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>未知或不支援的下載類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Downloading configs...</source>
         <translation>正在下載設定檔…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="635"/>
         <source>Config download</source>
         <translation>下載設定檔</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="676"/>
         <source>Extracting configs...</source>
         <translation>正在解壓縮設定檔…</translation>
     </message>
@@ -279,17 +267,14 @@
         <translation type="vanished">無法開啟模組包設定檔 %1！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="700"/>
         <source>Selecting optional mods...</source>
         <translation>正在選擇可選模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
         <source>Downloading mods...</source>
         <translation>正在下載模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
         <source>Mod download</source>
         <translation>模組下載</translation>
     </message>
@@ -298,53 +283,42 @@
         <translation type="vanished">不支援的下載類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="737"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="867"/>
         <source>Unknown download type: %1</source>
         <translation>未知的下載類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="817"/>
         <source>Blocked mods found</source>
         <translation>找到被封鎖的模組</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="818"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>以下檔案不開放第三方啟動器下載。&lt;br/&gt;您需要手動下載並將它們新增至實例。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>%1 out of %2 complete</source>
         <translation>已完成 %1 個，共 %2 個</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="909"/>
         <source>Failed to extract mods...</source>
         <translation>無法解壓縮模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="919"/>
         <source>Extracting mods...</source>
         <translation>正在解壓縮模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Installing modpack</source>
         <translation>正在安裝模組包</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Failed to create libraries component</source>
         <translation>無法建立程式庫元件</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Unknown loader type: </source>
         <translation>無效的載入器類型： </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1043"/>
         <source>Failed to create pack component</source>
         <translation>無法建立元件包</translation>
     </message>
@@ -8755,7 +8729,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>No instance selected</source>
         <translation>沒有選擇實例</translation>
     </message>
@@ -8851,8 +8825,8 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1103"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1013"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
@@ -8865,28 +8839,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 請新增你的 Microsoft 帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>模組包、模組或資源 %1 已封鎖第三方使用！請手動下載。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1092"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1095"/>
         <source>Modpack download</source>
         <translation>模組包下載</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
         <source>Group name</source>
         <translation>群組名稱</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Enter a new group name.</source>
         <translation>輸入新的群組名稱。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Delete group</source>
         <translation>刪除群組</translation>
     </message>
@@ -8895,37 +8869,37 @@ Please add your Microsoft or Mojang account.</oldsource>
         <translation type="vanished">你確定想要刪除群組 %1？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1391"/>
         <source>Instance not editable</source>
         <translation>實例不可編輯</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>此實例無法編輯。它可能已損壞、無效或過時。請檢查紀錄檔以取得詳細資訊。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
         <source>Successfully added %1 to PATH</source>
         <translation>已成功將 %1 新增至 PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 已成功加到您的 PATH 環境變數。現在您可以使用「%2」來啟動它。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
         <source>Failed to add %1 to PATH</source>
         <translation>無法將 %1 加到 PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1450"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>嘗試把 %1 新增至 PATH 時出現錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
         <source>Confirm Deletion</source>
         <translation>確認刪除</translation>
     </message>
@@ -9021,22 +8995,22 @@ Are you sure?</source>
         <translation>重新命名群組(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>無效的匯入連結：缺少「url」參數。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>無效的匯入連結：網址必須是 HTTP(S)。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
         <source>Install modpack</source>
         <translation>安裝模組包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1074"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -9049,56 +9023,56 @@ URL:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1135"/>
         <source>No instance!</source>
         <translation>沒有實例！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>沒有可用的實例可以新增資源。
 請先建立新的實例，再嘗試再次安裝此資源。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>確定要刪除群組「%1」嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Rename group</source>
         <translation>重新命名群組</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Cannot rename group</source>
         <translation>無法重新命名群組</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Cannot set empty name.</source>
         <translation>無法設為空名稱。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Group already exists. :/</source>
         <translation>群組已存在。:/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
         <source>Failed to undo trashing instance</source>
         <translation>無法復原已移入資源回收桶的實例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>部分實例與捷徑無法復原。
 請檢查您的資源回收桶以手動復原。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1415"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1423"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -9107,24 +9081,24 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
         <source>Cannot Delete Running Instance</source>
         <translation>無法刪除正在執行的實例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>所選的實例正在執行中，無法刪除。請先停止實例，再嘗試刪除。</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> 及其 %n 個登錄的捷徑</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1499"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1507"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -9135,7 +9109,7 @@ Are you sure?</source>
 您確定嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
         <source>Deleting</source>
         <translation>正在刪除</translation>
     </message>
@@ -9176,48 +9150,48 @@ Are you sure?</source>
         <translation type="vanished">已在您的應用程式資料夾中建立此實例的捷徑！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>Rename Instance</source>
         <translation>重新命名實例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>您的實例資料夾名稱中包含了「!」，這會導致 Java 出現問題！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>您現在有兩個選項： &lt;br/&gt; - 在設定中變更實例資料夾 &lt;br/&gt; - 將 %1 移動到其他資料夾</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>發生一個問題： &lt;br/&gt; - 啟動器很有可能在未被警告的情況下遭到作業系統刪除 &lt;br/&gt; - 現在請關閉啟動器並將其解壓縮至實際存在的位置，而不是臨時的資料夾</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1738"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1746"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>您的實例資料夾名稱中包含了「Rar$」，這代表著您還尚未將啟動器檔案解壓縮！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1752"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>您的實例資料夾還位於臨時資料夾：「%1」中！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1758"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1766"/>
         <source>Total playtime: %1</source>
         <translation>總遊戲時長：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1098"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="987"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1001"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -12392,6 +12366,136 @@ Are you sure?</source>
     <message>
         <source>Other logs</source>
         <translation type="vanished">其他記錄檔</translation>
+    </message>
+</context>
+<context>
+    <name>PackInstallTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
+        <source>Unsupported installation mode</source>
+        <translation type="unfinished">不支援的安裝模式</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
+        <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
+        <translation type="unfinished">無法取得「%1」v%2 的本機中繼資料索引</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
+        <source>Deleting existing files...</source>
+        <translation type="unfinished">正在刪除現有的檔案…</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
+        <source>Unknown mod type: %1</source>
+        <translation type="unfinished">未知的模組類型：%1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
+        <source>Failed to get local metadata index for %1</source>
+        <translation type="unfinished">無法取得 %1 的本機中繼資料索引</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
+        <source>Failed to find version for %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished">沒有為模組包設定載入器版本！</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
+        <source>Unknown or unsupported download type: %1</source>
+        <translation type="unfinished">未知或不支援的下載類型：%1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
+        <source>Downloading configs...</source>
+        <translation type="unfinished">正在下載設定檔…</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
+        <source>Config download</source>
+        <translation type="unfinished">下載設定檔</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
+        <source>Extracting configs...</source>
+        <translation type="unfinished">正在解壓縮設定檔…</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
+        <source>Selecting optional mods...</source>
+        <translation type="unfinished">正在選擇可選模組…</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
+        <source>Mod download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
+        <source>Unknown download type: %1</source>
+        <translation type="unfinished">未知的下載類型：%1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
+        <source>Blocked mods found</source>
+        <translation type="unfinished">找到被封鎖的模組</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished">已完成 %1 個，共 %2 個</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
+        <source>Failed to extract mods...</source>
+        <translation type="unfinished">無法解壓縮模組…</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
+        <source>Extracting mods...</source>
+        <translation type="unfinished">正在解壓縮模組…</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
+        <source>Installing modpack</source>
+        <translation type="unfinished">正在安裝模組包</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
+        <source>Failed to create libraries component</source>
+        <translation type="unfinished">無法建立程式庫元件</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
+        <source>Unknown loader type: </source>
+        <translation type="unfinished">無效的載入器類型： </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
+        <source>Failed to create pack component</source>
+        <translation type="unfinished">無法建立元件包</translation>
     </message>
 </context>
 <context>
