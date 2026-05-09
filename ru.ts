@@ -12539,27 +12539,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Неизвестный или неподдерживаемый тип загрузки: %1</translation>
+        <translation>Unknown or unsupported download type: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачивание конфигураций...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
         <source>Config download</source>
-        <translation type="unfinished">Скачивание настроек</translation>
+        <translation>Установка настроек</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Распаковка настроек…</translation>
+        <translation>Распаковка настроек…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Выбор необязательных модов…</translation>
+        <translation>Выбор необязательных модификаций…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
@@ -12575,12 +12575,12 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Неизвестный тип загрузки: %1</translation>
+        <translation>Неизвестный загрузочный тип: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Найдены заблокированные моды</translation>
+        <translation>Найдены заблокированные модификации</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
@@ -12590,7 +12590,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 из %2 завершено</translation>
+        <translation>Завершен %1 из %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
@@ -12600,17 +12600,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Распаковка модов…</translation>
+        <translation>Распаковка модификаций…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Установка сборки</translation>
+        <translation>Установка сборки модификаций</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Ошибка создания компонента библиотек</translation>
+        <translation>Не удалось создать компонент библиотеки</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
@@ -12620,7 +12620,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Ошибка создания компонента сборки</translation>
+        <translation>Не удалось создать компонент сборки</translation>
     </message>
 </context>
 <context>
