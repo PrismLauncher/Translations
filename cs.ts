@@ -14018,7 +14018,7 @@ Chcete odstranit tyto existující soubory jako součást této aktualizace?</tr
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
         <source>mod</source>
-        <translation>mod</translation>
+        <translation>mód</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
@@ -14546,7 +14546,7 @@ Chybová hláška: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation>mod</translation>
+        <translation>mód</translation>
     </message>
     <message>
         <source>No valid version found!</source>
