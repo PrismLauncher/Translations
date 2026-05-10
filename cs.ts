@@ -54,7 +54,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Starší verze serveru knihoven FML</translation>
+        <translation>Používat starší (legacy) knihovny FML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
@@ -2294,22 +2294,22 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Název souboru</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost datového balíčku.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Název souboru datového balíčku.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -10500,7 +10500,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Název souboru</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="210"/>
@@ -10520,7 +10520,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The file name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Název souboru modu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
@@ -14973,7 +14973,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Název souboru</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -15020,7 +15020,7 @@ Opravdu to chcete udělat?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="649"/>
         <source>The file name of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Název souboru položky.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="740"/>
@@ -15068,12 +15068,12 @@ Opravdu to chcete udělat?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Název souboru</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
         <source>The file name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Název souboru balíčku modifikací.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -16764,12 +16764,12 @@ chybí inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Název souboru</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
         <source>The file name of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Název souboru balíčku textur.</translation>
     </message>
     <message>
         <source>
