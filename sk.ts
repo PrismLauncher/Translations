@@ -2271,7 +2271,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished">Veľkosť</translation>
+        <translation>Veľkosť</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -8322,7 +8322,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="514"/>
         <source>No Default Account</source>
-        <translation>Žiade predvolený účet</translation>
+        <translation>Žiaden predvolený účet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
@@ -11281,7 +11281,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Nepodporovaný režim inštalácie</translation>
+        <translation>Nepodporovaný režim inštalácie</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
@@ -11291,12 +11291,12 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Vymazávanie existujúcich súborov...</translation>
+        <translation>Vymazávanie existujúcich súborov...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Neznámy typ módu: %1</translation>
+        <translation>Neznámy typ módu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
@@ -11311,7 +11311,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Nie je nastavená loader verzia pre tento modpack!</translation>
+        <translation>Pre modpack nebola nastavená verzia loaderu!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
@@ -14388,7 +14388,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykonávanie úlohy %1 z %2</translation>
     </message>
 </context>
 <context>
