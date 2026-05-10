@@ -2260,53 +2260,73 @@ Vissa versioner av Minecraft kanske inte startar.
 <context>
     <name>DataPackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Enable</source>
         <translation>Aktivera</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Image</source>
         <translation>Bild</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Pack Format</source>
         <translation>Paketformat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Last Modified</source>
         <translation>Senast Modifierad</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
+        <source>Size</source>
+        <translation type="unfinished">Storlek</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
+        <source>The size of the data pack.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
+        <source>The file name of the data pack.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unrecognized</source>
         <translation type="obsolete">Okänt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="145"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="89"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>Datapaketets format-ID, samt de Minecraft versioner det vad avsett för.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
         <translation>Är datapaketet aktiverat? (Endast giltigt för ZIP-filer)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The name of the data pack.</source>
         <translation>Namnet på datapaketet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="147"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
         <source>The date and time this data pack was last changed (or added).</source>
         <translation type="unfinished">Datumet och tiden på det här datapaketet var senast ändrat (eller tillagt).</translation>
     </message>
@@ -3674,7 +3694,7 @@ Försök igen.</translation>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="38"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
         <translation>Förbereder resurser för CurseForge...</translation>
@@ -3689,27 +3709,27 @@ Försök igen.</translation>
         <translation type="vanished">Hämtar API-svar från CurseForge för &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="93"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Analyserar API-svaret från CurseForge för &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="99"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Ingen giltig version hittad för denna resurs. Den är förmodligen otillgänglig för nuvarande spelversion/mod-laddare.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Ingen giltig version hittad för denna resurs. Den är förmodligen otillgänglig för nuvarande spelversion.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="179"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Analyserar API-svar från CurseForge för &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="183"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="186"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>Resurs har en uppdatering tillgänglig, men är inte nedladdningsbar genom CurseForge.</translation>
     </message>
@@ -10222,12 +10242,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="98"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="99"/>
         <source>Folder</source>
         <translation>Mapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="100"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="101"/>
         <source>File</source>
         <translation>Fil</translation>
     </message>
@@ -10310,33 +10330,43 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="201"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="210"/>
         <source>The source provider of the mod.</source>
         <translation>Källleverantören för moddet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="213"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="222"/>
         <source>For each mod, the number of other mods which depend on it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
         <source>For each mod, the number of other mods it depends on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="429"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
+        <source>The file name of the mod.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Confirm toggle</source>
         <translation type="unfinished">Bekräfta växel</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="430"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="431"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>%n mod(s) will be enabled
 </source>
         <translation type="unfinished">
@@ -10345,7 +10375,7 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="432"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
         <source>%n mod(s) will be disabled
 </source>
         <translation type="unfinished">
@@ -10354,28 +10384,28 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="433"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="434"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="452"/>
         <source>Only Toggle Selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="435"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="453"/>
         <source>Toggle Required Mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="437"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
         <source>Confirm enable</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="438"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="456"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
         <translation type="unfinished">
@@ -10384,28 +10414,28 @@ Ignoring them may break the game.</source>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="439"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="457"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="440"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="458"/>
         <source>Only Enable Selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
         <source>Enable Required</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="461"/>
         <source>Confirm disable</source>
         <translation type="unfinished">Bekräfta inaktivera</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="462"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
         <translation type="unfinished">
@@ -10414,18 +10444,18 @@ Ignoring them may break the game.</source>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="463"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="446"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
         <source>Only Disable Selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="465"/>
         <source>Disable Required</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10444,22 +10474,22 @@ Ignoring them may break the game.</source>
         <translation>Minecraft versioner</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
         <source>Is the mod enabled?</source>
         <translation>Är moddet aktiverad?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="204"/>
         <source>The name of the mod.</source>
         <translation>Namnet på moddet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="206"/>
         <source>The version of the mod.</source>
         <translation>Versionen av moddet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="208"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Datumet och tiden som moddet senast ändrades (eller lades till).</translation>
     </message>
@@ -10468,27 +10498,27 @@ Ignoring them may break the game.</source>
         <translation type="vanished">Var moddet laddades ner från.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="212"/>
         <source>On what environment the mod is running.</source>
         <translation>På vilken miljö modden körs.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="214"/>
         <source>The mod loader.</source>
         <translation>Modladdaren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="207"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="216"/>
         <source>The supported minecraft versions.</source>
         <translation>De minecraft-versioner som stöds.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="209"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="218"/>
         <source>The release type.</source>
         <translation>Släpptypen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="211"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="220"/>
         <source>The size of the mod.</source>
         <translation>Storleken på moden.</translation>
     </message>
@@ -11134,27 +11164,27 @@ Vänligen uppdatera %1!</translation>
         <translation>Förbereder resurser för Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="121"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Tolkar API-svaret från Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Not installed</source>
         <translation>Inte installerad</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>Unknown</source>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Ingen giltig version hittad för denna resurs. Den är förmodligen otillgängling för nuvarande spelversion/modladdare.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="230"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Ingen giltig version hittad för denna resurs. Den är förmodligen otillgänglig för nuvarande spelversion.</translation>
     </message>
@@ -11167,7 +11197,7 @@ Vänligen uppdatera %1!</translation>
         <translation type="vanished">Mod har en tom nedladdnings-URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="89"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="90"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Väntar på API-svaret från Modrinth...</translation>
     </message>
@@ -11175,7 +11205,7 @@ Vänligen uppdatera %1!</translation>
 <context>
     <name>ModrinthCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="66"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="73"/>
         <source> (version %1)</source>
         <translation> (version %1)</translation>
     </message>
@@ -11204,24 +11234,24 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <translation type="obsolete">Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="136"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="144"/>
         <source>No index file.</source>
         <translation>Ingen indexfil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="145"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Vi kunde inte hitta en lämplig indexfil för den äldre versionen. Detta kan göra att vissa av filerna dupliceras. Vill du fortsätta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="190"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Kunde inte ändra namn på överskrivningsmappen:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="194"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="203"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation>Kunde inte döpa om klientens överskrivningsmapp:
@@ -11232,28 +11262,28 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <translation type="vanished">Nerladdning av mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="231"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="250"/>
         <source>Mod Download Modrinth</source>
         <translation>Nedladdning av mod: Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="243"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="262"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation>En av filerna har en sökväg som leder till en godtycklig plats (%1). Detta är en säkerhetsrisk och tillåts inte.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="255"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="274"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
         <translation>Filen &quot;%1&quot; saknar en nedladdningslänk. Detta är ogiltigt i packformatet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="285"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="309"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="314"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="338"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 av %2 slutförda</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="290"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="319"/>
         <source>Downloading mods...</source>
         <translation>Laddar ner mods...</translation>
     </message>
@@ -11266,12 +11296,12 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <translation type="vanished">Ett eller fler mods från detta modpaket är valfria. De kommer laddas ner, men kommer förinställt att vara inaktiverade!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="401"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="430"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>Nedladdnings-URL:en för %1 är inte en korrekt formaterad URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="461"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="492"/>
         <source>Could not understand pack index:
 </source>
         <translation>Kunde inte förstå paketindexet:
@@ -13854,12 +13884,12 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="vanished">Kunde inte fixa behörigheter för %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="34"/>
         <source>item</source>
         <translation>objekt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="34"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="36"/>
         <source>items</source>
         <translation>objekt</translation>
     </message>
@@ -14217,12 +14247,12 @@ Felmeddelande: %3</translation>
 <context>
     <name>Resource</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="97"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <source>Unknown</source>
         <translation type="unfinished">Okänd</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="156"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14230,7 +14260,7 @@ Felmeddelande: %3</translation>
 <context>
     <name>ResourceDownload::DataPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="179"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="191"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation type="unfinished"></translation>
@@ -14361,10 +14391,10 @@ Are you sure you want to close this dialog?</source>
 <context>
     <name>ResourceDownload::ResourceModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="218"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="238"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="411"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="418"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -14377,28 +14407,28 @@ Are you sure you want to close this dialog?</source>
         <translation type="vanished">Ett nätverksfel uppstod. Kunde inte ladda projektinformation: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="234"/>
         <source>A network error occurred. Could not load project versions: %1</source>
         <translation>Ett nätverksfel uppstod. Kunde inte ladda projekt versioner: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="257"/>
         <source>A network error occurred. Could not load project info: %1</source>
         <translation>Ett nätverksfel uppstod. Kunde inte ladda projekt information: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="263"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
         <translation>Begäran avbröts av okänd anledning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="440"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>Ett nätverksfel inträffade. Kunde inte ladda in mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>API-versionen är för gammal!
@@ -14408,7 +14438,7 @@ Vänligen uppdatera %1!</translation>
 <context>
     <name>ResourceDownload::ResourcePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="128"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="131"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>resurspaket</translation>
@@ -14515,44 +14545,44 @@ Vänligen uppdatera %1!</translation>
         <translation>Laddar versioner...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="461"/>
         <source>No versions available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="459"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="462"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="570"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="573"/>
         <source>Reinstall</source>
         <translation>Ominstallera</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="571"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="574"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Retur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="577"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="580"/>
         <source>Cancel</source>
         <translation type="unfinished">Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="595"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="598"/>
         <source>The resource was not found</source>
         <translation>Resursen hittades inte</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
         <translation>resurser</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="49"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="48"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
         <translation>resurs</translation>
@@ -14561,7 +14591,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownload::ShaderPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="162"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="171"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>shaderpaket</translation>
@@ -14585,7 +14615,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownload::TexturePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="151"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>texturpaket</translation>
@@ -14609,19 +14639,19 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownloadTask</name>
     <message>
-        <location filename="src/launcher/ResourceDownloadTask.cpp" line="45"/>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="74"/>
         <source>Resource download</source>
         <translation>Resursnedladdning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="75"/>
         <source>Downloading resource:
 %1</source>
         <translation>Laddar ner resurs:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="131"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14629,7 +14659,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="549"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -14638,86 +14668,96 @@ Varning: Denna resurs är symboliskt länkad från en annan plats. Ändringar ti
 Ursprunglig sökväg: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="555"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="578"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den kommer också ändra originalet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Enable</source>
         <translation>Aktivera</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Last Modified</source>
         <translation>Senast modifierad</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Size</source>
         <translation>Storlek</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Provider</source>
         <translation type="unfinished">Leverantör</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last modified</source>
         <translation type="vanished">Senast ändrad</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="268"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="280"/>
         <source>Confirm toggle</source>
         <translation>Bekräfta växel</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="281"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Om du aktiverar/inaktiverar den här resursen medan spelet körs kan det krascha ditt spel.
 Är du säker på att du vill göra det här?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="612"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="639"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Är resursen aktiverad?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="614"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="641"/>
         <source>The name of the resource.</source>
         <translation>Namnet på resursen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="616"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="643"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>Datumet och tiden när denna resurs senast ändrades (eller lades till).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="618"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="645"/>
         <source>The source provider of the resource.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="620"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="647"/>
         <source>The size of the resource.</source>
         <translation>Storleken på resursen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="711"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="649"/>
+        <source>The file name of the resource.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="740"/>
         <source>Override Columns Visibility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="724"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="753"/>
         <source>Show / Hide Columns</source>
         <translation>Visa / Dölj Kolumner</translation>
     </message>
@@ -14725,42 +14765,52 @@ Are you sure you want to do this?</source>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="151"/>
         <source>Is the resource pack enabled?</source>
         <translation>Är resurspaketet påslaget?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Enable</source>
         <translation>Aktivera</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Image</source>
         <translation>Bild</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Last Modified</source>
         <translation>Senast modifierad</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Size</source>
         <translation>Storlek</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Provider</source>
         <translation type="unfinished">Leverantör</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
+        <source>The file name of the resource pack.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unrecognized</source>
         <translation type="vanished">Okänt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="149"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="156"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>Resurspaketets format-ID, samt Minecraft-versionen det designades för.</translation>
@@ -14780,22 +14830,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den kommer också ändra originalet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
         <source>The source provider of the resource pack.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="162"/>
         <source>The size of the resource pack.</source>
         <translation>Storleken på resurspaketet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Pack Format</source>
         <translation>Paketformat</translation>
     </message>
@@ -14808,7 +14858,7 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         <translation type="vanished">Är resurspaketet aktiverat? (Endast giltigt för ZIP)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="153"/>
         <source>The name of the resource pack.</source>
         <translation>Namnet på resurspaketet.</translation>
     </message>
@@ -14817,7 +14867,7 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         <translation type="vanished">Versionen på resurspaketet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="151"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>Datumet och tiden när detta resurspaket senast ändrades (eller lades till).</translation>
     </message>
@@ -14969,161 +15019,161 @@ Are you sure?</source>
 <context>
     <name>ResourceUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="43"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="45"/>
         <source>Confirm resources to update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="54"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
         <source>You&apos;re about to update the following resources:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
         <source>Only resources with a check will be updated!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="73"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation type="unfinished">Modnamn: %1&lt;br&gt;Filnamn: %2&lt;br&gt;Anledning: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
         <source>Metadata generation failed</source>
         <translation type="unfinished">Generering av metadata misslyckades</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="90"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="92"/>
         <source>Checking for updates</source>
         <translation type="unfinished">Söker efter uppdateringar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="110"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="205"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="351"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="367"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="361"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="378"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="436"/>
         <source>Error</source>
         <translation type="unfinished">Fel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="115"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="214"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="219"/>
         <source>Warnings</source>
         <translation type="unfinished">Varningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="121"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="219"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="379"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="224"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="391"/>
         <source>Abort</source>
         <translation type="unfinished">Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="122"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
         <source>Checking for updates...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="168"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="171"/>
         <source>Mod name: %1</source>
         <translation type="unfinished">Modnamn: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Reason: %1</source>
         <translation type="unfinished">Anledning: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation type="unfinished">Möjlig lösning: Hämta den senaste versionen manuellt:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="178"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Failed to check for updates</source>
         <translation type="unfinished">Misslyckades med att söka efter uppdateringar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="184"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="220"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="225"/>
         <source>Checking for dependencies...</source>
         <translation type="unfinished">Söker efter beroenden...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="240"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="246"/>
         <source>Not installed</source>
         <translation type="unfinished">Inte installerad</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="276"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="283"/>
         <source>Looking for metadata</source>
         <translation type="unfinished">Letar efter metadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="321"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="329"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="380"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="392"/>
         <source>Generating metadata...</source>
         <translation type="unfinished">Genererar metadata...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="446"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation type="unfinished">Kunde inte hitta någon giltig version på vald(a) modleverantör(er)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="444"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="457"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation type="unfinished">Moden inaktiverades eftersom den kanske redan är installerad.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="464"/>
         <source>Provider: %1</source>
         <translation type="unfinished">Leverantör: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="455"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="468"/>
         <source>Old version: %1</source>
         <translation type="unfinished">Gammal version: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="459"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="472"/>
         <source>New version: %1</source>
         <translation type="unfinished">Ny version: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="464"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="477"/>
         <source>New Version Type: %1</source>
         <translation type="unfinished">Ny versionstyp: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="471"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="484"/>
         <source>Required by: %1</source>
         <translation type="unfinished">Krävs av: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="474"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="487"/>
         <source>Required by:</source>
         <translation type="unfinished">Krävs av:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="486"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="499"/>
         <source>Changelog of the latest version</source>
         <translation type="unfinished">Ändringslogg av senaste versionen</translation>
     </message>
@@ -16386,12 +16436,12 @@ inheritsFrom saknas</translation>
 <context>
     <name>TexturePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="126"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
         <translation>Är texturpaketet påslaget?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
         <translation>Namnet på texturpaketet.</translation>
     </message>
@@ -16400,7 +16450,7 @@ inheritsFrom saknas</translation>
         <translation type="vanished">Versionen på texturpaketet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
         <translation>Datumet och tiden när detta texturpaket senast ändrades (eller lades till).</translation>
     </message>
@@ -16435,6 +16485,16 @@ inheritsFrom saknas</translation>
         <translation type="unfinished">Leverantör</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
+        <source>The file name of the texture pack.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -16449,12 +16509,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 Varning: Denna resurs är hårt länkad någon annanstans. Om du redigerar den ändras också originalet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="132"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The source provider of the texture pack.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="134"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The size of the texture pack.</source>
         <translation>Storleken på texturpaketet.</translation>
     </message>
@@ -16805,7 +16865,7 @@ Are you sure?</source>
 <context>
     <name>VanillaCreationTask</name>
     <message>
-        <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="20"/>
+        <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
         <translation>Skapar instans från version %1</translation>
     </message>

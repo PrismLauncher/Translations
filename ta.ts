@@ -2000,37 +2000,57 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
 <context>
     <name>DataPackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Enable</source>
         <translation>இயக்கு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Image</source>
         <translation>படம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Name</source>
         <translation>பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Pack Format</source>
         <translation>பேக் வடிவம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Last Modified</source>
         <translation>கடைசியாக மாற்றப்பட்டது</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
+        <source>Size</source>
+        <translation type="unfinished">அளவு</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
+        <source>The size of the data pack.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
+        <source>The file name of the data pack.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unrecognized</source>
         <translation type="vanished">அங்கீகரிக்கப்படாத</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="145"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="89"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>டேட்டா பேக் வடிவமைப்பு அடையாளம், அத்துடன் அது வடிவமைக்கப்பட்ட Minecraft பதிப்புகள்.</translation>
@@ -2050,17 +2070,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 எச்சரிக்கை: இந்த சான்று வேறு இடங்களில் கடினமாக இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
         <translation>டேட்டா பேக் இயக்கப்பட்டதா? (சிப்சுக்கு மட்டுமே செல்லுபடியாகும்)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The name of the data pack.</source>
         <translation>டேட்டா பேக்கின் பெயர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="147"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
         <source>The date and time this data pack was last changed (or added).</source>
         <translation>இந்த தரவு பேக் கடைசியாக மாற்றப்பட்டது (அல்லது சேர்க்கப்பட்டது).</translation>
     </message>
@@ -3312,7 +3332,7 @@ Please try again.</source>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="38"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
         <translation>Curseforge க்கான வளங்களைத் தயாரித்தல் ...</translation>
@@ -3323,27 +3343,27 @@ Please try again.</source>
         <translation type="vanished">&apos;%1&apos; க்கு Curseforge இலிருந்து பநிஇ பதிலைப் பெறுதல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="93"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>&apos;%1&apos; க்கு Curseforge இலிருந்து பநிஇ பதிலை பாகுபடுத்துதல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="99"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>இந்த வளத்திற்கு சரியான பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பு / மோட் ஏற்றிக்கு இது கிடைக்கவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>இந்த வளத்திற்கு சரியான பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பிற்கு இது கிடைக்கவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="179"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>&apos;%1&apos; க்கு Curseforge இலிருந்து பநிஇ பதிலை பாகுபடுத்துதல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="183"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="186"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>வளம் ஒரு புதிய புதுப்பிப்பைக் கொண்டுள்ளது, ஆனால் Curseforge ஐப் பயன்படுத்தி பதிவிறக்கம் செய்ய முடியாது.</translation>
     </message>
@@ -8797,12 +8817,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="98"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="99"/>
         <source>Folder</source>
         <translation>கோப்புறை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="100"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="101"/>
         <source>File</source>
         <translation>கோப்பு</translation>
     </message>
@@ -8886,78 +8906,88 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
         <source>Is the mod enabled?</source>
         <translation>மோட் இயக்கப்பட்டதா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="204"/>
         <source>The name of the mod.</source>
         <translation>மோடின் பெயர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="206"/>
         <source>The version of the mod.</source>
         <translation>மோடின் பதிப்பு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="208"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>இந்த மோட் கடைசியாக மாற்றப்பட்ட தேதி மற்றும் நேரம் (அல்லது சேர்க்கப்பட்டது).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="201"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="210"/>
         <source>The source provider of the mod.</source>
         <translation>மோடின் மூல வழங்குநர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="212"/>
         <source>On what environment the mod is running.</source>
         <translation>மோட் எந்த சூழலில் இயங்குகிறது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="214"/>
         <source>The mod loader.</source>
         <translation>மோட் ஏற்றி.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="207"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="216"/>
         <source>The supported minecraft versions.</source>
         <translation>ஆதரிக்கப்பட்ட மின்கிராஃப்ட் பதிப்புகள்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="209"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="218"/>
         <source>The release type.</source>
         <translation>வெளியீட்டு வகை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="211"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="220"/>
         <source>The size of the mod.</source>
         <translation>மோடின் அளவு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="213"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="222"/>
         <source>For each mod, the number of other mods which depend on it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
         <source>For each mod, the number of other mods it depends on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="429"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
+        <source>The file name of the mod.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Confirm toggle</source>
         <translation type="unfinished">மாற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="430"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="431"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>%n mod(s) will be enabled
 </source>
         <translation type="unfinished">
@@ -8966,7 +8996,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="432"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
         <source>%n mod(s) will be disabled
 </source>
         <translation type="unfinished">
@@ -8975,28 +9005,28 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="433"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="434"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="452"/>
         <source>Only Toggle Selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="435"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="453"/>
         <source>Toggle Required Mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="437"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
         <source>Confirm enable</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="438"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="456"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
         <translation type="unfinished">
@@ -9005,28 +9035,28 @@ Ignoring them may break the game.</source>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="439"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="457"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="440"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="458"/>
         <source>Only Enable Selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
         <source>Enable Required</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="461"/>
         <source>Confirm disable</source>
         <translation type="unfinished">முடக்கு உறுதிப்படுத்தவும்</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="444"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="462"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
         <translation type="unfinished">
@@ -9035,18 +9065,18 @@ Ignoring them may break the game.</source>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="463"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="446"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
         <source>Only Disable Selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="465"/>
         <source>Disable Required</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9461,32 +9491,32 @@ Please update %1!</source>
         <translation>மோட்ரின்ட்டுக்கு வளங்களைத் தயாரித்தல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="121"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>மோட்ரின்ட்டிலிருந்து பநிஇ பதிலை பாகுபடுத்துதல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Not installed</source>
         <translation>நிறுவப்படவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>Unknown</source>
         <translation>தெரியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>இந்த வளத்திற்கு சரியான பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பு / மோட் ஏற்றிக்கு இது கிடைக்கவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="230"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>இந்த வளத்திற்கு சரியான பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பிற்கு இது கிடைக்கவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="89"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="90"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>மோட்ரின்ட்டிலிருந்து பநிஇ பதிலுக்காக காத்திருக்கிறது ...</translation>
     </message>
@@ -9502,67 +9532,67 @@ Please update %1!</source>
 <context>
     <name>ModrinthCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="66"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="73"/>
         <source> (version %1)</source>
         <translation> (பதிப்பு %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="136"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="144"/>
         <source>No index file.</source>
         <translation>குறியீட்டு கோப்பு இல்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="145"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>பழைய பதிப்பிற்கு பொருத்தமான குறியீட்டு கோப்பை எங்களால் கண்டுபிடிக்க முடியவில்லை. இது சில கோப்புகளை நகலெடுக்கக்கூடும். நீங்கள் தொடர விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="190"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>மேலெழுதும் கோப்புறையை மறுபெயரிட முடியவில்லை:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="194"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="203"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation>வாடிக்கையாளர் கோப்புறையை மீறுவதை மறுபெயரிட முடியவில்லை:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="231"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="250"/>
         <source>Mod Download Modrinth</source>
         <translation>மோட் பதிவிறக்கம் MODRINTH</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="243"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="262"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation>கோப்புகளில் ஒன்று தன்னிச்சையான இடத்திற்கு (%1) வழிவகுக்கும் பாதையைக் கொண்டுள்ளது. இது பாதுகாப்பு இடர் மற்றும் அனுமதிக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="255"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="274"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
         <translation>&apos;%1&apos; கோப்பு பதிவிறக்க இணைப்பைக் காணவில்லை. பேக் வடிவத்தில் இது தவறானது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="285"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="309"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="314"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="338"/>
         <source>%1 out of %2 complete</source>
         <translation>%2 இல் %1 முடிந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="290"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="319"/>
         <source>Downloading mods...</source>
         <translation>மோட்சைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="401"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="430"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>%1 க்கான முகவரி ஐ பதிவிறக்கம் சரியாக வடிவமைக்கப்பட்ட முகவரி அல்ல</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="461"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="492"/>
         <source>Could not understand pack index:
 </source>
         <translation>பேக் குறியீட்டை புரிந்து கொள்ள முடியவில்லை:
@@ -11861,12 +11891,12 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="vanished">%1 க்கான அனுமதிகளை சரிசெய்ய முடியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="34"/>
         <source>item</source>
         <translation>உருப்படி</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="34"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="36"/>
         <source>items</source>
         <translation>உருப்படிகள்</translation>
     </message>
@@ -12239,12 +12269,12 @@ Error message: %3</source>
 <context>
     <name>Resource</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="97"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <source>Unknown</source>
         <translation>தெரியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="156"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12252,7 +12282,7 @@ Error message: %3</source>
 <context>
     <name>ResourceDownload::DataPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="179"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="191"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>தரவுப் பொதிகள்</translation>
@@ -12375,36 +12405,36 @@ Are you sure you want to close this dialog?</source>
 <context>
     <name>ResourceDownload::ResourceModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="218"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="238"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="411"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="418"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="234"/>
         <source>A network error occurred. Could not load project versions: %1</source>
         <translation>பிணைய பிழை ஏற்பட்டது. திட்ட பதிப்புகளை ஏற்ற முடியவில்லை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="257"/>
         <source>A network error occurred. Could not load project info: %1</source>
         <translation>பிணைய பிழை ஏற்பட்டது. திட்ட தகவலை ஏற்ற முடியவில்லை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="263"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
         <translation>அறியப்படாத காரணத்திற்காக கோரிக்கை கைவிடப்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="440"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>பிணைய பிழை ஏற்பட்டது. மோட்சை ஏற்ற முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>பநிஇ பதிப்பு மிகவும் பழையது!
@@ -12414,7 +12444,7 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::ResourcePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="128"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="131"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>வள பொதிகள்</translation>
@@ -12521,45 +12551,45 @@ Please update %1!</source>
         <translation>பதிப்புகளை ஏற்றுகிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="461"/>
         <source>No versions available</source>
         <translation>பதிப்புகள் எதுவும் கிடைக்கவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="459"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="462"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
         <translation>&apos;%1&apos; க்கான பதிப்புகள் எதுவும் கிடைக்கவில்லை. 
 ஆசிரியர் மூன்றாம் தரப்பு துவக்கிகளைத் தடுத்தார்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="570"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="573"/>
         <source>Reinstall</source>
         <translation>மீண்டும் நிறுவவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="571"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="574"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+திரும்ப</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="577"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="580"/>
         <source>Cancel</source>
         <translation>ரத்துசெய்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="595"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="598"/>
         <source>The resource was not found</source>
         <translation>சான்று காணப்படவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
         <translation>வளங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="49"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="48"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
         <translation>வள</translation>
@@ -12568,7 +12598,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownload::ShaderPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="162"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="171"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>சேடர் பொதிகள்</translation>
@@ -12592,7 +12622,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownload::TexturePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="151"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>அமைப்பு பொதிகள்</translation>
@@ -12616,19 +12646,19 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownloadTask</name>
     <message>
-        <location filename="src/launcher/ResourceDownloadTask.cpp" line="45"/>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="74"/>
         <source>Resource download</source>
         <translation>வள பதிவிறக்க</translation>
     </message>
     <message>
-        <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="75"/>
         <source>Downloading resource:
 %1</source>
         <translation>பதிவிறக்கம் வள:
  %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="131"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12636,7 +12666,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="549"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -12645,82 +12675,92 @@ Canonical Path: %1</source>
  நியமன பாதை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="555"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="578"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 எச்சரிக்கை: இந்த சான்று வேறு இடங்களில் கடினமாக இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Name</source>
         <translation>பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Enable</source>
         <translation>இயக்கு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Last Modified</source>
         <translation>கடைசியாக மாற்றப்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Size</source>
         <translation>அளவு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="244"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Provider</source>
         <translation>வழங்குநர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="268"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="280"/>
         <source>Confirm toggle</source>
         <translation>மாற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="281"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>விளையாட்டு இயங்கும்போது இந்த வளத்தை நீங்கள் இயக்கினால்/முடக்கினால் அது உங்கள் விளையாட்டை செயலிழக்கச் செய்யலாம்.
  இதை நீங்கள் செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="612"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="639"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>சான்று இயக்கப்பட்டதா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="614"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="641"/>
         <source>The name of the resource.</source>
         <translation>வளத்தின் பெயர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="616"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="643"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>இந்த சான்று கடைசியாக மாற்றப்பட்டது (அல்லது சேர்க்கப்பட்டது).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="618"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="645"/>
         <source>The source provider of the resource.</source>
         <translation>வளத்தின் மூல வழங்குநர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="620"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="647"/>
         <source>The size of the resource.</source>
         <translation>வளத்தின் அளவு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="711"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="649"/>
+        <source>The file name of the resource.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="740"/>
         <source>Override Columns Visibility</source>
         <translation>நெடுவரிசைகள் தெரிவுநிலை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="724"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="753"/>
         <source>Show / Hide Columns</source>
         <translation>நெடுவரிசைகளைக் காட்டு / மறைக்கவும்</translation>
     </message>
@@ -12728,37 +12768,42 @@ Are you sure you want to do this?</source>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Enable</source>
         <translation>இயக்கு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Image</source>
         <translation>படம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Last Modified</source>
         <translation>கடைசியாக மாற்றப்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Size</source>
         <translation>அளவு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Provider</source>
         <translation>வழங்குநர்</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
+        <source>The file name of the resource pack.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unrecognized</source>
         <translation type="vanished">அங்கீகரிக்கப்படாத</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="149"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="156"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>வள பேக் வடிவமைப்பு ஐடி, அத்துடன் அது வடிவமைக்கப்பட்ட Minecraft பதிப்புகள்.</translation>
@@ -12778,37 +12823,42 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 எச்சரிக்கை: இந்த சான்று வேறு இடங்களில் கடினமாக இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="151"/>
         <source>Is the resource pack enabled?</source>
         <translation>வள பேக் இயக்கப்பட்டதா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
         <source>The source provider of the resource pack.</source>
         <translation>வள பொதியின் மூல வழங்குநர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="162"/>
         <source>The size of the resource pack.</source>
         <translation>வள பொதியின் அளவு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Name</source>
         <translation>பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Pack Format</source>
         <translation>பேக் வடிவம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="153"/>
         <source>The name of the resource pack.</source>
         <translation>வள பொதியின் பெயர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="151"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>இந்த வள பேக் கடைசியாக மாற்றப்பட்டது (அல்லது சேர்க்கப்பட்டது).</translation>
     </message>
@@ -12963,161 +13013,161 @@ Are you sure?</source>
 <context>
     <name>ResourceUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="43"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="45"/>
         <source>Confirm resources to update</source>
         <translation>புதுப்பிக்க ஆதாரங்களை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="54"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
         <source>You&apos;re about to update the following resources:</source>
         <translation>பின்வரும் ஆதாரங்களை புதுப்பிக்க உள்ளீர்கள்:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
         <source>Only resources with a check will be updated!</source>
         <translation>காசோலை கொண்ட ஆதாரங்கள் மட்டுமே புதுப்பிக்கப்படும்!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="73"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>மோட் பெயர்: %1 &lt;br&gt; கோப்பு பெயர்: %2 &lt;br&gt; காரணம்: %3 &lt;br&gt; &lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
         <source>Metadata generation failed</source>
         <translation>மேனிலை தரவு தலைமுறை தோல்வியடைந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation>பின்வரும் ஆதாரங்களுக்கு மெட்டாடேட்டாவை உருவாக்க முடியவில்லை: &lt;br&gt; அந்த வளங்கள் இல்லாமல் தொடர விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="90"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="92"/>
         <source>Checking for updates</source>
         <translation>புதுப்பிப்புகளைச் சரிபார்க்கிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="110"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="205"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="351"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="367"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="361"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="378"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="436"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="115"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="214"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="219"/>
         <source>Warnings</source>
         <translation>எச்சரிக்கைகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="121"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="219"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="379"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="224"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="391"/>
         <source>Abort</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="122"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
         <source>Checking for updates...</source>
         <translation>புதுப்பிப்புகளைச் சரிபார்க்கிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="168"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="171"/>
         <source>Mod name: %1</source>
         <translation>மோட் பெயர்: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Reason: %1</source>
         <translation>காரணம்: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>சாத்தியமான தீர்வு: அண்மைக் கால பதிப்பை கைமுறையாகப் பெறுதல்: &lt;br&gt;%1 &lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="178"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Failed to check for updates</source>
         <translation>புதுப்பிப்புகளை சரிபார்க்கத் தவறிவிட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="184"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation>புதுப்பிப்புகளுக்கு பின்வரும் ஆதாரங்களை சரிபார்க்கவோ பெறவோ முடியவில்லை: &lt;br&gt; அந்த வளங்கள் இல்லாமல் தொடர விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="220"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="225"/>
         <source>Checking for dependencies...</source>
         <translation>சார்புகளைச் சரிபார்க்கிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="240"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="246"/>
         <source>Not installed</source>
         <translation>நிறுவப்படவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="276"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="283"/>
         <source>Looking for metadata</source>
         <translation>மெட்டாடேட்டாவைத் தேடுகிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="321"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="329"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>&apos;%1&apos; வளத்திற்கு இன்னும் மேனிலை தரவு இல்லை. இந்த மோட் எவ்வாறு புதுப்பிப்பது என்பது குறித்த பொருத்தமான தகவல்களைக் கண்காணிக்க நாங்கள் அதை உருவாக்க வேண்டும். இதைச் செய்ய, தயவுசெய்து இந்த மோடிற்கான புதுப்பிப்புகளைச் சரிபார்க்க நாங்கள் பயன்படுத்தக்கூடிய மோட் வழங்குநரைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="380"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="392"/>
         <source>Generating metadata...</source>
         <translation>மெட்டாடேட்டாவை உருவாக்குதல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="446"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட மோட் வழங்குநர் (கள்) இல் செல்லுபடியாகும் பதிப்பைக் கண்டுபிடிக்க முடியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="444"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="457"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation>மோட் ஏற்கனவே நிறுவப்பட்டிருப்பதால் முடக்கப்பட்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="464"/>
         <source>Provider: %1</source>
         <translation>வழங்குநர்: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="455"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="468"/>
         <source>Old version: %1</source>
         <translation>பழைய பதிப்பு: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="459"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="472"/>
         <source>New version: %1</source>
         <translation>புதிய பதிப்பு: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="464"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="477"/>
         <source>New Version Type: %1</source>
         <translation>புதிய பதிப்பு வகை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="471"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="484"/>
         <source>Required by: %1</source>
         <translation>தேவை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="474"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="487"/>
         <source>Required by:</source>
         <translation>வழங்கியவர்:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="486"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="499"/>
         <source>Changelog of the latest version</source>
         <translation>அண்மைக் கால பதிப்பின் சேஞ்ச்லாக்</translation>
     </message>
@@ -14251,6 +14301,16 @@ inheritsFrom is missing</source>
         <translation>வழங்குநர்</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
+        <source>The file name of the texture pack.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -14265,27 +14325,27 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 எச்சரிக்கை: இந்த சான்று வேறு இடங்களில் கடினமாக இணைக்கப்பட்டுள்ளது. அதைத் திருத்துவது அசலையும் மாற்றும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="126"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
         <translation>அமைப்பு பேக் இயக்கப்பட்டதா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
         <translation>அமைப்பு பேக்கின் பெயர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
         <translation>இந்த அமைப்பு பேக் கடைசியாக மாற்றப்பட்டது (அல்லது சேர்க்கப்பட்டது).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="132"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The source provider of the texture pack.</source>
         <translation>அமைப்பு பேக்கின் மூல வழங்குநர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="134"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The size of the texture pack.</source>
         <translation>அமைப்பு பேக்கின் அளவு.</translation>
     </message>
@@ -14569,7 +14629,7 @@ Are you sure?</source>
 <context>
     <name>VanillaCreationTask</name>
     <message>
-        <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="20"/>
+        <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
         <translation>பதிப்பு %1 இலிருந்து உதாரணத்தை உருவாக்குதல்</translation>
     </message>
