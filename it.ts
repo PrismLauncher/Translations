@@ -12255,7 +12255,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation>Tipo mod sconosciuto: %1</translation>
+        <translation>Tipo di mod sconosciuto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
