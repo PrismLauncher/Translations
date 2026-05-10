@@ -2315,7 +2315,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished">Tamanho</translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2576,9 +2576,9 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation>Seu sistema esta sob muita demanda de memória.
-Isso pode causar lentidão, interrompimentos ou instabilidades no sistema.
-É recomendado que feche os aplicativos e reinicie o sistema.
+        <translation>Seu sistema está sob crítica pressão da memória.
+Isso pode causar redução de velocidade crítica, interrupções ou instabilidade do sistema.
+É recomendado fechar outros aplicativos ou reiniciar seu sistema.
 
 Iniciar mesmo assim?</translation>
     </message>
@@ -4662,7 +4662,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
@@ -12468,27 +12468,27 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Modo de instalação não suportado</translation>
+        <translation>Modo de instalação não suportado</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Erro ao obter o índice local de metadados em &quot;%1&quot; v%2</translation>
+        <translation>Erro ao obter o índice local de metadados em &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Excluindo arquivos existentes...</translation>
+        <translation>Excluindo arquivos existentes...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Tipo de mod desconhecido: %1</translation>
+        <translation>Tipo de mod desconhecido: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao obter o índice do metadados local para %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
@@ -12498,83 +12498,83 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma versão do carregador definida para modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Tipo de download desconhecido ou não suportado: %1</translation>
+        <translation>Tipo de download desconhecido ou não suportado: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Baixando configurações...</translation>
+        <translation>Baixando configurações...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
         <source>Config download</source>
-        <translation type="unfinished">Baixar configuração</translation>
+        <translation>Baixar configuração</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Extraindo configurações...</translation>
+        <translation>Extraindo configurações...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Escolhendo mods opcionais...</translation>
+        <translation>Escolhendo mods opcionais...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Baixando mods...</translation>
+        <translation>Baixando mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Download de mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Tipo de download desconhecido: %1</translation>
+        <translation>Tipo de download desconhecido: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Mods bloqueados encontrados</translation>
+        <translation>Mods bloqueados encontrados</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Os arquivos a seguir não estão disponíveis para download em launchers de terceiros.&lt;br/&gt;Você precisará baixá-los manualmente e adicioná-los à instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 de %2 completo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Falha ao extrair mods...</translation>
+        <translation>Falha ao extrair mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Extraindo mods...</translation>
+        <translation>Extraindo mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Instalando modpack</translation>
+        <translation>Instalando modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Erro ao criar o componente de bibliotecas</translation>
+        <translation>Erro ao criar o componente de bibliotecas</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
@@ -12584,7 +12584,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Erro ao criar o componente do pacote</translation>
+        <translation>Erro ao criar o componente do pacote</translation>
     </message>
 </context>
 <context>
@@ -15058,7 +15058,7 @@ Aviso: Este recurso tem links físicos para outro lugar. Sua edição também al
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -15105,7 +15105,7 @@ Você tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="649"/>
         <source>The file name of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome do arquivo do recurso.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="740"/>
@@ -15153,12 +15153,12 @@ Você tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
         <source>The file name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome do arquivo do pacote de recursos.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -16849,12 +16849,12 @@ inheritsFrom está ausente</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
         <source>The file name of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome do arquivo do pacote de texturas.</translation>
     </message>
     <message>
         <source>
@@ -17991,7 +17991,7 @@ Por favor, adicione a sua conta do Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
