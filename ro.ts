@@ -2255,17 +2255,17 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele Fișierului</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dimensiunea data packului</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Denumirea fișierului data packului</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -2498,7 +2498,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sistema este sub presiune RAM ridicată.
+Acest fapt poate duce la incetiniri și laguri.
+Dacă este posibil, închideți alte aplicații innainte de a continua.
+
+Lansează oricum?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
