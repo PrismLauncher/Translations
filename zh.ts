@@ -102,7 +102,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>为被屏蔽的模组启用 Modrinth 作为备用平台</translation>
+        <translation>为被屏蔽的 Mod 启用 Modrinth 作为备用平台</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -2314,22 +2314,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished">大小</translation>
+        <translation>大小</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>数据包的大小。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>数据包的文件名。</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -6157,7 +6157,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>使用系统区域标准</translation>
     </message>
     <message>
         <source>Use system locales</source>
@@ -10564,7 +10564,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
@@ -10604,7 +10604,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The file name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod 的文件名。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
@@ -12416,68 +12416,68 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">无法解析包清单：
+        <translation>无法解析包清单：
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">不支持的安装模式</translation>
+        <translation>不支持的安装模式</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">无法获取 %1(v%2) 的本地元数据索引</translation>
+        <translation>无法获取 %1(v%2) 的本地元数据索引</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">正在删除现有文件...</translation>
+        <translation>正在删除现有文件...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">未知的 Mod 类型：%1</translation>
+        <translation>未知的 Mod 类型：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">无法获取 %1 的本地元数据索引</translation>
+        <translation>无法获取 %1 的本地元数据索引</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">无法找到 %1 加载器的合适版本</translation>
+        <translation>无法找到 %1 加载器的合适版本</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
         <source>No loader version set for modpack!</source>
-        <translation>尚未选择使用哪个版本加载整合包!</translation>
+        <translation>尚未设置整合包所使用的加载器版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">未知或不支持的下载类型：%1</translation>
+        <translation>未知或不支持的下载类型：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">正在下载配置文件…</translation>
+        <translation>正在下载配置文件…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
         <source>Config download</source>
-        <translation type="unfinished">下载配置文件</translation>
+        <translation>下载配置文件</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">正在解压配置文件…</translation>
+        <translation>正在解压配置文件…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">正在选择可选 Mod…</translation>
+        <translation>正在选择可选 Mod…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
@@ -12493,32 +12493,32 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">未知的下载类型：%1</translation>
+        <translation>未知的下载类型：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
         <source>Blocked mods found</source>
-        <translation>发现被阻止的 Mod</translation>
+        <translation>发现被屏蔽的 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载它们并将其添加到实例中。</translation>
+        <translation>下列文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载并将它们添加到实例中。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">已完成 %1/%2</translation>
+        <translation>已完成 %1/%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Mod 解压失败…</translation>
+        <translation>Mod 解压失败…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">正在解压 Mod…</translation>
+        <translation>正在解压 Mod…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
@@ -12528,17 +12528,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">无法创建库组件</translation>
+        <translation>无法创建库组件</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">未知的加载器类型： </translation>
+        <translation>未知的加载器类型： </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">无法创建包组件</translation>
+        <translation>无法创建包组件</translation>
     </message>
 </context>
 <context>
@@ -15000,7 +15000,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -15047,7 +15047,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="649"/>
         <source>The file name of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>资源的文件名。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="740"/>
@@ -15095,12 +15095,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
         <source>The file name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>资源包的文件名。</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -16742,7 +16742,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <translation>是否已启用此材质包？</translation>
+        <translation>是否已启用此纹理包？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
@@ -16791,12 +16791,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
         <source>The file name of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>纹理包的文件名。</translation>
     </message>
     <message>
         <source>
