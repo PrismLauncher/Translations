@@ -248,15 +248,15 @@
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Konfigurációk letöltése…</translation>
+        <translation>Beállítások letöltése…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Konfiguráció letöltése</translation>
+        <translation>Beállítások letöltése</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Konfigurációk kicsomagolása…</translation>
+        <translation>Beállítások kicsomagolása…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
