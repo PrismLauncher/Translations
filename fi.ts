@@ -929,7 +929,7 @@ Päivitä sekä käyttöjärjestelmä että %1.</translation>
         <translation>Asetukset</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1069"/>
+        <location filename="src/launcher/Application.cpp" line="1065"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -956,12 +956,12 @@ saadaksesi tarkempia tietoja viimeisimmästä päivitysyrityksestä.
 Poistaaksesi tämän lukituksen ja jatkaaksesi, valitse alempaa &quot;Sivuuta&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1086"/>
+        <location filename="src/launcher/Application.cpp" line="1082"/>
         <source>Update In Progress</source>
         <translation>Päivitys meneillään</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1110"/>
+        <location filename="src/launcher/Application.cpp" line="1106"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -976,12 +976,12 @@ Tutki Prism Launcher -päivityslokia sijainnissa:
 saadaksesi tarkempia tietoja viimeisimmästä päivitysyrityksestä.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1118"/>
+        <location filename="src/launcher/Application.cpp" line="1114"/>
         <source>Update Failed</source>
         <translation>Päivitys epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1142"/>
+        <location filename="src/launcher/Application.cpp" line="1138"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1002,12 +1002,12 @@ Tutki Prism Launcher -päivityslokia sijainnissa:
 saadaksesi lisätietoja.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1150"/>
+        <location filename="src/launcher/Application.cpp" line="1146"/>
         <source>Update Succeeded</source>
         <translation>Päivitys onnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1182"/>
+        <location filename="src/launcher/Application.cpp" line="1178"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1020,7 +1020,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1188"/>
+        <location filename="src/launcher/Application.cpp" line="1184"/>
         <source>Incompatible system configuration</source>
         <translation>Yhteensopimaton laitekonfiguraatio</translation>
     </message>
@@ -1029,22 +1029,22 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
         <translation type="vanished">Keskeytetty</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1941"/>
+        <location filename="src/launcher/Application.cpp" line="1937"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Vanhoja tietoja %1:stä löydettiin, mutta sinulla on jo olemassa olevia tietoja %2:ille. Valitettavasti sinun on siirrettävä ne itse. Haluatko että sinua muistutetaan odottavasta tiedonsiirrosta seuraavan kerran, kun käynnistät %2:in?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1945"/>
+        <location filename="src/launcher/Application.cpp" line="1941"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Näyttää siltä, että olet käyttänyt %1:tä aikaisemmin. Haluatko tuoda tiedot uuteen %2:in sijaintiin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1951"/>
+        <location filename="src/launcher/Application.cpp" line="1947"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Näyttää siltä, että olet käyttänyt %1:tä aikaisemmin päivämäärällä %2. Haluatko tuoda tiedot uuteen %3:in sijaintiin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1997"/>
+        <location filename="src/launcher/Application.cpp" line="1993"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Siirtyminen epäonnistui! Syy: %1</translation>
     </message>
@@ -15983,22 +15983,22 @@ Oletko varma?</translation>
 %4 yhteensä</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>Kieli</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="397"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation>Valmius</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation>Kielen oma nimi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="406"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Valmius on kokonaan käännettyjen merkkijonojen prosenttiosuus, poislukien automaattisesti veikatut.</translation>
     </message>

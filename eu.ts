@@ -824,7 +824,7 @@ Hemen bazaude, &quot;Microsoft gehitu&quot; botoia sakatu dezakezu zure Microsof
         <translation>Ezarpenak</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1069"/>
+        <location filename="src/launcher/Application.cpp" line="1065"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -851,12 +851,12 @@ azken eguneratze-saioari buruzko xehetasunetarako.
 Sarraila hau ezabatzeko eta beheko &quot;Ez ikusiarena&quot; hautatzeko.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1086"/>
+        <location filename="src/launcher/Application.cpp" line="1082"/>
         <source>Update In Progress</source>
         <translation>Eguneraketa martxan dabil</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1110"/>
+        <location filename="src/launcher/Application.cpp" line="1106"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -871,12 +871,12 @@ Begiratu Prism Launcher updater-aren erregirtroa hemen:
 azken eguneratze-saioari buruzko xehetasunetarako.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1118"/>
+        <location filename="src/launcher/Application.cpp" line="1114"/>
         <source>Update Failed</source>
         <translation>Eguneraketa huts egin du</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1142"/>
+        <location filename="src/launcher/Application.cpp" line="1138"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -897,12 +897,12 @@ Begiratu Prism Launcher updateraren erregistroa hemen:
 xehetasunak ikusteko.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1150"/>
+        <location filename="src/launcher/Application.cpp" line="1146"/>
         <source>Update Succeeded</source>
         <translation>Eguneratuta</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1182"/>
+        <location filename="src/launcher/Application.cpp" line="1178"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -911,7 +911,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1188"/>
+        <location filename="src/launcher/Application.cpp" line="1184"/>
         <source>Incompatible system configuration</source>
         <translation>Sisteman konfigurazio bateraezina dago</translation>
     </message>
@@ -920,22 +920,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="vanished">Bertan behera utzita</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1941"/>
+        <location filename="src/launcher/Application.cpp" line="1937"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1945"/>
+        <location filename="src/launcher/Application.cpp" line="1941"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1951"/>
+        <location filename="src/launcher/Application.cpp" line="1947"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1997"/>
+        <location filename="src/launcher/Application.cpp" line="1993"/>
         <source>Migration failed! Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12944,22 +12944,22 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>Hizkuntza</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="397"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="406"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation type="unfinished"></translation>
     </message>

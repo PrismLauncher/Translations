@@ -917,7 +917,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <translation>Nustatymai</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1069"/>
+        <location filename="src/launcher/Application.cpp" line="1065"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -944,12 +944,12 @@ Norėdami gauti daugiau informacijos apie paskutinį bandymą atnaujinti.
 Norėdami ištrinti šį užraktą ir tęsti, toliau pasirinkite „Ignoruoti“.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1086"/>
+        <location filename="src/launcher/Application.cpp" line="1082"/>
         <source>Update In Progress</source>
         <translation>Vykdomas atnaujinimas</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1110"/>
+        <location filename="src/launcher/Application.cpp" line="1106"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -964,12 +964,12 @@ Patikrinkite Prism Launcher atnaujinimo žurnalą adresu:
 Norėdami gauti daugiau informacijos apie paskutinį bandymą atnaujinti.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1118"/>
+        <location filename="src/launcher/Application.cpp" line="1114"/>
         <source>Update Failed</source>
         <translation>Atnaujinimas nepavyko</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1142"/>
+        <location filename="src/launcher/Application.cpp" line="1138"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -990,12 +990,12 @@ Patikrinkite Prism Launcher atnaujinimo žurnalą adresu:
 dėl detalių.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1150"/>
+        <location filename="src/launcher/Application.cpp" line="1146"/>
         <source>Update Succeeded</source>
         <translation>Atnaujinimas pavyko</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1182"/>
+        <location filename="src/launcher/Application.cpp" line="1178"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1016,7 +1016,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1188"/>
+        <location filename="src/launcher/Application.cpp" line="1184"/>
         <source>Incompatible system configuration</source>
         <translation>Nesuderinama sistemos konfigūracija</translation>
     </message>
@@ -1025,22 +1025,22 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
         <translation type="vanished">Nutraukta</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1941"/>
+        <location filename="src/launcher/Application.cpp" line="1937"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Rasti seni duomenys iš %1, bet jūs jau turite %2 duomenis. Deja, teks pačiam persikelti. Ar norite, kad kitą kartą paleisdami %2 jums primintų apie laukiantį duomenų perkėlimą?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1945"/>
+        <location filename="src/launcher/Application.cpp" line="1941"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Panašu, kad anksčiau naudojote %1. Ar norite perkelti savo duomenis į naują vietą %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1951"/>
+        <location filename="src/launcher/Application.cpp" line="1947"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Panašu, kad anksčiau naudojote %1 %2. Ar norite perkelti savo duomenis į naują vietą %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1997"/>
+        <location filename="src/launcher/Application.cpp" line="1993"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Perkėlimas nepavyko! Priežastis: %1</translation>
     </message>
@@ -14402,22 +14402,22 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished">Kalba</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="397"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation>Užbaigtumas</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="406"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation type="unfinished"></translation>
     </message>

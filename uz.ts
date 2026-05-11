@@ -788,7 +788,7 @@ Agar bu yerda yangi bo&apos;lsangiz, Microsoft Akkauntingizni bog&apos;lash uchu
         <translation>Sozlamalar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1069"/>
+        <location filename="src/launcher/Application.cpp" line="1065"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -815,12 +815,12 @@ So&apos;nggi yangilanish urinishning tafsilotlari uchun Prism Launcher yangilovc
 Ushbu qulf-faylni o&apos;chirish va davom etish uchun quyida &quot;E&apos;tibor bermaslik&quot;ni tanlang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1086"/>
+        <location filename="src/launcher/Application.cpp" line="1082"/>
         <source>Update In Progress</source>
         <translation>Yangilanish Davom Etmoqda</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1110"/>
+        <location filename="src/launcher/Application.cpp" line="1106"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -835,12 +835,12 @@ Prism Launcher yangilash jurnalini quyidagi manzilda tekshiring:
 oxirgi yangilash urinishi haqida batafsil ma&apos;lumot uchun.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1118"/>
+        <location filename="src/launcher/Application.cpp" line="1114"/>
         <source>Update Failed</source>
         <translation>Yangilanish muvaffaqiyatsiz</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1142"/>
+        <location filename="src/launcher/Application.cpp" line="1138"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -861,12 +861,12 @@ Prism Launcher yangilash jurnalini quyidagi manzilda tekshiring:
 tafsilotlar uchun.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1150"/>
+        <location filename="src/launcher/Application.cpp" line="1146"/>
         <source>Update Succeeded</source>
         <translation>Yangilanish muvaffaqiyatli</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1182"/>
+        <location filename="src/launcher/Application.cpp" line="1178"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -887,7 +887,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1188"/>
+        <location filename="src/launcher/Application.cpp" line="1184"/>
         <source>Incompatible system configuration</source>
         <translation>Mos kelmaydigan tizim konfiguratsiyasi</translation>
     </message>
@@ -896,22 +896,22 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
         <translation type="vanished">To&apos;xtatildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1941"/>
+        <location filename="src/launcher/Application.cpp" line="1937"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 dan eski maʼlumotlar topildi, lekin sizda allaqachon %2 maʼlumotlari mavjud. Afsuski, siz o&apos;zingizni ko&apos;chirishingiz kerak bo&apos;ladi. Keyingi safar %2 ishga tushirilganda kutilayotgan maʼlumotlar koʻchishi haqida eslatilishini xohlaysizmi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1945"/>
+        <location filename="src/launcher/Application.cpp" line="1941"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Siz avval %1 dan foydalanganga o‘xshaysiz. Maʼlumotlaringizni yangi %2 manziliga koʻchirmoqchimisiz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1951"/>
+        <location filename="src/launcher/Application.cpp" line="1947"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Siz ilgari %2 da %1 dan foydalanganga o‘xshaysiz. Maʼlumotlaringizni yangi %3 manziliga koʻchirmoqchimisiz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1997"/>
+        <location filename="src/launcher/Application.cpp" line="1993"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migratsiya amalga oshmadi! Sababi: %1</translation>
     </message>
@@ -12462,22 +12462,22 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="397"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="406"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation type="unfinished"></translation>
     </message>
