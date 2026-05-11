@@ -2218,22 +2218,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished">حجم</translation>
+        <translation>الحجم</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>آسم الملف</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم حزمة البيانات.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم ملف حزمة البيانات.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -6061,7 +6061,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="201"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>%1’ لم يعد موجودًا على الخوادم</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
@@ -6087,34 +6087,36 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر اسم اللاعب لوضع التجربة</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>أنت غير متصل بالإنترنت، سيتم التشغيل في وضع عدم الاتصال
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر اسم اللاعب لوضع اللعب بدون اتصال</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="300"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم اختيار حساب للتشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. هل ترغب في إعادة المصادقة لهذا الحساب؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="487"/>
         <source>Kill Minecraft?</source>
-        <translation>قتل ماين كرافت؟</translation>
+        <translation>قتل ماينكرافت ؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="488"/>
@@ -6158,7 +6160,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>جاري الحصول على رمز دخول ماينكرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
@@ -6174,7 +6176,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>تم استلام رمز الوصول الخاص بماينكرافت</translation>
     </message>
 </context>
 <context>
