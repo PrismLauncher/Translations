@@ -25,7 +25,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Почтовый сервис &amp;Type</translation>
+        <translation>&amp;Тип сервиса отправки логов</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -168,12 +168,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
-        <translation>Агент Пользователя</translation>
+        <translation>User-Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Введите пользовательского агента пользователя здесь. Специальная строка $LAUNCHER_VER будет заменена версией пусковой установки.</translation>
+        <translation>Введите здесь имя своего пользовательского агента. Спецстрока $LAUNCHER_VER заменяется на версию лаунчера.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -183,7 +183,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
         <source>Services</source>
-        <translation>Услуги</translation>
+        <translation>Службы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
@@ -197,7 +197,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: вам нужно только установить это для доступа к частным данным. Прочтите &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;документацию &lt;/a&gt; для получения дополнительной информации.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: вам нужно только установить это для доступа к частным данным. Прочтите &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;документацию&lt;/a&gt; для получения дополнительной информации.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -2325,7 +2325,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation>Имя Файла</translation>
+        <translation>Имя файла</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
@@ -10612,7 +10612,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation>Имя Файла</translation>
+        <translation>Имя файла</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="210"/>
@@ -10632,7 +10632,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The file name of the mod.</source>
-        <translation>Название файла мода.</translation>
+        <translation>Имя файла мода.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
@@ -12569,7 +12569,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Unknown or unsupported download type: %1</translation>
+        <translation>Неизвестный или неподдерживаемый тип скачивания: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
@@ -15131,7 +15131,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation>Имя Файла</translation>
+        <translation>Имя файла</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -15178,7 +15178,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="649"/>
         <source>The file name of the resource.</source>
-        <translation>Имя файлого ресурса.</translation>
+        <translation>Имя файла ресурса.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="740"/>
@@ -15226,12 +15226,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation>Имя Файйла</translation>
+        <translation>Имя файла</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
         <source>The file name of the resource pack.</source>
-        <translation>Иия файлого ресурс пака</translation>
+        <translation>Имя файла набора ресурсов.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -16931,7 +16931,7 @@ inheritsFrom отсутствует</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
         <source>The file name of the texture pack.</source>
-        <translation>Название файла текстур пака</translation>
+        <translation>Имя файла пакета текстур.</translation>
     </message>
     <message>
         <source>
