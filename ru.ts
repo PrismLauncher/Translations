@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Base</translation>
+        <translation>Базовый &amp;URL-адрес</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -50,7 +50,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Примечание: вы, вероятно, хотите изменить или очистить базовый URL после изменения типа службы пасты.</translation>
+        <translation>Примечание: возможно, вам потребуется изменить или очистить базовый URL-адрес после изменения типа сервиса публикации логов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
@@ -65,12 +65,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Вы можете настроить это на другой сервер, если у вас есть проблемы с загрузкой активов.</translation>
+        <translation>Вы можете указать другой сервер, если у вас возникнут проблемы с загрузкой ресурсов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Legacy FML Сервер библиотек</translation>
+        <translation>Сервер устаревших библиотек FML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
@@ -80,23 +80,23 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
-        <translation>API ключи</translation>
+        <translation>Ключи API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>&amp;Microsoft Authication</translation>
+        <translation>Аутентификация с помощью Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
         <source>Mod&amp;rinth</source>
-        <translation>Модринт</translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>Use None</source>
-        <translation>Использовать</translation>
+        <translation>Не использовать</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
@@ -106,7 +106,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Включить возврат к Modrinth для заблокированных мод</translation>
+        <translation>Включить переключение на Modrinth для заблокированных модов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -120,7 +120,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Примечание: вам, вероятно, не нужно устанавливать это, если регистрация через Microsoft Authentication уже работает.</translation>
+        <translation>Примечание: если аутентификация через Microsoft уже работает, то необходимость в установке этого параметра вероятнее всего отсутствует.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -206,7 +206,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Примечание: вам, вероятно, не нужно устанавливать это, если CurseForge уже работает.</translation>
+        <translation>Примечание: если CurseForge уже работает, то задавать этот параметр, скорее всего, не нужно.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -223,7 +223,7 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Не удалось разобраться в манифесте набора:
+        <translation>Не удалось разобрать манифест пакета:
 </translation>
     </message>
     <message>
@@ -232,7 +232,7 @@
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Не удалось получить локальный индекс метаданных для «%1» v%2</translation>
+        <translation>Не удалось получить локальный индекс метаданных для &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
@@ -2078,7 +2078,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="179"/>
         <source>%1 - %2</source>
-        <translation>%1 - %3</translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="181"/>
@@ -6191,7 +6191,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation>Use system regional standard</translation>
+        <translation>Использовать региональные стандарты системы</translation>
     </message>
     <message>
         <source>Use system locales</source>
