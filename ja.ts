@@ -6462,7 +6462,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>&amp;Auto Java Download:</source>
-        <translation>Javaの自動ダウンロード(&amp;A):</translation>
+        <translation>自動ダウンロードのJava(&amp;A):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
