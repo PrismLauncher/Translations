@@ -10564,7 +10564,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nom du fichier</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
@@ -15012,7 +15012,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nom du fichier</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -15107,7 +15107,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nom du fichier</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
@@ -16803,7 +16803,7 @@ inheritsFrom est manquant</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nom du fichier</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
