@@ -273,7 +273,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Кәмит:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -336,35 +336,35 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Кулланучы исеме</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="344"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Офлайн</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="350"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Билгесез</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Төр</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Халәт</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="389"/>
@@ -453,7 +453,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Аккаунтны бетерергәме?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -474,7 +474,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Хата</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
@@ -540,7 +540,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
@@ -633,7 +633,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/Application.cpp" line="907"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Көйләүләр</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1065"/>
@@ -747,7 +747,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
@@ -799,7 +799,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Утырту</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
