@@ -3370,7 +3370,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
         <source>&amp;VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;VisualVM</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
@@ -3423,19 +3423,20 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
         <source>VisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil för VisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid kontroll av VisualVM-installationen:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM-inställningarna verkar vara okej</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
