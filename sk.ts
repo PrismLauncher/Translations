@@ -2276,7 +2276,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Názov súboru</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
@@ -4470,7 +4470,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
@@ -7940,7 +7940,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="743"/>
         <source>&amp;Widget Themes</source>
-        <translation>&amp;Widget Themes</translation>
+        <translation>&amp;Motívy Widgetov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
