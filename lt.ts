@@ -3384,7 +3384,7 @@ Ar tikrai norite tai padaryti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>„VisualVM“ sąranka atrodo tinkama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
@@ -7317,7 +7317,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
         <source>Check for new updates for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieškoti naujų %1 naujinimų.</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -7345,7 +7345,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidarykite kūrimo tinklaraštį, kad paskaitytumėte daugiau naujienų apie %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
@@ -8034,7 +8034,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Trinama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
@@ -8472,7 +8472,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Bendra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
@@ -8560,7 +8560,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="602"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Patobulinimai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="623"/>
@@ -8749,7 +8749,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
         <source>&amp;Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Našumas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="748"/>
@@ -10220,7 +10220,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
         <source>&amp;Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
@@ -11989,7 +11989,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
         <source>Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Pervadinama</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
