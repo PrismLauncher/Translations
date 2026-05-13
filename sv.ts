@@ -2424,7 +2424,7 @@ De gamla filerna kan inte tas bort eftersom de används.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; är uppdaterat! :)</translation>
+        <translation>&apos;%1&apos; är uppdaterat! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="160"/>
@@ -2439,12 +2439,12 @@ De gamla filerna kan inte tas bort eftersom de används.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="165"/>
         <source>Update checker</source>
-        <translation type="unfinished">Uppdateringskontroll</translation>
+        <translation>Uppdateringskontrolleraren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="207"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Bekräfta borttagning</translation>
+        <translation>Bekräfta borttagning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="208"/>
@@ -2498,7 +2498,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte nog med RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2507,7 +2507,12 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns ej nog åtkommligt RAM för at starta denna instans med de nuvarande minnes-inställningarna.
+
+Krävs: %1 MiB
+Tillkommlig: %2 MiB
+
+Fortsätt ändå? Detta kan orsaka nedsaktningar i spelet och ditt system.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2516,7 +2521,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemet är under ökat minnestryck .
+Detta kan leda till lagg eller nedsaktningar.
+Om möjligt, stäng andra applikationer innan du fortsätter.
+
+Starta ändå?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2602,7 +2611,8 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Denna instans kan inte startas eftersom vissa bibliotek fattas eller inte har laddats ner än. Vänligen försök igen i onlineläge med en fungerande internetuppkoppling</translation>
     </message>
 </context>
 <context>
