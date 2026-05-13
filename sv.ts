@@ -2098,7 +2098,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished">&amp;Förstartskommando</translation>
+        <translation>&amp;Kommando före start</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -2346,7 +2346,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Försök att kontrollera eller uppdatera alla valda datapaket (alla datapaket om inga är valda)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
@@ -2419,7 +2419,7 @@ De gamla filerna kan inte tas bort eftersom de används.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="153"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Datapaket-uppdateraren avbröts!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
