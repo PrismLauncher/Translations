@@ -188,7 +188,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Можно установить этот параметр для стороннего сервера метаданных, чтобы использовать другие библиотеки.</translation>
+        <translation type="unfinished">Можно установить этот параметр для стороннего сервера метаданных, чтобы использовать другие библиотеки.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
