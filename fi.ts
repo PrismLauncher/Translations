@@ -1728,7 +1728,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation>Kopioi pelimaailmat</translation>
+        <translation>Kopioi maailmat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
@@ -10061,7 +10061,7 @@ Niiden ohittaminen voi rikkoa pelin.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="465"/>
         <source>Disable Required</source>
-        <translation>Poista käytöstä valitut</translation>
+        <translation>Poista käytöstä vaativat</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
