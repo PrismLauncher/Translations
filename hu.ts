@@ -211,7 +211,7 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nem sikerült megérteni a csomag manifesztet:
+        <translation>A csomagleíró nem értelmezhető:
 </translation>
     </message>
     <message>
@@ -2304,17 +2304,17 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlnév</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az adatcsomag mérete.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az adatcsomag fájlneve.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -3587,7 +3587,7 @@ Próbáld újra.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation>Manifesztum lekérése…</translation>
+        <translation>Csomagleíró lekérése…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
@@ -3609,7 +3609,7 @@ Próbáld újra.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>Érvénytelen manifesztum: Nem áll rendelkezésre információ a(z) &apos;%1&apos; fájl letöltéséhez!</translation>
+        <translation>Érvénytelen csomagleíró: Nem áll rendelkezésre információ a(z) &apos;%1&apos; fájl letöltéséhez!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
@@ -3810,7 +3810,7 @@ Próbáld újra.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nem sikerült megérteni a csomag manifesztet:
+        <translation>A csomagleíró nem értelmezhető:
 </translation>
     </message>
     <message>
@@ -3882,7 +3882,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Ismeretlen modbetöltő a manifesztben: %1</translation>
+        <translation>Ismeretlen modbetöltő a csomagleíróban: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
@@ -6116,7 +6116,7 @@ A Java-verziót később a beállítások között megváltoztathatod.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer területi beállításainak használata</translation>
     </message>
     <message>
         <source>Use system locales</source>
@@ -10466,7 +10466,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlnév</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="210"/>
@@ -10486,7 +10486,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The file name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>A mod fájlneve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
@@ -12310,7 +12310,8 @@ Biztos vagy ebben?</translation>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>A csomagleíró nem értelmezhető:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
@@ -12335,7 +12336,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült lekérni a helyi metaadatindexet ehhez: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
@@ -12375,7 +12376,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modok letöltése...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
@@ -12396,7 +12397,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>A következő fájlok nem tölthetők le külső indítókból.&lt;br/&gt;Kézzel kell letöltened őket, majd hozzáadni a példányhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
@@ -12416,7 +12417,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modcsomag telepítése</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
@@ -12825,12 +12826,12 @@ A frissítő nem tud tovább haladni, amíg ezt a problémát meg nem oldod.</tr
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="507"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="960"/>
         <source>Reading manifest from %1</source>
-        <translation>Manifeszt olvasása innen: %1</translation>
+        <translation>Csomagleíró olvasása innen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="519"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation>A manifeszt üres, megpróbáljuk kitalálni, mi van a(z) %1 könyvtárban</translation>
+        <translation>A csomagleíró üres, megpróbáljuk kitalálni, mi van a(z) %1 könyvtárban</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="525"/>
@@ -14888,7 +14889,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlnév</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -14935,7 +14936,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="649"/>
         <source>The file name of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az erőforrás fájlneve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="740"/>
@@ -14983,12 +14984,12 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlnév</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
         <source>The file name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>A forráscsomag fájlneve.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -16511,7 +16512,7 @@ ok: %2.</translation>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nem sikerült megérteni a csomag manifesztet:
+        <translation>A csomagleíró nem értelmezhető:
 </translation>
     </message>
     <message>
@@ -16675,12 +16676,12 @@ inheritsFrom hiányzik</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlnév</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
         <source>The file name of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>A textúracsomag fájlneve.</translation>
     </message>
     <message>
         <source>
