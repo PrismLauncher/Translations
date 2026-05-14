@@ -5644,10 +5644,11 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Jūs pasirinkote 32-bit Java versiją, bet paskyrėte daugiau nei 2048MiB atminties.
-%1 negalės įjungti Minecraft.
+        <translation>Pasirinkote 32 bitų Java diegimą, tačiau nustatėte didesnę nei 2048 MiB maksimalią atmintį.
+„%1“ negalės paleisti Minecraft.
+Ar norite tęsti?
 
-Java versiją galite pakeisti vėliau nustatymuose.
+Vėliau nustatymuose galėsite pakeisti „Java“ versiją.
 </translation>
     </message>
     <message>
