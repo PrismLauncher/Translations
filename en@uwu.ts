@@ -3637,7 +3637,7 @@ Weason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
         <source>Scroll all the way to bottom</source>
-        <translation>Scwoww aww the way t-to bottom</translation>
+        <translation>Scwoww aww the way t-to bottom *blushes*</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="145"/>
