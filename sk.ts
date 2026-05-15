@@ -16246,7 +16246,7 @@ Prosím pridajte Mojang alebo Minecraft účet.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
         <source>Released</source>
-        <translation>Poblikované</translation>
+        <translation>Publikované</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
