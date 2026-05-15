@@ -9860,7 +9860,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished">Názov súboru</translation>
+        <translation>Názov súboru</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
@@ -9925,7 +9925,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The file name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Názov súboru módu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
@@ -11352,37 +11352,37 @@ Ste si istí?</translation>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Neznámy typ sťahovania: %1</translation>
+        <translation>Neznámy typ sťahovania: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Boli nájdené blokované módy</translation>
+        <translation>Boli nájdené blokované módy</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nasledujúce súbory nie sú k dispozícii na stiahnutie v launcheroch tretích strán.&lt;br/&gt;Budete si ich musieť stiahnuť ručne a pridať do inštancie.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 z %2 dokončené</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Nepodarilo sa rozbaliť módy...</translation>
+        <translation>Nepodarilo sa rozbaliť módy...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Rozbaľovanie módov...</translation>
+        <translation>Rozbaľovanie módov...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Inštalujem modpacku</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
@@ -13651,7 +13651,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished">Názov súboru</translation>
+        <translation>Názov súboru</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="280"/>
@@ -13736,7 +13736,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished">Názov súboru</translation>
+        <translation>Názov súboru</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
@@ -15293,7 +15293,7 @@ chýba inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished">Názov súboru</translation>
+        <translation>Názov súboru</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
