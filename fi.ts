@@ -2057,7 +2057,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käynnistystä edeltävä komento ajetaan ennen peliversion käynnistämistä ja sulkemista seuraava komento ajetaan peliversion sulkeuduttua.&lt;/p&gt;&lt;p&gt;Molemmat ajetaan Prism Launcher:in toimintokansiossa erityisillä ympäristömuuttujilla:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Peliversion nimi&lt;/li&gt;&lt;li&gt;$INST_ID - Peliversion tunniste (kansion nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - Peliversion kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftin kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_JAVA - Käynnistyksessä käytettävä Java-asennus&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Käynnistyksessä käytettävät komentoriviargumentit&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Paketoijakomento mahdollistaa käynnistämisen käyttäen erityistä paketoijaohjelmaa (kuten &apos;optirun&apos; Linuxilla)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käynnistystä edeltävä komento ajetaan ennen peliversion käynnistämistä ja sulkemista seuraava komento ajetaan peliversion sulkeuduttua.&lt;/p&gt;&lt;p&gt;Molemmat ajetaan Prism Launcher:in työhakemistossa erityisillä ympäristömuuttujilla:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Pelipaketin nimi&lt;/li&gt;&lt;li&gt;$INST_ID - Pelipaketin tunniste (kansion nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - Pelipaketin kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftin kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_JAVA - Käynnistyksessä käytettävä Java-asennus&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Käynnistyksessä käytettävät komentoriviargumentit (varoitus: ei toimi oikein jos argumentit sisältävät välejä)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Paketoijakomento mahdollistaa käynnistämisen käyttäen erityistä paketoijaohjelmaa (kuten &apos;optirun&apos; Linuxilla)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2293,7 +2293,7 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation>Lataa Paketteja</translation>
+        <translation>Lataa paketteja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
@@ -2510,7 +2510,7 @@ Käynnistetäänkö silti?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished">Alhainen vapaa muisti</translation>
+        <translation>Alhainen vapaa muisti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2520,9 +2520,9 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished">Tämänhetkisillä muistiasetuksilla ei ehkä ole riittävästi vapaata RAM:ia tämän instanssin käynnistämiseen.
+        <translation>Järjestelmässä ei ehkä ole riittävästi vapaata RAM:ia tämän pelipaketin käynnistämiseen tämänhetkisillä muistiasetuksilla.
 
-Enimmäisvarattu: %1 MiB
+Enimmäisvaraus: %1 MiB
 Vapaana: %2 MiB (kokonaissummasta %3 MiB)
 
 Käynnistetäänkö silti? Tämä voi aiheuttaa hitautta pelissäsi ja järjestelmässäsi.</translation>
@@ -9416,7 +9416,7 @@ Varmista luottamuksesi URL:ään.
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation>Sallii tietopakettien asentamisen kaikkiin maailmoihin, jos sitä tukeva modi on asennettu.
+        <translation>Sallii datapakettien asentamisen kaikkiin maailmoihin, jos sitä tukeva modi on asennettu.
 Sinun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin nettisivulta.</translation>
     </message>
     <message>
@@ -9427,7 +9427,7 @@ Sinun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation>tietopaketit</translation>
+        <translation>datapaketit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
@@ -13097,7 +13097,7 @@ Haluatko poistaa olemassaolevat tallennukst osana päivitystä?</translation>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
         <source>data pack</source>
-        <translation>Tietopaketti</translation>
+        <translation>datapaketti</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
@@ -13590,7 +13590,7 @@ Virheilmoitus: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="191"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>datapaketteja</translation>
+        <translation>datapaketit</translation>
     </message>
 </context>
 <context>
@@ -13599,13 +13599,13 @@ Virheilmoitus: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation>Tieto paketit</translation>
+        <translation>datapaketteja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation>Tietopaketti</translation>
+        <translation>datapaketti</translation>
     </message>
 </context>
 <context>
@@ -13627,7 +13627,7 @@ Virheilmoitus: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation>modit</translation>
+        <translation>modeja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
@@ -13761,7 +13761,7 @@ Päivitä %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="36"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation>resurssipaketit</translation>
+        <translation>resurssipaketteja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="38"/>
@@ -13915,7 +13915,7 @@ Tekijä on todennäköisesti estänyt kolmansien osapuolten käynnistysohjelmat.
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="36"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation>shader-paketit</translation>
+        <translation>shader-paketteja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
