@@ -2260,12 +2260,12 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished">Dimensiunea data packului</translation>
+        <translation>Dimensiunea pachetului de date.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished">Denumirea fișierului data packului</translation>
+        <translation>Denumirea fișierului pachetului de date.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -2498,8 +2498,8 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished">Sistema este sub presiune RAM ridicată.
-Acest fapt poate duce la incetiniri și laguri.
+        <translation>Sistemul este sub presiune ridicată de memorie.
+Acest lucru poate duce la întarzieri și încetiniri.
 Dacă este posibil, închideți alte aplicații innainte de a continua.
 
 Lansează oricum?</translation>
@@ -2511,7 +2511,11 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemul este sub presiune criticală de memorie.
+Acest lucru poate duce la încetiniri semnificative, blocari sau instabilitate a sistemului.
+Este recomandat să închideți alte aplicații sau repornirea sistemului.
+
+Lansează oricum?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
@@ -2536,7 +2540,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este posibil ca memoria RAM liberă să nu fie suficientă pentru a lansa această instanță cu setările actuale de memorie.
+
+Alocare maximă: %1 MiB
+Liberă: %2 MiB (din totalul de %3 MiB)
+
+Lansează oricum? Acest lucru poate duce la încetiniri ale jocului si ale sistemului.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -3567,12 +3576,12 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Se descarcă modurile...</translation>
+        <translation>Se descarcă modificatile...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation type="unfinished">Descărcare mod</translation>
+        <translation>Descărcare modificări</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
