@@ -6674,7 +6674,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>Instance Creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvorenie inštancie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
@@ -6684,7 +6684,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sťahovať súbory hry počas vytvárania inštancie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
@@ -11346,7 +11346,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnutie módu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
@@ -11927,7 +11927,8 @@ Ak chcete tento zámok prepisovať a pokračovať v aktualizácii aj tak, vybert
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="993"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zálohovanie:
+  %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1003"/>
@@ -11960,13 +11961,13 @@ Ak chcete tento zámok prepisovať a pokračovať v aktualizácii aj tak, vybert
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1058"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1060"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedarí sa rozbaliť %1 do %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1074"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1078"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola verzie sa nepodarila</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1074"/>
@@ -12049,7 +12050,7 @@ Pozorne si vyber meno:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Názov je príliš krátky – musí mať 3 až 16 znakov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="184"/>
@@ -12075,12 +12076,13 @@ Pozorne si vyber meno:</translation>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="270"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba siete: %1
+Stav HTTP: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Server vrátil túto chybu:</translation>
     </message>
 </context>
 <context>
@@ -12093,12 +12095,12 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Stav globálnej úlohy...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrobnosti o globálnom stave...</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -12206,17 +12208,17 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
@@ -12231,7 +12233,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"/>
         <source>Windows 9x inspired widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Štýl widgetov inšpirovaný systémom Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="100"/>
@@ -12241,12 +12243,12 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="102"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Predvolený štýl widgetov Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaša aktuálna téma systému</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
@@ -12288,7 +12290,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdiť nahranie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
@@ -12296,12 +12298,15 @@ HTTP Status: %2</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte sa nahrať „%1“ na %2.
+Skontrolujte, či neobsahuje osobné údaje.
+
+Ste si istí?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdiť skrátenie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
@@ -12311,7 +12316,12 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokol obsahuje %1 riadkov, čo presahuje limit programu mclo.gs, ktorý je %2 riadkov.
+Launcher môže zachovať prvých %3 a posledných %4 riadkov a strednú časť vynechať.
+
+Ak zvolíte možnosť „Nie“, program mclo.gs zachová len prvých %2 riadkov, čím sa vynechajú potenciálne užitočné informácie, ako napríklad zlyhania na konci.
+
+Chcete pokračovať v skrátení?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
