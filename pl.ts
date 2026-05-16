@@ -75,7 +75,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Jeśli masz problem z pobraniem starszych bibliotek FML (Minecraft 1.5.2 i starsze), możesz ustawić inny serwer.</translation>
+        <translation>Możesz wpisać inny serwer jeżeli masz problem z pobraniem źródłowych bibliotek FML (Minecraft 1.5.2 i wcześniejsze wersje)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -2315,7 +2315,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished">Rozmiar</translation>
+        <translation>Rozmiar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2549,12 +2549,12 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Dostępna jest niewystarczająca ilość pamięci RAM, aby uruchomić tę instancję przy obecnych ustawieniach pamięci.
+        <translation>Nie jest dostępna wystarczająca ilość pamięci RAM aby uruchomić tą instancję z bieżącymi ustawieniami pamięci
 
-Wymagane: %1 MiB
-Dostępne: %2 MiB
+Wymagana: %1 MiB
+Dostępna:    %2 MiB
 
-Kontynuować mimo to? Może to spowodować spowolnienia gry i twojego systemu.</translation>
+Czy chcesz kontynuować? Może to spowolnić twoją grę i system.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2563,11 +2563,10 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation>System ma coraz mniej pamięci.
-To może doprowadzić do spowolnienia lub lagów
-Jeżeli możesz, zamknij pozostałe okna
-
-Czy chcesz nadal kontynuuować?</translation>
+        <translation>Twój system jest pod zwiększonym obciążeniem pamięci.
+Może to prowadzić do spowolnień.
+Jeżeli to możliwe, zamknij inne aplikacje przed kontynuacją.
+Uruchomić mimo to?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
