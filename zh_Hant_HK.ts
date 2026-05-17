@@ -49,12 +49,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您喺下載資源嘅時候遇到問題，可以喺度設定其他伺服器進行下載。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>舊版 FML 資源庫伺服器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
@@ -120,7 +120,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>中繼資料伺服器 (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -1216,7 +1216,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
         <source>Aborted</source>
-        <translation>已終止</translation>
+        <translation>已強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
@@ -1445,7 +1445,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>複製伺服器清單</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
@@ -1565,7 +1565,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器地址：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
@@ -1899,7 +1899,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Aborted</source>
-        <translation type="unfinished">已終止</translation>
+        <translation>已終止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
@@ -1920,7 +1920,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="192"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="271"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="125"/>
@@ -2167,7 +2167,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
 </context>
 <context>
@@ -2281,7 +2281,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="208"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
 </context>
 <context>
@@ -2442,7 +2442,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>搜尋</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
@@ -3341,7 +3341,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>搜尋…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -3447,7 +3447,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="209"/>
@@ -3469,7 +3469,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>匯入整合包</translation>
     </message>
 </context>
 <context>
@@ -3768,7 +3768,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
-        <translation>開始遊玩 (&amp;L)</translation>
+        <translation>啟動 (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
@@ -3902,7 +3902,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
 </context>
 <context>
@@ -4412,7 +4412,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>&amp;Launch</source>
-        <translation>開始遊玩 (&amp;L)</translation>
+        <translation>啟動 (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="434"/>
@@ -5100,7 +5100,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="214"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>任務已終止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="214"/>
@@ -5238,7 +5238,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>搜尋</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -5397,7 +5397,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="156"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>任務已終止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="262"/>
@@ -5613,7 +5613,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">開始遊玩 (&amp;L)</translation>
+        <translation>啟動 (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
@@ -6054,7 +6054,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>任務已終止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
@@ -6066,7 +6066,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1013"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
@@ -6373,7 +6373,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>任務已終止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
@@ -6383,7 +6383,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="219"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="148"/>
@@ -6478,7 +6478,7 @@ Make sure you also trust the URL.
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="123"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="138"/>
         <source>Aborted</source>
-        <translation type="unfinished">已終止</translation>
+        <translation>已終止</translation>
     </message>
 </context>
 <context>
@@ -6486,7 +6486,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">開始遊玩 (&amp;L)</translation>
+        <translation>啟動 (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
@@ -7392,7 +7392,7 @@ Do you want to disable them?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="264"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="287"/>
         <source>Aborted</source>
-        <translation type="unfinished">已終止</translation>
+        <translation>已終止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
@@ -7410,7 +7410,7 @@ Do you want to disable them?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="303"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
@@ -8053,7 +8053,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="53"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>記事本</translation>
     </message>
 </context>
 <context>
@@ -8184,7 +8184,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>搜尋</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -8410,7 +8410,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="364"/>
         <source>Aborted</source>
-        <translation type="unfinished">已終止</translation>
+        <translation>已終止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="588"/>
@@ -8781,13 +8781,13 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="741"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="913"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>確定</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="741"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="913"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="749"/>
@@ -10158,7 +10158,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="178"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="179"/>
@@ -10653,7 +10653,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Aborted</source>
-        <translation type="unfinished">已終止</translation>
+        <translation>已終止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
@@ -10671,7 +10671,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="142"/>
@@ -10803,7 +10803,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="224"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="391"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
@@ -11046,7 +11046,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="429"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
@@ -11193,17 +11193,17 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="285"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="287"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>地址</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>在線人數</translation>
     </message>
 </context>
 <context>
@@ -11211,32 +11211,32 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="75"/>
         <source>&amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器名稱 (&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="88"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器地址</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="101"/>
         <source>Reso&amp;urces</source>
-        <translation type="unfinished"></translation>
+        <translation>資源包 (&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="112"/>
         <source>Ask to download</source>
-        <translation type="unfinished"></translation>
+        <translation>預先詢問是否下載</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="117"/>
         <source>Always download</source>
-        <translation type="unfinished"></translation>
+        <translation>下載</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="122"/>
         <source>Never download</source>
-        <translation type="unfinished"></translation>
+        <translation>唔下載</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="133"/>
@@ -11246,37 +11246,37 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>新增</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>上移</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>下移</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="180"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>進入伺服器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="185"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>重新整理在線人數</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
@@ -11286,7 +11286,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>確認刪除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="730"/>
@@ -11294,7 +11294,10 @@ Currently installed version: %1</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>您即將刪除《%1》伺服器！
+呢個動作並唔能夠還原，並從伺服器清單永久刪除。
+
+您確定嗎？</translation>
     </message>
 </context>
 <context>
@@ -11373,7 +11376,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="167"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
         <source>Aborted</source>
-        <translation type="unfinished">已終止</translation>
+        <translation>已終止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="101"/>
@@ -11391,7 +11394,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="206"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="139"/>
@@ -11779,7 +11782,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/tasks/Task.cpp" line="141"/>
         <source>Aborted</source>
-        <translation type="unfinished">已終止</translation>
+        <translation>已終止</translation>
     </message>
 </context>
 <context>
@@ -11787,7 +11790,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>任務已終止。</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="41"/>
@@ -12061,7 +12064,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="198"/>
         <source>Aborted</source>
-        <translation type="unfinished">已終止</translation>
+        <translation>已終止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="109"/>
@@ -12079,7 +12082,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="130"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="214"/>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="147"/>
@@ -12200,7 +12203,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>新版本發佈說明：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
@@ -12341,7 +12344,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>搜尋</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="111"/>
@@ -12711,7 +12714,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="198"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>最新版本</translation>
     </message>
 </context>
 <context>
@@ -12743,7 +12746,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>重新整理 (&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -12751,7 +12754,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>搜尋</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
