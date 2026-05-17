@@ -7,18 +7,18 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pastebin 服務 (&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pastebin 服務類型 (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Base URL (&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -29,7 +29,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>Use Default</source>
-        <translation type="unfinished"></translation>
+        <translation>使用預設值</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -1119,12 +1119,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation type="unfinished"></translation>
+        <translation>穿上斗篷</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="51"/>
         <source>Removing cape</source>
-        <translation type="unfinished"></translation>
+        <translation>脫下斗篷</translation>
     </message>
 </context>
 <context>
@@ -11521,7 +11521,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>斗篷</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
