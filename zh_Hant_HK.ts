@@ -400,12 +400,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="81"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>管理角色外觀 (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="84"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>管理角色外觀</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="89"/>
@@ -1485,7 +1485,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>線上說明</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
@@ -3323,12 +3323,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在載入角色外觀...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>成功載入角色外觀</translation>
     </message>
 </context>
 <context>
@@ -3763,12 +3763,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="81"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>線上說明</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>開始遊玩 (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
@@ -4307,7 +4307,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="52"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>語言</translation>
     </message>
 </context>
 <context>
@@ -4315,16 +4315,16 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="63"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>見唔到屬於你嘅語言，或者覺得翻譯質素小癲？&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;一齊加入翻譯組幫手啦！&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>使用與作業系統相同的地域標準</translation>
     </message>
     <message>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>使用與作業系統相同的語系</translation>
     </message>
 </context>
 <context>
@@ -4332,12 +4332,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>語言</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇在 %1 中所使用的語言</translation>
     </message>
 </context>
 <context>
@@ -4380,7 +4380,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="227"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -4391,7 +4391,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
         <location filename="src/launcher/LaunchController.cpp" line="427"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>發生錯誤！</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="371"/>
@@ -4412,7 +4412,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>開始遊玩 (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="434"/>
@@ -4424,7 +4424,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="438"/>
         <source>Waiting.</source>
-        <translation type="unfinished"></translation>
+        <translation>等待中...</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="446"/>
@@ -4434,13 +4434,13 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="174"/>
         <location filename="src/launcher/LaunchController.cpp" line="474"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>強制結束</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
@@ -4573,7 +4573,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>資料夾路徑設定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
@@ -4694,7 +4694,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>角色外觀 (&amp;S):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
@@ -4899,7 +4899,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>角色外觀資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -5578,7 +5578,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="713"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>幫助 / 說明</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
@@ -5644,7 +5644,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation type="unfinished"></translation>
+        <translation>管理角色外觀 (&amp;S)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
@@ -5674,12 +5674,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>角色外觀 (&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>打開及瀏覽角色外觀資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
@@ -6001,7 +6001,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>已遊玩時數： 0 秒</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
@@ -6275,7 +6275,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1766"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已遊玩時數： %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
@@ -6676,7 +6676,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="635"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;此兼容功能可以模擬已停止運作的舊式線上服務，以確保遊戲功能運作正常。&lt;/p&gt;&lt;p&gt;目前可以兼容此列服務： 遊戲角色外觀，及正版帳號驗證服務。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="638"/>
@@ -11458,7 +11458,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinDelete.cpp" line="49"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>角色外觀資料刪除中</translation>
     </message>
 </context>
 <context>
@@ -11606,12 +11606,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="208"/>
         <source>No Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>無斗篷</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="215"/>
         <source>Download capes</source>
-        <translation type="unfinished"></translation>
+        <translation>下載斗篷</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
@@ -12161,12 +12161,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>語言</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
-        <translation type="unfinished"></translation>
+        <translation>翻譯進度</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
@@ -12176,7 +12176,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>翻譯進度只會計算已完成翻譯嘅字串百分比，唔會列入任何其他計算範圍。</translation>
     </message>
 </context>
 <context>
