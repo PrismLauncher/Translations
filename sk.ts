@@ -913,7 +913,7 @@ Prosím aktualizujte váš operačný systém a aj %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="269"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation>[FATAL] Hrozna fatálna chyba!</translation>
+        <translation>[FATAL] Hrozná fatálna chyba!</translation>
     </message>
 </context>
 <context>
@@ -1232,7 +1232,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="80"/>
         <source>Version selected:</source>
-        <translation>Vybraná verzia:</translation>
+        <translation>Zvolená verzia:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
@@ -5618,7 +5618,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation>Upozorniť, ak nie je k dispozícii dostatok pamäte</translation>
+        <translation>Upozorniť, keď nie je k dispozícii dostatok pamäte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
@@ -13203,17 +13203,17 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Vývojári</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>MultiMC vývojári</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation>Osobitné poďakovanie patrí</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
@@ -13291,7 +13291,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="76"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Skontrolovať a potvrdiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="77"/>
@@ -13301,13 +13301,14 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="103"/>
         <source>Confirmation Needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrebné potvrdenie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="104"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Máte vybraných %1 zdrojov.
+Naozaj chcete toto dialógové okno zavrieť?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
@@ -13317,7 +13318,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="156"/>
         <source>Confirm %1 to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrďte %1 na stiahnutie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
@@ -13337,7 +13338,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="179"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolovanie závislostí...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="444"/>
@@ -13369,12 +13370,12 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="234"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Došlo k chybe siete. Nepodarilo sa načítať verzie projektu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="257"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Došlo k chybe siete. Nepodarilo sa načítať informácie o projekte: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="263"/>
@@ -13385,7 +13386,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="440"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Došlo k chybe siete. Módy sa nepodarilo načítať.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
@@ -13481,23 +13482,23 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="295"/>
         <source>Deselect %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušiť výber %1 na stiahnutie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="325"/>
         <source> [installed]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [nainštalované]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="332"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenašla sa žiadna platná verzia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="333"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie je možné vybrať neplatnú verziu :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="358"/>
@@ -14032,7 +14033,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Možné riešenie: Manuálne stiahnutie najnovšej verzie:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
@@ -14062,7 +14063,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="329"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdroju „%1“ zatiaľ chýbajú metadáta. Musíme ich vygenerovať, aby sme mohli sledovať relevantné informácie o tom, ako tento mód aktualizovať. Na tento účel prosím vyberte poskytovateľa módu, prostredníctvom ktorého budeme môcť kontrolovať dostupnosť aktualizácií pre tento mód.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="392"/>
@@ -16680,7 +16681,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Získavanie oprávnenia na prístup k %1 službám.</translation>
     </message>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
