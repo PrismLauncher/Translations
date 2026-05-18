@@ -5804,7 +5804,7 @@ Du kan ändra Java-versionen i inställningarna senare.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
         <source>Memory Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>Minnesmeddelande</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="337"/>
