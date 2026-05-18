@@ -10021,9 +10021,9 @@ Niiden ohittaminen voi rikkoa pelin.</translation>
         <source>The enabled mod(s) require %n mod(s).
 </source>
         <translation>
-            <numerusform>Käyttöön otettu modi vaatii % modin.
+            <numerusform>Käyttöön otettu modi vaatii %n:n modin.
 </numerusform>
-            <numerusform>Käyttöön otettu modi vaatii % modit.
+            <numerusform>Käyttöön otettu modi vaatii %n modia.
 </numerusform>
         </translation>
     </message>
@@ -10056,7 +10056,7 @@ Niiden ohittaminen voi rikkoa pelin.</translation>
         <translation>
             <numerusform>Käytöstä poistettua modia tarvitsee %n modi.
 </numerusform>
-            <numerusform>Käytöstä poistettua modia tarvitsevat %n modit.
+            <numerusform>Käytöstä poistettua modia tarvitsevat %n modia.
 </numerusform>
         </translation>
     </message>
