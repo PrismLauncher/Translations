@@ -726,8 +726,8 @@
             "file" : "d021deb5c85e618af541f15d2cb2595be4e0481f.class",
             "sha1" : "d021deb5c85e618af541f15d2cb2595be4e0481f",
             "size" : 93998,
-            "translated" : 378,
-            "fuzzy" : 294,
+            "translated" : 382,
+            "fuzzy" : 290,
             "untranslated" : 1695
         },
         "vec" : {
@@ -755,12 +755,12 @@
             "untranslated" : 0
         },
         "zh_Hant_HK" : {
-            "file" : "1792fe727dc0e90fcabd8dc169fd5768df5580c6.class",
-            "sha1" : "1792fe727dc0e90fcabd8dc169fd5768df5580c6",
-            "size" : 14864,
+            "file" : "05e6ee29723eafd0ebec95ff2610c0061da4d2a7.class",
+            "sha1" : "05e6ee29723eafd0ebec95ff2610c0061da4d2a7",
+            "size" : 16822,
             "translated" : 196,
-            "fuzzy" : 28,
-            "untranslated" : 2143
+            "fuzzy" : 61,
+            "untranslated" : 2110
         },
         "zh_TW" : {
             "file" : "b1215182229b1aa158890500dabb28d1e7c6d6e5.class",
