@@ -6995,12 +6995,12 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le téléchargement des fichiers de jeu est nécessaire lors de la création de l&apos;instance. Désactivez cette option pour ignorer le téléchargement initial et récupérer les fichiers au lancement de l&apos;instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger les fichiers du jeu lors de la création de l&apos;instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
@@ -10604,7 +10604,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The file name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nom du fichier du mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
@@ -12410,7 +12410,8 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impossible de comprendre le manifeste du paquet&#xa0;:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
@@ -12420,7 +12421,7 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Échec de l’obtention d’index des métadonnées locales pour %1&apos; v%2</translation>
+        <translation>Échec de l’obtention d’index des métadonnées locales pour &quot;%1&quot; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
@@ -12435,17 +12436,17 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;obtenir l&apos;index des métadonnées locales pour %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">La version du loader %1 n&apos;a pas pu être trouvée</translation>
+        <translation>La version du chargeur %1 n&apos;a pas pu être trouvée</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Aucune version du chargeur définie pour le modpack&#x202f;!</translation>
+        <translation>Aucune version du chargeur définie pour le modpack&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
@@ -12480,7 +12481,7 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
@@ -12496,7 +12497,7 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les fichiers suivants ne sont pas disponibles au téléchargement via les lanceurs tiers.&lt;br/&gt;Vous devrez les télécharger manuellement et les ajouter à l&apos;instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
@@ -12516,7 +12517,7 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Installation du pack de mods</translation>
+        <translation type="unfinished">Installation du modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
@@ -12526,7 +12527,7 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Type de loader inconnu&#xa0;: </translation>
+        <translation type="unfinished">Type de chargeur inconnu&#xa0;: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
@@ -15059,7 +15060,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="649"/>
         <source>The file name of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nom du fichier de la ressource.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="740"/>
@@ -15112,7 +15113,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
         <source>The file name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du fichier du pack de ressources.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -16808,7 +16809,7 @@ inheritsFrom est manquant</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
         <source>The file name of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du fichier du pack de textures.</translation>
     </message>
     <message>
         <source>
