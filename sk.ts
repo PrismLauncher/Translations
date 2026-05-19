@@ -325,7 +325,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Vlastný spúšťač, ktorý zjednodušuje správu Minecraftu, tým že môžete mať viacero inštancií Minecraft naraz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Vlastný launcher, ktorý uľahčuje správu Minecraftu tým, že umožňuje spustiť viacero inštancií hry naraz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -11805,7 +11805,7 @@ Aktualizátor nemôže pokračovať, kým tento problém neopravíte.</translati
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="739"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzia %1 na GitHube neobsahuje žiadne platné súbory pre túto platformu: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="741"/>
@@ -11944,18 +11944,19 @@ Ak chcete tento zámok prepisovať a pokračovať v aktualizácii aj tak, vybert
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1019"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa zálohovať %1 do %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1022"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa odstrániť %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1056"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Do „%1“ bolo skopírované nasledujúce:
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1058"/>
@@ -12117,7 +12118,7 @@ Stav HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="92"/>
         <source>%1 [installed]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [nainštalované]</translation>
     </message>
 </context>
 <context>
@@ -13203,7 +13204,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
-        <translation>%1 Vývojári</translation>
+        <translation>%1 vývojári</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
