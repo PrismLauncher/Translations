@@ -2497,7 +2497,12 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>sina toki ala e nasin pi ilo Sawa, anu, nasin pi toki sina li pakala.
+%1 li ken ala open e musi Manka
+ilo Sawa ala la, sina wile ala wile awen?
+
+sina ken ante e nasin pi ilo Sawa lon tenpo ante
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="270"/>
@@ -2616,7 +2621,7 @@ o luka e ilo wan tan lipu anpa. ken ante la o alasa e ilo Java ante.</translatio
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>Player name</source>
-        <translation type="unfinished"></translation>
+        <translation>nimi pi jan musi</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="189"/>
@@ -2689,7 +2694,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="319"/>
         <source>Failed to launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>open li pakala.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
@@ -2768,7 +2773,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>mi alasa lo tenpo %1 la mi ken ala open. sina wile ala wile awen alasa?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="297"/>
