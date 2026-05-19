@@ -1810,7 +1810,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
         <source>Choose modpack</source>
-        <translation>sina wile e poki namako seme?</translation>
+        <translation>sina wile e kulupu namako seme?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
@@ -2554,7 +2554,7 @@ Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
         <translation>ilo Java pona li weka tan ilo sina
-o luka e ilo wan tan lipu anpa. ken ante la sina alasa e ilo Java ante</translation>
+o luka e ilo wan tan lipu anpa. ken ante la o alasa e ilo Java ante.</translation>
     </message>
 </context>
 <context>
