@@ -6351,12 +6351,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualment, aquesta opció només mostra quins mods no estan marcats com a compatibles amb la versió actual de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="430"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Detectar i mostrar incompatibilitats de mods (experimental)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="484"/>
@@ -10106,7 +10106,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="458"/>
         <source>Only Enable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar només els seleccionats</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
@@ -13279,7 +13279,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Sense grup</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
