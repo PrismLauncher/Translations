@@ -2381,7 +2381,7 @@ Bu misolni ishga tushirib boʻlmaydi, chunki baʼzi kutubxonalar yoʻq yoki hali
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="137"/>
         <source>Export %1</source>
-        <translation>Eksport % 1</translation>
+        <translation>Eksport %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
@@ -2397,7 +2397,7 @@ Bu misolni ishga tushirib boʻlmaydi, chunki baʼzi kutubxonalar yoʻq yoki hali
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
 </context>
 <context>
@@ -2900,7 +2900,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
         <source>JProfiler Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler papkasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
@@ -2910,85 +2910,88 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler o&apos;rnatilishini tekshirishda xatolik yuz berdi:
+% 1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler sozlamalari OK ko&apos;rinadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
         <source>VisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM bajariladigan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM o&apos;rnatilishini tekshirishda xatolik yuz berdi:
+% 1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM sozlamalari yaxshi ko&apos;rinadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Matn muharriri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit ilovasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"/>
         <source>MCEdit Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit papkasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit o&apos;rnatilishini tekshirishda xatolik yuz berdi:
+% 1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit sozlamalari yaxshi ko&apos;rinadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaroqsiz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan fayl bajariladigan fayl emas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Asboblar</translation>
     </message>
 </context>
 <context>
@@ -2996,7 +2999,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="75"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>“% 1” mahalliy jarni “% 2” manziliga chiqarib bo‘lmadi</translation>
     </message>
 </context>
 <context>
@@ -3011,49 +3014,49 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest olinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketning %1 versiyasi topilmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Paket manifestini tushunib bo&apos;lmadi.
+        <translation>Paket manifestini tushunib bo&apos;lmadi:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar hal qilinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest noto&apos;g&apos;ri: &apos;%1&apos; faylini yuklab olish uchun hech qanday ma&apos;lumot yo&apos;q!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklangan fayllar topildi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Quyidagi fayllarni uchinchi tomon ishga tushiruvchilarida yuklab bo&apos;lmaydi.&lt;br/&gt;Ularni qo&apos;lda yuklab olib, instansiyaga qo&apos;shishingiz kerak bo&apos;ladi.</translation>
+        <translation>Quyidagi fayllarni uchinchi tomon ishga tushirgichlarida yuklab olish mumkin emas.&lt;br/&gt;Ularni qo‘lda yuklab olishingiz va namunaga qo‘shishingiz kerak bo‘ladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Misol yaratilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Modlar yuklanmoqda...</translation>
+        <translation>Modlar yuklab olinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
@@ -3063,12 +3066,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklangan modlardan nusxa olinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="375"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklangan modlardan nusxa olinmoqda (%2dan %1 ta bajarildi)</translation>
     </message>
 </context>
 <context>
@@ -3076,12 +3079,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="140"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ism bo&apos;yicha saralash</translation>
+        <translation>Nomi bo&apos;yicha saralash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="141"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">O&apos;yin versiyasi bo&apos;yicha saralash</translation>
+        <translation>Oʻyin versiyasi boʻyicha saralash</translation>
     </message>
 </context>
 <context>
@@ -3089,23 +3092,23 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="43"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation>FTB ilovasini import qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eslatma: Ko&apos;pgina so&apos;nggi FTB modpacklari CurseForge-dan ham mavjud! Bundan tashqari, agar sizning FTB nusxalaringiz standart joyda bo&apos;lmasa, uni qidirish yonidagi tugma yordamida tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Qidirish va filtrlash...</translation>
+        <translation>Qidirish va filtrlash...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>FTBApp misollari katalogini tanlang</translation>
     </message>
 </context>
 <context>
@@ -3114,7 +3117,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="111"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="127"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3122,12 +3125,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayllardan nusxa olinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="50"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sozlamalardan nusxa olinmoqda...</translation>
     </message>
 </context>
 <context>
@@ -3135,18 +3138,18 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <source>Resolving mod IDs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod identifikatorlari hal qilinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="127"/>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="149"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>APIdan qaytarilgan yaroqsiz maʼlumotlar.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="254"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">&quot;% 1&quot; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
+        <translation>&apos;%1&apos; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
     </message>
 </context>
 <context>
@@ -3155,42 +3158,42 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="38"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge uchun resurslar tayyorlanmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu resurs uchun yaroqli versiya topilmadi. Bu, ehtimol, joriy o&apos;yin versiyasi/mod yuklovchi uchun mavjud emas.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu resurs uchun yaroqli versiya topilmadi. Ehtimol, u joriy o&apos;yin versiyasi uchun mavjud emas.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">&quot;% 1&quot; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
+        <translation>&quot;%1&quot; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="186"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursda yangi yangilanish mavjud, ammo uni CurseForge yordamida yuklab bo&apos;lmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="118"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻrnatilmagan</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Unknown</source>
-        <translation type="unfinished">Noaniq</translation>
+        <translation>Noma&apos;lum</translation>
     </message>
 </context>
 <context>
@@ -3200,28 +3203,28 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Paket manifestini tushunib bo&apos;lmadi.
+        <translation>Paket manifestini tushunib bo&apos;lmadi:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="120"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (versiya %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indeks fayli yo&apos;q.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="241"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eski versiya uchun mos indeks faylini topa olmadik. Bu ba&apos;zi fayllarning takrorlanishiga olib kelishi mumkin. Davom etishni xohlaysizmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">%1 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
+        <translation>%1 uchun mahalliy metadata indeksini olinmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
@@ -3231,39 +3234,41 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="303"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Modpak uchun yuklovchi versiyasi o&apos;rnatilmagan!</translation>
+        <translation>Modpak uchun yuklagich versiyasi o&apos;rnatilmagan!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="339"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Qayta belgilashlar jildi nomini oʻzgartirib boʻlmadi:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="344"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished"></translation>
+        <translation>Belgilangan bekor qilish papkasi (%1) etishmayapti. Ehtimol, modpack allaqachon ishlatilganmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifestda noma&apos;lum mod yuklovchi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketni import qilishda Minecraft versiyasidan sirli orqa nuqtalar olib tashlandi.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpackning tavsiya etilgan xotirasi tizimingiz operativ xotirasining 90% dan oshadi, bu uni %1 MiB dan %2 MiB gacha kamaytiradi!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Mod identifikatorlarini hal qilib bo&apos;lmadi:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="540"/>
@@ -3274,12 +3279,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="541"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Quyidagi fayllarni uchinchi tomon ishga tushiruvchilarida yuklab bo&apos;lmaydi.&lt;br/&gt;Ularni qo&apos;lda yuklab olib, instansiyaga qo&apos;shishingiz kerak bo&apos;ladi.</translation>
+        <translation>Quyidagi fayllarni uchinchi tomon ishga tushirgichlarida yuklab olish mumkin emas.&lt;br/&gt;Ularni qo‘lda yuklab olishingiz va namunaga qo‘shishingiz kerak bo‘ladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="563"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod yuklab olish Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="594"/>
@@ -3289,12 +3294,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklangan modlardan nusxa olinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="622"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklangan modlardan nusxa olinmoqda (%2dan 1% bajarildi)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="599"/>
@@ -3307,17 +3312,17 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="402"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Assalomu alaykum!&lt;/h1&gt;&lt;h4&gt;Paket identifikatoringiz nolga o&apos;xshaydi. Buning sababi ishga tushirgichning eski versiyalaridagi xatolikdir.&lt;br/&gt;Afsuski, biz bu maʼlumotsiz tegishli API soʻrovlarini bajara olmaymiz.&lt;br/&gt;&lt;br/&gt;Shuning uchun bu funksiya ishlashi uchun modpackni oʻrnatilgan yuklab oluvchidan qayta yuklab olishingiz kerak boʻladi.&lt;br/&gt;&lt;br/&gt;Xavotir olmang, bu holatda sizdan bu yangilanishni yoʻqotib qoʻymasligingiz kerak!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="444"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 (Joriy)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilash faylini tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
@@ -3330,38 +3335,38 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayllar qidirilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="72"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayllarni qidirib bo&apos;lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl xeshlari topilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="168"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Xeshlar uchun versiyalar topilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="219"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="282"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">&quot;% 1&quot; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
+        <translation type="unfinished">&quot;%1&quot; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge’dan loyiha ma’lumotlari topilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="319"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayllar qo&apos;shilmoqda...</translation>
     </message>
 </context>
 <context>
@@ -3375,12 +3380,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Eslatma: CurseForge ijodkorlarga Prism Launcher kabi uchinchi tomon vositalariga kirishni bloklash imkonini beradi. Shunday qilib, modpackni o&apos;rnatish uchun ba&apos;zi modlarni qo&apos;lda yuklab olishingiz kerak bo&apos;lishi mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtr opsiyalari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -3392,7 +3397,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tanlanganlar boʻyicha saralash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
@@ -3404,7 +3409,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>So‘nggi yangilanish bo‘yicha saralash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
@@ -3416,19 +3421,19 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Muallif bo&apos;yicha saralash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Jami yuklamalar boʻyicha saralash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="199"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="221"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hech qanday versiya mavjud emas!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="204"/>
@@ -3438,27 +3443,27 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> tomonidan </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="293"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tashqi havolalar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="297"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Muammolar: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="299"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="301"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Manba kodi: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3467,7 +3472,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft ikkilik fayllari uchun jild yaratib bo‘lmadi.</translation>
     </message>
 </context>
 <context>
@@ -3475,12 +3480,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻyinlar boʻyicha saralash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻrnatishlar boʻyicha saralash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
@@ -3503,7 +3508,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Eslatma: Ko&apos;pgina so&apos;nggi FTB modpacklari CurseForge-dan ham mavjud!</translation>
     </message>
 </context>
 <context>
@@ -3511,7 +3516,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="60"/>
         <source>Game Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻyin opsiyalari</translation>
     </message>
 </context>
 <context>
@@ -3519,32 +3524,32 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="89"/>
         <source>Survival</source>
-        <translation type="unfinished"></translation>
+        <translation>Omon qolish</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="91"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Ijodkorlik</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Adventure</source>
-        <translation type="unfinished"></translation>
+        <translation>Sarguzasht</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Spectator</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomoshabin</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="100"/>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Noma&apos;lum (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="102"/>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>Aniqlanmagan</translation>
     </message>
 </context>
 <context>
@@ -3552,7 +3557,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshlangan jarayon: %1</translation>
     </message>
 </context>
 <context>
@@ -3560,13 +3565,13 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="54"/>
         <source>Get dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Bog&apos;liqlarni oling</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="193"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tarmoqda xatolik yuz berdi. Loyihaga bog‘liqliklarni yuklab bo‘lmadi:% 1</translation>
     </message>
 </context>
 <context>
@@ -3574,12 +3579,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skinni olish.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin bor</translation>
     </message>
 </context>
 <context>
@@ -3587,27 +3592,27 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="14"/>
         <source>Pick icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Belgini tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Qidiruv...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Add Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Belgini qo&apos;shish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
         <source>Remove Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Belgini olib tashlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
@@ -3623,12 +3628,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="118"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Belgilarni tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="121"/>
         <source>Icons %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Belgilar %1</translation>
     </message>
 </context>
 <context>
@@ -3636,7 +3641,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 faylni oʻqish uchun ochib boʻlmadi: %2</translation>
     </message>
 </context>
 <context>
@@ -3649,34 +3654,34 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Quyidagi fayl turlari qo&apos;llaniladi (mahalliy fayllar va URL manzillar uchun):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- CurseForge mod paketlari (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modrinth modpacklar(ZIP va mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- Prism Launcher, PolyMC yoki MultiMC eksport nusxalari (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Texnik modpacklar (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mahalliy fayl yoki to&apos;g&apos;ridan-to&apos;g&apos;ri yuklab olish uchun havola:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="139"/>
@@ -3688,22 +3693,22 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 modpack uchinchi tomonlar uchun bloklangan! Iltimos, uni qo&apos;lda yuklab oling.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu url yaroqli modpack emas!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
         <source>Abort</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>To&apos;xtatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="209"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation>Qo&apos;llab-quvvatlanadigan fayllar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="212"/>
@@ -3714,13 +3719,13 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Choose modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpackni tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Import</translation>
     </message>
 </context>
 <context>
@@ -3728,22 +3733,22 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>Import qilish uchun namunani tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu resurs paketini import qilmoqchi bo&apos;lgan misolni tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu %1ni import qilmoqchi bo&apos;lgan misolni tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
@@ -3761,12 +3766,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="134"/>
         <source>License: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Litsenziya: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="141"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Muammolar haqida xabar bering: </translation>
     </message>
 </context>
 <context>
@@ -3775,7 +3780,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Hozirda metada Java versiyasi mavjud emas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
