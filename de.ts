@@ -657,12 +657,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation>verschieben &amp; hoch</translation>
+        <translation>Nach oben verschieben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation>Verschieben &amp;runter</translation>
+        <translation>Nach unten verschieben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -2671,7 +2671,7 @@ Trotzdem starten? Dies kann zu Leistungseinbußen im Spiel und auf Ihrem System 
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
         <translation>
-Diese Instanz kann nicht gestartet werden, da eine oder mehrere Bibliotheken fehlen oder noch nicht heruntergeladen wurden. Bitte versuche es erneut im Online-Modus mit verbundenem Internet</translation>
+Diese Instanz kann nicht gestartet werden, da einige Bibliotheken fehlen oder noch nicht heruntergeladen wurden. Bitte versuche es erneut im Online-Modus mit einer funktionierenden Internetverbindung</translation>
     </message>
 </context>
 <context>
@@ -4781,7 +4781,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="109"/>
         <source>Could not download game files: %1</source>
-        <translation>Spieldateien konnten nicht heruntergeladen werden: %1</translation>
+        <translation>Herunterladen der Spieldateien fehlgeschlagen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="113"/>
@@ -6421,7 +6421,7 @@ Möchtest du die Demo starten?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation>Während der Aktualisierung von „%1“ ist ein Fehler aufgetreten</translation>
+        <translation>Ein Fehler ist aufgetreten beim Aktualisieren von &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
@@ -6663,7 +6663,7 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation>Ordner, in dem der Prism Launcher automatisch heruntergeladene Java-Versionen speichert. Hier NICHT den Pfad zur Java-Installation des Systems angeben.</translation>
+        <translation>Ordner wo Prism Launcher die heruntergeladene Java-Versionen speichert. Setze diesen Ordner NICHT auf die Java-Installation deines Systems.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
@@ -17356,7 +17356,7 @@ Die Instanz darf nicht damit beginnen.</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation>Java Hauptversion  nicht kompatibel. Es kann zu Fehlern kommen.
+        <translation>Java Hauptversion ist inkompatibel. Es kann zu Fehlern kommen.
 </translation>
     </message>
     <message>
@@ -18415,7 +18415,7 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="122"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Live ist in ihrem Land nicht verfügbar. Sie wurden blockiert.</translation>
+        <translation>Xbox Live ist in deinen Land nicht verfügbar. Du wurdest blockiert.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -18504,7 +18504,7 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation>Die Antwort der Xbox-Nutzer-Authentifikation konnte nicht verarbeitet werden.</translation>
+        <translation>Die Antwort der Xbox-Nutzeranmeldung konnte nicht verarbeitet werden.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
