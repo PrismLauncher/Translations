@@ -18499,7 +18499,7 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation>Xbox-Nutzer-Authentifikation fehlgeschlagen: %1</translation>
+        <translation>Xbox-Nutzeranmeldung fehlgeschlagen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
