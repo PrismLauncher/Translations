@@ -16563,7 +16563,7 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation>Sub-Aufgabenstatus...</translation>
+        <translation>Teilaufgabenstatus...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
@@ -17356,7 +17356,7 @@ Die Instanz darf nicht damit beginnen.</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation>Java Hauptversion unkompatibel. Es kann zu Fehlern kommen.
+        <translation>Java Hauptversion  nicht kompatibel. Es kann zu Fehlern kommen.
 </translation>
     </message>
     <message>
