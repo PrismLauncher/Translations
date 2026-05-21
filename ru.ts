@@ -106,7 +106,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Включить переключение на Modrinth для заблокированных модов</translation>
+        <translation>Использовать Modrinth как резервный источник для заблокированных модов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -206,7 +206,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Примечание: если CurseForge уже работает, то задавать этот параметр, скорее всего, не нужно.</translation>
+        <translation>Примечание: этот параметр не требуется, если CurseForge уже работает корректно.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -223,7 +223,7 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Не удалось разобрать манифест пакета:
+        <translation>Не удалось распознать манифест пакета:
 </translation>
     </message>
     <message>
@@ -865,7 +865,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation>тема:</translation>
+        <translation>Тема:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
