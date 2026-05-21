@@ -1698,7 +1698,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <source>Failed to abort all running tasks.</source>
-        <translation>無法停止所有執行中的任務。</translation>
+        <translation>無法停止所有執行中的工作。</translation>
     </message>
     <message>
         <source>One or more subtasks failed</source>
@@ -1707,24 +1707,24 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation>任務失敗</translation>
+        <translation>工作失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation>多個子任務失敗</translation>
+        <translation>多個子工作失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation>多個子任務失敗
+        <translation>多個子工作失敗
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>正在執行 %1 項任務（已完成 %2 項，共 %3 項）</translation>
+        <translation>正在執行 %1 項工作（已完成 %2 項，共 %3 項）</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
@@ -1734,17 +1734,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
-        <translation>正在等待任務開始…</translation>
+        <translation>正在等待工作開始…</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
         <source>Executing 1 task:</source>
-        <translation>正在執行 1 項任務：</translation>
+        <translation>正在執行 1 項工作：</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
         <source>Task finished.</source>
-        <translation>任務已完成。</translation>
+        <translation>工作已完成。</translation>
     </message>
 </context>
 <context>
@@ -2944,12 +2944,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>Task aborted</source>
-        <translation>任務已中止</translation>
+        <translation>工作已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>The task has been aborted by the user.</source>
-        <translation>任務已被使用者中止。</translation>
+        <translation>工作已被使用者中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="208"/>
@@ -3934,7 +3934,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="622"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>正在複製被封鎖的模組（已完成 %1 項任務，共 %2 項）</translation>
+        <translation>正在複製被封鎖的模組（已完成 %1 項工作，共 %2 項）</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -6661,7 +6661,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="529"/>
         <source>Tasks</source>
-        <translation>任務</translation>
+        <translation>工作</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="592"/>
@@ -6681,7 +6681,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="635"/>
         <source>Concurrent Task Limit:</source>
-        <translation>並行任務上限：</translation>
+        <translation>並行工作上限：</translation>
     </message>
     <message>
         <source>Move the data to new location (will restart the launcher)</source>
@@ -7378,12 +7378,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="214"/>
         <source>Task aborted</source>
-        <translation>任務已中止</translation>
+        <translation>工作已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="214"/>
         <source>The task has been aborted by the user.</source>
-        <translation>任務已被使用者中止。</translation>
+        <translation>工作已被使用者中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
@@ -7792,7 +7792,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="156"/>
         <source>Task aborted</source>
-        <translation>任務已中止</translation>
+        <translation>工作已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="262"/>
@@ -8836,12 +8836,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>Task aborted</source>
-        <translation>任務已中止</translation>
+        <translation>工作已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>The task has been aborted by the user.</source>
-        <translation>任務已被使用者中止。</translation>
+        <translation>工作已被使用者中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
@@ -9332,12 +9332,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Task aborted</source>
-        <translation>任務已中止</translation>
+        <translation>工作已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>The task has been aborted by the user.</source>
-        <translation>任務已被使用者中止。</translation>
+        <translation>工作已被使用者中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="219"/>
@@ -11785,7 +11785,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
-        <translation>正在嘗試 %1 項任務，共 %2 項</translation>
+        <translation>正在嘗試 %1 項工作，共 %2 項</translation>
     </message>
 </context>
 <context>
@@ -11879,12 +11879,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="128"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation>未能停止所有 NetJob 的任務！</translation>
+        <translation>未能停止所有 NetJob 的工作！</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="154"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>正在執行 %1 項任務（已完成 %2 項，共 %3 項）</translation>
+        <translation>正在執行 %1 項工作（已完成 %2 項，共 %3 項）</translation>
     </message>
 </context>
 <context>
@@ -13298,7 +13298,7 @@ HTTP 狀態碼：%2</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation>全域任務狀態…</translation>
+        <translation>全域工作狀態…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
@@ -13559,7 +13559,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
-        <translation>該任務已被使用者中止。</translation>
+        <translation>該工作已被使用者中止。</translation>
     </message>
     <message>
         <source>Error: %1</source>
@@ -15684,7 +15684,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>The task has been aborted by the user.</source>
-        <translation>任務已被使用者中止。</translation>
+        <translation>工作已被使用者中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
@@ -15814,7 +15814,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation>正在執行 %1 項任務，共 %2 項</translation>
+        <translation>正在執行 %1 項工作，共 %2 項</translation>
     </message>
 </context>
 <context>
@@ -16482,7 +16482,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation>子任務狀態…</translation>
+        <translation>子工作狀態…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
@@ -16526,7 +16526,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation>任務已中止。</translation>
+        <translation>工作已中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="41"/>
