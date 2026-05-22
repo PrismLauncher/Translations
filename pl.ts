@@ -2320,17 +2320,17 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished">Nazwa Pliku</translation>
+        <translation>Nazwa pliku</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished">Rozmiar paczki danych.</translation>
+        <translation>Rozmiar paczki danych.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished">Nazwa pliku paczki danych.</translation>
+        <translation>Nazwa pliku paczki danych.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -7030,12 +7030,12 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podczas tworzenia instancji pobierane są wymagane pliki gry. Wyłącz tę opcję, aby pominąć początkowe pobieranie i pobrać pliki dopiero po uruchomieniu instancji.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz pliki gry podczas tworzenia instancji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
@@ -10612,7 +10612,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished">Nazwa Pliku</translation>
+        <translation>Nazwa pliku</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
@@ -10652,7 +10652,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The file name of the mod.</source>
-        <translation type="unfinished">Nazwa pliku moda.</translation>
+        <translation>Nazwa pliku modyfikacji.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
@@ -12490,32 +12490,33 @@ Jesteś tego pewien?</translation>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się odczytać manifestu paczki:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Nieobsługiwany tryb instalacji</translation>
+        <translation>Nieobsługiwany tryb instalacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Nie udało się uzyskać lokalnego indeksu metadanych dla &apos;%1&apos; v%2</translation>
+        <translation>Nie udało się uzyskać lokalnego indeksu metadanych dla &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Usuwanie istniejących plików...</translation>
+        <translation>Usuwanie istniejących plików...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Nieznany rodzaj modyfikacji: %1</translation>
+        <translation>Nieznany rodzaj modyfikacji: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Nie udało się uzyskać lokalnego indeksu metadanych dla %1</translation>
+        <translation>Nie udało się uzyskać lokalnego indeksu metadanych dla %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
@@ -12525,17 +12526,17 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Nie ustawiono wersji loadera dla paczki modyfikacji!</translation>
+        <translation>Nie ustawiono wersji loadera dla paczki modyfikacji!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Nieznany lub nieobsługiwany typ pobierania: %1</translation>
+        <translation>Nieznany lub nieobsługiwany typ pobierania: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Pobieranie plików konfiguracyjnych...</translation>
+        <translation>Pobieranie plików konfiguracyjnych...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
@@ -12555,7 +12556,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Pobieranie modyfikacji...</translation>
+        <translation>Pobieranie modyfikacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
@@ -15104,7 +15105,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished">Nazwa Pliku</translation>
+        <translation>Nazwa pliku</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -15199,7 +15200,7 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished">Nazwa Pliku</translation>
+        <translation>Nazwa pliku</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
@@ -16895,7 +16896,7 @@ Brakuje inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished">Nazwa Pliku</translation>
+        <translation>Nazwa pliku</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
