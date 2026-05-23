@@ -6931,22 +6931,22 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="440"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Föreslå att updatera en existerande instans under modpack installation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>Instance Creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Instans skapelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laddar ned nödvändiga spel filer medan instansen skapas. Stäng av det här för att hoppa över första nedladdningen och hämta filerna när instansen startar istället.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda ned spel filer under instans skapelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
@@ -7641,7 +7641,7 @@ Anledning:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte lägga till:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7677,7 +7677,7 @@ Anledning:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades att analysera filen %1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -7733,7 +7733,7 @@ Anledning:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="277"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fick MSA token</translation>
     </message>
     <message>
         <source>Got</source>
@@ -8197,7 +8197,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mera nyheter...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -8207,7 +8207,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hantera &amp;Skins...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
@@ -8477,7 +8477,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
         <source>%1 &amp;Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp; Wiki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
@@ -8869,17 +8869,17 @@ Vill du fortsätta?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig import länk: saknar &apos;url&apos; parameter.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig import länk: URL måste vara http(s).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
@@ -8888,7 +8888,11 @@ Vill du fortsätta?</numerusform>
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du ladda ned och importera ett modpack från:
+%1
+
+URL:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1135"/>
@@ -8930,7 +8934,7 @@ Skapa en ny instans innan du försöker installera denna resurs igen.</translati
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
         <source>Failed to undo trashing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades att ångra instans borttagning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
