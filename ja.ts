@@ -8920,7 +8920,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="189"/>
         <source>No changelog available for this version!</source>
-        <translation>このバージョンに有効な更新履歴がありません！</translation>
+        <translation>このバージョンには更新内容の情報がありません！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="204"/>
