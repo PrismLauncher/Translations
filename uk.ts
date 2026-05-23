@@ -59,12 +59,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Ви можете змінити цю адрессу якщо Ви маєте проблеми зі скачуванням застарілих бібліотек FML (Minecraft 1.5.2 і старіші).</translation>
+        <translation type="unfinished">ЗастаріліВи можете змінити цю адрессу якщо Ви маєте проблеми зі скачуванням застарілих бібліотек FML (Minecraft 1.5.2 і старіші).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;Ключі API</translation>
+        <translation type="unfinished">&amp;Ключі API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
