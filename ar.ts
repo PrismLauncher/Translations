@@ -915,17 +915,17 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="687"/>
+        <location filename="src/launcher/Application.cpp" line="685"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>لا يمكن عرض هذا السجل لأن طول السجل تعدى %1 سطر.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="907"/>
+        <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
         <translation>الإعدادات</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1065"/>
+        <location filename="src/launcher/Application.cpp" line="1063"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -952,12 +952,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 لحذف هذا القفل والمتابعة، حدد &quot;تجاهل&quot; أدناه.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1082"/>
+        <location filename="src/launcher/Application.cpp" line="1080"/>
         <source>Update In Progress</source>
         <translation>التحديث قيد التقدم</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1106"/>
+        <location filename="src/launcher/Application.cpp" line="1104"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -972,12 +972,12 @@ for details on the last update attempt.</source>
 للحصول على تفاصيل حول محاولة التحديث الأخيرة.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1114"/>
+        <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update Failed</source>
         <translation>فشل التحديث</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1138"/>
+        <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -998,12 +998,12 @@ for details.</oldsource>
 للمزيد من التفاصيل.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1146"/>
+        <location filename="src/launcher/Application.cpp" line="1144"/>
         <source>Update Succeeded</source>
         <translation>نجح التحديث</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1178"/>
+        <location filename="src/launcher/Application.cpp" line="1176"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1024,7 +1024,7 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1184"/>
+        <location filename="src/launcher/Application.cpp" line="1182"/>
         <source>Incompatible system configuration</source>
         <translation>إعدادات نظام جهازك غير متوافق</translation>
     </message>
@@ -1033,22 +1033,22 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">إلغاء المهمة</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1937"/>
+        <location filename="src/launcher/Application.cpp" line="1935"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>تم العثور على بيانات قديمة من ٪ 1 ولكن لديك بالفعل بيانات موجودة ل ٪ 2. للأسف سوف تحتاج إلى الانتقال بنفسك. هل تريد أن يتم تذكيرك بترحيل البيانات المعلقة في المرة القادمة التي تبدأ فيها ٪2؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1941"/>
+        <location filename="src/launcher/Application.cpp" line="1939"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>يبدو أنك استخدمت ٪1 من قبل. هل تريد ترحيل البيانات إلى الموقع الجديد ٪2؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1947"/>
+        <location filename="src/launcher/Application.cpp" line="1945"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>يبدو أنك استخدمت ٪1 على٪2 من قبل. هل تريد ترحيل البيانات إلى الموقع الجديد ٪3؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1993"/>
+        <location filename="src/launcher/Application.cpp" line="1991"/>
         <source>Migration failed! Reason: %1</source>
         <translation>فشل الترحيل! السبب: ٪1</translation>
     </message>
@@ -5884,7 +5884,7 @@ You can change the Java version in the settings later.
         <translation type="vanished">لم نتمكن من التشغيل بعد %1 محاولات. هل تريد الاستمرار بالتكرار؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="260"/>
+        <location filename="src/launcher/LaunchController.cpp" line="254"/>
         <source>Player name</source>
         <translation>اسم اللاعب</translation>
     </message>
@@ -5901,7 +5901,7 @@ You can change the Java version in the settings later.
         <translation type="vanished">لم يتم تحديد حالة الجلسة أثناء عملية تسجيل الدخول.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="219"/>
+        <location filename="src/launcher/LaunchController.cpp" line="213"/>
         <source>Play demo?</source>
         <translation>العب الوضع التجريبي؟</translation>
     </message>
@@ -5916,12 +5916,12 @@ Do you want to play the demo?</source>
 هل تريد لعب النسخة التجريبية؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="226"/>
+        <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>Play Demo</source>
         <translation>العب الوضع التجريبي</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="227"/>
+        <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Cancel</source>
         <translation>إلغاء</translation>
     </message>
@@ -5946,7 +5946,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">’%1’لم يعد موجودا على الخوادم. يحتمل أن تم نقله, في هذا الحال يجب عليك إضافة حساب جديد الذي نقلت هذا إليه.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="337"/>
+        <location filename="src/launcher/LaunchController.cpp" line="331"/>
         <source>Account refresh failed</source>
         <translation>فشلت عملية تحديث الحساب</translation>
     </message>
@@ -5979,29 +5979,29 @@ Do you want to play the demo?</source>
         <translation type="vanished">قد انتهت صلاحية الحساب ويجب توثيقه مرة أخرى</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="371"/>
-        <location filename="src/launcher/LaunchController.cpp" line="427"/>
+        <location filename="src/launcher/LaunchController.cpp" line="365"/>
+        <location filename="src/launcher/LaunchController.cpp" line="421"/>
         <source>Error!</source>
         <translation>خطأ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="371"/>
-        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="365"/>
+        <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>تعذر تحميل ملف النموذج.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="372"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>تعذر إنشاء مشغل.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="427"/>
+        <location filename="src/launcher/LaunchController.cpp" line="421"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>فشل تدقيق الملف الشخصي ل%1:%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="434"/>
         <source>&amp;Launch</source>
         <translation>شغّل</translation>
     </message>
@@ -6010,7 +6010,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">تعذر بدء المحلل: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="428"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -6019,7 +6019,7 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="438"/>
+        <location filename="src/launcher/LaunchController.cpp" line="432"/>
         <source>Waiting.</source>
         <translation>جار الانتظار.</translation>
     </message>
@@ -6028,55 +6028,55 @@ Do you want to play the demo?</source>
         <translation type="vanished">تشغيل</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="446"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>تعذر تشغيل المحلل: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Error</source>
         <translation>خطأ</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="174"/>
-        <location filename="src/launcher/LaunchController.cpp" line="474"/>
+        <location filename="src/launcher/LaunchController.cpp" line="168"/>
+        <location filename="src/launcher/LaunchController.cpp" line="468"/>
         <source>Abort</source>
         <translation>إنهاء</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <location filename="src/launcher/LaunchController.cpp" line="186"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
         <translation>حدث خطأ أثناء تحديث &apos;%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="195"/>
+        <location filename="src/launcher/LaunchController.cpp" line="189"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
         <translation>انتهت صلاحية &apos;%1&apos; ويلزم إعادة المصادقة</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="198"/>
+        <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>The launcher&apos;s client identification has changed</source>
         <translation>تغير تعريف العميل الخاص بمشغل اللعبة</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="201"/>
+        <location filename="src/launcher/LaunchController.cpp" line="195"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
         <translation>%1’ لم يعد موجودًا على الخوادم</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="221"/>
+        <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
         <translation>هذا الحساب لايمتلك ماينكرافت.
 تحتاج لشراء اللعبة أولا كي تلعب النسخة الكاملة.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="222"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>No account was selected for launch.</source>
         <translation>لم تختر حسابا للتشغيل.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>
 
 Do you want to play the demo?</source>
@@ -6085,12 +6085,12 @@ Do you want to play the demo?</source>
 هل تريد لعب النسخة التجريبية؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="246"/>
+        <location filename="src/launcher/LaunchController.cpp" line="240"/>
         <source>Choose your demo mode player name</source>
         <translation>اختر اسم اللاعب لوضع التجربة</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="250"/>
+        <location filename="src/launcher/LaunchController.cpp" line="244"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
@@ -6099,27 +6099,27 @@ Do you want to play the demo?</source>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="252"/>
+        <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Choose your offline mode player name</source>
         <translation>اختر اسم اللاعب لوضع اللعب بدون اتصال</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="300"/>
+        <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>No account selected for launch</source>
         <translation>لم يتم اختيار حساب للتشغيل</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="337"/>
+        <location filename="src/launcher/LaunchController.cpp" line="331"/>
         <source>%1. Do you want to reauthenticate this account?</source>
         <translation>%1. هل ترغب في إعادة المصادقة لهذا الحساب؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="487"/>
+        <location filename="src/launcher/LaunchController.cpp" line="481"/>
         <source>Kill Minecraft?</source>
         <translation>قتل ماينكرافت ؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="488"/>
+        <location filename="src/launcher/LaunchController.cpp" line="482"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>قد تؤدي هذه العملية إلى عطب النموذج لذا ينبغي استخدامها فقط حين تتوقف ماين كرافت عن الاستجابة</translation>
     </message>
@@ -11953,7 +11953,7 @@ HTTP Status: %2</source>
 <context>
     <name>ProjectItemDelegate</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="92"/>
+        <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="93"/>
         <source>%1 [installed]</source>
         <translation>%1 [مثبت]</translation>
     </message>
@@ -13070,7 +13070,7 @@ Error message: %3</source>
         <translation>حزم البيانات</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="144"/>
         <source> for %1</source>
         <translation type="unfinished"></translation>
     </message>
