@@ -3598,7 +3598,7 @@ Próbáld újra.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nem sikerült megérteni a csomag manifesztumát:
+        <translation>Nem sikerült értelmezni a csomagleírót:
 </translation>
     </message>
     <message>
@@ -3810,7 +3810,7 @@ Próbáld újra.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>A csomagleíró nem értelmezhető:
+        <translation>Nem sikerült értelmezni a csomagleírót:
 </translation>
     </message>
     <message>
@@ -12310,7 +12310,7 @@ Biztos vagy ebben?</translation>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>A csomagleíró nem értelmezhető:
+        <translation>Nem sikerült értelmezni a csomagleírót:
 </translation>
     </message>
     <message>
@@ -16512,7 +16512,7 @@ ok: %2.</translation>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>A csomagleíró nem értelmezhető:
+        <translation>Nem sikerült értelmezni a csomagleírót:
 </translation>
     </message>
     <message>
