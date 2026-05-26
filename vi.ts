@@ -2525,12 +2525,12 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Hiện không có đủ RAM để khởi phiên bản này với cài đặt bộ nhớ hiện đại.
+        <translation>Hiện không đủ RAM để khởi động phiên bản này với cài đặt bộ nhớ hiện tại.
 
 Cần thiết: %1 MiB
 Hiện có: %2 MiB
 
-Tiếp tục không? Việc này có thể gây chậm đi trong game và thiết bị của bạn.</translation>
+Tiếp tục không? Việc này có thể gây chậm game và thiết bị của bạn.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
