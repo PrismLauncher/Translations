@@ -1287,7 +1287,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>請稍候…</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
@@ -1621,7 +1621,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="196"/>
         <source>instance</source>
-        <translation type="unfinished">Instance</translation>
+        <translation>Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="200"/>
@@ -5319,7 +5319,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished"></translation>
+        <translation>新增 Microsoft 帳號</translation>
     </message>
 </context>
 <context>
@@ -5421,13 +5421,13 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation type="unfinished"></translation>
+        <translation>新增 Microsoft 帳號</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>請稍候…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -5438,27 +5438,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>使用 Microsoft 帳號登入</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>或者</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="347"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>通行碼</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="360"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>複製至剪貼簿</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>資訊</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="77"/>
@@ -5468,7 +5468,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="205"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>您可以掃描 QR Code 登入，或者瀏覽 %1 並輸入上面嘅通行碼嚟進行本機授權登入。</translation>
     </message>
 </context>
 <context>
@@ -7746,7 +7746,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
         <source> by </source>
-        <translation type="unfinished"> 作者： </translation>
+        <translation> 作者： </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
@@ -9037,7 +9037,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>請稍候…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
@@ -10270,7 +10270,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="233"/>
         <source> by </source>
-        <translation type="unfinished"> 作者： </translation>
+        <translation> 作者： </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="238"/>
@@ -11958,7 +11958,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="239"/>
         <source> by </source>
-        <translation type="unfinished"> 作者： </translation>
+        <translation> 作者： </translation>
     </message>
 </context>
 <context>
@@ -12849,7 +12849,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>資訊</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="281"/>
