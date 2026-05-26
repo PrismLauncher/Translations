@@ -7746,7 +7746,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 作者： </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
@@ -10270,7 +10270,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="233"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 作者： </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="238"/>
@@ -11958,7 +11958,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="239"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 作者： </translation>
     </message>
 </context>
 <context>
