@@ -707,11 +707,11 @@
             "untranslated" : 2304
         },
         "uk" : {
-            "file" : "173d3f03c532afbb9a2c4b15d9d81273b0f2b533.class",
-            "sha1" : "173d3f03c532afbb9a2c4b15d9d81273b0f2b533",
-            "size" : 347833,
-            "translated" : 2365,
-            "fuzzy" : 2,
+            "file" : "f18680c56d59ca2542c3151ef0ba31ed2c8657a6.class",
+            "sha1" : "f18680c56d59ca2542c3151ef0ba31ed2c8657a6",
+            "size" : 347815,
+            "translated" : 2367,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "ur" : {
