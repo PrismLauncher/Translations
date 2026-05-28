@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsvaidzināt palaišanas laikā</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
