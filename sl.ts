@@ -772,7 +772,7 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>Ogled mape paketov mačk.</translation>
+        <translation>Ogled mape s paketi mačk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
