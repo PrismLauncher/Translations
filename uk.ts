@@ -157,7 +157,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>yusix</translation>
+        <translation>Введіть власний User Agent тут. Спеціальний рядок $LAUNCHER_VER буде замінено на версію запускача.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -10466,7 +10466,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation>Хочете автоматично застосувати ці пов&apos;язані зміни? Їх ігнорування може призвести до збою гри.</translation>
+        <translation>Бажаєте автоматично застосувати ці пов&apos;язані зміни?
+Ігнорування може зламати гру.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="452"/>
@@ -13266,7 +13267,7 @@ HTTP Статус: %2</translation>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="102"/>
         <source>The default Qt widget style</source>
-        <translation>Стандартний стиль віджетів QT</translation>
+        <translation>Стандартний стиль віджетів Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
@@ -13412,7 +13413,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="398"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>Тестування Java успішно! &lt;br /&gt; Повідомлено про платформу:%1 &lt;br /&gt; Повідомлено про версію Java:%2 &lt;br /&gt;</translation>
+        <translation>Тестування Java успішне!&lt;br /&gt;Повідомлено про платформу:%1&lt;br /&gt;Повідомлено про версію Java:%2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
@@ -13656,7 +13657,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>Тестування Java пройшло успішно! &lt;br /&gt; Повідомлено про платформу: %1 &lt;br /&gt; Повідомлено про версію Java: %2 &lt;br /&gt; Повідомлено про постачальника Java: %3 &lt;br /&gt;</translation>
+        <translation>Тестування Java пройшло успішно!&lt;br /&gt;Повідомлено про платформу: %1&lt;br /&gt;Повідомлено про версію Java: %2&lt;br /&gt;Повідомлено про постачальника Java: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
@@ -14106,7 +14107,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>Виникла помилка під час виконання операції перейменування::&lt;br/&gt; - - Старий кореневий каталог збірки: %1&lt;br/&gt; - Новий кореневий каталог збірки: %2&lt;br/&gt; Перейменовано лише метадані.</translation>
+        <translation>Виникла помилка під час виконання операції перейменування: &lt;br/&gt; - Старий кореневий каталог збірки: %1&lt;br/&gt; - Новий кореневий каталог збірки: %2&lt;br/&gt;Перейменовано лише метадані.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
