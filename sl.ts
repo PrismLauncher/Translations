@@ -70,7 +70,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">Avtentikacija Microsoft</translation>
+        <translation>&amp;Microsoft Avtentikacija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Sledeče datoteke niso na voljo za prenos v tretjih zaganjalnikih. Potrebujete jih lastnoročno prenesiti jih dodati v ta</translation>
+        <translation>Sledeče datoteke niso na voljo za prenos v tretjih zaganjalnikih. &lt;br/&gt;Potrebujete jih ročno prenesti jih dodati v to instanco.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
@@ -772,7 +772,7 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>Ogled mape paketov mačk</translation>
+        <translation>Ogled mape paketov mačk.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
