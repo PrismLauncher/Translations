@@ -75,7 +75,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Możesz wpisać inny serwer jeżeli masz problem z pobraniem źródłowych bibliotek FML (Minecraft 1.5.2 i wcześniejsze wersje)</translation>
+        <translation>Możesz wpisać inny serwer jeżeli masz problem z pobraniem źródłowych bibliotek FML (Minecraft 1.5.2 i wcześniejsze wersje).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -12521,7 +12521,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Nie udało się znaleźć wersji dla %1 loadera</translation>
+        <translation>Nie udało się znaleźć wersji dla %1 loadera</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
@@ -12541,17 +12541,17 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
         <source>Config download</source>
-        <translation type="unfinished">Pobieranie konfiguracji</translation>
+        <translation>Pobieranie konfiguracji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Rozpakowywanie konfiguracji...</translation>
+        <translation>Rozpakowywanie konfiguracji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Wybieranie opcjonalnych modyfikacji...</translation>
+        <translation>Wybieranie opcjonalnych modyfikacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
@@ -12567,12 +12567,12 @@ Jesteś tego pewien?</translation>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Nieznany typ pobierania: %1</translation>
+        <translation>Nieznany typ pobierania: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Znaleziono zablokowane modyfikacje</translation>
+        <translation>Znaleziono zablokowane modyfikacje</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
@@ -12587,27 +12587,27 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Nie udało się rozpakować modyfikacji...</translation>
+        <translation>Nie udało się rozpakować modyfikacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Rozpakowywanie modyfikacji...</translation>
+        <translation>Rozpakowywanie modyfikacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Instalowanie paczki modyfikacji</translation>
+        <translation>Instalowanie paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Nie udało się utworzyć komponentu bibliotek</translation>
+        <translation>Nie udało się utworzyć komponentu bibliotek</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Nieznany rodzaj loadera: </translation>
+        <translation>Nieznany rodzaj loadera: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
