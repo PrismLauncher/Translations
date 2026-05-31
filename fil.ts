@@ -220,7 +220,7 @@
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Hindi suportadong mode ng installation</translation>
+        <translation>Hindi suportadong mode ng pag-install</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Dina-download ang mga mod...</translation>
+        <translation>Dina-download ang mga mod…</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -292,11 +292,11 @@
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Nabigong i-extract ang mga mods...</translation>
+        <translation>Nabigong i-extract ang mga mod…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Ine-extract ang mga mods...</translation>
+        <translation>Ine-extract ang mga mod…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
