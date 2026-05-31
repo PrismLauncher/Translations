@@ -6273,12 +6273,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تحميل جافا تلقائياً:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف الذي يخزن فيه Prism Launcher اصدارات الجافا تلقائياً. لا تضبط هذا الخيار في مسار تثبيت الجافا في نظامك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
@@ -6293,12 +6293,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>يعرض هذا حاليًا فقط الmods التي لا تحمل علامة التوافق مع إصدار ماينكرافت الحالي.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="430"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>الكشف عن حالات عدم توافق الmod وعرضها (تجريبي)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="484"/>
@@ -6544,17 +6544,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>Instance Creation</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء نسخه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>تنزيل ملفات اللعبه النطلوبة أثناء إنشاء النسخه. قم بتعطيل هذا الخيار لتخطي التنزيل الأولي وجلب الملفات عند تشغيل البرنامج.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>تنزيل ملقات اللعبه أثناء إنشاء النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
@@ -6751,7 +6751,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">فشل في نسخ مكتبة Forge/FML: %1.</translation>
+        <translation>فشل في نسخ (Forge/FML library: %1).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6760,7 +6760,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">فشل في تنزيل الملفات الآتية:
+        <translation>فشل في تنزيل الملفات الآتية:
 %1
 
 السبب: %2
@@ -7325,7 +7325,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="277"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>حصلت على رمز MSA</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7392,7 +7392,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="148"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>حصلت على رمز MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
@@ -7670,7 +7670,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation type="unfinished"></translation>
+        <translation>إدارة والأزياء...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
@@ -7757,7 +7757,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
         <source>%1 &amp;Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 &amp;Wiki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="743"/>
@@ -8168,17 +8168,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط إستيراد غير صالح: المعامل &apos;url&apos; مفقود.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط إستيراد غير صالح: يجب ان يكون عنوان URL من نوع http(s).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت مودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
@@ -8187,7 +8187,11 @@ Reason:
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد تنزيل وتصدير المودباك من:
+%1
+
+URL:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1095"/>
@@ -8498,7 +8502,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="147"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
@@ -8507,7 +8511,11 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>هذا مودباك محلي.
+هذا يمكن تحديثة إما بإستخدام ملف بتنسيق 1% او عنوان URL.
+لا تستخدم تنسيقاً مختلف عن التنسيق المنشور وإلا فقد يؤدي ذلك إلى تعطيل النسخة .
+تأكد انك أيضاً تثق في عنوان الURL.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
@@ -8866,7 +8874,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>حصلت على ملف تعريف ماين كرافت</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
@@ -9002,7 +9010,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>تدعم اللعبة الأساسية الدقة فقط. ولمحاكاة سلوك التكبير، يقوم التنفيذ الحالي بتقدير أقصى حجم للعرض.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
@@ -9499,12 +9507,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Requires</source>
-        <translation type="unfinished"></translation>
+        <translation>يتطلب</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation type="unfinished"></translation>
+        <translation>مطلوب من قبل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -9564,28 +9572,29 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="222"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>لكل مود, عدد المودات الأخرى التي تعتمد عليها.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لكل مود, عدد المودات الأخرى التي تعتمد عليها.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The file name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>إسم ملف المود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد التبديل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل تلك المودات سيؤدي إلى تغيرات في المودات الأخرى.
+</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
@@ -9593,75 +9602,94 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 </source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+            <numerusform>سيتم تفعيل المود n%
+</numerusform>
+            <numerusform>سيتم تفعيل المودان n%
+</numerusform>
+            <numerusform>سيتم تفعيل المودات n%
+</numerusform>
+            <numerusform>سيتم تفعيل المودات n%
+</numerusform>
+            <numerusform>سيتم تفعيل المودات n%
+</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>سيتم تعطيل مود n%
+</numerusform>
+            <numerusform>سيتم تعطيل المود n%
+</numerusform>
+            <numerusform>سيتم تعطيل المودان n%
+</numerusform>
+            <numerusform>سيتم تعطيل المودات n%
+</numerusform>
+            <numerusform>سيتم تعطيل المودات n%
+</numerusform>
+            <numerusform>سيتم تعطيل المودات n%
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد تطبيق هذه الخيارات المتصلة؟
+تجاهلها قد يؤدي إلى تعطيل اللعبه.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="452"/>
         <source>Only Toggle Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد التبديل فقط</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="453"/>
         <source>Toggle Required Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>التبديل يتطلب مودات</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
         <source>Confirm enable</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد التمكين</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="456"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>المود المفعل يتطلب المود %n mod .
+</numerusform>
+            <numerusform>المود المفعل يتطلب مود %n mod .
+</numerusform>
+            <numerusform>المود المفعل يتطلب مودان %n mod .
+</numerusform>
+            <numerusform>المود المفعل يتطلب مودات %n mod .
+</numerusform>
+            <numerusform>المود المفعل يتطلب مودات %n mod .
+</numerusform>
+            <numerusform>المود المفعل يتطلب مودات %n mod .
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="457"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد تمكين هؤلاء أيضاً؟
+تجاهلهم قد يؤدي لتعطيل اللعبه.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="458"/>
         <source>Only Enable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد المفعل فقط</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
         <source>Enable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>يتطلب تمكين</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="461"/>
