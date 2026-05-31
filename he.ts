@@ -13,12 +13,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>סוג שירות הדבקות</translation>
+        <translation>ס&amp;וג שירות הדבקות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>כתובת בסיס</translation>
+        <translation>כתובת ב&amp;סיס</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -139,7 +139,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;הערה: צריך להגדיר זאת רק אם רצוי גישה למידע פרטי&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;הערה: ההגדרה הזו נחוצה רק אם ברצונך לגשת לנתונים פרטיים.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -177,7 +177,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;לידיעתך: אתה רק צריך להגדיר את זה כדי לגשת למידע פרטי. קרא את ה&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;מפרט&lt;/a&gt; לעוד מידע.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;הערה: הגדרה זו נחוצה רק אם ברצונך לגשת לנתונים פרטיים. נא לעיין &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;בתיעוד&lt;/a&gt; למידע נוסף.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -366,12 +366,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation>סגירה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>About %1</source>
-        <translation>בערך %1</translation>
+        <translation>בסביבות %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
@@ -533,7 +533,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="389"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>שם פרופיל המיינקרפט שמקושר עם החשבון.</translation>
+        <translation>שם המשתמש של Minecraft המקושר לחשבון.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -663,7 +663,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>לא הוגדר תעודת זהות של האימות של מייקרוסופט.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
@@ -872,7 +872,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation>שקיפות החתול</translation>
+        <translation>אטימות החתול</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
@@ -1128,7 +1128,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation>משיג את קבצי התוכן מ%1...</translation>
+        <translation>קובצי המשאבים מתקבלים מתוך %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1175,7 +1175,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>בחר מודים להתקנה</translation>
+        <translation>נא לבחור מודים להתקנה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -1185,7 +1185,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>בחר מומלצים</translation>
+        <translation>בחירה מהמומלצים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
@@ -1236,7 +1236,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="80"/>
         <source>Version selected:</source>
-        <translation>גרסא מסומנת:</translation>
+        <translation>הגרסה שנבחרה:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
@@ -1511,7 +1511,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:red&quot;&gt;&amp;#x2718;לא נמצא&lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; לא נמצא &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
@@ -1895,7 +1895,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>ב-Windows, קישורים סמליים עשויים לדרוש הרשאת מנהל כדי ליצור אותם.</translation>
+        <translation>ב־Windows, הרשאות ניהול עשויות להיות נחוצות ליצירת קישורים סמליים.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
@@ -1999,7 +1999,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation>תצטרך למחוק אותם ידנית אם זה המצב.</translation>
+        <translation>יהיה צורך למחוק אותם ידנית אם זה המקרה.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="85"/>
@@ -2077,7 +2077,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation>עקיפת הגדרות גלובליות</translation>
+        <translation>עקיפת הגדרות ג&amp;לובליות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2098,7 +2098,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>‏&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;הפקודה להרצה לפני ההפעלה מורצת לפני שהעותק מופעל והפקודה להרצה לאחר היציאה מורצת לאחר סגירת העותק.&lt;/p&gt;&lt;p&gt;שתיהן מורצות בתיקיית העבודה של משגר המשחק, יחד עם משתנים סביבתיים נוספים:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;‏‎$INST_NAME‏ - שם העותק&lt;/li&gt;&lt;li&gt;‏ּ‎$INST_ID‏ - מזהה העותק (שם התיקייה שלו)&lt;/li&gt;&lt;li&gt;‏‎$INST_DIR‏ - הנתיב המלא של Minecraft&lt;/li&gt;&lt;li&gt;‏‎$INST_JAVA‏ - הקובץ הבינרי של Java שמשמש להפעלת המשחק&lt;/li&gt;&lt;li&gt;‏‎$INST_JAVA_ARGS‏ - פרמטרים לשורת הפקודה שמשמשים להפעלת המשחק (אזהרה: הפרמטרים לא יעבדו כראוי אם הארגומנטים מכילים רווחים)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;פקודת „Wrapper” מאפשרת להפעיל תוכנה נוספת למשיכת קבצים (כמו ‚optirun’ הזמינה ללינוקס)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>‏&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;הפקודה להרצה לפני ההפעלה מורצת לפני שהעותק מופעל, והפקודה להרצה לאחר היציאה מורצת לאחר סגירתו.&lt;/p&gt;&lt;p&gt;שתי הפקודות מורצות בתיקיית העבודה של המשגר, יחד עם משתנים סביבתיים נוספים:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;‏‎$INST_NAME‏ - שם העותק&lt;/li&gt;&lt;li&gt;‏ּ‎$INST_ID‏ - מזהה העותק (שם התיקייה שלו)&lt;/li&gt;&lt;li&gt;‎‎$INST_DIR‏ - הנתיב המלא לתיקיית העותק&lt;/li&gt;&lt;li&gt;‎$INST_MC_DIR‏ הנתיב המלא לקובץ ההרצה של Minecraft&lt;/li&gt;&lt;li&gt;‏‎$INST_JAVA‏ - הקובץ הבינרי של Java שמשמש להפעלת המשחק&lt;/li&gt;&lt;li&gt;‏‎$INST_JAVA_ARGS‏ - פרמטרים לשורת הפקודה שמשמשים להפעלה (אזהרה: הארגומנטים לא יעבדו כראוי אם הם מכילים רווחים)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;שימוש בפקודה Wrapper מאפשר הפעלה באמצעות תוכנית מעטפת נוספת (כמו ‚optirun’ הזמינה ללינוקס)&lt;/p&gt;&lt;/body&gt;&lt;/html</translation>
     </message>
 </context>
 <context>
@@ -2297,7 +2297,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>מזהה פורמט חבילת הנתונים, כמו גם גרסאות ה-Minecraft שעבורן היא תוכננה.</translation>
+        <translation>מזהה שגוי של תבנית ערכות נתונים, כמו גם גרסאות ה־Minecraft שעבורן היא פותחה.</translation>
     </message>
     <message>
         <source>
@@ -2339,7 +2339,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation>הורד חבילות נתונים מפלטפורמות מוד מקוונות</translation>
+        <translation>הורדת ערכות נתונים מפלטפורמות מודים ברשת</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
@@ -2551,7 +2551,7 @@ Launch anyway?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>נותר מעט זיכרון פנוי</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2566,7 +2566,7 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation>לא מספיק זיכרון RAM בשביל להפעיל את העותק הזה של המשחק</translation>
+        <translation>אין מספיק זיכרון RAM להפעלת העותק הזה של המשחק</translation>
     </message>
 </context>
 <context>
@@ -3123,7 +3123,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
         <source>View &amp;Configs</source>
-        <translation>הצג ותצורות</translation>
+        <translation>הצגת הגדרות ת&amp;צורה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
@@ -3133,7 +3133,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
         <source>View &amp;Folder</source>
-        <translation>הצג ותיקיה</translation>
+        <translation>הצגת &amp;תיקייה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
@@ -4329,7 +4329,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- ערכות מוודים של Technic ‏(ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -4390,17 +4390,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>נא לבחור את העותק שאליו ברצונך לייבא</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>נא לבחור את העותק שאליו ברצונך לייבא את ערכת המשאבים הזו.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>נא לבחור את העותק שאליו ברצונך לייבא את ה%1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -4435,7 +4435,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="141"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>נא לדווח על תקלות בכתובת: </translation>
     </message>
 </context>
 <context>
@@ -4474,7 +4474,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>אישור</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
@@ -5257,7 +5257,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="69"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>לא מותקנות גרסאות Java בניהול</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
@@ -5394,7 +5394,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>קובץ אצ&amp;ווה של Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
