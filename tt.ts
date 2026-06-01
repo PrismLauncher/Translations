@@ -1485,7 +1485,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ярдәм</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
@@ -1534,7 +1534,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исем</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
@@ -1802,7 +1802,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исем</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2103,7 +2103,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исем</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="110"/>
@@ -2864,7 +2864,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="111"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="127"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3763,17 +3763,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="81"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ярдәм</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Эшләтү</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Туктату</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
@@ -4412,7 +4412,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="434"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Эшләтү</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="428"/>
@@ -4573,7 +4573,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Папкалар</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
@@ -5928,7 +5928,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Аккаунтлар</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
@@ -6454,7 +6454,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="72"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исем</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="145"/>
@@ -7086,7 +7086,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Барлык версияләр</translation>
     </message>
 </context>
 <context>
@@ -7104,7 +7104,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исем</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -7935,7 +7935,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исем</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
@@ -7989,7 +7989,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="126"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ярдәм</translation>
     </message>
 </context>
 <context>
@@ -8415,7 +8415,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="588"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исем</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="590"/>
@@ -8438,7 +8438,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="49"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ярдәм</translation>
     </message>
 </context>
 <context>
@@ -10458,7 +10458,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исем</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
@@ -10600,7 +10600,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исем</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
@@ -11193,7 +11193,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="285"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исем</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="287"/>
@@ -11963,7 +11963,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исем</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
