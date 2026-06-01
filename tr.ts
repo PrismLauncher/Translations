@@ -12349,27 +12349,27 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">&apos;%1&apos; v%2 için yerel meta veri dizini alınamadı</translation>
+        <translation>&apos;%1&apos; v%2 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Mevcut dosyalar siliniyor...</translation>
+        <translation>Mevcut dosyalar siliniyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Bilinmeyen mod türü: %1</translation>
+        <translation>Bilinmeyen mod türü: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">%1 için yerel meta veri dizini alınamadı</translation>
+        <translation>%1 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">%1 yükleyicisi için sürüm bulunamadı</translation>
+        <translation>%1 yükleyicisi için sürüm bulunamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
@@ -12379,32 +12379,32 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Bilinmeyen veya desteklenmeyen indirme türü: %1</translation>
+        <translation>Bilinmeyen veya desteklenmeyen indirme türü: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Yapılandırmalar indiriliyor...</translation>
+        <translation>Yapılandırmalar indiriliyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
         <source>Config download</source>
-        <translation type="unfinished">Yapılandırma indirmesi</translation>
+        <translation>Yapılandırma indirmesi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Yapılandırmalar çıkarılıyor...</translation>
+        <translation>Yapılandırmalar çıkarılıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">İsteğe bağlı modlar seçiliyor...</translation>
+        <translation>İsteğe bağlı modlar seçiliyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Modlar indiriliyor...</translation>
+        <translation>Modlar indiriliyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
@@ -12415,7 +12415,7 @@ Emin misin?</translation>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Bilinmeyen indirme türü: %1</translation>
+        <translation>Bilinmeyen indirme türü: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
@@ -12435,12 +12435,12 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Modları çıkartma başarısız oldu...</translation>
+        <translation>Modları çıkartma başarısız oldu...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Modlar çıkartılıyor...</translation>
+        <translation>Modlar çıkartılıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
@@ -12450,17 +12450,17 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Kütüphane bileşeni oluşturulamadı</translation>
+        <translation>Kütüphane bileşeni oluşturulamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Bilinmeyen yükleyici tipi: </translation>
+        <translation>Bilinmeyen yükleyici tipi: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Paket bileşeni oluşturulamadı</translation>
+        <translation>Paket bileşeni oluşturulamadı</translation>
     </message>
 </context>
 <context>
@@ -17855,7 +17855,7 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">Tamam</translation>
+        <translation>Tamam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
