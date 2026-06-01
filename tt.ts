@@ -5699,7 +5699,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="597"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation>Логлар папкасын файл менеджерында ачу</translation>
+        <translation>Логлар папкасын файл менеджерында ачу.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
