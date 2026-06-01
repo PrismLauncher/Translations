@@ -6131,7 +6131,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished">Sistemin bölgesel standartlarını kullan</translation>
+        <translation>Sistemin bölgesel standartlarını kullan</translation>
     </message>
     <message>
         <source>Use system locales</source>
@@ -6967,17 +6967,17 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>Instance Creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil Oluşturma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil oluşturulurken gerekli oyun dosyaları indirir. İlk indirmeyi atlamak ve dosyaları profil başlatıldığında almak için bunu devre dışı bırakın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil oluşturulurken oyun dosyalarını indir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
