@@ -3561,12 +3561,12 @@ Försök igen.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished">Hämtar manifestet...</translation>
+        <translation>Hämtar manifestet...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Misslyckades med att hitta paketversion %1</translation>
+        <translation>Misslyckades med att hitta paketversion %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
@@ -3608,7 +3608,7 @@ Försök igen.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod-nedladdning</translation>
+        <translation>Mod-nedladdning</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
@@ -4694,7 +4694,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="92"/>
         <source>Skip</source>
-        <translation type="unfinished">Hoppa över</translation>
+        <translation>Hoppa över</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="109"/>
@@ -4873,7 +4873,7 @@ Var försiktig!</translation>
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Andra loggar</translation>
+        <translation>Andra loggar</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
@@ -7092,7 +7092,7 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
         <source>General</source>
-        <translation type="unfinished">Allmänt</translation>
+        <translation>Allmänt</translation>
     </message>
 </context>
 <context>
@@ -7131,12 +7131,12 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Kollar efter FML-bibliotek...</translation>
+        <translation>Kollar efter FML-bibliotek...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Laddar ner FML-bibliotek...</translation>
+        <translation>Laddar ner FML-bibliotek...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -7145,17 +7145,17 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Kopierar FML-bibliotek till instansen...</translation>
+        <translation>Kopierar FML-bibliotek till instansen...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Misslyckades att skapa FML-biblioteksmapp i instansen.</translation>
+        <translation>Misslyckades att skapa FML-biblioteksmapp i instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Misslyckades att kopiera Forge/FML-bibliotek: %1.</translation>
+        <translation>Misslyckades att kopiera Forge/FML-bibliotek: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -7164,7 +7164,7 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Misslyckades att ladda ner följande filer:
+        <translation>Misslyckades att ladda ner följande filer:
 %1
 
 Anledning:%2
@@ -7529,7 +7529,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished">Sök</translation>
+        <translation>Sök</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7733,7 +7733,7 @@ Anledning:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="277"/>
         <source>Got MSA token</source>
-        <translation type="unfinished">Fick MSA token</translation>
+        <translation>Fick MSA token</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7824,7 +7824,7 @@ Anledning:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="148"/>
         <source>Got MSA token</source>
-        <translation type="unfinished">Fick MSA token</translation>
+        <translation>Fick MSA token</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
@@ -8460,7 +8460,7 @@ Anledning:
         <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation type="unfinished">Ladda upp loggar</translation>
+        <translation>Se loggar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
@@ -8940,7 +8940,8 @@ Skapa en ny instans innan du försöker installera denna resurs igen.</translati
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vissa instanser och genvägar kunde inte återställas.
+Kontrollera papperskorgen för att återställa dem manuellt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1391"/>
@@ -8985,7 +8986,10 @@ För att manuellt rensa metadata­cachen, välj Mappar → Visa launcher-rotmapp
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att radera &quot;%1&quot;%2.
+Detta kan vara permanent och kommer att raderas instansen helt.
+
+Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
@@ -9107,12 +9111,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketinformation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paket Namn:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -9137,7 +9141,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="168"/>
         <source>Update From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera Från Fil</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -9200,7 +9204,7 @@ Detta kan endast uppdateras med en fil i formatet %1
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
         <source>Update Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera Paket</translation>
     </message>
     <message>
         <source>Update pack</source>
@@ -9209,7 +9213,7 @@ Detta kan endast uppdateras med en fil i formatet %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="147"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
@@ -9218,7 +9222,11 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Detta är ett lokalt modpaket.
+Detta kan uppdateras antingen genom en fil i %1 format eller en URL.
+Använd inte ett annat format än den nämnda då det kan förstöra instansen.
+Se till också till att du litar på URL länken.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
@@ -9610,7 +9618,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Fick Minecraft Profil</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
@@ -9669,7 +9677,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Basspelet stödjer endast upplösning. För att simulera maximeringsbeteendet approximeras den maximala skärmstorleken för nuvarande implementation.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
@@ -9807,143 +9815,144 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
         <source>&amp;Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fönster storlek:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
         <source>×</source>
-        <translation type="unfinished"></translation>
+        <translation>×</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
         <source>pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>pixlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
         <source>&amp;Console Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Konsol fönster</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>När spelet körs, visa konsolfönstret</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
         <source>When the game crashes, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>När spelet krashar, visa konsolfönster</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
         <source>When the game quits, hide the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>När spelet avslutas, göm konsolfönstret</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
         <source>&amp;Global Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Globala datapaket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillåter installering av datapacket över alla världar om ett tillämpligt mod är installerat.
+Det är sannolikt att du kommer behöva ändra sökvägen - var snäll och vänd dig till moddets hemsida.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
         <source>Folder Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappsökväg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>datapaket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished">Bläddra</translation>
+        <translation>Bläddra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
         <source>Override &amp;Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Överskrid %Standardkonto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="413"/>
         <source>Enable Auto-&amp;join</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera Automatisk-&amp;anslutning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="435"/>
         <source>Singleplayer world:</source>
-        <translation type="unfinished"></translation>
+        <translation>Enspelarvärld:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="475"/>
         <source>Override Mod Download &amp;Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Överskrid Mod Nedladdnings &amp;Laddare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
         <source>Babric</source>
-        <translation type="unfinished"></translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished"></translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Ornithe</source>
-        <translation type="unfinished"></translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
         <source>Rift</source>
-        <translation type="unfinished"></translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="666"/>
         <source>&amp;GLFW library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;GLFW programbiblioteksökväg:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="692"/>
         <source>&amp;OpenAL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OpenAL programbiblioteksökväg:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
@@ -10060,7 +10069,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="565"/>
         <source>Select Global Data Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj Global Datapackets Mapp</translation>
     </message>
 </context>
 <context>
@@ -10170,7 +10179,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
         <source>Show More</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa mer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
@@ -10180,27 +10189,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
         <source>Babric</source>
-        <translation type="unfinished"></translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished"></translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
         <source>Ornithe</source>
-        <translation type="unfinished"></translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Rift</source>
-        <translation type="unfinished"></translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="200"/>
@@ -10351,17 +10360,17 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Requires</source>
-        <translation type="unfinished"></translation>
+        <translation>Kräver</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation type="unfinished"></translation>
+        <translation>Krävs av</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished">Filnamn</translation>
+        <translation>Filnamn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="210"/>
@@ -10371,17 +10380,17 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="222"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>För varje mod, antalet andra mods som är beroende av det.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation type="unfinished"></translation>
+        <translation>För varje mod, antalet andra mods som det är beroende av.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The file name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnamnet av moddet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
@@ -10392,15 +10401,18 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivering/avaktivering av dessa mod(s) kommer orsaka förändringar för andra mods.
+</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>%n mod(s) will be enabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n mod kommer bli aktiverat
+</numerusform>
+            <numerusform>%n mods kommer bli aktiverade
+</numerusform>
         </translation>
     </message>
     <message numerus="yes">
