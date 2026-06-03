@@ -8466,7 +8466,7 @@ Anledning:
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished">Ladda upp startloggar till den valda loggleverantören</translation>
+        <translation>Visa nuvarande och tidigare launcherloggar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
@@ -10395,7 +10395,7 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Bekräfta växel</translation>
+        <translation>Bekräfta växel</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
@@ -10419,9 +10419,11 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n mod kommer att bli inaktiverad
+</numerusform>
+            <numerusform>%n moddar kommer att bli inaktiverad
+</numerusform>
         </translation>
     </message>
     <message>
@@ -10433,17 +10435,17 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="452"/>
         <source>Only Toggle Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla bara väljade</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="453"/>
         <source>Toggle Required Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla krävade mods</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
         <source>Confirm enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekräfta</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="456"/>
