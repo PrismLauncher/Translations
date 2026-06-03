@@ -6018,7 +6018,7 @@ Puteți schimba versiunea de Java din setări ulterior.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>Folosește setările regionale ale sistemului</translation>
     </message>
     <message>
         <source>Use system locales</source>
