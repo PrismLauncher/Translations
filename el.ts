@@ -965,7 +965,7 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished">Μια προσπάθεια ενημέρωσης απέτυχε
+        <translation>Μια προσπάθεια ενημέρωσης απέτυχε
 
 Παρακαλώ βεβαιωθείτε ότι η εγκατάστασή σας λειτουργεί σωστά πριν συνεχίσετε.
 Ελέγξτε το αρχείο καταγραφής ενημέρωσης του Prism Launcher στην τοποθεσία: 
@@ -1001,7 +1001,7 @@ for details.</oldsource>
     <message>
         <location filename="src/launcher/Application.cpp" line="1144"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished">Επιτυχής Ενημέρωση</translation>
+        <translation>Επιτυχής Ενημέρωση</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1176"/>
