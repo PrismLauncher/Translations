@@ -6536,12 +6536,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Не атрымалася стварыць папку FML бібліятэк унутры зборкі.</translation>
+        <translation>Не атрымалася стварыць папку бібліятэк FML унутры зборкі.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Не атрымалася капіяваць Forge/FML бібліятэку: %1.</translation>
+        <translation>Не атрымалася cкапіяваць Forge/FML бібліятэку: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6550,7 +6550,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Не атрымалася спампаваць наступныя файлы:
+        <translation>Не атрымалася спампаваць наступныя файлы:
 %1
 
 Прычына:%2
@@ -6633,7 +6633,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Не атрымалася перанесці распакаваны Minecraft!</translation>
+        <translation>Не атрымалася перанесці распакаваны Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
