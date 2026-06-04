@@ -58,23 +58,23 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished">Servidor de biblioteques FML antic</translation>
+        <translation>Servidor de Biblioteques FML Llegades</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished">Podeu establir això a un altre servidor si teniu problemes amb la descàrrega de biblioteques FML antigues (Minecraft 1.5.2 i anteriors).</translation>
+        <translation>Podeu establir això a un altre servidor si teniu problemes amb la descàrrega de biblioteques FML llegades (Minecraft 1.5.2 i anteriors).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
-        <translation>Claus &amp;API</translation>
+        <translation>&amp;Claus API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>Autentificació de &amp;Microsoft</translation>
+        <translation>&amp;Autenticació de Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Habilita la reserva a Modrinth per als mods bloquejats</translation>
+        <translation>Habilita la alternativa a Modrinth per mods bloquejats</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -108,7 +108,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Nota: és probable que no calgui establir això si l&apos;autenticació a través de Microsoft ja funciona.</translation>
+        <translation>Nota: probablement no cal que configuris això si l&apos;inici de sessió via Microsoft ja funciona.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -143,7 +143,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: només cal activar-lo per accedir a dades privades.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: només cal configurar això per accedir dades privades.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -156,7 +156,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
-        <translation>Agent d&apos;usuari</translation>
+        <translation>Agent d&apos;Usuari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
@@ -166,7 +166,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>Servidor de meta&amp;dades</translation>
+        <translation>Servidor de Meta&amp;data</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -288,7 +288,7 @@
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>La baixada dels següents arxius està bloquejada a llançadors de tercers. &lt;br/&gt; Haureu de baixar-los i afegir-los a la instància manualment.</translation>
+        <translation>Els fitxers següents no estan disponibles per descarregar en llançadors de tercers.&lt;br/&gt;Hauràs de descarregar-los manualment i afegir-los a la instància.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
@@ -1521,7 +1521,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcador de posició de l&apos;etiqueta de missatge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
@@ -1541,7 +1541,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
@@ -1920,7 +1920,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
@@ -1991,7 +1991,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="112"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (en ús)</translation>
+        <translation>%1 (en ús)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="179"/>
@@ -2065,7 +2065,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La comanda pre-execució s&apos;executa abans que la instància s&apos;iniciï i la post sortida després que es tanqui.&lt;/p&gt;&lt;p&gt;Les dues s&apos;executen al directori arrel del llançador amb els següents arguments: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - nom de la instància&lt;/li&gt;&lt;li&gt;$INST_ID - ID de la instància (el seu nom de carpeta)&lt;/li&gt;&lt;li&gt;$INST_DIR - ruta absoluta a la carpeta &lt;/li&gt;&lt;li&gt;$INST_MC_DIR - rut a absoluta de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binari de Java utilitzat&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - paràmetres de línia d&apos;ordres pel llançament (advertència: no funcionarà correctament si els arguments contenen espais)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La comanda de contenidor permet executar un programa extra (per exemple &apos;optirun&apos; a Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La comanda de pre-llançament s&apos;executa abans que es llanci la instància i la de post-sortida després de que surti.&lt;/p&gt;&lt;p&gt;Les dues s&apos;executaràn a la carpeta en funcionament del llançador amb variables addicionals: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nom de la instància&lt;/li&gt;&lt;li&gt;$INST_ID - ID de la instància (nom de la carpeta)&lt;/li&gt;&lt;li&gt;$INST_DIR - ruta absoluta de la instància &lt;/li&gt;&lt;li&gt;$INST_MC_DIR - ruta absoluta de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binari de Java utilitzat pel llançament&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - paràmetres de línia d&apos;ordres utilitzats pel llançament (advertència: no funcionarà correctament si els arguments contenen espais)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La comanda d&apos;envoltall permet el llançament amb un programa d&apos;envoltall extra (com &apos;optirun&apos; a Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2499,7 +2499,11 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>El teu sistema està sota una pressió de memòria crítica.
+Això pot portae a retards greus, bloquejos o inestabilitat del sistema.
+Es recomana tancar altres aplicacions o reiniciar el sistema.
+
+Llançar igualment?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
