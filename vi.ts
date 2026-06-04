@@ -2527,7 +2527,7 @@ Available: %2 MiB
 Continue anyway? This may cause slowdowns in the game and your system.</source>
         <translation>Hiện không đủ RAM để khởi động phiên bản này với cài đặt bộ nhớ hiện tại.
 
-Cần thiết: %1 MiB
+Yêu cầu: %1 MiB
 Hiện có: %2 MiB
 
 Tiếp tục không? Việc này có thể gây chậm game và thiết bị của bạn.</translation>
@@ -2563,7 +2563,7 @@ Launch anyway?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Bộ nhớ trống thấp</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
