@@ -3344,43 +3344,77 @@ Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
+        <source>Icon category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
+        <source>Search Icons...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Search...</source>
         <translation>搜尋…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
+        <source>All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
+        <source>Modern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
+        <source>Legacy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
+        <source>Modpacks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
+        <source>Custom</source>
+        <translation type="unfinished">自訂</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
         <source>Add Icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="155"/>
         <source>Remove Icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="157"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="158"/>
         <source>OK</source>
         <translation>確定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="167"/>
         <source>Open Folder</source>
         <translation>瀏覽資料夾</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="202"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="121"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="205"/>
         <source>Icons %1</source>
         <translation type="unfinished"></translation>
     </message>

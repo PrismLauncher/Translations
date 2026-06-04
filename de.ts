@@ -4429,43 +4429,77 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation>Symbol auswählen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
+        <source>Icon category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
+        <source>Search Icons...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Search...</source>
         <translation>Suche...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
+        <source>All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
+        <source>Modern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
+        <source>Legacy</source>
+        <translation type="unfinished">Veraltet</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
+        <source>Modpacks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
         <source>Add Icon</source>
         <translation>Symbol hinzufügen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="155"/>
         <source>Remove Icon</source>
         <translation>Symbol entfernen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="157"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="158"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="167"/>
         <source>Open Folder</source>
         <translation>Ordner öffnen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="202"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
         <translation>Symbole auswählen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="121"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="205"/>
         <source>Icons %1</source>
         <translation>Symbole %1</translation>
     </message>
