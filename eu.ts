@@ -13803,51 +13803,51 @@ Canonical Path: %1</source>
         <translation type="vanished">Munduko datapack-en karpeta zabaldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="316"/>
         <source>Open World in MCEdit</source>
         <translation>Mundua MCEdit-en zabaldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="336"/>
         <source>No MCEdit found or set up!</source>
         <translation>Ez da MCEdit aurkitu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="334"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="337"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>Ez duzu MCEdit edo mugitu egin dute.
 Konfigurazio globalean ezarri dezakezu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="340"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="343"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEdit ezin izan da hasi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="341"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="344"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEditek ezin izan da hasu.
 Baliteke berriro instalatu behar izatea.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Select a Minecraft world zip</source>
         <translation>Minecraft-mundu ZIP bat aukeratu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Minecraft World Zip File</source>
         <translation>Minecraft munduaren Zip artxiboa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="429"/>
         <source>Copy World</source>
         <translation>Mundua kopiatu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Minecraft martxan dagoen bitartean mundu bat aldatzea ez da segurua.
@@ -13880,23 +13880,23 @@ Ziur zaude?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="433"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="454"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>World name</source>
         <translation>Munduaren izena</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="433"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
         <source>Enter a new name for the copy.</source>
         <translation>Kopiarentzat izen berria sartu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="447"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="450"/>
         <source>Rename World</source>
         <translation>Mundua berrizendatu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="454"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>Enter a new world name.</source>
         <translation>Munduarentzat izen berria sartu.</translation>
     </message>
