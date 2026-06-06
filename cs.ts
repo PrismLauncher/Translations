@@ -4401,7 +4401,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
         <source>Legacy</source>
-        <translation>Původní</translation>
+        <translation>Starší verze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
@@ -4411,7 +4411,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Custom</source>
-        <translation type="unfinished">Vlastní</translation>
+        <translation>Vlastní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
