@@ -4383,12 +4383,12 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation type="unfinished"></translation>
+        <translation>Categoria dell&apos;icona</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca icone…</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4397,27 +4397,27 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Moderne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Vecchie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Custom</source>
-        <translation type="unfinished">Personalizzato</translation>
+        <translation>Personalizzate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
@@ -13489,7 +13489,7 @@ Procedere con il troncamento?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="398"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>Verfica di Java conclusa con successo!&lt;br /&gt;Piattaforma riportata: %1&lt;br /&gt;Versione Java riportata: %2&lt;br /&gt;</translation>
+        <translation>Verifica di Java conclusa con successo!&lt;br /&gt;Piattaforma riportata: %1&lt;br /&gt;Versione Java riportata: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
@@ -13733,7 +13733,7 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>Verfica di Java conclusa con successo!&lt;br /&gt;Piattaforma riportata: %1&lt;br /&gt;Versione Java riportata: %2&lt;br /&gt;Distributore di Java riportato: %3&lt;br /&gt;</translation>
+        <translation>Verifica di Java conclusa con successo!&lt;br /&gt;Piattaforma riportata: %1&lt;br /&gt;Versione Java riportata: %2&lt;br /&gt;Distributore di Java riportato: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
