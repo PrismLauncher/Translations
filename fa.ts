@@ -642,7 +642,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>حرکت &amp;پایین</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -1279,7 +1279,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="94"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>آماده سازی برای ورود...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
@@ -1448,7 +1448,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;پوشه مودهای عمومیِ تنظیم‌شده و پوشه دانلودهای پیش‌فرض شما به‌طور خودکار برای یافتن مودهای دانلودشده بررسی می‌شوند و در صورت پیدا شدن، به این پروفایل کپی خواهند شد.&lt;/p&gt;&lt;p&gt;همچنین می‌توانید مودهای دانلودشده را درون این پنجره رها کنید، یا اگر در محل پیش‌فرض نیستند، پوشه را برای بررسی اضافه کنید.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;برای باز کردن تمام لینک‌های دانلود در مرورگر، روی «Open Missing» کلیک کنید.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1525,7 +1525,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>جای‌نمای پیام.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
@@ -1591,7 +1591,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="85"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>در حال بارگذاری بخش‌ها</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
@@ -1661,7 +1661,8 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>خطا در چندین زیرفعالیت
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
@@ -1933,7 +1934,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>جایگزین کردن حساب کاربری پیش‌فرض</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
@@ -1943,7 +1944,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>انتخاب مورد موردنظر برای ورود هنگام اجرای بازی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
@@ -1989,7 +1990,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [%2] - آخرین زمان بازی: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="112"/>
@@ -2009,7 +2010,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="196"/>
         <source>instance</source>
-        <translation type="unfinished"></translation>
+        <translation>پروفایل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="200"/>
@@ -2047,12 +2048,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>جایگزینی &amp;تنظیمات عمومی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;دستور پیش از اجرا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -2062,7 +2063,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;دستور Wrapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
@@ -2208,7 +2209,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>ناشناخته</translation>
     </message>
 </context>
 <context>
@@ -2216,12 +2217,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>فعال‌سازی</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>تصویر</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2231,54 +2232,54 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>فرمت پک</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>آخرین تغییر</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>نام فایل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="89"/>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شناسه فرمت دیتاپک، و همچنین نسخه‌هایی از ماینکرفت که برای آنها طراحی شده است.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا دیتاپک فعال است؟ (فقط برای فایل‌های ZIP معتبر است)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>نام دیتاپک.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>تاریخ و زمان آخرین باری که این دیتاپک تغییر یافته (یا اضافه شده) است.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم دیتاپک.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>نام فایل دیتاپک.</translation>
     </message>
 </context>
 <context>
@@ -2286,7 +2287,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>دانلود پک‌ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
@@ -2355,19 +2356,21 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>تایید به‌روزرسانی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="131"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>به‌روزرسانی دیتاپک‌ها در زمان اجرای بازی ممکن است باعث تکثیر پک‌ها و کرش کردن بازی شود.
+فایل‌های قدیمی ممکن است حذف نشوند چون در حال استفاده هستند.
+آیا از انجام این کار اطمینان دارید؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="153"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>به‌روزرسانی دیتاپک لغو شد!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
@@ -2377,17 +2380,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="160"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>تمامی دیتاپک‌ها به‌روز هستند! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>تمامی دیتاپک‌های انتخاب‌شده به‌روز هستند! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="165"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>بررسی‌کننده به‌روزرسانی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="207"/>
@@ -2445,7 +2448,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>کمبود حافظه RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
