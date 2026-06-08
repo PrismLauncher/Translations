@@ -11930,7 +11930,7 @@ Ak chcete tento zámok prepisovať a pokračovať v aktualizácii aj tak, vybert
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="901"/>
         <source>Updating portable install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizácia prenosnej inštalácie v %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="904"/>
