@@ -4421,7 +4421,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategoria Ikon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
