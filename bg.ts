@@ -5326,7 +5326,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреди, когато няма достатъчно памет</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
@@ -5413,12 +5413,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="303"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максмималното рапзпределение на паметта е близо до системния капацитет.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="306"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максмималното рапзпределение на паметта е под минималното.</translation>
     </message>
 </context>
 <context>
@@ -5432,7 +5432,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Моля изберете колко памет искате да разпределите за инстанции и ако Prism Launcher трябва да управлява Java автоматично или ръчно.</translation>
     </message>
 </context>
 <context>
@@ -5445,7 +5445,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>32-битов Java засчен</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -5455,12 +5455,17 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Вие избрахте 32-битова инсталация на Java, но рапзределихте повече от 2048MiB като максимална памет.
+%1 не може да пусне Minecraft.
+Желаете ли да продължите?
+
+Може да промените Java версията в настройките по-късно.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма открита Java версия</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -5470,7 +5475,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Вие или не избрахте Java версия, или избрахте версия, която не работи.
+%1 не може да пусне Minecraft.
+Желаете ли да продължите с изправна версия на Java?
+
+Може да промените версията в настройките по-късно.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="350"/>
@@ -5490,7 +5500,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Минимално заделяне на памет:</translation>
+        <translation>Минимално разпределение на памет:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
@@ -5515,17 +5525,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Автотеглене на Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Автозасичане на Java версия</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично засечи Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
@@ -5566,7 +5576,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Използвай системни настройки за регионални стандарти</translation>
     </message>
     <message>
         <source>Use system locales</source>
@@ -5583,7 +5593,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете езика, който да позлвате в %1</translation>
     </message>
 </context>
 <context>
@@ -5596,7 +5606,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="71"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невалидни Java аргументи са зададени. Моля поправете това първо.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
@@ -5630,12 +5640,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="213"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Играй демо?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Играй демо</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
@@ -5649,7 +5659,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="331"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Опресняване на акаунта се неуспешно</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
@@ -5665,7 +5675,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/LaunchController.cpp" line="365"/>
         <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се зареди профилът на инстанцията.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="372"/>
@@ -5675,7 +5685,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="421"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка на профил за %1 се неуспешно: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="434"/>
@@ -5687,7 +5697,9 @@ You can change the Java version in the settings later.
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пускането на играта е спряно докато не натиснете бутона. Това е правилното време да настроите профaйлър, тъй като диагностичният съръвр върви.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="432"/>
@@ -5701,7 +5713,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не може да се стартира диагностика: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="441"/>
@@ -5717,12 +5729,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="186"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Появи се грешка при опресняване &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="189"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; изтече и трябва отново да се удостовери</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
@@ -5732,52 +5744,57 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; повече не съществува на сървърите</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Този акаунт не притежава Minecraft.
+Трябва да купите играта да играете пулната версия.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Няма избран акаунт за старт.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Искате ли да играте демото?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="240"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изберете името за демо режим играч</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="244"/>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не сте свързани с интернета, стариране в офлайн режим
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изберете името за офлайн играч</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма избран акаунт за старт</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="331"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1. Искате ли да удостоверите повторно този акаунт?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="481"/>
@@ -5809,23 +5826,23 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Извличане жетон за достъп на Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неупсешно извличане на жетон за достъп за Minecraft: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешен анализ за отговор на жетон за достъп.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Придобит жетон за достъп на Minecraft</translation>
     </message>
 </context>
 <context>
@@ -5834,7 +5851,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Провери за актуализации автоматично</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
@@ -5859,12 +5876,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Ask what to do</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Питай какво да правя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Never rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Никога не преименувайте папката</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
@@ -5888,7 +5905,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Потребителски интерфейс</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -5909,7 +5926,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>Когато е включено, освен папката за изтегляния, ще се търсят и нейните подпапки при търсене на ресурси (напр. при търсене на блокирани модове в CurseForge).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="407"/>
