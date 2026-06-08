@@ -4423,7 +4423,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation>Categoria do ícone</translation>
+        <translation>Categoria de ícones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
@@ -4462,12 +4462,12 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
         <source>Add Icon</source>
-        <translation>Adicionar</translation>
+        <translation>Adicionar Ícone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="155"/>
         <source>Remove Icon</source>
-        <translation>Remover ícone</translation>
+        <translation>Remover Ícone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="157"/>
@@ -4501,7 +4501,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation>Pode não abrir o arquivo %1 para leitura: %2</translation>
+        <translation>Não foi possivel abrir %1 para leitura de: %2</translation>
     </message>
 </context>
 <context>
@@ -4514,7 +4514,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation>Os seguintes tipos de arquivo são atualmente suportados (tanto arquivos locais quanto por URLs):</translation>
+        <translation>Os seguintes tipos de arquivo são atualmente disponíveis (tanto arquivos locais quanto por URLs):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
