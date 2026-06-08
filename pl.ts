@@ -2551,7 +2551,7 @@ Continue anyway? This may cause slowdowns in the game and your system.</source>
         <translation>Nie ma wystarczającej ilości pamięci RAM, aby uruchomić tę instancję z bieżącymi ustawieniami pamięci.
 
 Wymagana: %1 MiB
-Dostępna:    %2 MiB
+Dostępna: %2 MiB
 
 Czy chcesz kontynuować? Może to spowolnić grę i system.</translation>
     </message>
@@ -2565,6 +2565,7 @@ Launch anyway?</source>
         <translation>Twój system jest pod zwiększonym obciążeniem pamięci.
 Może to prowadzić do spowolnień.
 Jeżeli to możliwe, zamknij inne aplikacje przed kontynuacją.
+
 Uruchomić mimo to?</translation>
     </message>
     <message>
@@ -4426,7 +4427,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukaj Ikony...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4435,27 +4436,27 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowoczesne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Starsze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Paczki Modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Custom</source>
-        <translation type="unfinished">Niestandardowe</translation>
+        <translation>Niestandardowe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
@@ -12912,7 +12913,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="91"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation>Użyj tej wersji jako wersji zainstalowanego launchera (podano, ponieważ stdout nie może być niezawodnie przechwytywany w Windows).</translation>
+        <translation>Użyj tej wersji jako wersji zainstalowanego launchera. (podano, ponieważ stdout nie może być niezawodnie przechwytywany w Windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="92"/>
@@ -17836,7 +17837,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="328"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>Niektórych komponentów nie udało się zaimportować. Szczegóły znajdziesz w logach.</translation>
+        <translation>Niektórych komponentów nie udało się zaimportować. Szczegóły znajdziesz w logach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
