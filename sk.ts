@@ -3507,29 +3507,29 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation>Načítavanie zoznamu...</translation>
+        <translation>Získava sa manifest...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation>Nepodarilo sa nájsť verziu balíčku %1</translation>
+        <translation>Nepodarilo sa nájsť verziu balíčka %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nepodarilo sa pochopiť manifest balíčku:
+        <translation>Nerozumiem manifestu balíčka:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
-        <translation>Načítavanie módov...</translation>
+        <translation>Získavajú sa módy...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>Neplatný manifest: Na stiahnutie súboru &apos;%1&apos; nie sú dostupné žiadne informácie!</translation>
+        <translation>Neplatný manifest: Chýbajú informácie na stiahnutie súboru „%1“!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
@@ -3539,32 +3539,32 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Následujúce módy nie sú dostupné na stiahnutie v launcheroch tretích strán.&lt;br/&gt;Budete si ich musieť manuálne stiahnuť a pridať do inštancie.</translation>
+        <translation>Nasledujúce módy nie sú dostupné na stiahnutie v launcheroch tretích strán.&lt;br/&gt;Budete si ich musieť manuálne stiahnuť a pridať do inštancie.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
-        <translation>Vytváranie inštancie...</translation>
+        <translation>Vytvára sa inštancia...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
-        <translation>Sťahovanie módov...</translation>
+        <translation>Sťahujú sa módy...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation>Stiahnuť mód</translation>
+        <translation>Stiahnutie módu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Kopírovanie zablokovaných módov...</translation>
+        <translation>Kopírujú sa blokované módy...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="375"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Kopírovanie zablokovaných módov (%1 z %2 dokončené)</translation>
+        <translation>Kopírujú sa blokované módy (hotovo %1 z %2)</translation>
     </message>
 </context>
 <context>
@@ -3572,12 +3572,12 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="140"/>
         <source>Sort by Name</source>
-        <translation>Triediť podľa názvu</translation>
+        <translation>Radiť podľa názvu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="141"/>
         <source>Sort by Game Version</source>
-        <translation>Triediť podľa verzie hry</translation>
+        <translation>Radiť podľa verzie hry</translation>
     </message>
 </context>
 <context>
@@ -3590,12 +3590,12 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Poznámka: Mnohé novšie FTB modpacky sú dostupné aj na CurseForge! Tiež, ak sa tvoje FTB inštancie nenachádzajú v predvolenom umiestnení, vyber ich pomocou tlačidla vedľa vyhľadávania.</translation>
+        <translation>Poznámka: Mnohé novšie FTB modpacky sú dostupné aj na CurseForge! Okrem toho, ak sa vaše FTB inštancie nenachádzajú v predvolenom umiestnení, vyberte ich pomocou tlačidla vedľa vyhľadávania.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation>Vyhľadávať a filtrovať...</translation>
+        <translation>Hľadať a filtrovať...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3605,7 +3605,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
         <source>Select FTBApp instances directory</source>
-        <translation>Vyberte adresár FTBApp</translation>
+        <translation>Vyberte priečinok s inštanciami FTBApp</translation>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
@@ -3626,12 +3626,12 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation>Kopírovanie súborov...</translation>
+        <translation>Kopírujú sa súbory...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="50"/>
         <source>Copying settings...</source>
-        <translation>Kopírovanie nastavení...</translation>
+        <translation>Kopírujú sa nastavenia...</translation>
     </message>
 </context>
 <context>
@@ -3639,13 +3639,13 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <source>Resolving mod IDs...</source>
-        <translation>Zisťovanie IDečiek balíčkov...</translation>
+        <translation>Zisťujú sa ID módov...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="127"/>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="149"/>
         <source>Invalid data returned from the API.</source>
-        <translation>Rozhranie API navrátilo neplatné dáta.</translation>
+        <translation>API vrátilo neplatné dáta.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="254"/>
