@@ -12460,7 +12460,7 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Suppression des fichiers existants…</translation>
+        <translation type="unfinished">Suppression des fichiers existants...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
@@ -12551,7 +12551,7 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Installation de la collection de mods</translation>
+        <translation>Installation du modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
@@ -12566,7 +12566,7 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Impossible de créer le composant de pack</translation>
+        <translation type="unfinished">Impossible de créer le composant du pack</translation>
     </message>
 </context>
 <context>
