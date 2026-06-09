@@ -3247,7 +3247,7 @@ Naozaj ho chcete odstrániť?</translation>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Ak tento zdroj odstránite počas hry, môže dôjsť k pádu hry.
-Ste si istí, že to chcete urobiť?</translation>
+Naozaj ho chcete odstrániť?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3262,12 +3262,12 @@ Ste si istí, že to chcete urobiť?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="347"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation> (%1 nainštalované, %2 vybrané)</translation>
+        <translation> (%1 nainštalovaných, %2 vybraných)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="349"/>
         <source> (%1 installed)</source>
-        <translation> %1 (inštalované)</translation>
+        <translation> (%1 nainštalovaných)</translation>
     </message>
 </context>
 <context>
@@ -3288,44 +3288,44 @@ Ste si istí, že to chcete urobiť?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="191"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="251"/>
         <source>Browse</source>
-        <translation>Prehľadať</translation>
+        <translation>Prehliadať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation>Používa sa na úpravu jednotlivých JSON súborov.</translation>
+        <translation>Používa sa na úpravu JSON súborov komponentov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
-        <translation>&amp;MCUpraviť</translation>
+        <translation>&amp;MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="206"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="266"/>
         <source>Check</source>
-        <translation>Kontrola</translation>
+        <translation>Skontrolovať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation>&amp;Profilovače</translation>
+        <translation>&amp;Profilery</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation>Profilovače sú dostupné v rozbaľovacom menu Launch.</translation>
+        <translation>Profilery sú dostupné v rozbaľovacom menu Spustiť.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation>J&amp;Profilovač</translation>
+        <translation>J&amp;Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
         <source>&amp;VisualVM</source>
-        <translation>&amp;VizuálneVM</translation>
+        <translation>&amp;VisualVM</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
@@ -3373,7 +3373,7 @@ Ste si istí, že to chcete urobiť?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation>Nastavenie JProfilera vyzerá byť v poriadku</translation>
+        <translation>JProfiler vyzerá byť v poriadku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
@@ -3385,18 +3385,18 @@ Ste si istí, že to chcete urobiť?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation>Chyba počas kontroly VisualVM inštalácie.
+        <translation>Chyba počas kontroly inštalácie VisualVM.
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation>Konfigurácia VisualVM vyzerá OK</translation>
+        <translation>VisualVM vyzerá byť v poriadku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation>Textový Editor</translation>
+        <translation>Textový editor</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3420,20 +3420,20 @@ Ste si istí, že to chcete urobiť?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"/>
         <source>MCEdit Folder</source>
-        <translation>Priečinok MCEditora</translation>
+        <translation>Priečinok MCEditu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation>Chyba pri kontrole inštalácie MCEdit:
+        <translation>Chyba pri kontrole inštalácie MCEditu:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation>Nastavenie MCEdit vyzerá byť v poriadku</translation>
+        <translation>MCEdit vyzerá byť v poriadku</translation>
     </message>
     <message>
         <source>JSON Editor</source>
@@ -3460,7 +3460,7 @@ Ste si istí, že to chcete urobiť?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="75"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Nepodarilo sa extrahovať natívny súbor jar &apos;%1&apos; do cieľového adresára &apos;%2&apos;</translation>
+        <translation>Nepodarilo sa extrahovať natívny súbor jar „%1“ do cieľového adresára „%2“</translation>
     </message>
 </context>
 <context>
