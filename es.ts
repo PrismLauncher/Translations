@@ -5301,7 +5301,7 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Haz clic en «Añadir instancia» para empezar.</translation>
+        <translation>Haz clic en &quot;Añadir instancia&quot; para empezar.</translation>
     </message>
 </context>
 <context>
