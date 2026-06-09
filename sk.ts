@@ -1151,19 +1151,19 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Radiť podľa popularity</translation>
+        <translation>Zoradiť podľa popularity</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Radiť podľa názvu</translation>
+        <translation>Zoradiť podľa názvu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Radiť podľa verzie hry</translation>
+        <translation>Zoradiť podľa verzie hry</translation>
     </message>
 </context>
 <context>
@@ -3572,12 +3572,12 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="140"/>
         <source>Sort by Name</source>
-        <translation>Radiť podľa názvu</translation>
+        <translation>Zoradiť podľa názvu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="141"/>
         <source>Sort by Game Version</source>
-        <translation>Radiť podľa verzie hry</translation>
+        <translation>Zoradiť podľa verzie hry</translation>
     </message>
 </context>
 <context>
@@ -3988,37 +3988,37 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation>Radiť podľa odporúčaných</translation>
+        <translation>Zoradiť podľa odporúčaných</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Radiť podľa popularity</translation>
+        <translation>Zoradiť podľa popularity</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Radiť podľa poslednej aktualizácie</translation>
+        <translation>Zoradiť podľa poslednej aktualizácie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Radiť podľa názvu</translation>
+        <translation>Zoradiť podľa názvu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation>Radiť podľa autora</translation>
+        <translation>Zoradiť podľa autora</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation>Radiť podľa celkového počtu stiahnutí</translation>
+        <translation>Zoradiť podľa celkového počtu stiahnutí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="199"/>
@@ -4072,19 +4072,19 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation>Radiť podľa počtu spustení</translation>
+        <translation>Zoradiť podľa počtu spustení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation>Radiť podľa počtu stiahnutí</translation>
+        <translation>Zoradiť podľa počtu stiahnutí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Radiť podľa názvu</translation>
+        <translation>Zoradiť podľa názvu</translation>
     </message>
 </context>
 <context>
@@ -4337,7 +4337,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation>Sú implementované tieto typy súborov (pre lokálne súbory i URL adresy):</translation>
+        <translation>Implementované sú nasledujúce typy súborov (pre lokálne súbory i URL adresy):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
@@ -6945,13 +6945,13 @@ Prosím, skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Radiť podľa názvu</translation>
+        <translation>Zoradiť podľa názvu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="60"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Radiť podľa verzie hry</translation>
+        <translation>Zoradiť podľa verzie hry</translation>
     </message>
 </context>
 <context>
@@ -10652,12 +10652,12 @@ Prosím aktualizujte %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation>Triediť podľa relevancie</translation>
+        <translation>Zoradiť podľa relevancie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
         <source>Sort by Follows</source>
-        <translation>Triediť podľa sledujúcich</translation>
+        <translation>Zoradiť podľa počtu sledujúcich</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="89"/>
@@ -10710,7 +10710,7 @@ Prosím aktualizujte %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="88"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation>Triediť podľa najnovších</translation>
+        <translation>Zoradiť podľa najnovších</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="86"/>
