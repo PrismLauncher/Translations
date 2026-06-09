@@ -44,12 +44,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation>Server herných súborov</translation>
+        <translation>Server súborov hry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Toto môžete nastaviť na iný server, ak máte problémy so sťahovaním herných súborov.</translation>
+        <translation>Toto môžete nastaviť na iný server, ak máte problémy so sťahovaním súborov hry.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
@@ -1099,12 +1099,12 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>Aktualizujú sa indexy herných súborov...</translation>
+        <translation>Aktualizujú sa indexy súborov hry...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
-        <translation>Index herných súborov pre %1</translation>
+        <translation>Index súborov hry pre %1</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -1113,7 +1113,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
         <source>Failed to read the assets index!</source>
-        <translation>Nepodarilo sa prečítať index herných súborov!</translation>
+        <translation>Nepodarilo sa prečítať index súborov hry!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
@@ -1124,7 +1124,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation>Získavajú sa herné súbory z %1...</translation>
+        <translation>Získavajú sa súbory hry z %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1134,14 +1134,14 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Nepodarilo sa stiahnuť index herných súborov:
+        <translation>Nepodarilo sa stiahnuť index súborov hry:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Nepodarilo sa stiahnuť herné súbory:
+        <translation>Nepodarilo sa stiahnuť súbory hry:
 %1</translation>
     </message>
 </context>
@@ -2605,7 +2605,7 @@ Spustiť aj tak? Hra a váš systém môžu byť spomalené.</translation>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="390"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="458"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Spracúva sa API odpoveď z CurseForge pre „%1“...</translation>
+        <translation>Spracúva sa odpoveď od API CurseForge pre „%1“...</translation>
     </message>
 </context>
 <context>
@@ -3460,7 +3460,7 @@ Ste si istí, že to chcete urobiť?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="75"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Nepodarilo sa extrahovať natívny súbor jar „%1“ do cieľového adresára „%2“</translation>
+        <translation>Nepodarilo sa extrahovať natívny súbor JAR „%1“ do cieľového adresára „%2“</translation>
     </message>
 </context>
 <context>
@@ -3650,7 +3650,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="254"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Spracovanie API odpovede z CurseForge pre &apos;%1&apos;...</translation>
+        <translation>Spracúva sa odpoveď od API CurseForge pre „%1“...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3663,7 +3663,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="38"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation>Príprava módov pre CurseForge.</translation>
+        <translation>Pripravujú sa dáta pre CurseForge...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3677,27 +3677,27 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Spracovanie odpovede API z CurseForge pre &apos;%1&apos;...</translation>
+        <translation>Spracúva sa odpoveď od API CurseForge pre „%1“...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nebola nájdená žiadna platná verzia pre tento zdroj. Je pravdepodobne nedostupný pre túto verziu hry / mod loader.</translation>
+        <translation>Nenašla sa žiadna platná verzia tejto položky. Pravdepodobne je nedostupná pre túto verziu hry alebo mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation>Nebola nájdená žiadna platná verzia pre tento zdroj. Je pravdepodobne nedostupný pre túto verziu hry.</translation>
+        <translation>Nenašla sa žiadna platná verzia tejto položky. Pravdepodobne je nedostupná pre túto verziu hry.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Spracovanie API odpovede z CurseForge pre &apos;%1&apos;...</translation>
+        <translation>Spracúva sa odpoveď od API CurseForge pre „%1“...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="186"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation>Je dostupná nová verzia pre tento zdroj, ale nie je možné ju stiahnuť cez CurseForge.</translation>
+        <translation>Je dostupná aktualizácia tejto položky, ale nie je možné ju stiahnuť cez CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="118"/>
@@ -3741,12 +3741,12 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>No index file.</source>
-        <translation>Žiaden súbor indexu.</translation>
+        <translation>Súbor indexu neexistuje.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="241"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Nemôžeme nájsť vhodný indexový súbor pre staršiu verziu. To môže spôsobiť aby niektoré súbory boli duplikované. Chcete pokračovať?</translation>
+        <translation>Nenašiel sa vhodný súbor indexu pre staršiu verziu. Niektoré súbory môžu byť duplikované. Chcete pokračovať?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
@@ -3756,12 +3756,12 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Nepatrilo sa získať verziu pre %1 loader</translation>
+        <translation>Nepodarilo sa získať verziu pre loader %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="303"/>
         <source>No loader version set for modpack!</source>
-        <translation>Nie je nastavená loader verzia pre tento modpack!</translation>
+        <translation>Pre modpack nie je nastavená verzia loadera!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="339"/>
@@ -3773,22 +3773,22 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="344"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>Zadaný prepisovaný priečinok (%1) chýba. Možno ho používal iný balíček módov predtým?</translation>
+        <translation>Zadaný priečinok s náhradami (%1) chýba. Možno sa modpack už v minulosti používal?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Neznámy nahrávač módov v súbore manifest: %1</translation>
+        <translation>Neznámy mod loader v manifeste: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>Mysteriózne bodky odstránené z Minecraft verzie počas importu balíčka.</translation>
+        <translation>Počas importu balíčka boli odstránené mysteriózne bodky na konci verzie Minecraftu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>Odporúčaná pamäť pre modpack presahuje 90% vašej systémovej pamäte RAM — bude znížená z %1 MiB na %2 MiB!</translation>
+        <translation>Odporúčaná pamäť pre modpack presahuje 90% RAM vášho systému — bude znížená z %1 MiB na %2 MiB!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -3798,7 +3798,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>Nepodarilo sa rozoznať ID balíčkov:
+        <translation>Nepodarilo sa získať ID módov:
 </translation>
     </message>
     <message>
@@ -3810,27 +3810,27 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="541"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Následujúce módy nie sú dostupné na stiahnutie v launcheroch tretích strán.&lt;br/&gt;Budete si ich musieť stiahnuť a manuálne pridať do inštancie.</translation>
+        <translation>Nasledujúce módy nie sú dostupné na stiahnutie v launcheroch tretích strán.&lt;br/&gt;Budete si ich musieť manuálne stiahnuť a pridať do inštancie.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="563"/>
         <source>Mod Download Flame</source>
-        <translation>Stiahnutie Módu Flame</translation>
+        <translation>Stiahnutie módu Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="594"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 z %2 dokončené</translation>
+        <translation>Hotovo %1 z %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Kopírovanie Zablokovaných Módov...</translation>
+        <translation>Kopírujú sa blokované módy...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="622"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Kopírovanie Zablokovaných Módov (%1 z %2 dokončené)</translation>
+        <translation>Kopírujú sa blokované módy (hotovo %1 z %2)</translation>
     </message>
     <message>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
@@ -3847,7 +3847,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="599"/>
         <source>Downloading mods...</source>
-        <translation>Sťahovanie módov...</translation>
+        <translation>Sťahujú sa módy...</translation>
     </message>
 </context>
 <context>
@@ -3855,12 +3855,12 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="402"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Ahoj!&lt;/h1&gt;&lt;h4&gt;Vyzerá to tak, že ID Vášho balíčku je nulová. Toto je spôsobené chybou v starších verziách launcheru.&lt;br/&gt;Naneštastie, bez tejto informácie nemôžeme vykonať správne API požiadavky.&lt;br/&gt;&lt;br/&gt;Aby táto funkcia fungovala, budete potrebovať znovu stiahnuť modpack zo vstavaného sťahovača modpackov.&lt;br/&gt;&lt;br/&gt;Nebojte sa, opýta sa Vás či chcete túto inštanciu radšej aktualizovať, aby ste ju nestratili!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Ahoj!&lt;/h1&gt;&lt;h4&gt;Zdá sa, že ID vášho balíčka je prázdne. Toto spôsobuje chyba v starších verziách launcheru.&lt;br/&gt;Naneštastie, bez tejto informácie nemôžeme odoslať správne API požiadavky.&lt;br/&gt;&lt;br/&gt;Aby táto funkcia fungovala, bude treba znovu stiahnuť modpack cez vstavaný sťahovač modpackov.&lt;br/&gt;&lt;br/&gt;Nebojte sa, opýta sa vás, či chcete radšej aktualizovať túto inštanciu, takže ju nestratíte!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="444"/>
         <source>%1 (Current)</source>
-        <translation>%1 (Aktuálne)</translation>
+        <translation>%1 (aktuálne)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
@@ -3870,7 +3870,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
         <source>CurseForge pack</source>
-        <translation>CurseForge baĺiček</translation>
+        <translation>CurseForge balíček</translation>
     </message>
 </context>
 <context>
@@ -3914,7 +3914,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation>Hľadanie súborov...</translation>
+        <translation>Hľadajú sa súbory...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="72"/>
@@ -3924,28 +3924,28 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
         <source>Finding file hashes...</source>
-        <translation>Hľadanie hashov súborov...</translation>
+        <translation>Zisťujú sa heše súborov...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="168"/>
         <source>Finding versions for hashes...</source>
-        <translation>Hľadanie verzíi hashov...</translation>
+        <translation>Hľadajú sa verzie podľa hešov...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="219"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="282"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Spracovanie API odpovede z CurseForge pre &apos;%1&apos;...</translation>
+        <translation>Spracúva sa odpoveď od API CurseForge pre „%1“...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>Hľadanie informácii o projekte z CurseForge...</translation>
+        <translation>Získavajú sa informácie o projektoch z CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="319"/>
         <source>Adding files...</source>
-        <translation>Pridávanie súborov...</translation>
+        <translation>Pridávajú sa súbory...</translation>
     </message>
 </context>
 <context>
@@ -3963,7 +3963,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Poznámka: CurseForge dovoľuje tvorcom blokovať prístup ku nástrojom tretích strán ako Prism Launcher. Kvôli tomu možno budete musieť manuálne stiahnuť módy aby ste nainštalovali modpack.</translation>
+        <translation>Poznámka: CurseForge dovoľuje autorom blokovať prístup pre nástroje tretích strán ako Prism Launcher. Pri inštalácii modpacku možno bude treba manuálne stiahnuť módy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -3974,7 +3974,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Vyhľadávať a filtrovať...</translation>
+        <translation>Hľadať a filtrovať...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3988,37 +3988,37 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation>Triediť podľa odporúčaných</translation>
+        <translation>Radiť podľa odporúčaných</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Triediť podľa popularity</translation>
+        <translation>Radiť podľa popularity</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Triediť podľa poslednej aktualizácie</translation>
+        <translation>Radiť podľa poslednej aktualizácie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Triediť podľa názvu</translation>
+        <translation>Radiť podľa názvu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation>Triediť podľa autora</translation>
+        <translation>Radiť podľa autora</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation>Triediť podľa celkového počtu stiahnutí</translation>
+        <translation>Radiť podľa celkového počtu stiahnutí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="199"/>
@@ -4063,7 +4063,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation>Nepodarilo sa vytvoriť adresár pre binárne súbory Minecraftu.</translation>
+        <translation>Nepodarilo sa vytvoriť priečinok pre spustiteľné súbory Minecraftu.</translation>
     </message>
 </context>
 <context>
@@ -4072,19 +4072,19 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation>Triediť podľa počtu spustení</translation>
+        <translation>Radiť podľa počtu spustení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation>Triediť podľa počtu stiahnutí</translation>
+        <translation>Radiť podľa počtu stiahnutí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Triediť podľa mena</translation>
+        <translation>Radiť podľa názvu</translation>
     </message>
 </context>
 <context>
@@ -4098,12 +4098,12 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Hľadať a filtrovať ...</translation>
+        <translation>Hľadať a filtrovať...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation>Poznámka: Veľa novších FTB modpackov je taktiež dostupných z CurseForge!</translation>
+        <translation>Poznámka: Veľa novších FTB modpackov je dostupných aj na CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4134,32 +4134,32 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="89"/>
         <source>Survival</source>
-        <translation>Prežitie</translation>
+        <translation>Hra o prežitie</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="91"/>
         <source>Creative</source>
-        <translation>Kreatívna</translation>
+        <translation>Kreatívna hra</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Adventure</source>
-        <translation>Dobrodružná</translation>
+        <translation>Dobrodružná hra</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Spectator</source>
-        <translation>Pozorovateľ</translation>
+        <translation>Režim pozorovateľa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="100"/>
         <source>Unknown (%1)</source>
-        <translation>Neznáme (%1)</translation>
+        <translation>Neznámy (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="102"/>
         <source>Undefined</source>
-        <translation>Nedefinované</translation>
+        <translation>Nedefinovaný</translation>
     </message>
 </context>
 <context>
@@ -4167,7 +4167,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation>Zapnutý proces: %1</translation>
+        <translation>Spustený proces: %1</translation>
     </message>
 </context>
 <context>
@@ -4181,7 +4181,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="193"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation>Nastala sieťová chyba. Nepodarilo sa načítať závislosti projektu:%1</translation>
+        <translation>Nastala chyba siete. Nepodarilo sa načítať závislosti projektu:%1</translation>
     </message>
 </context>
 <context>
@@ -4189,7 +4189,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation>Získavam skin.</translation>
+        <translation>Získava sa skin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
@@ -4246,7 +4246,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation>Ikonová kategória</translation>
+        <translation>Kategória ikon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
@@ -4270,7 +4270,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
         <source>Legacy</source>
-        <translation>Starší</translation>
+        <translation>Staršie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
@@ -4290,7 +4290,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="155"/>
         <source>Remove Icon</source>
-        <translation>Vymazať ikonu</translation>
+        <translation>Odstrániť ikonu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="157"/>
@@ -4300,7 +4300,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="158"/>
         <source>OK</source>
-        <translation>Dobre</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="167"/>
@@ -4311,7 +4311,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="202"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
-        <translation>Zvoliť ikonu</translation>
+        <translation>Výber ikon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="205"/>
@@ -4332,23 +4332,23 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation>Prehľadať</translation>
+        <translation>Prehliadať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation>Nasledujúce typy súborov sú implementované (zároveň pre miestne súbory a adresy URL):</translation>
+        <translation>Sú implementované tieto typy súborov (pre lokálne súbory i URL adresy):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation>- Modpacky CurseForge (ZIP / curseforge:// URL)</translation>
+        <translation>- CurseForge modpacky (ZIP a curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modpacky Modrinth (ZIP a mrpack)</translation>
+        <translation>- Modrinth modpacky (ZIP a mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -4359,12 +4359,12 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Modpacky Technic (ZIP)</translation>
+        <translation>- Technic modpacky (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation>Lokálny súbor alebo linka priameho stiahnutia:</translation>
+        <translation>Lokálny súbor alebo priamy odkaz na stiahnutie:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
@@ -4382,7 +4382,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Tento modpack %1 je blokováný pre tretie strany! Prosím, stiahnite ho manuálne.</translation>
+        <translation>Modpack %1 je blokovaný pre tretie strany! Prosím, stiahnite ho manuálne.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
@@ -4403,12 +4403,12 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="212"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation>Balíček Modrinth</translation>
+        <translation>Modrinth balíček</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Choose modpack</source>
-        <translation>Zvoliť balíček módov</translation>
+        <translation>Vyberte modpack</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -4420,17 +4420,17 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation>Vyberte inštanciu, do ktorej chcete importovať</translation>
+        <translation>Vyberte inštanciu, do ktorej sa má importovať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Vyberte inštanciu, do ktorej si prajete importovať tento balíček modifikácií.</translation>
+        <translation>Vyberte inštanciu, do ktorej chcete importovať tento zdrojový balík.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>Vyberte inštanciu, do ktorej si prajete importovať toto %1.</translation>
+        <translation>Vyberte inštanciu, do ktorej chcete importovať toto %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -4445,7 +4445,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation>Dobre</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -4481,7 +4481,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation>Nebolo možné načítať alebo stiahnuť zoznam Java verzií!</translation>
+        <translation>Nepodarilo sa načítať alebo stiahnuť zoznamy verzií Javy!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="64"/>
@@ -4499,7 +4499,7 @@ Prosím skúste to znova.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -4539,7 +4539,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
-        <translation>Nainštalovať Loader</translation>
+        <translation>Inštalovať loader</translation>
     </message>
 </context>
 <context>
@@ -4566,7 +4566,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Copying instance %1</source>
-        <translation>Kopírujem inštanciu %1</translation>
+        <translation>Kopíruje sa inštancia %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
@@ -4600,12 +4600,12 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="64"/>
         <source>Removing old conflicting files...</source>
-        <translation>Odstraňovanie starých konfliktných súborov...</translation>
+        <translation>Odstraňovanie konfliktných starých súborov...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="81"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation>Nepodarilo sa odstrániť staré konfliktné súbory.</translation>
+        <translation>Nepodarilo sa odstrániť konfliktné staré súbory.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="92"/>
@@ -4620,7 +4620,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="113"/>
         <source>Downloading game files</source>
-        <translation>Sťahovanie súborov hry</translation>
+        <translation>Sťahujú sa súbory hry</translation>
     </message>
 </context>
 <context>
@@ -4635,28 +4635,28 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
         <source>Modpack download</source>
-        <translation>Sťahovanie balíčka módov</translation>
+        <translation>Stiahnuť modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
         <source>Attempting to determine instance type</source>
-        <translation>Určovanie typu inštancie</translation>
+        <translation>Určuje sa typ inštancie</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Extracting modpack</source>
-        <translation>Rozbaľovanie modpacku</translation>
+        <translation>Rozbaľuje sa modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="167"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Nepodarilo sa otvoriť dodaný zip súbor balíčka módov.</translation>
+        <translation>Nepodarilo sa otvoriť zadaný ZIP súbor s modpackom.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="171"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>Archív neobsahuje známy typ balíčka módov.</translation>
+        <translation>Archív neobsahuje známy typ modpacku.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -4665,7 +4665,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="228"/>
         <source>Could not fix permissions for %1</source>
-        <translation>Nepodarilo sa opraviť povolenia pre %1</translation>
+        <translation>Nepodarilo sa opraviť práva pre %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
@@ -4732,7 +4732,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
-        <translation>%1 Inštancia</translation>
+        <translation>%1 inštancia</translation>
     </message>
 </context>
 <context>
@@ -4749,7 +4749,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation>Iné záznamy</translation>
+        <translation>Iné logy</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
@@ -5061,7 +5061,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="966"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>Zlyhalo potvrdenie inštancie aj po viacerých pokusoch. Je to niečim blokované.</translation>
+        <translation>Nepodarilo sa commitnúť inštanciu ani po viacerých pokusoch. Niečo tomu bráni.</translation>
     </message>
 </context>
 <context>
@@ -5074,7 +5074,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Začnite kliknutím na &quot;Pridať Inštanciu&quot;.</translation>
+        <translation>Začnite kliknutím na „Pridať inštanciu“.</translation>
     </message>
 </context>
 <context>
@@ -5120,7 +5120,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>Kill the running instance</source>
-        <translation>Zrušiť bežiacu inľtanciu</translation>
+        <translation>Ukončiť bežiacu inštanciu</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -5154,7 +5154,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation>VisualVM zapnuté</translation>
+        <translation>VisualVM spustené</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -5167,12 +5167,12 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="36"/>
         <source>Downloading Java</source>
-        <translation>Sťahujem Javu</translation>
+        <translation>Sťahuje sa Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation>Extrahujem Javu</translation>
+        <translation>Rozbaľuje sa Java</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
@@ -5189,12 +5189,12 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
-        <translation>Nie je možné otvoriť daný zip súbor.</translation>
+        <translation>Nepodarilo sa otvoriť zadaný ZIP súbor.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation>Žiadne súbory neboli nájdené v danom zip súbore.</translation>
+        <translation>V zadanom ZIP súbore sa nenašli žiadne súbory.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
@@ -5242,12 +5242,12 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="333"/>
         <source>Install Java</source>
-        <translation>Nainštalovať Javu</translation>
+        <translation>Inštalovať Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Could not determine Java download type!</source>
-        <translation>Nepodarilo sa určiť typ stiahnutia Javy!</translation>
+        <translation>Nepodarilo sa určiť typ sťahovania Javy!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
@@ -5266,7 +5266,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>Sťahujem Javu</translation>
+        <translation>Sťahuje sa Java</translation>
     </message>
 </context>
 <context>
@@ -5274,27 +5274,27 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation>Kontrola binárnej cesty pre Javu</translation>
+        <translation>Kontroluje sa cesta k spustiteľnému súboru Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation>Hľadanie binárnej cesty pre Javu</translation>
+        <translation>Hľadá sa cesta k spustiteľnému súboru Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation>Chyba pri vyhľadávaní binárnej cesty pre Javu</translation>
+        <translation>Nepodarilo sa nájsť cestu k spustiteľnému súboru Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation>Zbieranie priečinkov do symlinku</translation>
+        <translation>Zbierajú sa priečinky, na ktoré sa bude vytvárať symbolický odkaz</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation>Vytváranie symbolického odkazu pre cestu k binárnemu súboru Java</translation>
+        <translation>Vytvára sa symbolický odkaz na spustiteľný súbor Javy</translation>
     </message>
 </context>
 <context>
@@ -5302,7 +5302,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="159"/>
         <source>Detecting Java installations...</source>
-        <translation>Detekujem Java inštaláciu...</translation>
+        <translation>Detegujem inštalácie Javy...</translation>
     </message>
 </context>
 <context>
@@ -5445,7 +5445,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation>Nepodarilo sa načítať zoznam spravovaných verzií Javy!</translation>
+        <translation>Nepodarilo sa načítať zoznam spravovaných inštalácií Javy!</translation>
     </message>
     <message>
         <source>Select a Java version</source>
@@ -5488,7 +5488,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Chystáte sa odstrániť  inštaláciu Javy s názvom „%1“.
+        <translation>Chystáte sa odstrániť inštaláciu Javy s názvom „%1“.
 Naozaj chcete vykonať túto akciu?</translation>
     </message>
 </context>
@@ -5551,7 +5551,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="232"/>
         <source>Find Java executable</source>
-        <translation>Nájsť Java spúštač</translation>
+        <translation>Vyberte spustiteľný súbor Javy</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -5560,7 +5560,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="266"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Maximálna veľkosť pamäte, ktorú môže Minecraft použiť.</translation>
+        <translation>Maximálne množstvo pamäte, ktoré môže Minecraft použiť.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -5592,27 +5592,27 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation>Automaticky stiahne a vyberie zostavu Javy odporúčanú spoločnosťou Mojang.</translation>
+        <translation>Automaticky stiahnuť a vybrať verziu Javy odporúčanú Mojangom.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation>Automaticky stiahnuť &amp;Mojang Java</translation>
+        <translation>Automaticky stiahnuť Javu od &amp;Mojangu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation>Ak je toto povolené, neopýta sa vás to na výber Java verzie, ak nie je pri spustení nájdená.</translation>
+        <translation>Neponúkať výber verzie Javy, ak sa pri spustení nenájde.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation>Pri spustení preskočiť nastavenie Javy</translation>
+        <translation>Preskočiť nastavovanie Javy pri spustení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Ak je táto možnosť zapnutá, launcher nebude kontrolovať či je inštancia kompatibilná s vybranou verziou Javy.</translation>
+        <translation>Nekontrolovať, či je inštancia kompatibilná s vybranou verziou Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
@@ -5622,17 +5622,17 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation>&amp;Hľadať</translation>
+        <translation>&amp;Prehliadať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation>Otestovať n&amp;astavenia</translation>
+        <translation>O&amp;testovať nastavenia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation>Otvoriť sťahovaciu &amp;službu pre Javu</translation>
+        <translation>Otvoriť sťa&amp;hovač Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
@@ -5642,12 +5642,12 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation>S&amp;pustiteľný súbor Java</translation>
+        <translation>&amp;Spustiteľný súbor Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>Memor&amp;y</source>
-        <translation>Pamä&amp;ť</translation>
+        <translation>Pa&amp;mäť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
@@ -5676,7 +5676,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="217"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Veľkosť pamäte, s ktoru sa Minecraft spustí.</translation>
+        <translation>Množstvo pamäte, s ktorým sa Minecraft spustí.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="297"/>
@@ -5701,12 +5701,12 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>
         <source>Java Argumen&amp;ts</source>
-        <translation>Ar&amp;gumenty Javy</translation>
+        <translation>Ar&amp;gumenty pre Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="315"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Veľkosť použiteľnej pamäte na ukladanie Java tried.</translation>
+        <translation>Veľkosť pamäte dostupnej na ukladanie Java tried.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -5740,23 +5740,23 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
         <translation>Vybrali ste 32-bitovú verziu Javy.
-Táto inštalácia nepodporuje viac ako 2048MiB pamäte RAM.
-Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
+Táto inštalácia nepodporuje viac ako 2048 MiB RAM.
+Prosím, uistite sa, že maximálne povolené využitie pamäte je menšie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="300"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Vaše maximálne pridelenie pamäte presahuje kapacitu vašej systémovej pamäte.</translation>
+        <translation>Maximálne využitie pamäte presahuje kapacitu pamäte systému.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="303"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation>Vaše maximálne pridelenie pamäte sa blíži ku celkovej kapacite vašej systémovej pamäte.</translation>
+        <translation>Maximálne využitie pamäte sa blíži kapacite pamäte systému.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="306"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation>Vaše maximálne pridelenie pamäte je menšie ako minimálne pridelenie pamäte.</translation>
+        <translation>Maximálne využitie pamäte je menšie ako minimálne využitie pamäte.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -5782,7 +5782,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Prosím vyberte, aké množstvo pamäte chcete prideliť inštanciám, a či chcete, aby Prism Launcher automaticky spravoval Javu.</translation>
+        <translation>Prosím, vyberte, koľko pamäte chcete prideliť inštanciám, a či chcete, aby Prism Launcher automaticky spravoval Javu.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5813,7 +5813,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Bola vybraná 32-bitová inštalácia Javy, ale pridelili ste viac ako 2048MiB maximálnej pamäte.
+        <translation>Bola vybraná 32-bitová inštalácia Javy, ale je povolené využitie viac ako 2048 MiB pamäte.
 %1 nebude môcť spustiť Minecraft.
 Naozaj chcete pokračovať?
 
@@ -5833,7 +5833,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Verzia Javy nebola vybraná alebo ste vybrali verziu Javy, ktorá nefunguje.
+        <translation>Nie je vybraná žiadna verzia Javy alebo je vybraná nefunkčná verzia.
 %1 nebude môcť spustiť Minecraft.
 Naozaj chcete pokračovať bez funkčnej verzie Javy?
 
@@ -5843,7 +5843,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="350"/>
         <source>Find Java executable</source>
-        <translation>Nájsť Javu</translation>
+        <translation>Vyberte spustiteľný súbor Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
@@ -5853,67 +5853,67 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="493"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Maximálna veľkosť pamäte, ktorú môže Minecraft použiť.</translation>
+        <translation>Maximálne množstvo pamäte, ktoré môže Minecraft použiť.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
         <source>Minimum memory allocation:</source>
-        <translation>Minimálna alokovaná pamäť:</translation>
+        <translation>Minimálne využitie pamäte:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Maximum memory allocation:</source>
-        <translation>Maximálna alokovaná pamäť:</translation>
+        <translation>Maximálne využitie pamäte:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Veľkosť pamäte, s ktorou sa Minecraft spustí.</translation>
+        <translation>Množstvo pamäte, s ktorým sa Minecraft spustí.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Veľkosť použiteľnej pamäte na ukladanie Java tried.</translation>
+        <translation>Veľkosť pamäte dostupnej na ukladanie Java tried.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Browse</source>
-        <translation>Prehľadávať</translation>
+        <translation>Prehliadať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>Auto-download Mojang Java</source>
-        <translation>Automaticky stiahnuť Mojang Java</translation>
+        <translation>Automaticky stiahnuť Javu od Mojangu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
         <source>Auto-detect Java version</source>
-        <translation>Automaticky zistiť verziu Javy</translation>
+        <translation>Automaticky detegovať verziu Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Autodetect Java</source>
-        <translation>Autodetekovať Javu</translation>
+        <translation>Automaticky detegovať Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Vaše maximálne pridelenie pamäte presahuje kapacitu systémovej pamäte.</translation>
+        <translation>Maximálne využitie pamäte presahuje kapacitu pamäte systému.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Vaše maximálne pridelenie pamäti sa blíži ku kapacite systémovej pamäti.</translation>
+        <translation>Maximálne využitie pamäte sa blíži kapacite pamäte systému.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Vaše maximálne pridelenie pamäti je menšie ako minimálna hodnota</translation>
+        <translation>Maximálne využitie pamäte je menšie ako minimálne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="524"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Presahujete maximálne pridelenie pamäte podporované 32-bitovými inštaláciami Javy.</translation>
+        <translation>Maximálne využitie pamäte presahuje horný limit 32-bitových inštalácií Javy.</translation>
     </message>
 </context>
 <context>
@@ -5929,7 +5929,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="63"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Nevidíš svoj jazyk, alebo kvalita je nepostačujúca?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Pomôž nám s prekladom!&lt;/a&gt;</translation>
+        <translation>Nevidíte svoj jazyk alebo je kvalita nepostačujúca?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Pomôžte nám s prekladom!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
@@ -5938,7 +5938,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Použiť jazyk systému</translation>
+        <translation>Použiť systémové nastavenia lokalizácie</translation>
     </message>
 </context>
 <context>
@@ -5951,7 +5951,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
-        <translation>Zvoľte jazyk použitý v %1</translation>
+        <translation>Zvoľte jazyk pre %1</translation>
     </message>
 </context>
 <context>
@@ -5959,12 +5959,12 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="66"/>
         <source>No instance specified!</source>
-        <translation>Žiadna inštancia nebola vybraná!</translation>
+        <translation>Nebola vybraná žiadna inštancia!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="71"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>Boli zadané nesprávne Java arumenty. Najprv to prosím opravte.</translation>
+        <translation>Jave boli zadané neplatné argumenty. Prosím, opravte to.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
@@ -5975,7 +5975,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
         <location filename="src/launcher/LaunchController.cpp" line="97"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation>Ak chcete hrať Minecraft, musíte byť prihlásený s aspoň jedeným Microsoft účtom, ktorý vlastní Minecraft. Želáte si otvoriť správcu účtov a pridať svoj účet?</translation>
+        <translation>Ak chcete hrať Minecraft, musíte sa prihlásiť s aspoň jedným Microsoft účtom, ktorý vlastní kópiu Minecraftu. Chcete otvoriť správcu účtov a pridať účet?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="114"/>
@@ -6049,7 +6049,7 @@ Chcete si zahrať demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>Play Demo</source>
-        <translation>Hrať Demo</translation>
+        <translation>Hrať demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
@@ -6107,12 +6107,12 @@ Chcete si zahrať demo?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="365"/>
         <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>Nepodarilo sa nahrať profil inštancie.</translation>
+        <translation>Nepodarilo sa načítať profil inštancie.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="372"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation>Nepodarilo sa inštanciovať spúštač.</translation>
+        <translation>Nepodarilo sa spustiť launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="421"/>
@@ -6133,14 +6133,14 @@ Chcete si zahrať demo?</translation>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>Spustenie hry je pozastavené pokiaľ nestlačíte kláves. Toto je vhodný čas na nastavenie profilera, pretože profiler server práve beží.
+        <translation>Spustenie hry je pozastavené do stlačenia tlačidla. Toto je vhodný čas na nastavenie profilera, pretože server profilera už beží.
 
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="432"/>
         <source>Waiting.</source>
-        <translation>Čakanie.</translation>
+        <translation>Čaká sa.</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -6165,12 +6165,12 @@ Chcete si zahrať demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="186"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation>Nastala chyba počas obnovovania &apos;%1&apos;</translation>
+        <translation>Nastala chyba počas obnovovania „%1“</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="189"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation>&apos;%1&apos; vypršalo a je potrebné ho znovu overiť</translation>
+        <translation>Prihlásenie „%1“ vypršalo a je nutné sa znovu prihlásiť</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
@@ -6180,14 +6180,14 @@ Chcete si zahrať demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="195"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation>&apos;%1&apos; už na serveroch neexistuje</translation>
+        <translation>„%1“ už na serveroch neexistuje</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation>Tento účet nevlastní hru Minecraft.
-Aby ste mohli hrať plnú verziu, musíte si hru najskôr zakúpiť.</translation>
+        <translation>Tento účet nevlastní Minecraft.
+Aby ste mohli hrať plnú verziu, musíte si hru zakúpiť.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="216"/>
@@ -6213,14 +6213,14 @@ Chcete hrať demo?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Nie ste pripojený k internetu, spúšťanie v offline režime
+        <translation>Systém nie je pripojený k internetu, spúšťa sa v offline režime
 
 </translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Choose your offline mode player name</source>
-        <translation>Vyberte si meno hráča v režime offline</translation>
+        <translation>Vyberte si meno hráča pre offline režim</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="294"/>
@@ -6230,17 +6230,17 @@ Chcete hrať demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="331"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation>%1. Chcete tento účet znovu overiť?</translation>
+        <translation>%1. Chcete sa znovu prihlásiť?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="481"/>
         <source>Kill Minecraft?</source>
-        <translation>Zastaviť Minecraft?</translation>
+        <translation>Ukončiť Minecraft?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="482"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>Toto môže spôsobiť poškodenie inštancie a môže to byť použité iba v prípade ak je Minecraft zamrznutý z nejakej príčiny</translation>
+        <translation>Toto môže poškodiť inštanciu a malo by sa používať iba vtedy, keď je Minecraft z nejakého dôvodu zamrznutý</translation>
     </message>
 </context>
 <context>
@@ -6257,13 +6257,13 @@ Maly by ste opraviť svoje módy, pretože hra stále zaznamenáva log do súbor
         <location filename="src/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation>Sledovanie protokolu hry bolo zastavené, lebo dĺžka záznamu prekročila %1 riadkov.
-Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do súborov a pravdepodobne alarmujúco plytvá miestom na pevnom disku!</translation>
+        <translation>Sledovanie logu bolo ukončené, lebo jeho dĺžka prekročila %1 riadkov.
+Možno bude treba opraviť módy, pretože hra stále loguje do súborov a pravdepodobne plytvá miestom na pevnom disku alarmujúcim tempom!</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="236"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation>[Log4j Parse Error] Nepodarilo sa analyzovať log4j logovú udalosť : %1</translation>
+        <translation>[Log4j Parse Error] Nepodarilo sa analyzovať udalosť logu log4j : %1</translation>
     </message>
 </context>
 <context>
@@ -6275,23 +6275,23 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation>Získavanie prístupového tokenu Minecraftu</translation>
+        <translation>Získava sa prístupový token pre Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation>Nepodarilo sa dostať Minecraft prístupný token: %1</translation>
+        <translation>Nepodarilo sa získať prístupový token pre Minecraft: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation>Nepodarilo sa analyzovať odpoveď na Minecraftový prístupový token.</translation>
+        <translation>Nepodarilo sa prečítať odpoveď s prístupovým tokenom pre Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
         <source>Got Minecraft access token</source>
-        <translation>Prístupový token Minecraftu bol získaný</translation>
+        <translation>Prístupový token pre Minecraft bol získaný</translation>
     </message>
 </context>
 <context>
@@ -6308,7 +6308,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation>Skontrolovať aktualizácie pri spustení</translation>
+        <translation>Kontrolovať aktualizácie pri spustení</translation>
     </message>
     <message>
         <source>No channel selected.</source>
@@ -6322,7 +6322,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
         <source>I&amp;nstances:</source>
-        <translation>Inštancie:</translation>
+        <translation>I&amp;nštancie:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"/>
@@ -6337,7 +6337,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation>Triedenie inštancií</translation>
+        <translation>Usporiadanie inštancií</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
@@ -6352,17 +6352,17 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Ask what to do</source>
-        <translation>Opýtajte sa, čo robiť</translation>
+        <translation>Opýtať sa, čo robiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Never rename the folder</source>
-        <translation>Nikdy nepremenovávajte priečinok</translation>
+        <translation>Nikdy nepremenovávať priečinok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>Updater</source>
-        <translation>Aktualizátor</translation>
+        <translation>Aktualizácie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
@@ -6372,7 +6372,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Set to 0 to only check on launch</source>
-        <translation>Nastavené na 0 pre kontrolu iba pri spustení</translation>
+        <translation>Pri nastavení na 0 sa bude kontrolovať iba pri spustení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
@@ -6382,22 +6382,22 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source> hours</source>
-        <translation> hodiny</translation>
+        <translation> hodín</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Every </source>
-        <translation>Každé </translation>
+        <translation>Každých </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>&amp;Auto Java Download:</source>
-        <translation>&amp;Automatické stiahnutie Javy:</translation>
+        <translation>&amp;Automaticky stiahnutá Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation>Priečinok, do ktorého Prism Launcher automaticky ukladá stiahnuté verzie Javy. NENASTAVUJTE sem inštaláciu Javy vo vašom systéme.</translation>
+        <translation>Priečinok, do ktorého Prism Launcher automaticky ukladá stiahnuté verzie Javy. NESMERUJTE toto nastavenie na systémovú inštaláciu Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
@@ -6412,17 +6412,17 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation>V súčasnosti sa tu zobrazujú len modifikácie, ktoré nie sú označené ako kompatibilné s aktuálnou verziou Minecraftu.</translation>
+        <translation>V súčasnosti toto nastavenie len zobrazuje módy, ktoré nie sú označené ako kompatibilné s aktuálnou verziou Minecraftu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="430"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation>Detekcia a zobrazenie nekompatibilít modov (experimentálne)</translation>
+        <translation>Detegovať a zobraziť nekompatibility módov (experimentálne)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="484"/>
         <source>Log History &amp;Limit:</source>
-        <translation>Logová História &amp;Limit:</translation>
+        <translation>&amp;Limit dĺžky logu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="529"/>
@@ -6432,12 +6432,12 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="592"/>
         <source>Retry Limit:</source>
-        <translation>Limit Opakovaných pokusov:</translation>
+        <translation>Limit počtu pokusov:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="599"/>
         <source>Concurrent Download Limit:</source>
-        <translation>Limit Súbežného Sťahovania:</translation>
+        <translation>Limit počtu súbežných sťahovaní:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="609"/>
@@ -6447,7 +6447,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="635"/>
         <source>Concurrent Task Limit:</source>
-        <translation>Limit Súbežných Úloh:</translation>
+        <translation>Limit počtu súbežných úloh:</translation>
     </message>
     <message>
         <source>Move the data to new location (will restart the launcher)</source>
@@ -6479,7 +6479,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>By &amp;name</source>
-        <translation>Podľa &amp;mena</translation>
+        <translation>Podľa ná&amp;zvu</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -6523,7 +6523,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="407"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varovanie&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Zakázanie metadát módu môže tiež vypnúť niektoré funkcie QoL, ako napríklad aktualizácie módov!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varovanie&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Vypnutie metadát módov môže deaktivovať niektoré pohodlné funkcie ako napríklad aktualizácie módov!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Legacy</source>
@@ -6541,7 +6541,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
         <source>&amp;Downloads:</source>
-        <translation>&amp;Stiahnutia:</translation>
+        <translation>&amp;Stiahnuté súbory:</translation>
     </message>
     <message>
         <source>...</source>
@@ -6567,7 +6567,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>Ak je táto možnosť povolená, okrem priečinka so stiahnutými súbormi sa pri vyhľadávaní zdrojov (napr. pri vyhľadávaní blokovaných módov na CurseForge) prehľadajú aj jeho podpriečinky.</translation>
+        <translation>Okrem priečinka so stiahnutými súbormi pri hľadaní súborov (napr. pri hľadaní blokovaných módov na CurseForge) prehľadávať aj jeho podpriečinky.</translation>
     </message>
     <message>
         <source>Check downloads folder recursively</source>
@@ -6605,7 +6605,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="606"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation>Sekundy čakania na ukončenie požiadaviek</translation>
+        <translation>Dĺžka čakania predtým, ako budú požiadavky ukončené, v sekundách</translation>
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
@@ -6623,7 +6623,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation>Ak je povolené, blokované zdroje sa presunú namiesto ich kopírovania.</translation>
+        <translation>Nájdené blokované súbory sa budú presúvať, nie kopírovať.</translation>
     </message>
     <message>
         <source>&amp;Java:</source>
@@ -6652,13 +6652,13 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation>Panel s ponukami je užívateľsky prívetivejší pre interakciu pomocou klávesnice.</translation>
+        <translation>Panel s ponukami je priateľskejší k interakcii pomocou klávesnice.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>&amp;Nahradiť panel s nástrojmi s ponukami</translation>
+        <translation>&amp;Nahradiť panel s nástrojmi panelom s ponukami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
@@ -6668,27 +6668,27 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation>Skontrolujte &amp;podpriečinky, či neobsahujú blokované módy</translation>
+        <translation>Hľadať blokované módy v &amp;podpriečinkoch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="390"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation>Presunúť blokované módy namiesto ich kopírovania</translation>
+        <translation>Presunúť blokované módy namiesto kopírovania</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation>Ukladá informácie o verzii poskytovateľmi módov (ako Modrinth alebo CurseForge) pre módy.</translation>
+        <translation>Ukladať informácie o verziách módov získané zo zdrojov módov (ako Modrinth alebo CurseForge).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="400"/>
         <source>Keep track of mod metadata</source>
-        <translation>Sledovať metadáta módu</translation>
+        <translation>Ukladať metadáta módov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation>Automaticky detekovať, inštalovať a aktualizovať závislosti módov.</translation>
+        <translation>Automaticky detegovať, inštalovať a aktualizovať závislosti módov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="420"/>
@@ -6698,12 +6698,12 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation>Pri vytváraní novej inštancie modpacku navrhnite aktualizáciu existujúcej inštancie.</translation>
+        <translation>Pri vytváraní novej inštancie modpacku navrhnúť namiesto toho aktualizovať existujúcu inštanciu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="440"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation>Navrhujeme aktualizovať existujúciu inštanciu počas inštalácie modpacku</translation>
+        <translation>Navrhovať aktualizáciu existujúcej inštancie pri inštalácii modpacku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
@@ -6713,12 +6713,12 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnuť potrebné súbory hry už pri vytváraní inštancie. Keď je toto nastavenie vypnuté, sťahovanie pri vytváraní inštancie sa preskočí a súbory sa stiahnu až pri jej spustení.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Download game files during instance creation</source>
-        <translation>Sťahovať súbory hry počas vytvárania inštancie</translation>
+        <translation>Sťahovať súbory hry počas vytvárania inštancií</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
@@ -6753,12 +6753,12 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="519"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation>&amp;Zastavenie logovania pri preplnení záznamu</translation>
+        <translation>Prestať lo&amp;govať pri preplnení logu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="500"/>
         <source> lines</source>
-        <translation> Riadky</translation>
+        <translation> riadkov</translation>
     </message>
     <message>
         <source>Console &amp;font</source>
@@ -6768,17 +6768,17 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
         <source>Instance Folder</source>
-        <translation>Priečinok inštancie</translation>
+        <translation>Priečinok s inštanciami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Snažíte sa zadať priečinok inštancie ktorého cesta pbsahuje minimálne jeden &apos;!&apos;. Java s tým môže mať problémy a pravdepodobne sa Vaša inštancia nerozbehne!</translation>
+        <translation>Pokúšate sa vybrať priečinok, ktorého cesta obsahuje minimálne jeden „!“. Je známe, že Java s tým má problémy a inštancie sa (pravdepodobne) nebudú dať spustiť!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>Naozaj chcete použiť túto cestu? Zvolením &quot;Nie&quot; sa cesta k inštancii nezmení.</translation>
+        <translation>Naozaj chcete použiť túto cestu? Zvolením &quot;Nie&quot; sa cesta k inštanciám nezmení.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
@@ -6790,8 +6790,8 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>Pokúšate sa zadať priečinok inštancie, ktorý bol dočasne povolený prostredníctvom Flatpaku.
-Je známe, že to spôsobuje problémy. Po reštarte môže spúšťač zlyhať, pretože už nebude mať prístup k tomuto adresáru.
+        <translation>Pokúšate sa vybrať priečinok, ktorý bol dočasne sprístupnený prostredníctvom Flatpaku.
+Je známe, že to spôsobuje problémy. Po reštarte môže launcher zlyhať, pretože už nebude mať prístup k tomuto priečinku.
 
 Odporúča sa udeliť %1 prístup k nemu prostredníctvom Flatsealu.</translation>
     </message>
@@ -6803,12 +6803,12 @@ Odporúča sa udeliť %1 prístup k nemu prostredníctvom Flatsealu.</translatio
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
         <source>Icons Folder</source>
-        <translation>Priečinok ikon</translation>
+        <translation>Priečinok s ikonami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="147"/>
         <source>Mods Folder</source>
-        <translation>Priečinok módov</translation>
+        <translation>Priečinok s módmi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
@@ -6818,12 +6818,12 @@ Odporúča sa udeliť %1 prístup k nemu prostredníctvom Flatsealu.</translatio
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Java Folder</source>
-        <translation>Priečinok Java</translation>
+        <translation>Priečinok s Javou</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation>Priečinok Skinov</translation>
+        <translation>Priečinok so skinmi</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
@@ -6872,17 +6872,17 @@ Odporúča sa udeliť %1 prístup k nemu prostredníctvom Flatsealu.</translatio
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="76"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>Knižnicu spúšťača sa nepodarilo nájsť. Skontrolujte si inštaláciu.</translation>
+        <translation>Knižnicu launchera sa nepodarilo nájsť. Skontrolujte svoju inštaláciu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>Nepodarilo sa nájsť staršiu knižnicu spúšťača. Skontrolujte si inštaláciu.</translation>
+        <translation>Nepodarilo sa nájsť staršiu knižnicu launchera. Skontrolujte svoju inštaláciu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>Wrapper príkaz &quot;%1&quot; nebol nájdený.</translation>
+        <translation>Nepodarilo sa nájsť príkaz wrapperu „%1“.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
@@ -6903,27 +6903,27 @@ Odporúča sa udeliť %1 prístup k nemu prostredníctvom Flatsealu.</translatio
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation>Kontrola FML knižníc...</translation>
+        <translation>Hľadajú sa knižnice FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>Sťahovanie FML knižníc...</translation>
+        <translation>Sťahujú sa knižnice FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Kopírovanie FML knižníc do inštancie...</translation>
+        <translation>Knižnice FML sa kopírujú do inštancie...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Vytvorenie adresára pre FML knižnicu v inštancii zlyhalo.</translation>
+        <translation>Nepodarilo sa vytvoriť priečinok pre knižnice FML v inštancii.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Kopírovanie Forge/FML knižnice zlyhalo: %1.</translation>
+        <translation>Kopírovanie knižnice Forge/FML zlyhalo: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6932,11 +6932,11 @@ Odporúča sa udeliť %1 prístup k nemu prostredníctvom Flatsealu.</translatio
 
 Reason:%2
 Please try again.</source>
-        <translation>Sťahovanie týchto súborov zlyhalo:
+        <translation>Nepodarilo sa stiahnuť tieto súbory:
 %1
 
 Dôvod:%2
-Prosím skúste to znova.</translation>
+Prosím, skúste to znova.</translation>
     </message>
 </context>
 <context>
@@ -6945,13 +6945,13 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Triediť podľa mena</translation>
+        <translation>Radiť podľa názvu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="60"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Triediť podľa verzie hry</translation>
+        <translation>Radiť podľa verzie hry</translation>
     </message>
 </context>
 <context>
@@ -6959,17 +6959,17 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="135"/>
         <source>Public Modpack</source>
-        <translation>Verejný balík módov</translation>
+        <translation>Verejný modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="137"/>
         <source>Third Party Modpack</source>
-        <translation>Balík módov tretej strany</translation>
+        <translation>Modpack tretej strany</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="139"/>
         <source>Private Modpack</source>
-        <translation>Súkromný balík módov</translation>
+        <translation>Súkromný modpack</translation>
     </message>
 </context>
 <context>
@@ -6977,17 +6977,17 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
         <source>Public Packs</source>
-        <translation>Verejné balíky</translation>
+        <translation>Verejné balíčky</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
         <source>Third Party Packs</source>
-        <translation>Balíky tretích strán</translation>
+        <translation>Balíčky tretích strán</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="127"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>Nebolo možné stiahnuť niektoré zoznamy balíkov: %1</translation>
+        <translation>Nepodarilo sa stiahnuť niektoré zoznamy balíčkov: %1</translation>
     </message>
 </context>
 <context>
@@ -6995,7 +6995,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"/>
         <source>Downloading zip for %1</source>
-        <translation>Sťahujem zip pre %1</translation>
+        <translation>Sťahujem ZIP pre %1</translation>
     </message>
     <message>
         <source>Downloading zip for %1 (%2%)</source>
@@ -7004,7 +7004,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation>Rozbaľovanie modpacku</translation>
+        <translation>Rozbaľuje sa modpack</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
@@ -7013,18 +7013,18 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Installing modpack</source>
-        <translation>Inštaluje sa balík módov</translation>
+        <translation>Inštaluje sa modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation>Zlyhalo presúvanie rozbaleného minecraftu!</translation>
+        <translation>Nepodarilo sa presunúť rozbalený Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
         <source>No installation method found!</source>
-        <translation>Nenašiel sa spôsob inštalácie!</translation>
+        <translation>Nenašla sa metóda inštalácie!</translation>
     </message>
 </context>
 <context>
@@ -7032,7 +7032,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation>Vyhľadávať a filtrovať...</translation>
+        <translation>Hľadať a filtrovať...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -7046,7 +7046,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="65"/>
         <source>3rd Party</source>
-        <translation>Tretie strany</translation>
+        <translation>Od tretích strán</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="95"/>
@@ -7056,12 +7056,12 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="117"/>
         <source>Add pack</source>
-        <translation>Pridať balík</translation>
+        <translation>Pridať balíček</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="124"/>
         <source>Remove selected pack</source>
-        <translation>Odstrániť vybratý balík</translation>
+        <translation>Odstrániť vybraný balíček</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="154"/>
@@ -7085,39 +7085,39 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="214"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Úloha bola zastavená použivateľom.</translation>
+        <translation>Úloha bola prerušená používateľom.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>FTB private packs</source>
-        <translation>Feed The Beast súkromné balíky</translation>
+        <translation>Súkromné FTB balíčky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="225"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation>Chyba pri sťahovaní informácií balíka pre kód %1.
-Mal by byť odstránený teraz?</translation>
+        <translation>Nepodarilo sa stiahnuť informácie o balíčku pre kód %1.
+Odstrániť ho teraz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="350"/>
         <source>Add FTB pack</source>
-        <translation>Pridať Feed The Beast balík</translation>
+        <translation>Pridať FTB balíček</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="350"/>
         <source>Enter pack code:</source>
-        <translation>Zadajte kód balíka:</translation>
+        <translation>Zadajte kód balíčka:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="365"/>
         <source>Remove pack</source>
-        <translation>Odstrániť balík</translation>
+        <translation>Odstrániť balíček</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="365"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>Ste si istý, že chcete odstrániť balík %1?</translation>
+        <translation>Naozaj chcete odstrániť balíček %1?</translation>
     </message>
 </context>
 <context>
@@ -7179,7 +7179,7 @@ Mal by byť odstránený teraz?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>Načítanie súborov knižníc z Mojangu...</translation>
+        <translation>Sťahujú sa potrebné knižnice...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -7189,7 +7189,7 @@ Mal by byť odstránený teraz?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation>V metadatach je špecifikovaný prázdny jar, prerušenie.</translation>
+        <translation>V metadátach je špecifikovaný prázdny JAR, prerušuje sa.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -7198,10 +7198,10 @@ Mal by byť odstránený teraz?</translation>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>Niektoré artefakty označené ako &apos;lokálne&apos; postrádajú ich súbory:
+        <translation>Niektorým artefaktom, ktoré sú označené ako „lokálne“, chýbajú súbory:
 %1
 
-Buď pridáte súbory alebo vymažete balíček, ktorý ich potrebuje.
+Buď pridajte tieto súbory alebo odstráňte balíčky, ktoré ich potrebujú.
 Tento problém musíte vyriešiť manuálne.</translation>
     </message>
     <message>
@@ -7213,7 +7213,7 @@ Tento problém musíte vyriešiť manuálne.</translation>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation>Zlyhalo vylepšenie hry: nebolo možné stiahnuť potrebné knižnice.
+        <translation>Nepodarilo sa aktualizovať hru: nedali sa stiahnuť potrebné knižnice.
 Dôvod:
 %1</translation>
     </message>
@@ -7237,7 +7237,7 @@ Dôvod:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="51"/>
         <source>Updating index for resource:
 %1</source>
-        <translation>Aktualizácia indexu pre zdroj:
+        <translation>Aktualizuje sa index pre položku:
 %1</translation>
     </message>
     <message>
@@ -7251,7 +7251,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="47"/>
         <source>Keep updating</source>
-        <translation>Vždy vylepšovať</translation>
+        <translation>Sledovať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="57"/>
@@ -7261,12 +7261,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
         <source>Color lines</source>
-        <translation>Farebné čiary</translation>
+        <translation>Farbiť riadky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>Skopírovať celý log do clipboardu</translation>
+        <translation>Skopírovať celý log do schránky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
@@ -7277,22 +7277,22 @@ Dôvod:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="100"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>Nahrať log do služby vkladania nakonfigurovanej v nastaveniach</translation>
+        <translation>Nahrať log do služby na zdieľanie textu nakonfigurovanej v nastaveniach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload</source>
-        <translation>Odoslať</translation>
+        <translation>Zdieľať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="110"/>
         <source>Clear the log</source>
-        <translation>Vyčistiť log</translation>
+        <translation>Vymazať log</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Clear</source>
-        <translation>Vyčistiť</translation>
+        <translation>Vymazať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
@@ -7311,18 +7311,18 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="141"/>
         <source>Scroll all the way to bottom</source>
-        <translation>Presunúť na spodok</translation>
+        <translation>Posunúť zobrazenie na úplný koniec</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="144"/>
         <source>Bottom</source>
-        <translation>Na spodok</translation>
+        <translation>Dole</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="246"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="68"/>
         <source>Minecraft Log</source>
-        <translation>Minecraftový záznam</translation>
+        <translation>Log Minecraftu</translation>
     </message>
 </context>
 <context>
@@ -7331,7 +7331,7 @@ Dôvod:
         <location filename="src/launcher/LoggedProcess.cpp" line="96"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation>Proces ukončený kódom %1.</translation>
+        <translation>Proces skončil s kódom %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="101"/>
@@ -7342,7 +7342,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>Proces spadol s výstupovým kódom %1.</translation>
+        <translation>Proces spadol s kódom %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="108"/>
@@ -7381,17 +7381,17 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Pridať Microsoft konto&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Pridať Microsoft účet&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation>Ak chcete hrať Minecraft, musíte mať prihlásený aspoň jeden účet Microsoft. Chcete sa teraz prihlásiť?</translation>
+        <translation>Ak chcete hrať Minecraft, musíte mať prihlásený aspoň jeden Microsoft účet. Chcete sa prihlásiť teraz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation>Pridajte konto Microsoft</translation>
+        <translation>Pridať Microsoft účet</translation>
     </message>
 </context>
 <context>
@@ -9299,7 +9299,7 @@ Taktiež buďte istý, že adrese URL dôverujete.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation>Herný &amp;čas</translation>
+        <translation>Odohraný &amp;čas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
@@ -12516,7 +12516,7 @@ Chcete pokračovať v skrátení?</translation>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="313"/>
         <source>Assets for %1</source>
-        <translation>Herné súbory pre %1</translation>
+        <translation>Súbory hry pre %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="78"/>
@@ -16462,7 +16462,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
         <source>Game Mode</source>
-        <translation>Herný mód</translation>
+        <translation>Herný režim</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
@@ -16489,7 +16489,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="283"/>
         <source>Game mode of the world.</source>
-        <translation>Herný mód sveta.</translation>
+        <translation>Herný režim sveta.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
