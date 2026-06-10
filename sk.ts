@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Config download</source>
-        <translation>Stiahnutie konfigurácie</translation>
+        <translation>Sťahovanie konfigurácie</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
@@ -268,7 +268,7 @@
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Stiahnutie módu</translation>
+        <translation>Sťahovanie módov</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -1171,7 +1171,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Vybrať módy na inštaláciu</translation>
+        <translation>Vyberte módy na inštaláciu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -1196,7 +1196,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Select a share code</source>
-        <translation>Vybrať kód na zdieľanie</translation>
+        <translation>Vyberte kód na zdieľanie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
@@ -3208,7 +3208,7 @@ Túto inštanciu nie je možné spustiť, pretože niektoré knižnice chýbajú
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="214"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation>Vybrať %1</translation>
+        <translation>Vyberte %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="244"/>
@@ -5482,7 +5482,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="111"/>
         <source>Confirm Deletion</source>
-        <translation>Potvrdiť odstránenie</translation>
+        <translation>Potvrďte odstránenie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
