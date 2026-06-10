@@ -5732,7 +5732,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="281"/>
         <source>Confirm Selection</source>
-        <translation>Potvrdiť výber</translation>
+        <translation>Potvrďte výber</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="282"/>
@@ -6220,7 +6220,7 @@ Chcete hrať demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Choose your offline mode player name</source>
-        <translation>Vyberte si meno hráča pre offline režim</translation>
+        <translation>Zvoľte si meno hráča pre offline režim</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="294"/>
@@ -7409,7 +7409,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation>Nemôžem pridať:</translation>
+        <translation>Nepodarilo sa pridať:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7423,7 +7423,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="72"/>
         <source>A zip error occurred</source>
-        <translation>Vyskytla sa chyba zipsu</translation>
+        <translation>Vyskytla sa chyba kompresie</translation>
     </message>
 </context>
 <context>
@@ -7440,12 +7440,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="45"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation>Rozbalovanie prázdnych archívov sa zdá zvláštne...</translation>
+        <translation>Rozbaľovať prázdne archívy je čudné...</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation>Nepodarilo sa analyzovať súbor %1</translation>
+        <translation>Nepodarilo sa prečítať súbor %1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -7454,7 +7454,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation>Extrakcia %1 bola zrušená, pretože sa nachádzala mimo cieľovej cesty %2</translation>
+        <translation>Rozbaľovanie %1 bolo zrušené, pretože sa to nachádzalo mimo cieľovej cesty %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
@@ -7471,7 +7471,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation>Prihlásenie pomocou účtu Microsoft (device code).</translation>
+        <translation>Prihlasuje sa cez Microsoft (device code).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
