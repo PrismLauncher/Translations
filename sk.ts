@@ -949,11 +949,11 @@ Aktualizácia z verzie %3 na verziu %4
 Cieľová cesta inštalácie: %5
 Cesta k dátam: %6
 Toto pravdepodobne znamená, že aktualizácia zlyhala. Pred pokračovaním sa, prosím, uistite, že vaša inštalácia je funkčná.
-Skontrolujte log aktualizačného programu Prism Launchera na:
+Podrobnosti nájdete v logu aktualizačného programu Prism Launchera na: 
 %7
-pre podrobnosti o poslednom pokuse o aktualizáciu.
+.
 
-Kliknutím na „Ignorovať“ nižšie môžete odstrániť toto uzamknutie a pokračovať.</translation>
+Ak chcete tento zámok prepísať a pokračovať v aktualizácii aj tak, vyberte nižšie možnosť „Ignorovať“.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1080"/>
@@ -1670,7 +1670,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <source>Failed to abort all running tasks.</source>
-        <translation>Nepodarilo sa prerušiť všetky bežiace úlohy.</translation>
+        <translation>Nepodarilo sa prerušiť všetky prebiehajúce úlohy.</translation>
     </message>
     <message>
         <source>One or more subtasks failed</source>
@@ -4635,7 +4635,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
         <source>Modpack download</source>
-        <translation>Stiahnuť modpack</translation>
+        <translation>Sťahovanie modpacku</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
@@ -5120,7 +5120,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>Kill the running instance</source>
-        <translation>Ukončiť bežiacu inštanciu</translation>
+        <translation>Ukončiť spustenú inštanciu</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -6652,13 +6652,13 @@ Možno bude treba opraviť módy, pretože hra stále loguje do súborov a pravd
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation>Panel s ponukami je priateľskejší k interakcii pomocou klávesnice.</translation>
+        <translation>Panel ponúk je priateľskejší k interakcii pomocou klávesnice.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>&amp;Nahradiť panel s nástrojmi panelom s ponukami</translation>
+        <translation>&amp;Nahradiť panel nástrojov panelom ponúk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
@@ -7471,7 +7471,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation>Prihlásenie cez Microsoft (device code).</translation>
+        <translation>Prihlasuje sa pomocou Microsoft účtu (device code).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
@@ -7486,7 +7486,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation>Autorizácia zariadenia zlyhala: chýbajú povinné políčka</translation>
+        <translation>Autorizácia zariadenia zlyhala: chýbajú povinné polia</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="156"/>
@@ -7496,7 +7496,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="262"/>
         <source>Device Access failed: %1</source>
-        <translation>Prístup k zariadeniu zlyhal: %1</translation>
+        <translation>Nepodarilo sa pristúpiť k zariadeniu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="277"/>
@@ -7513,7 +7513,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation>Pridať konto Microsoft</translation>
+        <translation>Pridať Microsoft účet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
@@ -7530,7 +7530,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation>Prihlásiť sa pomocou Microsoftu</translation>
+        <translation>Prihlásiť sa cez Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
@@ -7560,7 +7560,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="205"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation>Otvoriť %1 alebo naskenujte QR kód a v prípade potreby zadajte vyššie uvedený kód.</translation>
+        <translation>Otvorte %1 alebo naskenujte QR kód a v prípade potreby zadajte vyššie uvedený kód.</translation>
     </message>
     <message>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
@@ -7585,22 +7585,22 @@ Dôvod:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
         <source>Failed to refresh token.</source>
-        <translation>Obnovenie tokenu zlyhalo.</translation>
+        <translation>Nepodarilo sa obnoviť token.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="182"/>
         <source>Logging in with Microsoft account.</source>
-        <translation>Prihlasuje sa pomocou konta Microsoft.</translation>
+        <translation>Prihlasuje sa pomocou Microsoft účtu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="190"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation>Overenie používateľa Microsoft zlyhalo – identifikácia klienta sa zmenila.</translation>
+        <translation>Prihlásenie cez Microsoft zlyhalo – identifikácia klienta sa zmenila.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="194"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation>Overenie používateľa Microsoft zlyhalo – obnovovací token je prázdny.</translation>
+        <translation>Prihlásenie cez Microsoft zlyhalo – obnovovací token je prázdny.</translation>
     </message>
     <message>
         <source>Got </source>
@@ -7617,7 +7617,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="160"/>
         <source>Microsoft user authentication failed.</source>
-        <translation>Prihlásenie Microsoft zlyhalo.</translation>
+        <translation>Prihlásenie cez Microsoft zlyhalo.</translation>
     </message>
     <message>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
@@ -7674,7 +7674,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Otvoriť priečinok centrálnych módov v prehliadači súborov.</translation>
+        <translation>Otvoriť centrálny priečinok s módmi v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
@@ -7689,7 +7689,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Otvoriť jeden zo zdieľaných priečinkov inštancií.</translation>
+        <translation>Otvoriť jeden z priečinkov zdieľaných medzi inštanciami.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7707,7 +7707,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation>Otvoriť bug tracker na nahlásenie chyby s %1.</translation>
+        <translation>Otvoriť bug tracker, kde je možné nahlásiť chybu v %1.</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -7726,7 +7726,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
         <source>Open %1 subreddit.</source>
-        <translation>Otvoriť %1 subreddit.</translation>
+        <translation>Otvoriť subreddit %1.</translation>
     </message>
     <message>
         <source>About %1</source>
@@ -7763,7 +7763,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="259"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>To je huňatá mačička :3</translation>
+        <translation>Huňatá mačička :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -7772,7 +7772,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
         <source>News Toolbar</source>
-        <translation>Panel nástrojov novinky</translation>
+        <translation>Panel noviniek</translation>
     </message>
     <message>
         <source>More news...</source>
@@ -7831,12 +7831,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>Pridať inštanciu...</translation>
+        <translation>P&amp;ridať inštanciu...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation>Priečinky</translation>
+        <translation>&amp;Priečinky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
@@ -7847,12 +7847,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation>&amp;Zrušiť posledné odstránenie inštancie</translation>
+        <translation>&amp;Vrátiť posledné odstránenie inštancie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation>&amp;Vymazať medzipamäť metadát</translation>
+        <translation>&amp;Vymazať vyrovnávaciu pamäť metadát</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="671"/>
@@ -7867,7 +7867,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>&amp;Matrix Space</source>
-        <translation>&amp;Priestor Matrix</translation>
+        <translation>&amp;Matrix priestor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
@@ -7882,12 +7882,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spravovať skiny...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation>Vytvorí odkaz na vybranom priečinku pre spustenie vybranej inštancie.</translation>
+        <translation>Vytvorí odkaz na spustenie vybranej inštancie vo vybranom priečinku.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="539"/>
@@ -7897,7 +7897,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation>Otvoriť priečinok inštancií v prehliadači súborov.</translation>
+        <translation>Otvoriť priečinok s inštanciami v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
@@ -7917,7 +7917,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation>Otvoriť priečinok skinov v prehliadači súborov.</translation>
+        <translation>Otvoriť priečinok so skinmi v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
@@ -7932,17 +7932,17 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Logs</source>
-        <translation>Záznamy</translation>
+        <translation>Logy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="597"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation>Otvoriť priečinok záznamov v prehliadači súborov.</translation>
+        <translation>Otvoriť priečinok s logmi v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
         <source>&amp;Discord Guild</source>
-        <translation>&amp;Discord Guild</translation>
+        <translation>&amp;Discord server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="643"/>
@@ -7958,13 +7958,13 @@ Dôvod:
         <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation>Prezerať záznamy</translation>
+        <translation>Zobraziť logy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation>Prezrieť aktuálne a predošlé záznamy launcheru</translation>
+        <translation>Prezrieť aktuálne a staršie logy launchera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
@@ -7974,22 +7974,22 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="743"/>
         <source>&amp;Widget Themes</source>
-        <translation>&amp;Motívy Widgetov</translation>
+        <translation>Motívy &amp;widgetov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation>Otvoriť priečinok tém widgetov v prieskumníku.</translation>
+        <translation>Otvoriť priečinok s motívmi widgetov v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
         <source>I&amp;con Theme</source>
-        <translation>Motív iko&amp;n</translation>
+        <translation>Motívy iko&amp;n</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation>Otvoriť priečinok motívov ikon v prehliadači súborov.</translation>
+        <translation>Otvoriť priečinok s motívmi ikon v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
@@ -7999,7 +7999,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation>Otvoriť priečinok balíkov mačiek v prehliadači súborov.</translation>
+        <translation>Otvoriť priečinok s balíčkami mačiek v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
@@ -8010,12 +8010,12 @@ Dôvod:
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation>Otvorte priečinok Javy v prieskumníku. Dostupné iba v prípade, že sa používa vstavaný program na sťahovanie súborov Java.</translation>
+        <translation>Otvoriť priečinok s inštaláciami Javy v prehliadači súborov. Dostupné iba v prípade, že sa používa vstavaný program na sťahovanie Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
         <source>&amp;Update...</source>
-        <translation>&amp;Update...</translation>
+        <translation>&amp;Aktualizovať...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
@@ -8030,7 +8030,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
         <source>Lock Toolbars</source>
-        <translation>Uzamknúť lištu nástrojov</translation>
+        <translation>Uzamknúť panely nástrojov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
@@ -8055,7 +8055,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
         <source>&amp;Help</source>
-        <translation>&amp;Help</translation>
+        <translation>Pomo&amp;c</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
@@ -8105,12 +8105,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
         <source>Open %1 Matrix space.</source>
-        <translation>Otvoriť priestor Matrix %1.</translation>
+        <translation>Otvoriť Matrix priestor %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation>Nainštalovať symlink %1 do /usr/local/bin</translation>
+        <translation>Nainštalovať symlink na %1 do /usr/local/bin</translation>
     </message>
     <message>
         <source>%1 &amp;Help</source>
@@ -8125,7 +8125,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation>Zmeniť zvolenú ikonu inštancií.</translation>
+        <translation>Zmeniť ikonu vybranej inštancie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="371"/>
@@ -8135,7 +8135,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>Rename the selected instance.</source>
-        <translation>Premenovať zvolenú inštanciu.</translation>
+        <translation>Premenovať vybranú inštanciu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
@@ -8189,7 +8189,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
         <source>Confirm Deletion</source>
-        <translation>Potvrdiť odstránenie</translation>
+        <translation>Potvrďte odstránenie</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -8234,7 +8234,7 @@ Ste si istí?</translation>
         <location filename="src/launcher/ui/MainWindow.ui" line="432"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation>Zmazať zvolenú inštanciu.</translation>
+        <translation>Zmazať vybranú inštanciu.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -8251,7 +8251,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation>Zmeniť zvolenú skupinu inštancií.</translation>
+        <translation>Zmeniť skupinu vybranej inštancie.</translation>
     </message>
     <message>
         <source>Minecraft Folder</source>
@@ -8277,7 +8277,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>Otvoriť hlavný adresár zvolenej inštancie v prieskumíku.</translation>
+        <translation>Otvoriť hlavný adresár vybranej inštancie v prehliadači súborov.</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -8295,7 +8295,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="446"/>
         <source>Copy the selected instance.</source>
-        <translation>Kopírovať zvolenú inštanciu.</translation>
+        <translation>Kopírovať vybranú inštanciu.</translation>
     </message>
     <message>
         <source>%1 - Version %2</source>
@@ -8366,7 +8366,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="810"/>
         <source>Loading news...</source>
-        <translation>Nahrávam novinky...</translation>
+        <translation>Načítavajú sa novinky...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="820"/>
@@ -8386,7 +8386,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Úloha bola prerušená použivateľom.</translation>
+        <translation>Úloha bola prerušená používateľom.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
@@ -8398,7 +8398,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Modpack, mód alebo zdroj %1 je zablokovaný pre tretie strany! Prosím stiahnite si ho manuálne.</translation>
+        <translation>Modpack, mód alebo iný zdroj %1 je blokovaný pre tretie strany! Prosím, stiahnite ho manuálne.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
@@ -8431,7 +8431,7 @@ URL:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1095"/>
         <source>Modpack download</source>
-        <translation>Stiahnuť modpack</translation>
+        <translation>Sťahovanie modpacku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1135"/>
@@ -8442,8 +8442,8 @@ URL:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation>Neexistuje žiadna dostupná inštancia, ku ktorej by sa dal zdroj pridať.
-Prosím vytvorte novú inštanciu pred opätovným pokusom o inštaláciu tohto zdroja.</translation>
+        <translation>Neexistuje žiadna dostupná inštancia, ku ktorej by sa dala položka pridať.
+Prosím, vytvorte novú inštanciu pred opätovným pokusom o inštaláciu položky.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
@@ -8470,26 +8470,26 @@ Prosím vytvorte novú inštanciu pred opätovným pokusom o inštaláciu tohto 
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation>Niektoré inštancie a skratky nebolo možné obnoviť.
-Prosím skontrolujte svoj kôš a obnovte ich ručne.</translation>
+        <translation>Niektoré inštancie a skratky sa nepodarilo obnoviť.
+Prosím, skontrolujte svoj kôš a obnovte ich ručne.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1391"/>
         <source>Instance not editable</source>
-        <translation>Inštancia neni upravovatelná</translation>
+        <translation>Inštancia nie je upravovateľná</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation>Táto Inštancia nie je upraviteľná. Môže byť poškodená, nesprávna alebo stará. Skontrolujte záznamy pre detaily.</translation>
+        <translation>Táto Inštancia nie je upravovateľná. Môže byť poškodená alebo stará. Detaily nájdete v logoch.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1423"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation>Nepodarilo sa odstrániť medzipamäť metadát!
-Pre manuálne odstránenie medzipamäte metadát, stlačte Priečinky -&gt; Koreňový priečinok launcheru a po zatvorení launcheru odstráňte priečinok „meta“
+        <translation>Nepodarilo sa vymazať vyrovnávaciu pamäť metadát!
+Pre manuálne vymazanie vyrovnávacej pamäte metadát stlačte Priečinky -&gt; Koreňový priečinok launcheru, zatvorte launcher a odstráňte priečinok „meta“
 </translation>
     </message>
     <message>
@@ -8500,7 +8500,7 @@ Pre manuálne odstránenie medzipamäte metadát, stlačte Priečinky -&gt; Kore
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>%1 bol úspešne pridaný do Vašej PATH. Teraz ho môžete spustiť zadaním `%2`.</translation>
+        <translation>%1 bol úspešne pridaný do PATH. Teraz ho môžete spustiť zadaním `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
@@ -8596,7 +8596,7 @@ Naozaj chcete pokračovať?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>Ste si istý, že chcete odstrániť skupinu „%1“?</translation>
+        <translation>Naozaj chcete odstrániť skupinu „%1“?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
@@ -8611,7 +8611,7 @@ Naozaj chcete pokračovať?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Cannot set empty name.</source>
-        <translation>Nemožno nastaviť prázdne meno.</translation>
+        <translation>Nemožno nastaviť prázdny názov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
@@ -8626,15 +8626,15 @@ Naozaj chcete pokračovať?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation>Zvolená inštancia je momentálne spustená a nemôže byť odstránená. Pred ďalším pokusom o odstránenie ju prosím zastavte.</translation>
+        <translation>Zvolená inštancia je momentálne spustená a nedá sa odstrániť. Pred ďalším pokusom o odstránenie ju prosím ukončite.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> a jej %n registrovaná skratka</numerusform>
+            <numerusform> a jej %n registrovanú skratku</numerusform>
             <numerusform> a jej %n registrované skratky</numerusform>
-            <numerusform> a ich %n registrované skratky</numerusform>
+            <numerusform> a jej %n registrovaných skratiek</numerusform>
         </translation>
     </message>
     <message>
@@ -8643,10 +8643,10 @@ Naozaj chcete pokračovať?</numerusform>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>Chystáte sa odstrániť „%1“%2.
-Toto môže byť trvalé a plne odstráni túto inštanciu.
+        <translation>Chystáte sa odstrániť inštanciu „%1“%2.
+Táto akcia môže byť trvalá a celá inštancia bude odstránená.
 
-Ste si istí?</translation>
+Naozaj ju chcete odstrániť?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
@@ -8669,27 +8669,27 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>Váš priečinok inštancií obsahuje „!“, je známe, že toto spôsobuje Java problémy!</translation>
+        <translation>Priečinok s inštanciami obsahuje „!“ a je známe, že to spôsobuje Jave problémy!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>Teraz máte dve možnosti: &lt;br/&gt; - zmente priečinok inštancie v nastaveniach &lt;br/&gt; - presuňte túto inštaláciu %1 do iného priečinku</translation>
+        <translation>Teraz máte dve možnosti: &lt;br/&gt; - zmeniť priečinok inštancie v nastaveniach &lt;br/&gt; - presunúť túto inštaláciu %1 do iného priečinku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>Toto je problém: &lt;br/&gt; - Launcher bude pravdepodobne odstránený bez varovania operačným systémom &lt;br/&gt; - uzavrite launcher teraz a extrahujte ho do reálneho priečinku, nie do dočasného</translation>
+        <translation>To je problém: &lt;br/&gt; - launcher bude pravdepodobne bez varovania odstránený operačným systémom &lt;br/&gt; - zavrite launcher a extrahujte ho do reálneho priečinku, nie do dočasného</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1746"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Priečinok inštancie obsahuje „Rar$“ - znamená to, že ste launcher neextrahovali z archívu!</translation>
+        <translation>Priečinok s inštanciami obsahuje „Rar$“ - to znamená, že ste launcher neextrahovali z archívu!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1752"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>Priečinok inštancie je v dočasnom priečinku: „%1“!</translation>
+        <translation>Priečinok s inštanciami je v dočasnom priečinku: „%1“!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1766"/>
@@ -8732,12 +8732,12 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
-        <translation>Informácie o balíku</translation>
+        <translation>Informácie o balíčku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
-        <translation>Názov balíku:</translation>
+        <translation>Názov balíčka:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -8747,7 +8747,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation>Informácie o poskytovateľovi:</translation>
+        <translation>Informácie o zdroji:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
@@ -8757,7 +8757,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="155"/>
         <source>Fetching versions...</source>
-        <translation>Načítavanie verzií...</translation>
+        <translation>Načítavajú sa verzie...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="168"/>
@@ -8776,7 +8776,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="189"/>
         <source>No changelog available for this version!</source>
-        <translation>Pre túto verziu nie je dostupný žiaden zoznam zmien!</translation>
+        <translation>Pre túto verziu nie je dostupný záznam zmien!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="204"/>
@@ -8794,7 +8794,7 @@ Môže byť aktualizovaný iba pomocou súboru vo formáte %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation>Web-stránka: &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID Balíka: %3    |    ID verzie: %4</translation>
+        <translation>Web: &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID balíčka: %3    |    ID verzie: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="206"/>
@@ -8814,7 +8814,7 @@ Môže byť aktualizovaný iba pomocou súboru vo formáte %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Úloha bola prerušená použivateľom.</translation>
+        <translation>Úloha bola prerušená používateľom.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="219"/>
@@ -8825,7 +8825,7 @@ Môže byť aktualizovaný iba pomocou súboru vo formáte %1
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
         <source>Update Pack</source>
-        <translation>Aktualizovať balík</translation>
+        <translation>Aktualizovať balíček</translation>
     </message>
     <message>
         <source>Update pack</source>
@@ -8834,7 +8834,7 @@ Môže byť aktualizovaný iba pomocou súboru vo formáte %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="147"/>
         <source>URL:</source>
-        <translation>Adresa URL:</translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
@@ -8844,9 +8844,9 @@ Do not use a different format than the one mentioned as it may break the instanc
 Make sure you also trust the URL.
 </source>
         <translation>Toto je lokálny modpack.
-Môže byť aktualizovaný pomocou súboru vo formáte %1 alebo pomocou adresy URL.
-Nepoužívajte iný formát než ten spomenutý, pretože môže pokaziť inštanciu.
-Taktiež buďte istý, že adrese URL dôverujete.
+Môže byť aktualizovaný pomocou súboru vo formáte %1 alebo pomocou URL.
+Nepoužívajte iný formát, pretože môže pokaziť inštanciu.
+Uistite sa, že URL dôverujete.
 </translation>
     </message>
     <message>
@@ -8857,7 +8857,7 @@ Taktiež buďte istý, že adrese URL dôverujete.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="241"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>Nepodarilo sa vyžiadať zoznam zmien pre tento modpack.</translation>
+        <translation>Nepodarilo sa vyžiadať si záznam zmien pre tento modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="243"/>
@@ -8867,22 +8867,22 @@ Taktiež buďte istý, že adrese URL dôverujete.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <source>Update Successful</source>
-        <translation>Aktualizácia úspešná</translation>
+        <translation>Aktualizácia bola úspešná</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="345"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation>Inštancia bola úspešne aktualizovaná na verziu balíku %1.</translation>
+        <translation>Inštancia bola úspešne aktualizovaná na verziu balíčka %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>Update Failed</source>
-        <translation>Aktualizácia umrela</translation>
+        <translation>Aktualizácia zlyhala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation>Aktualizácia inštancie na verziu balíku %1 zlyhala. Prosím skontrolujte záznamy launcheru pre viacej informácií.</translation>
+        <translation>Aktualizácia inštancie na verziu balíčka %1 zlyhala. Viac informácií môže byť k dispozícii v logoch launchera.</translation>
     </message>
 </context>
 <context>
@@ -11090,7 +11090,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="101"/>
         <source>Delete the selected log</source>
-        <translation>Vymazať vybraný záznam</translation>
+        <translation>Vymazať vybraný log</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
@@ -11100,7 +11100,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="111"/>
         <source>Delete all the logs</source>
-        <translation>Vymazať všetky záznamy</translation>
+        <translation>Vymazať všetky logy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="114"/>
@@ -11125,7 +11125,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>Kopírovať celý záznam do schránky</translation>
+        <translation>Skopírovať celý log do schránky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
@@ -11135,7 +11135,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation>Odoslať log do &quot;paste&quot; služby, ktorá je nakonfigurovaná v nastaveniach</translation>
+        <translation>Nahrať log do služby na zdieľanie textu nakonfigurovanej v nastaveniach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
@@ -11238,9 +11238,9 @@ This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
         <translation>Chystáte sa odstrániť „%1“.
-Toto môže byť trvalé a zmizne z priečinku záznamov.
+Táto akcia môže byť trvalá a položka zmizne z priečinka s logmi.
 
-Ste si istí?</translation>
+Naozaj to chcete odstrániť?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
@@ -11250,7 +11250,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="412"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation>Ste si istí, že chcete odstrániť všetky súbory záznamov?</translation>
+        <translation>Naozaj chcete odstrániť všetky súbory logov?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="415"/>
@@ -11698,7 +11698,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="100"/>
         <source>Log debug to console.</source>
-        <translation>Logovať konzolu pre debug.</translation>
+        <translation>Logovať ladiace informácie do konzoly.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="101"/>
@@ -11718,12 +11718,12 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>Program na aktualizáciu nedokázal vytvoriť súbor protokolu – %1.
+        <translation>Aktualizačnému programu sa nepodarilo vytvoriť súbor logu – %1.
 
 Uistite sa, že máte oprávnenie na zápis do priečinka s dátami.
 (%2)
 
-Program na aktualizáciu nemôže pokračovať, kým tento problém nevyriešite.</translation>
+Aktualizačný program nemôže pokračovať, kým tento problém nevyriešite.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -11899,18 +11899,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation>V tejto inštalácii sa nachádza súbor blokujúci aktualizáciu v umiestnení: %1
+        <translation>Táto inštalácia obsahuje súbor uzamknutia z dôvodu aktualizácie na: %1
 
-Časová pečiatka: %2
+Čas: %2
 Aktualizácia z verzie %3 na verziu %4
-Cieľová inštalačná cesta: %5
+Cieľová cesta inštalácie: %5
 Cesta k dátam: %6
 To pravdepodobne znamená, že predchádzajúci pokus o aktualizáciu zlyhal. Pred pokračovaním sa uistite, že vaša inštalácia funguje správne.
-Podrobnosti o poslednom pokuse o aktualizáciu nájdete v protokole aktualizátora Prism Launcher na adrese: 
+Podrobnosti o poslednom pokuse o aktualizáciu nájdete v logu aktualizačného programu Prism Launchera na: 
 %7
 .
 
-Ak chcete tento zámok prepisovať a pokračovať v aktualizácii aj tak, vyberte nižšie možnosť „Ignorovať“.</translation>
+Ak chcete tento zámok prepísať a pokračovať v aktualizácii aj tak, vyberte nižšie možnosť „Ignorovať“.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="890"/>
@@ -12351,18 +12351,18 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation>Protokol obsahuje %1 riadkov, čo presahuje limit programu mclo.gs, ktorý je %2 riadkov.
+        <translation>Log má %1 riadkov, čo presahuje limit programu mclo.gs, ktorý je %2 riadkov.
 Launcher môže zachovať prvých %3 a posledných %4 riadkov a strednú časť vynechať.
 
-Ak zvolíte možnosť „Nie“, program mclo.gs zachová len prvých %2 riadkov, čím sa vynechajú potenciálne užitočné informácie, ako napríklad zlyhania na konci.
+Ak zvolíte možnosť „Nie“, program mclo.gs zachová len prvých %2 riadkov, čím sa vynechajú potenciálne užitočné informácie na konci, napríklad fatálne chyby.
 
-Chcete pokračovať v skrátení?</translation>
+Chcete pokračovať so skráteným logom?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa nahrať logy!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
@@ -12386,7 +12386,7 @@ Chcete pokračovať v skrátení?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;Linka k odoslanému logu&lt;/a&gt; bola uložená do clipboardu.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Odkaz na zdieľaný log&lt;/a&gt; bol skopírovaný do schránky.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="374"/>
@@ -13201,7 +13201,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa spracovať odpoveď od servera mclogs: očakával sa JSON, ale bola prijatá neplatná odpoveď. Chyba: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
@@ -14337,7 +14337,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte sa odstrániť „%1“ snímok obrazovky.
+Táto akcia môže byť trvalá a snímky obrazovky zmiznú zo svojho priečinka.
+
+Naozaj ich chcete odstrániť?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="552"/>
@@ -14345,7 +14348,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte sa odstrániť vybranú snímku obrazovky.
+Táto akcia môže byť trvalá a snímka obrazovky zmizne zo svojho priečinka.
+
+Naozaj ju chcete odstrániť?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="558"/>
@@ -16149,7 +16155,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="328"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektoré komponenty sa nepodarilo importovať. Podrobnosti môžu byť k dispozícii v logoch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
@@ -16414,12 +16420,12 @@ Prosím pridajte Mojang alebo Minecraft účet.</translation>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="8"/>
         <source>Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Logy launchera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
         <source>View Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť logy launchera</translation>
     </message>
 </context>
 <context>
