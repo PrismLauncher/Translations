@@ -7443,12 +7443,12 @@ Motiu:
         <translation>Iniciant sessió amb el compte de Microsoft (codi de dispositiu).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
         <translation>No s&apos;ha pogut autoritzar el dispositiu: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
         <translation>No s&apos;ha pogut obtenir l&apos;autorització del dispositiu</translation>
     </message>

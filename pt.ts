@@ -7631,12 +7631,12 @@ Motivo:
         <translation>A iniciar sessão com a conta Microsoft(código do dispositivo).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
         <translation>A autorização do dispositivo falhou: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
         <translation>Não foi possível adquirir a autorização do dispositivo</translation>
     </message>

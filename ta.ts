@@ -6762,12 +6762,12 @@ Reason:
         <translation>நுண்மென் கணக்கு (சாதனக் குறியீடு) உடன் உள்நுழைக.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
         <translation>சாதன ஏற்பு தோல்வியடைந்தது: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
         <translation>சாதன அங்கீகாரத்தை மீட்டெடுப்பதில் தோல்வி</translation>
     </message>

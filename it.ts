@@ -7751,12 +7751,12 @@ Causa:
         <translation>Accesso con account Microsoft(codice dispositivo).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
         <translation>Autorizzazione dispositivo fallita: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
         <translation>Impossibile ottenere autorizzazione dispositivo</translation>
     </message>

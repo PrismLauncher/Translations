@@ -7575,12 +7575,12 @@ Motiv:
         <translation type="unfinished">Conectare cu contul Microsoft (codul dispozitivului).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
         <translation>Autorizarea dispozitivului a eșuat: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
         <translation>Nu s-a putut obține autorizarea dispozitivului</translation>
     </message>

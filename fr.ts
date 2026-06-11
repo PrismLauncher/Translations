@@ -7813,12 +7813,12 @@ Raison&#xa0;:
         <translation>Se connecter avec un compte Microsoft (Code d&apos;appareil).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
         <translation>L&apos;autorisation de l&apos;appareil a échouée&#x202f;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Failed to retrieve device authorization</source>
         <translation>Impossible de récupérer l&apos;autorisation d&apos;appareil</translation>
     </message>
