@@ -611,11 +611,11 @@
             "untranslated" : 336
         },
         "ru" : {
-            "file" : "1464b94fe5b66b2579c301ace73c2ab4d1b4a482.class",
-            "sha1" : "1464b94fe5b66b2579c301ace73c2ab4d1b4a482",
-            "size" : 350633,
-            "translated" : 2373,
-            "fuzzy" : 1,
+            "file" : "9d6336d65b22f56f9de52510b41d0878847f017c.class",
+            "sha1" : "9d6336d65b22f56f9de52510b41d0878847f017c",
+            "size" : 350681,
+            "translated" : 2374,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "sk" : {
