@@ -6123,7 +6123,7 @@ Verzi Javy můžete později změnit v nastavení.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>Auto-download Mojang Java</source>
-        <translation>Automaticky stáhnout Mojang Java</translation>
+        <translation>Automaticky stáhnout Mojang Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
@@ -13688,7 +13688,7 @@ Pokračovat se zkrácením?</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>Nepodařilo se zjistit URL hlavní jar - Mojang odebral server, který jsme používali jako záložní.</translation>
+        <translation>Nepodařilo se zjistit adresu hlavního souboru jar – Mojang odebral server, který jsme používali jako záložní.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="268"/>
