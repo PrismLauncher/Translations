@@ -7206,7 +7206,7 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se spustit Minecraft: %1</translation>
     </message>
     <message>
         <source>Could not launch Minecraft!</source>
@@ -7683,7 +7683,7 @@ Důvod:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se spustit proces: %1</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
