@@ -5950,6 +5950,11 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
+        <source>Could not launch Minecraft: %1</source>
+        <extracomment>Error message displayed if instace can&apos;t start</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
@@ -6358,6 +6363,10 @@ Raison :
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
+        <source>The process failed to start: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The process failed to start.</source>
         <translation>Le processus à raté son démarrage.</translation>
     </message>
