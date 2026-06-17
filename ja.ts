@@ -8056,7 +8056,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation>お知らせをさらに表示...</translation>
+        <translation>その他のお知らせ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -9953,7 +9953,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
         <source>Show More</source>
-        <translation>表示を増やす</translation>
+        <translation>さらに表示</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
@@ -12162,7 +12162,7 @@ Reason: %1.</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>No Update Available</source>
-        <translation>利用可能なアップデートなし</translation>
+        <translation>アップデートなし</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
