@@ -152,7 +152,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
-        <translation>Agente do Usuário</translation>
+        <translation>Agente do utilizador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
@@ -212,11 +212,11 @@
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Falha ao obter o índice de meta dados local para %1</translation>
+        <translation>Não foi possível obter o índice de metadados local para %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Falha ao obter o índice de meta dados local para &apos;%1&apos; v%2</translation>
+        <translation>Não foi possível obter o índice de metadados local para &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
@@ -292,7 +292,7 @@
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Falha ao extrair mods...</translation>
+        <translation>Não foi possível extrair os mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
@@ -304,7 +304,7 @@
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Falha ao criar componente de bibliotecas</translation>
+        <translation>Não foi possível criar o componente de bibliotecas</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
@@ -312,7 +312,7 @@
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Falha ao criar componente de pacote</translation>
+        <translation>Não foi possível criar o componente de pacote</translation>
     </message>
 </context>
 <context>
@@ -738,7 +738,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Do you really want to delete this account?</source>
-        <translation>você quer mesmo apagar esta conta?</translation>
+        <translation>De certeza que queres apagar esta conta?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -856,7 +856,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation>Escala do Gato</translation>
+        <translation>Escala do gato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -1062,7 +1062,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/Application.cpp" line="1991"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>Falha na migração! Motivo: %1</translation>
+        <translation>Não foi possível migrar! Motivo: %1</translation>
     </message>
 </context>
 <context>
@@ -1121,7 +1121,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
         <source>Failed to read the assets index!</source>
-        <translation>Falha ao ler o índice de ficheiros!</translation>
+        <translation>Não foi possível ler o índice de ficheiros!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
@@ -1142,14 +1142,14 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Falha ao transferir o índice de recursos:
+        <translation>Não foi possível transferir o índice de recursos:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Falha ao transferir os recursos:
+        <translation>Não foi possível transferir os recursos:
 %1</translation>
     </message>
 </context>
@@ -1326,7 +1326,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Falha ao contactar o servidor de autenticação.</translation>
+        <translation>Não foi possível contactar o servidor de autenticação.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
@@ -1341,12 +1341,12 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>Falha ao autenticar. A sessão expirou.</translation>
+        <translation>Não foi possível autenticar. A sessão expirou.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>Falha ao autenticar. Esta conta já não existe.</translation>
+        <translation>Não foi possível autenticar. Esta conta já não existe.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
@@ -1663,7 +1663,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation>Não foi possível baixar os metadatas de %1 %2. Por favor mude a versão ou tente novamente.</translation>
+        <translation>Não foi possível transferir os metadados de %1 %2. Muda a versão ou tenta mais tarde.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="815"/>
@@ -1678,7 +1678,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <source>Failed to abort all running tasks.</source>
-        <translation>Falha ao interromper todas as tarefas em execução.</translation>
+        <translation>Não foi possível interromper todas as tarefas em execução.</translation>
     </message>
     <message>
         <source>One or more subtasks failed</source>
@@ -2342,12 +2342,12 @@ Aviso: Este recurso está ligado a outro sítio. A sua edição também irá alt
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation>Baixar Pacotes</translation>
+        <translation>Transferir pacotes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation>Baixar data packs de plataformas de mod online</translation>
+        <translation>Transferir pacotes de dados de plataformas de mods online</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
@@ -2362,7 +2362,7 @@ Aviso: Este recurso está ligado a outro sítio. A sua edição também irá alt
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="81"/>
         <source>Download Data Packs</source>
-        <translation>Baixar Data Packs</translation>
+        <translation>Transferir pacotes de dados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="83"/>
@@ -2386,7 +2386,7 @@ Aviso: Este recurso está ligado a outro sítio. A sua edição também irá alt
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Download stopped by user.</source>
-        <translation>Transferência suspendida pelo usuário.</translation>
+        <translation>Transferência suspendida pelo utilizador.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="93"/>
@@ -2456,8 +2456,8 @@ Tem certeza que quer fazer isso?</translation>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="208"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation>Você está prestes a remover metadados de %1 data packs.
-Deseja prosseguir?</translation>
+        <translation>Está prestes a remover os metadados de %1 data packs.
+Tens a certeza?</translation>
     </message>
 </context>
 <context>
@@ -2731,7 +2731,7 @@ Esta instância não pode iniciar porque algumas bibliotecas estão em falta ou 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <source>Unable to export instance</source>
-        <translation>Falha ao exportar a instância</translation>
+        <translation>Não foi possível exportar a instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
@@ -2929,7 +2929,7 @@ Esta instância não pode iniciar porque algumas bibliotecas estão em falta ou 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>The task has been aborted by the user.</source>
-        <translation>A tarefa foi abortada pelo usuário.</translation>
+        <translation>A tarefa foi abortada pelo utilizador.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="208"/>
@@ -3572,7 +3572,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation>Falha ao encontrar a versão do pacote %1</translation>
+        <translation>Não foi possível encontrar a versão do pacote %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
@@ -3811,7 +3811,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Falha ao obter o índice de metadados local para %1</translation>
+        <translation>Não foi possível obter o índice de metadados local para %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
@@ -4139,7 +4139,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation>Falha ao criar a pasta de executáveis do Minecraft.</translation>
+        <translation>Não foi possível criar a pasta de executáveis do Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -4346,7 +4346,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
         <source>Legacy</source>
-        <translation type="unfinished">Antiga</translation>
+        <translation>Antigo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
@@ -4356,7 +4356,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Custom</source>
-        <translation type="unfinished">Personalizado</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
@@ -5161,7 +5161,7 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="966"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>Falha ao fazer o commit da instância, mesmo tentando várias vezes. Alguma coisa está a bloquear isto.</translation>
+        <translation>Não foi possível fazer o commit da instância, mesmo tentando várias vezes. Alguma coisa está a bloquear isto.</translation>
     </message>
 </context>
 <context>
@@ -5388,7 +5388,7 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation>Falha ao encontrar o caminho do binário Java</translation>
+        <translation>Não foi possível encontrar o caminho do binário Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
@@ -5859,9 +5859,9 @@ Podes alterar a versão do Java nas definições mais tarde.
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Você selecionou uma versão 32-bit do Java
-Está instalação não suporta mais que 2048Mib de RAM
-Se certifique que o valor máximo de memória é menor.</translation>
+        <translation>Selecionaste uma versão 32-bit do Java
+Esta instalação não suporta mais que 2048Mib de RAM
+Certifica-te de que o valor máximo de memória é menor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="300"/>
@@ -6191,7 +6191,7 @@ Queres jogar a demonstração?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="331"/>
         <source>Account refresh failed</source>
-        <translation>Falha ao atualizar a conta</translation>
+        <translation>Não foi possível atualizar a conta</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
@@ -6389,7 +6389,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="236"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation>[Erro de Análise do Log4j] Falha ao analisar o evento de log do log4j: %1</translation>
+        <translation>[Erro de Análise do Log4j] Não foi possível analisar o evento de log do log4j: %1</translation>
     </message>
 </context>
 <context>
@@ -6407,12 +6407,12 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation>Falha ao obter o token de acesso do Minecraft: %1</translation>
+        <translation>Não foi possível obter o token de acesso do Minecraft: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation>Falha ao analisar a resposta do token de acesso do Minecraft.</translation>
+        <translation>Não foi possível analisar a resposta do token de acesso do Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
@@ -7038,7 +7038,7 @@ Garantindo %1 acesso a essa pasta por via de Flatseal é recomendado.</translati
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível iniciar o Minecraft: %1</translation>
     </message>
     <message>
         <source>Could not launch Minecraft!</source>
@@ -7077,7 +7077,7 @@ Garantindo %1 acesso a essa pasta por via de Flatseal é recomendado.</translati
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Falha ao criar a pasta da biblioteca do FML na instância.</translation>
+        <translation>Não foi possível criar a pasta da biblioteca do FML na instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
@@ -7146,7 +7146,7 @@ Por favor tente de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="127"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>Falha ao transferir algumas listas de pacotes: %1</translation>
+        <translation>Não foi possível transferir algumas listas de pacotes: %1</translation>
     </message>
 </context>
 <context>
@@ -7178,7 +7178,7 @@ Por favor tente de novo.</translation>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation>Falha ao mover o Minecraft descompactado!</translation>
+        <translation>Não foi possível mover o Minecraft descompactado!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
@@ -7255,7 +7255,7 @@ Por favor tente de novo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="225"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation>Falha ao transferir informação do pacote para o código %1.
+        <translation>Não foi possível transferir informação do pacote para o código %1.
 Pretendes remover este pacote?</translation>
     </message>
     <message>
@@ -7515,11 +7515,11 @@ Motivo:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível iniciar o processo: %1</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>O processo falhou ao iniciar.</translation>
+        <translation>Não foi possível iniciar o processo.</translation>
     </message>
 </context>
 <context>
@@ -7611,7 +7611,7 @@ Motivo:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation>Falha ao analisar o ficheiro %1</translation>
+        <translation>Não foi possível analisar o ficheiro %1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -7791,7 +7791,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="160"/>
         <source>Microsoft user authentication failed.</source>
-        <translation>Falha ao autenticar o utilizador Microsoft.</translation>
+        <translation>Não foi possível autenticar o utilizador Microsoft.</translation>
     </message>
     <message>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
@@ -8839,7 +8839,7 @@ Por favor crie uma nova instância antes de tentar instalar este recurso novamen
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
         <source>Failed to undo trashing instance</source>
-        <translation>Falha ao desfazer a destrução da instância</translation>
+        <translation>Não foi possível desfazer a destrução da instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
@@ -10667,7 +10667,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="431"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation>Você precisa instalar um mod loader compatível para instalar mods. Quer fazê-lo?</translation>
+        <translation>Precisas de instalar um carregador de mods compatível para instalar mods. Pretendes fazê-lo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="268"/>
@@ -10731,7 +10731,7 @@ Quer desativá-los?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation>Falha ao criar a pasta bin para a minecraft.jar</translation>
+        <translation>Não foi possível criar a pasta bin para a minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="59"/>
@@ -10741,7 +10741,7 @@ Quer desativá-los?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation>Falha ao criar a minecraft.jar personalizada.</translation>
+        <translation>Não foi possível criar a minecraft.jar personalizada.</translation>
     </message>
 </context>
 <context>
@@ -11139,7 +11139,7 @@ Por favor atualiza %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="193"/>
         <source>Failed to parse versions response: %1</source>
-        <translation>Falha ao avaliar reposta relativa às versões: %1</translation>
+        <translation>Não foi possível avaliar reposta relativa às versões: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="202"/>
@@ -11933,12 +11933,12 @@ Tens a certeza de que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Falha ao obter o índice do metadados local para %1</translation>
+        <translation>Não foi possível obter o índice do metadados local para %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Falha ao encontrar a versão do carregador %1</translation>
+        <translation>Não foi possível encontrar a versão do carregador %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
@@ -12004,7 +12004,7 @@ Tens a certeza de que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
         <source>Failed to extract mods...</source>
-        <translation>Falha ao extrair mods...</translation>
+        <translation>Não foi possível extrair mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
@@ -12349,12 +12349,12 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>O atualizador não conseguiu criar um ficheiro log - %1.
+        <translation>O atualizador não conseguiu criar um ficheiro de registo - %1.
 
-Certifique-se de que tem permissão de editar a pasta dos dados.
+Certifica-te de que tens permissão para editar a pasta dos dados.
 (%2)
 
-O atualizador não pode continuar até você consertar este problema.</translation>
+O atualizador não consegue continuar até que resolvas este problema.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -12662,7 +12662,7 @@ Para reescrever o ficheiro de bloqueio e prosseguir com esta atualização de qu
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1074"/>
         <source>Failed to launch child process to read version.</source>
-        <translation>Falha ao iniciar o processo filho para ler a versão.</translation>
+        <translation>Não foi possível iniciar o processo filho para ler a versão.</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
@@ -12764,7 +12764,7 @@ Escolhe o teu nome com cuidado:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="191"/>
         <source>Failed to check name availability.</source>
-        <translation>Falha ao verificar a disponibilidade do nome de utilizador.</translation>
+        <translation>Não foi possível verificar a disponibilidade do nome de utilizador.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="270"/>
@@ -13034,7 +13034,7 @@ Prosseguir com o truncamento?</translation>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
-        <translation>Falha ao enviar registos!</translation>
+        <translation>Não foi possível enviar registos!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
@@ -13797,14 +13797,14 @@ Do you wish to proceed?</source>
 
 %2 pode fazer com que a outra instância pare de funcionar,
 
-Você quer prosseguir?</numerusform>
+Pretendes prosseguir?</numerusform>
             <numerusform>As seguintes instâncias podem referenciar ficheiros nesta instância:
 
 %1
 
 %2 pode fazer com que as outras instâncias parem de funcionar,
 
-Quer prosseguir?</numerusform>
+Pretendes prosseguir?</numerusform>
         </translation>
     </message>
     <message>
@@ -13866,7 +13866,7 @@ Quer prosseguir?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
         <source>Failed to create icon for application.</source>
-        <translation>Falha ao criar ícone para a aplicação.</translation>
+        <translation>Não foi possível criar ícone para a aplicação.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
@@ -13883,7 +13883,7 @@ Quer prosseguir?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Falha ao criar ícone para atalho.</translation>
+        <translation>Não foi possível criar ícone para atalho.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
@@ -13893,7 +13893,7 @@ Quer prosseguir?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
         <source>Failed to create %1 shortcut!</source>
-        <translation>Falha ao criar atalho %1!</translation>
+        <translation>Não foi possível criar atalho %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
@@ -13913,7 +13913,7 @@ Quer prosseguir?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation>Falha ao criar a pasta de instâncias na pasta de aplicações!</translation>
+        <translation>Não foi possível criar a pasta de instâncias na pasta de aplicações!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
@@ -13943,7 +13943,7 @@ Quer prosseguir?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>Falha ao analisar resposta do servidor hastebin: esperava um JSON, porém recebi uma resposta inválida. Erro:%1</translation>
+        <translation>Não foi possível analisar resposta do servidor hastebin: esperava um JSON, porém recebi uma resposta inválida. Erro:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="140"/>
@@ -13955,7 +13955,7 @@ Quer prosseguir?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>Falha ao analisar resposta dos servidores mclogs: esperava um JSON, porém recebi uma resposta inválida. Erro: %1</translation>
+        <translation>Não foi possível analisar resposta dos servidores mclogs: esperava um JSON, porém recebi uma resposta inválida. Erro: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
@@ -13965,7 +13965,7 @@ Quer prosseguir?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>Falha ao analisar resposta dos servidores pasteGG: esperava um JSON, porém recebi uma resposta inválida. Erro: %1</translation>
+        <translation>Não foi possível analisar resposta dos servidores pasteGG: esperava um JSON, porém recebi uma resposta inválida. Erro: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
@@ -14417,7 +14417,7 @@ Provavelmente o autor bloqueou launchers de terceiros.</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="131"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation>Falha ao renomear configuração de shader de &apos;%1&apos; para &apos;%2&apos;</translation>
+        <translation>Não foi possível renomear configuração de shader de &apos;%1&apos; para &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -14866,7 +14866,7 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Failed to check for updates</source>
-        <translation>Falha ao verificar atualizações</translation>
+        <translation>Não foi possível verificar atualizações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="184"/>
@@ -15118,7 +15118,7 @@ Tens a certeza?</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="479"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
         <source>Failed to upload screenshots!</source>
-        <translation>Falha ao enviar capturas de ecrã!</translation>
+        <translation>Não foi possível enviar capturas de ecrã!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
@@ -15146,7 +15146,7 @@ Tens a certeza?</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>The task has been aborted by the user.</source>
-        <translation>A tarefa foi abortada pelo usuário.</translation>
+        <translation>A tarefa foi abortada pelo utilizador.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
@@ -15428,12 +15428,12 @@ Tens a certeza que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation>Falha ao migrar metadados do pacote de shaders do .index</translation>
+        <translation>Não foi possível migrar metadados do pacote de shaders do .index</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation>Falha ao remover pasta .index antiga</translation>
+        <translation>Não foi possível remover pasta .index antiga</translation>
     </message>
 </context>
 <context>
@@ -15739,7 +15739,7 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Failed to upload skin!</source>
-        <translation>Falha ao enviar a skin!</translation>
+        <translation>Não foi possível enviar a skin!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="332"/>
@@ -15754,7 +15754,7 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Failed to delete current skin!</source>
-        <translation>Falha ao eliminar a skin atual!</translation>
+        <translation>Não foi possível eliminar a skin atual!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
@@ -15832,7 +15832,7 @@ Tens a certeza?</translation>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="508"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"/>
         <source>failed to parse get user UUID response</source>
-        <translation>falha ao analisar a resposta do UUID do usuário</translation>
+        <translation>não foi possível analisar a resposta UUID do utlizador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="517"/>
@@ -15842,7 +15842,7 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="531"/>
         <source>failed to parse get user profile response</source>
-        <translation>falha ao analisar a resposta do perfil do usuário</translation>
+        <translation>não foi possível analisar a resposta do perfil do utilizador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="548"/>
@@ -16026,7 +16026,7 @@ porque: %2.</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
         <source>Failed to extract modpack</source>
-        <translation>Falha ao extrair modpack</translation>
+        <translation>Não foi possível extrair modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="116"/>
@@ -16088,7 +16088,7 @@ porque: %2.</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="182"/>
         <source>Failed to extract modpack</source>
-        <translation>Falha ao extrair modpack</translation>
+        <translation>Não foi possível extrair modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="203"/>
@@ -17426,7 +17426,7 @@ Por favor adiciona a tua conta Mojang ou Minecraft.</translation>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>List update failed:
 %1</source>
-        <translation>Falha ao atualizar lista:
+        <translation>Não foi possível atualizar lista:
 %1</translation>
     </message>
 </context>
@@ -17751,7 +17751,7 @@ Tens a certeza de que queres prosseguir?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Falha ao obter autorização para serviços %1. Erro %2.</translation>
+        <translation>Não foi possível obter autorização para serviços %1. Erro %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
@@ -17796,7 +17796,7 @@ Tens a certeza de que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="122"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Live não está disponível no seu país. Você foi bloqueado.</translation>
+        <translation>O Xbox Live não está disponível no teu país. Foste bloqueado.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -17880,12 +17880,12 @@ Por favor, configura a tua conta de acordo com %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation>Autenticação do usuário Xbox falhou: %1</translation>
+        <translation>Não foi possível autenticar o utlizador Xbox: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation>Resposta à autenticação do usuário Xbox não pôde ser entendida.</translation>
+        <translation>Não foi possível ententer a resposta da autenticação Xbox.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
