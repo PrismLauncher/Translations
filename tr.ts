@@ -13842,7 +13842,7 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation>Belirtilen Java binary çalışmadı.&lt;br/&gt;&quot;Algıla&quot;&apos;ya basın ya da Java executable&apos;a yol açın.&lt;br/&gt;</translation>
+        <translation>Belirtilen Java yürütülebilir dosyası çalışmadı.&lt;br /&gt;&apos;Algıla&apos; düğmesine basmalı veya Java yürütülebilir dosyasının yolunu ayarlamalısınız.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
