@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Serviciu Pastebin</translation>
+        <translation>&amp;Serviciu Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
@@ -54,12 +54,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Librări FML Vechi pentru Server</translation>
+        <translation>Librări FML vechi pentru Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Poti schimba la un alt server dacă ai probleme cu descărcarea librăriilor FML vechi (Minecraft 1.5.2 și mai devreme).</translation>
+        <translation>Poți schimba la un alt server dacă ai probleme cu descărcarea librăriilor FML vechi (Minecraft 1.5.2 și mai devreme).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
         <source>Mod&amp;rinth</source>
-        <translation>Modrinth</translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
@@ -627,7 +627,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>&amp;Reîncarcă</translation>
+        <translation>&amp;Reîmprospătează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="102"/>
@@ -2177,7 +2177,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
         <source>No mod loader is selected.</source>
-        <translation>Niciun încărcător de moduri nu este selectat.</translation>
+        <translation>Niciun încărcător de moduri selectat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
@@ -4318,7 +4318,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation>Modpack-uri</translation>
+        <translation>Pachete de moduri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
@@ -6521,7 +6521,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="358"/>
         <source>&amp;Icons:</source>
-        <translation>P&amp;ictograme:</translation>
+        <translation>&amp;Pictograme:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
@@ -6590,7 +6590,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>By &amp;name</source>
-        <translation>Dupa &amp;nume</translation>
+        <translation>După &amp;nume</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -6634,7 +6634,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="407"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Dezactivate metadatelor modurilor ar putea duce la dezactivarea unor funcții QoL, cum ar fi actualizarea modurilor!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Atenție&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Dezactivate metadatelor modurilor ar putea duce la dezactivarea unor funcții QoL, cum ar fi actualizarea modurilor!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Legacy</source>
@@ -7005,12 +7005,12 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Se caută bibliotecile FML...</translation>
+        <translation>Se caută bibliotecile FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Se descarcă librăriile FML...</translation>
+        <translation>Se descarcă librăriile FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -7019,17 +7019,17 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Se copiază bibliotecile FML în instanță...</translation>
+        <translation>Se copiază bibliotecile FML în instanță...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Nu s-a reușit crearea folderului bibliotecii FML în interiorul instanței.</translation>
+        <translation>Nu s-a reușit crearea folderului bibliotecii FML în interiorul instanței.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Nu s-a putut copia biblioteca Forge/FML: %1.</translation>
+        <translation>Nu s-a putut copia biblioteca Forge/FML: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -7038,7 +7038,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Descărcarea următoarelor fișiere a eșuat:
+        <translation>Descărcarea următoarelor fișiere a eșuat:
 %1
 
 Motiv:%2
@@ -7559,12 +7559,12 @@ Motiv:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished">Nu s-a putut interpreta fișierul %1</translation>
+        <translation>Nu s-a putut interpreta fișierul %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished">Extragerea %1 a fost anulată, deoarece se afla efectiv în afara căii țintă %2</translation>
+        <translation>Extragerea %1 a fost anulată, deoarece se afla efectiv în afara căii țintă %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
@@ -7581,7 +7581,7 @@ Motiv:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished">Conectare cu contul Microsoft (codul dispozitivului).</translation>
+        <translation>Conectare cu contul Microsoft (codul dispozitivului).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
@@ -7635,7 +7635,7 @@ Motiv:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="231"/>
         <source>Status</source>
-        <translation>Stare</translation>
+        <translation>Starea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
@@ -7660,12 +7660,12 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished">Informații</translation>
+        <translation>Informații</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="205"/>
@@ -7698,7 +7698,7 @@ Motiv:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="148"/>
         <source>Got MSA token</source>
-        <translation type="unfinished">Am preluat tokenul MSA</translation>
+        <translation>Am preluat tokenul MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
@@ -8012,7 +8012,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
         <source>Status Bar</source>
-        <translation type="unfinished">Bara de stare</translation>
+        <translation>Bara de stare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
@@ -8022,17 +8022,17 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished">Creează o comandă rapidă pe un dosar selectat pentru a lansa instanța selectată.</translation>
+        <translation>Creează o comandă rapidă pe un dosar selectat pentru a lansa instanța selectată.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="539"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished">&amp;Instanțe</translation>
+        <translation>&amp;Instanțe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished">Deschideți folderul instanțelor într-un browser de fișiere.</translation>
+        <translation>Deschideți folderul instanțelor într-un browser de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
@@ -8052,27 +8052,27 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished">Deschideți folderul skin-uri într-un browser de fișiere.</translation>
+        <translation>Deschideți folderul skin-uri într-un browser de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
         <source>Instance Icons</source>
-        <translation type="unfinished">Pictograme instanță</translation>
+        <translation>Pictograme instanță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished">Deschideți folderul cu pictogramele instanțelor într-un explorator de fișiere.</translation>
+        <translation>Deschideți folderul cu pictogramele instanțelor într-un explorator de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Logs</source>
-        <translation type="unfinished">Loguri</translation>
+        <translation>Jurnale</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="597"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished">Deschideți folderul de loguri într-un explorer de fișiere.</translation>
+        <translation>Deschideți folderul de loguri într-un explorer de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
@@ -8114,7 +8114,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished">Deschideți folderul cu teme pentru widgeturi într-un browser de fișiere.</translation>
+        <translation>Deschideți folderul cu teme pentru widgeturi într-un browser de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
@@ -8124,7 +8124,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished">Deschideți folderul cu tema pictogramelor într-un browser de fișiere.</translation>
+        <translation>Deschideți folderul cu tema pictogramelor într-un browser de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
@@ -8139,13 +8139,13 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished">Deschideți folderul Java într-un explorator de fișiere. Disponibil numai dacă se utilizează programul de descărcare Java încorporat.</translation>
+        <translation>Deschideți folderul Java într-un explorator de fișiere. Disponibil numai dacă se utilizează programul de descărcare Java încorporat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
@@ -9323,12 +9323,12 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Setarile de aici sunt suprapuneri pentru setarile globale.</translation>
+        <translation>Setarile de aici sunt suprapuneri pentru setarile globale.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
@@ -9348,12 +9348,12 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Pornește Minecraft maximizat</translation>
+        <translation>Pornește Minecraft maximizat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Atenţie&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Este posibil ca opţiunea de maximizare să nu fie pe deplin compatibilă cu toate versiunile Minecraft&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Atenţie&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Este posibil ca opţiunea de maximizare să nu fie pe deplin compatibilă cu toate versiunile Minecraft. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -9371,12 +9371,12 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Arată timpul petrecut &amp;jucând instanțele</translation>
+        <translation>Arată timpul petrecut &amp;jucate instanțele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">&amp;Înregistrează timpul petrecut jucând instanțele</translation>
+        <translation>&amp;Înregistrează timpul petrecute jucând instanțele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
@@ -9411,12 +9411,12 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="578"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="602"/>
         <source>Tweaks</source>
-        <translation type="unfinished">Ajustări</translation>
+        <translation>Ajustări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="623"/>
@@ -9426,12 +9426,12 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="635"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulează utilizările vechilor servicii online care nu mai funcționează.&lt;/p&gt;&lt;p&gt;Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulează utilizările vechilor servicii online care nu mai funcționează.&lt;/p&gt;&lt;p&gt;Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="638"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Activează remedieri online (experimental)</translation>
+        <translation>Activează remedieri online (experimental)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="651"/>
@@ -9441,7 +9441,7 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Utilizați instalarea implicita de OpenAL</translation>
+        <translation>Utilizați instalarea implicita de OpenAL</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
@@ -9450,7 +9450,7 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="709"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Utilizați instalarea implicita de GLFW</translation>
+        <translation>Utilizați instalarea implicita de GLFW</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -9521,7 +9521,7 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished">Răsfoiește</translation>
+        <translation>Răsfoiește</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
@@ -9546,27 +9546,27 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
@@ -9616,7 +9616,7 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="751"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Pornește Feral GameMode</translation>
+        <translation>Pornește Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
@@ -9626,27 +9626,27 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="761"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Pornește MangoHud</translation>
+        <translation>Pornește MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="768"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folosește placa grafică dedicată în locul plăcii primare GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folosește placa grafică dedicată în locul plăcii primare GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="771"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Folosește placa grafică dedicată</translation>
+        <translation>Folosește placa grafică dedicată</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="778"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Folosiți Zink, un driver pentru Mesa OpenGL care implementează OpenGL pe deasupra lui Vulkan. Performața variază dependând pe situați. Notă: Dacă nu este nici-un driver Vulkan valabil, video va fi procesat în software (video rendering).</translation>
+        <translation>Folosiți Zink, un driver pentru Mesa OpenGL care implementează OpenGL pe deasupra lui Vulkan. Performața variază dependând pe situați. Notă: Dacă nu este nici-un driver Vulkan valabil, video va fi procesat în software (video rendering).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="781"/>
         <source>Use Zink</source>
-        <translation type="unfinished">Folosiți Zink</translation>
+        <translation>Folosiți Zink</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -9655,12 +9655,12 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="380"/>
         <source>Account:</source>
-        <translation type="unfinished">Cont:</translation>
+        <translation>Cont:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="442"/>
         <source>Server address:</source>
-        <translation type="unfinished">Adresă server:</translation>
+        <translation>Adresă server:</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
@@ -9669,12 +9669,12 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="809"/>
         <source>Custom Commands</source>
-        <translation type="unfinished">Comenzi personalizate</translation>
+        <translation>Comenzi personalizate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="819"/>
         <source>Environment Variables</source>
-        <translation type="unfinished">Variabile de Mediu</translation>
+        <translation>Variabile de Mediu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
@@ -9694,18 +9694,18 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="136"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">GameMode de la Feral Interactive nu a putut fi găsit în sistemul dumneavoastră.</translation>
+        <translation>GameMode de la Feral Interactive nu a putut fi găsit în sistemul dumneavoastră.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="141"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHud nu a putut fi găsit în sistemul dumneavoastră.</translation>
+        <translation>MangoHud nu a putut fi găsit în sistemul dumneavoastră.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="209"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="216"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Calea către fișierul bibliotecă %1</translation>
+        <translation>Calea către fișierul bibliotecă %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="565"/>
@@ -9756,7 +9756,7 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">Formă</translation>
+        <translation>Formă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -9771,22 +9771,22 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
@@ -9796,7 +9796,7 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
@@ -9881,12 +9881,12 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
         <source>Unknown</source>
-        <translation type="unfinished">Necunoscut</translation>
+        <translation>Necunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"/>
         <source>All Versions</source>
-        <translation type="unfinished">Toate versiunile</translation>
+        <translation>Toate versiunile</translation>
     </message>
 </context>
 <context>
@@ -9953,7 +9953,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Size</source>
-        <translation type="unfinished">Dimensiune</translation>
+        <translation>Dimensiune</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -9988,7 +9988,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished">Numele Fișierului</translation>
+        <translation>Numele Fișierului</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
@@ -10244,7 +10244,7 @@ Ignorarea lor ar putea ceda funcționarea jocului.</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="108"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished">Resetați actualizarea metadatei</translation>
+        <translation>Exportă metadatele modului într-un text.</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
@@ -10693,22 +10693,22 @@ Te rugăm actualizează %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Not installed</source>
-        <translation type="unfinished">Nu este instalat</translation>
+        <translation>Nu este instalat</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>Unknown</source>
-        <translation type="unfinished">Necunoscut</translation>
+        <translation>Necunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Nu a fost găsită nicio versiune validă pentru această resursă. Probabil este indisponibilă pentru această versiune a jocului / mod loader.</translation>
+        <translation>Nu a fost găsită nicio versiune validă pentru această resursă. Probabil este indisponibilă pentru această versiune a jocului / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="230"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Nu a fost găsită nicio versiune validă pentru această resursă. Probabil este indisponibilă pentru această versiune de joc.</translation>
+        <translation>Nu a fost găsită nicio versiune validă pentru această resursă. Probabil este indisponibilă pentru această versiune de joc.</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -10830,7 +10830,7 @@ Te rugăm actualizează %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Pachet Modrinth</translation>
+        <translation>Pachet Modrinth</translation>
     </message>
 </context>
 <context>
@@ -10894,7 +10894,7 @@ Te rugăm actualizează %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Opțiuni de filtrare</translation>
+        <translation>Opțiuni de filtrare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -11094,7 +11094,7 @@ Te rugăm actualizează %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
@@ -11137,17 +11137,17 @@ Te rugăm actualizează %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
         <source>uid</source>
-        <translation>UID</translation>
+        <translation>uid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -11176,17 +11176,17 @@ Te rugăm actualizează %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="120"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="126"/>
         <source>Help</source>
-        <translation type="unfinished">Ajutor</translation>
+        <translation>Ajutor</translation>
     </message>
 </context>
 <context>
@@ -11325,12 +11325,12 @@ Te rugăm actualizează %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -11347,7 +11347,7 @@ Te rugăm actualizează %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Derulează pagina până jos</translation>
+        <translation>Derulează pagina până jos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
@@ -11377,17 +11377,17 @@ Te rugăm actualizează %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <source>Keep updating</source>
-        <translation type="unfinished">Continuă actualizarea</translation>
+        <translation>Continuă actualizarea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation type="unfinished">Înfășurare linii</translation>
+        <translation>Înfășurare linii</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
         <source>Color lines</source>
-        <translation type="unfinished">Linii de culoare</translation>
+        <translation>Linii de culoare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
@@ -11402,7 +11402,7 @@ Te rugăm actualizează %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Încărcați log-ul în serviciul de lipire configurat în preferințe</translation>
+        <translation>Încărcați log-ul în serviciul de lipire configurat în preferințe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
@@ -11546,7 +11546,7 @@ Ești sigur(ă)?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="486"/>
         <source>Clear</source>
-        <translation type="unfinished">Șterge</translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <source>Other logs</source>
@@ -11559,33 +11559,33 @@ Ești sigur(ă)?</translation>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Nu s-a putut înțelege manifestul pachetului:
+        <translation>Nu s-a putut înțelege manifestul pachetului:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Mod de instalare nesuportat</translation>
+        <translation>Mod de instalare nesuportat</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Obținerea indexului de metadate locale pentru &apos;%1&apos; v%2 a eșuat</translation>
+        <translation>Obținerea indexului de metadate locale pentru &apos;%1&apos; v%2 a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Se șterg fișierele existente...</translation>
+        <translation>Se șterg fișierele existente...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Tip de mod necunoscut: %1</translation>
+        <translation>Tip de mod necunoscut: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Obținerea indexului de metadate locale pentru %1 a eșuat</translation>
+        <translation>Obținerea indexului de metadate locale pentru %1 a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
@@ -11600,43 +11600,43 @@ Ești sigur(ă)?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Tip de descărcare necunoscut sau neacceptat: %1</translation>
+        <translation>Tip de descărcare necunoscut sau neacceptat: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Se descarcă configurațiile...</translation>
+        <translation>Se descarcă configurațiile...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
         <source>Config download</source>
-        <translation type="unfinished">Descărcare configurație</translation>
+        <translation>Descărcare configurație</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Se extrag configurațiile...</translation>
+        <translation>Se extrag configurațiile...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Selectarea modurilor opționale...</translation>
+        <translation>Selectarea modurilor opționale...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Se descarcă modurile...</translation>
+        <translation>Se descarcă modurile...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
         <source>Mod download</source>
-        <translation type="unfinished">Descărcare mod</translation>
+        <translation>Descărcare mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Tip de descărcare necunoscut: %1</translation>
+        <translation>Tip de descărcare necunoscut: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
@@ -11651,17 +11651,17 @@ Ești sigur(ă)?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 din %2 complet</translation>
+        <translation>%1 din %2 complet</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Extragerea modurilor a eșuat...</translation>
+        <translation>Extragerea modurilor a eșuat...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Se extrag modurile...</translation>
+        <translation>Se extrag modurile...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
@@ -11671,7 +11671,7 @@ Ești sigur(ă)?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Nu s-a reușit crearea componentei bibliotecilor</translation>
+        <translation>Nu s-a reușit crearea componentei bibliotecilor</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
@@ -11681,7 +11681,7 @@ Ești sigur(ă)?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Nu s-a reușit crearea componentei de pachet</translation>
+        <translation>Nu s-a reușit crearea componentei de pachet</translation>
     </message>
 </context>
 <context>
@@ -11717,7 +11717,7 @@ Ești sigur(ă)?</translation>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="49"/>
         <source>Help</source>
-        <translation type="unfinished">Ajutor</translation>
+        <translation>Ajutor</translation>
     </message>
 </context>
 <context>
@@ -12356,12 +12356,12 @@ Pentru a suprascrie acest blocaj și continuare actualizării oricum, selecteaz�
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="67"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Bine</translation>
     </message>
 </context>
 <context>
@@ -12383,12 +12383,12 @@ Alege numele tău cu grijă:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Bine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
@@ -12668,7 +12668,7 @@ Procedați cu trunchierea?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Sarcina a fost anulată de utilizator.</translation>
+        <translation>Sarcina a fost anulată de utilizator.</translation>
     </message>
     <message>
         <source>Upload failed</source>
@@ -12682,7 +12682,7 @@ Procedați cu trunchierea?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>Legătura &lt;a href=&quot;%1&quot;&gt; la jurnalul încărcat &lt;/a&gt; a fost pus în clipboard-ul tău.</translation>
+        <translation>Legătura &lt;a href=&quot;%1&quot;&gt;la jurnalul încărcat&lt;/a&gt; a fost pus în clipboard-ul tău.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="374"/>
@@ -12704,7 +12704,7 @@ Procedați cu trunchierea?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="398"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>Testul Java a reușit!&lt;br /&gt;Platformă raportată: %1&lt;br /&gt; Versiune Java raportată: %2&lt;br /&gt;</translation>
+        <translation>Testul Java a reușit!&lt;br /&gt;Platformă raportată: %1&lt;br /&gt;Versiune Java raportată: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
@@ -13248,7 +13248,7 @@ Doriți să ștergeți acele fișiere de salvări existente în cadrul acestei a
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Nebifat</translation>
+        <translation>Nebifat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="290"/>
@@ -13260,43 +13260,43 @@ Doriți să ștergeți acele fișiere de salvări existente în cadrul acestei a
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Gata</translation>
+        <translation>Gata</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Funcționează</translation>
+        <translation>Funcționează</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="296"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">A dat eroare</translation>
+        <translation>A dat eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Expirat</translation>
+        <translation>Expirat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="300"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Dezactivat</translation>
+        <translation>Dezactivat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="302"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Dispărut</translation>
+        <translation>Dispărut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Necunoscut</translation>
+        <translation>Necunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
@@ -13343,7 +13343,7 @@ Numele nou: %2</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
         <source>There are linked instances</source>
-        <translation type="unfinished">Există instanțe legate</translation>
+        <translation>Există instanțe legate</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
@@ -13442,7 +13442,7 @@ Doriți să continuați?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Lansatorul rulează ca AppImage greșit? (variabila de mediu $APPIMAGE lipsește)</translation>
+        <translation>Lansatorul rulează ca AppImage greșit? (variabila de mediu $APPIMAGE lipsește)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -13454,12 +13454,12 @@ Doriți să continuați?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">Nu s-a putut crea o pictogramă pentru scurtătură.</translation>
+        <translation>Nu s-a putut crea o pictogramă pentru scurtătură.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">Nu este suportat de platforma ta!</translation>
+        <translation>Nu este suportat de platforma ta!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
@@ -13469,7 +13469,7 @@ Doriți să continuați?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">Nu ați putut găsi desktop-ul?!</translation>
+        <translation>Nu ați putut găsi desktop-ul?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
@@ -13504,12 +13504,12 @@ Doriți să continuați?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="111"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">Eroare de rețea: %1</translation>
+        <translation>Eroare de rețea: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="116"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished">Eroare: %1 a returnat un cod de stare neașteptat %2 %3</translation>
+        <translation>Eroare: %1 a returnat un cod de stare neașteptat %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
@@ -13521,7 +13521,7 @@ Doriți să continuați?</numerusform>
         <location filename="src/launcher/net/PasteUpload.cpp" line="167"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Eroare: %1 a returnat un corp de răspuns malformat</translation>
+        <translation>Eroare: %1 a returnat un corp de răspuns malformat</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
@@ -13531,7 +13531,7 @@ Doriți să continuați?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Eroare: %1 a returnat o eroare: %2</translation>
+        <translation>Eroare: %1 a returnat o eroare: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
@@ -13564,7 +13564,7 @@ Mesaj de eroare: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
-        <translation type="unfinished">%1 Dezvoltatori</translation>
+        <translation>%1 Dezvoltatori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
@@ -13616,7 +13616,7 @@ Mesaj de eroare: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">pachet de date</translation>
+        <translation>pachet de date</translation>
     </message>
 </context>
 <context>
@@ -13712,7 +13712,7 @@ Sigur dorești să închizi acest dialog?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="444"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">Schimbă %1 versiune</translation>
+        <translation>Schimbă %1 versiune</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
@@ -13815,7 +13815,7 @@ Te rugăm să o actualizezi %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="238"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Acest proeict a fost arhivat. Acesta nu va mai primi actualizări cu excepția cazului în care autorul decide să dearhiveze proiectul.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Acest proeict a fost arhivat. Acesta nu va mai primi actualizări cu excepția cazului în care autorul decide să dearhiveze proiectul.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
@@ -13898,12 +13898,12 @@ Probabil că autorul a blocat programele de lansare ale unor terți.</translatio
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="574"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Return</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="580"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="598"/>
@@ -14027,17 +14027,17 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Size</source>
-        <translation type="unfinished">Dimensiune</translation>
+        <translation>Dimensiune</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Provider</source>
-        <translation type="unfinished">Furnizor</translation>
+        <translation>Furnizor</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished">Numele Fișierului</translation>
+        <translation>Numele Fișierului</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="280"/>
@@ -14113,17 +14113,17 @@ Ești sigur că vrei să faci asta?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Size</source>
-        <translation type="unfinished">Dimensiune</translation>
+        <translation>Dimensiune</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Provider</source>
-        <translation type="unfinished">Furnizor</translation>
+        <translation>Furnizor</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished">Numele Fișierului</translation>
+        <translation>Numele Fișierului</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
@@ -14271,7 +14271,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="147"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confurmați actualizarea</translation>
+        <translation>Confurmați actualizarea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="148"/>
@@ -14290,7 +14290,7 @@ Ești sigur că vrei să faci asta?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&quot; este la zi! :)</translation>
+        <translation>&apos;%1&quot; este la zi! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
@@ -14305,12 +14305,12 @@ Ești sigur că vrei să faci asta?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="182"/>
         <source>Update checker</source>
-        <translation type="unfinished">Verificator de actualizări</translation>
+        <translation>Verificator de actualizări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmați Ștergerea</translation>
+        <translation>Confirmați Ștergerea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="225"/>
@@ -14362,12 +14362,12 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Numele modului: %1&lt;br&gt;Numele fișierului: %2&lt;br&gt;Motiv: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Numele modului: %1&lt;br&gt;Numele fișierului: %2&lt;br&gt;Motiv: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished">Generarea de metadata a eșuat</translation>
+        <translation>Generarea de metadata a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
@@ -14377,7 +14377,7 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="92"/>
         <source>Checking for updates</source>
-        <translation type="unfinished">Verificare pentru actualizări</translation>
+        <translation>Verificare pentru actualizări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"/>
@@ -14386,20 +14386,20 @@ Sunteți sigur?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="378"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="436"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="118"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="219"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avertizări</translation>
+        <translation>Avertizări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="124"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="224"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="391"/>
         <source>Abort</source>
-        <translation type="unfinished">Renunță</translation>
+        <translation>Renunță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
@@ -14409,23 +14409,23 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="171"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished">Numele modului: %1</translation>
+        <translation>Numele modului: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Reason: %1</source>
-        <translation type="unfinished">Motiv: %1</translation>
+        <translation>Motiv: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished">Soluție posibilă: Obținerea celei mai noi versiuni manual:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Soluție posibilă: Obținerea celei mai noi versiuni manual:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished">Verificarea pentru actualizări a eșuat</translation>
+        <translation>Verificarea pentru actualizări a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="184"/>
@@ -14435,17 +14435,17 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="225"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Verificare pentru dependențe...</translation>
+        <translation>Verificare pentru dependențe...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="246"/>
         <source>Not installed</source>
-        <translation type="unfinished">Nu este instalat</translation>
+        <translation>Nu este instalat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="283"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished">Se caută metadata</translation>
+        <translation>Se caută metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="329"/>
@@ -14455,53 +14455,53 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="392"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished">Generare metadata...</translation>
+        <translation>Generare metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="446"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished">Nu s-a putut găsi o versiune validă în furnizorul(ii) de moduri selectat(ți)</translation>
+        <translation>Nu s-a putut găsi o versiune validă în furnizorul(ii) de moduri selectat(ți)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="457"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
+        <translation>Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="464"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Furnizor: %1</translation>
+        <translation>Furnizor: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="468"/>
         <source>Old version: %1</source>
-        <translation type="unfinished">Versiune veche: %1</translation>
+        <translation>Versiune veche: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="472"/>
         <source>New version: %1</source>
-        <translation type="unfinished">Versiune nouă: %1</translation>
+        <translation>Versiune nouă: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="477"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished">Tip Versiune Nouă: %1</translation>
+        <translation>Tip Versiune Nouă: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="484"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Cerut de: %1</translation>
+        <translation>Cerut de: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="487"/>
         <source>Required by:</source>
-        <translation type="unfinished">Cerut de:</translation>
+        <translation>Cerut de:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="499"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished">Jurnalul de modificări al celei mai noi versiuni</translation>
+        <translation>Jurnalul de modificări al celei mai noi versiuni</translation>
     </message>
 </context>
 <context>
@@ -14514,18 +14514,18 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Bine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="64"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
+        <translation>Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
@@ -14738,12 +14738,12 @@ Ești sigur(ă)?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="18"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="19"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Bine</translation>
     </message>
 </context>
 <context>
@@ -14798,12 +14798,12 @@ Versiunea instalată curent: %1</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Bine</translation>
     </message>
 </context>
 <context>
@@ -14833,7 +14833,7 @@ Versiunea instalată curent: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Online</source>
-        <translation type="unfinished">Online</translation>
+        <translation>Online</translation>
     </message>
     <message>
         <source>Latency</source>
@@ -14992,7 +14992,7 @@ Ești sigur(ă)?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Descarcă pachete</translation>
+        <translation>Descarcă pachete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
@@ -15070,7 +15070,7 @@ Ești sigur că vrei să faci asta?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&quot; este la zi! :)</translation>
+        <translation>&apos;%1&quot; este la zi! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
@@ -15085,12 +15085,12 @@ Ești sigur că vrei să faci asta?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="179"/>
         <source>Update checker</source>
-        <translation type="unfinished">Verificator de actualizări</translation>
+        <translation>Verificator de actualizări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="221"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmați Ștergerea</translation>
+        <translation>Confirmați Ștergerea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="222"/>
@@ -15153,7 +15153,7 @@ Sunteți sigur?</translation>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Skin Upload</source>
-        <translation type="unfinished">Încarcă skin</translation>
+        <translation>Încarcă skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
@@ -15173,7 +15173,7 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Cape</source>
-        <translation type="unfinished">Pelerină</translation>
+        <translation>Pelerină</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
@@ -15238,17 +15238,17 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="112"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="113"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Bine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="174"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished">Selectează o Textură de Skin</translation>
+        <translation>Selectează o Textură de Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="180"/>
@@ -15273,12 +15273,12 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">Fișierul skin-ului nu există!</translation>
+        <translation>Fișierul skin-ului nu există!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">Încărcarea skin-ului a eșuat!</translation>
+        <translation>Încărcarea skin-ului a eșuat!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="332"/>
@@ -15288,17 +15288,17 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Skin Delete</source>
-        <translation type="unfinished">Ştergere Skin</translation>
+        <translation>Ştergere Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Ștergerea skinului curent a eșuat!</translation>
+        <translation>Ștergerea skinului curent a eșuat!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
         <source>Context menu</source>
-        <translation type="unfinished">Meniu contextual</translation>
+        <translation>Meniu contextual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="385"/>
@@ -15313,7 +15313,7 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmă Ștergerea</translation>
+        <translation>Confirmă Ștergerea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"/>
@@ -15496,7 +15496,7 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/tasks/Task.cpp" line="141"/>
         <source>Aborted</source>
-        <translation type="unfinished">Anulat</translation>
+        <translation>Anulat</translation>
     </message>
 </context>
 <context>
@@ -15504,14 +15504,14 @@ Sunteți sigur?</translation>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished">Sarcină anulată.</translation>
+        <translation>Sarcină anulată.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="41"/>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Actualizarea instanței a eșuat deoarece: %1
+        <translation>Actualizarea instanței a eșuat deoarece: %1
 
 </translation>
     </message>
@@ -15675,7 +15675,7 @@ inheritsFrom lipsește</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="274"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="239"/>
@@ -15708,17 +15708,17 @@ inheritsFrom lipsește</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Size</source>
-        <translation type="unfinished">Dimensiune</translation>
+        <translation>Dimensiune</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Provider</source>
-        <translation type="unfinished">Furnizor</translation>
+        <translation>Furnizor</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished">Numele Fișierului</translation>
+        <translation>Numele Fișierului</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
@@ -15798,7 +15798,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Descarcă pachete</translation>
+        <translation>Descarcă pachete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
@@ -15862,7 +15862,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="152"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confurmați actualizarea</translation>
+        <translation>Confurmați actualizarea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="153"/>
@@ -15881,7 +15881,7 @@ Ești sigur că vrei să faci asta?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="179"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&quot; este la zi! :)</translation>
+        <translation>&apos;%1&quot; este la zi! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
@@ -15896,12 +15896,12 @@ Ești sigur că vrei să faci asta?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="187"/>
         <source>Update checker</source>
-        <translation type="unfinished">Verificator de actualizări</translation>
+        <translation>Verificator de actualizări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="229"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmați Ștergerea</translation>
+        <translation>Confirmați Ștergerea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="230"/>
@@ -15971,7 +15971,7 @@ Ești sigur?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished">Aspect</translation>
+        <translation>Aspect</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
@@ -16651,17 +16651,17 @@ Ești sigur(ă)?</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Bine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Bine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
@@ -16684,7 +16684,7 @@ Ești sigur(ă)?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation>Caută</translation>
+        <translation>Căutați</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
@@ -16814,7 +16814,7 @@ Locația canonică: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="106"/>
         <source>Join</source>
-        <translation type="unfinished">Intră</translation>
+        <translation>Intră</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="111"/>
