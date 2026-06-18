@@ -62,12 +62,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Eski FML Kütüphane Sunucusu</translation>
+        <translation>Eski FML Kütüphaneleri Sunucusu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Eğer eski FML kütüphanelerini(Minecraft 1.5.2 ve önceki sürümler) indirirken sorun yaşıyorsanız bunu başka bir sunucuya ayarlayabilirsiniz.</translation>
+        <translation>Eğer eski FML kütüphanelerini (Minecraft 1.5.2 ve önceki sürümler) indirirken sorun yaşıyorsanız bunu başka bir sunucuya ayarlayabilirsiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -7193,7 +7193,7 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft başlatılamadı: %1</translation>
     </message>
     <message>
         <source>Could not launch Minecraft!</source>
@@ -7674,7 +7674,7 @@ Sebep:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>İşlem başlayamadı: %1</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
@@ -13842,7 +13842,7 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation>Belirtilen Java yürütülebilir dosyası çalışmadı.&lt;br /&gt;&apos;Algıla&apos; düğmesine basmalı veya Java yürütülebilir dosyasının yolunu ayarlamalısınız.&lt;br /&gt;</translation>
+        <translation>Belirtilen Java yürütülebilir dosyası çalışmadı.&lt;br /&gt;&apos;Algıla&apos; düğmesine basmalı veya Java yürütülebilir dosyasının yolunu belirlemelisiniz.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
