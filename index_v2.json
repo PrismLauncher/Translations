@@ -603,11 +603,11 @@
             "untranslated" : 2
         },
         "ro" : {
-            "file" : "e33267667723fdf49cba828cf550aa3f73524295.class",
-            "sha1" : "e33267667723fdf49cba828cf550aa3f73524295",
-            "size" : 362511,
-            "translated" : 2371,
-            "fuzzy" : 5,
+            "file" : "78e6c01b45e78388f664abdd8b8db8eec8536dca.class",
+            "sha1" : "78e6c01b45e78388f664abdd8b8db8eec8536dca",
+            "size" : 362465,
+            "translated" : 2376,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "ru" : {
