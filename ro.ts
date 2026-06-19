@@ -2071,13 +2071,13 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation>Comandă de &amp;Ambalaj</translation>
+        <translation>Comandă de &amp;Wrapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comanda pre-lansate rulează înainte de lansarea instanței și comanda post-ieșire rulează după ce instanța a ieșit.&lt;/p&gt;&lt;p&gt;Amândouă vor fii rulate în folderul lucrător al lansatorului cu variabile de mediu extra:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Numele instanței&lt;/li&gt;&lt;li&gt;$INST_ID - ID-ul instanței (numele folderului său)&lt;/li&gt;&lt;li&gt;$INST_DIR - calea absolută a instanței&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - calea absolută a Minecraft-ului&lt;/li&gt;&lt;li&gt;$INST_JAVA - Fișierul Java binar folosit pentru lansare&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parametri liniei de comandă folosiți pentru lansare (atenție: nu va funcționa corect dacă argumentele conțin spații)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comanda &quot;Wrapper&quot; permite lansare unui program extra wrapper (cum ar fi &apos;optirun&apos; pe Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comanda pre-lansate rulează înainte de lansarea instanței și comanda post-ieșire rulează după ce instanța a ieșit.&lt;/p&gt;&lt;p&gt;Amândouă vor fi rulate în folderul lucrător al lansatorului cu variabile de mediu extra:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Numele instanței&lt;/li&gt;&lt;li&gt;$INST_ID - ID-ul instanței (numele folderului său)&lt;/li&gt;&lt;li&gt;$INST_DIR - calea absolută a instanței&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - calea absolută a Minecraft-ului&lt;/li&gt;&lt;li&gt;$INST_JAVA - Fișierul Java binar folosit pentru lansare&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parametri liniei de comandă folosiți pentru lansare (atenție: nu va funcționa corect dacă argumentele conțin spații)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comanda &quot;Wrapper&quot; permite lansare unui program extra wrapper (cum ar fi &apos;optirun&apos; pe Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -9366,12 +9366,12 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation>&amp; Jocul și timp</translation>
+        <translation>&amp;Jocul și timp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation>Arată timpul petrecut &amp;jucate instanțele</translation>
+        <translation>Afișați timpul petrecut &amp;jucate în acele instanțe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
@@ -9499,7 +9499,7 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
         <source>&amp;Global Data Packs</source>
-        <translation>Pachete de Data Globale</translation>
+        <translation>&amp;Pachete de date globale</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
@@ -13929,7 +13929,7 @@ Probabil că autorul a blocat programele de lansare ale unor terți.</translatio
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="171"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>pachete de shader-e</translation>
+        <translation>pachete de shadere</translation>
     </message>
 </context>
 <context>
@@ -13938,7 +13938,7 @@ Probabil că autorul a blocat programele de lansare ale unor terți.</translatio
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="36"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation>pachete de shader-e</translation>
+        <translation>pachete de shadere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
@@ -14992,7 +14992,7 @@ Ești sigur(ă)?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation>Descarcă pachete</translation>
+        <translation>Descarcă shadere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
