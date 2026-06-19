@@ -8072,7 +8072,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="597"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation>Deschideți folderul de loguri într-un explorer de fișiere.</translation>
+        <translation>Deschideți fișierul de jurnale într-un explorer de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
@@ -9366,7 +9366,7 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation>Jocul&amp;Timp</translation>
+        <translation>&amp; Jocul și timp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
@@ -9684,7 +9684,7 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="69"/>
         <source>&amp;Record time playing this instance</source>
-        <translation>&amp;Recorduri de timp jucate în această instanță</translation>
+        <translation>&amp;Înregistrează timp jucate în această instanță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="74"/>
