@@ -6986,7 +6986,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tidak dapat meluncurkan Minecraft: %1</translation>
     </message>
     <message>
         <source>Could not launch Minecraft!</source>
@@ -7467,7 +7467,7 @@ Alasan:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Proses gagal dimulai: %1</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
