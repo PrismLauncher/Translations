@@ -34,12 +34,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Notă: probabil doriți să modificați sau șterge baza URL-ului după ce schimbați tipul serviciului de lipire.</translation>
+        <translation>Notă: probabil doriți să modificați sau să ștergeți baza URL-ului după ce schimbați tipul serviciului de lipire.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation>Reîmprospătează la deschidere</translation>
+        <translation>Reîncarcă la deschidere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -54,12 +54,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Librări FML vechi pentru Server</translation>
+        <translation>Server pentru librariile FML invechite</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Poți schimba la un alt server dacă ai probleme cu descărcarea librăriilor FML vechi (Minecraft 1.5.2 și mai devreme).</translation>
+        <translation>Poti seta asta la alt server daca ai probleme cu descarcarea librariilor FML invechite (Minecraft 1.5.2 si mai devreme).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -80,7 +80,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>Use None</source>
-        <translation>Nu folosiți</translation>
+        <translation>Nu folosi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
@@ -104,7 +104,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Notă: probabil că nu este necesar să configurați această opțiune dacă autentificarea prin Microsoft funcționează deja.</translation>
+        <translation>Notă: probabil că nu trebuie să setezi asta dacă logarea prin Autentificarea Microsoft deja functionează.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -881,7 +881,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
-        <translation>Opac</translation>
+        <translation>Opacitate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
@@ -1456,7 +1456,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fișierul configurat de moduri globale și fișierul de descărcări ubișnuit sunt verificate automat pentru moduri descărcate și vor fi copiate în instanță dacă vor fi găsite .&lt;/p&gt;&lt;p&gt;Opțional, poti trage și lasa modurile descărcate în acest dialog sau poti adăuga un fișier pentru a vizualiza daca nu ai descărcat modurile in locația lor obișnuită.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; Apasă &apos;Deschide Lipsă&apos; pentru a deschide toate linkurile de descarcare în browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fișierul configurat de moduri globale și fișierul de descărcări ubișnuit sunt verificate automat pentru moduri descărcate și vor fi copiate în instanță dacă vor fi găsite.&lt;/p&gt;&lt;p&gt;Opțional, poti trage și lasa modurile descărcate în acest dialog sau poti adăuga un fișier pentru a vizualiza daca nu ai descărcat modurile in locația lor obișnuită.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; Apasă &apos;Deschide Lipsă&apos; pentru a deschide toate linkurile de descarcare în browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -2540,12 +2540,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Este posibil ca memoria RAM liberă să nu fie suficientă pentru a lansa această instanță cu setările actuale de memorie.
+        <translation>Este posibil să nu existe destulă memorie RAM liberă pentru a lansa această instanță folosind setările curente.
 
-Alocare maximă: %1 MiB
-Liberă: %2 MiB (din totalul de %3 MiB)
+Maximul alocat: %1 MiB
+Liber: %2 MiB (din %3 MiB total)
 
-Lansează oricum? Acest lucru poate duce la încetiniri ale jocului si ale sistemului.</translation>
+Lansează oricum? Acest lucru ar putea încetini jocul și sistemul.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -3545,7 +3545,7 @@ Vă rugăm să încercați din nou.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Nu s-a putut înțelege manifestul pachetului:
+        <translation>Nu s-a putut înțelege manifestul pachetului:
 </translation>
     </message>
     <message>
@@ -4146,7 +4146,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation>Notă: Multe modpack-uri recente FTB sunt disponibile și de pe CurseForge!</translation>
+        <translation>Notă: Mai multe pachete de moduri recente FTB sunt disponibile și de pe CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4668,12 +4668,12 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="92"/>
         <source>Skip</source>
-        <translation type="unfinished">Sari peste</translation>
+        <translation>Treci peste</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="109"/>
         <source>Could not download game files: %1</source>
-        <translation>Nu s-au putut descărca fișierele de joc: %1</translation>
+        <translation>Nu s-a putut descărca fișierele jocului: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="113"/>
@@ -5354,7 +5354,7 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished">IBM Semeru Open</translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -5765,7 +5765,7 @@ Puteți schimba versiunea de Java din setări ulterior.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Memor&amp;ie</translation>
+        <translation>Memor&amp;ie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
@@ -6810,7 +6810,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation>Se descarcă fişierele necesare jocului în timpul creării instanţei. Dezactivează această opţiune pentru a sări peste descărcarea iniţială şi a descărca fişierele abia la lansarea instanţei.</translation>
+        <translation>Descarcă fișierele necesare pentru joc la crearea instanței. Dezactivați această opțiune pentru a sări peste descărcarea inițială și a prelua fișierele la lansarea instanței.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
@@ -8946,7 +8946,7 @@ Make sure you also trust the URL.
 </source>
         <translation>Acesta este un pachet de moduri local.
 Acesta poate fi actualizat fie folosind un fișier în format %1, fie o adresă URL.
-Nu utilizați un format diferit de cel menționat, deoarece ar putea strica instanța.
+Nu utilizați un format diferit de cel menționat deoarece acest lucru ar putea provoca o eroare a instanţei
 Asigurați-vă că aveți încredere și în adresa URL.
 </translation>
     </message>
@@ -8973,7 +8973,7 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="345"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation>Instanța a fost actualizată la versiunea pachetului %1 cu success.</translation>
+        <translation>Instanţa a fost actualizată cu success la versiunea %1 a pachetului.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
@@ -9005,7 +9005,7 @@ Asigurați-vă că aveți încredere și în adresa URL.
         <location filename="src/launcher/meta/Index.cpp" line="145"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation>Se încarcă metadatele pentru %1:%2</translation>
+        <translation>Se încarcă meta pentru %1:%2</translation>
     </message>
 </context>
 <context>
@@ -9014,7 +9014,7 @@ Asigurați-vă că aveți încredere și în adresa URL.
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation>Incarcă meta pentru %1</translation>
+        <translation>Se încarcă meta pentru %1</translation>
     </message>
 </context>
 <context>
@@ -9343,7 +9343,7 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation>Când fereastra jocului se închide, se închide programul de lansare</translation>
+        <translation>Când fereastra jocului se închide, launcher-ul se va închide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -10123,7 +10123,7 @@ Ignorarea lor ar putea ceda funcționarea jocului.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="461"/>
         <source>Confirm disable</source>
-        <translation type="unfinished">Confirmați dezactivare</translation>
+        <translation>Confirmați dezactivare</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="462"/>
