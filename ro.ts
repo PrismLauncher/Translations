@@ -7428,7 +7428,7 @@ Motiv:
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="246"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="68"/>
         <source>Minecraft Log</source>
-        <translation>Log-ul Minecraft</translation>
+        <translation>Jurnalul Minecraft</translation>
     </message>
 </context>
 <context>
@@ -9333,7 +9333,7 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
         <source>Game &amp;Window</source>
-        <translation>Joc de la &amp;fereastră</translation>
+        <translation>&amp;Joc de la fereastră</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
