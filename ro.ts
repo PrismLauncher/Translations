@@ -1185,7 +1185,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Sunteți sigur că doriți să activați acest mod?</translation>
+        <translation>Sunteți sigur(ă) că doriți să activați acest mod?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="250"/>
@@ -3246,7 +3246,7 @@ Are you sure?</source>
         <translation>Ești pe cale de a șterge %i elementele.
 Asta ar putea fi permanent și ele for dispărea din folder.
 
-Sunteți sigur?</translation>
+Sunteți sigur(ă)?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
@@ -3257,7 +3257,7 @@ Are you sure?</source>
         <translation>Sunteți pe cale de a șterge folderul &quot;%1&quot;.
 Asta ar putea fi permanent și aceasta va dispărea din folderul părinte.
 
-Sunteți sigur?</translation>
+Sunteți sigur(ă)?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="256"/>
@@ -3274,7 +3274,7 @@ Sunteți sigur?</translation>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Dacă eliminați această resursă cât timp se execută jocul, s-ar putea să eșueze.
-Sunteți sigur că vreți face asta?</translation>
+Sunteți sigur(ă) că veți face asta?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -7223,7 +7223,7 @@ Ar trebui șterse acum?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="365"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>Esti sigur ca vrei sa stergi modpackul %1?</translation>
+        <translation>Esti sigur(ă) că vrei sa stergi pachetul%1?</translation>
     </message>
 </context>
 <context>
@@ -9366,7 +9366,7 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation>&amp;Jocul și timp</translation>
+        <translation>Timp de &amp;joc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
@@ -10332,7 +10332,7 @@ The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
         <translation>Actualizarea mod-urilor in timp ce jocul rulează poate cauza dublarea mod-urilor și închiderea bruscă a jocului.
 Fișierele vechi s-ar putea sa nu fie șterse în timp ce sunt folosite.
-Sunteți sigur/ă că vreți să faceți asta?</translation>
+Sunteți sigur(ă) că vreți să faceți asta?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="264"/>
@@ -10401,8 +10401,8 @@ Ești sigur(ă)?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="132"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Dacă sterge-ți mod-urile în timp ce jocul ruleaza poate închide brusc jocul.
-Sunteți sigur/ă ca vreți sa faceți asta?</translation>
+        <translation>Dacă stergeți modurile în timp ce jocul ruleaza poate închide cu erori jocul.
+Sunteți sigur(ă) că vreți să faceți asta?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
@@ -14049,7 +14049,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Dacă activezi/dezactivezi această resursă în timp ce jocul rulează, este posibil ca jocul să se blocheze.
-Ești sigur că vrei să faci asta?</translation>
+Ești sigur(ă) că vrei să faci asta?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="639"/>
@@ -14280,7 +14280,7 @@ The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation>Actualizarea pachetelor de resurse în timp ce jocul rulează poate duce la duplicarea pachetelor și la blocarea jocului.
 Este posibil ca fișierele vechi să nu poată fi șterse deoarece sunt în uz.
-Ești sigur că vrei să faci asta?</translation>
+Ești sigur(ă) că vrei să faci asta?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
@@ -14317,7 +14317,7 @@ Ești sigur că vrei să faci asta?</translation>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
         <translation>Sunteți pe punctul de a șterge metadatele pentru %1 pachete de resurse.
-Sunteți sigur?</translation>
+Sunteți sigur(ă)?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
@@ -15060,7 +15060,7 @@ The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation>Actualizarea pachetelor de shadere în timp ce jocul rulează poate duce la duplicarea pachetelor și la blocarea jocului.
 Este posibil ca fișierele vechi să nu poată fi șterse deoarece sunt în uz.
-Ești sigur că vrei să faci asta?</translation>
+Ești sigur(ă) că vrei să faci asta?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="167"/>
@@ -15097,7 +15097,7 @@ Ești sigur că vrei să faci asta?</translation>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
         <translation>Sunteți pe punctul de a șterge metadatele pentru %1 pachete de shadere.
-Sunteți sigur?</translation>
+Sunteți sigur(ă)?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
@@ -15320,7 +15320,7 @@ Sunteți sigur?</translation>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
         <translation>Sunteți pe punctul de a șterge „%1”.
-Sunteți sigur?</translation>
+Sunteți sigur(ă)?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="411"/>
@@ -15871,7 +15871,7 @@ The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation>Actualizarea pachetelor de texturi în timp ce jocul rulează poate duce la duplicarea pachetelor și la blocarea jocului.
 Este posibil ca fișierele vechi să nu poată fi șterse, deoarece sunt în uz.
-Ești sigur că vrei să faci asta?</translation>
+Ești sigur(ă) că vrei să faci asta?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
@@ -15908,7 +15908,7 @@ Ești sigur că vrei să faci asta?</translation>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
         <translation>Ești pe cale să ștergi metadatele pentru %1 pachete de texturi.
-Ești sigur?</translation>
+Ești sigur(ă)?</translation>
     </message>
 </context>
 <context>
