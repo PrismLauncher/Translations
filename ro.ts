@@ -816,7 +816,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation>Deschide folderul</translation>
+        <translation>Deschide fișierul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
@@ -1476,7 +1476,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
-        <translation>Adaugă Folder de Descărcări</translation>
+        <translation>Adaugă Fișiere de Descărcări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
@@ -1723,7 +1723,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Dezactivarea acestuia nu va șterge încărcătorul de moduri (ex: Fabric, Quilt, etc.) dar va șterge folderul de moduri și configurările lor.</translation>
+        <translation>Dezactivarea acestuia nu va șterge încărcătorul de moduri (ex: Fabric, Quilt, etc.) dar va șterge fișierul de moduri și configurările lor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1773,7 +1773,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation>Legați fiecare resursă individual în loc să legați foldere întregi simultan</translation>
+        <translation>Legați fiecare resursă individual în loc să legați fișiere întregi simultan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
@@ -1909,7 +1909,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation>Nu se poate crea folderul jocului</translation>
+        <translation>Nu se poate crea fișierul jocului</translation>
     </message>
 </context>
 <context>
@@ -2077,7 +2077,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comanda pre-lansate rulează înainte de lansarea instanței și comanda post-ieșire rulează după ce instanța a ieșit.&lt;/p&gt;&lt;p&gt;Amândouă vor fi rulate în folderul lucrător al lansatorului cu variabile de mediu extra:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Numele instanței&lt;/li&gt;&lt;li&gt;$INST_ID - ID-ul instanței (numele folderului său)&lt;/li&gt;&lt;li&gt;$INST_DIR - calea absolută a instanței&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - calea absolută a Minecraft-ului&lt;/li&gt;&lt;li&gt;$INST_JAVA - Fișierul Java binar folosit pentru lansare&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parametri liniei de comandă folosiți pentru lansare (atenție: nu va funcționa corect dacă argumentele conțin spații)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comanda &quot;Wrapper&quot; permite lansare unui program extra wrapper (cum ar fi &apos;optirun&apos; pe Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comanda pre-lansate rulează înainte de lansarea instanței și comanda post-ieșire rulează după ce instanța a ieșit.&lt;/p&gt;&lt;p&gt;Amândouă vor fi rulate în fișierul lucrător al lansatorului cu variabile de mediu extra:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Numele instanței&lt;/li&gt;&lt;li&gt;$INST_ID - ID-ul instanței (numele fișierul său)&lt;/li&gt;&lt;li&gt;$INST_DIR - calea absolută a instanței&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - calea absolută a Minecraft-ului&lt;/li&gt;&lt;li&gt;$INST_JAVA - Fișierul Java binar folosit pentru lansare&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parametri liniei de comandă folosiți pentru lansare (atenție: nu va funcționa corect dacă argumentele conțin spații)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comanda &quot;Wrapper&quot; permite lansare unui program extra wrapper (cum ar fi &apos;optirun&apos; pe Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -3122,12 +3122,12 @@ Această instanță nu a putut fi lansată deoarece unele librării lipsesc sau 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
         <source>View &amp;Folder</source>
-        <translation>Vizualizează &amp;folder</translation>
+        <translation>Vizualizează &amp;fișier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the folder in the system file manager.</source>
-        <translation>Deschideți folderul în managerul de fișiere al sistemului.</translation>
+        <translation>Deschideți fișierul în managerul de fișiere al sistemului.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
@@ -3244,7 +3244,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>Ești pe cale de a șterge %i elementele.
-Asta ar putea fi permanent și ele for dispărea din folder.
+Asta ar putea fi permanent și ele for dispărea din fișier.
 
 Sunteți sigur(ă)?</translation>
     </message>
@@ -3255,7 +3255,7 @@ This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
         <translation>Sunteți pe cale de a șterge folderul &quot;%1&quot;.
-Asta ar putea fi permanent și aceasta va dispărea din folderul părinte.
+Asta ar putea fi permanent și aceasta va dispărea din fișierul părinte.
 
 Sunteți sigur(ă)?</translation>
     </message>
@@ -3370,7 +3370,7 @@ Sunteți sigur că vreți face asta?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
         <source>JProfiler Folder</source>
-        <translation>Folder JProfiler</translation>
+        <translation>Fișier JProfiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
@@ -3447,7 +3447,7 @@ Sunteți sigur că vreți face asta?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"/>
         <source>MCEdit Folder</source>
-        <translation>Folderul MCEdit</translation>
+        <translation>Fișierul MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
@@ -3798,13 +3798,13 @@ Vă rugăm să încercați din nou.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="339"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>Nu s-a putut redenumi folderul pentru suprascrieri:
+        <translation>Nu s-a putut redenumi fișierul pentru suprascrieri:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="344"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>Folderul de suprascrieri specificat (%1) lipsește. Poate pachetul de moduri a fost folosit deja?</translation>
+        <translation>Fișierul de suprascrieri specificat (%1) lipsește. Poate pachetul de moduri a fost folosit deja?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
@@ -4348,7 +4348,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="167"/>
         <source>Open Folder</source>
-        <translation>Deschide folderul</translation>
+        <translation>Deschide fișierul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="202"/>
@@ -4629,12 +4629,12 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
         <source>Instance folder copy failed.</source>
-        <translation>Copierea folderului instanței a eșuat.</translation>
+        <translation>Copierea fișierului instanței a eșuat.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>Copierea folderului instanței a fost anulată.</translation>
+        <translation>Copierea fișierului instanței a fost anulată.</translation>
     </message>
 </context>
 <context>
@@ -6461,7 +6461,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Always rename the folder</source>
-        <translation>Redenumește întotdeauna folderul</translation>
+        <translation>Redenumește întotdeauna fișierul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
@@ -6471,7 +6471,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Never rename the folder</source>
-        <translation>Nu redenumi niciodată folderul</translation>
+        <translation>Nu redenumi niciodată fișierul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
@@ -6765,7 +6765,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation>Verifică &amp;sub-foldere pentru moduri blocate</translation>
+        <translation>Verifică &amp;sub-fișiere pentru moduri blocate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="390"/>
@@ -6865,7 +6865,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
         <source>Instance Folder</source>
-        <translation>Folder Instanță</translation>
+        <translation>Fișier Instanță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
@@ -6900,27 +6900,27 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
         <source>Icons Folder</source>
-        <translation>Folder Iconițe</translation>
+        <translation>Fișierul cu Pictograme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="147"/>
         <source>Mods Folder</source>
-        <translation>Folder Mod-uri</translation>
+        <translation>Fișierul Mod-uri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
         <source>Downloads Folder</source>
-        <translation>Folder pentru descărcări</translation>
+        <translation>Fișier pentru descărcări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Java Folder</source>
-        <translation>Folder de Java</translation>
+        <translation>Fișierul Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation>Folder de skinuri</translation>
+        <translation>Fișierul de skinuri</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
@@ -7024,7 +7024,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Nu s-a reușit crearea folderului bibliotecii FML în interiorul instanței.</translation>
+        <translation>Nu s-a reușit crearea fișierul bibliotecii FML în interiorul instanței.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
@@ -7509,7 +7509,7 @@ Motiv:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="37"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation>Folder nu există</translation>
+        <translation>Fișierul nu există</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
@@ -7816,7 +7816,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>Deschide folder-ul rădăcină al launcher-ului într-un browser de fișiere.</translation>
+        <translation>Deschide fișierul de rădăcină al launcher-ului într-un browser de fișiere.</translation>
     </message>
     <message>
         <source>View &amp;Central Mods Folder</source>
@@ -7826,7 +7826,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Deschide folder-ul de mod-uri centrale într-un browser de fișiere.</translation>
+        <translation>Deschide fișierul de mod-uri centrale într-un browser de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="610"/>
@@ -7846,12 +7846,12 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="702"/>
         <source>Folders</source>
-        <translation>Foldere</translation>
+        <translation>Fișiere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Deschide unul dintre folder-ele împărțite între instanțe.</translation>
+        <translation>Deschide unul dintre fișierele împărțite între instanțe.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -8032,7 +8032,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation>Deschideți folderul instanțelor într-un browser de fișiere.</translation>
+        <translation>Deschideți fișierul instanțelor într-un browser de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
@@ -8052,7 +8052,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation>Deschideți folderul skin-uri într-un browser de fișiere.</translation>
+        <translation>Deschideți fișierul cu skin-uri într-un browser de dosar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
@@ -8062,7 +8062,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation>Deschideți folderul cu pictogramele instanțelor într-un explorator de fișiere.</translation>
+        <translation>Deschideți fișierul cu pictogramele instanțelor într-un explorator de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
@@ -8114,7 +8114,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation>Deschideți folderul cu teme pentru widgeturi într-un browser de fișiere.</translation>
+        <translation>Deschideți fișierul cu teme pentru widgeturi într-un browser de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
@@ -8124,7 +8124,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation>Deschideți folderul cu tema pictogramelor într-un browser de fișiere.</translation>
+        <translation>Deschideți fișierul cu tema pictogramelor într-un browser de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
@@ -8145,7 +8145,7 @@ Motiv:
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation>Deschideți folderul Java într-un explorator de fișiere. Disponibil numai dacă se utilizează programul de descărcare Java încorporat.</translation>
+        <translation>Deschideți fișierul Java într-un explorator de dosar. Disponibil numai dacă se utilizează programul de descărcare Java încorporat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
@@ -8386,7 +8386,7 @@ Esti sigur?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>Deschideți Folderul Rădăcină al Instanței Selectate într-un Browser de Fișiere.</translation>
+        <translation>Deschideți fișierul de rădăcină al instanței selectate într-un browser de dosar.</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -9366,7 +9366,7 @@ Asigurați-vă că aveți încredere și în adresa URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation>Timp de &amp;joc</translation>
+        <translation>&amp;Timp de joc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
@@ -9511,7 +9511,7 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
         <source>Folder Path</source>
-        <translation>Drumul Folder-ului</translation>
+        <translation>Calea către fișier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
@@ -9679,7 +9679,7 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
         <source>Show time &amp;playing this instance</source>
-        <translation>Afișați timp &amp;petrecut în această instanță</translation>
+        <translation>Afișați timp petrecut în această instanță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="69"/>
