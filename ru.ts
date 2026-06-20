@@ -7742,7 +7742,7 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>«	»«</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
