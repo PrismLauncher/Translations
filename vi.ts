@@ -2539,7 +2539,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hệ thống đang bị quá tải bộ nhớ.
+điều này có thể gây ra giật lag hoặc chậm khung hình.
+Nếu có thể,xin hãy đóng các cửa sổ khác trước khi tiếp tục.
+
+vẫn tiếp tục khởi chạy?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
