@@ -6207,7 +6207,7 @@ Moltar rochtain a thabhairt do %1 air trí Flatseal.</translation>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir Minecraft a sheoladh: %1</translation>
     </message>
     <message>
         <source>Could not launch Minecraft!</source>
@@ -6615,7 +6615,7 @@ Cúis:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an bpróiseas tosú: %1</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
