@@ -10327,7 +10327,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bestandsnaam</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
@@ -14710,7 +14710,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bestandsnaam</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -14805,7 +14805,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bestandsnaam</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
@@ -16478,7 +16478,7 @@ inheritsFrom ontbreekt</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bestandsnaam</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
