@@ -2229,7 +2229,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Niet herkend</translation>
+        <translation>Niet herkend</translation>
     </message>
 </context>
 <context>
@@ -2262,22 +2262,22 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished">Grootte</translation>
+        <translation>Grootte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandsnaam</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">De grootte van het data pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">De bestandsnaam van het data pack</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -4338,12 +4338,12 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation type="unfinished"></translation>
+        <translation>Pictogram categorie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoek pictogrammen...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4352,12 +4352,12 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Modern</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
@@ -4367,7 +4367,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod pakketten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
