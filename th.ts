@@ -2533,22 +2533,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>ระบบของคุณกำลังประสบปัญหาหน่วยความจำไม่เพียงพออย่างรุนแรง
+ซึ่งอาจนำไปสู่การทำงานช้าลงอย่างมาก การหยุดทำงาน หรือความไม่เสถียรของระบบ
+ขอแนะนำให้ปิดแอปพลิเคชันอื่นๆ หรือรีสตาร์ทระบบของคุณ
+
+ต้องการเปิดใช้งานต่อไปหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>แรงกดดันด้านหน่วยความจำสูง</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>ระบบกำลังเผชิญกับแรงกดดันด้านหน่วยความจำสูง</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>หน่วยความจำว่างเหลือน้อย</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2558,7 +2562,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>อาจมี RAM ไม่เพียงพอสำหรับการเปิดใช้งานเกมนี้ด้วยการตั้งค่าหน่วยความจำปัจจุบัน
+
+หน่วยความจำที่จัดสรรสูงสุด: %1 MiB
+หน่วยความจำว่าง: %2 MiB (จากทั้งหมด %3 MiB)
+
+เปิดใช้งานต่อไปหรือไม่? การทำเช่นนี้อาจทำให้เกมและระบบของคุณทำงานช้าลง</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -2610,7 +2619,8 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+ไม่สามารถเริ่มต้นใช้งานอินสแตนซ์นี้ได้ เนื่องจากไลบรารีบางส่วนหายไปหรือยังไม่ได้ดาวน์โหลด โปรดลองอีกครั้งในโหมดออนไลน์โดยใช้การเชื่อมต่ออินเทอร์เน็ตที่ใช้งานได้</translation>
     </message>
 </context>
 <context>
@@ -4202,7 +4212,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation type="unfinished"></translation>
+        <translation>หมวดหมู่ไอคอน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
@@ -4216,7 +4226,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>ทั้งหมด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
@@ -4231,7 +4241,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>ม็อดแพ็ค</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
@@ -6635,7 +6645,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเปิด Minecraft ได้: %1</translation>
     </message>
     <message>
         <source>Could not launch Minecraft!</source>
