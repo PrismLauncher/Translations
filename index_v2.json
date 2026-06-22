@@ -555,12 +555,12 @@
             "untranslated" : 570
         },
         "nl" : {
-            "file" : "7d51b222e3b104ab1c765ace15daae91d8ecdae6.class",
-            "sha1" : "7d51b222e3b104ab1c765ace15daae91d8ecdae6",
-            "size" : 346704,
-            "translated" : 2274,
+            "file" : "911cd551a26b11f8c36ffdcf65e9ebccab0b9352.class",
+            "sha1" : "911cd551a26b11f8c36ffdcf65e9ebccab0b9352",
+            "size" : 347456,
+            "translated" : 2282,
             "fuzzy" : 40,
-            "untranslated" : 62
+            "untranslated" : 54
         },
         "nn" : {
             "file" : "59f539e8910f36ea9883a376f296032639690eb7.class",
