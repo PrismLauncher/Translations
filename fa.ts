@@ -4714,7 +4714,7 @@ Please try again.</source>
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">دیگر لاگ‌ها</translation>
+        <translation>دیگر لاگ‌ها</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
@@ -4994,7 +4994,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>برای شروع &quot;اضافه کردن نمونه&quot; را کلیک کنید.</translation>
+        <translation>برای شروع &quot;روی افزودن نمایه کلیک کنید.</translation>
     </message>
 </context>
 <context>
@@ -5002,12 +5002,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="57"/>
         <source>Console window for </source>
-        <translation>پنجره کنسول برای </translation>
+        <translation>پنجره کنسول برای • </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="81"/>
         <source>Help</source>
-        <translation>راهنما</translation>
+        <translation>کمک</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
@@ -5017,12 +5017,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
-        <translation>&amp;سقط</translation>
+        <translation>&amp;توقف اجباری</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -5040,7 +5040,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>Kill the running instance</source>
-        <translation>به اتمام رساندن نمایه در حال اجرا</translation>
+        <translation>توقف اجباری نمایه در حال اجرا</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -5057,12 +5057,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
         <source>Listening on port: %1</source>
-        <translation>لیست کردن روی پورت: %1</translation>
+        <translation>فهرست کردن روی پورت: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation>پروفیلر لغو گشت</translation>
+        <translation>ابزار تحلیل(پروفایلر) متوقف گشت</translation>
     </message>
 </context>
 <context>
@@ -5074,12 +5074,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM شروع شد</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation>پروفیلر لغو شد</translation>
+        <translation>ابزار تحلیل(پروفایلر) متوقف شد</translation>
     </message>
 </context>
 <context>
@@ -5087,12 +5087,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="36"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>درحال دانلود جاوا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished"></translation>
+        <translation>درحال استخراج جاوا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5146,7 +5146,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="333"/>
         <source>Install Java</source>
-        <translation type="unfinished">نصب جاوا</translation>
+        <translation>نصب جاوا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
@@ -5157,12 +5157,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Error</source>
-        <translation type="unfinished">خطا</translation>
+        <translation>خطا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>لغو کردن</translation>
     </message>
 </context>
 <context>
@@ -5170,7 +5170,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>درحال بارگیری جاوا</translation>
     </message>
 </context>
 <context>
@@ -5178,27 +5178,27 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>درحال بررسی برای مسیر دودویی جاوا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>درحال جستجو برای مسیر دودویی جاوا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>برای پیدا کردن مسیر دودویی جاوا شکست خورد</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>در حال جمع‌آوری پوشه‌ها برای ایجاد پیوند نمادین (symlink)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>در حال لینک کردن مسیر باینری جاوا به‌صورت پیوند نمادین(Symlinking)</translation>
     </message>
 </context>
 <context>
@@ -5253,12 +5253,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>نصب ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation type="unfinished">بارگیری</translation>
+        <translation>بارگیری</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
@@ -6625,7 +6625,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">درحال دانلود کتابخانه های FML...</translation>
+        <translation>درحال بارگیری کتابخانه های FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6639,12 +6639,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">شکست در ساختن پوشه کتابخانه های FML درون نمایه.</translation>
+        <translation>ساختن پوشه کتابخانه های FML درون نمایه شکست خورد.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">شکست در کپی کتابخانه Forge/FML: %1.</translation>
+        <translation>شکست در نمونه‌سازی کتابخانه Forge/FML: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -6653,7 +6653,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">شکست در دانلود فایل های زیر:
+        <translation>بارگیری فایل های زیر شکست خورد:
 %1
 
 دلیل: %2
