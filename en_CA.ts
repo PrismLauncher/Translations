@@ -4230,12 +4230,12 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Icon category</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Search Icons...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4244,12 +4244,12 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">All</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modern</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
@@ -4259,7 +4259,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modpacks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
@@ -6792,7 +6792,7 @@ Granting %1 access to it via Flatseal is recommended.</translation>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Could not launch Minecraft: %1</translation>
     </message>
     <message>
         <source>Could not launch Minecraft!</source>
@@ -7212,7 +7212,7 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The process failed to start: %1</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
