@@ -4568,7 +4568,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="81"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation>شکست در حذف فایل‌های ناسازگار قبلی.</translation>
+        <translation>حذف فایل های قبلی با شکست مواجه شد.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="92"/>
