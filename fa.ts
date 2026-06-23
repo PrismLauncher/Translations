@@ -8703,7 +8703,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">عمومی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
@@ -10521,7 +10521,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">خط های رنگی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
@@ -12213,17 +12213,17 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مرتب‌سازی بر اساس مرتبط بودن</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مرتب‌سازی بر اساس دنبال‌کنندگان</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مرتب سازی بر اساس جدیدترین</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
@@ -12769,7 +12769,8 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">نسخهٔ API خیلی قدیمی است!
+لطفاً %1 را به‌روزرسانی کنید!</translation>
     </message>
 </context>
 <context>
@@ -12823,7 +12824,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
         <source>Donate information: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">اطلاعات اهدای کمک مالی: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="256"/>
@@ -12848,7 +12849,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="269"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">دیسکورد: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="291"/>
