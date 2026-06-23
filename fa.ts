@@ -1021,10 +1021,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished">دایرکتوری tmp/ شما در حال حاضر با پرچم &quot;noexec&quot; نصب شده است.
-برخی از نسخه های Minecraft ممکن است راه اندازی نشوند.
+        <translation>دایرکتوری /tmp شما در حال حاضر با پرچم «noexec» مانت شده است.
+برخی نسخه‌های ماینکرفت ممکن است اجرا نشوند.
 
-شما میتوانید این مشکل را با نصب مجدد tmp/ به عنوان &quot;exec&quot; یا قرار دادن پارامتر java.io.tmpdir JVM برای یک دایرکتوری قابل ویرایش در یک سیستم فایل که در آن پرچم &quot;exec&quot; تنظیم شده است، حل کنید. (به طور مثال، home/user/.local/tmp/)
+می‌توانید این مشکل را با مانت کردن مجدد /tmp به حالت «exec» یا با تنظیم آرگومان JVM یعنی java.io.tmpdir به یک دایرکتوری قابل نوشتن در یک فایل‌سیستم که پرچم «exec» روی آن تنظیم شده است (مثلاً /home/user/.local/tmp) برطرف کنید.
 </translation>
     </message>
     <message>
@@ -1294,7 +1294,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">شناسه کلاینت تغییر کرده است. جلسه جدید باید ایجاد شود.</translation>
+        <translation>شناسه کلاینت تغییر کرده است. نشست جدیدی باید ایجاد شود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
@@ -1319,7 +1319,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">وضعیت انجام حساب نامشخص: %1</translation>
+        <translation>وضعیت عملیات حساب نامشخص: %1</translation>
     </message>
 </context>
 <context>
@@ -1342,7 +1342,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished">اطلاعات متا شما از تاریخ گذشته است و یا اطلاعات لازم برای تعیین اینکه کدام نسخه جاوا باید استفاده شود را ندارد. از مسیر پیش‌فرض جاوا استفاده می شود.</translation>
+        <translation>اطلاعات متا شما منقضی شده است و یا اطلاعات لازم برای تعیین اینکه کدام نسخه جاوا باید استفاده شود را ندارد. از مسیر پیش‌فرض جاوا استفاده می شود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
@@ -1385,7 +1385,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">[X0X&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt; هشدار ویژگی جدید! &lt;/span&gt;[x]&lt;/body&gt;[X]</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt; هشدار ویژگی جدید! &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
@@ -1606,7 +1606,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="249"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>درحال دانلود متادیتا برای 1% اجزا</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="485"/>
@@ -1626,7 +1626,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>ناتوانی در دانلود متادیتا برای %۱ %۲. لطفاً نسخه را تغییر دهید یا بعداً مجدداً تلاش کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="815"/>
@@ -2292,22 +2292,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>دیتا پک ها را از بستر های ماد آنلاین دانلود کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>بررسی کنید یا تمام بسته‌های داده انتخاب‌شده را به‌روزرسانی کنید (اگر هیچ‌کدام انتخاب نشده‌اند، تمام دیتاپک ها به‌روزرسانی می‌شوند)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخه یک دیتا پک را تغییر بدهید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="81"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>دانلود دیتا پک ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="83"/>
@@ -2331,7 +2331,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>دانلود توسط کاربر متوقف شد.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="93"/>
@@ -2345,13 +2345,13 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="192"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="271"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>لغو عملیات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="125"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>زمانی که متادیتا غیرفعال است،آپدیت های دیتا پک در دسترس نیستند!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
@@ -2375,7 +2375,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>1% آپدیت است! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="160"/>
@@ -2401,7 +2401,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="208"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>شما درحال حذف متادیتا برای 1% دیتا پک ها هستید.
+آیا مطمئنید؟</translation>
     </message>
 </context>
 <context>
@@ -2457,7 +2458,12 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>رم کافی برای لانچر این نمایه با تنظیمات حافظه جدید وجود ندارد.
+
+موردنیاز: 1% مگابایت
+دردسترس: 1% مگابایت
+
+با این حال ادامه میدهید؟ ممکن است این باعث کندی در بازی و در سیستم شما بشود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
@@ -2466,7 +2472,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>سیستم زیر فشار بالای حافظه است.
+این ممکن است منجر به لگ و کاهش سرعت بشود.
+اگر ممکن است، بقیه برنامه ها را قبل از ادامه ببندید.
+
+با این حال اجرا شود؟</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2475,22 +2485,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>سیستم زیر فشار بحرانی حافظه است.
+این ممکن است منجر به لگ و کندی,کرش یا ناپایداری سیستم بشود.
+پیشنهاد میشود بقیه برنامه ها را قبل از ادامه ببندید یا سیستم را راه‌اندازی مجدد بکنید..
+
+با این حال اجرا شود؟</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>فشار بالای حافظه</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>سیستم زیر فشار بالای حافظه است</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>حافظه آزاد کم است</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2500,7 +2514,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>ممکن است رم آزاد کافی برای اجرای این نمایه با تنظیمات فعلی حافظه وجود نداشته باشد.
+
+حداکثر اختصاص داده‌شده: 1% مگابایت
+آزاد: 2% مگابایت (از 3% مگابایت کل)
+
+با این حال اجرا شود؟ این کار ممکن است باعث کندی در بازی و سیستم شود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -2517,7 +2536,7 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished">در حال بررسی اینکه آیا منابع متادیتا دارند...</translation>
+        <translation>در حال بررسی اینکه اگر منابع متادیتا دارند...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
@@ -2548,7 +2567,8 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+این نمایه نمیتواند اجرا بشود چون برخی کتابخانه ها موجود نیستند یا هنوز بارگیری نشده اند. لطفا دوباره در حالت آنلاین با اتصال اینترنتی فعال تلاش کنید</translation>
     </message>
 </context>
 <context>
@@ -2593,7 +2613,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">جایگزینی &amp;تنظیمات عمومی</translation>
+        <translation>بازنویسی &amp;تنظیمات عمومی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -2701,17 +2721,17 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">نام:</translation>
+        <translation>&amp;نام:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
         <source>&amp;Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;نسخه:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
         <source>&amp;Author:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;نویسنده:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
@@ -2735,12 +2755,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
         <source>&amp;Recommended Memory:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;حافظه پیشنهادی:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation type="unfinished"></translation>
+        <translation> . مگابایت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -2881,7 +2901,12 @@ This instance cannot be launched because some libraries are missing or have not 
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>این متن placeholders زیر را پشتیبانی میکند:
+{name} • • • • • اسم ماد
+{mod_id} • • • • • شناسه ماد
+{url} • • • • • URL ماد
+{version} • • • • • نسخه ماد
+{authors} • • • • • سازنده ماد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -3044,7 +3069,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the folder in the system file manager.</source>
-        <translation type="unfinished">پوشه را در فایل منیجر سیستم باز کنید.</translation>
+        <translation>پوشه را در مدیریت فایل های سیستم باز کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
@@ -3326,12 +3351,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>بنظر میرسد تنظیمات VisualVM درست باشد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>ویرایشگر متن</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3442,7 +3467,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>در حال دریافت فهرست...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
@@ -3458,47 +3483,47 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>در حال بررسی و آماده‌سازی ماد ها ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>فهرست اطلاعات نا معتبر: هیچ اطلاعاتی برای بارگیری پوشه %1 در دسترس نیست</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه های مسدود شده پیدا شد</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه های زیر در لانچرهای شخص ثالث قابل بارگیری نیستند.&lt;br/&gt;شما باید آن‌ها را به‌صورت دستی دانلود کنید و به این نمایه اضافه کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>درحال ساخت نمایه...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>درحال دانلود ماد ها...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>دانلود ماد</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">کپی کردن مودهای مسدود شده...</translation>
+        <translation>درحال کپی کردن مادهای مسدود شده...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="375"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">کپی کردن مودهای مسدود شده (%1 از %2 تکمیل شده)</translation>
+        <translation>درحال کپی کردن مادهای مسدود شده (%1 از %2 تکمیل شده)</translation>
     </message>
 </context>
 <context>
@@ -3524,7 +3549,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>توجه: بسیاری از مودپک‌های جدید FTB همچنین در CurseForge نیز در دسترس هستند! همچنین اگر نمایه های FTB شما در مکان پیش‌فرض نیستند، با استفاده از دکمه کنار جستجو آن را انتخاب کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -3539,7 +3564,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished">دایرکتوری نمونه های FTBApp را انتخاب کنید</translation>
+        <translation>دایرکتوری نمایه های FTBApp را انتخاب کنید</translation>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
@@ -3584,7 +3609,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="254"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">تجزیه پاسخ API از CurseForge برای «%1»...</translation>
+        <translation>در حال تجزیه و تحلیل پاسخ API از CurseForge برای %1...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3597,7 +3622,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="38"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished">آماده سازی مود ها برای CurseForge...</translation>
+        <translation>درحال آماده سازی ماد ها برای CurseForge...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3616,7 +3641,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">هیچ نسخه معتبری برای این منبع پیدا نشد. احتمالا برای نسخه فعلی بازی یا ماد لودر در دسترس نیست.</translation>
+        <translation>هیچ نسخه معتبری برای این منبع پیدا نشد. احتمالا برای نسخه فعلی بازی یا ماد لودر در دسترس نیست.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
@@ -3626,7 +3651,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">تجزیه پاسخ API از CurseForge برای «%1»...</translation>
+        <translation>در حال تجزیه و تحلیل پاسخ API از CurseForge برای «%1»...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="186"/>
@@ -4213,12 +4238,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>ماد پک ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>شخصی سازی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
@@ -4548,17 +4573,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="92"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>رد شدن</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="109"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>قادر به دانلود فایل های بازی نیست: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="113"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>درحال بارگیری فایل های بازی</translation>
     </message>
 </context>
 <context>
@@ -4949,7 +4974,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>قادر به ساخت پوشه موقت نیست</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="966"/>
@@ -5070,12 +5095,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>قادر به باز کردن فایل زیپ ارائه‌شده نیست.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>هیج فایلی در فایل زیپ ارائه شده پیدا نشد.</translation>
     </message>
 </context>
 <context>
@@ -5083,32 +5108,32 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="204"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تازه سازی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="221"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>بارگیری</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
         <source>Cancel</source>
-        <translation type="unfinished">لغو</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Mojang</source>
-        <translation type="unfinished">موجانگ</translation>
+        <translation>موجانگ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="290"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>azul zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
