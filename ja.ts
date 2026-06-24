@@ -10276,12 +10276,12 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="458"/>
         <source>Only Enable Selected</source>
-        <translation>選択項目のみ有効化</translation>
+        <translation>選択Modのみ有効化</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
         <source>Enable Required</source>
-        <translation>必須Modも有効化</translation>
+        <translation>依存Modも有効化</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="461"/>
@@ -10293,7 +10293,7 @@ Ignoring them may break the game.</source>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
         <translation>
-            <numerusform>無効化しようとしているModに %n 個のModが依存しています。
+            <numerusform>無効化されるModは %n 個のModに必要とされています。
 </numerusform>
         </translation>
     </message>
@@ -10307,12 +10307,12 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
         <source>Only Disable Selected</source>
-        <translation>選択項目のみ無効化</translation>
+        <translation>選択Modのみ無効化</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="465"/>
         <source>Disable Required</source>
-        <translation>必須Modも無効化</translation>
+        <translation>依存Modも無効化</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
