@@ -6660,7 +6660,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation>Podle celkového &amp;odehraného čas</translation>
+        <translation>Podle celkového &amp;odehraného času</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
