@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Luba Modrinthi varuallikas blokeeritud modide jaoks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -996,7 +996,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Teie /tmp direktoor on hetkel paigladatud &apos;noexec&apos; lipuga.
+Mõni versioon Minecraftis ei pruugi tööle hakkata.
+
+Te saate selle probleem lahendada sellega, et te paigaldate uuesti /tmp &apos;exec&apos;ina või panete java.io.tmpdir JVM argumendi kirjutatavase direktoori, kuhu on &apos;exec&apos; lipp paigladatud. (e.g., /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1182"/>
@@ -1529,7 +1533,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sõnum sildi kohatäide.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
@@ -1539,7 +1543,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasutajanimi on ainult siis valiidne, kui see on 3 kuni 16 tähte pikkuses, kasutab Inglise tähti, numbreid ning allkriipsusid. Invaliidne kasutajanimi võib takistada serverite ja maailmate ühendamist.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -1595,7 +1599,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="85"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>Laen komponente</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
@@ -1610,7 +1614,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="249"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>Tõmban metaandmed %1 komponenditeks</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="485"/>
@@ -1630,7 +1634,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei saanud tõmmata metaandmeid %1 %2 jaoks. Palun muutke versiooni või proovige uuesti hiljem.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="815"/>
@@ -1659,13 +1663,14 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitmed alamülesanded ebaõnnestusid</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitmed alamülesanded ebaõnnestusid
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
@@ -1932,7 +1937,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasutage erinevat kontot kui vaikimis spetifiseeritud.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
@@ -2250,7 +2255,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Faili nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
@@ -2260,7 +2265,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Andmepakki faili nimi.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -2281,7 +2286,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Andmepakki nimi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
