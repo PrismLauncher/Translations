@@ -5663,22 +5663,22 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="66"/>
+        <location filename="src/launcher/LaunchController.cpp" line="67"/>
         <source>No instance specified!</source>
         <translation>Walang instance na nai-specify!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="71"/>
+        <location filename="src/launcher/LaunchController.cpp" line="72"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>May mga invalid na Java arguments na naka-specify. Paki-ayos muna nito.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="96"/>
+        <location filename="src/launcher/LaunchController.cpp" line="97"/>
         <source>No Accounts</source>
         <translation>Walang Account</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="114"/>
+        <location filename="src/launcher/LaunchController.cpp" line="115"/>
         <source>Which account would you like to use?</source>
         <translation>Anong gusto mong gamitin na account?</translation>
     </message>
@@ -5687,7 +5687,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
         <translation type="vanished">Walang piniling account para sa pag-launch.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="254"/>
+        <location filename="src/launcher/LaunchController.cpp" line="236"/>
         <source>Player name</source>
         <translation>Pangalan ng Player</translation>
     </message>
@@ -5704,7 +5704,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
         <translation type="vanished">Naka-tanggap ng hindi masuring status ng session habang naglologin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="213"/>
+        <location filename="src/launcher/LaunchController.cpp" line="214"/>
         <source>Play demo?</source>
         <translation>Laruin ang demo?</translation>
     </message>
@@ -5719,12 +5719,12 @@ Kailangan mo muna bilhin ito bago laruin.
 Gusto mo ba laruin ang demo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="220"/>
+        <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Play Demo</source>
         <translation>Laruin ang Demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="221"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Cancel</source>
         <translation>I-cancel</translation>
     </message>
@@ -5741,7 +5741,7 @@ Gusto mo ba laruin ang demo?</translation>
         <translation type="vanished">Nag expire na yung account at kailangan itong i-login ulit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="331"/>
+        <location filename="src/launcher/LaunchController.cpp" line="340"/>
         <source>Account refresh failed</source>
         <translation>Hindi magawa ang pag-refresh ng Account</translation>
     </message>
@@ -5762,34 +5762,34 @@ Gusto mo ba laruin ang demo?</translation>
         <translation type="obsolete">Nag-expire na ang account at kina-kailangang muli i-authenticate</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
-        <location filename="src/launcher/LaunchController.cpp" line="421"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Error!</source>
         <translation>Error!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
-        <location filename="src/launcher/LaunchController.cpp" line="366"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="375"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Hindi ma-load ang instance profile.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="381"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Hindi ma-instantiate ang launcher.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="421"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Nabigo ang check ng Profiler para sa %1: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="443"/>
         <source>&amp;Launch</source>
         <translation>&amp;Buksan</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="428"/>
+        <location filename="src/launcher/LaunchController.cpp" line="437"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5806,7 +5806,7 @@ Gusto mo ba laruin ang demo?</translation>
         <translation type="obsolete">Nag-expire na ang &apos;%1&apos; at kailangang muling i-authenticate. Gusto mo bang i-authenticate ang account na ito?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="432"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Waiting.</source>
         <translation>Naghihintay.</translation>
     </message>
@@ -5815,93 +5815,116 @@ Gusto mo ba laruin ang demo?</translation>
         <translation type="obsolete">Buksan</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Hindi ma-start ang profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="450"/>
         <source>Error</source>
         <translation>Mali</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="168"/>
-        <location filename="src/launcher/LaunchController.cpp" line="468"/>
+        <location filename="src/launcher/LaunchController.cpp" line="169"/>
+        <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>Abort</source>
         <translation>I-pigil</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="186"/>
+        <location filename="src/launcher/LaunchController.cpp" line="187"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="189"/>
+        <location filename="src/launcher/LaunchController.cpp" line="190"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <location filename="src/launcher/LaunchController.cpp" line="193"/>
         <source>The launcher&apos;s client identification has changed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="195"/>
+        <location filename="src/launcher/LaunchController.cpp" line="196"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>No account was selected for launch.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="217"/>
+        <location filename="src/launcher/LaunchController.cpp" line="218"/>
         <source>
 
 Do you want to play the demo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="240"/>
+        <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="244"/>
+        <location filename="src/launcher/LaunchController.cpp" line="248"/>
+        <source>Auth servers offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="249"/>
+        <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <source>No internet connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="252"/>
+        <source>You are not connected to the Internet, launching in offline mode.
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="246"/>
+        <location filename="src/launcher/LaunchController.cpp" line="255"/>
         <source>Choose your offline mode player name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="294"/>
+        <location filename="src/launcher/LaunchController.cpp" line="303"/>
         <source>No account selected for launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="331"/>
+        <location filename="src/launcher/LaunchController.cpp" line="340"/>
         <source>%1. Do you want to reauthenticate this account?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="481"/>
+        <location filename="src/launcher/LaunchController.cpp" line="490"/>
         <source>Kill Minecraft?</source>
         <translation>Patayin ang Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="482"/>
+        <location filename="src/launcher/LaunchController.cpp" line="491"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Ito ay maaring mag-cause ng corruption sa instance at dapat gamitin lang kung nag-freeze ang Minecraft</translation>
     </message>
@@ -5926,7 +5949,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">Napaltan ang Client Identification</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="97"/>
+        <location filename="src/launcher/LaunchController.cpp" line="98"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>Para makalaro ng Minecraft, kailangan mo ng isang Microsoft account na may-ari ng isang kopya ng Minecraft. Gusto mo ba i-open ang account manager para dagdagan ng account?</translation>
@@ -5960,17 +5983,17 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="64"/>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>Hindi makuha yung Minecraft access token: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>Hindi maparse ang access token response ng Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="74"/>
         <source>Got Minecraft access token</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8512,17 +8535,17 @@ Make sure you also trust the URL.
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="61"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="67"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <source>Got Minecraft profile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15405,79 +15428,79 @@ Sigurado ka ba sa gagawin mo?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="72"/>
         <source>Failed to get authorization for %1 services: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="80"/>
         <source>Could not parse authorization response for access to %1 services.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="85"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="92"/>
         <source>Got authorization to access %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="102"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="103"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="110"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="111"/>
         <source>XErr element is missing from %1 authorization error response.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="116"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="117"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="122"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="129"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="135"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="145"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="162"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="163"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
@@ -15493,17 +15516,17 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>Xbox user authentication failed: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
         <source>Xbox user authentication response could not be understood.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="75"/>
         <source>Got Xbox user token</source>
         <translation>Nakakuha ng token ng gumagamit ng Xbox</translation>
     </message>

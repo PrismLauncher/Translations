@@ -6211,28 +6211,28 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="66"/>
+        <location filename="src/launcher/LaunchController.cpp" line="67"/>
         <source>No instance specified!</source>
         <translation>Aucune instance spécifiée&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="71"/>
+        <location filename="src/launcher/LaunchController.cpp" line="72"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>Arguments Java invalides spécifiés. Veuillez d’abord corriger ceci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="96"/>
+        <location filename="src/launcher/LaunchController.cpp" line="97"/>
         <source>No Accounts</source>
         <translation>Aucun compte</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="97"/>
+        <location filename="src/launcher/LaunchController.cpp" line="98"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>Pour jouer à Minecraft, vous devez être connecté avec au moins un compte Microsoft qui possède Minecraft. Voulez-vous ouvrir le gestionnaire de compte pour ajouter un compte maintenant ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="114"/>
+        <location filename="src/launcher/LaunchController.cpp" line="115"/>
         <source>Which account would you like to use?</source>
         <translation>Quel compte souhaitez-vous utiliser&#xa0;?</translation>
     </message>
@@ -6269,7 +6269,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
         <translation type="vanished">Le lancement reste impossible après %1 essais. Voulez-vous réessayer&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="254"/>
+        <location filename="src/launcher/LaunchController.cpp" line="236"/>
         <source>Player name</source>
         <translation>Nom du joueur</translation>
     </message>
@@ -6286,7 +6286,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
         <translation type="vanished">Un statut indéterminé de la session a été reçu durant la connexion.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="213"/>
+        <location filename="src/launcher/LaunchController.cpp" line="214"/>
         <source>Play demo?</source>
         <translation>Lancer la démo&#xa0;?</translation>
     </message>
@@ -6301,12 +6301,12 @@ Vous devez d&apos;abord acheter le jeu pour y jouer.
 Souhaitez-vous lancer la démo&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="220"/>
+        <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Play Demo</source>
         <translation>Lancer la démo</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="221"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
@@ -6323,7 +6323,7 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
         <translation type="vanished">Le compte a expiré et doit être reconnecté manuellement.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="331"/>
+        <location filename="src/launcher/LaunchController.cpp" line="340"/>
         <source>Account refresh failed</source>
         <translation>Rafraîchissement du compte échoué</translation>
     </message>
@@ -6360,29 +6360,29 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
         <translation type="vanished">Le compte a expiré et nécessite d&apos;être réauthentifié</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
-        <location filename="src/launcher/LaunchController.cpp" line="421"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Error!</source>
         <translation>Erreur&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
-        <location filename="src/launcher/LaunchController.cpp" line="366"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="375"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Impossible de charger le profil de l&apos;instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="381"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Impossible d&apos;instancier un launcher.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="421"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Vérification du profiler pour %1 échoué : %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="443"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lancer</translation>
     </message>
@@ -6391,7 +6391,7 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
         <translation type="vanished">Impossible de démarrer le profileur&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="428"/>
+        <location filename="src/launcher/LaunchController.cpp" line="437"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -6400,7 +6400,7 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="432"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Waiting.</source>
         <translation>En attente.</translation>
     </message>
@@ -6409,55 +6409,55 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
         <translation type="vanished">Lancer</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Impossible de démarrer le profileur&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="450"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="168"/>
-        <location filename="src/launcher/LaunchController.cpp" line="468"/>
+        <location filename="src/launcher/LaunchController.cpp" line="169"/>
+        <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>Abort</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="186"/>
+        <location filename="src/launcher/LaunchController.cpp" line="187"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
         <translation>Une erreur s&apos;est produite lors de l&apos;actualisation de « %1 »</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="189"/>
+        <location filename="src/launcher/LaunchController.cpp" line="190"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
         <translation>&apos;%1&apos; a expiré et doit être réauthentifié</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <location filename="src/launcher/LaunchController.cpp" line="193"/>
         <source>The launcher&apos;s client identification has changed</source>
         <translation>L’identifiant client du launcher a changé</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="195"/>
+        <location filename="src/launcher/LaunchController.cpp" line="196"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
         <translation>&apos;%1&apos; n’existe plus sur les serveurs</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
         <translation>Ce compte ne possède pas Minecraft.
 Vous devez d’abord acheter le jeu pour jouer à la version complète.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>No account was selected for launch.</source>
         <translation>Aucun compte n’a été sélectionné pour le lancement.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="217"/>
+        <location filename="src/launcher/LaunchController.cpp" line="218"/>
         <source>
 
 Do you want to play the demo?</source>
@@ -6466,12 +6466,35 @@ Do you want to play the demo?</source>
 Voulez-vous jouer à la démo&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="240"/>
+        <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
         <translation>Choisissez votre nom de joueur pour le mode démo</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="244"/>
+        <location filename="src/launcher/LaunchController.cpp" line="248"/>
+        <source>Auth servers offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="249"/>
+        <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <source>No internet connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="252"/>
+        <source>You are not connected to the Internet, launching in offline mode.
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
@@ -6480,27 +6503,27 @@ Voulez-vous jouer à la démo&#x202f;?</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="246"/>
+        <location filename="src/launcher/LaunchController.cpp" line="255"/>
         <source>Choose your offline mode player name</source>
         <translation>Choisissez votre nom de joueur pour le mode hors ligne</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="294"/>
+        <location filename="src/launcher/LaunchController.cpp" line="303"/>
         <source>No account selected for launch</source>
         <translation>Aucun compte sélectionné pour le lancement</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="331"/>
+        <location filename="src/launcher/LaunchController.cpp" line="340"/>
         <source>%1. Do you want to reauthenticate this account?</source>
         <translation>%1. Voulez-vous réauthentifier ce compte&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="481"/>
+        <location filename="src/launcher/LaunchController.cpp" line="490"/>
         <source>Kill Minecraft?</source>
         <translation>Forcer la fermeture de Minecraft&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="482"/>
+        <location filename="src/launcher/LaunchController.cpp" line="491"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Cela peut provoquer la corruption de l&apos;instance et doit être utilisé uniquement si Minecraft ne répond pas pour une raison quelconque</translation>
     </message>
@@ -6539,17 +6562,17 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="64"/>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>Impossible d&apos;obtenir le jeton d&apos;accès de Minecraft&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>Impossible d&apos;analyser la réponse du jeton d&apos;accès Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="74"/>
         <source>Got Minecraft access token</source>
         <translation>Accès à Minecraft récupéré</translation>
     </message>
@@ -9830,12 +9853,12 @@ Assurez-vous également que l&apos;URL est fiable.
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="61"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation>Échec de la récupération du profil Minecraft Java&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <source>Got Minecraft profile</source>
         <translation>Profil Minecraft récupéré</translation>
     </message>
@@ -9844,7 +9867,7 @@ Assurez-vous également que l&apos;URL est fiable.
         <translation type="vanished">Échec de la récupération du profil Minecraft Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="67"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>La réponse du profil Java Minecraft n&apos;a pas pu être analysée</translation>
     </message>
@@ -18366,42 +18389,42 @@ Ce monde pourrait disparaître pour toujours (C&apos;EST TRÈS LONG).
         <translation>Erreur STS inconnue pour les services de %1&#xa0;: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="72"/>
         <source>Failed to get authorization for %1 services: %2</source>
         <translation>Impossible d&apos;obtenir l&apos;autorisation pour les services de %1&#xa0;: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="80"/>
         <source>Could not parse authorization response for access to %1 services.</source>
         <translation>Impossible d&apos;analyser la réponse d&apos;autorisation pour accéder aux services %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="85"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
         <translation>Le serveur a modifié l&apos;empreinte de l&apos;utilisateur de l&apos;autorisation %1 dans la réponse. Une erreur s&apos;est produite.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="92"/>
         <source>Got authorization to access %1</source>
         <translation>Autorisation obtenue pour accéder à %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="102"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="103"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
         <translation>Impossible d&apos;analyser l&apos;erreur de la réponse de %1 au format JSON&#xa0;: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="110"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="111"/>
         <source>XErr element is missing from %1 authorization error response.</source>
         <translation>L&apos;élément XErr est absent de l&apos;erreur de la réponse de l&apos;autorisation de %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="116"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="117"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
         <translation>Ce compte Microsoft n&apos;a pas de profil Xbox Live. Veuillez acheter le jeu sur %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="122"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation>Xbox Live n&apos;est pas disponible dans votre pays. Vous avez été bloqué.</translation>
     </message>
@@ -18414,7 +18437,7 @@ Ce monde pourrait disparaître pour toujours (C&apos;EST TRÈS LONG).
         <translation type="vanished">XBox Live n&apos;est pas disponible dans votre pays. Vous avez été bloqué.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="129"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
@@ -18423,32 +18446,32 @@ Please set up your account according to %1.</source>
 Veuillez configurer votre compte selon %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="135"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
         <translation>Ce compte Microsoft exige la preuve de votre âge pour pouvoir jouer. Veuillez vous connecter à %1 pour fournir une preuve d&apos;âge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
         <translation>Ce compte Microsoft a atteint sa limite de temps de jeu. Il n&apos;est pas possible de se connecter avec ce compte.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="145"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
         <translation>Ce compte Microsoft a été banni par Xbox pour une violation d&apos;une ou plusieurs normes communautaires pour Xbox et n&apos;est pas en mesure d&apos;être utilisé.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
         <translation>Ce compte Microsoft est actuellement limité et votre tuteur ne vous a pas donné la permission de jouer en ligne. Connectez-vous à %1 et que votre tuteur change vos autorisations.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
         <translation>Ce compte Microsoft n&apos;a pas accepté les Conditions de service de Xbox. Veuillez vous connecter et les accepter.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="162"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="163"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
@@ -18485,12 +18508,12 @@ Veuillez configurer votre compte selon %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>Xbox user authentication failed: %1</source>
         <translation>Authentification de l&apos;utilisateur Xbox ratée&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
         <source>Xbox user authentication response could not be understood.</source>
         <translation>L&apos;authentification de l&apos;utilisateur Xbox n&apos;a pas pu être comprise.</translation>
     </message>
@@ -18507,7 +18530,7 @@ Veuillez configurer votre compte selon %1.</translation>
         <translation type="vanished">La réponse d&apos;authentification pour l&apos;utilisateur XBox n&apos;a pas pu être comprise.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="75"/>
         <source>Got Xbox user token</source>
         <translation>Jeton d&apos;utilisateur Xbox récupéré</translation>
     </message>

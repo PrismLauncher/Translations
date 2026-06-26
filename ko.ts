@@ -6178,28 +6178,28 @@ You can change the Java version in the settings later.
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="66"/>
+        <location filename="src/launcher/LaunchController.cpp" line="67"/>
         <source>No instance specified!</source>
         <translation>선택한 인스턴스 없음!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="71"/>
+        <location filename="src/launcher/LaunchController.cpp" line="72"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>잘못된 Java 인수를 지정하였습니다. 이 문제를 먼저 고쳐야 합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="96"/>
+        <location filename="src/launcher/LaunchController.cpp" line="97"/>
         <source>No Accounts</source>
         <translation>계정 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="97"/>
+        <location filename="src/launcher/LaunchController.cpp" line="98"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>마인크래프트를 플레이하려면 마인크래프트를 소유하고 있는 하나 이상의 Microsoft 계정에 로그인되어 있어야 합니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="114"/>
+        <location filename="src/launcher/LaunchController.cpp" line="115"/>
         <source>Which account would you like to use?</source>
         <translation>어떤 계정을 사용하시겠습니까?</translation>
     </message>
@@ -6236,7 +6236,7 @@ You can change the Java version in the settings later.
         <translation type="vanished">%1번 시도했지만 실행할 수 없는 것 같습니다. 계속 시도하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="254"/>
+        <location filename="src/launcher/LaunchController.cpp" line="236"/>
         <source>Player name</source>
         <translation>플레이어 이름</translation>
     </message>
@@ -6253,7 +6253,7 @@ You can change the Java version in the settings later.
         <translation type="vanished">로그인 과정에서 불분명한 세션 상태를 수신함.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="213"/>
+        <location filename="src/launcher/LaunchController.cpp" line="214"/>
         <source>Play demo?</source>
         <translation>데모를 플레이하시겠습니까?</translation>
     </message>
@@ -6268,12 +6268,12 @@ Do you want to play the demo?</source>
 먼저 데모를 플레이하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="220"/>
+        <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Play Demo</source>
         <translation>데모 플레이</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="221"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Cancel</source>
         <translation>취소</translation>
     </message>
@@ -6290,7 +6290,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">계정이 만료되었으므로 수동으로 다시 로그인해야 합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="331"/>
+        <location filename="src/launcher/LaunchController.cpp" line="340"/>
         <source>Account refresh failed</source>
         <translation>계정 새로고침 실패</translation>
     </message>
@@ -6327,29 +6327,29 @@ Do you want to play the demo?</source>
         <translation type="vanished">계정의 인증이 만료되었으며 다시 인증하여야 함</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
-        <location filename="src/launcher/LaunchController.cpp" line="421"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Error!</source>
         <translation>오류!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
-        <location filename="src/launcher/LaunchController.cpp" line="366"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="375"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>인스턴스 프로필을 불러오지 못하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="381"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>런처를 인스턴스화하지 못하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="421"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1의 프로파일러를 확인하지 못함: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="443"/>
         <source>&amp;Launch</source>
         <translation>실행(&amp;L)</translation>
     </message>
@@ -6358,7 +6358,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">프로파일러를 시작할 수 없었습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="428"/>
+        <location filename="src/launcher/LaunchController.cpp" line="437"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -6367,7 +6367,7 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="432"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Waiting.</source>
         <translation>대기하는 중입니다.</translation>
     </message>
@@ -6376,55 +6376,55 @@ Do you want to play the demo?</source>
         <translation type="vanished">실행</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>프로파일러를 시작할 수 없었습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="450"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="168"/>
-        <location filename="src/launcher/LaunchController.cpp" line="468"/>
+        <location filename="src/launcher/LaunchController.cpp" line="169"/>
+        <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="186"/>
+        <location filename="src/launcher/LaunchController.cpp" line="187"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
         <translation>&apos;%1&apos;을 새로 고치는 동안 오류가 발생함</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="189"/>
+        <location filename="src/launcher/LaunchController.cpp" line="190"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
         <translation>&apos;%1&apos;의 인증이 만료되었으며 다시 인증하여야 함</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <location filename="src/launcher/LaunchController.cpp" line="193"/>
         <source>The launcher&apos;s client identification has changed</source>
         <translation>런처의 클라이언트 식별자가 변경됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="195"/>
+        <location filename="src/launcher/LaunchController.cpp" line="196"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
         <translation>&apos;%1&apos;이(가) 더 이상 서버에 존재하지 않음</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
         <translation>이 계정은 마인크래프트를 소유하고 있지 않습니다.
 전체 버전을 플레이하려면 먼저 게임을 구매하여야 합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>No account was selected for launch.</source>
         <translation>실행할 계정이 선택되지 않았습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="217"/>
+        <location filename="src/launcher/LaunchController.cpp" line="218"/>
         <source>
 
 Do you want to play the demo?</source>
@@ -6433,12 +6433,35 @@ Do you want to play the demo?</source>
 체험판을 플레이하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="240"/>
+        <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
         <translation>체험판 모드 플레이어 이름 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="244"/>
+        <location filename="src/launcher/LaunchController.cpp" line="248"/>
+        <source>Auth servers offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="249"/>
+        <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <source>No internet connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="252"/>
+        <source>You are not connected to the Internet, launching in offline mode.
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
@@ -6447,27 +6470,27 @@ Do you want to play the demo?</source>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="246"/>
+        <location filename="src/launcher/LaunchController.cpp" line="255"/>
         <source>Choose your offline mode player name</source>
         <translation>오프라인 모드 플레이어 이름 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="294"/>
+        <location filename="src/launcher/LaunchController.cpp" line="303"/>
         <source>No account selected for launch</source>
         <translation>실행할 계정이 선택되지 않음</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="331"/>
+        <location filename="src/launcher/LaunchController.cpp" line="340"/>
         <source>%1. Do you want to reauthenticate this account?</source>
         <translation>%1. 이 계정을 다시 인증하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="481"/>
+        <location filename="src/launcher/LaunchController.cpp" line="490"/>
         <source>Kill Minecraft?</source>
         <translation>마인크래프트를 강제 종료하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="482"/>
+        <location filename="src/launcher/LaunchController.cpp" line="491"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>이로 인해 인스턴스가 손상될 수 있습니다. 마인크래프트가 어떤 이유로 응답하지 않는 경우에만 사용하여야 합니다.</translation>
     </message>
@@ -6506,17 +6529,17 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="64"/>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>마인크래프트 액세스 토큰을 가져오지 못했습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>마인크래프트 액세스 토큰 응답을 파싱하지 못하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="74"/>
         <source>Got Minecraft access token</source>
         <translation>마인크래프트 액세스 토큰을 가져옴</translation>
     </message>
@@ -9749,12 +9772,12 @@ URL 또한 신뢰할 수 있는지 반드시 확인하십시오.
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="61"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation>마인크래프트 Java 프로필 받아오기 실패: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <source>Got Minecraft profile</source>
         <translation>마인크래프트 프로필 가져옴</translation>
     </message>
@@ -9763,7 +9786,7 @@ URL 또한 신뢰할 수 있는지 반드시 확인하십시오.
         <translation type="vanished">마인크래프트 Java 프로필을 획득하지 못했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="67"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>마인크래프트 Java 프로필의 응답을 파싱할 수 없음</translation>
     </message>
@@ -18236,42 +18259,42 @@ Are you sure?</source>
         <translation>%1 서비스의 알 수 없는 STS 오류: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="72"/>
         <source>Failed to get authorization for %1 services: %2</source>
         <translation>%1 서비스로부터 인증 정보를 받아올 수 없습니다: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="80"/>
         <source>Could not parse authorization response for access to %1 services.</source>
         <translation>%1 서비스에 대한 액세스 권한 부여 응답을 파싱할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="85"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
         <translation>서버가 응답에서 %1 인증 사용자 해시를 변경했습니다. 뭔가 잘못되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="92"/>
         <source>Got authorization to access %1</source>
         <translation>%1 액세스 권한 가져옴</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="102"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="103"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
         <translation>%1 권한 부여 오류 응답을 JSON으로 파싱할 수 없습니다: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="110"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="111"/>
         <source>XErr element is missing from %1 authorization error response.</source>
         <translation>XErr element가 %1 인증 오류 응답에서 누락되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="116"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="117"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
         <translation>이 Microsoft 계정에는 Xbox Live 프로필이 없습니다. 먼저 %1에서 게임을 구매하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="122"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation>Xbox Live는 귀하의 국가에서 이용하실 수 없습니다. 접속이 차단되었습니다.</translation>
     </message>
@@ -18284,7 +18307,7 @@ Are you sure?</source>
         <translation type="vanished">해당 국가에서는 XBox Live를 사용할 수 없습니다. 차단되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="129"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
@@ -18293,32 +18316,32 @@ Please set up your account according to %1.</source>
 %1에 따라 계정을 설정하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="135"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
         <translation>이 Microsoft 계정으로 플레이하려면 나이를 인증해야 합니다. %1에 로그인하여 나이를 인증하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
         <translation>이 Microsoft 계정의 플레이 시간 제한에 도달했습니다. 이 Microsoft 계정의 로그인이 차단되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="145"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
         <translation>이 Microsoft 계정은 Xbox 커뮤니티 표준을 위반하여 차단되었으며 사용할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
         <translation>이 Microsoft 계정은 현재 제한되었으며 보호자가 온라인 플레이를 허용하지 않았습니다. %1에 로그인하여 보호자에게 허용을 요청하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
         <translation>이 Microsoft 계정은 Xbox의 이용약관을 수락하지 않았습니다. 로그인하여 수락하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="162"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="163"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
@@ -18355,12 +18378,12 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>Xbox user authentication failed: %1</source>
         <translation>Xbox 사용자 인증에 실패했습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
         <source>Xbox user authentication response could not be understood.</source>
         <translation>Xbox 사용자 인증 응답을 이해할 수 없습니다.</translation>
     </message>
@@ -18377,7 +18400,7 @@ Please set up your account according to %1.</source>
         <translation type="vanished">XBox 사용자 인증 응답을 이해할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="75"/>
         <source>Got Xbox user token</source>
         <translation>Xbox 사용자 토큰 가져옴</translation>
     </message>

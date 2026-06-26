@@ -5363,22 +5363,22 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="66"/>
+        <location filename="src/launcher/LaunchController.cpp" line="67"/>
         <source>No instance specified!</source>
         <translation>Níor sonraíodh aon chás!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="71"/>
+        <location filename="src/launcher/LaunchController.cpp" line="72"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>Argóintí Java neamhbhailí sonraithe. Deisigh é seo ar dtús le do thoil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="96"/>
+        <location filename="src/launcher/LaunchController.cpp" line="97"/>
         <source>No Accounts</source>
         <translation>Gan Chuntais</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="114"/>
+        <location filename="src/launcher/LaunchController.cpp" line="115"/>
         <source>Which account would you like to use?</source>
         <translation>Cén cuntas ar mhaith leat a úsáid?</translation>
     </message>
@@ -5387,7 +5387,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
         <translation type="vanished">Níl aon chuntas roghnaithe le seoladh.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="254"/>
+        <location filename="src/launcher/LaunchController.cpp" line="236"/>
         <source>Player name</source>
         <translation>Ainm imreora</translation>
     </message>
@@ -5404,7 +5404,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
         <translation type="vanished">Fuarthas stádas seisiúin neamhchinnte le linn logála isteach.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="213"/>
+        <location filename="src/launcher/LaunchController.cpp" line="214"/>
         <source>Play demo?</source>
         <translation>Seinn an taispeántas?</translation>
     </message>
@@ -5419,12 +5419,12 @@ Ní mór duit an cluiche a cheannach ar dtús le go mbeidh tú in ann é a imirt
 Ar mhaith leat an taispeántas a imirt?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="220"/>
+        <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Play Demo</source>
         <translation>Seinn Taispeántas</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="221"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Cancel</source>
         <translation>Cealaigh</translation>
     </message>
@@ -5445,7 +5445,7 @@ Ar mhaith leat an taispeántas a imirt?</translation>
         <translation type="vanished">Níl &apos;%1&apos; ar na freastalaithe a thuilleadh. B&apos;fhéidir gur aistríodh é, agus sa chás sin cuir an cuntas nua leis ar aistrigh tú an ceann seo chuige.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="331"/>
+        <location filename="src/launcher/LaunchController.cpp" line="340"/>
         <source>Account refresh failed</source>
         <translation>Theip ar athnuachan cuntais</translation>
     </message>
@@ -5462,34 +5462,34 @@ Ar mhaith leat an taispeántas a imirt?</translation>
         <translation type="vanished">Tá an cuntas imithe in éag agus ní mór é a athfhíordheimhniú</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
-        <location filename="src/launcher/LaunchController.cpp" line="421"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Error!</source>
         <translation>Earráid!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
-        <location filename="src/launcher/LaunchController.cpp" line="366"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="375"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Níorbh fhéidir próifíl an sampla a lódáil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="381"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Níorbh fhéidir lainseálaí a chruthú.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="421"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Theip ar sheiceáil phróifílitheora le haghaidh %1: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="443"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lainseáil</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="428"/>
+        <location filename="src/launcher/LaunchController.cpp" line="437"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5502,60 +5502,60 @@ Ar mhaith leat an taispeántas a imirt?</translation>
         <translation type="vanished">Tá &apos;%1&apos; imithe in éag agus ní mór é a athfhíordheimhniú. Ar mhaith leat an cuntas seo a athfhíordheimhniú?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="432"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Waiting.</source>
         <translation>Ag fanacht.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Níorbh fhéidir an próifíleoir a thosú: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="450"/>
         <source>Error</source>
         <translation>Earráid</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="168"/>
-        <location filename="src/launcher/LaunchController.cpp" line="468"/>
+        <location filename="src/launcher/LaunchController.cpp" line="169"/>
+        <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="186"/>
+        <location filename="src/launcher/LaunchController.cpp" line="187"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
         <translation>Tharla earráid agus &apos;%1&apos; á athnuachan</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="189"/>
+        <location filename="src/launcher/LaunchController.cpp" line="190"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
         <translation>Tá &apos;%1&apos; imithe in éag agus ní mór é a athfhíordheimhniú</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <location filename="src/launcher/LaunchController.cpp" line="193"/>
         <source>The launcher&apos;s client identification has changed</source>
         <translation>Tá aitheantas cliant an lainseálaí athraithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="195"/>
+        <location filename="src/launcher/LaunchController.cpp" line="196"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
         <translation>Níl &apos;%1&apos; ann a thuilleadh ar na freastalaithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
         <translation>Ní leis an gcuntas seo Minecraft.
 Ní mór duit an cluiche a cheannach ar dtús chun an leagan iomlán a imirt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>No account was selected for launch.</source>
         <translation>Níor roghnaíodh aon chuntas le haghaidh lainseála.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="217"/>
+        <location filename="src/launcher/LaunchController.cpp" line="218"/>
         <source>
 
 Do you want to play the demo?</source>
@@ -5564,12 +5564,35 @@ Do you want to play the demo?</source>
 Ar mhaith leat an taispeántas a sheinm?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="240"/>
+        <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
         <translation>Roghnaigh ainm d’imreoir mód taispeána</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="244"/>
+        <location filename="src/launcher/LaunchController.cpp" line="248"/>
+        <source>Auth servers offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="249"/>
+        <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <source>No internet connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="252"/>
+        <source>You are not connected to the Internet, launching in offline mode.
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
@@ -5578,27 +5601,27 @@ Ar mhaith leat an taispeántas a sheinm?</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="246"/>
+        <location filename="src/launcher/LaunchController.cpp" line="255"/>
         <source>Choose your offline mode player name</source>
         <translation>Roghnaigh ainm d’imreora mód as líne</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="294"/>
+        <location filename="src/launcher/LaunchController.cpp" line="303"/>
         <source>No account selected for launch</source>
         <translation>Níl aon chuntas roghnaithe le seoladh</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="331"/>
+        <location filename="src/launcher/LaunchController.cpp" line="340"/>
         <source>%1. Do you want to reauthenticate this account?</source>
         <translation>%1. Ar mhaith leat an cuntas seo a athfhíordheimhniú?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="481"/>
+        <location filename="src/launcher/LaunchController.cpp" line="490"/>
         <source>Kill Minecraft?</source>
         <translation>Maraigh Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="482"/>
+        <location filename="src/launcher/LaunchController.cpp" line="491"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Is féidir leis seo an cás a thruailliú agus níor cheart é a úsáid ach amháin má tá Minecraft reoite ar chúis éigin</translation>
     </message>
@@ -5615,7 +5638,7 @@ Ar mhaith leat an taispeántas a sheinm?</translation>
         <translation type="vanished">Athraíodh aitheantas an chliaint</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="97"/>
+        <location filename="src/launcher/LaunchController.cpp" line="98"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>Chun Minecraft a imirt, ní mór cuntas Microsoft amháin ar a laghad a bheith agat a bhfuil Minecraft aige agus tú logáilte isteach ann. Ar mhaith leat an bainisteoir cuntas a oscailt chun cuntas a chur leis anois?</translation>
@@ -5665,17 +5688,17 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="64"/>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>Theip ar chomhartha rochtana Minecraft a fháil: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>Theip ar fhreagra an chomhartha rochtana Minecraft a pharsáil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="74"/>
         <source>Got Minecraft access token</source>
         <translation>Fuair mé comhartha rochtana Minecraft</translation>
     </message>
@@ -8252,17 +8275,17 @@ Déan cinnte go bhfuil muinín agat as an URL freisin.
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="61"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation>Theip ar fháil próifíl Java Minecraft: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="67"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>Níorbh fhéidir freagra próifíl Java Minecraft a pharsáil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <source>Got Minecraft profile</source>
         <translation>Fuair mé próifíl Minecraft</translation>
     </message>
@@ -15489,42 +15512,42 @@ An bhfuil tú cinnte?</translation>
         <translation>Earráid STS anaithnid do sheirbhísí %1: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="72"/>
         <source>Failed to get authorization for %1 services: %2</source>
         <translation>Theip ar údarú a fháil do sheirbhísí %1: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="80"/>
         <source>Could not parse authorization response for access to %1 services.</source>
         <translation>Níorbh fhéidir freagra údaraithe a pharsáil le haghaidh rochtana ar sheirbhísí %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="85"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
         <translation>D&apos;athraigh an freastalaí %1 hais úsáideora údaraithe sa fhreagra. Tá rud éigin cearr.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="92"/>
         <source>Got authorization to access %1</source>
         <translation>Údarú faighte chun rochtain a fháil ar %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="102"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="103"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
         <translation>Ní féidir freagra earráide údaraithe %1 a pharsáil mar JSON: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="110"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="111"/>
         <source>XErr element is missing from %1 authorization error response.</source>
         <translation>Tá eilimint XErr ar iarraidh ó fhreagra earráide údaraithe %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="116"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="117"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
         <translation>Níl próifíl Xbox Live ag an gcuntas Microsoft seo. Ceannaigh an cluiche ar %1 ar dtús.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="122"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation>Níl Xbox Live ar fáil i do thír féin. Tá bac curtha ort.</translation>
     </message>
@@ -15537,7 +15560,7 @@ An bhfuil tú cinnte?</translation>
         <translation type="vanished">Níl Xbox Live ar fáil i do thír féin. Tá bac curtha ort.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="129"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
@@ -15546,32 +15569,32 @@ Please set up your account according to %1.</source>
 Socraigh do chuntas de réir %1 le do thoil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="135"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
         <translation>Éilíonn an cuntas Microsoft seo cruthúnas aoise le himirt. Logáil isteach i %1 le do thoil chun cruthúnas aoise a sholáthar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
         <translation>Tá teorainn ama súgartha an chuntais Microsoft seo sroichte. Tá bac curtha ar logáil isteach an chuntais Microsoft seo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="145"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
         <translation>Chuir Xbox cosc ar an gcuntas Microsoft seo mar gheall ar shárú ar Chaighdeán Pobail amháin nó níos mó do Xbox agus ní féidir é a úsáid.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
         <translation>Tá an cuntas Microsoft seo srianta faoi láthair agus níor thug do chaomhnóir cead duit imirt ar líne. Logáil isteach i %1 agus iarr ar do chaomhnóir do cheadanna a athrú.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
         <translation>Níor ghlac an cuntas Microsoft seo le Téarmaí Seirbhíse Xbox. Logáil isteach agus glac leo le do thoil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="162"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="163"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
@@ -15604,12 +15627,12 @@ Socraigh do chuntas de réir %1 le do thoil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>Xbox user authentication failed: %1</source>
         <translation>Theip ar fhíordheimhniú úsáideora Xbox: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
         <source>Xbox user authentication response could not be understood.</source>
         <translation>Níorbh fhéidir freagra fíordheimhnithe úsáideora Xbox a thuiscint.</translation>
     </message>
@@ -15622,7 +15645,7 @@ Socraigh do chuntas de réir %1 le do thoil.</translation>
         <translation type="vanished">Níorbh fhéidir freagra fíordheimhnithe úsáideora Xbox a thuiscint.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="75"/>
         <source>Got Xbox user token</source>
         <translation>Fuair mé comhartha úsáideora Xbox</translation>
     </message>

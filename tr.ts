@@ -6188,28 +6188,28 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="66"/>
+        <location filename="src/launcher/LaunchController.cpp" line="67"/>
         <source>No instance specified!</source>
         <translation>Profil belirtilmemiş!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="71"/>
+        <location filename="src/launcher/LaunchController.cpp" line="72"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>Tanımsız Java değişkeni ayarlandı. Lütfen önce bunu düzeltin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="96"/>
+        <location filename="src/launcher/LaunchController.cpp" line="97"/>
         <source>No Accounts</source>
         <translation>Hesap Yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="97"/>
+        <location filename="src/launcher/LaunchController.cpp" line="98"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>Minecraft oynayabilmek için, Minecraft&apos;ın sahibi olan en az bir Microsoft hesabınızda oturum açmış olmanız gerekir. Şimdi bir hesap eklemek için hesap yöneticisini açmak ister misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="114"/>
+        <location filename="src/launcher/LaunchController.cpp" line="115"/>
         <source>Which account would you like to use?</source>
         <translation>Hangi hesabı kullanmak istersiniz?</translation>
     </message>
@@ -6246,7 +6246,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
         <translation type="vanished">Görünüşe göre %1 denemeden sonra başlatamadık. Denemeye devam etmek ister misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="254"/>
+        <location filename="src/launcher/LaunchController.cpp" line="236"/>
         <source>Player name</source>
         <translation>Oyuncu ismi</translation>
     </message>
@@ -6263,7 +6263,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
         <translation type="vanished">Giriş sırasında belirsiz oturum durumu görüldü.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="213"/>
+        <location filename="src/launcher/LaunchController.cpp" line="214"/>
         <source>Play demo?</source>
         <translation>Deneme sürümü çalıştırılsın mı?</translation>
     </message>
@@ -6278,12 +6278,12 @@ Oyunu oynamak için onu satın almış olmalısınız.
 Deneme sürümünü oynamak ister misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="220"/>
+        <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Play Demo</source>
         <translation>Deneme Sürümünü Oyna</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="221"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
@@ -6300,7 +6300,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
         <translation type="vanished">Hesabın süresi geçmiş ve yeniden elle giriş yapılması gerekiyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="331"/>
+        <location filename="src/launcher/LaunchController.cpp" line="340"/>
         <source>Account refresh failed</source>
         <translation>Hesap yenilemesi başarısız</translation>
     </message>
@@ -6337,29 +6337,29 @@ Deneme sürümünü oynamak ister misiniz?</translation>
         <translation type="vanished">Hesabın süresi doldu ve yeniden kimlik doğrulaması yapılması gerekiyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
-        <location filename="src/launcher/LaunchController.cpp" line="421"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Error!</source>
         <translation>Hata!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
-        <location filename="src/launcher/LaunchController.cpp" line="366"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="375"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Profil dosyası yüklenemedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="381"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Bir başlatıcı örneklendirilemedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="421"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1 profilleyici kontrolü başarısız: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="443"/>
         <source>&amp;Launch</source>
         <translation>&amp;Başlat</translation>
     </message>
@@ -6368,7 +6368,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
         <translation type="vanished">Profilleyici başlatılamadı: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="428"/>
+        <location filename="src/launcher/LaunchController.cpp" line="437"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -6377,7 +6377,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="432"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Waiting.</source>
         <translation>Bekleniyor.</translation>
     </message>
@@ -6386,55 +6386,55 @@ Deneme sürümünü oynamak ister misiniz?</translation>
         <translation type="vanished">Başlat</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Profilleyici başlatılamadı: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="450"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="168"/>
-        <location filename="src/launcher/LaunchController.cpp" line="468"/>
+        <location filename="src/launcher/LaunchController.cpp" line="169"/>
+        <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="186"/>
+        <location filename="src/launcher/LaunchController.cpp" line="187"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
         <translation>&apos;%1&apos; i yenilerken hata oluştu</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="189"/>
+        <location filename="src/launcher/LaunchController.cpp" line="190"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
         <translation>&apos;%1&apos; in süresi doldu ve yeniden kimlik doğrulaması gerekiyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <location filename="src/launcher/LaunchController.cpp" line="193"/>
         <source>The launcher&apos;s client identification has changed</source>
         <translation>Başlatıcının istemci kimliği değişti</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="195"/>
+        <location filename="src/launcher/LaunchController.cpp" line="196"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
         <translation>&apos;%1&apos; artık sunucularda mevcut değil</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
         <translation>Bu hesap Minecraft&apos;ın sahibi değil.
 Tam sürümü oynamak için önce oyunu satın almanız gerekiyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>No account was selected for launch.</source>
         <translation>Başlatma için hiçbir hesap seçilmedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="217"/>
+        <location filename="src/launcher/LaunchController.cpp" line="218"/>
         <source>
 
 Do you want to play the demo?</source>
@@ -6443,12 +6443,35 @@ Do you want to play the demo?</source>
 Demoyu oynamak ister misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="240"/>
+        <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
         <translation>Demo modunda oynayacağınız oyuncu adını seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="244"/>
+        <location filename="src/launcher/LaunchController.cpp" line="248"/>
+        <source>Auth servers offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="249"/>
+        <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <source>No internet connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="252"/>
+        <source>You are not connected to the Internet, launching in offline mode.
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
@@ -6457,27 +6480,27 @@ Demoyu oynamak ister misiniz?</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="246"/>
+        <location filename="src/launcher/LaunchController.cpp" line="255"/>
         <source>Choose your offline mode player name</source>
         <translation>Çevrimdışı mod oyuncu adınızı seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="294"/>
+        <location filename="src/launcher/LaunchController.cpp" line="303"/>
         <source>No account selected for launch</source>
         <translation>Başlatma için hiçbir hesap seçilmedi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="331"/>
+        <location filename="src/launcher/LaunchController.cpp" line="340"/>
         <source>%1. Do you want to reauthenticate this account?</source>
         <translation>%1. Bu hesabı yeniden doğrulamak istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="481"/>
+        <location filename="src/launcher/LaunchController.cpp" line="490"/>
         <source>Kill Minecraft?</source>
         <translation>Minecraft&apos;ı durdur?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="482"/>
+        <location filename="src/launcher/LaunchController.cpp" line="491"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Bu işlem, profilin bozulmasına neden olabilir ve sadece Minecraft herhangi bir sebepten dolayı donduğunda kullanılmalıdır</translation>
     </message>
@@ -6516,17 +6539,17 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="64"/>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>Minecraft erişim belirteci alma başarısız: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>Minecraft erişim belirteci yanıtı ayrıştırılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="74"/>
         <source>Got Minecraft access token</source>
         <translation>Minecraft erişim tokeni alındı</translation>
     </message>
@@ -9787,12 +9810,12 @@ URL&apos;ye güvendiğinizden emin olun.
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="61"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation>Minecraft Java profil edinimi başarısız: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <source>Got Minecraft profile</source>
         <translation>Minecraft profili alındı</translation>
     </message>
@@ -9801,7 +9824,7 @@ URL&apos;ye güvendiğinizden emin olun.
         <translation type="vanished">Minecraft Java profili edinme başarısız.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="67"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>Minecraft Java profili cevabı ayrıştırılamadı</translation>
     </message>
@@ -18275,42 +18298,42 @@ Emin misin?</translation>
         <translation>%1 servisi için bilinmeyen STS hatası: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="72"/>
         <source>Failed to get authorization for %1 services: %2</source>
         <translation>%1 hizmetleri için kimlik doğrulaması alımı başarısız: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="80"/>
         <source>Could not parse authorization response for access to %1 services.</source>
         <translation>%1 servislerine erişim için kimlik doğrulaması ayrıştırılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="85"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
         <translation>Sunucu yanıtta %1 kimlik doğrulaması kullanıcı hash&apos;ini değiştirdi. Yanlış birşey var.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="92"/>
         <source>Got authorization to access %1</source>
         <translation>%1&apos;e erişim için kimlik doğrulama alındı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="102"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="103"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
         <translation>%1 kimlik doğrulama hatası JSON olarak ayrıştırılamıyor: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="110"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="111"/>
         <source>XErr element is missing from %1 authorization error response.</source>
         <translation>XErr elmanı %1 kimlik doğrulama yanıtında eksik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="116"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="117"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
         <translation>Bu Microsoft hesabının bir Xbox live profili yok. Önce %1&apos;den oyunu satın alın.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="122"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation>Xbox live ülkenizde kullanılabilir değil. Engellendiniz.</translation>
     </message>
@@ -18323,7 +18346,7 @@ Emin misin?</translation>
         <translation type="vanished">XBox Live ülkenizde mevcut değil. Engellendiniz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="129"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
@@ -18332,32 +18355,32 @@ Please set up your account according to %1.</source>
 Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="135"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
         <translation>Bu Microsoft hesabı, oynayabilmek için yaş kanıtı gerektiriyor. Lütfen yaş kanıtı sunabilmek için %1&apos;e giriş yapın.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
         <translation>Bu Microsoft hesabı, oynama süresi sınırına ulaştı. Bu Microsoft hesabının giriş yapması engellendi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="145"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
         <translation>Bu Microsoft hesabı, bir veya birden fazla Xbox için Topluluk Standartları ihlalinde bulunduğundan ötürü Xbox tarafından yasaklandı ve kullanılamıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
         <translation>Bu Microsoft hesabı, şu anda kısıtlı ve veliniz çevrim içi oynayabilmeniz için size izin vermedi. %1&apos;e giriş yapın ve velinizin izinlerinizi değiştirmesini sağlayın.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
         <translation>Bu Microsoft hesabı, Xbox Hizmet Şartları&apos;nı kabul etmedi. Lütfen giriş yapın ve hizmet şartlarını kabul edin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="162"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="163"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
@@ -18394,12 +18417,12 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>Xbox user authentication failed: %1</source>
         <translation>Xbox kullanıcı kimlik doğrulaması başarısız oldu: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
         <source>Xbox user authentication response could not be understood.</source>
         <translation>Xbox kullanıcı kimlik doğrulama yanıtı anlaşılamadı.</translation>
     </message>
@@ -18416,7 +18439,7 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
         <translation type="vanished">Xbox kullanıcı kimlik doğrulaması anlaşılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="75"/>
         <source>Got Xbox user token</source>
         <translation>Xbox kullanıcı jetonu alındı</translation>
     </message>
