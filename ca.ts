@@ -1087,7 +1087,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Obtenint els arxius de recursos de %1...</translation>
+        <translation>Obtenint els arxius de recursos de %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
