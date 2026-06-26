@@ -5904,7 +5904,7 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation type="unfinished"></translation>
+        <translation>De réir an ama iomláin a &amp;imríodh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
