@@ -6427,26 +6427,30 @@ Vuoi giocare la demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Server di autenticazione offline</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>I server di autenticazione di Minecraft non sono attualmente disponibili, avvio in modalità offline.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna connessione a Internet</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Non sei connesso a Internet, avvio in modalità offline.
+
+</translation>
     </message>
     <message>
         <source>You are not connected to the Internet, launching in offline mode
@@ -6651,7 +6655,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation type="unfinished"></translation>
+        <translation>Per tempo di gioco &amp;totale</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
