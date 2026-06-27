@@ -5571,26 +5571,30 @@ Ar mhaith leat an taispeántas a sheinm?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Údarú freastalaithe as líne</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Níl freastalaithe fíordheimhnithe Minecraft ar fáil faoi láthair, agus tá siad á seoladh i mód as líne.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gan nasc idirlín</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Níl tú ceangailte leis an Idirlíon, ag seoladh i mód as líne.
+
+</translation>
     </message>
     <message>
         <source>You are not connected to the Internet, launching in offline mode
