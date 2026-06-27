@@ -2029,7 +2029,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="88"/>
         <source>Applications</source>
-        <translation>Ứng Dụng</translation>
+        <translation>Ứng dụng</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="90"/>
@@ -2097,12 +2097,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation>Ghi đè &amp;Cài đặt Toàn cục</translation>
+        <translation>&amp;Ghi đè cài đặt toàn cục</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation>&amp;Lệnh trước khi khởi động</translation>
+        <translation>Lệnh trước khi khởi động (&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -2301,12 +2301,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation>Kích cỡ của gói dữ liệu</translation>
+        <translation>Kích cỡ của gói dữ liệu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation>Tên của gói dữ liệu</translation>
+        <translation>Tên của gói dữ liệu.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -2540,10 +2540,10 @@ If possible, close other applications before continuing.
 
 Launch anyway?</source>
         <translation>Hệ thống đang bị quá tải bộ nhớ.
-điều này có thể gây ra giật lag hoặc chậm khung hình.
-Nếu có thể,xin hãy đóng các cửa sổ khác trước khi tiếp tục.
+Việc tiếp tục sẽ có thể khiến thiết bị chậm hoặc giật lag.
+Nếu có thể, vui lòng đóng các cửa sổ khác trước khi tiếp tục.
 
-vẫn tiếp tục khởi chạy?</translation>
+Vẫn tiếp tục khởi chạy?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2552,17 +2552,21 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hệ thống đang bị quá tải bộ nhớ trầm trọng.
+Việc tiếp tục sẽ có thể khiến thiết bị đơ, mất ổn định hoặc dừng đột ngột.
+Chúng tôi khuyến khích bạn nên đóng các cửa sổ khác hoặc khởi động lại thiết bị.
+
+Vẫn tiếp tục khởi chạy?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Bộ nhớ quá tải</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Hệ thống đang bị quá tải bộ nhớ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
