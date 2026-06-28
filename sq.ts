@@ -8520,59 +8520,59 @@ Ju lutem përditësoni %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="114"/>
         <source>Delete &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Fshi &amp;Gjithçka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <source>Keep updating</source>
-        <translation type="unfinished"></translation>
+        <translation>Vazhdo me azhurnim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Mbësholl rreshtat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngjyros rreshtat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopjo krejt regjistrin në të papasme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopjo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngarko regjistrin te shërbimi i ngastimit i konfiguruem në preferencat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
         <source>&amp;Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ngarko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="481"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Ringarko përmbajtjen e regjistrit prej diskut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="480"/>
         <source>&amp;Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ringarko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Kërko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -8584,17 +8584,17 @@ Ju lutem përditësoni %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
         <source>Unable to open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;mundet me hapë %1 për lexim: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="269"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skadari (%1) është shumë i madh. Mund të dëshirosh me e hapë në një shikues të optimizuem për skadare të mëdha.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="384"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmo Fshirjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="385"/>
@@ -8602,38 +8602,42 @@ Ju lutem përditësoni %1!</translation>
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Je gati me fshi &quot;%1&quot;.
+Kjo mund të jetë e përhershme dhe do të zhduket prej dosjes së regjistrave.
+
+Je i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmo Pastrimin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="412"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Je i sigurt që do të fshish krejt skadaret e regjistrit?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="415"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Je i sigurt që do të fshish krejt ket skadare?
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="486"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="487"/>
         <source>Clear the log</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastro regjistrin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="399"/>
         <source>Unable to delete %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;mundet me fshi %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -8644,23 +8648,24 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>Current logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Regjistrat aktualë</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="332"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skadari (%1) hasi në gabim gjatë leximit: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="442"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;mundën me u fshi disa skadare!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="445"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;mundën me u fshi disa skadare:
+%1</translation>
     </message>
 </context>
 <context>
@@ -8799,17 +8804,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="364"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndërpre</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="588"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Emër</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="590"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version</translation>
     </message>
 </context>
 <context>
@@ -8821,12 +8826,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anulo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="49"/>
@@ -8839,22 +8844,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shërbimi i parazgjedhun i ngastimit ka ndryshue në mclo.gs, ju lutem zgjidhni çka doni me bo me cilësimet tuaja.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation type="unfinished"></translation>
+        <translation>Përdor shërbimin e ri parazgjedhor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Mbaj cilësimet e mëparshme</translation>
     </message>
 </context>
 <context>
@@ -8862,12 +8867,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Humbjet e cache-it të pikselave nga dëbimi ndodhen shumë shpejt, s&apos;bëhet asgjë pasi madhësia e cache-it arriti kufirin</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished"></translation>
+        <translation>Humbjet e cache-it të pikselave nga dëbimi ndodhen shumë shpejt, duke rritë madhësinë e cache-it në</translation>
     </message>
 </context>
 <context>
@@ -8875,21 +8880,25 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="51"/>
         <source>Running Post-Launch command: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke ekzekutuem komandën pas nisjes: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="60"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Komanda pas nisjes dështoi me kodin %1.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="76"/>
         <source>Post-Launch command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Komanda pas nisjes u ekzekutua me sukses.
+
+</translation>
     </message>
 </context>
 <context>
@@ -8897,21 +8906,25 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="51"/>
         <source>Running Pre-Launch command: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke ekzekutuem komandën para nisjes: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="59"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Komanda para nisjes dështoi me kodin %1.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="75"/>
         <source>Pre-Launch command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Komanda para nisjes u ekzekutua me sukses.
+
+</translation>
     </message>
 </context>
 <context>
@@ -8919,68 +8932,72 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="98"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke kontrollue për azhurnime...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="130"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="150"/>
         <source>Update Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolli i Azhurnimeve Dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="131"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështoi me nisë pas 5 sekondash
+Arsyeja: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="151"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Azhurnimi dështoi me u mbyllo pas 60 sekondash
+Arsyeja: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk Ka Azhurnime</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Po ekzekuton versionin e fundit.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="187"/>
         <source>Update Check Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim Gjatë Kontrollit të Azhurnimeve</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="188"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndodhi gabim gjatë ekzekutimit të kontrollit të azhurnimeve.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
         <source>Unknown Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim i Panjohun i Azhurnimit</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="215"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Azhurnimuesi doli me kusht të panjohun.
+Kodi i Daljes: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="217"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>StdOut: %1
+StdErr: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>There are no new updates available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk ka azhurnime të reja.</translation>
     </message>
 </context>
 <context>
@@ -8988,72 +9005,72 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="89"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished"></translation>
+        <translation>Përdor rrugë të personalizueme si rrënjë e aplikacionit (përdor &apos;.&apos; për direktorinë aktuale).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="89"/>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>direktori</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="91"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished"></translation>
+        <translation>Përdor ket version si version të instaluem të nisësit. (sigurohet ngase stdout s&apos;mund të kapet me besueshmëri në windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="92"/>
         <source>installed launcher version</source>
-        <translation type="unfinished"></translation>
+        <translation>versioni i instaluem i nisësit</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="93"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>emri i versionit</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="94"/>
         <source>Update from the specified repo.</source>
-        <translation type="unfinished"></translation>
+        <translation>Azhurno nga depoja e specifikueme.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="94"/>
         <source>github repo url</source>
-        <translation type="unfinished"></translation>
+        <translation>url e depove github</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="96"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollo vetëm nëse nevojitet azhurnim. Statusi i daljes 100 nëse po, 0 nëse jo (ose jo 0 nëse ndodhi gabim).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="97"/>
         <source>Allow updating to pre-release releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Lejo azhurnimin në versione para-lëshimit</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="98"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detyro azhurnimin, edhe nëse s&apos;nevojitet.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="99"/>
         <source>List available releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Listo lëshimet e disponueshme.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="100"/>
         <source>Log debug to console.</source>
-        <translation type="unfinished"></translation>
+        <translation>Regjistro debug në konsolë.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="101"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh versionin me instaluem me ndërfaqe grafike.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lejo azhurnimuesin me zbrit në versione të mëparshme.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="187"/>
@@ -9063,150 +9080,157 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Azhurnimuesi s&apos;mundi me krijuem skadar regjistri - %1.
+
+Sigurou që ke leje shkrimi në dosjen e të dhënave.
+(%2)
+
+Azhurnimuesi s&apos;mund të vazhdojë derisa ta rregullosh ket problem.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>MacOS Nuk Mbështetet</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Azhurnimuesi s&apos;mbështet instalimet në MacOS</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="295"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="308"/>
         <source>Unsupported Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalim i Pambështetur</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="296"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Azhurnimuesi po ekzekutohet si AppImage i konfiguruem keq? ($APPIMAGE ndryshorja e ambientit mungon)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="308"/>
         <source>The updater can not find the main executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Azhurnimuesi s&apos;mundet me gjetë ekzekutuesin kryesor.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="186"/>
         <source>The launcher data folder is not writable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosja e të dhënave të nisësit s&apos;është e shkrueshme!</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="450"/>
         <source>Updating flatpack not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Azhurnimi i flatpak nuk mbështetet</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="450"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veprimet jashtë kontrollit nëse nevojitet azhurnim nuk mbështeten kur ekzekutohet versioni flatpak i Prism Launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="507"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="960"/>
         <source>Reading manifest from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke lexuem manifestin nga %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="519"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifesti zbrazët, duke bo hamendjen më të mirë mbi përmbajtjen e direktorisë %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="525"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke instaluem të mëposhtmet në %1 :
+ %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="529"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="536"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke instaluem nga %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="541"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke instaluem %1 nga %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="545"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështoi kopjimi i %1 në %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="560"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1035"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skadari s&apos;ekziston, po injorohet: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="573"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndodhën gabime gjatë instalimit të azhurnimit.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="577"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Azhurnimi u krye me sukses.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="738"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk Ka Asete të Vlefshme të Lëshimit</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="739"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Lëshimi Github %1 s&apos;ka asete të vlefshme për ket platformë: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="741"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 portable: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="741"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="913"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>po</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="741"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="913"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>jo</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="749"/>
         <source>No version selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk u zgjodh version.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="749"/>
         <source>No version was selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Asnjë version s&apos;u zgjodh.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="756"/>
         <source>Failed to Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarkimi Dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="756"/>
         <source>Failed to download the selected asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështoi shkarkimi i asetit të zgjedhun.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="858"/>
         <source>Update already in progress
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Azhurnimi tashmë në progres
+</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="860"/>
@@ -9222,107 +9246,120 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ket instalim ka skadar bllokimi të azhurnimit të pranishëm në: %1
+
+Kohëshenja: %2
+Duke azhurnuem nga versioni %3 në %4
+Rruga e synueme e instalimit: %5
+Rruga e të Dhënave: %6
+Kjo ndoshta nënkupton se një tentim i mëparsëm i azhurnimit dështoi. Sigurohu që instalimi yt funksionon si duhet para se të vazhdosh.
+Kontrollo regjistrin e azhurnimuesit të Prism Launcher në: 
+%7
+për detaje mbi tentimin e fundit të azhurnimit.
+
+Për me mbishkruem ket bllokues dhe me vazhduar me ket azhurnim gjithashtu, zgjidh &quot;Injoro&quot; poshtë.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="890"/>
         <source>Update Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Azhurnimi u Ndërpre</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="890"/>
         <source>The update attempt was aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentimi i azhurnimit u ndërpre</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="898"/>
         <source>Updating from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke azhurnuem nga %1 në %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="901"/>
         <source>Updating portable install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke azhurnuem instalimin portativ në %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="904"/>
         <source>Running installer file at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke ekzekutuem skadar instaluesin në %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="913"/>
         <source>Process start result: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultati i nisjes së procesit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="920"/>
         <source>Backing up install</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke rezervuem instalimin</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="941"/>
         <source>Starting new updater at &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke nisë azhurnimuesin e ri në &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="943"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështoi nisja e &apos;%1&apos; %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="993"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke rezervuem:
+  %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1003"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1010"/>
         <source>Backing up install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke rezervuem instalimin në %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1015"/>
         <source>Backing up and then removing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duke rezervuem dhe pastaj duke hequr %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1019"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështoi rezervimi i %1 në %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1022"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështoi heqja e %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1056"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>U ekstraktuan të mëposhtmet në &quot;%1&quot;:
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1058"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1060"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështoi ekstraksioni i %1 në %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1074"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1078"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështoi Kontrolli i Versionit</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1074"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështoi nisja e procesit fëmijë për leximin e versionit.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1078"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesi fëmijë i nisësit dështoi.</translation>
     </message>
 </context>
 <context>
@@ -9330,22 +9367,22 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
         <source>Select an Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh një Llogari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh një profil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="32"/>
         <source>Use as default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Përdor si parazgjedhje?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="39"/>
         <source>Use as default for this instance only?</source>
-        <translation type="unfinished"></translation>
+        <translation>Përdor si parazgjedhje vetëm për ket shembull?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -9363,14 +9400,16 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"/>
         <source>Choose Minecraft name</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh emrin e Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="26"/>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation type="unfinished"></translation>
+        <translation>Duhet të bësh vetëm edhe një hap tjetër për me lujtë Minecraft me ket llogari.
+
+Zgjidhe emrin me kujdes:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
@@ -9385,38 +9424,39 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri është shumë i shkurtër - duhet të jetë mes 3 dhe 16 karakteresh.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="184"/>
         <source>Minecraft profile with name %1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profili i Minecraft me emrin %1 tashmë ekziston.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="186"/>
         <source>The name %1 is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri %1 s&apos;lejohet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="188"/>
         <source>Unhandled profile name status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Statusi i patrajtueshem i emrit të profilit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="191"/>
         <source>Failed to check name availability.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështoi kontrolli i disponueshmërisë së emrit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="270"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim Rrjeti: %1
+Statusi HTTP: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shërbesi u përgjigj me gabimin e mëposhtëm:</translation>
     </message>
 </context>
 <context>
@@ -9424,22 +9464,22 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prit të lutem...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Statusi Global i Detyrës...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Detajet e Statusit Global...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Anashkalo</translation>
     </message>
 </context>
 <context>
@@ -9447,7 +9487,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="93"/>
         <source>%1 [installed]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [i instaluem]</translation>
     </message>
 </context>
 <context>
@@ -9455,7 +9495,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjo vlen vetëm për nisësin. Minecraft s&apos;pranon cilësimet e përfaqësuesit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
@@ -9465,58 +9505,58 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
         <source>Uses your system&apos;s default proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Përdor cilësimet e parazgjedhuna të përfaqësuesit të sistemit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Përdor cilësimet e &amp;sistemit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Asnjë</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="97"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adresa dhe Porti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="154"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentifikim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="160"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Emri i Përdoruesit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="173"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fjalëkalimi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Shënim: Emri i përdoruesit dhe fjalëkalimi i përfaqësuesit ruhen si tekst i qartë brenda skadarit të konfigurimit të nisësit!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
@@ -9529,163 +9569,163 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="160"/>
         <source>Download of meta file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarkimi i skadarit meta %1</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="133"/>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="145"/>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="157"/>
         <source>Unknown format version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Version formati i panjohun!</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="30"/>
         <source>Path is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Rruga është zbrazët</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Rruga s&apos;ekziston</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="40"/>
         <source>Path does not seem to be a MCEdit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Rruga s&apos;duket të jetë rrugë MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
-        <translation type="unfinished"></translation>
+        <translation>Rrugë zbrazët</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="95"/>
         <source>Invalid JProfiler install</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalim i pavlefshëm i JProfiler</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="78"/>
         <source>Invalid order file version, expected %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Version i pavlefshëm i skadarit të renditjes, u priste %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="115"/>
         <source>Unable to open the version file %1: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;mundet me hapë skadarit e versionit %1: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="133"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;mundet me procesojë skadarit e versionit %1: %2 në rresht %3 kolonë %4.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;uid&quot; i komponentit përmban karaktere të paligjshme! Kjo mund të shkaktojë probleme sigurie.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="191"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skadari i versionit ka të dyja &apos;+libraries&apos; dhe &apos;libraries&apos;. Kjo s&apos;mbështetet më.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation type="unfinished"></translation>
+        <translation>URL-ja për jar-in kryesor s&apos;mund të caktohej - Mojang hoqi shërbësin që e përdornim si rezervë.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="268"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Skadari i versionit përmban element të pambështetun &apos;tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Skadari i versionit përmban element të pambështetun &apos;-libraries&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="274"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Skadari i versionit përmban element të pambështetun &apos;-tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="277"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Skadari i versionit përmban element të pambështetun &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="280"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Skadari i versionit përmban element të pambështetun &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="313"/>
         <source>Assets for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetet për %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arnuesi s&apos;është ngarkuem ende.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlera &apos;minimumLauncherVersion&apos; e ket versioni (%1) është më e lartë se ç&apos;mbështetet nga %3 (%2). Mund të mos funksionojë si duhet!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i bibliotekës %1 është i dëmtuem dhe s&apos;mund të procesohet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skadari i komponentave %1 s&apos;ekziston. Kjo s&apos;duhet të ndodhë kurrë.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;mundi me hapë %1 për lexim: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;mundi me parsojë %1 si json: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Invalid component file version, expected %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Version i pavlefshëm i skadarit të komponentit, u priste %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;mundi me parsojë %1 : format i keq i skadarit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="374"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skadari i specifikuem ose s&apos;ekziston ose s&apos;është ekzekutues i duhun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="378"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Binariku i specifikuem Java s&apos;nisi si duhet.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="388"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Binariku i specifikuem Java ktheu rezultate të papritura:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="398"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Testi Java u krye me sukses!&lt;br /&gt;Platforma e raportuar: %1&lt;br /&gt;Versioni Java i raportuar: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
@@ -9693,28 +9733,28 @@ HTTP Status: %2</source>
         <location filename="src/launcher/JavaCommon.cpp" line="107"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="407"/>
         <source>Java test failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështim i testit Java</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="407"/>
         <source>Java test success</source>
-        <translation type="unfinished"></translation>
+        <translation>Sukses i testit Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="65"/>
         <source>Minecraft Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="142"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (në përdorim)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmo Ngarkimin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
@@ -9722,12 +9762,15 @@ HTTP Status: %2</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Je gati me ngarkuem &quot;%1&quot; në %2.
+Duhet të kontrollosh dy herë për informacione personale.
+
+Je i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmo Shkurtimin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
@@ -9737,43 +9780,48 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Regjistri ka %1 rreshta, duke tejkaluem kufirin e mclo.gs prej %2.
+Nisësi mund të mbajë rreshtat e parë %3 dhe të fundit %4, duke prerë mes.
+
+Nëse zgjedh &apos;Jo&apos;, mclo.gs do të mbajë vetëm rreshtat e parë %2, duke prerë informacione potencialisht të dobishme si rrëzime në fund.
+
+Vazhdo me shkurtim?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështoi ngarkimi i regjistrave!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngarkimi i regjistrave u ndërpre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detyra u ndërpre nga përdoruesi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngarkimi u krye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lidhja &lt;a href=&quot;%1&quot;&gt;e regjistrit të ngarkuem&lt;/a&gt; u vend në të papasme tuaj.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>E ndritshme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
