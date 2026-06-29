@@ -4101,7 +4101,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Сучасны</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
@@ -6234,7 +6234,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation type="unfinished"></translation>
+        <translation>Па ўсім часе &amp;згуляна</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
@@ -6568,7 +6568,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Не ўдалося запусціць Minecraft: %1</translation>
     </message>
     <message>
         <source>Could not launch Minecraft!</source>
@@ -8483,7 +8483,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Адкрываць Minecraft у поўным экране</translation>
+        <translation>Адкрываць Minecraft на ўвесь экран</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -8893,7 +8893,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
@@ -8978,12 +8978,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
         <source>Unknown</source>
-        <translation type="unfinished">Невядомы</translation>
+        <translation>Невядомы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"/>
         <source>All Versions</source>
-        <translation type="unfinished">Усе версіі</translation>
+        <translation>Усе версіі</translation>
     </message>
 </context>
 <context>
@@ -8996,7 +8996,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="101"/>
         <source>File</source>
-        <translation type="unfinished">Файл</translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -9035,17 +9035,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Enable</source>
-        <translation type="unfinished">Уключыць</translation>
+        <translation>Уключыць</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Image</source>
-        <translation type="unfinished">Малюнак</translation>
+        <translation>Выява</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Апошняе змяненне</translation>
+        <translation>Апошняе змяненне</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -9075,7 +9075,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Requires</source>
-        <translation type="unfinished"></translation>
+        <translation>Патрабаваць</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -9120,74 +9120,82 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="214"/>
         <source>The mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузчык модаў</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="216"/>
         <source>The supported minecraft versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Падтрымоўваемыя версіі minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="218"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тып выпуску.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="220"/>
         <source>The size of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Памер мода.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="222"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для кожнаша мода паказана колькасць іншых модаў, якія залежаць ад яго.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для кожнага мода ёсць колькасць модаў, ад якіх ён залежыць.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The file name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Імя файла з модам.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="446"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка пацвярджэння</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Пераключэнне гэт(ых)ага мода(ў) прывядзе да зменаў для іншых модаў.
+</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
         <source>%n mod(s) will be enabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n мод будзе ўключаны
+</numerusform>
+            <numerusform>%n моды будуць уключаныя
+</numerusform>
+            <numerusform>%n моды будуць уключаныя
+</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n мод будзе выключаны
+</numerusform>
+            <numerusform>%n моды будуць выключаныя
+</numerusform>
+            <numerusform>%n моды будуць выключаныя
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы жадаеце прымяніць аўтаматычна гэтыя звязаныя змены?
+Ігнараванне іх можа прывесці да выляту гульні.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
@@ -9197,7 +9205,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="452"/>
         <source>Toggle Required Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Пераключыць толькі неабходныя моды</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="454"/>
@@ -9302,18 +9310,20 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="132"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Калі вы выдаліце мод пад час таго, калі запушчаная ваша гульня, гэта можа прывесці да яе выляту.
+Вы ўпэўненыя, што жадаеце гэта зрабіць?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
         <source>Confirm Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Пацвердзіць Выключэнне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Мод, які вы жадаеце выдаліць патрэбны для %1 мода.
+Вы жадаеце выключыць іх?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="188"/>
@@ -9340,7 +9350,7 @@ Do you want to disable them?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="293"/>
         <source>Warnings</source>
-        <translation type="unfinished">Папярэджанні</translation>
+        <translation>Папярэджанні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
@@ -9372,17 +9382,17 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="264"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Абнаўляльнік мода быў спынены!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="273"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Усе выбраныя моды абноўлены :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="276"/>
         <source>Update checker</source>
-        <translation type="unfinished">Праграма праверкі абнаўленняў</translation>
+        <translation>Праграма праверкі абнаўленняў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="318"/>
@@ -9393,49 +9403,50 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="319"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы вось-восб выдаліце метадату для %1 мода.
+Вы ўпэўнены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="430"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Адсутнічае Загрузчык Модаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="431"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вам трэба ўсталяваць сумяшчальны загрузчык модаў перад усталяваннем модаў. Вы жадаеце гэта зрабіць?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="268"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">%1</translation>
+        <translation>&apos;%1&apos; абноўлены! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"/>
         <source>Download Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Спампаваць Моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="102"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Змяніце версію мода.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
         <source>View the homepages of all selected mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Паглядзець галоўную старонку ўсіх выбраных модаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Усе моды абноўлены! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Спампаваць моды з анлайн платформ з модамі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="56"/>
