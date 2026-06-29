@@ -4230,12 +4230,12 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation type="unfinished">Icon category</translation>
+        <translation>Icon category</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation type="unfinished">Search Icons...</translation>
+        <translation>Search Icons...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4244,27 +4244,27 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>All</source>
-        <translation type="unfinished">All</translation>
+        <translation>All</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation type="unfinished">Modern</translation>
+        <translation>Modern</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
         <source>Legacy</source>
-        <translation type="unfinished">Legacy</translation>
+        <translation>Legacy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation type="unfinished">Modpacks</translation>
+        <translation>Modpacks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Custom</source>
-        <translation type="unfinished">Custom</translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
@@ -6118,26 +6118,30 @@ Do you want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Auth servers offline</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>The Minecraft auth servers are currently unavailable, launching in offline mode.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>No internet connection</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>You are not connected to the Internet, launching in offline mode.
+
+</translation>
     </message>
     <message>
         <source>You are not connected to the Internet, launching in offline mode
@@ -6397,7 +6401,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation type="unfinished"></translation>
+        <translation>By total time &amp; played</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
@@ -6820,7 +6824,7 @@ Granting %1 access to it via Flatseal is recommended.</translation>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">Could not launch Minecraft: %1</translation>
+        <translation>Could not launch Minecraft: %1</translation>
     </message>
     <message>
         <source>Could not launch Minecraft!</source>
@@ -7240,7 +7244,7 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation type="unfinished">The process failed to start: %1</translation>
+        <translation>The process failed to start: %1</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
