@@ -70,7 +70,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">&amp;Autentifikimi i Microsoft-it</translation>
+        <translation>&amp;Autentifikim Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
@@ -1306,7 +1306,7 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation type="unfinished">Emri i përdoruesit</translation>
+        <translation>Emri i përdoruesit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
@@ -1866,7 +1866,7 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Asnjë</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
@@ -1911,7 +1911,7 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Asnjë version nuk është i disponueshëm aktualisht për Minecraft %1</translation>
+        <translation>Aktualisht nuk ka versione të disponueshme për Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2049,7 +2049,7 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="250"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
@@ -2337,7 +2337,7 @@ Kjo instancë nuk mund të niset sepse disa biblioteka mungojnë ose nuk janë s
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="157"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
@@ -2390,7 +2390,7 @@ Kjo instancë nuk mund të niset sepse disa biblioteka mungojnë ose nuk janë s
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation type="unfinished"></translation>
+        <translation> MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -2446,7 +2446,7 @@ Kjo instancë nuk mund të niset sepse disa biblioteka mungojnë ose nuk janë s
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="200"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
@@ -2474,7 +2474,7 @@ Kjo instancë nuk mund të niset sepse disa biblioteka mungojnë ose nuk janë s
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Cilesimet</translation>
+        <translation>Cilësimet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -2732,7 +2732,7 @@ Kjo instancë nuk mund të niset sepse disa biblioteka mungojnë ose nuk janë s
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menyja e kontekstit</translation>
+        <translation>Menyja e kontekstit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="214"/>
@@ -2782,12 +2782,12 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="347"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 installed, %2 selected)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="349"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 installed)</translation>
     </message>
 </context>
 <context>
@@ -2860,7 +2860,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
@@ -2968,7 +2968,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Nuk mund ta kuptoja manifestin e paketës:
+        <translation>Nuk u kuptua manifesti i paketës:
 </translation>
     </message>
     <message>
@@ -2989,7 +2989,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Skedarët e mëposhtëm nuk disponohen për shkarkim në lëshuesit e palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni manualisht dhe t&apos;i shtoni ato në shembull.</translation>
+        <translation>Skedarët e mëposhtëm nuk mund të shkarkohen në lëshues të palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni dorazi dhe t&apos;i shtoni vetë te instanca.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
@@ -2999,12 +2999,12 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Po shkarkon modalitetet...</translation>
+        <translation>Po shkarkohen modet...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation type="unfinished">Shkarkimi i modës</translation>
+        <translation>Shkarkimi i modeve</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
@@ -3022,12 +3022,12 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="140"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ndani nga Emri</translation>
+        <translation>Rendit sipas Emrit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="141"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Ndani nga Versioni i Lojes</translation>
+        <translation>Rendit sipas Versionit të Lojës</translation>
     </message>
 </context>
 <context>
@@ -3045,7 +3045,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Kerko dhe filtro...</translation>
+        <translation>Kërko dhe filtro...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
@@ -3136,7 +3136,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Unknown</source>
-        <translation type="unfinished">E panjohur</translation>
+        <translation>E panjohur</translation>
     </message>
 </context>
 <context>
@@ -3146,13 +3146,13 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Nuk mund ta kuptoja manifestin e paketës:
+        <translation>Nuk u kuptua manifesti i paketës:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="120"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (version %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
@@ -3167,17 +3167,17 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Marrja e indeksit të meta të dhënave lokale për %1 dështoi</translation>
+        <translation>Marrja e indeksit lokal të metadhënave për %1 dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Dështoi në gjetjen e versionit për ngarkuesin %1</translation>
+        <translation>Gjetja e versionit për ngarkuesin %1 dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="303"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Asnjë version i ngarkuesit nuk është vendosur për modpack!</translation>
+        <translation>Nuk është caktuar version ngarkuesi për modpack-un!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="339"/>
@@ -3216,13 +3216,13 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="540"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">U gjetën modalitete të bllokuara</translation>
+        <translation>U gjetën mode të bllokuara</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="541"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Skedarët e mëposhtëm nuk disponohen për shkarkim në lëshuesit e palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni manualisht dhe t&apos;i shtoni ato në shembull.</translation>
+        <translation>Skedarët e mëposhtëm nuk mund të shkarkohen në lëshues të palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni dorazi dhe t&apos;i shtoni vetë te instanca.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="563"/>
@@ -3232,7 +3232,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="594"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 nga %2 ka përfunduar</translation>
+        <translation>%1 nga %2 u përfundua</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
@@ -3247,7 +3247,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="599"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Po shkarkon modalitetet...</translation>
+        <translation>Po shkarkohen modet...</translation>
     </message>
 </context>
 <context>
@@ -3317,7 +3317,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="97"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versioni i zgjedhur:</translation>
+        <translation>Versioni i zgjedhur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
@@ -3334,7 +3334,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Kerko dhe filtro...</translation>
+        <translation>Kërko dhe filtro...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
@@ -3346,7 +3346,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Ndani nga Populariteti</translation>
+        <translation>Rendit sipas Popullaritetit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -3358,7 +3358,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ndani nga Emri</translation>
+        <translation>Rendit sipas Emrit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
@@ -3381,12 +3381,12 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="204"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="293"/>
@@ -3433,7 +3433,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ndani nga Emri</translation>
+        <translation>Rendit sipas Emrit</translation>
     </message>
 </context>
 <context>
@@ -3441,12 +3441,12 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versioni i zgjedhur:</translation>
+        <translation>Versioni i zgjedhur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Kerko dhe filtro...</translation>
+        <translation>Kërko dhe filtro...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
@@ -3599,7 +3599,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="167"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Hap Dosjen</translation>
+        <translation>Hap dosjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="202"/>
@@ -3665,7 +3665,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
@@ -3778,7 +3778,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="103"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Rifresko</translation>
+        <translation>&amp;Rifresko</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -3830,7 +3830,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="40"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Asnjë version nuk është i disponueshëm aktualisht për Minecraft %1</translation>
+        <translation>Aktualisht nuk ka versione të disponueshme për Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3963,7 +3963,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="53"/>
         <source>Settings</source>
-        <translation type="unfinished">Cilesimet</translation>
+        <translation>Cilësimet</translation>
     </message>
 </context>
 <context>
@@ -4022,7 +4022,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
         <source>Close</source>
-        <translation type="unfinished">Mbylle</translation>
+        <translation>Mbyll</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
@@ -4089,7 +4089,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="204"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Rifresko</translation>
+        <translation>&amp;Rifresko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="221"/>
@@ -4104,7 +4104,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Mojang</source>
-        <translation type="unfinished">mojäng</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
@@ -4136,7 +4136,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
@@ -4716,7 +4716,7 @@ Mund të ndryshosh versionin e Java-s në cilësime ma vonë.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="450"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="169"/>
@@ -4885,7 +4885,7 @@ Mund të të duhet të rregullosh modet e tua sepse loja vazhdon të shkruajë n
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Ikonat:</translation>
+        <translation>&amp;Ikonat:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
@@ -4961,7 +4961,7 @@ Mund të të duhet të rregullosh modet e tua sepse loja vazhdon të shkruajë n
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="208"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation> hours</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="211"/>
@@ -5138,7 +5138,7 @@ Mund të të duhet të rregullosh modet e tua sepse loja vazhdon të shkruajë n
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="510"/>
         <source> lines</source>
-        <translation type="unfinished"></translation>
+        <translation> vija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="96"/>
@@ -5289,13 +5289,13 @@ Ju lutem provoni sërish.</translation>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ndani nga Emri</translation>
+        <translation>Rendit sipas Emrit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="60"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Ndani nga Versioni i Lojes</translation>
+        <translation>Rendit sipas Versionit të Lojës</translation>
     </message>
 </context>
 <context>
@@ -5349,7 +5349,7 @@ Ju lutem provoni sërish.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Instalimi i modpack</translation>
+        <translation>Po instalohet modpack-u</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
@@ -5368,7 +5368,7 @@ Ju lutem provoni sërish.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Kerko dhe filtro...</translation>
+        <translation>Kërko dhe filtro...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
@@ -5398,12 +5398,12 @@ Ju lutem provoni sërish.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="154"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versioni i zgjedhur:</translation>
+        <translation>Versioni i zgjedhur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="209"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="214"/>
@@ -5747,7 +5747,7 @@ Arsyeja:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="231"/>
         <source>Status</source>
-        <translation type="unfinished">Statusi</translation>
+        <translation>Statusi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
@@ -6248,7 +6248,7 @@ Arsyeja:
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
         <source>Accounts</source>
-        <translation type="unfinished">Llogarite</translation>
+        <translation>Llogaritë</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
@@ -6364,7 +6364,7 @@ Arsyeja:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="864"/>
@@ -6695,7 +6695,7 @@ Je i sigurt?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="206"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="210"/>
@@ -6769,7 +6769,7 @@ Sigurohu gjithashtu se u beson URL-së.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>Update Failed</source>
-        <translation type="unfinished">Perditesimi Deshtoi</translation>
+        <translation>Përditësimi dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
@@ -7422,12 +7422,12 @@ Më shumë gjasa do të të duhet të ndryshosh shtegun - ju lutem referojuni fa
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
         <source>Unknown</source>
-        <translation type="unfinished">E panjohur</translation>
+        <translation>E panjohur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"/>
         <source>All Versions</source>
-        <translation type="unfinished">Te gjitha versionet</translation>
+        <translation>Të gjitha versionet</translation>
     </message>
 </context>
 <context>
@@ -7749,7 +7749,7 @@ Dëshiron t&apos;i çaktivizosh?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="283"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="346"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
@@ -7905,7 +7905,7 @@ Je i sigurt?</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="329"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="332"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="329"/>
@@ -7941,7 +7941,7 @@ Ju lutem përditësoni %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>Unknown</source>
-        <translation type="unfinished">E panjohur</translation>
+        <translation>E panjohur</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
@@ -7964,7 +7964,7 @@ Ju lutem përditësoni %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="73"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (version %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="144"/>
@@ -8009,12 +8009,12 @@ Ju lutem përditësoni %1!</translation>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="314"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="338"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 nga %2 ka përfunduar</translation>
+        <translation>%1 nga %2 u përfundua</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="319"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Po shkarkon modalitetet...</translation>
+        <translation>Po shkarkohen modet...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="430"/>
@@ -8113,12 +8113,12 @@ Ju lutem përditësoni %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="154"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="219"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
@@ -8169,12 +8169,12 @@ Ju lutem përditësoni %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Kerko dhe filtro...</translation>
+        <translation>Kërko dhe filtro...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="79"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versioni i zgjedhur:</translation>
+        <translation>Versioni i zgjedhur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
@@ -8277,7 +8277,7 @@ Ju lutem përditësoni %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
@@ -8392,7 +8392,7 @@ Ju lutem përditësoni %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished">Mbylle</translation>
+        <translation>Mbyll</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -8579,7 +8579,7 @@ Ju lutem përditësoni %1!</translation>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="399"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -8643,7 +8643,7 @@ Je i sigurt?</translation>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="310"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Nuk mund ta shfaqë këtë regjistër pasi gjatësia e tij tejkaloi %1 rreshta.</translation>
+        <translation>Regjistri nuk mund të shfaqet pasi gjatësia e tij ka kaluar %1 rreshta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
@@ -8674,129 +8674,129 @@ Je i sigurt?</translation>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Nuk mund ta kuptoja manifestin e paketës:
+        <translation>Nuk u kuptua manifesti i paketës:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Modaliteti i instalimit i pambështetur</translation>
+        <translation>Mënyrë instalimi e pambështetur</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Marrja e indeksit të meta të dhënave lokale për &apos;%1&apos; v%2 dështoi</translation>
+        <translation>Marrja e indeksit lokal të metadhënave për &apos;%1&apos; v%2 dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Po fshin skedarët ekzistues...</translation>
+        <translation>Po fshihen skedarët ekzistues...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Lloji i panjohur i modalitetit: %1</translation>
+        <translation>Lloj modi i panjohur: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Marrja e indeksit të meta të dhënave lokale për %1 dështoi</translation>
+        <translation>Marrja e indeksit lokal të metadhënave për %1 dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Dështoi në gjetjen e versionit për ngarkuesin %1</translation>
+        <translation>Gjetja e versionit për ngarkuesin %1 dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Asnjë version i ngarkuesit nuk është vendosur për modpack!</translation>
+        <translation>Nuk është caktuar version ngarkuesi për modpack-un!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Lloji i shkarkimit i panjohur ose i pambështetur: %1</translation>
+        <translation>Lloj shkarkimi i panjohur ose i pambështetur: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Po shkarkon konfigurimet...</translation>
+        <translation>Po shkarkohen konfigurimet...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
         <source>Config download</source>
-        <translation type="unfinished">Shkarkimi i konfigurimit</translation>
+        <translation>Shkarkimi i konfigurimeve</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Po nxjerr konfigurimet...</translation>
+        <translation>Po nxirren konfigurimet...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Zgjedhja e modaliteteve opsionale...</translation>
+        <translation>Po zgjidhen modet opsionale...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Po shkarkon modalitetet...</translation>
+        <translation>Po shkarkohen modet...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
         <source>Mod download</source>
-        <translation type="unfinished">Shkarkimi i modës</translation>
+        <translation>Shkarkimi i modeve</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Lloji i panjohur i shkarkimit: %1</translation>
+        <translation>Lloj shkarkimi i panjohur: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">U gjetën modalitete të bllokuara</translation>
+        <translation>U gjetën mode të bllokuara</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Skedarët e mëposhtëm nuk disponohen për shkarkim në lëshuesit e palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni manualisht dhe t&apos;i shtoni ato në shembull.</translation>
+        <translation>Skedarët e mëposhtëm nuk mund të shkarkohen në lëshues të palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni dorazi dhe t&apos;i shtoni vetë te instanca.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 nga %2 ka përfunduar</translation>
+        <translation>%1 nga %2 u përfundua</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Ekstraktimi i modaliteteve dështoi...</translation>
+        <translation>Nxjerrja e modeve dështoi...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Po nxjerr modalitete...</translation>
+        <translation>Po nxirren modet...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Instalimi i modpack</translation>
+        <translation>Po instalohet modpack-u</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Krijimi i komponentit të bibliotekave dështoi</translation>
+        <translation>Krijimi i përbërësit të librarive dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Lloji i panjohur i ngarkuesit: </translation>
+        <translation>Lloj ngarkuesi i panjohur: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Krijimi i komponentit të paketës dështoi</translation>
+        <translation>Krijimi i përbërësit të paketës dështoi</translation>
     </message>
 </context>
 <context>
@@ -9500,7 +9500,7 @@ Statusi HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
         <source>Type</source>
-        <translation type="unfinished">Lloji</translation>
+        <translation>Lloji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
@@ -9826,90 +9826,90 @@ Vazhdo me shkurtim?</translation>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil dritareje që përpiqet të ngjajë me temën tuaj win32</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"/>
         <source>Windows 9x inspired widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil dritareje i frymëzuar nga Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="100"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil dritareje i frymëzuar nga WinUI 3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="102"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stili i parazgjedhur i dritareve Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema juaj aktuale e sistemit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="47"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>E errët</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1min %2s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="36"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1orë %2min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="38"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1d %2orë %3min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="75"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>ditë</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="80"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>orë</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="85"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="90"/>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="95"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="48"/>
@@ -9919,51 +9919,54 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Keni provuar të caktoni dorazi një opsion kujtese JVM (duke përdorur &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; ose &quot;-Xms&quot;).
+Ka fusha të dedikuara për këto në cilësime (skeda Java, te grupi Kujtesa në krye).
+Ky mesazh do të shfaqet derisa t&apos;i hiqni nga argumentet e JVM-së.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="53"/>
         <location filename="src/launcher/JavaCommon.cpp" line="62"/>
         <source>JVM arguments warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Paralajmërim për argumentet e JVM-së</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Keni provuar t&apos;i kaloni JVM-së argumentin e versionit të kërkuar të Java-s (duke përdorur &quot;-version:xxx&quot;). Kjo nuk është e sigurt dhe nuk do të lejohet.
+Ky mesazh do të shfaqet derisa ta hiqni këtë nga argumentet e JVM-së.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Testi i Java-s u krye me sukses!&lt;br /&gt;Platforma e raportuar: %1&lt;br /&gt;Versioni i Java-s i raportuar: %2&lt;br /&gt;Prodhuesi i Java-s i raportuar: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;Paralajmërime:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Skedari i specifikuar Java nuk funksionoi me argumentet që dhatë:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Skedari i specifikuar Java nuk funksionoi.&lt;br /&gt;Duhet të shtypni &apos;Zbulo&apos;, ose të vendosni shtegun te ekzekutuesi i Java-s.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Biblioteka e kontrolluesit të Java-s nuk u gjet. Ju lutem kontrolloni instalimin tënd.</translation>
+        <translation>Libraria kontrolluese e Java-s nuk u gjet. Ju lutemi kontrolloni instalimin tuaj.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="13"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndrysho emrin e instancës</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="14"/>
@@ -9971,287 +9974,293 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i instancës duket se përfshin versionin e vjetër. Dëshironi ta përditësoni?
+
+Emri i vjetër: %1
+Emri i ri: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>U gjet një modpack i ngjashëm!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="33"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Një ose më shumë nga instancat tuaja janë nga i njëjti modpack%1. Dëshironi të krijoni një instancë të veçantë, apo të përditësoni atë ekzistuese?
+
+SHËNIM: Sigurohuni që keni bërë një kopje rezervë të të dhënave të rëndësishme të instancës para përditësimit, pasi botët mund të dëmtohen dhe disa konfigurime mund të humbasin (për shkak të mbishkrimeve të paketës).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Përditëso instancën ekzistuese</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="40"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Krijo instancë të re</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="89"/>
         <source>Delete Existing Save Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fshi skedarët ekzistues të ruajtjes</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="90"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Një version më i hershëm i këtij modpacku ka instaluar skedarë ruajtjeje.
+Dëshironi t&apos;i hiqni ato skedarë ekzistues si pjesë e këtij përditësimi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="309"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Macja e sfondit (nga MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="310"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (vizatuar nga Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (botim i sheshtë, vizatuar nga Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="312"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teawie (vizatuar nga SympathyTea)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
         <source>resource pack</source>
-        <translation type="unfinished"></translation>
+        <translation>paketë burimesh</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
         <source>texture pack</source>
-        <translation type="unfinished"></translation>
+        <translation>paketë teksturash</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
         <source>data pack</source>
-        <translation type="unfinished"></translation>
+        <translation>paketë të dhënash</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
         <source>shader pack</source>
-        <translation type="unfinished"></translation>
+        <translation>paketë shader-ësh</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
         <source>world save</source>
-        <translation type="unfinished"></translation>
+        <translation>ruajtje bote</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation>mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
         <source>unknown</source>
-        <translation type="unfinished">i panjohur</translation>
+        <translation>e panjohur</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Rendit sipas të Veçuarve</translation>
+        <translation>Rendit sipas të Veçuarave</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Ndani nga Populariteti</translation>
+        <translation>Rendit sipas Popullaritetit</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="123"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Rendit sipas Përditësimit të Fundit</translation>
+        <translation>Rendit sipas Përditësimit të Fundit</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ndani nga Emri</translation>
+        <translation>Rendit sipas Emrit</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">Rendit sipas Autorit</translation>
+        <translation>Rendit sipas Autorit</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendit sipas Shkarkimeve</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
         <source>Sort by Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendit sipas Kategorisë</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="172"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Ndani nga Versioni i Lojes</translation>
+        <translation>Rendit sipas Versionit të Lojës</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished">Rendit sipas Relevanës</translation>
+        <translation>Rendit sipas Përshtatshmërisë</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">Rendit sipas Ndjekësve</translation>
+        <translation>Rendit sipas Ndjekësve</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished">Rendit sipas Të Rejave</translation>
+        <translation>Rendit sipas të Rejave</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>një program me grumbull MKLINK për windows, për t&apos;u përdorur me prismlauncher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Të pagrupuara</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Një përditësues automatik për Prism Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="34"/>
         <source>item</source>
-        <translation type="unfinished"></translation>
+        <translation>objekt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="36"/>
         <source>items</source>
-        <translation type="unfinished"></translation>
+        <translation>objekte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="626"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk u gjet asnjë version i përputhshëm i %1 për %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="632"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk ka listë versionesh në indeksin e metadhënave për %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="705"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 i mungon kërkesa %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="712"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, varësi e këtij përbërësi, ka raportuar probleme</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="716"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, varësi e këtij përbërësi, nuk është versioni i kërkuar %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="720"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, varësi e këtij përbërësi, nuk është versioni i sugjeruar %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="734"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dhe %2 dihet se nuk funksionojnë së bashku. Rekomandohet të hiqni njërin prej tyre.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">E pazgjedhur</translation>
+        <translation>I pakontrolluar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="290"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Jashtë linje</translation>
+        <translation>Jashtë linje</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Gati</translation>
+        <translation>Gati</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Duke punuar</translation>
+        <translation>Po punon</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="296"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Gabim</translation>
+        <translation>Me gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">I skaduar</translation>
+        <translation>Skaduar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="300"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">E Kufizuar</translation>
+        <translation>I çaktivizuar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="302"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Iku</translation>
+        <translation>Zhdukur</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">E panjohur</translation>
+        <translation>E panjohur</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="97"/>
         <source>Cannot rename instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Riemërtimi i instancës nuk mund të bëhet</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rrënja e re e instancës (%1) ekziston tashmë. &lt;br /&gt;Vetëm metadhënat do të riemërtohen.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>&amp;Remember my choice</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kujto zgjedhjen time</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="73"/>
         <source>Rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Riemërto dosjen e instancës</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="74"/>
@@ -10259,22 +10268,25 @@ Would you like to remove those existing saves as part of this update?</source>
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dëshironi gjithashtu të riemërtoni dosjen e instancës?
+
+Emri i vjetër: %1
+Emri i ri: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
         <source>Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Po riemërtohet</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndodhi një gabim gjatë kryerjes së veprimit të mëposhtëm të riemërtimit: &lt;br/&gt; - Rrënja e vjetër e instancës: %1&lt;br/&gt; - Rrënja e re e instancës: %2&lt;br/&gt;Vetëm metadhënat riemërtohen.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Ka instanca të lidhura</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
@@ -10285,35 +10297,47 @@ New name: %2</source>
 %2 it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Instanca e mëposhtme mund t&apos;i referohet skedarëve në këtë instancë:
+
+%1
+
+%2 mund të prishë instancën tjetër, 
+
+Dëshironi të vazhdoni?</numerusform>
+            <numerusform>Instancat e mëposhtme mund t&apos;u referohen skedarëve në këtë instancë:
+
+%1
+
+%2 mund të prishë instancat e tjera, 
+
+Dëshironi të vazhdoni?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="202"/>
         <source>error handling file</source>
-        <translation type="unfinished"></translation>
+        <translation>gabim në trajtimin e skedarit</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="204"/>
         <source>invalid compression level</source>
-        <translation type="unfinished"></translation>
+        <translation>nivel i pavlefshëm kompresimi</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="206"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>të dhëna deflate të pavlefshme ose të paplota</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="208"/>
         <source>out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>kujtesë e pamjaftueshme</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="210"/>
         <source>zlib version mismatch!</source>
-        <translation type="unfinished"></translation>
+        <translation>mospërputhje e versionit zlib!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="65"/>
@@ -10334,163 +10358,164 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Krijo Shkurtore</translation>
+        <translation>Krijo shkurtore</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lëshuesi ndodhet në dosjen prej nga u nxor, prandaj nuk mund të krijojë shkurtore.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Krijimi i ikonës për aplikacionin dështoi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
         <source>Failed to create icon for application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Krijimi i ikonës për aplikacionin dështoi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lëshuesi po xhirohet si AppImage i keqkonfiguruar? (mungon ndryshorja e mjedisit $APPIMAGE)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Krijimi i ikonës për shkurtoren dështoi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Krijimi i ikonës për shkurtoren dështoi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk mbështetet në platformën tuaj!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
         <source>Failed to create %1 shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Krijimi i shkurtores %1 dështoi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktopi nuk u gjet?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>U krijua një shkurtore për këtë %1 në desktopin tuaj!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosja e aplikacioneve nuk u gjet?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Krijimi i dosjes së instancave brenda dosjes së aplikacioneve dështoi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>U krijua një shkurtore për këtë %1 në dosjen tuaj të aplikacioneve!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyrje në Desktop</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
         <source>Created a shortcut to this %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>U krijua një shkurtore për këtë %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="111"/>
         <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim rrjeti: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="116"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim: %1 ktheu kodin e papritur të statusit %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Përpunimi i përgjigjes nga serveri hastebin dështoi: pritej JSON por u mor një përgjigje e pavlefshme. Gabimi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="140"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="167"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim: %1 ktheu një trup përgjigjeje të keqformuar</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Përpunimi i përgjigjes nga serveri mclogs dështoi: pritej JSON por u mor një përgjigje e pavlefshme. Gabimi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim: %1 ktheu një gabim: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Përpunimi i përgjigjes nga serveri pasteGG dështoi: pritej JSON por u mor një përgjigje e pavlefshme. Gabimi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim: %1 ktheu kodin e gabimit: %2
+Mesazhi i gabimit: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Shteg i pavlefshëm për VisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Paketa të dhënash</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="144"/>
         <source> for %1</source>
-        <translation type="unfinished"></translation>
+        <translation> for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Zhvilluesit e %1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Zhvilluesit e MultiMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation>Me falënderime të veçanta për</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
         <source>No Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Asnjë profil Minecraft</translation>
     </message>
 </context>
 <context>
@@ -10498,12 +10523,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <source>Unknown</source>
-        <translation type="unfinished">E panjohur</translation>
+        <translation>E panjohur</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="156"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk është shënuar si i përshtatshëm me versionin e lojës së instancës.</translation>
     </message>
 </context>
 <context>
@@ -10512,7 +10537,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="191"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paketa të dhënash</translation>
     </message>
 </context>
 <context>
@@ -10521,13 +10546,13 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paketa të dhënash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paketë të dhënash</translation>
     </message>
 </context>
 <context>
@@ -10536,7 +10561,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="110"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>mode</translation>
     </message>
 </context>
 <context>
@@ -10545,13 +10570,13 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>mode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>mod</translation>
     </message>
 </context>
 <context>
@@ -10559,69 +10584,70 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="76"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Shqyrto dhe konfirmo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="77"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="103"/>
         <source>Confirmation Needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevojitet konfirmim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="104"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Keni %1 burime të zgjedhura.
+Jeni i sigurt që doni ta mbyllni këtë dialog?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Hap një dritare të re për të shqyrtuar %1 e zgjedhura dhe për të konfirmuar zgjedhjen tuaj. Shkurtore: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="156"/>
         <source>Confirm %1 to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmo %1 për shkarkim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="172"/>
         <source>Warnings</source>
-        <translation type="unfinished">Paralajmërime</translation>
+        <translation>Paralajmërime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="178"/>
         <source>Abort</source>
-        <translation type="unfinished">Ndërprit</translation>
+        <translation>Anulo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="179"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Po kontrollohen varësitë...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="444"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndrysho versionin e %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>burime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="62"/>
         <source>Download %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarko %1</translation>
     </message>
 </context>
 <context>
@@ -10632,35 +10658,35 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="440"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="234"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndodhi një gabim rrjeti. Versionet e projektit nuk u ngarkuan dot: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="257"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndodhi një gabim rrjeti. Informacioni i projektit nuk u ngarkua dot: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="263"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Kërkesa u anulua për një arsye të panjohur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="440"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndodhi një gabim rrjeti. Modet nuk u ngarkuan dot.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished">Versioni i API-së shumë i vjetër!
-Ju lutem përditësoni %1!</translation>
+        <translation>Versioni i API-së është shumë i vjetër!
+Ju lutemi përditësoni %1!</translation>
     </message>
 </context>
 <context>
@@ -10669,7 +10695,7 @@ Ju lutem përditësoni %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="131"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paketa burimesh</translation>
     </message>
 </context>
 <context>
@@ -10678,13 +10704,13 @@ Ju lutem përditësoni %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="36"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paketa burimesh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="38"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paketë burimesh</translation>
     </message>
 </context>
 <context>
@@ -10693,105 +10719,106 @@ Ju lutem përditësoni %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="114"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kërko për %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="115"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="293"/>
         <source>Select %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh %1 për shkarkim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="233"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="238"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Ky projekt asht arkivuar. Nuk do të marrë asnjë përditësim të mëtejshëm nëse autori nuk vendos ta çarkivizojë projektin.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Ky projekt është arkivuar. Nuk do të marrë më përditësime, përveçse nëse autori vendos ta çarkivojë projektin.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
         <source>Donate information: </source>
-        <translation type="unfinished">Informacioni i donacionit: </translation>
+        <translation>Informacion donacioni: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="256"/>
         <source>External links:</source>
-        <translation type="unfinished">Lidhje të jashtme:</translation>
+        <translation>Lidhje të jashtme:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="266"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Kodi burimor: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Kodi burimor: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="269"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="291"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk ka version të disponueshëm për paketën e zgjedhur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="295"/>
         <source>Deselect %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiq zgjedhjen e %1 për shkarkim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="325"/>
         <source> [installed]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [installed]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="332"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk u gjet asnjë version i vlefshëm.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="333"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk mund të zgjidhet version i pavlefshëm :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="358"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Po ngarkohen versionet...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="461"/>
         <source>No versions available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk ka versione të disponueshme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="462"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk ka versione të disponueshme për &apos;%1&apos;.
+Ka mundësi që autori t&apos;i ketë bllokuar lëshuesit e palëve të treta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="573"/>
         <source>Reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Riinstalo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="574"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="580"/>
@@ -10801,19 +10828,19 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="598"/>
         <source>The resource was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Burimi nuk u gjet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>burime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="48"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>burim</translation>
     </message>
 </context>
 <context>
@@ -10822,7 +10849,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="171"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paketa shader-ësh</translation>
     </message>
 </context>
 <context>
@@ -10831,13 +10858,13 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="36"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paketa shader-ësh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paketë shader-ësh</translation>
     </message>
 </context>
 <context>
@@ -10846,7 +10873,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="151"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paketa teksturash</translation>
     </message>
 </context>
 <context>
@@ -10855,13 +10882,13 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="38"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paketa teksturash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="40"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paketë teksturash</translation>
     </message>
 </context>
 <context>
@@ -10869,18 +10896,19 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="74"/>
         <source>Resource download</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarkimi i burimit</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="75"/>
         <source>Downloading resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Po shkarkohet burimi:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="131"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Riemërtimi i konfigurimit të shader-it nga &apos;%1&apos; në &apos;%2&apos; dështoi</translation>
     </message>
 </context>
 <context>
@@ -10890,95 +10918,99 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Paralajmërim: Ky burim është i lidhur simbolikisht nga diku tjetër. Ndryshimi i tij do të ndryshojë edhe origjinalin.
+Shtegu kanonik: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="578"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Paralajmërim: Ky burim është i lidhur ngurtësisht diku tjetër. Ndryshimi i tij do të ndryshojë edhe origjinalin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Enable</source>
-        <translation type="unfinished">Aktivizo</translation>
+        <translation>Aktivizo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Ndryshuar Herën e Fundit</translation>
+        <translation>Modifikuar së fundi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Size</source>
-        <translation type="unfinished">Madhësia</translation>
+        <translation>Madhësia</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Provider</source>
-        <translation type="unfinished">Ofruesi</translation>
+        <translation>Ofruesi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished">Emri i Skedarit</translation>
+        <translation>Emri i skedarit</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="280"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Konfirmo ndryshimin</translation>
+        <translation>Konfirmo ndryshimin</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="281"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nëse e aktivizoni/çaktivizoni këtë burim ndërsa loja po xhirohet, mund të bëjë që loja juaj të ndalojë papritur.
+Jeni i sigurt që doni ta bëni këtë?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="639"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A është i aktivizuar burimi?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="641"/>
         <source>The name of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i burimit.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="643"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Data dhe ora kur ky burim u ndryshua (ose u shtua) për herë të fundit.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="645"/>
         <source>The source provider of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofruesi burimor i burimit.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="647"/>
         <source>The size of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Madhësia e burimit.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="649"/>
         <source>The file name of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i skedarit të burimit.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="740"/>
         <source>Override Columns Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Anashkalo dukshmërinë e kolonave</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="753"/>
         <source>Show / Hide Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq / Fshih kolonat</translation>
     </message>
 </context>
 <context>
@@ -10986,79 +11018,79 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Enable</source>
-        <translation type="unfinished">Aktivizo</translation>
+        <translation>Aktivizo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Image</source>
-        <translation type="unfinished">Imazh</translation>
+        <translation>Imazhi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Ndryshuar Herën e Fundit</translation>
+        <translation>Modifikuar së fundi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Size</source>
-        <translation type="unfinished">Madhësia</translation>
+        <translation>Madhësia</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Provider</source>
-        <translation type="unfinished">Ofruesi</translation>
+        <translation>Ofruesi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished">Emri i Skedarit</translation>
+        <translation>Emri i skedarit</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="156"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ID-ja e formatit të paketës së burimeve, si dhe versionet e Minecraft-it për të cilat është krijuar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="151"/>
         <source>Is the resource pack enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>A është e aktivizuar paketa e burimeve?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
         <source>The source provider of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofruesi burimor i paketës së burimeve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="162"/>
         <source>The size of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Madhësia e paketës së burimeve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
         <source>The file name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i skedarit të paketës së burimeve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Pack Format</source>
-        <translation type="unfinished">Formati i Paketës</translation>
+        <translation>Formati i paketës</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="153"/>
         <source>The name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i paketës së burimeve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Data dhe ora kur kjo paketë burimesh u ndryshua (ose u shtua) për herë të fundit.</translation>
     </message>
 </context>
 <context>
@@ -11066,22 +11098,22 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Shkarko Paketa</translation>
+        <translation>Shkarko paketa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarko paketa burimesh nga platformat online të modeve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Provo të kontrollosh ose përditëso të gjitha paketat e zgjedhura të burimeve (të gjitha paketat e burimeve nëse asnjëra s&apos;është zgjedhur)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Ndrysho versionin e një modi.</translation>
+        <translation>Ndrysho versionin e një modi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="100"/>
@@ -11089,91 +11121,94 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="246"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>U anulua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Shkarkimi u ndal nga përdoruesi.</translation>
+        <translation>Shkarkimi u ndalua nga përdoruesi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="110"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="199"/>
         <source>Warnings</source>
-        <translation type="unfinished">Paralajmërime</translation>
+        <translation>Paralajmërime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
         <source>Abort</source>
-        <translation type="unfinished">Ndërprit</translation>
+        <translation>Anulo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="142"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="246"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Përditësimet e paketave të burimeve nuk janë të disponueshme kur metadhënat janë të çaktivizuara!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="147"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Konfirmo Përditësimin</translation>
+        <translation>Konfirmo përditësimin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="148"/>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Përditësimi i paketave të burimeve ndërsa loja po xhirohet mund të shkaktojë dyfishim paketash dhe ndalim të papritur të lojës.
+Skedarët e vjetër mund të mos fshihen pasi janë në përdorim.
+Jeni i sigurt që doni ta bëni këtë?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
         <source>The resource pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Përditësuesi i paketave të burimeve u anulua!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; asht i përditësuar! :)</translation>
+        <translation>&apos;%1&apos; është e përditësuar! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Të gjitha paketat e burimeve janë të përditësuara! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="179"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Të gjitha paketat e zgjedhura të burimeve janë të përditësuara! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="182"/>
         <source>Update checker</source>
-        <translation type="unfinished">Kontrollues i përditësimeve</translation>
+        <translation>Kontrolluesi i përditësimeve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Konfirmo Heqjen</translation>
+        <translation>Konfirmo heqjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="225"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të hiqni metadhënat për %1 paketa burimesh.
+Jeni i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketa burimesh</translation>
     </message>
 </context>
 <context>
@@ -11181,12 +11216,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="72"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versioni i zgjedhur:</translation>
+        <translation>Versioni i zgjedhur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Opsionet e filtrit</translation>
+        <translation>Opsionet e filtrimit</translation>
     </message>
 </context>
 <context>
@@ -11194,37 +11229,37 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="45"/>
         <source>Confirm resources to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmo burimet për përditësim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të përditësoni burimet e mëposhtme:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
         <source>Only resources with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vetëm burimet e shënuara do të përditësohen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i modit: %1&lt;br&gt;Emri i skedarit: %2&lt;br&gt;Arsyeja: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Krijimi i metadhënave dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadhënat për burimet e mëposhtme nuk mund të krijoheshin:&lt;br&gt;Dëshironi të vazhdoni pa këto burime?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="92"/>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Po kontrollohet për përditësime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"/>
@@ -11233,122 +11268,122 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="378"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="436"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="118"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="219"/>
         <source>Warnings</source>
-        <translation type="unfinished">Paralajmërime</translation>
+        <translation>Paralajmërime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="124"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="224"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="391"/>
         <source>Abort</source>
-        <translation type="unfinished">Ndërprit</translation>
+        <translation>Anulo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Duke kontrollue për azhurnime...</translation>
+        <translation>Po kontrollohet për përditësime...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="171"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i modit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Arsyeja: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidhje e mundshme: Merrni versionin më të fundit dorazi:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolli për përditësime dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="184"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollimi ose marrja e burimeve të mëposhtme për përditësime dështoi:&lt;br&gt;Dëshironi të vazhdoni pa këto burime?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="225"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Po kontrollohen varësitë...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="246"/>
         <source>Not installed</source>
-        <translation type="unfinished">Nuk asht instaluar</translation>
+        <translation>Nuk është i instaluar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="283"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Po kërkohen metadhëna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="329"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Burimi &apos;%1&apos; nuk ka ende metadhëna. Na duhet t&apos;i krijojmë për të gjurmuar informacionin e nevojshëm rreth përditësimit të këtij modi. Për ta bërë këtë, ju lutemi zgjidhni një ofrues modesh që mund ta përdorim për të kontrolluar përditësimet e këtij modi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="392"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Po krijohen metadhëna...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="446"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk u gjet asnjë version i vlefshëm te ofruesi(t) e zgjedhur i modeve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="457"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Modi u çaktivizua pasi mund të jetë tashmë i instaluar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="464"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofruesi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="468"/>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioni i vjetër: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="472"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioni i ri: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="477"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lloji i versionit të ri: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="484"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kërkohet nga: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="487"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kërkohet nga:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="499"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ditari i ndryshimeve i versionit më të fundit</translation>
     </message>
 </context>
 <context>
@@ -11356,7 +11391,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Mbrapa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
@@ -11372,52 +11407,52 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="64"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Modi u çaktivizua pasi mund të jetë tashmë i instaluar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i skedarit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofruesi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="78"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kërkohet nga: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kërkohet nga:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="93"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lloji i versionit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmo zgjedhjen e %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="120"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të shkarkoni %1 e mëposhtme:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="121"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vetëm %1 e shënuara do të shkarkohen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalo varësitë</translation>
     </message>
 </context>
 <context>
@@ -11425,7 +11460,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="50"/>
         <source>Actions</source>
-        <translation type="unfinished">Veprimet</translation>
+        <translation>Veprime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="70"/>
@@ -11440,17 +11475,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="80"/>
         <source>Rename</source>
-        <translation type="unfinished">Riemërto</translation>
+        <translation>Riemërto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="85"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Shiko dosjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="338"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menyja e kontekstit</translation>
+        <translation>Menyja e kontekstit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="406"/>
@@ -11458,7 +11493,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të ngarkoni %1 pamje ekrani te %2.
+Duhet të kontrolloni dy herë për informacione personale.
+
+Jeni i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="411"/>
@@ -11466,52 +11504,55 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të ngarkoni pamjen e zgjedhur të ekranit te %1.
+Duhet të kontrolloni dy herë për informacione personale.
+
+Jeni i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="438"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="479"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
         <source>Failed to upload screenshots!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngarkimi i pamjeve të ekranit dështoi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim i panjohur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="497"/>
         <source>Upload finished</source>
-        <translation type="unfinished">Ngarkimi u krye</translation>
+        <translation>Ngarkimi përfundoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="429"/>
         <source>Abort</source>
-        <translation type="unfinished">Ndërprit</translation>
+        <translation>Anulo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngarkimi i pamjeve të ekranit u anulua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Detyra u ndërpre nga përdoruesi.</translation>
+        <translation>Detyra u anulua nga përdoruesi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lidhja &lt;a href=&quot;%1&quot;&gt;drejt pamjes së ngarkuar të ekranit&lt;/a&gt; u vendos në kujtesën tuaj të kopjimit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="498"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lidhja &lt;a href=&quot;%1&quot;&gt;drejt albumit të ngarkuar&lt;/a&gt; u vendos në kujtesën tuaj të kopjimit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="546"/>
@@ -11519,7 +11560,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të fshini %1 pamje ekrani.
+Kjo mund të jetë e përhershme dhe ato do të zhduken nga dosja.
+
+Jeni i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="552"/>
@@ -11527,29 +11571,32 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të fshini pamjen e zgjedhur të ekranit.
+Kjo mund të jetë e përhershme dhe do të zhduket nga dosja.
+
+Jeni i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="558"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Konfirmo Fshirjen</translation>
+        <translation>Konfirmo fshirjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamje ekrani</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="90"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="93"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopjo imazhin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="98"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="101"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopjo skedarin(ët)</translation>
     </message>
 </context>
 <context>
@@ -11570,17 +11617,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioni</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data e botimit</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidhni një version për t&apos;u instaluar.</translation>
     </message>
 </context>
 <context>
@@ -11588,29 +11635,31 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh botimin për instalim</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ju lutemi zgjidhni botimin te i cili dëshironi të përditësoni.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioni</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data e botimit</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="48"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidhni një version për t&apos;u instaluar.
+
+Versioni aktualisht i instaluar: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
@@ -11628,7 +11677,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Po ekzekutohet detyra %1 nga %2</translation>
     </message>
 </context>
 <context>
@@ -11636,17 +11685,17 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="285"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="287"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Online</translation>
     </message>
 </context>
 <context>
@@ -11654,37 +11703,37 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="75"/>
         <source>&amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Emri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="88"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="101"/>
         <source>Reso&amp;urces</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Burimet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="112"/>
         <source>Ask to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Pyet para shkarkimit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="117"/>
         <source>Always download</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarko gjithmonë</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="122"/>
         <source>Never download</source>
-        <translation type="unfinished"></translation>
+        <translation>Mos shkarko kurrë</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="133"/>
         <source>Actions</source>
-        <translation type="unfinished">Veprimet</translation>
+        <translation>Veprime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
@@ -11699,37 +11748,37 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Lëviz lart</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Lëviz poshtë</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="180"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Bashkohu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="185"/>
         <source>Refresh</source>
-        <translation type="unfinished">Rifresko</translation>
+        <translation>Rifresko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menyja e kontekstit</translation>
+        <translation>Menyja e kontekstit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Konfirmo Heqjen</translation>
+        <translation>Konfirmo heqjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="730"/>
@@ -11737,7 +11786,10 @@ Currently installed version: %1</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të hiqni &quot;%1&quot;.
+Kjo është e përhershme dhe serveri do të zhduket nga lista juaj përgjithmonë (PËR NJË KOHË TË GJATË).
+
+Jeni i sigurt?</translation>
     </message>
 </context>
 <context>
@@ -11745,27 +11797,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tjetër &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Mbrapa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Përfundo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Rifresko</translation>
+        <translation>&amp;Rifresko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Konfigurimi i shpejtë i %1&apos;</translation>
     </message>
 </context>
 <context>
@@ -11773,12 +11825,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>Migrimi i metadhënave të paketës shader dështoi nga .index</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Heqja e dosjes së vjetër .index dështoi</translation>
     </message>
 </context>
 <context>
@@ -11786,22 +11838,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Shkarko Paketa</translation>
+        <translation>Shkarko paketa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarko paketa shader-ësh nga platformat online të modeve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Provo të kontrollosh ose përditëso të gjitha paketat e zgjedhura shader (të gjitha paketat shader nëse asnjëra s&apos;është zgjedhur)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndrysho versionin e një paketë shader-i.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="97"/>
@@ -11809,91 +11861,94 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="186"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="243"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="101"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="167"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>U anulua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="101"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Shkarkimi u ndal nga përdoruesi.</translation>
+        <translation>Shkarkimi u ndalua nga përdoruesi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="107"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="196"/>
         <source>Warnings</source>
-        <translation type="unfinished">Paralajmërime</translation>
+        <translation>Paralajmërime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="206"/>
         <source>Abort</source>
-        <translation type="unfinished">Ndërprit</translation>
+        <translation>Anulo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="139"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="243"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Përditësimet e paketave shader nuk janë të disponueshme kur metadhënat janë të çaktivizuara!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="144"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Konfirmo Përditësimin</translation>
+        <translation>Konfirmo përditësimin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="145"/>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Përditësimi i paketave shader ndërsa loja po xhirohet mund të shkaktojë dyfishim paketash dhe ndalim të papritur të lojës.
+Skedarët e vjetër mund të mos fshihen pasi janë në përdorim.
+Jeni i sigurt që doni ta bëni këtë?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="167"/>
         <source>The shader pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Përditësuesi i paketave shader u anulua!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; asht i përditësuar! :)</translation>
+        <translation>&apos;%1&apos; është e përditësuar! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
         <source>All shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Të gjitha paketat shader janë të përditësuara! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="176"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Të gjitha paketat e zgjedhura shader janë të përditësuara! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="179"/>
         <source>Update checker</source>
-        <translation type="unfinished">Kontrollues i përditësimeve</translation>
+        <translation>Kontrolluesi i përditësimeve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="221"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Konfirmo Heqjen</translation>
+        <translation>Konfirmo heqjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="222"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të hiqni metadhënat për %1 paketa shader.
+Jeni i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketa shader-ësh</translation>
     </message>
 </context>
 <context>
@@ -11901,7 +11956,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinDelete.cpp" line="49"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Po fshihet skin-i</translation>
     </message>
 </context>
 <context>
@@ -11909,32 +11964,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="294"/>
         <source>Path is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtegu është bosh.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="297"/>
         <source>File doesn&apos;t exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skedari nuk ekziston.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="299"/>
         <source>Not a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk është skedar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="301"/>
         <source>File is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skedari nuk lexohet dot.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="303"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imazhet e skin-it duhet të jenë skedarë PNG 64x64 ose 64x32 pixel.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="307"/>
         <source>Unable to copy file</source>
-        <translation type="unfinished"></translation>
+        <translation>Skedari nuk mund të kopjohet</translation>
     </message>
 </context>
 <context>
@@ -11944,87 +11999,87 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Skin Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngarkimi i skin-it</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modeli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="39"/>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
         <source>Slim</source>
-        <translation type="unfinished"></translation>
+        <translation>I hollë</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamja paraprake e Elytra-s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Hap Dosjen</translation>
+        <translation>Hap dosjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
         <source>Reset Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Rivendos skin-in</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
         <source>Import URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Importo nga URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"/>
         <source>Import user</source>
-        <translation type="unfinished"></translation>
+        <translation>Importo përdorues</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="145"/>
         <source>Import File</source>
-        <translation type="unfinished"></translation>
+        <translation>Importo skedar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fshi skin-in</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>Deletes selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Fshin skin-in e zgjedhur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
         <source>&amp;Rename Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Riemërto skin-in</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
         <source>Rename selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Riemërton skin-in e zgjedhur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
         <source>F2</source>
-        <translation type="unfinished"></translation>
+        <translation>F2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="112"/>
@@ -12039,156 +12094,158 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="174"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh teksturën e skin-it</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="180"/>
         <source>Selected file is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Skedari i zgjedhur nuk është skin i vlefshëm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="208"/>
         <source>No Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Asnjë mantel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="215"/>
         <source>Download capes</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarko mantele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
         <source>Change skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndrysho skin-in</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished"></translation>
+        <translation>Skedari i skin-it nuk ekziston!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngarkimi i skin-it dështoi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="332"/>
         <source>Reset skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Rivendos skin-in</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Skin Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Fshirja e skin-it</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fshirja e skin-it aktual dështoi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menyja e kontekstit</translation>
+        <translation>Menyja e kontekstit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="385"/>
         <source>Delete error</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim fshirjeje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="385"/>
         <source>Can not delete skin that is in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk mund të fshihet skini që është në përdorim.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Konfirmo Fshirjen</translation>
+        <translation>Konfirmo fshirjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të fshini &quot;%1&quot;.
+Jeni i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="411"/>
         <source>Invalid url</source>
-        <translation type="unfinished"></translation>
+        <translation>URL e pavlefshme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="415"/>
         <source>Download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarko skin-in</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
         <source>URL is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>URL-ja nuk është skin i vlefshëm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="425"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imazhet e skin-it duhet të jenë skedarë PNG 64x64 ose 64x32 pixel.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="426"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin-i nuk mund të shkarkohet: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="472"/>
         <source>Download user skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarko skin-in e përdoruesit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="487"/>
         <source>failed to get user UUID</source>
-        <translation type="unfinished"></translation>
+        <translation>marrja e UUID-së së përdoruesit dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="494"/>
         <source>failed to get user profile</source>
-        <translation type="unfinished"></translation>
+        <translation>marrja e profilit të përdoruesit dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="498"/>
         <source>failed to download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>shkarkimi i skin-it dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="508"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"/>
         <source>failed to parse get user UUID response</source>
-        <translation type="unfinished"></translation>
+        <translation>përpunimi i përgjigjes së marrjes së UUID-së së përdoruesit dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="517"/>
         <source>user id is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>ID-ja e përdoruesit është bosh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="531"/>
         <source>failed to parse get user profile response</source>
-        <translation type="unfinished"></translation>
+        <translation>përpunimi i përgjigjes së marrjes së profilit të përdoruesit dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="548"/>
         <source>the skin is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>skin-i është i pavlefshëm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="550"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Emri i përdoruesit nuk u gjet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin-i për &apos;%1&apos; nuk u gjet dot
+ për shkak se: %2.</translation>
     </message>
 </context>
 <context>
@@ -12196,7 +12253,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinUpload.cpp" line="66"/>
         <source>Uploading skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Po ngarkohet skin-i</translation>
     </message>
 </context>
 <context>
@@ -12204,17 +12261,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">Formular</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Statusi i nën-detyrës...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
         <source>Status Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detajet e statusit</translation>
     </message>
 </context>
 <context>
@@ -12222,7 +12279,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/tasks/Task.cpp" line="141"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>U anulua</translation>
     </message>
 </context>
 <context>
@@ -12230,14 +12287,16 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detyra u anulua.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="41"/>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Përditësimi i instancës dështoi për shkak se: %1
+
+</translation>
     </message>
 </context>
 <context>
@@ -12246,33 +12305,33 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished">Duke shkarkuar paketën e modeve:
+        <translation>Po shkarkohet modpack-u:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Shkarkimi i paketës së modeve</translation>
+        <translation>Shkarkimi i modpack-ut</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Duke nxjerrë paketën e modeve</translation>
+        <translation>Po nxirret modpack-u</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Nxjerrja e modpack-ut dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="116"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Nuk u mund të rregulloheshin lejet për %1</translation>
+        <translation>Lejet nuk u rregulluan dot për %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="131"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importimi i instancës u anulua.</translation>
     </message>
 </context>
 <context>
@@ -12281,40 +12340,40 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation type="unfinished"></translation>
+        <translation>Po zgjidhen skedarët e modpack-ut</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="87"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="110"/>
         <source>Downloading modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Po shkarkohet modpack-u</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Nuk mund ta kuptoja manifestin e paketës:
+        <translation>Nuk u kuptua manifesti i paketës:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Duke nxjerrë paketën e modeve</translation>
+        <translation>Po nxirret modpack-u</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="182"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Nxjerrja e modpack-ut dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="203"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Nuk u mund të rregulloheshin lejet për %1</translation>
+        <translation>Lejet nuk u rregulluan dot për %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="218"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importimi i instancës u anulua.</translation>
     </message>
 </context>
 <context>
@@ -12322,50 +12381,52 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Skedari &quot;bin/modpack.jar&quot; nuk mund të hapej!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;fmlversion.properties&quot; nuk mund të hapej!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;version.json&quot; nuk mund të hapej!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&quot;version.json&quot; nuk u gjet brenda &quot;bin/modpack.jar&quot;, por versioni i Minecraft-it është i panjohur</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;forgeversion.properties&quot; nuk mund të hapej</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="106"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;forgeversion.properties&quot; i pavlefshëm!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;version.json&quot; nuk mund të hapej: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="139"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;version.json&quot; nuk u kuptua:
+mungon inheritsFrom</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="195"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;version.json&quot; nuk u kuptua:
+</translation>
     </message>
 </context>
 <context>
@@ -12373,24 +12434,24 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="69"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versioni i zgjedhur:</translation>
+        <translation>Versioni i zgjedhur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Kerko dhe filtro...</translation>
+        <translation>Kërko dhe filtro...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="274"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="239"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> by </translation>
     </message>
 </context>
 <context>
@@ -12398,67 +12459,67 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Enable</source>
-        <translation type="unfinished">Aktivizo</translation>
+        <translation>Aktivizo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Image</source>
-        <translation type="unfinished">Imazh</translation>
+        <translation>Imazhi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Ndryshuar Herën e Fundit</translation>
+        <translation>Modifikuar së fundi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Size</source>
-        <translation type="unfinished">Madhësia</translation>
+        <translation>Madhësia</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Provider</source>
-        <translation type="unfinished">Ofruesi</translation>
+        <translation>Ofruesi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished">Emri i Skedarit</translation>
+        <translation>Emri i skedarit</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>A është e aktivizuar paketa e teksturave?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i paketës së teksturave.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Data dhe ora kur kjo paketë teksturash u ndryshua (ose u shtua) për herë të fundit.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The source provider of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofruesi burimor i paketës së teksturave.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The size of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Madhësia e paketës së teksturave.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
         <source>The file name of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i skedarit të paketës së teksturave.</translation>
     </message>
 </context>
 <context>
@@ -12466,32 +12527,32 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="53"/>
         <source>Texture packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketa teksturash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Shkarko Paketa</translation>
+        <translation>Shkarko paketa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
         <source>Download texture packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarko paketa teksturash nga platformat online të modeve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Provo të kontrollosh ose përditëso të gjitha paketat e zgjedhura të teksturave (të gjitha paketat e teksturave nëse asnjëra s&apos;është zgjedhur)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>Change a texture pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndrysho versionin e një paketë teksturash.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shiko faqet kryesore të të gjitha paketave të zgjedhura të teksturave.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="105"/>
@@ -12499,86 +12560,89 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="251"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="109"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="198"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>U anulua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="109"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="198"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Shkarkimi u ndal nga përdoruesi.</translation>
+        <translation>Shkarkimi u ndalua nga përdoruesi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="115"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="204"/>
         <source>Warnings</source>
-        <translation type="unfinished">Paralajmërime</translation>
+        <translation>Paralajmërime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="130"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="214"/>
         <source>Abort</source>
-        <translation type="unfinished">Ndërprit</translation>
+        <translation>Anulo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="147"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="251"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Përditësimet e paketave të teksturave nuk janë të disponueshme kur metadhënat janë të çaktivizuara!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="152"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Konfirmo Përditësimin</translation>
+        <translation>Konfirmo përditësimin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="153"/>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Përditësimi i paketave të teksturave ndërsa loja po xhirohet mund të shkaktojë dyfishim paketash dhe ndalim të papritur të lojës.
+Skedarët e vjetër mund të mos fshihen pasi janë në përdorim.
+Jeni i sigurt që doni ta bëni këtë?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
         <source>The texture pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Përditësuesi i paketave të teksturave u anulua!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="179"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; asht i përditësuar! :)</translation>
+        <translation>&apos;%1&apos; është e përditësuar! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
         <source>All texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Të gjitha paketat e teksturave janë të përditësuara! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="184"/>
         <source>All selected texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Të gjitha paketat e zgjedhura të teksturave janë të përditësuara! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="187"/>
         <source>Update checker</source>
-        <translation type="unfinished">Kontrollues i përditësimeve</translation>
+        <translation>Kontrolluesi i përditësimeve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="229"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Konfirmo Heqjen</translation>
+        <translation>Konfirmo heqjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="230"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të hiqni metadhënat për %1 paketa teksturash.
+Jeni i sigurt?</translation>
     </message>
 </context>
 <context>
@@ -12601,12 +12665,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished">Paraqitja</translation>
+        <translation>Pamja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh temën dhe ikonat për t&apos;u përdorur</translation>
     </message>
 </context>
 <context>
@@ -12616,7 +12680,10 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:
+%2 të përkthyera
+%3 të paqarta
+%4 gjithsej</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
@@ -12626,17 +12693,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
-        <translation type="unfinished"></translation>
+        <translation>Plotësia</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i gjuhës amtare.</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plotësia është përqindja e vargjeve të përkthyera plotësisht, pa numëruar ato të hamendësuara automatikisht.</translation>
     </message>
 </context>
 <context>
@@ -12644,43 +12711,43 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Përditësim i disponueshëm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
         <source>A new version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Një version i ri është i disponueshëm!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioni %1 tani është i disponueshëm - ju keni %2 . Dëshironi ta shkarkoni tani?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shënimet e botimit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapërce këtë version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Më kujto më vonë</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalo përditësimin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Një version i ri i %1 është i disponueshëm!</translation>
     </message>
 </context>
 <context>
@@ -12688,7 +12755,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Po krijohet instanca nga versioni %1</translation>
     </message>
 </context>
 <context>
@@ -12698,29 +12765,33 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndarja maksimale e kujtesës tejkalon vlerën e mbështetur.
+Instalimi i zgjedhur i Java-s është 32-bit dhe nuk mbështet më shumë se 2048MiB RAM.
+Instanca mund të mos niset për shkak të kësaj.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Versioni kryesor i Java-s është i papërputhshëm. Gjërat mund të prishen.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjo instancë nuk është e përputhshme me versionin %1 të Java-s.
+Ju lutemi kaloni në një nga versionet e mëposhtme të Java-s për këtë instancë:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
         <source>Java version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioni i Java-s %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkoni te cilësimet e Java-s së instancës për të ndryshuar versionin tuaj të Java-s ose për të çaktivizuar kontrollin e përputhshmërisë së Java-s, nëse e dini çfarë po bëni.</translation>
     </message>
 </context>
 <context>
@@ -12728,7 +12799,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
         <source>No versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisht nuk ka versione të disponueshme.</translation>
     </message>
 </context>
 <context>
@@ -12736,7 +12807,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
         <source>Actions</source>
-        <translation type="unfinished">Veprimet</translation>
+        <translation>Veprime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="132"/>
@@ -12746,7 +12817,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="140"/>
         <source>Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Përshtat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="148"/>
@@ -12756,182 +12827,182 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="156"/>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>Kthe mbrapsht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="172"/>
         <source>Add to Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Shto te Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="175"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shto një mod brenda skedarit minecraft jar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="180"/>
         <source>Replace Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Zëvendëso Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Shto agjentë</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="188"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shto agjentë Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
         <source>Add Empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Shto bosh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Ringarko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
         <source>Change Version</source>
-        <translation type="unfinished">Ndrysho Versionin</translation>
+        <translation>Ndrysho versionin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished">Kërko</translation>
+        <translation>Kërko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="111"/>
         <source>Change version of the selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndrysho versionin e përbërësit të zgjedhur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="116"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Lëviz lart</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="119"/>
         <source>Make the selected component apply sooner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bëj që përbërësi i zgjedhur të aplikohet më herët.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="124"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Lëviz poshtë</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="127"/>
         <source>Make the selected component apply later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bëj që përbërësi i zgjedhur të aplikohet më vonë.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="135"/>
         <source>Remove selected component from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiq përbërësin e zgjedhur nga instanca.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="143"/>
         <source>Customize selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Përshtat përbërësin e zgjedhur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="151"/>
         <source>Edit selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Përpuno përbërësin e zgjedhur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="159"/>
         <source>Revert the selected component to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kthe përbërësin e zgjedhur te i parazgjedhuri.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="164"/>
         <source>Install Loader</source>
-        <translation type="unfinished">Instalo Ngarkuesin</translation>
+        <translation>Instalo ngarkuesin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="167"/>
         <source>Install a mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalo një ngarkues modesh.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="196"/>
         <source>Add an empty custom component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shto një përbërës bosh të personalizuar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="204"/>
         <source>Reload all components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ringarko të gjithë përbërësit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
         <source>Download all</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarko të gjitha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="212"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkarko tani skedarët e nevojshëm për të nisur instancën.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
         <source>Open .minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Hap .minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="220"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hap dosjen .minecraft të instancës.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
         <source>Open libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Hap librarinë</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="228"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hap dosjen lokale të librarive të instancës.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="233"/>
         <source>Import Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Importo përbërës</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="236"/>
         <source>Import existing component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importo skedarë ekzistues JSON të përbërësve.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="189"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menyja e kontekstit</translation>
+        <translation>Menyja e kontekstit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="205"/>
         <source>%1 possibly has issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ka mundësi që të ketë probleme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
         <source>%1 has issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ka probleme!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
         <source>Error: </source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="222"/>
         <source>Warning: </source>
-        <translation type="unfinished"></translation>
+        <translation>Paralajmërim: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="254"/>
@@ -12942,17 +13013,17 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="361"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished">Nuk u mund të ngarkohej profili i instancës.</translation>
+        <translation>Profili i instancës nuk u ngarkua dot.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Konfirmo Heqjen</translation>
+        <translation>Konfirmo heqjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="281"/>
@@ -12960,77 +13031,80 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të hiqni &quot;%1&quot;.
+Kjo është e përhershme dhe do ta heqë plotësisht përbërësin e personalizuar.
+
+Jeni i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
         <source>Couldn&apos;t remove file</source>
-        <translation type="unfinished"></translation>
+        <translation>Skedari nuk u hoq dot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Select jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh mode jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Minecraft.jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Minecraft.jar replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Zëvendësim i Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Java agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Agjentë Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Select jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh jar-in</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
         <source>Select components</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh përbërësit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
         <source>Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Përbërësit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Failed to import components</source>
-        <translation type="unfinished"></translation>
+        <translation>Importimi i përbërësve dështoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="328"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation type="unfinished"></translation>
+        <translation>Disa përbërës nuk u importuan dot. Kontrolloni regjistrat për detaje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh agjentët</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndrysho versionin e %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
         <source>No intermediary mappings versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisht nuk ka versione hartëzimesh ndërmjetëse të disponueshme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista e versioneve të hartëzimeve ndërmjetëse nuk u ngarkua ose shkarkua dot!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"/>
@@ -13038,17 +13112,18 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-i nuk mund të shkarkohet ose instancat nuk mund të përditësohen pa pasur së paku një llogari të shtuar.
+Ju lutemi shtoni një llogari Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="507"/>
         <source>Error updating instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim gjatë përditësimit të instancës</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="567"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmo kthimin mbrapsht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="568"/>
@@ -13056,12 +13131,15 @@ Please add your Microsoft or Mojang account.</oldsource>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të ktheni mbrapsht &quot;%1&quot;.
+Kjo është e përhershme dhe do t&apos;i kthejë plotësisht mbrapsht personalizimet tuaja.
+
+Jeni i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="60"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioni</translation>
     </message>
 </context>
 <context>
@@ -13069,7 +13147,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="110"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioni</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="112"/>
@@ -13079,106 +13157,106 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="114"/>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Dega</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
         <source>Type</source>
-        <translation type="unfinished">Lloji</translation>
+        <translation>Lloji</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
         <source>Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkitektura</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="120"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtegu</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioni kryesor</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
         <source>Released</source>
-        <translation type="unfinished"></translation>
+        <translation>Botuar</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The name of the version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i versionit.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>Minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioni i Minecraft-it</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
         <source>The version&apos;s branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Dega e versionit</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The version&apos;s type</source>
-        <translation type="unfinished"></translation>
+        <translation>Lloji i versionit</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>CPU Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkitektura e CPU-së</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
         <source>Filesystem path to this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtegu në sistemin e skedarëve për këtë version</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Emri alternativ i versionit Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Versioni kryesor i Java-s</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
         <source>Release date of this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Data e botimit të këtij versioni</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="166"/>
         <source>%1 (installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (i instaluar)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="194"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>I rekomanduar</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="198"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Më i fundit</translation>
     </message>
 </context>
 <context>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Në rregull</translation>
+        <translation>Në rregull</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -13193,17 +13271,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
         <source>Choose Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh versionin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
         <source>Reloads the version list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ringarkon listën e versioneve.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Rifresko</translation>
+        <translation>&amp;Rifresko</translation>
     </message>
 </context>
 <context>
@@ -13211,18 +13289,19 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished">Kërko</translation>
+        <translation>Kërko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Gabim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>List update failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Përditësimi i listës dështoi:
+%1</translation>
     </message>
 </context>
 <context>
@@ -13230,12 +13309,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="8"/>
         <source>Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Regjistrat e lëshuesit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
         <source>View Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Shiko regjistrat e lëshuesit</translation>
     </message>
 </context>
 <context>
@@ -13243,7 +13322,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Përshtat veprimet e shiritit të mjeteve</translation>
     </message>
 </context>
 <context>
@@ -13251,76 +13330,78 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjo botë është e lidhur simbolikisht nga diku tjetër.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="206"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Kjo botë është e lidhur ngurtësisht diku tjetër.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="221"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Paralajmërim: Kjo botë është e lidhur simbolikisht nga diku tjetër. Ndryshimi i saj do të ndryshojë edhe origjinalin.
+Shtegu kanonik: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="226"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paralajmërim: Kjo botë është e lidhur ngurtësisht diku tjetër. Ndryshimi i saj do të ndryshojë edhe origjinalin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
         <source>Game Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mënyra e lojës</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Luajtur së fundi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="270"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished">Madhësia</translation>
+        <translation>Madhësia</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished">Info</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="281"/>
         <source>The name of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i botës.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="283"/>
         <source>Game mode of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mënyra e lojës e botës.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
         <source>Date and time the world was last played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Data dhe ora kur kjo botë u luajt për herë të fundit.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Madhësia e botës në disk.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacione dhe paralajmërime rreth botës.</translation>
     </message>
 </context>
 <context>
@@ -13328,7 +13409,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="68"/>
         <source>Actions</source>
-        <translation type="unfinished">Veprimet</translation>
+        <translation>Veprime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="101"/>
@@ -13338,17 +13419,17 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="106"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Bashkohu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="111"/>
         <source>Rename</source>
-        <translation type="unfinished">Riemërto</translation>
+        <translation>Riemërto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="116"/>
         <source>Copy</source>
-        <translation type="unfinished">Kopjo</translation>
+        <translation>Kopjo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="121"/>
@@ -13358,105 +13439,108 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="126"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="131"/>
         <source>Copy Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopjo Seed-in</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="136"/>
         <source>Refresh</source>
-        <translation type="unfinished">Rifresko</translation>
+        <translation>Rifresko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="141"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Shiko dosjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
         <source>Reset Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Rivendos ikonën</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiq ikonën e botës që loja ta rikrijojë në ngarkimin tjetër.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketa të dhënash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
         <source>Manage data packs inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menaxho paketat e të dhënave brenda botës.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
         <source>Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Botët</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="145"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menyja e kontekstit</translation>
+        <translation>Menyja e kontekstit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="316"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Hap botën në MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="336"/>
         <source>No MCEdit found or set up!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk u gjet ose nuk u konfigurua MCEdit!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="337"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuk e keni konfiguruar MCEdit-in ose ai është zhvendosur.
+Mund ta konfiguroni te cilësimet globale.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="343"/>
         <source>MCEdit failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit dështoi të niset!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="344"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit dështoi të niset.
+Mund të jetë e nevojshme ta riinstaloni.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Select a Minecraft world zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidh një skedar zip të botës Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Minecraft World Zip File</source>
-        <translation type="unfinished"></translation>
+        <translation>Skedar Zip i Botës Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="429"/>
         <source>Copy World</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopjo botën</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndryshimi i një bote ndërsa Minecraft po xhirohet mund të jetë i rrezikshëm.
+Dëshironi të vazhdoni?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="194"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Konfirmo Fshirjen</translation>
+        <translation>Konfirmo fshirjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="195"/>
@@ -13464,38 +13548,41 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni gati të fshini &quot;%1&quot;.
+Bota mund të zhduket përgjithmonë (PËR NJË KOHË TË GJATË).
+
+Jeni i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="223"/>
         <source>Manage Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Menaxho paketat e të dhënave</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="230"/>
         <source>Data packs for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketa të dhënash për %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>World name</source>
-        <translation type="unfinished"></translation>
+        <translation>Emri i botës</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
         <source>Enter a new name for the copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vendosni një emër të ri për kopjen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="450"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Riemërto botën</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>Enter a new world name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vendosni një emër të ri për botën.</translation>
     </message>
 </context>
 <context>
@@ -13503,96 +13590,100 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Po merret autorizimi për qasje në shërbimet %1.</translation>
     </message>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Marrja e autorizimit për shërbimet %1 dështoi. Gabimi %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim i panjohur STS për shërbimet %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="72"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Marrja e autorizimit për shërbimet %1 dështoi: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="80"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Përgjigjja e autorizimit për qasje në shërbimet %1 nuk u përpunua dot.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveri ka ndryshuar hash-in e autorizimit të përdoruesit %1 në përgjigje. Diçka nuk shkon.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="92"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>U mor autorizimi për qasje në %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="103"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Përgjigjja e gabimit të autorizimit %1 nuk mund të përpunohet si JSON: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="111"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementi XErr mungon nga përgjigjja e gabimit të autorizimit %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="117"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjo llogari Microsoft nuk ka profil Xbox Live. Blini lojën te %1 së pari.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live nuk është i disponueshëm në vendin tuaj. Jeni bllokuar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="129"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjo llogari Microsoft është nën moshë dhe nuk është e lidhur me një familje.
+
+Ju lutemi konfiguroni llogarinë tuaj sipas %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjo llogari Microsoft kërkon vërtetim moshe për të luajtur. Ju lutemi hyni te %1 për të dhënë vërtetim moshe.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjo llogari Microsoft ka arritur kufirin e kohës së lojës. Kjo llogari Microsoft është bllokuar nga hyrja.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="145"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjo llogari Microsoft është ndaluar nga Xbox për shkelje të një ose më shumë Standardeve të Komunitetit të Xbox dhe nuk mund të përdoret.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjo llogari Microsoft aktualisht është e kufizuar dhe kujdestari juaj nuk ju ka dhënë leje për të luajtur online. Hyni te %1 dhe kërkojini kujdestarit tuaj t&apos;i ndryshojë lejet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjo llogari Microsoft nuk i ka pranuar Kushtet e Shërbimit të Xbox-it. Ju lutemi hyni dhe pranojini ato.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="163"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vërtetimi XSTS përfundoi me gabim(e) të panjohur:
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -13600,23 +13691,23 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Po hyhet si përdorues Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vërtetimi i përdoruesit Xbox dështoi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Përgjigjja e vërtetimit të përdoruesit Xbox nuk u kuptua.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="75"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>U mor token-i i përdoruesit Xbox</translation>
     </message>
 </context>
 </TS>
