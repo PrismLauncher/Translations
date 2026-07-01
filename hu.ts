@@ -1853,7 +1853,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation>Fájlok másolása helyett használjon szimbolikus hivatkozásokat.</translation>
+        <translation>Fájlok másolása helyett használjon szimbolikus linkeket.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
@@ -1868,7 +1868,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>Az újrahivatkozással klónozott fájlok nem foglalnak el több helyet, amíg nem módosítják őket.</translation>
+        <translation>Az reflinkekkel klónozott fájlok nem foglalnak el több helyet, amíg nem módosítják őket.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1923,7 +1923,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>Windows rendszeren a szimbolikus hivatkozások létrehozásához rendszergazdai engedélyre lehet szükség.</translation>
+        <translation>Windows rendszeren a szimbolikus linkek létrehozásához rendszergazdai engedélyre lehet szükség.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
@@ -6435,26 +6435,30 @@ Szeretnél játszani a demóval?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitelesítő szerverek nem elérhetők</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>A Minecraft hitelesítési szerverei jelenleg nem elérhetők, ezért a játék offline módban indul el.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs internetkapcsolat</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs internetkapcsolat, ezért a példány offline módban indul el.
+
+</translation>
     </message>
     <message>
         <source>You are not connected to the Internet, launching in offline mode
@@ -6661,7 +6665,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation type="unfinished"></translation>
+        <translation>Játékidő szerint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
