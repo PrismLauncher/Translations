@@ -18570,7 +18570,7 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation>Xbox-Nutzeranmeldung fehlgeschlagen: %1</translation>
+        <translation>Xbox Nutzer Authentifizierung misslungen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
