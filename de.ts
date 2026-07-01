@@ -18490,7 +18490,7 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Live ist in deinen Land nicht verfügbar. Du wurdest blockiert.</translation>
+        <translation>Xbox Live ist in Ihrem Land nicht verfügbar. Sie wurden blockiert.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
