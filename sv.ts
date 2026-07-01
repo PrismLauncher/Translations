@@ -11716,18 +11716,18 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/net/NetRequest.cpp" line="276"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Förfrågan är begränsad i %n sekund: Försök igen efter %1</numerusform>
+            <numerusform>Förfrågan är begränsad i %n sekunder: Försök igen efter %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/NetRequest.cpp" line="281"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Frekvensbegränsad: Väntar %n sekund</numerusform>
+            <numerusform>Frekvensbegränsad: Väntar %n sekunder</numerusform>
         </translation>
     </message>
 </context>
@@ -13721,7 +13721,7 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Den angivna Java-binärfilen fungerade inte.&lt;br /&gt;Du borde trycka på &quot;Upptäck&quot;, eller ange sökvägen till den exekverbara Java-filen.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -14124,7 +14124,7 @@ Vill du ta bort dessa befintliga sparfiler som en del av uppdateringen?</transla
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nya rotmappen för instansen (%1) finns redan. &lt;br /&gt;Endast metadatan kommer döpas om.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
@@ -14155,7 +14155,7 @@ Nytt namn: %2</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett fel uppstod vid den följande omdöpshandlingen: &lt;br/&gt; - Gammal rotinstans: %1&lt;br/&gt; - Ny rotinstans: %2&lt;br/&gt;Endast metadatan komer döpas om.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
