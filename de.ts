@@ -4431,7 +4431,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation>Symbolkategorie</translation>
+        <translation>Symbol Kategorie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
@@ -4455,7 +4455,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
         <source>Legacy</source>
-        <translation>Vermächtnis</translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
@@ -6501,26 +6501,30 @@ Willst du die Demo spielen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Authentifizierungsserver offline</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Der Minecraft Authentifizierungsserver ist aktuell nicht erreichbar, Minecraft wird im offline Modus gestartet
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Internetverbindung</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Du bist nicht mit dem Internet verbunden, start im offline Modus
+
+</translation>
     </message>
     <message>
         <source>You are not connected to the Internet, launching in offline mode
@@ -6725,7 +6729,7 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach Gesamt&amp;spielzeit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
@@ -8341,7 +8345,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation>Managen &amp;Skins...</translation>
+        <translation>&amp;Skins Verwalten...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
@@ -14358,7 +14362,7 @@ Willst du diese existierenden Dateien als teil des updates löschen?</translatio
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Ungeprüft</translation>
+        <translation>Nicht überprüft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="290"/>
@@ -17427,7 +17431,7 @@ Die Instanz darf nicht damit beginnen.</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation>Java Hauptversion ist inkompatibel. Es kann zu Fehlern kommen.
+        <translation>Die Java-Hauptversion ist inkompatibel. Einige Dinge funktionieren möglicherweise nicht.
 </translation>
     </message>
     <message>
@@ -18570,7 +18574,7 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation>Xbox Nutzer Authentifizierung misslungen: %1</translation>
+        <translation>Xbox Nutzer Authentifizierung fehlgeschlagen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
