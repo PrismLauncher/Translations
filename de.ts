@@ -18579,7 +18579,7 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation>Die Antwort der Xbox-Nutzeranmeldung konnte nicht verarbeitet werden.</translation>
+        <translation>Xbox-Benutzerauthentifizierungsantwort konnte nicht verstanden werden.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
