@@ -1868,7 +1868,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>Az reflinkekkel klónozott fájlok nem foglalnak el több helyet, amíg nem módosítják őket.</translation>
+        <translation>A reflinkekkel klónozott fájlok nem foglalnak el több helyet, amíg nem módosítják őket.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
