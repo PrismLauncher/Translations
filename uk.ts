@@ -6409,26 +6409,30 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервери автентифікації офлайн</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Сервери автентифікації Minecraft зараз недоступні, запуск в автономному режимі.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Немає підключення до Інтернету</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ви не підключені до Інтернету, запуск в автономному режимі.
+
+</translation>
     </message>
     <message>
         <source>You are not connected to the Internet, launching in offline mode
