@@ -12362,7 +12362,7 @@ Detta kan vara permanent och filen försvinner från loggmappen.
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Följande filer är inte tillgängliga för nedladdning i tredjepartslaunchers.&lt;br/&gt;Du kommer behöva manuellt ladda ner och lägga till dem i instansen.</translation>
+        <translation>Följande filer är inte tillgängliga för nedladdning i tredjeparts launchers.&lt;br/&gt;Du måste ladda ner dem manuellt och lägga till dem i instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
@@ -14171,9 +14171,19 @@ Nytt namn: %2</translation>
 %2 it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Följande instans kan referera till filer i den här instansen:
+
+%1
+%2 det skulle kunna förstöra den andra instansen,
+
+Vill du fortsätta?</numerusform>
+            <numerusform>Följande instanser kan referera till filer i den här instansen:
+
+%1
+%2 det skulle kunna förstöra andra instanser,
+
+Vill du fortsätta?</numerusform>
         </translation>
     </message>
     <message>
