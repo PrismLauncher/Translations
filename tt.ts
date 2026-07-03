@@ -7,13 +7,13 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Сервис Pastebin</translation>
+        <translation>&amp;Pastebin халәте</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Почта хезмәте &amp;Type</translation>
+        <translation>Журналны җибәрү халәте төре (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
@@ -29,12 +29,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>Use Default</source>
-        <translation>Алдан көйләнгәнчә куллану</translation>
+        <translation>Әүвәлгә</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Искәрмә: логларны бастыру сервисы төрен үзгәрткәннән соң, сезгә төп URL-адресны үзгәртергә яки чистартырга кирәк булырга мөмкин.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
@@ -44,53 +44,53 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation>Чыганак серверы</translation>
+        <translation>Ресурслар серверы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Ресурсларны йөкләүдә проблемалар булса, башка сервер кулланыгыз.</translation>
+        <translation>Сез башка серверны урнаштыра аласыз, әгәр сездә ресурсларны йөкләнү проблемалар бар булса.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>FML искергән китапханәләр серверы</translation>
+        <translation>Искергән FML китапханәләре серверы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Әгәр FML (Minecraft 1.5.2 һәм аннан да иске версияләр) искергән китапханәләрен йөкләүдә проблемалар булса, сез башка серверны сайлый аласыз.</translation>
+        <translation>Сез башка серверны урнаштыра аласыз, әгәр сездә искергән FML (Minecraft 1.5.2 һәм аннан да иске версияләр) китапханәләрен йөкләнү проблемалар бар булса.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
-        <translation>API ачкычлары</translation>
+        <translation>API ачкычлары (&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>Microsoft аша аутентификация</translation>
+        <translation>Microsoft аша аутентификация (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
         <source>Mod&amp;rinth</source>
-        <translation>Mod&amp;rinth</translation>
+        <translation>Modrinth (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>Use None</source>
-        <translation>Кулланмагыз</translation>
+        <translation>Берни түгел кулланмау</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
         <source>&amp;CurseForge</source>
-        <translation>&amp;CurseForge</translation>
+        <translation>CurseForge (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Блокланган модлар өчен резерв чыганак буларак Modrinthны куллану</translation>
+        <translation>Блокланган модлар өчен Modrinth резерв чыганак буларак куллануны кушу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -100,7 +100,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Искәрмә: Microsoft аша аутентификация эшләгән очракта, бу параметрны урнаштыруның кирәге юк, моңа охшаш.</translation>
+        <translation>Искәрмә: сезгә шуны, бәлки, көйләргә кирәкми, әгәр Microsoft аша аутентификация эшләсә инде.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
@@ -4341,7 +4341,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="52"/>
         <source>Language</source>
-        <translation>Теле</translation>
+        <translation>Тел</translation>
     </message>
 </context>
 <context>
@@ -4366,7 +4366,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Language</source>
-        <translation>Теле</translation>
+        <translation>Тел</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
@@ -5574,7 +5574,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
         <source>Launch the selected instance.</source>
-        <translation>Сайланган экземплярны эшләтеп җибәрү.</translation>
+        <translation>Сайланган нөсхәне кабызу.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
@@ -5584,32 +5584,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
         <source>Add a new instance.</source>
-        <translation>Яңа җыелма өстәү.</translation>
+        <translation>Яңа утыртуны өстәү.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Төп модлар папкасын файл менеджерында ачу.</translation>
+        <translation>Төп модлар папкасын файл җитәкчесендә ачу.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
         <source>&amp;Accounts</source>
-        <translation>&amp;Аккаунтлар</translation>
+        <translation>Аккаунтлар (&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
         <source>&amp;Edit...</source>
-        <translation>&amp;Үзгәртү...</translation>
+        <translation>Үзгәртү (&amp;E)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="418"/>
         <source>&amp;Folder</source>
-        <translation>Папка</translation>
+        <translation>Папка (&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="457"/>
         <source>E&amp;xport...</source>
-        <translation>Э&amp;кспортларга...</translation>
+        <translation>Экспортларга (&amp;X)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="429"/>
@@ -5624,7 +5624,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Очралар уртак кулланган папкаларның берсен ачыгыз.</translation>
+        <translation>Утыртулар арасындагы папкалар берсен ачу.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="319"/>
@@ -5639,7 +5639,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
         <source>Open %1 subreddit.</source>
-        <translation>Reddit&apos;та %1 форматындагы тармакны ачу.</translation>
+        <translation>%1 subreddit&apos;ын ачу.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="657"/>
@@ -5659,42 +5659,42 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
         <source>Check for new updates for %1.</source>
-        <translation>%1 өчен яңа яңартмаларны тикшерү.</translation>
+        <translation>%1 өчен яңа яңартуларны тикшерү.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="259"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>Бу йонлы песи :3</translation>
+        <translation>Бу йомшак йонлы мәче баласы :3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
         <source>Instance Toolbar</source>
-        <translation>Яңалыклар панеле</translation>
+        <translation>Нөсхә панеле</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="393"/>
         <source>Change Icon</source>
-        <translation>Значок сайлау</translation>
+        <translation>Тамгачыкны үзгәртү</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
         <source>&amp;Kill</source>
-        <translation>&amp;Туктату</translation>
+        <translation>Туктату (&amp;K)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>&amp;Launch</source>
-        <translation>&amp;Эшләтү</translation>
+        <translation>Кабызу (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>Экземпля&amp;р өстәү...</translation>
+        <translation>Нөсхәне өстәү (&amp;E)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation>П&amp;апкалар</translation>
+        <translation>Папкалар (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
@@ -5704,73 +5704,73 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
         <source>Status Bar</source>
-        <translation>Торыш панеле</translation>
+        <translation>Халәт панеле</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>Көйләү&amp;ләр...</translation>
+        <translation>Көйләүләр (&amp;N)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation>&amp;Скиннар белән идарә итү...</translation>
+        <translation>Кыяфәтне җитәкләү (&amp;S)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation>Сайланган экземплярны эшләтеп җибәрү өчен, сайланган папкада ярлык булдыра.</translation>
+        <translation>Сайланган нөсхәне кабызу өчен, сайланган папкада ярлыкны ясый.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="539"/>
         <source>&amp;Instances</source>
-        <translation>&amp;Экземплярлар</translation>
+        <translation>Нөсхәләр (&amp;I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation>Экземплярлар папкасын файл менеджерында ачу.</translation>
+        <translation>Нөсхә папкасын файл җитәкчесендә ачу.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
         <source>Launcher &amp;Root</source>
-        <translation>Лаунчерның тамыр папкасы</translation>
+        <translation>Лаунчерның тамыр папкасы (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="561"/>
         <source>&amp;Central Mods</source>
-        <translation>&amp;Төп модлар папкасы</translation>
+        <translation>Төп модлар папкасы (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>&amp;Skins</source>
-        <translation>&amp;Скиннар</translation>
+        <translation>Кыяфәтләр (&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation>Скиннар папкасын проводникта ачу.</translation>
+        <translation>Кыяфәт папкасын файл җитәкчесендә ачу.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
         <source>Instance Icons</source>
-        <translation>Экземплярлар значоклары</translation>
+        <translation>Нөсхә тамгачыклары</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation>Экземплярлар значоклары папкасын файл менеджерында ачу.</translation>
+        <translation>Нөсхә тамгачыгы папкасын файл җитәкчесендә ачу.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Logs</source>
-        <translation>Логлар</translation>
+        <translation>Журналлар</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="597"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation>Логлар папкасын файл менеджерында ачу.</translation>
+        <translation>Журнал папкасын файл җитәкчесендә ачу.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
@@ -6557,12 +6557,12 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>&amp;Launch</source>
-        <translation>&amp;Эшләтү</translation>
+        <translation>Кабызу (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
         <source>Launch &amp;Offline</source>
-        <translation>&amp;Автоном эшләтү</translation>
+        <translation>Офлайн кабызу (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="312"/>
@@ -6572,7 +6572,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="313"/>
         <source>Launch &amp;Demo</source>
-        <translation>&amp;Демо эшләтү</translation>
+        <translation>Демо кабызу (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
@@ -6587,7 +6587,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="332"/>
         <source>&amp;No Profiler</source>
-        <translation>&amp;Профильләүчесез</translation>
+        <translation>Җыюсыз (&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1037"/>
@@ -6607,7 +6607,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1079"/>
         <source>broken</source>
-        <translation>зәгыйфьләнгән</translation>
+        <translation>ватылган</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
@@ -6617,7 +6617,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1095"/>
         <source>, last played on %1 for %2</source>
-        <translation>, соңгы тапкыр %1 %2 дәвамында уйнадылар</translation>
+        <translation>, соңгы тапкыр %1 вакытында (%2 дәвамында) уйнадыгыз</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1102"/>
@@ -6682,7 +6682,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation>төп</translation>
+        <translation>Төп</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
@@ -12232,12 +12232,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
-        <translation>Теле</translation>
+        <translation>Тел</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
-        <translation>Тулылык</translation>
+        <translation>Төгәллек</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
