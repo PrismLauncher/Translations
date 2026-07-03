@@ -15135,7 +15135,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">לא יכול היה לטעון את פרופיל העותק.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
