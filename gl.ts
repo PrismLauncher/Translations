@@ -2755,7 +2755,7 @@ Esta instancia non se pode iniciar porque algunhas librarías non se atopan ou n
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Nome:</translation>
+        <translation>&amp;Nome:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
@@ -3502,7 +3502,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Non se puido atopar a versión %1 do paquete</translation>
+        <translation>Non se puido atopar a versión %1 do paquete</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
