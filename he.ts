@@ -4280,7 +4280,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
         <source>Legacy</source>
-        <translation type="unfinished">מורשת</translation>
+        <translation>מיושן</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
@@ -4290,7 +4290,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Custom</source>
-        <translation type="unfinished">בהתאמה אישית</translation>
+        <translation>מותאם אישית</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
@@ -4484,7 +4484,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">אין גרסאות Java זמינות כרגע ב‫-meta.</translation>
+        <translation>אין גרסאות Java זמינות כרגע ב‫-meta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
@@ -4960,7 +4960,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="946"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished">לא היה ניתן ליצור תיקיית ביניים</translation>
+        <translation>לא היה ניתן ליצור תיקיית ביניים</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="966"/>
@@ -5394,7 +5394,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>אם מופעל, תוכנית ההפעלה לא תבקש ממך לבחור גרסת Java אם לא תימצא אחת בתהליך ההפעלה.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
@@ -5424,7 +5424,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation type="unfinished"></translation>
+        <translation>פתח &amp;מוריד Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
@@ -5444,12 +5444,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>להזהיר כאשר אין מספיק זיכרון זמין</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
         <source>Memory Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>הודעת זיכרון</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="337"/>
@@ -5473,22 +5473,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="297"/>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;גודל PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="239"/>
         <source>(-Xms)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="248"/>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>מ&amp;רב השימוש בזיכרון:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="199"/>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>מז&amp;ער השימוש בזיכרון:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>
@@ -5527,22 +5527,24 @@ Are you sure?</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>בחרת גרסת 32 סיביות של Java.
+התקנה זו אינה תומכת ביותר מ-2048MiB של זיכרון RAM.
+אנא ודא שערך הזיכרון המרבי נמוך יותר.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="300"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>הקצאת הזיכרון המרבית שלך עולה על קיבולת הזיכרון של המערכת שלך.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="303"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>הקצאת הזיכרון המרבית שלך קרובה לקיבולת הזיכרון של המערכת שלך.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="306"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation type="unfinished"></translation>
+        <translation>הקצאת הזיכרון המרבית שלך מתחת להקצאת הזיכרון המזערית.</translation>
     </message>
 </context>
 <context>
@@ -5556,7 +5558,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>בבקשה בחר כמה זיכרון להקצות לעותקים ואם Prism Launcher ינהל את Java אוטומטית או ידנית.</translation>
     </message>
 </context>
 <context>
@@ -5579,7 +5581,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>בחרת גרסת 32 סיביות של Java, אך הקצאת יותר מ-2048MiB כזיכרון מרבי.
+1% לא יוכל להפעיל Minecraft.
+ברצונך להמשיך?
+
+תוכל לשנות את גרסת ה-Java בהגדרות מאוחר יותר.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
@@ -5594,7 +5601,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>או שלא בחרת גרסת Java או שבחרת אחת שלא עובדת.
+1% לא יוכל להפעיל Minecraft.
+ברצונך להמשיך ללא גרסת Java מתפקדת?
+
+תוכל לשנות את גרסת ה-Java בהגדרות מאוחר יותר.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="350"/>
@@ -5654,22 +5666,22 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>הקצאת הזיכרון המרבית שלך עולה על קיבולת הזיכרון של המערכת שלך.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>הקצאת הזיכרון המרבית שלך מתקרבת לקיבולת הזיכרון של המערכת שלך.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>הקצאת הזיכרון המרבית שלך קטנה יותר מהערך המזערי</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="524"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>אתה עולה על הקצאת הזיכרון המרבית הנתמכת על ידי התקנות 32 סיביות של Java.</translation>
     </message>
 </context>
 <context>
@@ -5690,7 +5702,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>שימוש בתקנים אזוריים של המערכת</translation>
     </message>
     <message>
         <source>Use system locales</source>
@@ -5720,7 +5732,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="72"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>ארגומנטים לא חוקיים צוינו. אנא תקן זאת קודם.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="97"/>
@@ -5731,7 +5743,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/LaunchController.cpp" line="98"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>בכדי לשחק Minecraft, עליך לכל הפחות להיות בעל חשבון Microsoft יחיד שבבעולותו Minecraft מחובר. האם תרצה לפתוח את מנהל החשבונות כדי להוסיף חשבון כעת?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="115"/>
@@ -5819,12 +5831,12 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="374"/>
         <location filename="src/launcher/LaunchController.cpp" line="375"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>לא יכול היה לטעון את פרופיל העותק.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="381"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>לא היה ניתן לייצר תוכנת הפעלה.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="430"/>
