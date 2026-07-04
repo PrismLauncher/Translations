@@ -6505,7 +6505,7 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>你尚未连接到互联网，正在以离线模式启动
+        <translation>你没有连接到网络，正在以离线模式启动
 
 </translation>
     </message>
