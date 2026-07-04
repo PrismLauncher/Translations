@@ -21,12 +21,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Type plakdienst</translation>
+        <translation>Type plakdiens&amp;t</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Basis-URL</translation>
+        <translation>Basis-&amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -62,12 +62,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Server voor oude FML-bibliotheken</translation>
+        <translation>Server voor klassieke FML-bibliotheken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Je kunt dit instellen op een andere server als je problemen hebt met het downloaden van oudere FML-bibliotheken (Minecraft 1.5.2 en eerder).</translation>
+        <translation>Je kunt dit instellen op een andere server als je problemen hebt met het downloaden van klassieke FML-bibliotheken (Minecraft 1.5.2 en eerder).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -160,12 +160,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
-        <translation>Useragent</translation>
+        <translation>User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Voer hier een aangepaste useragent in. De speciale tekst $LAUNCHER_VER wordt vervangen door de versie van de launcher.</translation>
+        <translation>Voer hier een aangepaste User Agent in. De speciale tekst $LAUNCHER_VER wordt vervangen door de versie van de launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -180,7 +180,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>U kan dit veranderen naar een metadata server van een derde partij om gepatchte bibliotheken of andere hacks te gebruiken.</translation>
+        <translation>U kan dit veranderen naar een metadata server van derden om gepatchte bibliotheken of andere hacks te gebruiken.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -244,7 +244,7 @@
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Geen laderversie voor modpakket ingesteld!</translation>
+        <translation>Geen modladerversie voor modpakket ingesteld!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
@@ -12137,7 +12137,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="486"/>
         <source>Clear</source>
-        <translation type="unfinished">Wissen</translation>
+        <translation>Wissen</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -12201,17 +12201,17 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Bestaande bestanden verwijderen...</translation>
+        <translation>Bestaande bestanden verwijderen...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Onbekend modtype: %1</translation>
+        <translation>Onbekend modtype: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Ophalen van lokale metadata-index voor %1 mislukt</translation>
+        <translation>Ophalen van lokale metadata-index voor %1 mislukt</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
@@ -12226,7 +12226,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Onbekend of niet ondersteund downloadtype: %1</translation>
+        <translation>Onbekend of niet ondersteund downloadtype: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
@@ -12241,12 +12241,12 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Bezig met configuraties uitpakken...</translation>
+        <translation>Bezig met configuraties uitpakken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Optionele mods aan het selecteren...</translation>
+        <translation>Optionele mods aan het selecteren...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
@@ -12267,7 +12267,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Geblokkeerde mods gevonden</translation>
+        <translation>Geblokkeerde mods gevonden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
@@ -12277,17 +12277,17 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 van de %2 voltooid</translation>
+        <translation>%1 van de %2 voltooid</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Uitpakken van mods mislukt...</translation>
+        <translation>Uitpakken van mods mislukt...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Mods aan het uitpakken...</translation>
+        <translation>Mods aan het uitpakken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
@@ -12297,7 +12297,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Kon het bibliotheken-onderdeel niet aanmaken</translation>
+        <translation>Kon het bibliotheken-onderdeel niet aanmaken</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
@@ -12307,7 +12307,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Kon het pakket-onderdeel niet aanmaken</translation>
+        <translation>Kon het pakket-onderdeel niet aanmaken</translation>
     </message>
 </context>
 <context>
@@ -14756,7 +14756,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished">Bestandsnaam</translation>
+        <translation>Bestandsnaam</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -14851,7 +14851,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished">Bestandsnaam</translation>
+        <translation>Naam van bestand</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
@@ -16524,7 +16524,7 @@ inheritsFrom ontbreekt</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished">Bestandsnaam</translation>
+        <translation>Bestandsnaam</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
