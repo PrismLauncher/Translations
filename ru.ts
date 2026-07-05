@@ -8940,7 +8940,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="514"/>
         <source>No Default Account</source>
-        <translation>Отсутствует учётная запись по умолчанию</translation>
+        <translation>Убрать аккаунт по умолчанию</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
