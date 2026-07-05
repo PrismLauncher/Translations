@@ -342,7 +342,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="344"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation>Microsoft аккаунты</translation>
+        <translation>MS аккаунты</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
@@ -1319,7 +1319,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Төркем (&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
@@ -1465,7 +1465,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation>Төркемсез</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
@@ -1667,27 +1667,27 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтрлар</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Чыгарылышлар</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярдәмче версияләр</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation type="unfinished"></translation>
+        <translation>Беталар</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <source>Alphas</source>
-        <translation type="unfinished"></translation>
+        <translation>Альфалар</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
@@ -1703,42 +1703,42 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Мод йөкләүчесе</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Юк</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Көйләнелгән</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"/>
@@ -1792,12 +1792,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Кушу</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Сурәт</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -1817,12 +1817,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Зурлык</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл исеме</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="89"/>
@@ -2542,7 +2542,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Яңартулары тикшерү (&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
@@ -2746,7 +2746,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Кораллар</translation>
     </message>
 </context>
 <context>
@@ -2935,12 +2935,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="118"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Утыртылмаган</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Unknown</source>
-        <translation type="unfinished">Билгесез</translation>
+        <translation>Билгесез</translation>
     </message>
 </context>
 <context>
@@ -3323,12 +3323,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кыяфәтне алу.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Кыяфәт алынды</translation>
     </message>
 </context>
 <context>
@@ -3583,7 +3583,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярый</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -4349,7 +4349,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="63"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Телегезне күрмисезме яки сыйфаты начармы?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Безгә тәрҗемәләр белән ярдәм итегез!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
@@ -4756,7 +4756,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>Кыяфәтләр (&amp;S):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
@@ -4961,12 +4961,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="181"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Кыяфәт папкасы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
         <source>General</source>
-        <translation type="unfinished">төп</translation>
+        <translation>Төп</translation>
     </message>
 </context>
 <context>
@@ -5280,7 +5280,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Күчереп алу (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="100"/>
@@ -5863,7 +5863,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>Яңарту (&amp;U)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
@@ -5873,7 +5873,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>Аккаунтларны җитәкләү (&amp;M)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
@@ -5978,7 +5978,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="382"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>Төркемне үзгәртү (&amp;C)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
@@ -6050,7 +6050,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="443"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Күчереп алу (&amp;Y)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="446"/>
@@ -6072,7 +6072,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>Барлыгы уен вакыты: 0 с</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
@@ -6084,7 +6084,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Төркемне бетерү (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="503"/>
@@ -6187,7 +6187,7 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Төркем исеме</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
@@ -6198,7 +6198,7 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Төркемне бетерү</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
@@ -6298,7 +6298,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>Төркем бар инде. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1507"/>
@@ -6346,7 +6346,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1766"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Барлыгы уен вакыты: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
@@ -7632,12 +7632,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Утыртылмаган</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>Unknown</source>
-        <translation type="unfinished">Билгесез</translation>
+        <translation>Билгесез</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
@@ -8035,7 +8035,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>Төркем (&amp;G):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
@@ -8045,7 +8045,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="92"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation>Төркемсез</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="114"/>
@@ -8228,7 +8228,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Күчереп алу (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
@@ -8499,12 +8499,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярый (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Баш тарту (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="49"/>
@@ -8852,13 +8852,13 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="741"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="913"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>әйе</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="741"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="913"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>юк</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="749"/>
@@ -9446,27 +9446,27 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Ак</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Систем</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
@@ -9496,50 +9496,50 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="47"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Караңгы</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 мин. %2 с.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="36"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 сәг. %2 мин.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="38"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 көн %2 сәг. %3 мин.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="75"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>көн</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="80"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>сәг.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="85"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>мин.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="90"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>с</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="95"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>мс</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="48"/>
@@ -9756,7 +9756,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Төркемсез</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
@@ -9824,7 +9824,7 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Әзер</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
@@ -10884,12 +10884,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="171"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Мод исеме: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Сәбәп: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
@@ -11063,7 +11063,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="75"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Бетерү</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="80"/>
@@ -11529,7 +11529,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinDelete.cpp" line="49"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Кыяфәтне бетерү</translation>
     </message>
 </context>
 <context>
@@ -11537,17 +11537,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="294"/>
         <source>Path is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Юл буш.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="297"/>
         <source>File doesn&apos;t exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл юк.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="299"/>
         <source>Not a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл түгел.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="301"/>
@@ -11562,7 +11562,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="307"/>
         <source>Unable to copy file</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлны күчереп алып булмый</translation>
     </message>
 </context>
 <context>
@@ -11577,37 +11577,37 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Модель</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="39"/>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Классик</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
         <source>Slim</source>
-        <translation type="unfinished"></translation>
+        <translation>Зифа</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Япма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished"></translation>
+        <translation>Элитраны алдан күрү</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папканы ачу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
         <source>Reset Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Кыяфәтне ташлату</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
@@ -11627,7 +11627,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Кыяфәтне бетерү (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
@@ -11677,32 +11677,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="208"/>
         <source>No Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Япмасыз</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="215"/>
         <source>Download capes</source>
-        <translation type="unfinished"></translation>
+        <translation>Япмаларны йөкләнү</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
         <source>Change skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Кыяфәтне үзгәртү</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished"></translation>
+        <translation>Кыяфәт файлы юк!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>Кыяфәтне йөкләтеп булмады!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="332"/>
         <source>Reset skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Кыяфәтне ташлату</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
@@ -11810,7 +11810,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="550"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Кулланучы исеме табылмады</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
@@ -12193,7 +12193,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="187"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Яңарту тикшергече</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="229"/>
@@ -12255,12 +12255,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Яңарту бар</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
         <source>A new version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Яңа версия бар!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
@@ -12276,7 +12276,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Бу версияне калдыру</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
@@ -12286,7 +12286,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Яңартуны утырту</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
@@ -12789,7 +12789,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярый</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -12964,7 +12964,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="121"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Бетерү</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="126"/>
