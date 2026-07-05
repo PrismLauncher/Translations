@@ -3173,7 +3173,7 @@ Deze instantie kan niet worden gestart omdat sommige bibliotheken ontbreken of n
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="190"/>
         <source>Export List</source>
-        <translation>Exportlijst</translation>
+        <translation>Exporteer lijst</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="193"/>
@@ -4642,7 +4642,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
-        <translation>Installeer Loader</translation>
+        <translation>Installeer Modlader</translation>
     </message>
 </context>
 <context>
@@ -9718,7 +9718,7 @@ Zorg er ook voor dat u de URL vertrouwt.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation>Recordtijd besteed aan het spelen van instanties</translation>
+        <translation>&amp;Houd speeltijd bij van instanties</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
@@ -9763,7 +9763,7 @@ Zorg er ook voor dat u de URL vertrouwt.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="623"/>
         <source>&amp;Legacy Tweaks</source>
-        <translation>%Legacyaanpassingen</translation>
+        <translation>&amp;Legacyaanpassingen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="635"/>
@@ -9801,7 +9801,7 @@ Zorg er ook voor dat u de URL vertrouwt.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation>Wanneer het spelscherm opent, verstop de launcher</translation>
+        <translation>Wanneer het spelscherm opent, verberg de launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
@@ -9841,7 +9841,7 @@ Zorg er ook voor dat u de URL vertrouwt.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
         <source>&amp;Global Data Packs</source>
-        <translation>&amp;Globale Data-Packs</translation>
+        <translation>&amp;Globale Datapakketten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
@@ -10017,12 +10017,12 @@ Je gaat hoogst waarschijnlijk het pad moeten veranderen - kijk hiervoor naar de 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
         <source>Show time &amp;playing this instance</source>
-        <translation>Toon instantiespeeltijd aan</translation>
+        <translation>Toon instantie&amp;speeltijd aan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="69"/>
         <source>&amp;Record time playing this instance</source>
-        <translation>Neem instantiespeeltijd op</translation>
+        <translation>&amp;Neem instantiespeeltijd op</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="74"/>
@@ -17261,12 +17261,12 @@ Wissel alstublieft naar een van de volgende Javaversies voor deze instantie:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="164"/>
         <source>Install Loader</source>
-        <translation>Installeer Loader</translation>
+        <translation>Installeer Modlader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="167"/>
         <source>Install a mod loader.</source>
-        <translation>Installeer een modloader.</translation>
+        <translation>Installeer een modlader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="196"/>
