@@ -3802,7 +3802,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Эшләтү</translation>
+        <translation>Кабызу (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
@@ -4470,7 +4470,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="443"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Эшләтү</translation>
+        <translation>Кабызу (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="437"/>
