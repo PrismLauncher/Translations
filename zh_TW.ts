@@ -6469,14 +6469,16 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>驗證伺服器離線</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft 驗證伺服器目前停用，將以離線模式啟動。
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
@@ -6488,7 +6490,9 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>您尚未連線至網際網路，將以離線模式啟動
+
+</translation>
     </message>
     <message>
         <source>You are not connected to the Internet, launching in offline mode
