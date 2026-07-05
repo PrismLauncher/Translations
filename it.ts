@@ -6448,7 +6448,7 @@ Vuoi giocare la demo?</translation>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation>&quot;Non sei connesso a Internet, avvio in modalità offline.
+        <translation>Non sei connesso a Internet, avvio in modalità offline.
 
 </translation>
     </message>
