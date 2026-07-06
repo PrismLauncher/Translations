@@ -235,23 +235,24 @@
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.
+Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 minn %2 lesti</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma rnexxilniex nestrattaw il-mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Qedhin nestrattaw il-mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Installazjoni ta&apos; modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
