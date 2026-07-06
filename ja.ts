@@ -9700,8 +9700,8 @@ Make sure you also trust the URL.
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation>対応するModがインストールされている場合、すべてのワールドにまたがってデータパックをインストールできます。
-パスの変更が必要になる可能性が高いです - 詳しくはModのウェブサイトを参照してください。</translation>
+        <translation>対応するModがインストールされている場合、すべてのワールドにデータパックをインストールできます。
+パスの変更が必要になる可能性が高いです。詳しくはModのウェブサイトを参照してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
