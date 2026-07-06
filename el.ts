@@ -939,18 +939,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished">Αυτή η εγκατάσταση περιέχει ένα αρχείο lock ενημέρωσης στην τοποθεσία: %1
+        <translation>Σε αυτή την εγκατάσταση υπάρχει ένα αρχείο κλειδώματος ενημέρωσης στη διαδρομή: %1
 
-Χρονική σήμανση: %2
+Χρονοσήμανση: %2
 Ενημέρωση από έκδοση %3 σε %4
 Τοποθεσία εγκατάστασης: %5
 Τοποθεσία δεδομένων: %6
 Αυτό πιθανότατα σημαίνει ότι μια προσπάθεια ενημέρωσης απέτυχε. Παρακαλώ βεβαιωθείτε ότι η εγκατάστασή σας λειτουργεί σωστά πριν συνεχίσετε.
-Ελέγξτε το αρχείο καταγραφής ενημέρωσης του Prism Launcher στην τοποθεσία: 
+Ελέγξτε το αρχείο καταγραφής ενημέρωσης του Prism Launcher στην διαδρομή: 
 %7
 για λεπτομέρειες της τελευταίας προσπάθειας ενημέρωσης.
 
-Για να διαγράψετε αυτό το lock και να συνεχίσετε επιλέξτε &quot;Αγνόηση&quot; παρακάτω.</translation>
+Για να διαγράψετε αυτό το κλείδωμα και για να συνεχίσετε επιλέξτε &quot;Αγνόηση&quot; παρακάτω.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1080"/>
@@ -1241,7 +1241,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation type="unfinished">Εγκατάσταση</translation>
+        <translation>Γίνεται Εγκατάσταση</translation>
     </message>
 </context>
 <context>
@@ -1273,12 +1273,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Η διαδικασία πιστοποίησης ολοκληρώθηκε.</translation>
+        <translation>Η διαδικασία πιστοποίησης πέτυχε.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Αδυναμία επικοινωνίας με τον διακομιστή πιστοποίησης.</translation>
+        <translation>Η επικοινωνία με τον διακομιστή πιστοποίησης απέτυχε.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
