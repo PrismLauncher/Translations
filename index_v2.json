@@ -139,11 +139,11 @@
             "untranslated" : 1456
         },
         "el" : {
-            "file" : "6ed1a0359a8f9daf1502c236eab360de5cf65f11.class",
-            "sha1" : "6ed1a0359a8f9daf1502c236eab360de5cf65f11",
-            "size" : 156520,
-            "translated" : 806,
-            "fuzzy" : 347,
+            "file" : "3680ef27dda0645730da5ce505186e59e2587796.class",
+            "sha1" : "3680ef27dda0645730da5ce505186e59e2587796",
+            "size" : 156550,
+            "translated" : 810,
+            "fuzzy" : 343,
             "untranslated" : 1228
         },
         "en@pirate" : {
