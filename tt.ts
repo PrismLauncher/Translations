@@ -2538,7 +2538,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="215"/>
         <source>View Homepage</source>
-        <translation>Төп битне күрү</translation>
+        <translation>Төп битне карау</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="218"/>
@@ -12441,7 +12441,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="124"/>
         <source>Move Down</source>
-        <translation type="unfinished">Аска күчерү</translation>
+        <translation>Аска күчерү</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="127"/>
@@ -12903,7 +12903,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Соңгы уйналган</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="270"/>
