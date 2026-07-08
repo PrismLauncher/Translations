@@ -163,12 +163,12 @@
             "untranslated" : 0
         },
         "en_AU" : {
-            "file" : "da1fe059de2f152a93a9acca1b4406a07ff05260.class",
-            "sha1" : "da1fe059de2f152a93a9acca1b4406a07ff05260",
-            "size" : 332618,
-            "translated" : 2373,
-            "fuzzy" : 1,
-            "untranslated" : 7
+            "file" : "37b22ba87154b107d63a6ec8d2e4d6695dac312d.class",
+            "sha1" : "37b22ba87154b107d63a6ec8d2e4d6695dac312d",
+            "size" : 333779,
+            "translated" : 2381,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "en_CA" : {
             "file" : "110ce73c73e6ca1c1911fedf4dec5278743aed36.class",
