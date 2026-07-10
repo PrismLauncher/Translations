@@ -7,13 +7,13 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>ភេសបីន</translation>
+        <translation>%សេវាកម្ម ភេសប៊ីន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>ប្រភេទភេសបីន</translation>
+        <translation>សេវាកម្ម ភេស &amp;ប្រភេទ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
@@ -39,27 +39,27 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>ផ្ទុកទិន្នន័យឡើងវិញនៅពេលបើក</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation>Assets Server</translation>
+        <translation>ម៉ាស៊ីនមេសម្រាប់ Assets</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>អ្នកអាចផ្លាស់ប្ដូរ server បើនៅមានបញ្ហាជាមួយការ download assets</translation>
+        <translation>អ្នកអាចកំណត់វាទៅម៉ាស៊ីនមេផ្សេងទៀតបាន ប្រសិនបើអ្នកជួបបញ្ហាក្នុងការទាញយក Assets។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server បណ្ណាល័យ FML ជំនាន់ចាស់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>អ្នកអាចកំណត់ទៅម៉ាស៊ីនមេផ្សេងបាន ប្រសិនបើអ្នកមានបញ្ហាក្នុងការទាញយកបណ្ណាល័យ FML ជំនាន់ចាស់ (Minecraft 1.5.2 និងជំនាន់មុននេះ)។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -85,12 +85,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
         <source>&amp;CurseForge</source>
-        <translation>&amp;CurseForge</translation>
+        <translation>&amp;ឃើសហ្វ៊ូច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>បើកមុខងារប្រើ Modrinth ជាជម្រើសជំនួសសម្រាប់ Mod ដែលត្រូវបានរារាំង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -147,32 +147,32 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>ភ្នាក់ងារអ្នកប្រើប្រាស់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ចូល User Agent ផ្ទាល់ខ្លួននៅទីនេះ។ ខ្សែអក្សរពិសេស $LAUNCHER_VER នឹងត្រូវជំនួសដោយលេខជំនាន់នៃកម្មវិធី Launcher នេះ។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>ម៉ាស៊ីនមេ: Standard Khmer for &quot;Server.&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>សេវាកម្ម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>អ្នកអាចកំណត់វាទៅម៉ាស៊ីនមេ Metadata របស់ភាគីទីបី ដើម្បីប្រើប្រាស់បណ្ណាល័យដែលបានកែសម្រួល (patched) ឬការលួចចូលផ្សេងៗទៀត។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ចំណាំ៖ អ្នកគ្រាន់តែត្រូវការកំណត់វា ដើម្បីចូលប្រើទិន្នន័យឯកជនប៉ុណ្ណោះ។ សូមអាន&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;ឯកសារ&lt;/a&gt;សម្រាប់ព័ត៌មានបន្ថែម។&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
@@ -199,15 +199,15 @@
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">បរាជ័យនៃការចាប់យក metadate index សម្រាប់ %1</translation>
+        <translation>មិនអាចទទួលបានលិបិក្រម Metadata ក្នុងស្រុកសម្រាប់ %1 បានទេ</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនអាចទាញយកលិបិក្រម Metadata ក្នុងស្រុកសម្រាប់ &apos;%1&apos; កំណែ v%2 បានទេ</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>របៀបដំឡើងមិនត្រូវបានគាំទ្រ</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
@@ -215,19 +215,19 @@
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រភេទ Mod មិនស្គាល់៖ %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនអាចរកឃើញកំណែសម្រាប់ %1 loader បានទេ</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនទាន់បានកំណត់កំណែ Loader សម្រាប់ Modpack នេះទេ!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រភេទនៃការទាញយកមិនស្គាល់ ឬមិនត្រូវបានគាំទ្រ៖ %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
@@ -235,15 +235,15 @@
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished"></translation>
+        <translation>ការកំណត់ការទាញយក</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងទាញយកឯកសារកំណត់ចេញ...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">កំពុងនៅរក mods ដែលជាជម្រើស...</translation>
+        <translation>កំពុងជ្រើសរើស Mod ជម្រើសបន្ថែម...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -251,31 +251,31 @@
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>ការទាញយក Mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រភេទនៃការទាញយកមិនស្គាល់៖ %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>បានរកឃើញ Mod ដែលត្រូវបានរារាំង</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>ការបំបែក Mod ត្រូវបានបរាជ័យ...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងបំបែក Mod...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
@@ -283,15 +283,15 @@
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនអាចបង្កើតសមាសភាគ Library បានទេ</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រភេទ Loader មិនស្គាល់៖ </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនអាចបង្កើតសមាសភាគ Pack បានទេ</translation>
     </message>
 </context>
 <context>
@@ -299,43 +299,43 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>អំពី</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;កម្មវិធី Launcher ផ្ទាល់ខ្លួនដែលជួយឱ្យការគ្រប់គ្រងហ្គេម Minecraft កាន់តែងាយស្រួល ដោយអនុញ្ញាតឱ្យអ្នកមាន Instance នៃហ្គេម Minecraft ច្រើនក្នុងពេលតែមួយ។&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>វេទិកា:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>កាលបរិច្ឆេទបង្កើត:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>ការដាក់បញ្ចូលកូដ Commit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>ឆាណែល:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation>ការទទួលស្គាល់របស់ការងារ</translation>
+        <translation>ការផ្តល់កិត្តិយស</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation>អាជ្ញាប័ណ្ណអាជីវកម្ម</translation>
+        <translation>អាជ្ញាប័ណ្ណ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
@@ -350,27 +350,27 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>អំពី %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <source>Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>វេទិកា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ការដាក់បញ្ចូលកូដ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>កាលបរិច្ឆេទបង្កើត: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="113"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>ឆាណែល</translation>
     </message>
 </context>
 <context>
@@ -408,7 +408,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="391"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>ប្រភេទគណនី (Microsoft Account ឫ Offline)</translation>
+        <translation>ប្រភេទគណនី (Microsoft Account ឬ ក្រៅបណ្តាញ)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
@@ -425,33 +425,33 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation>គ្មាន Internet</translation>
+        <translation>ក្រៅបណ្ដាញ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="350"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">មិនស្គាល់</translation>
+        <translation>មិនស្គាល់</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រភេទ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្ថានភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="389"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>ឈ្មោះអ្នកប្រើប្រាស់ Minecraft ដែលភ្ជាប់ជាមួយគណនី</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្ថានភាពបច្ចុប្បន្ននៃគណនី</translation>
     </message>
 </context>
 <context>
@@ -460,109 +460,109 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="107"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>លុប&amp;ចេញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>&amp;ដាក់ជាដំបូង</translation>
+        <translation>&amp;កំណត់ជាលំនាំដើម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="76"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;មិនមានលំនាំដើម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="81"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>%កំណត់ស្បែកស្គីន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="84"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>គ្រប់គ្រងស្បែក</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="89"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;បន្ថែមគណនី</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="102"/>
         <source>Refresh the account tokens</source>
-        <translation type="unfinished"></translation>
+        <translation>ធ្វើឱ្យសញ្ញាសម្គាល់គណនីស្រស់ថ្មីឡើងវិញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>ផ្លាស់ទី &amp;ឡើងលើ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>ផ្លាស់ទី &amp;ចុះក្រោម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation>សួស្ដី!
-បើអ្នកបានប្រើប្រាស់ជាថ្មី អ្នកអាចចុច &quot;Add Microsoft&quot; ប៊ូតុងដើម្បីភ្ជាប់ជាមួយ Microsoft account។</translation>
+        <translation>សូមស្វាគមន៍!
+ប្រសិនបើអ្នកទើបតែមកថ្មី អ្នកអាចជ្រើសរើសប៊ូតុង &quot;បន្ថែមគណនី Microsoft&quot; ដើម្បីភ្ជាប់គណនី Microsoft របស់អ្នក។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
         <source>Context menu</source>
-        <translation type="unfinished">Context មីនុយ</translation>
+        <translation>ម៉ឺនុយបរិបទ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>អ្នកត្រូវតែបន្ថែមគណនី Microsoft ដែលមានកម្មសិទ្ធិលើ Minecraft ជាមុនសិន ទើបអាចបន្ថែមគណនីក្រៅបណ្តាញបាន។&lt;br&gt;&lt;br&gt;ប្រសិនបើអ្នកបានបាត់បង់គណនីរបស់អ្នក អ្នកអាចទាក់ទង Microsoft ដើម្បីសុំជំនួយ។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>លុបគណនីចេញ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>តើអ្នកពិតជាចង់លុបគណនីនេះមែនទេ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>គណនី</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="94"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>បន្ថែមគណនី &amp;ក្រៅបណ្តាញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>សូមបញ្ចូលឈ្មោះអ្នកប្រើប្រាស់ដែលអ្នកចង់បាន ដើម្បីបន្ថែមគណនីក្រៅបណ្តាញរបស់អ្នក។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនមានការកំណត់លេខសម្គាល់ម៉ាស៊ីនភ្ញៀវ (Client ID) សម្រាប់ការផ្ទៀងផ្ទាត់គណនី Microsoft ទេ។</translation>
     </message>
 </context>
 <context>
@@ -570,7 +570,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="90"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>គ្រប់កំណែរ</translation>
     </message>
 </context>
 <context>
@@ -578,7 +578,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="54"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>រូបរាង</translation>
     </message>
 </context>
 <context>
@@ -586,119 +586,119 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>មើលថតកញ្ចប់រូបឆ្មា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>បើកឯកសារ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>មើលថតស្បែកនៃធាតុក្រាហ្វិក</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>មើលថតស្បែករូបតំណាង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;រូបឆ្មា:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>ផ្ទុកឡើងវិញទាំងអស់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្បែក:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;រូបតំណាង:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>ពុម្ពអក្សរ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>ការកំណត់ទំហំរូបភាពឆ្មា:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>សមនឹងទំហំ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>បំពេញពេញផ្ទៃ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>លាតពេញផ្ទៃ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>កម្រិតភាពថ្លារបស់ឆ្មា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្រអាប់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>មានតម្លាភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>ការមើលជាមុន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="262"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR] អូ........!!! កំហុសដ៏គួរឱ្យខ្លាចមួយ!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR] កំហុសដ៏គួរឱ្យខ្លាចមួយ!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[INFO] សារដំណឹងមួយដ៏សាមញ្ញ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="267"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[WARN] ការព្រមានមួយដែលមិនសូវគួរឱ្យខ្លាចប៉ុន្មានទេ។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="268"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] សារសម្រាប់ដោះស្រាយកំហុសដ៏សម្ងាត់មួយ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="269"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FATAL] កំហុសដ៏គ្រោះថ្នាក់មួយដែលគួរឱ្យខ្លាចបំផុត!</translation>
     </message>
 </context>
 <context>
@@ -706,12 +706,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/Application.cpp" line="685"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនអាចបង្ហាញកំណត់ហេតុនេះបានទេ ដោយសារប្រវែងកំណត់ហេតុលើសពី %1 បន្ទាត់។</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ការកំណត់</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1063"/>
@@ -727,12 +727,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>ការដំឡើងនេះមានឯកសារចាក់សោដែលកំពុងដំណើរការនៅ៖ %1
+
+ពេលវេលា៖ %2
+កំពុងធ្វើបច្ចុប្បន្នភាពពីជំនាន់ %3 ទៅ %4
+ផ្លូវដំឡើងគោលដៅ (Target install path)៖ %5
+ផ្លូវទិន្នន័យ (Data Path)៖ %6
+នេះទំនងជាមានន័យថា ការព្យាយាមធ្វើបច្ចុប្បន្នភាពបានបរាជ័យ។ សូមប្រាកដថាការដំឡើងរបស់អ្នកស្ថិតក្នុងស្ថានភាពដំណើរការល្អ មុនពេលបន្តទៅមុខទៀត។
+សូមពិនិត្យមើលកំណត់ហេតុ (Log) របស់អ្នកបង្កើតបច្ចុប្បន្នភាព (Prism Launcher updater log) នៅ៖
+%7
+សម្រាប់ព័ត៌មានលម្អិតអំពីការព្យាយាមធ្វើបច្ចុប្បន្នភាពចុងក្រោយ។
+
+ដើម្បីលុបឯកសារចាក់សោនេះ ហើយបន្តទៅមុខទៀត សូមជ្រើសរើស &quot;Ignore&quot; នៅខាងក្រោម។</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1080"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងធ្វើបច្ចុប្បន្នភាព...</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1104"/>
@@ -742,12 +753,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>ការព្យាយាមធ្វើបច្ចុប្បន្នភាពបានបរាជ័យ។
+
+សូមប្រាកដថាការដំឡើងរបស់អ្នកស្ថិតក្នុងស្ថានភាពដំណើរការល្អ មុនពេលបន្តទៅមុខទៀត។
+សូមពិនិត្យមើលកំណត់ហេតុ (Log) របស់អ្នកបង្កើតបច្ចុប្បន្នភាព (Prism Launcher updater log) នៅ៖
+%1
+សម្រាប់ព័ត៌មានលម្អិតអំពីការព្យាយាមធ្វើបច្ចុប្បន្នភាពចុងក្រោយ។</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>ការធ្វើបច្ចុប្បន្នភាពបានបរាជ័យ</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1136"/>
@@ -763,12 +779,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ការធ្វើបច្ចុប្បន្នភាពបានជោគជ័យ
+
+ពេលនេះអ្នកកំពុងដំណើរការ %1 ។
+សូមពិនិត្យមើលកំណត់ហេតុ (Log) របស់អ្នកបង្កើតបច្ចុប្បន្នភាព (Prism Launcher updater log) នៅ៖
+%2
+សម្រាប់ព័ត៌មានលម្អិត។</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1144"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>ការធ្វើបច្ចុប្បន្នភាពបានជោគជ័យ</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1176"/>
@@ -777,32 +798,36 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ថត /tmp របស់អ្នកបច្ចុប្បន្នត្រូវបានម៉ោន (mounted) ជាមួយនឹងទង់ &apos;noexec&apos; ដែលបានបើក។
+កំណែមួយចំនួននៃ Minecraft ប្រហែលជាមិនអាចដំណើរការបានទេ។
+
+អ្នកអាចដោះស្រាយបញ្ហានេះបានដោយការម៉ោន /tmp ឡើងវិញជា &apos;exec&apos; ឬកំណត់អាគុយម៉ង់ JVM java.io.tmpdir ទៅកាន់ថតដែលអាចសរសេរបាន នៅក្នុងប្រព័ន្ធឯកសារដែលមានទង់ &apos;exec&apos; ត្រូវបានកំណត់ (ឧទាហរណ៍៖ /home/user/.local/tmp)។
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1182"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>ការកំណត់រចនាសម្ព័ន្ធប្រព័ន្ធមិនត្រូវជាមួយគ្នា</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1935"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>ទិន្នន័យចាស់ពី %1 ត្រូវបានរកឃើញ ប៉ុន្តែអ្នកមានទិន្នន័យស្រាប់សម្រាប់ %2 រួចហើយ។ ជាអកុសល អ្នកនឹងត្រូវធ្វើការផ្លាស់ប្តូរទិន្នន័យ (migration) ដោយខ្លួនឯង។ តើអ្នកចង់ឱ្យរំលឹកអំពីការផ្ទេរទិន្នន័យដែលនៅសល់នៅពេលដែលអ្នកបើក %2 នៅលើកក្រោយដែរឬទេ?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1939"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>មើលទៅអ្នកធ្លាប់បានប្រើ %1 ពីមុនមក។ តើអ្នកចង់ផ្ទេរទិន្នន័យរបស់អ្នកទៅកាន់ទីតាំងថ្មីរបស់ %2 ដែរឬទេ?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1945"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>មើលទៅអ្នកធ្លាប់បានប្រើ %1 នៅលើ %2 ពីមុនមក។ តើអ្នកចង់ផ្ទេរទិន្នន័យរបស់អ្នកទៅកាន់ទីតាំងថ្មីរបស់ %3 ដែរឬទេ?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1991"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ការផ្ទេរទិន្នន័យបានបរាជ័យ! មូលហេតុ៖ %1</translation>
     </message>
 </context>
 <context>
@@ -810,40 +835,42 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងធ្វើបច្ចុប្បន្នភាពលិបិក្រមទ្រព្យសកម្ម...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>លិបិក្រមទ្រព្យសកម្មសម្រាប់ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
         <source>Failed to read the assets index!</source>
-        <translation type="unfinished"></translation>
+        <translation>ការអានលិបិក្រមទ្រព្យសកម្មបរាជ័យ!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>មូជែង</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងទាញយកឯកសារទ្រព្យសកម្មពី %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ការទាញយកលិបិក្រមទ្រព្យសកម្មបរាជ័យ៖
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ការទាញយកទ្រព្យសកម្មបរាជ័យ៖
+%1</translation>
     </message>
 </context>
 <context>
@@ -852,19 +879,19 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>តម្រៀបតាមភាពពេញនិយម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>តម្រៀបតាមភាពឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>តម្រៀបតាមកំណែរបស់ហ្គេម</translation>
     </message>
 </context>
 <context>
@@ -872,42 +899,42 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation type="unfinished"></translation>
+        <translation>ជ្រើសរើស Mods ដើម្បីដំឡើង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>តំឡើង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>ជ្រើសរើសអ្វីដែលត្រូវបានណែនាំ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រើលេខកូដចែករំលែក</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>លុបចេញទាំងអស់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>ជ្រើសរើសលេខកូដចែករំលែក</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>កូដចែករំលែក:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="357"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនបានបញ្ជាក់លេខកូដចែករំលែកទេ!</translation>
     </message>
 </context>
 <context>
@@ -915,12 +942,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>តើអ្នកពិតជាចង់បើកដំណើរការ mod នេះមែនទេ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="250"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រមាន</translation>
     </message>
 </context>
 <context>
@@ -928,18 +955,18 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>ការព្រមាន៖ នេះនៅតែជាការងារដែលកំពុងដំណើរការ។ ប្រសិនបើអ្នកជួបបញ្ហាជាមួយ Modpack ដែលបាននាំចូល វាអាចជាកំហុសនៃកម្មវិធី។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="80"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ស្វែងរក និងត្រង...</translation>
     </message>
 </context>
 <context>
@@ -947,22 +974,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនមានកំណែសម្រាប់ Minecraft %1 នៅពេលនេះទេ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនមានកំណែណាមួយអាចប្រើប្រាស់បានទេ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនអាចផ្ទុក ឬទាញយកបញ្ជីកំណែបានទេ!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងតំឡើង</translation>
     </message>
 </context>
 <context>
@@ -970,7 +997,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="47"/>
         <source>Finished all authentication steps</source>
-        <translation type="unfinished"></translation>
+        <translation>បានបញ្ចប់ជំហានផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវទាំងអស់</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="52"/>
