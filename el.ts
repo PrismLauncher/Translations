@@ -3017,27 +3017,27 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="166"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσπαθήστε να ελέγξετε ή να ενημερώσετε όλους τους επιλεγμένους πόρους (όλους τους πόρους, αν δεν έχει επιλεγεί κανένας).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφορά Μεταδεδομένων Ενημέρωσης</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαλήθευση Εξαρτήσεων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="190"/>
         <source>Export List</source>
-        <translation type="unfinished"></translation>
+        <translation>Λίστα Εξαγωγών</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="193"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή των μεταδεδομένων του πόρου σε μορφή κειμένου.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
@@ -3047,17 +3047,17 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="204"/>
         <source>Change a resource&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλαγή της έκδοσης ενός πόρου.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="215"/>
         <source>View Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή αρχικής σελίδας</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="218"/>
         <source>View the homepages of all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δείτε τις αρχικές σελίδες όλων των επιλεγμένων στοιχείων.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3067,7 +3067,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Μενού περιβάλλοντος</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="214"/>
@@ -3111,17 +3111,18 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Αν καταργήσετε αυτόν τον πόρο ενώ το παιχνίδι είναι σε λειτουργία, ενδέχεται να προκληθεί σφάλμα στο παιχνίδι.
+Είστε σίγουροι ότι θέλετε να το κάνετε αυτό;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="347"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 εγκατεστημένο, %2 επιλεγμένο/α)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="349"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 εγκατεστημένο)</translation>
     </message>
 </context>
 <context>
@@ -3129,12 +3130,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
         <source>&amp;Editors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Συντάκτες</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
         <source>&amp;Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Επεξεργαστής κειμένου</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
@@ -3147,12 +3148,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρησιμοποιείται για την επεξεργασία αρχείων «JSON» στοιχείων.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;«MCEdit»</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
@@ -3164,12 +3165,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αναλυτής επιδόσεων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Οι Αναλυτές επιδόσεων είναι προσβάσιμοι μέσω του αναπτυσσόμενου μενού Έναρξη.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
@@ -3239,17 +3240,18 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα κατά τον έλεγχο της εγκατάστασης του «VisualVM»:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Η εγκατάσταση του «VisualVM» φαίνεται να είναι εντάξει</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργαστής Κειμένου</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3305,7 +3307,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Εργαλεία</translation>
     </message>
 </context>
 <context>
@@ -3360,38 +3362,39 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη του καταλόγου φορτίου...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν βρέθηκε η έκδοση του πακέτου %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατή η κατανόηση του καταλόγου περιεχομένων του πακέτου:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιμετώπιση τροποποιήσεων...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρος καταλόγος: Δεν υπάρχουν διαθέσιμες πληροφορίες για τη λήψη του αρχείου &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Εντοπίστηκαν αποκλεισμένα αρχεία</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε προγράμματα εκκίνησης τρίτων κατασκευαστών.&lt;br/&gt;Θα πρέπει να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στο στιγμιότυπο.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
@@ -3411,7 +3414,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή Αποκλεισμένων Τροποποιήσεων...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="375"/>
@@ -3429,7 +3432,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="141"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ταξινόμηση κατά Έκδοση Παιχνιδιού</translation>
     </message>
 </context>
 <context>
@@ -4013,13 +4016,13 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="54"/>
         <source>Get dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη εξαρτήσεων</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="193"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Παρουσιάστηκε σφάλμα δικτύου. Δεν ήταν δυνατή η φόρτωση των εξαρτήσεων του έργου:%1</translation>
     </message>
 </context>
 <context>
@@ -4089,7 +4092,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναζήτηση Εικονιδίων...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4098,12 +4101,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Όλα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Μοντέρνο</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
@@ -4113,7 +4116,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Πακέτα τροποποιήσεων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
@@ -4215,7 +4218,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
@@ -4258,22 +4261,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε το στιγμιότυπο στο οποίο θέλετε να πραγματοποιήσετε την εισαγωγή</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε το στιγμιότυπο στο οποίο θέλετε να πραγματοποιήσετε την εισαγωγή αυτού του πακέτου πόρων.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε το στιγμιότυπο στο οποίο θέλετε να πραγματοποιήσετε την εισαγωγή τούτου %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχείο: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
@@ -4303,7 +4306,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="141"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Αναφέρετε τυχόν προβλήματα σε: </translation>
     </message>
 </context>
 <context>
@@ -4312,7 +4315,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Προς το παρόν δεν υπάρχουν διαθέσιμες εκδόσεις «Java» στο meta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
@@ -4325,7 +4328,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="64"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Προς το παρόν δεν υπάρχουν διαθέσιμες εκδόσεις «Java» για το λειτουργικό σας σύστημα.</translation>
     </message>
 </context>
 <context>
@@ -4333,7 +4336,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="103"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ανανέωση</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -4342,7 +4345,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Εντάξει</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
@@ -4377,7 +4380,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγκατάσταση Φορτωτή</translation>
     </message>
 </context>
 <context>
@@ -4427,22 +4430,23 @@ Please try again.</source>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="49"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα κατά τη δημιουργία νέου στιγμιοτύπου:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα κατά τη δημιουργία νέου στιγμιοτύπου.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="64"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή παλαιών αρχείων που προκαλούν διενέξεις...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="81"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η διαγραφή παλαιών αρχείων που προκαλούσαν διένεξη απέτυχε.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="92"/>
@@ -4452,12 +4456,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="109"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατή η λήψη των αρχείων του παιχνιδιού: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="113"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη αρχείων παιχνιδιών</translation>
     </message>
 </context>
 <context>
@@ -4477,7 +4481,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσπάθεια προσδιορισμού του τύπου του στιγμιοτύπου</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
@@ -4773,7 +4777,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Καλώς ήρθατε!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
@@ -4796,12 +4800,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εκκίνηση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Σκοτώστε</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
@@ -4894,12 +4898,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="204"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ανανέωση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="221"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
@@ -4914,17 +4918,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>«Adoptium»</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="290"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>«Azul Zulu»</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>«IBM Semeru Open»</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -4941,12 +4945,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Ματαίωση</translation>
     </message>
 </context>
 <context>
@@ -5033,12 +5037,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγκαταστάσεις</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
@@ -5097,7 +5101,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="111"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιβεβαίωση διαγραφής</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5322,7 +5326,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="306"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η μέγιστη κατανομή μνήμης που έχετε ορίσει είναι μικρότερη από την ελάχιστη κατανομή μνήμης.</translation>
     </message>
 </context>
 <context>
@@ -5336,7 +5340,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλώ επιλέξτε πόση μνήμη θα διατεθεί στις παρουσίες και αν το «Prism Launcher» θα διαχειρίζεται το «Java» αυτόματα ή χειροκίνητα.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5352,7 +5356,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη «Java»</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
@@ -5412,12 +5416,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ελάχιστη εκχώρηση μνήμης:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μέγιστη κατανομή μνήμης:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
@@ -5457,17 +5461,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η μέγιστη κατανομή μνήμης που έχετε ορίσει πλησιάζει τη χωρητικότητα της μνήμης του συστήματός σας.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Η μέγιστη κατανομή μνήμης που έχετε ορίσει είναι μικρότερη από την ελάχιστη τιμή</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="524"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπερβαίνετε το μέγιστο όριο που υποστηρίζεται από τις εγκαταστάσεις «Java 32-bit».</translation>
     </message>
 </context>
 <context>
@@ -5488,11 +5492,11 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρήση των περιφερειακών προτύπων του συστήματος</translation>
     </message>
     <message>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρήση των τοπικών ρυθμίσεων του συστήματος</translation>
     </message>
 </context>
 <context>
@@ -5640,7 +5644,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="443"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εκκίνηση</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -5704,59 +5708,68 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτός ο λογαριασμός δεν διαθέτει το «Minecraft».
+Πρέπει πρώτα να αγοράσετε το παιχνίδι για να παίξετε την πλήρη έκδοση.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν επιλέχθηκε κανένας λογαριασμός για εκκίνηση.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="218"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Θέλεις να παίξεις το δοκιμαστικό;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε το όνομα παίκτη για τη λειτουργία δοκιμαστικού</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Οι διακομιστές ελέγχου ταυτότητας είναι εκτός λειτουργίας</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Οι διακομιστές πιστοποίησης του «Minecraft» δεν είναι διαθέσιμοι αυτή τη στιγμή, οπότε το παιχνίδι ξεκινά σε λειτουργία εκτός σύνδεσης.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν υπάρχει σύνδεση στο Διαδίκτυο</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν έχετε σύνδεση στο Διαδίκτυο, η εφαρμογή θα ξεκινήσει σε λειτουργία εκτός σύνδεσης.
+
+</translation>
     </message>
     <message>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν έχετε σύνδεση στο Διαδίκτυο, η εφαρμογή θα ξεκινήσει σε λειτουργία εκτός σύνδεσης.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="255"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε το όνομα παίκτη για τη λειτουργία εκτός σύνδεσης</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="303"/>
@@ -5876,12 +5889,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ταξινόμηση στιγμιοτύπων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="115"/>
         <source>Instance Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετονομασία στιγμιοτύπου</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
@@ -5901,7 +5914,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
         <source>Updater</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόγραμμα ενημέρωσης</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="189"/>
@@ -5916,17 +5929,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
         <source>On Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατά την Εκκίνηση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="208"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation> ώρες</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="211"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>Κάθε </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
@@ -5966,7 +5979,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="539"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Εργασίες</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="602"/>
@@ -6140,7 +6153,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Τροποποιήσεις και Πακέτα Τροποποιήσεων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="390"/>
@@ -6165,12 +6178,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματη ανίχνευση, εγκατάσταση και ενημέρωση των εξαρτήσεων των τροποποιήσεων.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="430"/>
         <source>Install dependencies automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματη εγκατάσταση εξαρτήσεων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
@@ -6185,7 +6198,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="460"/>
         <source>Instance Creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία Στιγμιοτύπου</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="466"/>
@@ -6287,7 +6300,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="161"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Φάκελος Λήψεων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="171"/>
@@ -6297,7 +6310,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="181"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Φάκελος Εμφανίσεων</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6830,7 +6843,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Προσθήκη λογαριασμού «Microsoft»&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
@@ -6959,12 +6972,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύνδεση μέσω «Microsoft»</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>ή</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="347"/>
@@ -6974,12 +6987,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="360"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή κώδικα στο πρόχειρο</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Πληροφορίες</translation>
     </message>
     <message>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
@@ -6993,7 +7006,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="205"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανοίξτε το %1 ή σαρώστε το QR και εισαγάγετε τον παραπάνω κωδικό, αν χρειαστεί.</translation>
     </message>
 </context>
 <context>
@@ -7096,7 +7109,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Λογαριασμοί</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="702"/>
@@ -7189,7 +7202,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ειδήσεις στη Γραμμή εργαλείων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7199,27 +7212,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Επεξεργασία...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="418"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Φάκελος</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="457"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εξαγωγή...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="429"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Κατάργηση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="443"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αντιγραφή...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -7234,28 +7247,28 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Σκοτώστε</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εκκίνηση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Προσθέστε Στιγμιότυπο...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Φάκελοι</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ρυθμίσεις...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
@@ -7285,17 +7298,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation type="unfinished"></translation>
+        <translation>Περισσότερα νέα...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Γραμμή κατάστασης</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Διαχείριση Εμφανίσεων...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
@@ -7305,12 +7318,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="539"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Στιγμιότυπα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανοίξτε το φάκελο «instances» σε ένα πρόγραμμα περιήγησης αρχείων.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
@@ -7325,32 +7338,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εμφανίσεις</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανοίξτε το φάκελο «skins» σε ένα πρόγραμμα περιήγησης αρχείων.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Εικονίδια Στιγμιοτύπου</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανοίξτε το φάκελο «instance icons» σε ένα πρόγραμμα περιήγησης αρχείων.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχεία καταγραφής</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="597"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανοίξτε το φάκελο «logs» σε ένα πρόγραμμα περιήγησης αρχείων.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
@@ -7371,13 +7384,13 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή αρχείων καταγραφής</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή των τρεχόντων και των προηγούμενων αρχείων καταγραφής του προγράμματος εκκίνησης</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
@@ -7397,22 +7410,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Θεματικά Εικονιδίου</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανοίξτε το φάκελο «icon theme» σε ένα πρόγραμμα περιήγησης αρχείων.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Πακέτα με Κατσούλια</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανοίξτε το φάκελο «cat packs» σε ένα πρόγραμμα περιήγησης αρχείων.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
@@ -7423,57 +7436,57 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ανοίξτε το φάκελο «Java» σε ένα πρόγραμμα περιήγησης αρχείων. Διατίθεται μόνο αν χρησιμοποιείται το ενσωματωμένο πρόγραμμα λήψης «Java».</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ενημέρωση...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Μιάου</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Διαχείρηση Λογαριασμών...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείδωμα γραμμών εργαλείων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Θεματκά</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αρχείο</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Επεξεργασία</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Προβολή</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Βοήθεια</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Τερματίστε το τρέχουσο στιγμιότυπο.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
@@ -7498,22 +7511,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Κλείσιμο παραθύρου</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="528"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείστε το τρέχον παράθυρο</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανοίξτε τον ριζικό φάκελο του προγράμματος εκκίνησης σε ένα πρόγραμμα περιήγησης αρχείων.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="610"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναφορά σφάλματος ή πρόταση για νέα λειτουργία</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
@@ -7558,7 +7571,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="382"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αλλαγή ομάδας...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
@@ -7578,7 +7591,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="492"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία Συντόμευσης</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
@@ -7593,7 +7606,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιβεβαίωση Διαγραφής</translation>
     </message>
     <message>
         <source>Launch the selected instance in offline mode.</source>
@@ -7702,7 +7715,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>Συνολικός χρόνος αναπαραγωγής: 0δ</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -7751,12 +7764,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="810"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωση ειδήσεων...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="820"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν υπάρχουν διαθέσιμα νέα.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="864"/>
@@ -7798,7 +7811,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγκατάσταση πακέτου τροποποιήσεων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
@@ -7817,7 +7830,7 @@ URL:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1135"/>
         <source>No instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Μηδέν στιγμιότυπα!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
@@ -7828,18 +7841,18 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα ομάδας</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισάγετε ένα νέο όνομα ομάδας.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή Ομάδας</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
