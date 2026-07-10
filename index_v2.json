@@ -618,6 +618,14 @@
             "fuzzy" : 1,
             "untranslated" : 0
         },
+        "rue" : {
+            "file" : "7242e7bbaa1a71d17a71ebf9629868b1ad50b2d7.class",
+            "sha1" : "7242e7bbaa1a71d17a71ebf9629868b1ad50b2d7",
+            "size" : 24,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 2381
+        },
         "sk" : {
             "file" : "f860feed9f503875c7d51075d431684313af8343.class",
             "sha1" : "f860feed9f503875c7d51075d431684313af8343",
