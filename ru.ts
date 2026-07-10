@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished">&amp;Сервис Pastebin</translation>
+        <translation>&amp;Сервис отправки логов</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -45,12 +45,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>Use Default</source>
-        <translation>Использовать по умолчанию</translation>
+        <translation>Использовать &quot;По умолчанию&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Примечание: возможно, вам потребуется изменить или очистить базовый URL-адрес после изменения типа сервиса публикации логов.</translation>
+        <translation>Примечание: возможно, вам потребуется изменить или очистить базовый URL-адрес после смены типа сервиса публикации логов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
@@ -6723,7 +6723,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="211"/>
         <source>Every </source>
-        <translation>Каждых </translation>
+        <translation>Каждые </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
