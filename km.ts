@@ -172,7 +172,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ចំណាំ៖ អ្នកគ្រាន់តែត្រូវការកំណត់វា ដើម្បីចូលប្រើទិន្នន័យឯកជនប៉ុណ្ណោះ។ សូមអាន&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;ឯកសារ&lt;/a&gt;សម្រាប់ព័ត៌មានបន្ថែម។&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ចំណាំ៖ អ្នកគ្រាន់តែត្រូវការ កំណត់វាដើម្បីចូលប្រើទិន្នន័យឯកជនប៉ុណ្ណោះ។ សូមអាន &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;ឯកសារ&lt;/a&gt; សម្រាប់ព័ត៌មានបន្ថែម។&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
