@@ -5987,7 +5987,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="491"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>זה יכול לגרום לשלב להשחת וצריך להיות משומש רק אם החלון מיינקרפט קפא</translation>
+        <translation>פעולה זו עלולה לקלקל את תצורת העותק ויש להשתמש בה אך ורק אם חלון המשחק של Minecraft קפא מסיבה מסוימת</translation>
     </message>
 </context>
 <context>
@@ -6843,7 +6843,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="57"/>
         <source>Wrap lines</source>
-        <translation type="unfinished">גלישת שורות</translation>
+        <translation>גלישת שורות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
@@ -9164,7 +9164,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished">שם קובץ</translation>
+        <translation>שם קובץ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
