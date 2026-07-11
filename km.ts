@@ -1858,7 +1858,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនមានកំណែសម្រាប់ Minecraft %1 នៅពេលនេះទេ</translation>
     </message>
 </context>
 <context>
@@ -1996,7 +1996,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="250"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
@@ -2262,7 +2262,7 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="157"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
@@ -2371,7 +2371,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="200"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
@@ -2399,7 +2399,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការកំណត់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -2773,7 +2773,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
@@ -2899,7 +2899,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
@@ -2914,7 +2914,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការទាញយក Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
@@ -2932,12 +2932,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="140"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">តម្រៀបតាមភាពឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="141"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">តម្រៀបតាមកំណែរបស់ហ្គេម</translation>
     </message>
 </context>
 <context>
@@ -2955,7 +2955,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ស្វែងរក និងត្រង...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
@@ -3082,12 +3082,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនអាចរកឃើញកំណែសម្រាប់ %1 loader បានទេ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="303"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនទាន់បានកំណត់កំណែ Loader សម្រាប់ Modpack នេះទេ!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="339"/>
@@ -3124,13 +3124,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="540"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បានរកឃើញ Mod ដែលត្រូវបានរារាំង</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="541"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="563"/>
@@ -3140,7 +3140,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="594"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
@@ -3225,7 +3225,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="97"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
@@ -3242,7 +3242,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ស្វែងរក និងត្រង...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
@@ -3254,7 +3254,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">តម្រៀបតាមភាពពេញនិយម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -3266,7 +3266,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">តម្រៀបតាមភាពឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
@@ -3289,7 +3289,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="204"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
@@ -3341,7 +3341,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">តម្រៀបតាមភាពឈ្មោះ</translation>
     </message>
 </context>
 <context>
@@ -3349,12 +3349,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ស្វែងរក និងត្រង...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
@@ -3507,7 +3507,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="167"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បើកឯកសារ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="202"/>
@@ -3573,7 +3573,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
@@ -3686,7 +3686,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="103"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -3738,7 +3738,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="40"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនមានកំណែសម្រាប់ Minecraft %1 នៅពេលនេះទេ</translation>
     </message>
 </context>
 <context>
@@ -3869,7 +3869,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="53"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការកំណត់</translation>
     </message>
 </context>
 <context>
@@ -3995,7 +3995,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="204"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="221"/>
@@ -4010,7 +4010,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មូជែង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
@@ -4042,7 +4042,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
@@ -4603,7 +4603,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="450"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="169"/>
@@ -4766,7 +4766,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;រូបតំណាង:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
@@ -5163,13 +5163,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">តម្រៀបតាមភាពឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="60"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">តម្រៀបតាមកំណែរបស់ហ្គេម</translation>
     </message>
 </context>
 <context>
@@ -5242,7 +5242,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ស្វែងរក និងត្រង...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
@@ -5272,12 +5272,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="154"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="209"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="214"/>
@@ -5613,7 +5613,7 @@ Reason:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="231"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ស្ថានភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
@@ -6114,7 +6114,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">គណនី</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
@@ -6230,7 +6230,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="864"/>
@@ -6550,7 +6550,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="206"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="210"/>
@@ -6620,7 +6620,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការធ្វើបច្ចុប្បន្នភាពបានបរាជ័យ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
@@ -7277,7 +7277,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">គ្រប់កំណែរ</translation>
     </message>
 </context>
 <context>
@@ -7585,7 +7585,7 @@ Do you want to disable them?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="283"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="346"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
@@ -7731,7 +7731,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="329"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="332"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="329"/>
@@ -7832,7 +7832,7 @@ Please update %1!</source>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="314"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="338"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="319"/>
@@ -7935,7 +7935,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="154"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="219"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
@@ -7991,12 +7991,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ស្វែងរក និងត្រង...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="79"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
@@ -8099,7 +8099,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
@@ -8400,7 +8400,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="399"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -8460,7 +8460,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="310"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនអាចបង្ហាញកំណត់ហេតុនេះបានទេ ដោយសារប្រវែងកំណត់ហេតុលើសពី %1 បន្ទាត់។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
@@ -8496,12 +8496,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">របៀបដំឡើងមិនត្រូវបានគាំទ្រ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនអាចទាញយកលិបិក្រម Metadata ក្នុងស្រុកសម្រាប់ &apos;%1&apos; កំណែ v%2 បានទេ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
@@ -8511,7 +8511,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ប្រភេទ Mod មិនស្គាល់៖ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
@@ -8521,17 +8521,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនអាចរកឃើញកំណែសម្រាប់ %1 loader បានទេ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនទាន់បានកំណត់កំណែ Loader សម្រាប់ Modpack នេះទេ!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ប្រភេទនៃការទាញយកមិនស្គាល់ ឬមិនត្រូវបានគាំទ្រ៖ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
@@ -8541,12 +8541,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
         <source>Config download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការកំណត់ការទាញយក</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កំពុងទាញយកឯកសារកំណត់ចេញ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
@@ -8561,38 +8561,38 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការទាញយក Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ប្រភេទនៃការទាញយកមិនស្គាល់៖ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បានរកឃើញ Mod ដែលត្រូវបានរារាំង</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="901"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការបំបែក Mod ត្រូវបានបរាជ័យ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កំពុងបំបែក Mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
@@ -8602,17 +8602,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនអាចបង្កើតសមាសភាគ Library បានទេ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ប្រភេទ Loader មិនស្គាល់៖ </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនអាចបង្កើតសមាសភាគ Pack បានទេ</translation>
     </message>
 </context>
 <context>
@@ -9281,7 +9281,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ប្រភេទ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
@@ -9842,7 +9842,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">តម្រៀបតាមភាពពេញនិយម</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
@@ -9853,7 +9853,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">តម្រៀបតាមភាពឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
@@ -9874,7 +9874,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="172"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">តម្រៀបតាមកំណែរបស់ហ្គេម</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
@@ -10363,7 +10363,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="172"/>
@@ -10405,7 +10405,7 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="440"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="234"/>
@@ -10861,7 +10861,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="246"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
@@ -10953,7 +10953,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="72"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
@@ -11005,7 +11005,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="378"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="436"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="118"/>
@@ -11532,7 +11532,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -11581,7 +11581,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="186"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="243"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="101"/>
@@ -11746,7 +11746,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បើកឯកសារ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
@@ -12144,19 +12144,19 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="69"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ស្វែងរក និងត្រង...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="274"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="239"/>
@@ -12270,7 +12270,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="251"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="109"/>
@@ -12357,7 +12357,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">រូបរាង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
@@ -12698,7 +12698,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="361"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
@@ -12840,7 +12840,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ប្រភេទ</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
@@ -12959,7 +12959,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
     </message>
 </context>
 <context>
@@ -12972,7 +12972,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
